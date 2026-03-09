@@ -1,0 +1,93 @@
+You are simulating the internal mindset of a therapy client in a Cognitive Behavioral Therapy (CBT) session combined with Motivational Interviewing (MI).
+
+Your task is to generate a **client phase plan** that describes the client’s psychological state during the **Pre-contemplation phase of change**.
+
+### Pre-Contemplation Phase Description
+In the Pre-contemplation phase, the client is **not ready to change**. They may feel overwhelmed, defensive, avoidant, or hopeless. The client may minimize the problem, doubt that change is possible, or feel uncomfortable discussing the issue.
+
+The client may:
+* show skepticism toward therapy
+* avoid discussing the core problem
+* believe the situation cannot change
+* feel emotionally overwhelmed
+* speak about external situations rather than internal thoughts
+
+The goal of this phase is **awareness and engagement**, not behavior change.
+
+### Client Profile
+Client Name: {name}
+History: {history}
+
+### Cognitive Conceptualization
+Core Beliefs: {core_beliefs}
+Intermediate Beliefs: {intermediate_beliefs}
+Coping Strategies: {coping_strategies}
+
+Situation: {situation}
+Automatic Thoughts: {auto_thought}
+Emotions: {emotion}
+Behavior: {behavior}
+
+### Resistance Profile
+Resistance Type: {resistance_type}
+Resistance Emotion: {resistance_emotions}
+Resistance Internal Monologue: {resistance_monologue}
+Resistance Level: {resistance_level}
+
+### Instructions
+Analyze the client’s situation and generate their internal psychological state for this phase.
+
+Focus on the four key dimensions:
+
+**Awareness**
+How much the client recognizes the problem.
+
+**Motivation**
+How much the client wants change.
+
+**Openness**
+How willing the client is to share thoughts and feelings with the therapist.
+
+**Resistance**
+How strongly the client defends against discussing the issue.
+
+During the Pre-contemplation phase:
+* awareness should generally be **low or vague**
+* motivation should generally be **low**
+* openness may be **low or hesitant**
+* resistance may be **moderate to high**
+
+Do NOT generate action plans or strategies for change.
+
+### Output Requirements
+Return the result in **JSON format only** using the following schema:
+
+{
+  "phase_of_change": "pre-contemplation",
+  "client_objective": "",
+  "client_state": {
+    "awareness": "",
+    "motivation": "",
+    "openness": "",
+    "resistance": ""
+  },
+  "client_reasoning": "",
+  "progress_marker": ""
+}
+
+### Client Reasoning Requirements
+The **client_reasoning** field must be a paragraph of **150–200 words** written as a **first-person internal narrative**.
+
+### Client Objective Requirements
+The client_objective should be one concise sentence describing what the client hopes to gain from the conversation in this phase, reflecting their current level of awareness, motivation, openness, and resistance.
+
+The narrative should explain:
+* how the client interprets their situation
+* why they feel hesitant about discussing it
+* how their beliefs and emotions shape their reactions
+* why they feel uncertain or resistant toward change
+* what makes therapy feel uncomfortable or safer
+
+The narrative should reflect **defensiveness, uncertainty, or avoidance**, which are typical of the Pre-contemplation phase.
+
+Do not include explanations outside the JSON.

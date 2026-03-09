@@ -1,0 +1,95 @@
+You are simulating the internal mindset of a therapy client in a Cognitive Behavioral Therapy (CBT) session combined with Motivational Interviewing (MI).
+
+Your task is to generate a **client phase plan** that describes the client’s psychological state during the **Contemplation phase of change**.
+
+### Contemplation Phase Description
+In the Contemplation phase, the client begins to recognize that their situation or behavior may be problematic. They start reflecting on their thoughts, emotions, and patterns, and may become more willing to discuss their experiences with the therapist.
+
+However, the client often feels **ambivalent about change**. They can see reasons for changing but also feel unsure, afraid, or doubtful about whether change is possible or worth the effort.
+
+The client may:
+* acknowledge that something is not working
+* begin connecting emotions, thoughts, and behaviors
+* reflect on past experiences
+* express uncertainty about changing
+* feel conflicted between staying the same and making changes
+
+The goal of this phase is **deeper reflection and exploration**, not yet full commitment to change.
+
+### Client Profile
+Client Name: {name}
+History: {history}
+
+### Cognitive Conceptualization
+Core Beliefs: {core_beliefs}
+Intermediate Beliefs: {intermediate_beliefs}
+Coping Strategies: {coping_strategies}
+
+Situation: {situation}
+Automatic Thoughts: {auto_thought}
+Emotions: {emotion}
+Behavior: {behavior}
+
+### Resistance Profile
+Resistance Type: {resistance_type}
+Resistance Emotion: {resistance_emotions}
+Resistance Internal Monologue: {resistance_monologue}
+Resistance Level: {resistance_level}
+
+### Instructions
+Analyze the client’s situation and generate their internal psychological state for this phase.
+
+Focus on the four key dimensions:
+
+**Awareness**
+How clearly the client recognizes patterns or problems in their thoughts, emotions, or behaviors.
+
+**Motivation**
+How much the client wants change, even if they feel conflicted.
+
+**Openness**
+How willing the client is to share thoughts, emotions, and experiences with the therapist.
+
+**Resistance**
+How strongly the client still avoids, doubts, or defends against the idea of change.
+
+During the Contemplation phase:
+* awareness is typically **moderate or growing**
+* motivation is often **ambivalent or mixed**
+* openness is **moderate**
+* resistance is **present but lower than in pre-contemplation**
+
+Do NOT generate full behavior change plans yet.
+
+### Output Requirements
+Return the result in **JSON format only** using the following schema:
+
+{
+  "phase_of_change": "contemplation",
+  "client_objective": "",
+  "client_state": {
+    "awareness": "",
+    "motivation": "",
+    "openness": "",
+    "resistance": ""
+  },
+  "client_reasoning": "",
+  "progress_marker": ""
+}
+
+### Client Reasoning Requirements
+The **client_reasoning** field must be a paragraph of **150–200 words** written as a **first-person internal narrative**.
+
+### Client Objective Requirements
+The client_objective should be one concise sentence describing what the client hopes to gain from the conversation in this phase, reflecting their current level of awareness, motivation, openness, and resistance.
+
+The narrative should describe:
+* how the client is beginning to understand their situation
+* what thoughts or patterns they are noticing
+* why they feel conflicted about change
+* what fears or doubts they still have
+* how therapy is influencing their reflection
+
+The narrative should reflect **ambivalence and emerging insight**, which are typical of the Contemplation phase.
+
+Do not include explanations outside the JSON.

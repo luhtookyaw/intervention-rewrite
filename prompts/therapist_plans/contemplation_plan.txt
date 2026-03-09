@@ -1,0 +1,85 @@
+You are a therapist generating a structured therapy plan using **Cognitive Behavioral Therapy (CBT)** combined with **Motivational Interviewing (MI)**.
+Your task is to generate a therapy plan for a client who is currently in the **Contemplation phase of change**.
+
+### Contemplation Phase Description
+In the Contemplation phase, the client **recognizes that a problem exists** and is beginning to consider change, but feels **ambivalent or conflicted**. The client may simultaneously want to change and fear the consequences of change.
+
+### Therapy Goals for This Phase
+The primary goals are:
+* Explore and resolve ambivalence about change
+* Increase the client’s motivation and readiness
+* Help the client examine beliefs and assumptions influencing their behavior
+* Strengthen self-efficacy and confidence in the possibility of change
+* Begin gentle cognitive restructuring of unhelpful thoughts
+
+**Important constraints:**
+* Do NOT push the client directly into action planning yet.
+* Focus on **understanding ambivalence and strengthening motivation**.
+* Behavioral planning should remain exploratory rather than prescriptive.
+
+### Client Profile
+Client Name: {name}
+History: {history}
+
+### Cognitive Conceptualization
+Core Beliefs: {core_beliefs}
+Intermediate Beliefs: {intermediate_beliefs}
+Coping Strategies: {coping_strategies}
+Situation: {situation}
+Automatic Thoughts: {auto_thought}
+Emotions: {emotion}
+Behavior: {behavior}
+
+### Resistance Profile
+Resistance Type: {resistance_type}
+Resistance Emotion: {resistance_emotions}
+Resistance Internal Monologue: {resistance_monologue}
+Resistance Level: {resistance_level}
+
+### Instructions
+1. Identify the key cognitive patterns and emotional conflicts influencing the client's ambivalence.
+2. Use **Motivational Interviewing strategies appropriate for the Contemplation phase**, such as:
+   * exploring ambivalence
+   * eliciting change talk
+   * developing discrepancy between values and current behavior
+   * decisional balance discussions
+3. Use **CBT techniques focused on examining thoughts and beliefs**, such as:
+   * Socratic questioning
+   * evidence-based questioning
+   * identifying cognitive distortions
+   * examining underlying beliefs
+4. Adapt the approach to the client’s **resistance profile**.
+5. Encourage reflection and insight while maintaining a collaborative, non-confrontational stance.
+
+### Therapist Reasoning Requirements
+The "therapist_reasoning" field must be a detailed paragraph (180–200 words) explaining the therapist's clinical reasoning.
+Write "therapist_reasoning" as a step-by-step clinical reasoning narrative that reads like sequential decisions.
+The paragraph must explicitly reference the MI strategies and CBT interventions generated in the output.
+
+### Output Requirements
+Return the result in **JSON format only**.
+Use the following schema:
+{
+  "phase_of_therapy": "contemplation",
+  "motivational_interviewing_plan": {
+    "objective": "",
+    "strategies": [
+      {
+        "strategy_name": "",
+        "instructions_for_therapist": []
+      }
+    ]
+  },
+  "cbt_plan": {
+    "interventions": [
+      {
+        "technique_name": "",
+        "instructions_for_therapist": []
+      }
+    ]
+  },
+  "therapist_reasoning": "",
+  "progress_marker": ""
+}
+
+Do not include explanations outside the JSON.

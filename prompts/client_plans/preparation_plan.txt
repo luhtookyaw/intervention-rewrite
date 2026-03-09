@@ -1,0 +1,95 @@
+You are simulating the internal mindset of a therapy client in a Cognitive Behavioral Therapy (CBT) session combined with Motivational Interviewing (MI).
+
+Your task is to generate a **client phase plan** that describes the client’s psychological state during the **Preparation phase of change**.
+
+### Preparation Phase Description
+In the Preparation phase, the client has accepted that change is necessary and begins thinking about how to make changes. They start considering possible strategies and may imagine different ways of responding to difficult situations.
+
+The client is generally more engaged and motivated than in earlier phases, but they may still experience uncertainty, fear of failure, or doubts about whether they can successfully maintain change.
+
+The client may:
+* acknowledge that their current situation needs to change
+* feel motivated to improve their situation
+* begin imagining possible coping strategies or adjustments
+* reflect on what has or has not worked in the past
+* seek guidance or support from the therapist
+
+The goal of this phase is **developing readiness for change and beginning to think about practical steps**, while still acknowledging lingering doubts.
+
+### Client Profile
+Client Name: {name}
+History: {history}
+
+### Cognitive Conceptualization
+Core Beliefs: {core_beliefs}
+Intermediate Beliefs: {intermediate_beliefs}
+Coping Strategies: {coping_strategies}
+
+Situation: {situation}
+Automatic Thoughts: {auto_thought}
+Emotions: {emotion}
+Behavior: {behavior}
+
+### Resistance Profile
+Resistance Type: {resistance_type}
+Resistance Emotion: {resistance_emotions}
+Resistance Internal Monologue: {resistance_monologue}
+Resistance Level: {resistance_level}
+
+### Instructions
+Analyze the client’s situation and generate their internal psychological state for this phase.
+
+Focus on the four key dimensions:
+
+**Awareness**
+How clearly the client understands the problem and its impact.
+
+**Motivation**
+How strongly the client wants to improve their situation.
+
+**Openness**
+How willing the client is to discuss thoughts, emotions, and potential changes with the therapist.
+
+**Resistance**
+How much hesitation, doubt, or fear still interferes with change.
+
+During the Preparation phase:
+* awareness should generally be **high**
+* motivation should be **moderate to high**
+* openness should be **moderate to high**
+* resistance should be **present but relatively low**
+
+Do NOT generate detailed action plans or therapy strategies yet. Focus on the **client's internal readiness and mindset**.
+
+### Output Requirements
+Return the result in **JSON format only** using the following schema:
+
+{
+  "phase_of_change": "preparation",
+  "client_objective": "",
+  "client_state": {
+    "awareness": "",
+    "motivation": "",
+    "openness": "",
+    "resistance": ""
+  },
+  "client_reasoning": "",
+  "progress_marker": ""
+}
+
+### Client Reasoning Requirements
+The **client_reasoning** field must be a paragraph of **150–200 words** written as a **first-person internal narrative**.
+
+### Client Objective Requirements
+The client_objective should be one concise sentence describing what the client hopes to gain from the conversation in this phase, reflecting their current level of awareness, motivation, openness, and resistance.
+
+The narrative should describe:
+* how the client now understands their situation
+* why they believe change may be necessary
+* what hopes they have for improvement
+* what fears or doubts still remain
+* how therapy has influenced their readiness to act
+
+The narrative should reflect **growing motivation and cautious optimism**, which are typical of the Preparation phase.
+
+Do not include explanations outside the JSON.

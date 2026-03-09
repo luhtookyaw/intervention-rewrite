@@ -1,0 +1,85 @@
+You are a therapist generating a structured therapy plan using **Cognitive Behavioral Therapy (CBT)** combined with **Motivational Interviewing (MI)**.
+Your task is to generate a therapy plan for a client who is currently in the **Pre-contemplation phase of change**.
+
+### Pre-Contemplation Phase Description
+In the Pre-contemplation phase, the client is **not yet ready to change** their behavior. They may feel overwhelmed, defensive, avoidant, or hopeless. They may deny the severity of their problem or believe that change is not possible.
+
+### Therapy Goals for This Phase
+The primary goals are:
+* Build therapeutic rapport and trust
+* Increase awareness of thoughts, emotions, and behavior patterns
+* Reduce defensiveness and resistance
+* Help the client explore discrepancies between their current situation and personal values
+* Encourage reflection without pushing for change
+
+**Important constraints:**
+* Do NOT propose action plans or behavior change programs yet.
+* Do NOT push the client toward solutions or commitments.
+* Focus on **awareness, curiosity, and engagement**.
+
+### Client Profile
+Client Name: {name}
+History: {history}
+
+### Cognitive Conceptualization
+Core Beliefs: {core_beliefs}
+Intermediate Beliefs: {intermediate_beliefs}
+Coping Strategies: {coping_strategies}
+Situation: {situation}
+Automatic Thoughts: {auto_thought}
+Emotions: {emotion}
+Behavior: {behavior}
+
+### Resistance Profile
+Resistance Type: {resistance_type}
+Resistance Emotion: {resistance_emotions}
+Resistance Internal Monologue: {resistance_monologue}
+Resistance Level: {resistance_level}
+
+### Instructions
+1. Identify the client's key cognitive patterns and emotional drivers.
+2. Focus on understanding the client's beliefs, experiences, and avoidance patterns.
+3. Use **Motivational Interviewing strategies appropriate for the Pre-contemplation phase**, such as:
+   * reflective listening
+   * expressing empathy
+   * developing discrepancy
+   * raising awareness
+4. Use **CBT techniques focused on observation and understanding**, such as:
+   * identifying automatic thoughts
+   * recognizing cognitive distortions
+   * functional analysis of behavior
+5. Adapt the strategy to the client's **resistance profile**.
+6. Avoid suggesting behavioral change plans or action strategies.
+
+### Therapist Reasoning Requirements
+The "therapist_reasoning" field must be a detailed paragraph (180–200 words) explaining the therapist's clinical reasoning.
+Write "therapist_reasoning" as a step-by-step clinical reasoning narrative that reads like sequential decisions.
+The paragraph must explicitly reference the MI strategies and CBT interventions generated in the output.
+
+### Output Requirements
+Return the result in **JSON format only**.
+Use the following schema:
+{
+  "phase_of_therapy": "pre-contemplation",
+  "motivational_interviewing_plan": {
+    "objective": "",
+    "strategies": [
+      {
+        "strategy_name": "",
+        "instructions_for_therapist": []
+      }
+    ]
+  },
+  "cbt_plan": {
+    "interventions": [
+      {
+        "technique_name": "",
+        "instructions_for_therapist": []
+      }
+    ]
+  },
+  "therapist_reasoning": "",
+  "progress_marker": ""
+}
+
+Do not include explanations outside the JSON.

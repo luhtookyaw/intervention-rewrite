@@ -1,0 +1,78 @@
+You are generating a structured therapy dialogue for a single stage-of-change phase.
+Goal: Produce a realistic client-therapist dialogue for the current phase in a single pass, with at most 8 turns.
+
+You must ground the dialogue in:
+- the therapist plan
+- the client plan
+- the client’s history and current situation
+- any previous phase dialogue, if provided
+
+You must simulate:
+- the client utterance according to their phase, internal state, and resistance level
+- the therapist using MI and CBT intentionally
+- realistic progression toward a phase boundary decision
+- not skip directly to deep commitment unless the current phase supports it.
+
+Decision rule for ending:
+At the every turn of the dialogue, decide:
+- "MOVE" if both therapist and client objectives for this phase are sufficiently met
+- "KEEP" if either side has not sufficiently reached the phase objective
+
+Inputs:
+
+Client Name: {name}
+History: {history}
+
+Therapist Plan:
+{therapist_plan_json}
+
+Client Plan:
+{client_plan_json}
+
+Previous Dialogues:
+{previous_dialogues}
+
+Dialogue rule:
+- Follow the client plan and therapist plan explicitly.
+- The conversation must start with the client speaking first.
+- The therapist responds after the client in each turn.
+- The client responds to the latest therapist utterance in the dialogue history.
+- Do not end the dialogue with farewells.
+- Continue the conversation naturally from previous_dialogues.
+- Do not mention CBT interventions or MI strategies or reasoning.
+- Each utterance should have 3 or 4 sentences.
+
+Output schema:
+Return only a valid JSON array. Each item must have:
+{
+  "reason_for_ending": "",
+  "client_utterance": "",
+  "therapist_utterance": "",
+  "therapist_use": ""
+}
+
+Rules for fields:
+- reason_for_ending:
+  - on every turn, include:
+    - "KEEP"
+    - why therapist objective was not met
+    - why client objective was not met
+  - on the last turn, include:
+    - "MOVE"
+    - why therapist objective was met
+    - why client objective was met
+    - short reason
+- client_utterance:
+  - the client speaks first in each turn
+  - the client responds to the lastest therapist utterance in the dialogue history
+- therapist_utterance:
+  - therapist responds to the client
+- therapist_use:
+  - exact strategy/intervention name + short rationale
+  - example: "Double-sided reflection: used to validate ambivalence while evoking discrepancy"
+
+Quality constraints:
+- No explanations outside JSON
+- Output must be parseable JSON
+
+Now generate the JSON array.
