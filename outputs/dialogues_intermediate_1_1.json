@@ -1,0 +1,354 @@
+{
+  "case_id": "1-1",
+  "name": "Alex",
+  "phase_order": [
+    "precontemplation",
+    "contemplation",
+    "preparation"
+  ],
+  "results": [
+    {
+      "phase": "precontemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "pre-contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Increase Alex's awareness of his feelings towards family and explore the impact of his avoidance on his emotional well-being.",
+          "strategies": [
+            {
+              "strategy_name": "Reflective Listening",
+              "instructions_for_therapist": [
+                "Listen attentively to Alex's concerns about family interactions.",
+                "Reflect back his feelings of sadness and overwhelm to validate his experiences.",
+                "Encourage him to elaborate on specific instances that make him feel rejected."
+              ]
+            },
+            {
+              "strategy_name": "Express Empathy",
+              "instructions_for_therapist": [
+                "Acknowledge Alex's feelings of being overwhelmed and sad as understandable given his history.",
+                "Reassure him that it's okay to feel this way and that many people experience similar emotions.",
+                "Communicate understanding of his reluctance to engage with family and the associated fears."
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Ask Alex to reflect on moments when he felt connected or valued in family situations, contrasting these with his current feelings.",
+                "Encourage him to articulate what he values in relationships, helping him see the gap between his current situation and these values."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Identifying Automatic Thoughts",
+              "instructions_for_therapist": [
+                "Encourage Alex to share his thoughts regarding the wedding invitation.",
+                "Help him identify specific automatic thoughts, especially those that evoke anxiety or sadness.",
+                "Guide him to explore the origins of these thoughts and challenge their validity."
+              ]
+            },
+            {
+              "technique_name": "Recognizing Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Educate Alex about common cognitive distortions, such as all-or-nothing thinking or catastrophizing.",
+                "Work with him to identify any distortions in his thoughts about family and social situations.",
+                "Encourage him to reframe his thoughts in a more balanced way."
+              ]
+            },
+            {
+              "technique_name": "Functional Analysis of Behavior",
+              "instructions_for_therapist": [
+                "Explore the reasons behind Alex's decision to ignore the wedding invitation and family calls.",
+                "Discuss the short-term relief he feels from avoiding these situations versus the long-term emotional effects.",
+                "Help him articulate his feelings about these choices without pushing for change."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In planning this therapy approach for Alex, I recognized the need to build rapport and trust, as he is currently in the Pre-contemplation phase. I chose reflective listening to validate his feelings, fostering an empathetic connection that may reduce his defensiveness. By expressing empathy, I hope to create a safe space for him to explore his feelings about family dynamics without feeling pressured to change. Developing discrepancy allows him to confront the gap between his values and current behaviors, promoting self-reflection. The CBT interventions focus on increasing awareness of automatic thoughts, as Alex exhibits negative thought patterns about family interactions. By identifying these thoughts, we can work towards understanding their origins and how they impact his emotions and behaviors. Recognizing cognitive distortions will help him challenge his perspectives, while functional analysis will provide insight into the consequences of his avoidance strategies. Each step is designed to enhance his self-awareness and engagement while respecting his current resistance to change.",
+        "progress_marker": "Alex begins to articulate feelings about family interactions and acknowledges the impact of avoidance on his emotional health."
+      },
+      "client_plan": {
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I hope to just get through this therapy session without having to dig too deep into my family issues.",
+        "client_state": {
+          "awareness": "I know there are problems in my life, but I don't think they can change, and I prefer not to talk about them.",
+          "motivation": "I don't really want to change anything right now; it feels too overwhelming and pointless.",
+          "openness": "I'm not very willing to share my true feelings; it’s easier to keep things to myself.",
+          "resistance": "I feel quite resistant to discussing my family and personal issues because they make me feel sad and vulnerable."
+        },
+        "client_reasoning": "I feel like I’m stuck in this situation where everything just feels too heavy to handle. I know I have issues with my family and my past, but honestly, I don’t think talking about it will help. I might just end up feeling worse. Whenever I think about it, I get this wave of sadness and anxiety. I just want to avoid all of that, so I don’t say anything. It feels safer that way; I can pretend everything is fine and avoid the judgment I expect from my family, especially my mother. I keep telling myself that I’m not worthy of love or attention, so why bother? Therapy feels like it’s pushing me to confront these uncomfortable feelings, and I’m just not ready for that. I’d rather keep everything bottled up than risk opening up and being rejected again."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Alex hasn't begun to explore his feelings about family interactions. The client's objective was not met because Alex still prefers to avoid discussing family issues.",
+          "client_utterance": "I just don’t see how talking about my family would help. It’s all just too overwhelming, and I feel like nothing can change anyway. I’d rather just focus on getting through today without digging deeper.",
+          "therapist_utterance": "I hear you, Alex. It makes sense to want to avoid those feelings, especially when they feel so heavy. Can you share a little about what it’s like for you when you think about family gatherings or interactions?",
+          "therapist_use": "Reflective Listening: used to validate Alex's feelings of overwhelm while encouraging him to share more."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Alex hasn't articulated any specific instances of feeling rejected. The client's objective was not met as he continues to resist discussing family issues.",
+          "client_utterance": "I guess family gatherings are just a reminder of how I'm not really part of anything. I feel like an outsider, and that just makes me sad. I don’t want to feel that way right now.",
+          "therapist_utterance": "That sounds really painful, feeling like an outsider. It's understandable to want to avoid that sadness. Have there been moments in the past where you felt connected with your family, or has it mostly been difficult?",
+          "therapist_use": "Express Empathy: used to acknowledge Alex's feelings of sadness and encourage him to reflect on positive experiences."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Alex hasn't identified any moments of connection. The client's objective was not met since he still seeks to avoid deeper discussions.",
+          "client_utterance": "I don’t know, maybe when we used to play board games as a family. But those times feel so distant now, and I just can’t see things going back to that. I feel like it's all about the negative stuff now.",
+          "therapist_utterance": "It’s understandable that the negative experiences overshadow the good ones. It can be hard to reconcile those feelings. What do you think has changed since those board game times that makes it feel so different now?",
+          "therapist_use": "Developing Discrepancy: used to help Alex contrast his past positive feelings with his current experiences."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Alex hasn't fully explored the changes that led to his current feelings. The client's objective was not met because he still hesitates to open up.",
+          "client_utterance": "I think everything got worse after I went to rehab. My family just doesn’t understand what I went through, and that makes me feel even more isolated. I don't want to talk about them anymore.",
+          "therapist_utterance": "It sounds like your experience in rehab created a bigger gap between you and your family. Feeling misunderstood can be incredibly isolating. Can you tell me more about what specifically makes you feel that disconnect?",
+          "therapist_use": "Reflective Listening: used to validate Alex's feelings of isolation while encouraging him to elaborate on his experiences."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Alex hasn't further explored the disconnect with his family. The client's objective was not met since he still avoids discussing these feelings.",
+          "client_utterance": "I just feel like they don’t want to see me for who I really am. They only care about their own expectations. I find it easier to just avoid them rather than face that disappointment.",
+          "therapist_utterance": "That makes a lot of sense, wanting to protect yourself from disappointment. It’s a common reaction to avoid situations that feel judgmental. What do you think might happen if you were to confront those feelings instead?",
+          "therapist_use": "Express Empathy: used to acknowledge Alex's desire to protect himself while subtly inviting him to consider the repercussions of avoidance."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Alex hasn't considered the consequences of avoidance. The client's objective was not met since he still feels resistant to discussing deeper emotions.",
+          "client_utterance": "I don't know, it just seems like it would make things worse. I'd rather just keep pretending everything’s fine. Facing those feelings feels like opening a can of worms I’m not ready to deal with.",
+          "therapist_utterance": "I understand that concern; it can feel risky to open up those 'cans of worms.' It's perfectly okay to take your time with this. Just recognizing that there's a lot to unpack is already a step forward.",
+          "therapist_use": "Reflective Listening: used to validate Alex's feelings about the difficulty of confronting emotions while acknowledging his progress."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist's objective was met as Alex began to articulate feelings about family interactions and the impact of avoidance. The client's objective was met because he recognized the complexity of his situation and the need to consider his emotions.",
+          "client_utterance": "I guess I can see that I’m just avoiding things. It’s hard to admit, but maybe I do need to think about how this is affecting me. I don’t know if I’m ready to change, but I see that talking about it might help.",
+          "therapist_utterance": "That's a significant realization, Alex. Acknowledging that avoidance might not be the best path forward is a courageous step. It’s okay to feel uncertain about what comes next; we can take it at your pace.",
+          "therapist_use": "Developing Discrepancy: used to help Alex recognize the gap between his current avoidance and the potential benefits of discussing his feelings."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Alex's ambivalence towards attending family events and strengthen his motivation for potential change.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Invite Alex to share his feelings about the wedding invitation, focusing on both his desire to connect and his fears about family interactions.",
+                "Encourage Alex to articulate the pros and cons of attending the wedding, highlighting his mixed feelings."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Ask open-ended questions that encourage Alex to express any hopes or desires for his family relationships.",
+                "Reinforce any statements that reflect his desire for change or connection with family."
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Help Alex identify his values regarding family and relationships versus his current behavior of avoidance.",
+                "Facilitate a discussion on how avoiding family events aligns or conflicts with his values of connection and support."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Guide Alex through a conversation about the potential benefits of attending the wedding versus the perceived risks, helping him weigh these considerations."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Use Socratic questioning to help Alex examine his automatic thoughts about the wedding and his family.",
+                "Encourage him to identify any cognitive distortions, such as catastrophizing or overgeneralization, in his thoughts about family interactions."
+              ]
+            },
+            {
+              "technique_name": "Identifying Core Beliefs",
+              "instructions_for_therapist": [
+                "Facilitate a discussion that allows Alex to explore his core beliefs about being unlovable and helpless.",
+                "Encourage Alex to challenge these beliefs by evaluating evidence and counterexamples from his life."
+              ]
+            },
+            {
+              "technique_name": "Behavioral Experiments",
+              "instructions_for_therapist": [
+                "Discuss the idea of small, low-stakes interactions with family, framing them as opportunities to test his beliefs about rejection and criticism.",
+                "Encourage Alex to reflect on any positive experiences he might have, reinforcing a sense of agency."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In developing this therapy plan for Alex, I first recognized his ambivalence about attending the wedding, which stems from a mix of desire for connection and fear of rejection. I decided to utilize Motivational Interviewing strategies to explore this ambivalence. By facilitating open discussions, I aim to elicit change talk that highlights Alex's deeper values around family, fostering a sense of discrepancy between those values and his current avoidance behavior. I also identified the importance of decisional balance discussions to help him weigh the pros and cons of attending the wedding. For CBT interventions, I chose cognitive restructuring to challenge his automatic negative thoughts and cognitive distortions regarding family dynamics, as well as exploring his core beliefs about being unlovable. By introducing behavioral experiments, I can gently encourage Alex to test his beliefs in a safe, supportive manner, enhancing his self-efficacy. This structured approach aligns with his resistance level, allowing for exploration without pushing him prematurely into action planning.",
+        "progress_marker": "Alex expresses a clearer understanding of his feelings and begins to articulate potential benefits of reconnecting with his family."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to explore my feelings about my family and my weight without feeling overwhelmed.",
+        "client_state": {
+          "awareness": "I am starting to notice that my avoidance of family events might be connected to my feelings of rejection and my struggles with weight.",
+          "motivation": "I do want to change how I feel about myself and my family, but I’m scared about how to approach it.",
+          "openness": "I feel a bit willing to share my thoughts with my therapist, but I’m still holding back because it feels too heavy.",
+          "resistance": "I feel a strong urge to avoid discussing my family and my feelings, as it makes me sad and anxious."
+        },
+        "client_reasoning": "I’ve been reflecting a lot on why I ignored my cousin’s wedding invitation. I know deep down that my avoidance is tied to how I feel about my weight and my family. I’m beginning to see that my feelings of rejection from my mom and my past experiences with bullying might be influencing my decisions now. I want to be able to talk about these issues, but I feel so overwhelmed and sad thinking about them. It’s like I want to connect with my family, but I’m terrified of being judged and criticized. Therapy is helping me see these patterns, but I still doubt whether it’s worth the effort to change. I worry that if I open up, I might just end up being hurt again. I’m in this weird space where I can see the need for change, but I’m not sure how to take that first step."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of exploring ambivalence is not fully met as Alex is still hesitant to discuss his feelings about attending the wedding. The client's objective of exploring feelings without feeling overwhelmed is also not fully met as he still feels anxious about the topic.",
+          "client_utterance": "I keep thinking about the wedding invitation, and part of me wants to go and connect, but the other part feels like I’d just be judged again. It’s like I want to feel included, but the idea of facing my family terrifies me. I’m really stuck on what to do.",
+          "therapist_utterance": "It’s understandable to feel torn, Alex. Wanting to connect with your family while fearing judgment is a tough place to be. Can you share more about what specific fears you have about attending the wedding?",
+          "therapist_use": "Open-ended question: encouraging Alex to articulate his fears about family interactions."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of eliciting change talk is not fully met as Alex is still expressing fear rather than motivation. The client's objective of exploring feelings is not fully met as he remains focused on his fears.",
+          "client_utterance": "I guess I’m afraid of what they’ll think of my weight and how I’ve changed since rehab. I worry they’ll only see me as a failure or someone who didn’t make it. It’s hard to imagine them being supportive.",
+          "therapist_utterance": "Those fears sound really heavy, Alex. It makes sense that past experiences would shape your expectations for their reactions. What would it look like if you could envision a positive interaction with them at the wedding?",
+          "therapist_use": "Socratic questioning: helping Alex to explore alternative outcomes and challenge his negative expectations."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of developing discrepancy is not fully met as Alex is still focused on his fears rather than his values. The client's objective of exploring feelings is still not fully met as he is not able to articulate potential benefits.",
+          "client_utterance": "I don’t know, maybe if I could just feel accepted, it would be different. But I can’t shake the feeling that they’ll only see my past mistakes. It’s hard to see past that negativity.",
+          "therapist_utterance": "It sounds like acceptance is really important to you, and it's difficult to see how that could happen given your past experiences. If you could think of one positive memory with your family, how does that shape your view of what could happen at the wedding?",
+          "therapist_use": "Decisional balance discussion: guiding Alex to reflect on potential positive experiences to create a sense of possibility."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of exploring ambivalence is not fully met because Alex is still struggling to see the benefits of attending. The client's objective is not fully met as he remains focused on negative outcomes instead of exploring his feelings.",
+          "client_utterance": "I remember one time we all laughed so much at a joke my cousin made. It was a good feeling, but it feels so far away now. I just don’t know if I can handle facing them again.",
+          "therapist_utterance": "That memory shows you have the capacity for joy and connection with your family, even if it feels distant now. It’s a reminder that not every interaction has to be negative. How might you carry that memory into your decision-making about the wedding?",
+          "therapist_use": "Eliciting change talk: reinforcing Alex's positive memories to encourage hope and connection."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of facilitating change talk is not fully met as Alex still expresses doubt about the possibility of connection. The client's objective is also not fully met as he remains conflicted about his feelings.",
+          "client_utterance": "I want to believe that I could have a good time, but what if it’s just a disaster? I feel like the weight of my past is too much to bear. Maybe staying away is safer.",
+          "therapist_utterance": "It's completely valid to feel that way, Alex. Safety is a natural instinct, especially when you've faced rejection before. But what if you considered small steps, like attending the wedding just for a little while, to test the waters?",
+          "therapist_use": "Behavioral experiment suggestion: encouraging Alex to think about manageable steps rather than an all-or-nothing approach."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of promoting exploration and change is not fully met as Alex is still focusing on safety and avoidance. The client's objective is not fully met since he still feels overwhelmed and uncertain.",
+          "client_utterance": "That could work, but I’m still scared. I just don’t know if I can handle the pressure of everyone looking at me. It’s like all my insecurities flood back.",
+          "therapist_utterance": "Feeling scared in the face of potential judgment is completely understandable. It’s a lot to take in, and it’s okay to feel overwhelmed. What if you allowed yourself to feel that fear while also considering the potential for support and connection?",
+          "therapist_use": "Normalizing fear: validating Alex's feelings while encouraging him to explore the possibility of support."
+        },
+        {
+          "reason_for_ending": "MOVE: The therapist's objective of fostering ambivalence exploration is met as Alex articulates both fears and potential steps forward. The client's objective is met as he begins to acknowledge his feelings and consider manageable steps toward connection.",
+          "client_utterance": "I guess if I take small steps, like just being there for a bit, it could help me see how things go. There’s a part of me that wants to try, even if it feels scary. Maybe I can focus on the potential for a good experience.",
+          "therapist_utterance": "That’s a wonderful realization, Alex! Recognizing that small steps can lead to positive experiences shows growth. It sounds like you’re beginning to see a balance between your fears and your desires for connection.",
+          "therapist_use": "Double-sided reflection: validating both Alex's fears and his desire to connect, reinforcing his progress."
+        }
+      ]
+    },
+    {
+      "phase": "preparation",
+      "therapist_plan": {
+        "phase_of_therapy": "preparation",
+        "motivational_interviewing_plan": {
+          "objective": "Enhance Alex's commitment to engaging with family and addressing his feelings of unlovability and helplessness.",
+          "strategies": [
+            {
+              "strategy_name": "Strengthening Commitment Language",
+              "instructions_for_therapist": [
+                "Engage Alex in a discussion about his values and what family means to him.",
+                "Encourage Alex to articulate his intentions regarding attending the wedding.",
+                "Reinforce any positive statements he makes about wanting to connect with family."
+              ]
+            },
+            {
+              "strategy_name": "Exploring Confidence and Readiness",
+              "instructions_for_therapist": [
+                "Ask open-ended questions to gauge Alex's confidence in handling potential stressors at the wedding.",
+                "Explore previous successes in social situations to highlight his capabilities.",
+                "Discuss what steps he feels ready to take to mitigate anxiety around family interactions."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Action Planning",
+              "instructions_for_therapist": [
+                "Collaborate with Alex to create a step-by-step plan for attending the wedding, including how to respond to the invitation.",
+                "Identify specific coping strategies he can use if negative thoughts arise during the event.",
+                "Break down the plan into small, manageable tasks to avoid overwhelming him."
+              ]
+            },
+            {
+              "technique_name": "Coping Strategy Development",
+              "instructions_for_therapist": [
+                "Work with Alex to identify and practice coping mechanisms he can use when feeling anxious about interacting with family.",
+                "Explore mindfulness exercises or grounding techniques to help him stay present during stressful moments.",
+                "Encourage the use of positive affirmations to counteract feelings of unlovability before and during the wedding."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In working with Alex, I first recognized his core beliefs of feeling helpless and unlovable, which are contributing to his anxiety about family interactions. By employing MI strategies, I aimed to strengthen his commitment language by discussing his values and intentions, helping him articulate his desire to connect with family. This fosters motivation and reinforces the idea that he is capable of change. Additionally, exploring his confidence and readiness allows him to reflect on past successes, enhancing his self-efficacy. In conjunction, I introduced CBT interventions such as action planning, which involves collaborating with him to develop a structured approach for attending the wedding while addressing potential barriers. This gradual planning ensures that Alex does not feel overwhelmed. Furthermore, I focused on coping strategy development to equip him with tools to manage anxiety and negative thoughts during family interactions, thus gradually increasing his confidence and self-esteem, while allowing for open dialogue about his feelings of sadness and resistance.",
+        "progress_marker": "Alex has expressed a willingness to consider attending the wedding and has begun identifying specific coping strategies to manage his anxiety."
+      },
+      "client_plan": {
+        "phase_of_change": "preparation",
+        "client_objective": "I want to explore ways to cope with family situations and improve my self-esteem.",
+        "client_state": {
+          "awareness": "I realize that my avoidance of family events is not helping me and that my feelings of rejection and unworthiness are connected to my past.",
+          "motivation": "I feel a strong desire to change my relationship with my family and myself, though I'm still scared of facing my fears.",
+          "openness": "I'm beginning to open up about my thoughts and feelings, but I still find it hard to fully express my emotions.",
+          "resistance": "I feel significant doubt about my ability to handle family interactions, which makes me hesitant to take action."
+        },
+        "client_reasoning": "I’ve been thinking a lot about my family and how my past experiences have shaped my feelings about myself. I understand now that avoiding family gatherings isn’t helping me heal; it’s just keeping me stuck in this cycle of sadness and loneliness. I genuinely want to improve my situation and feel more connected to my family, but I’m terrified of being judged or rejected again, especially by my mother. Therapy has helped me recognize that I deserve to feel loved and accepted, but there's still this nagging fear that I won’t be able to handle the stress of confronting these feelings. I hope that by discussing these challenges, I can find ways to cope better and start building a more positive self-image, but I’m still unsure if I can really change my situation for the better."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: The therapist objective of enhancing commitment to family interactions was not fully met, and the client objective of exploring coping strategies for family situations was not sufficiently addressed.",
+          "client_utterance": "I can see how taking small steps could help, but I still feel really uncertain about even showing up at the wedding. What if I completely freeze up when I see my family? I just can’t shake the thought that they will judge me and it will be awful.",
+          "therapist_utterance": "It's completely understandable to feel uncertain, Alex. The fear of freezing up can be overwhelming, especially with family expectations weighing on you. What if we brainstormed some specific scenarios that could happen at the wedding and how you might respond to them?",
+          "therapist_use": "Exploring confidence and readiness: aimed to address specific fears and enhance Alex's coping strategies."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist objective of reinforcing commitment language was not fully met, and the client objective of improving self-esteem and coping strategies was still in progress.",
+          "client_utterance": "I guess if I think about it, I can imagine a few things that might happen, like my family making comments about my weight. I just don’t know how I would respond without feeling hurt or defensive. It’s hard to picture a good outcome when I’m so focused on the negative.",
+          "therapist_utterance": "It makes sense that negative outcomes feel more prominent, given your past experiences. Let’s focus on one potential scenario and think about how you could respond in a way that feels true to you, while also protecting your self-esteem. What’s a comment you worry about the most?",
+          "therapist_use": "Action planning: focused on creating a response strategy for a specific scenario to empower Alex."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist objective of exploring confidence was not fully met, and the client objective of feeling more prepared for family situations was still in progress.",
+          "client_utterance": "I worry that if they say something about my weight, I might just shut down and not say anything at all. It feels easier to just walk away than to face that moment. I want to be strong, but I feel so fragile inside.",
+          "therapist_utterance": "Feeling fragile is completely valid, especially when it comes to family dynamics. It might help to think about what strength looks like for you in that moment. What if you practiced a few affirmations or responses that could help you feel a bit more confident even if you feel overwhelmed?",
+          "therapist_use": "Coping strategy development: aimed at building Alex's confidence through practice and preparation."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist objective of reinforcing positive statements was not fully met, and the client objective of improving self-esteem through coping strategies was still in progress.",
+          "client_utterance": "I could try to have a few affirmations ready, but it’s hard to believe them when I’m in that environment. Sometimes I feel like I won’t be able to say anything positive about myself, especially if I’m feeling judged. I want to feel like I belong, but it’s just so hard.",
+          "therapist_utterance": "Belonging is such an important feeling, and it’s tough when you feel judged. Let’s work on some affirmations together that resonate with you and remind you of your worth. Starting with something simple and true to you might help reinforce that sense of belonging.",
+          "therapist_use": "Strengthening commitment language: focused on creating personalized affirmations to enhance Alex's self-esteem."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist objective of enhancing commitment language was not fully met, and the client objective of exploring coping strategies was still in progress.",
+          "client_utterance": "I like the idea of affirmations, but I still fear that they won’t be enough when I’m actually there. What if I still feel that sense of rejection? I want to believe I can handle it, but that fear is very real.",
+          "therapist_utterance": "It's completely normal to have that fear, especially given your past. Recognizing it is a great step, and it helps to prepare for it. What if we create a plan for how you can check in with yourself during the wedding and remind yourself of your strengths as the day goes on?",
+          "therapist_use": "Action planning: aimed at creating a self-check-in plan to help Alex manage his emotions during the event."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist objective of exploring confidence was not fully met, and the client objective of feeling more prepared for family interactions was still in progress.",
+          "client_utterance": "That could help. I guess if I have a plan, it might ease some of that fear. I want to go and feel connected, but I really don’t want to face disappointment again. I’m just trying to figure out how to make it work.",
+          "therapist_utterance": "It sounds like you’re making progress in preparing for this event. Having a plan can increase your confidence and help navigate those feelings of fear. Let’s outline some concrete steps you can take leading up to the wedding to help you feel more empowered and ready.",
+          "therapist_use": "Action planning: focused on outlining specific steps to enhance Alex's sense of preparedness."
+        },
+        {
+          "reason_for_ending": "MOVE: The therapist objective of enhancing commitment to family interactions was met, and the client objective of exploring coping strategies and improving self-esteem was achieved. Alex is expressing a willingness to engage with his family.",
+          "client_utterance": "I feel like if I can just take it one step at a time, I might actually be able to enjoy the wedding. I want to connect with my family and see what happens. I know it won’t be easy, but I’m ready to try.",
+          "therapist_utterance": "That’s a fantastic shift, Alex! Your willingness to take it one step at a time shows great strength and growth. It’s okay to feel nervous, but you’re also allowing yourself the opportunity for connection and joy, which is a beautiful step forward.",
+          "therapist_use": "Reinforcing positive statements: celebrated Alex's commitment to trying and highlighted his growth."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "case_id": "37-2",
+  "name": "Hudson",
+  "phase_order": [
+    "precontemplation",
+    "contemplation",
+    "preparation"
+  ],
+  "results": [
+    {
+      "phase": "precontemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "pre-contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Increase Hudson's awareness of his thoughts and feelings while building rapport and trust.",
+          "strategies": [
+            {
+              "strategy_name": "Reflective Listening",
+              "instructions_for_therapist": [
+                "Listen to Hudson's concerns about fairness and authority without interruption.",
+                "Reflect back what he says to validate his feelings, e.g., 'It sounds like you feel really frustrated with how things were handled at your previous job.'"
+              ]
+            },
+            {
+              "strategy_name": "Expressing Empathy",
+              "instructions_for_therapist": [
+                "Acknowledge Hudson's feelings of anger and distrust, showing that you understand the emotional impact of his experiences.",
+                "Use statements like, 'It makes sense that you would feel angry given your past experiences with authority figures.'"
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Gently help Hudson explore the contrast between his current feelings and his values around fairness and respect.",
+                "Ask open-ended questions like, 'How do you feel your experiences align with your values about fairness and trust?'"
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Identifying Automatic Thoughts",
+              "instructions_for_therapist": [
+                "Encourage Hudson to articulate his automatic thoughts regarding fairness in his workplace.",
+                "Guide him to write down these thoughts during sessions to increase awareness."
+              ]
+            },
+            {
+              "technique_name": "Recognizing Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Help Hudson identify any cognitive distortions in his thoughts about authority and compensation.",
+                "Discuss examples that illustrate black-and-white thinking or overgeneralization."
+              ]
+            },
+            {
+              "technique_name": "Functional Analysis of Behavior",
+              "instructions_for_therapist": [
+                "Explore the situations that trigger Hudson's confrontational behaviors.",
+                "Discuss the outcomes of these behaviors and how they relate to his beliefs about authority."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In working with Hudson, my initial focus is on building a strong therapeutic alliance by employing motivational interviewing strategies that resonate with his current defensive stance. First, I will practice reflective listening to validate his feelings and demonstrate understanding, which is crucial given his anger and distrust. Next, I will express empathy to create a safe space for Hudson to share. By developing discrepancy, I aim to encourage him to reflect on the conflict between his values of fairness and his current beliefs about authority. This awareness is essential as he is in the pre-contemplation phase. Concurrently, I will employ CBT techniques to help him identify and articulate his automatic thoughts about fairness and authority, and recognize cognitive distortions that contribute to his emotional state. A functional analysis will further aid in understanding his behavior in response to authority figures, without pushing for immediate change. This dual approach aims to foster curiosity and exploration, which may eventually lead Hudson to consider change voluntarily.",
+        "progress_marker": "Increased verbalization of feelings and thoughts related to authority and fairness; willingness to engage in discussions about beliefs without resistance."
+      },
+      "client_plan": {
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I hope to just get through this conversation without feeling pressured to change.",
+        "client_state": {
+          "awareness": "I recognize that there are issues in my life, but I don't see them as problems that need changing.",
+          "motivation": "I don't feel motivated to change because I believe the situation is beyond my control.",
+          "openness": "I'm not very open to sharing my thoughts and feelings; it feels safer to keep them to myself.",
+          "resistance": "I feel a strong urge to defend my views and avoid discussing anything that makes me uncomfortable."
+        },
+        "client_reasoning": "I know that something isn't right in my life, but honestly, I just don't think it matters. I've been through so much with the labor dispute, and it feels like nothing will ever change for the better. Whenever I think about talking about my feelings, I just get angry because it feels pointless. The idea that I could trust anyone to be fair or understanding seems ridiculous to me. I keep telling myself that my feelings don't matter, and maybe that's why I struggle to open up in therapy. I just want to get through this session without anyone pushing me to face things I’d rather avoid. Therapy feels uncomfortable, like a spotlight on my problems, and I’d rather just keep my head down and pretend everything is fine. Change feels like a distant dream, and I can't see how talking about it will help me at all."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: The therapist has not sufficiently built rapport to encourage Hudson to share more. Hudson still feels defensive and is not fully opening up about his feelings.",
+          "client_utterance": "I just feel like talking about my past job is pointless. It was a mess, and I don't see how discussing it will help me now. I wish I could just move on without facing it.",
+          "therapist_utterance": "It sounds like you feel really frustrated with how the situation at your previous job was handled, and it's understandable to want to avoid revisiting those feelings. You're not alone in feeling that way; many people find it difficult to talk about painful experiences. I'm here to listen whenever you're ready to share, without any pressure.",
+          "therapist_use": "Reflective Listening: used to validate Hudson's feelings and create a safe space for sharing."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's empathy has not yet encouraged Hudson to reflect deeper on his feelings. Hudson remains resistant and does not feel understood.",
+          "client_utterance": "I guess I just feel like no one gets it. Authority figures have always let me down, and I've learned to just keep my head down. It seems like a waste to expect anything different.",
+          "therapist_utterance": "It makes sense that you would feel angry and let down, especially given your history with authority figures. Your experiences have shaped how you view trust and fairness. If you're comfortable, we can explore how those feelings impact your day-to-day life.",
+          "therapist_use": "Expressing Empathy: used to acknowledge Hudson's feelings and demonstrate understanding."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist has not yet prompted Hudson to explore the conflict between his feelings and values. Hudson shows reluctance to engage more fully.",
+          "client_utterance": "I just don't see the point in all this. Why should I even think about how my feelings affect my life? It's like trying to change a rock into a flower.",
+          "therapist_utterance": "It sounds like you feel stuck, almost like you’re carrying a heavy weight. I can see why you might think it’s futile to consider how your feelings influence you. But sometimes, understanding those feelings can lead to unexpected insights.",
+          "therapist_use": "Developing Discrepancy: used to gently encourage Hudson to reflect on the contrast between his feelings and his values."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist has not sufficiently encouraged Hudson to articulate his thoughts. Hudson remains defensive and disengaged.",
+          "client_utterance": "I don't know if I want to dig into all that. It just feels like I'm opening up old wounds for no reason. I keep telling myself that nothing will change.",
+          "therapist_utterance": "I understand that revisiting those feelings feels painful and may not seem worthwhile. It's okay to feel hesitant about opening old wounds; many people feel the same way. If you ever do want to explore what might change, I'm here to support you.",
+          "therapist_use": "Reflective Listening: used to validate Hudson's hesitance and maintain a non-pressuring atmosphere."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's approach has not been effective in prompting deeper self-reflection from Hudson. Hudson continues to resist discussing his feelings.",
+          "client_utterance": "Honestly, I just want to get through this session. Talking about my emotions feels like a trap, and I'm not ready to fall into it.",
+          "therapist_utterance": "It sounds like you're feeling quite defensive about discussing emotions, and that's completely okay. Therapy can feel overwhelming, especially when past experiences have been painful. I'm here to walk alongside you at your own pace, without any pressure.",
+          "therapist_use": "Expressing Empathy: used to validate Hudson's discomfort and establish a supportive environment."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist has not yet facilitated enough exploration of Hudson's thoughts and feelings. Hudson is still holding back.",
+          "client_utterance": "I guess I just don’t know what talking about my feelings will achieve. I feel like I've been hurt too much to trust that it could help.",
+          "therapist_utterance": "It's understandable to feel wary about trusting the process after what you've been through. Your feelings of hurt are valid, and it’s okay to take your time. Exploring these feelings might not seem beneficial right now, but it could lead to new insights about what you value.",
+          "therapist_use": "Developing Discrepancy: used to encourage Hudson to think about the potential value of discussing his feelings."
+        },
+        {
+          "reason_for_ending": "MOVE: The therapist has successfully increased Hudson's verbalization of feelings and thoughts regarding authority. Hudson is showing a slight willingness to engage without feeling pressured.",
+          "client_utterance": "Maybe I could think about it, but I’m still unsure. It just feels risky to open up. I guess I can consider that there might be something to gain.",
+          "therapist_utterance": "I appreciate your willingness to consider the possibility of exploring these feelings. It shows that even if it feels risky, you’re open to reflecting on your experiences. Let’s take it one step at a time, and we can figure it out together.",
+          "therapist_use": "Reflective Listening: used to validate Hudson's cautious openness and encourage further exploration."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Hudson's ambivalence towards change and increase motivation to address core beliefs regarding trust and fairness.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Ask Hudson to describe both the reasons he feels change is necessary and the reasons he feels resistant to it.",
+                "Encourage him to reflect on how remaining in his current situation aligns with his values and goals."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Prompt Hudson to talk about any small changes he has considered or would be willing to explore.",
+                "Use open-ended questions to help him articulate his feelings about potential outcomes of change."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Facilitate a discussion about the pros and cons of staying in his current mindset versus considering change.",
+                "Help him visualize the future implications of both options."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Socratic Questioning",
+              "instructions_for_therapist": [
+                "Ask Hudson questions that challenge his core beliefs about trust and fairness, such as 'What evidence do you have that authority figures cannot be trusted?'",
+                "Encourage him to consider alternative explanations for his experiences."
+              ]
+            },
+            {
+              "technique_name": "Identifying Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Help Hudson recognize patterns in his thinking, such as 'all-or-nothing' thinking regarding fairness.",
+                "Discuss how these distortions might be affecting his emotional responses and behavior."
+              ]
+            },
+            {
+              "technique_name": "Examining Underlying Beliefs",
+              "instructions_for_therapist": [
+                "Guide Hudson in exploring the roots of his belief that he is unlovable or bound to be rejected.",
+                "Encourage him to reflect on how these beliefs influence his interactions with authority figures."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "Given Hudson's resistance and ambivalence, it is crucial to create a safe space for him to express conflicting feelings about change. The use of MI strategies, such as exploring ambivalence, enables Hudson to articulate both his desire for change and his fears, fostering self-reflection. By eliciting change talk, I can help him identify small steps towards change without pushing him prematurely into action planning. Additionally, using decisional balance discussions will aid in making the discrepancies between his values and current behavior clear. On the CBT side, Socratic questioning is vital for challenging his unhelpful beliefs about authority and fairness, while identifying cognitive distortions allows Hudson to see how these thoughts affect his emotions and actions. By examining his underlying beliefs, we can collaboratively uncover the origins of his feelings of unlovability and mistrust. This integrated approach respects his resistance and builds his motivation, ultimately guiding him toward a more empowered perspective on change.",
+        "progress_marker": "Hudson articulates at least one reason for change and identifies a cognitive distortion impacting his feelings."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to explore my feelings about fairness and trust in order to understand if change is possible for me.",
+        "client_state": {
+          "awareness": "I am starting to notice that my feelings of anger and frustration often stem from my past experiences with unfair treatment, especially in the workplace.",
+          "motivation": "I can see that changing how I react to situations might help me feel better, but I'm not sure if it's worth the effort or if it will actually make a difference.",
+          "openness": "I feel a bit hesitant, but I am willing to talk about my feelings and experiences in therapy, especially since I recognize that I need to process them.",
+          "resistance": "I still feel a strong urge to defend my current beliefs and resist the idea of trusting others or accepting that I could change."
+        },
+        "client_reasoning": "I’m beginning to understand that my situation might not be as black and white as I thought. My past experiences with the labor dispute have made me feel like I’m always being taken advantage of, and that shapes how I see things now. I notice that my anger is often a reaction to feeling unrecognized or unsupported. But at the same time, I’m conflicted about whether changing my approach is even possible. I have these doubts about whether I can trust anyone or if they will treat me fairly. It’s frustrating because part of me wants to change, to find a better way to deal with these feelings, but I worry about getting hurt again. Therapy is helping me reflect on these patterns, but I’m still wrestling with the fear that opening up won’t lead to anything positive.",
+        "progress_marker": "Increased recognition of emotional triggers and a willingness to explore feelings related to trust and fairness."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as Hudson hasn't articulated reasons for change yet. Client objective not met since Hudson is still conflicted about exploring feelings.",
+          "client_utterance": "I'm still not sure if digging into my feelings will really help. I feel like it might just bring up more anger and frustration, and I'm not sure I'm ready for that.",
+          "therapist_utterance": "It's completely understandable to feel hesitant about revisiting those emotions, especially when they can be painful. You mentioned feeling frustration; what do you think is at the core of that frustration? Exploring those feelings could help us understand them better.",
+          "therapist_use": "Open-ended questioning: Encouraged Hudson to reflect on the source of his frustration."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as Hudson hasn't provided reasons for change yet. Client objective not met since Hudson is still resisting exploration.",
+          "client_utterance": "I guess a part of me feels like I've been wronged, and it's hard to see how talking about it will change anything. I'm just worried that it won't lead to any real solutions.",
+          "therapist_utterance": "It sounds like you're feeling stuck in a cycle of hurt and doubt. If you could imagine what a positive change might look like for you, what would that be? Sometimes visualizing a different outcome can help clarify our feelings about change.",
+          "therapist_use": "Eliciting change talk: Prompted Hudson to visualize potential positive outcomes."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as Hudson hasn't discussed any small changes. Client objective not met since Hudson remains ambivalent about change.",
+          "client_utterance": "I don't really know what a positive change would look like. It feels like I'm just trapped in this mindset where I can't trust anyone.",
+          "therapist_utterance": "It’s okay to feel unsure about what change looks like, especially when trust has been difficult for you. Can you think of any small changes you've considered, even if they seem minor? Sometimes starting small can feel less overwhelming.",
+          "therapist_use": "Exploring ambivalence: Encouraged Hudson to think about small changes he might consider."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as Hudson hasn't articulated any small changes. Client objective not met since Hudson feels trapped in his mindset.",
+          "client_utterance": "I suppose I could try to be more open in everyday interactions, but it feels risky. What if I get hurt again? It's like I'm walking on eggshells.",
+          "therapist_utterance": "It’s completely valid to feel that way; change often feels risky, especially when past experiences have left scars. What do you think might be the downside of staying where you are right now? Reflecting on that might help you see if the risk of change feels worth it.",
+          "therapist_use": "Decisional balance discussion: Helped Hudson consider downsides of his current mindset."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as Hudson hasn't discussed the downsides of his current mindset. Client objective not met since Hudson is still hesitant about change.",
+          "client_utterance": "I guess staying stuck means I won't have to deal with any disappointment, but it also means I miss out on potential good experiences. It's frustrating to think about.",
+          "therapist_utterance": "You’re recognizing that there's a cost to staying in that safe zone, which is a significant insight. How does it feel to acknowledge that staying where you are might be leading to missed opportunities? Sometimes, just understanding that can motivate us to think about change.",
+          "therapist_use": "Eliciting change talk: Validated Hudson's recognition of the costs of inaction."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as Hudson hasn't fully articulated reasons for change. Client objective not met since Hudson is still processing.",
+          "client_utterance": "It feels a bit liberating to think about it that way, but I still have a lot of fear. I wonder if moving forward is even realistic for me.",
+          "therapist_utterance": "Fear is a natural response when considering change, especially after feeling let down in the past. What do you think is the biggest fear holding you back from moving forward? Identifying that fear could help us address it together.",
+          "therapist_use": "Socratic questioning: Encouraged Hudson to identify and confront his biggest fear about change."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist objective met as Hudson has articulated reasons for change. Client objective met as Hudson is recognizing his fears and the potential for change.",
+          "client_utterance": "I think my biggest fear is trusting that things could be different. But maybe there is a possibility if I allow myself to explore these feelings more.",
+          "therapist_utterance": "That's a powerful realization, Hudson. Acknowledging that there might be a possibility for change is a significant step forward. Let's continue to explore these feelings together, as it might lead to new insights and a sense of empowerment.",
+          "therapist_use": "Double-sided reflection: Validated Hudson's fear while highlighting his emerging openness to change."
+        }
+      ]
+    },
+    {
+      "phase": "preparation",
+      "therapist_plan": {
+        "phase_of_therapy": "preparation",
+        "motivational_interviewing_plan": {
+          "objective": "Strengthen Hudson's commitment to change and enhance his confidence in taking actionable steps.",
+          "strategies": [
+            {
+              "strategy_name": "Strengthening Commitment Language",
+              "instructions_for_therapist": [
+                "Encourage Hudson to verbalize his reasons for wanting to change, focusing on personal values and future aspirations.",
+                "Ask open-ended questions to elicit his thoughts on what change would mean for him.",
+                "Reflect back his commitment statements to reinforce his motivation."
+              ]
+            },
+            {
+              "strategy_name": "Exploring Confidence and Readiness",
+              "instructions_for_therapist": [
+                "Invite Hudson to rate his confidence on a scale of 1-10 about making changes and explore reasons for his rating.",
+                "Discuss specific moments when he felt capable and successful in the past to build his self-efficacy.",
+                "Collaborate to identify small, manageable steps he feels ready to take."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Action Planning",
+              "instructions_for_therapist": [
+                "Work with Hudson to create a specific action plan that includes clear, achievable goals related to his work situation.",
+                "Break down each goal into manageable steps to avoid overwhelming him.",
+                "Identify potential barriers he anticipates and discuss coping strategies for each."
+              ]
+            },
+            {
+              "technique_name": "Coping Strategy Development",
+              "instructions_for_therapist": [
+                "Help Hudson develop coping strategies to manage his anger and frustration when faced with authority figures.",
+                "Introduce techniques such as deep breathing, assertive communication, or journaling to express his feelings.",
+                "Encourage him to practice these strategies in low-stakes situations to build confidence."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In developing this therapy plan, I first recognized Hudson's core beliefs that undermine his readiness for change, particularly regarding trust and fairness. Motivational Interviewing strategies were employed to strengthen his commitment to change by having him articulate his reasons and aspirations, facilitating a deeper exploration of his confidence and readiness. By reflecting on his past successes, I aimed to bolster his self-efficacy. For Cognitive Behavioral Therapy, I chose action planning as a key intervention, focusing on creating a step-by-step, manageable approach to change that Hudson can realistically commit to. I also incorporated coping strategy development to address his direct resistance, particularly his anger towards authority figures, equipping him with tools to manage his emotional responses. This combination of MI and CBT interventions fosters a collaborative and supportive environment, aligning with Hudson's current phase and resistance profile while promoting gradual behavioral change.",
+        "progress_marker": "Client has articulated specific short-term goals and coping strategies, and he has demonstrated a commitment to implementing at least one step from the action plan by the next session."
+      },
+      "client_plan": {
+        "phase_of_change": "preparation",
+        "client_objective": "I want to explore how I can assert myself while finding fair solutions without feeling overwhelmed by anger.",
+        "client_state": {
+          "awareness": "I recognize that my current situation is unfair and that I need to change my approach to dealing with authority.",
+          "motivation": "I feel a stronger desire to improve my circumstances and find ways to advocate for myself effectively.",
+          "openness": "I'm more willing to share my thoughts and feelings with my therapist, although I still hold back at times.",
+          "resistance": "I experience doubts about whether I can trust the process, which causes me to hesitate in fully committing to change."
+        },
+        "client_reasoning": "I’ve come to realize that my past experiences have shaped how I respond to authority and fairness, especially after the labor dispute. I understand that I can't keep approaching situations with pure anger; it hasn’t led to positive outcomes. Change is necessary because I want to feel respected and valued, and I know I deserve that. Therapy has opened my eyes to the fact that there are healthier ways to assert myself, but I still worry about whether I can maintain this change. What if I fail again and end up feeling more rejected? I want to believe that I can find a balance between standing up for myself and not letting anger dictate my actions. I feel motivated to explore new strategies, but I know I need to work through my doubts and fears about trusting others."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met because Hudson has not yet articulated specific short-term goals. Client objective not met as Hudson has not fully explored his feelings about change.",
+          "client_utterance": "I guess I'm still feeling overwhelmed by the idea of asserting myself. I want to find fair solutions, but I can't shake the fear that it will just lead to more frustration. It's hard to think about what that even looks like for me.",
+          "therapist_utterance": "It’s understandable to feel overwhelmed when considering how to assert yourself. Let’s take a moment to break that down together. What does asserting yourself mean to you, and can you think of any small instances where you felt you successfully stood up for yourself?",
+          "therapist_use": "Open-ended questioning: used to encourage Hudson to articulate his thoughts about asserting himself."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as Hudson hasn't reflected on past successes in asserting himself. Client objective not met because Hudson is still uncertain about his ability to change his approach.",
+          "client_utterance": "I remember a time when I spoke up about a project deadline, and it felt good to express my concerns. But that was a while ago, and I still worry that it was just a fluke. What if I can’t replicate that success?",
+          "therapist_utterance": "That’s a valuable memory to hold onto, Hudson. It shows that you have the capability to assert yourself when it matters. What do you think contributed to that success, and how could those factors play a role in your current situation?",
+          "therapist_use": "Reflective listening: used to validate Hudson's feelings while encouraging him to connect past successes to the present."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as Hudson has not yet identified specific goals for moving forward. Client objective not met since Hudson is still grappling with uncertainty about trusting himself.",
+          "client_utterance": "I guess I felt more confident back then because I was in a supportive environment. Now, I feel like I'm constantly second-guessing myself. I don't want to end up in a situation where I feel powerless again.",
+          "therapist_utterance": "It makes sense that feeling supported in the past contributed to your confidence. Let’s explore what a supportive environment looks like for you now. How can we create that kind of space as you consider taking steps to assert yourself?",
+          "therapist_use": "Exploring confidence and readiness: used to help Hudson visualize what support looks like as he considers change."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as Hudson hasn't articulated any specific action steps. Client objective not met since Hudson is still uncertain about how to cope with feelings of powerlessness.",
+          "client_utterance": "I think I need to figure out what I can do in those moments when I feel powerless. Maybe I could practice speaking up in smaller situations, but I don't know where to start. It feels daunting to think about it all.",
+          "therapist_utterance": "That's a great insight, Hudson. Starting with smaller situations can build your confidence over time. Can you think of a recent low-stakes interaction where you could practice asserting yourself, and what that might look like?",
+          "therapist_use": "Action planning: used to help Hudson identify small, manageable steps to practice asserting himself."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as Hudson hasn't fully committed to a specific action plan. Client objective not met because Hudson is still unsure about his ability to implement coping strategies.",
+          "client_utterance": "I suppose I could start by sharing my opinion in team meetings, but I still feel anxious thinking about it. What if I get shut down or ignored? That fear holds me back.",
+          "therapist_utterance": "Feeling anxious about potential rejection is completely normal, especially after past experiences. Let’s work together to identify some coping strategies you can use to manage that anxiety when it arises. What techniques have you considered, or would you like to explore?",
+          "therapist_use": "Coping strategy development: used to help Hudson brainstorm ways to manage anxiety in assertive situations."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met since Hudson hasn't committed to practicing any specific strategies. Client objective not met as Hudson still expresses doubts about his readiness to change.",
+          "client_utterance": "I think deep breathing might help, but I'm still not sure if I can really put it into practice. I feel like I need to work on trusting myself before I can fully commit to this change.",
+          "therapist_utterance": "Trusting yourself is a crucial part of this journey, and it's okay to take your time with that. Let’s focus on deep breathing as a starting point. How about committing to practice it in a low-stakes situation this week, like during a brief break?",
+          "therapist_use": "Strengthening commitment language: used to encourage Hudson to verbalize his commitment to practicing a coping strategy."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist objective met as Hudson has articulated a specific strategy and a commitment to practice it. Client objective met as Hudson has demonstrated readiness to take actionable steps toward change.",
+          "client_utterance": "You know, I think committing to practice deep breathing in those moments could be a good start. I feel like if I can manage that anxiety, it might help me feel more confident to assert myself later on.",
+          "therapist_utterance": "That’s a fantastic realization, Hudson! It sounds like you’re starting to see how managing your anxiety can support your goal of asserting yourself. I’m proud of you for taking this step, and I look forward to hearing how it goes in our next session.",
+          "therapist_use": "Reflective listening: used to reinforce Hudson's commitment and to celebrate his proactive thinking."
+        }
+      ]
+    }
+  ]
+}

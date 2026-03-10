@@ -1,0 +1,355 @@
+{
+  "case_id": "32-1",
+  "name": "Leo",
+  "phase_order": [
+    "precontemplation",
+    "contemplation",
+    "preparation"
+  ],
+  "results": [
+    {
+      "phase": "precontemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "pre-contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Increase Leo's awareness of his feelings and experiences regarding family dynamics without pushing for change.",
+          "strategies": [
+            {
+              "strategy_name": "Reflective Listening",
+              "instructions_for_therapist": [
+                "Use reflective listening to validate Leo's feelings of anxiety and discomfort around family interactions.",
+                "Paraphrase his statements to ensure he feels heard and understood, reinforcing that his emotions are valid."
+              ]
+            },
+            {
+              "strategy_name": "Expressing Empathy",
+              "instructions_for_therapist": [
+                "Demonstrate empathy towards Leo's feelings of guilt and frustration related to his family situation.",
+                "Acknowledge the complexity of his emotions without judgment, fostering a safe space for exploration."
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Encourage Leo to explore the differences between his current feelings about family and his personal values regarding connection and support.",
+                "Ask open-ended questions to help him reflect on how his current situation aligns or conflicts with his values."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Prompt Leo to consider how his avoidance of family interactions may be impacting his emotional well-being.",
+                "Gently guide him to reflect on the consequences of his current coping strategies, such as detachment."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Identifying Automatic Thoughts",
+              "instructions_for_therapist": [
+                "Help Leo identify and articulate his automatic thoughts related to family gatherings, such as feeling judged or belittled.",
+                "Encourage him to journal these thoughts to gain insight into their frequency and impact on his emotions."
+              ]
+            },
+            {
+              "technique_name": "Recognizing Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Educate Leo about common cognitive distortions, such as 'catastrophizing' or 'all-or-nothing thinking', particularly regarding his beliefs about family interactions.",
+                "Discuss examples from his experiences to illustrate how these distortions may contribute to his feelings of worthlessness."
+              ]
+            },
+            {
+              "technique_name": "Functional Analysis of Behavior",
+              "instructions_for_therapist": [
+                "Conduct a functional analysis of Leo's behavior when faced with family interactions, focusing on triggers and emotional responses.",
+                "Explore the reasons behind his avoidance strategies, helping him understand the psychological functions they serve."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "The therapeutic approach for Leo centers on building rapport and increasing his awareness of his complex feelings related to family dynamics. By employing reflective listening and expressing empathy, I aim to create a safe environment where Leo feels validated. This helps to reduce his defensiveness, allowing for deeper exploration of his beliefs. Developing discrepancy is crucial, as it encourages Leo to contemplate how his feelings of worthlessness conflict with his values of connection. Through raising awareness about the consequences of his avoidance behavior, I can gently guide him toward self-reflection without imposing any pressure for change. Additionally, the CBT interventions, like identifying automatic thoughts and recognizing cognitive distortions, will provide him with tools to understand his thought patterns. This step-by-step approach allows me to meet Leo where he is in the Pre-contemplation phase, gradually facilitating a deeper understanding of his experiences without pushing for immediate behavioral change.",
+        "progress_marker": "Leo demonstrates increased willingness to discuss his feelings and thoughts about family interactions, showing signs of self-reflection without resistance."
+      },
+      "client_plan": {
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I hope to gain some clarity about my feelings without being pushed to change or confront my family dynamics.",
+        "client_state": {
+          "awareness": "I have some idea that my family relationships are problematic, but I don't really want to dive into it.",
+          "motivation": "I feel stuck and unsure if change is even possible, so I'm not very motivated to pursue it.",
+          "openness": "I find it hard to share my real feelings about my family, as it feels too overwhelming and heavy.",
+          "resistance": "I often feel the urge to shut down or withdraw when the topic of my family comes up."
+        },
+        "client_reasoning": "When I think about my family, it feels like a dark cloud hanging over me. I know that there are problems, but talking about them just makes me feel more anxious and exposed. I don’t want to face the judgment I expect from my parents, and I doubt anything can really change, anyway. It’s easier to just avoid it. I feel like I’ve already been labeled a failure by them, and discussing my feelings only reinforces that. I want to disappear when we talk about these things. I get defensive just thinking about it, as if acknowledging the problem makes it too real. Therapy feels like a double-edged sword; it could help, but it also feels like a setup for more disappointment. I just want to keep things as they are, even if I know it’s not healthy, because at least it’s familiar and I know what to expect."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met because Leo hasn't expressed any deeper feelings about his family. Client objective not met as Leo remains resistant to discussing his family dynamics.",
+          "client_utterance": "I guess I can admit that I feel anxious whenever family gatherings come up. It’s just something I try to avoid, but I know it’s there, like a shadow. I just don’t know if talking about it will really help me feel any better.",
+          "therapist_utterance": "It sounds like these gatherings create a lot of discomfort for you, like you’re carrying a heavy weight. You seem to feel that avoiding them is easier than confronting those feelings. What do you think keeps you from wanting to explore these family dynamics more deeply?",
+          "therapist_use": "Reflective Listening: validated Leo's feelings of anxiety while encouraging him to think about his avoidance."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met because Leo hasn’t explored the reasons behind his avoidance. Client objective not met as Leo still feels uncertain about discussing family dynamics.",
+          "client_utterance": "I don't know, maybe I'm just afraid of what I will find out if I dig deeper. It’s like I already feel judged, and I don’t want to make it worse by saying something. Sometimes, it feels pointless to even try.",
+          "therapist_utterance": "It’s understandable to feel afraid of what you might uncover, especially if you’re already feeling judged. It seems like there’s a part of you that questions whether discussing it would change anything. What do you think you would need to feel safe enough to explore these feelings?",
+          "therapist_use": "Expressing Empathy: acknowledged Leo's fear and validated his feelings of judgment."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met because Leo hasn’t articulated what safety means to him in this context. Client objective not met as Leo is still hesitant to engage more openly.",
+          "client_utterance": "I’m not sure what would make me feel safe. Maybe if I could just talk about it without feeling like I have to confront anyone directly. But then again, I wonder if that’s even possible.",
+          "therapist_utterance": "You’re expressing a desire for a space where you can share without the pressure of confrontation, which is completely valid. It sounds like you’re caught between wanting to express yourself and fearing the outcome. What would that kind of conversation look like for you?",
+          "therapist_use": "Developing Discrepancy: encouraged Leo to clarify what a safe conversation would entail, prompting self-reflection."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met because Leo has not yet identified a vision for a safe conversation. Client objective not met as Leo remains unsure about exploring his feelings.",
+          "client_utterance": "I guess it would be more about just sharing how I feel without being interrupted or judged. Maybe just having someone listen, like a neutral party. But I still can’t shake off the thought that it wouldn’t change anything.",
+          "therapist_utterance": "It sounds like you’re looking for validation of your feelings rather than judgment, which is a very important need. You’re recognizing that sharing could be a form of relief, even if it doesn’t lead to immediate change. What do you think might happen if you were to express those feelings in a safe environment?",
+          "therapist_use": "Raising Awareness: prompted Leo to consider the potential outcomes of expressing his feelings."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met because Leo hasn't fully embraced the idea of expressing his feelings. Client objective not met as Leo is still grappling with the potential futility of expression.",
+          "client_utterance": "I suppose it could feel liberating to just let it out, but I still doubt it would solve anything. I’m just so used to keeping it all in, it feels safer that way. What if things get worse instead?",
+          "therapist_utterance": "It’s completely normal to feel that way, and your concerns about things getting worse if you speak up are valid. Keeping things inside might feel safer now, but it sounds like it’s also weighing heavily on you. What would it mean for you to take that first step towards sharing, even just a little?",
+          "therapist_use": "Functional Analysis of Behavior: explored Leo's feelings of safety in keeping things inside and prompted reflection on the potential benefits of sharing."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met because Leo hasn’t identified the potential benefits of sharing. Client objective not met as Leo is still hesitant and uncertain.",
+          "client_utterance": "I don’t know, maybe it would mean I’m finally acknowledging that there’s a problem. But part of me worries that confronting it will just make everything worse, like I’m stirring a pot that’s better left alone.",
+          "therapist_utterance": "Acknowledging that there is a problem can indeed feel like a big step, and it’s understandable to fear the consequences of stirring things up. It seems like you’re balancing the desire for change with the fear of what that might entail. Is there a small way you could begin to acknowledge these feelings for yourself, without involving others yet?",
+          "therapist_use": "Reflective Listening: validated Leo’s fears while encouraging him to consider personal acknowledgment of his feelings."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist objective met as Leo has shown increased willingness to explore his feelings. Client objective met as Leo is beginning to acknowledge the problem and consider small steps.",
+          "client_utterance": "Maybe I can start by writing down how I feel about my family, just for myself. That way, I can acknowledge it without having to confront anyone directly. It doesn’t seem as overwhelming if I do it alone.",
+          "therapist_utterance": "That sounds like a meaningful step, Leo. Writing can be a powerful way to process your feelings without the pressure of immediate confrontation. It gives you a chance to explore your emotions at your own pace, which is important.",
+          "therapist_use": "Raising Awareness: acknowledged Leo's plan to write as a positive step towards self-exploration."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore ambivalence about family relationships and strengthen Leo's motivation for change.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Facilitate a discussion on Leo's feelings about family interactions, emphasizing both the desire for connection and the fear of judgment.",
+                "Ask open-ended questions to help Leo articulate his conflicting feelings, such as 'What do you feel when you think about visiting your family?'"
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Encourage Leo to express any thoughts about the benefits of improving family relationships.",
+                "Prompt him with questions like 'What would it mean for you to have a more positive relationship with your parents?'"
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Help Leo weigh the pros and cons of engaging with his family versus avoiding them.",
+                "Use a scale or list to visualize the perceived benefits and drawbacks of both options."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Guide Leo in identifying automatic thoughts about family interactions, such as 'They will belittle me.'",
+                "Use Socratic questioning to challenge these thoughts, asking 'What evidence do you have for this belief?' and 'Are there instances where this was not the case?'"
+              ]
+            },
+            {
+              "technique_name": "Identifying Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Help Leo recognize cognitive distortions in his thinking patterns, particularly around feelings of worthlessness and helplessness.",
+                "Discuss alternatives to his negative beliefs, encouraging him to consider more balanced perspectives."
+              ]
+            },
+            {
+              "technique_name": "Exploring Core Beliefs",
+              "instructions_for_therapist": [
+                "Facilitate exploration of Leo's core beliefs about being unlovable and worthless.",
+                "Encourage reflection on how these beliefs stem from past family dynamics, and how they influence his current emotions and behaviors."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "The primary goal is to address Leo's ambivalence about engaging with his family while enhancing his motivation for change. I will begin with Motivational Interviewing strategies to explore his conflicting feelings about family interactions, helping him articulate both the desire for connection and the fear of judgment. This will involve open-ended questions to elicit change talk, allowing Leo to reflect on the benefits of improving relationships. Additionally, I will conduct decisional balance discussions to visualize the pros and cons of his current avoidance behaviors versus potential engagement. On the CBT side, I will focus on cognitive restructuring by identifying and challenging his automatic negative thoughts about family interactions. Using Socratic questioning, I will encourage him to examine the evidence behind these thoughts and explore cognitive distortions that perpetuate his feelings of worthlessness. By examining core beliefs related to his self-worth, I will help Leo understand how past experiences inform his current emotional state and behaviors, promoting reflection and insight without pushing him towards immediate action.",
+        "progress_marker": "Leo articulates specific ambivalent feelings about family interactions and begins to identify cognitive distortions affecting his self-perception."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I want to explore my feelings about my family dynamics and understand if change is possible for me.",
+        "client_state": {
+          "awareness": "I recognize that my relationship with my family is complicated and that I often feel judged and unworthy around them.",
+          "motivation": "I want to change my interactions with my family, but I am unsure if it's worth the effort and scared of potential rejection.",
+          "openness": "I feel somewhat willing to share my thoughts and feelings, but I still hold back due to fear of being misunderstood.",
+          "resistance": "I have strong doubts about whether anything can truly change, leading me to withdraw from discussions about my family."
+        },
+        "client_reasoning": "I'm starting to see that my family dynamics are not just about them but also about how I feel and react to them. I notice that when I think about visiting my parents, I often feel anxious and worried, fearing judgment and belittlement. It's like this pattern of feeling unworthy and unlovable is always there, especially with them. I want to understand if I can change how I feel and interact with them, but there's this nagging doubt—what if I still feel the same way, or worse, what if I try to connect and it backfires? Sometimes I feel like disappearing when family comes up in our talks; it feels heavy and overwhelming. But I also know that talking about it in therapy is helping me reflect on these thoughts, and I’m starting to wonder if I can find a way through this ambivalence."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of exploring ambivalence about family relationships was not fully met as Leo still holds back on his feelings. The client's objective of wanting to explore feelings about family dynamics was also not fully met due to his ongoing doubts.",
+          "client_utterance": "I’ve been thinking about that writing exercise you suggested. It feels like a good way to start, but I still worry about what I’ll find when I really dig into my feelings. What if I write something that just makes everything feel worse?",
+          "therapist_utterance": "It's understandable to feel that way, Leo. Writing can sometimes bring up difficult emotions, but it can also provide clarity. What do you think you might do if you encounter feelings that feel overwhelming while writing?",
+          "therapist_use": "Open-ended question: to encourage Leo to reflect on potential challenges in the writing process."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of facilitating a discussion on Leo's feelings was not fully met as Leo is still uncertain about the writing process. The client's objective of exploring feelings about family dynamics is still in progress, as he remains hesitant.",
+          "client_utterance": "I guess I’d just have to take breaks if it gets too heavy. But part of me thinks I might just end up avoiding the tough stuff altogether. I don’t want to feel like I’m digging up a grave that’s better left alone.",
+          "therapist_utterance": "That makes sense. It sounds like you're worried that confronting those deeper feelings might feel too painful. What do you think could help you stay engaged with your writing even if it gets tough?",
+          "therapist_use": "Exploring ambivalence: used to highlight Leo's fears while encouraging him to think of strategies to cope."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of eliciting change talk was not fully met as Leo is still struggling with the idea of confronting his feelings. The client's objective of understanding if change is possible for him is still evolving.",
+          "client_utterance": "Maybe I could set a timer and just write for a few minutes without worrying about it being perfect. But I still wonder if it will really help me feel better or if it’s just going to make me feel worse about everything.",
+          "therapist_utterance": "Setting a timer sounds like a practical approach. It allows you to explore your feelings without the pressure of perfection. What would it mean for you to feel better about your family interactions, even if just a little?",
+          "therapist_use": "Eliciting change talk: used to prompt Leo to articulate his vision of improvement regarding family relationships."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of helping Leo weigh pros and cons was not fully met as he is still uncertain about the benefits of writing. The client's objective of exploring feelings about family dynamics is ongoing and hasn't reached a resolution.",
+          "client_utterance": "I think it would mean I’m making progress, but I just don’t know if I believe that’s possible. It feels like I’ve been stuck in this pattern for so long, and I’m scared that writing won’t change that.",
+          "therapist_utterance": "It's completely normal to feel stuck when you've been in a pattern for a long time. Acknowledging that fear is an important step, and exploring those feelings through writing might help you see things differently. What would it look like for you to take that step, despite the fear?",
+          "therapist_use": "Decisional balance discussions: to help Leo visualize the potential benefits of engaging with his emotions."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of exploring ambivalence was not fully met as Leo continues to express doubt. The client's objective of understanding if change is possible remains unfulfilled.",
+          "client_utterance": "I suppose it could be a way to break that pattern, but I’m just so used to avoiding these feelings. It’s like I’m scared to even try because what if it all just falls apart?",
+          "therapist_utterance": "Your fear of trying and potentially falling apart is completely valid. It shows how much these family dynamics impact you. What if you approached this writing as an experiment, rather than a commitment to change everything at once?",
+          "therapist_use": "Reframing: used to help Leo view the writing process as an exploration rather than a definitive commitment."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of encouraging Leo to articulate his conflicting feelings was not fully met as he's still hesitant. The client's objective to explore feelings about family dynamics is still in progress.",
+          "client_utterance": "That sounds less intimidating, like I can just explore without the pressure. But I still feel this nagging voice telling me it might not help at all, and what if I just end up feeling worse?",
+          "therapist_utterance": "That voice of doubt is something many people experience when facing their feelings. It’s okay to acknowledge that fear while still exploring what you might gain from this process. Can you think of how you might address that voice when it comes up?",
+          "therapist_use": "Cognitive restructuring: to help Leo challenge his negative thoughts about the potential outcome of writing."
+        },
+        {
+          "reason_for_ending": "MOVE: The therapist's objective of exploring ambivalence was met as Leo articulates a willingness to experiment with writing. The client's objective of exploring feelings about family dynamics was met as he expresses a clearer understanding of his fears and possibilities.",
+          "client_utterance": "I think I could try approaching it as an experiment. It feels a bit more manageable that way, and maybe I can discover something new about myself in the process.",
+          "therapist_utterance": "That’s a wonderful shift in perspective, Leo. By framing it as an experiment, you're allowing yourself the freedom to explore without the pressure of outcomes. It sounds like you're starting to find a way forward that feels more comfortable.",
+          "therapist_use": "Double-sided reflection: used to validate Leo's shift in perspective while reinforcing his motivation to explore."
+        }
+      ]
+    },
+    {
+      "phase": "preparation",
+      "therapist_plan": {
+        "phase_of_therapy": "preparation",
+        "motivational_interviewing_plan": {
+          "objective": "Strengthen Leo's commitment to attend the Father's Day gathering and explore his feelings about family interactions.",
+          "strategies": [
+            {
+              "strategy_name": "Strengthening Commitment Language",
+              "instructions_for_therapist": [
+                "Encourage Leo to articulate his reasons for wanting to engage with his family, using open-ended questions to elicit commitment.",
+                "Ask Leo to express what attending the gathering would mean for him personally, reinforcing his intrinsic motivation."
+              ]
+            },
+            {
+              "strategy_name": "Exploring Confidence and Readiness",
+              "instructions_for_therapist": [
+                "Discuss Leo's feelings about his ability to handle potential judgments from family members.",
+                "Help Leo identify past successes in managing family dynamics to bolster his confidence."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Explore who in Leo's support network can help him prepare for the gathering.",
+                "Encourage Leo to consider reaching out to trusted friends or family members for support before the event."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Action Planning",
+              "instructions_for_therapist": [
+                "Work collaboratively with Leo to create a step-by-step plan for attending the gathering, including how he will manage his emotions.",
+                "Encourage Leo to set small, achievable goals leading up to the event, like discussing his feelings about family interactions in therapy."
+              ]
+            },
+            {
+              "technique_name": "Coping Strategy Development",
+              "instructions_for_therapist": [
+                "Help Leo identify specific coping strategies to use if he feels judged or anxious during the gathering, such as deep breathing or taking breaks.",
+                "Encourage him to practice these strategies in session to increase familiarity and reduce anxiety."
+              ]
+            },
+            {
+              "technique_name": "Behavioral Experiments",
+              "instructions_for_therapist": [
+                "Plan small, low-stakes interactions with family members prior to the gathering to prepare Leo for the larger event.",
+                "Encourage Leo to reflect on these experiences, focusing on outcomes and feelings to build confidence."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "To assist Leo, I will first leverage MI techniques to strengthen his commitment to attending the Father's Day gathering. By using strengthening commitment language, I will encourage him to articulate his motivations for engaging with his family, enhancing his intrinsic motivation. Exploring his confidence and readiness will help identify his strengths, while identifying supports will allow him to feel less isolated in this process. Next, I will integrate CBT interventions, starting with action planning to collaboratively outline manageable steps for attending the family event, which will reduce feelings of overwhelm. Developing coping strategies will empower him to handle anxiety during interactions, and behavioral experiments will provide opportunities for gradual exposure to family dynamics, fostering resilience. This blend of MI and CBT is tailored to address Leo's intermediate resistance by reinforcing his agency while gradually preparing him for action, ultimately enhancing his self-efficacy and readiness for change.",
+        "progress_marker": "Leo demonstrates increased commitment by expressing specific reasons for attending the gathering and outlines a preliminary action plan."
+      },
+      "client_plan": {
+        "awareness": "I recognize that my family dynamics are affecting my mental health and sense of self-worth.",
+        "motivation": "I'm feeling more motivated to address these issues and make changes that could lead to healthier relationships.",
+        "openness": "I am somewhat open to discussing my feelings and thoughts in therapy, but I still struggle with vulnerability.",
+        "resistance": "I experience significant doubts about whether I can truly change my relationship with my family and fear that efforts may fail."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist objective to strengthen Leo's commitment was not fully met as he hasn't articulated his reasons for attending the gathering. The client objective of exploring feelings about family interactions was also not met as Leo hasn't yet committed to the Father's Day gathering.",
+          "client_utterance": "I've been thinking about the Father's Day gathering. Part of me really wants to go and connect with my family, but I also feel this heavy weight of anxiety about how they'll react to me. I'm just worried that I'll feel judged again, especially with everything that’s happened.",
+          "therapist_utterance": "It’s great that you’re considering going, Leo. It sounds like you want to bridge that gap with your family, yet you’re also feeling anxious about their potential reactions. What do you think it would mean for you personally to attend the gathering, despite those fears?",
+          "therapist_use": "Open-ended questioning: used to encourage Leo to articulate his motivations for attending the gathering."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective to explore Leo's feelings about family interactions was not fully met since he hasn't expressed specific motivations yet. The client objective of recognizing the impact of these dynamics on his mental health was also not fully met.",
+          "client_utterance": "I guess it would mean I’m taking a step towards repairing things, but I’m still so scared of being hurt or judged. I feel like everything is just so complicated, and I worry it won't lead to anything good. I just don’t want to go back to that feeling of being disconnected.",
+          "therapist_utterance": "Your feelings of wanting to repair things while being scared of hurt are completely valid. It sounds like you're in a tough spot, wanting connection but fearing disconnection. Can you think of any past experiences where you faced similar fears but found a way to manage them?",
+          "therapist_use": "Exploring past successes: encouraged Leo to reflect on previous experiences to bolster his confidence."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective of identifying Leo's past successes in managing family dynamics wasn't satisfied, as he hasn't shared any specific examples. The client objective of building confidence in handling family interactions remains unmet.",
+          "client_utterance": "There was that one time I talked to my parents about my college choices, and they actually listened to me. It felt good to be heard, but then again, it didn’t last long before the usual judgment came back. I guess it’s just hard to shake that off when I think about going to this gathering.",
+          "therapist_utterance": "It sounds like you have had moments where you felt heard, which is a positive experience to draw from. Those moments show that it is possible to communicate effectively with them. How can you use that experience to help you prepare for the upcoming gathering?",
+          "therapist_use": "Strengthening commitment language: reinforced Leo’s past positive experiences to enhance his motivation."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist goal of helping Leo identify supports and resources was not fully realized, as he hasn't discussed who might help him prepare. The client hasn't yet outlined a specific action plan for attending the gathering.",
+          "client_utterance": "I suppose I could talk to my friend about it. She always seems to know what to say and how to handle family stuff. But I still feel like this is all a lot to take on, and I’m not sure if I’m ready.",
+          "therapist_utterance": "Talking to your friend sounds like a solid idea, especially since she understands your family dynamics. It’s okay to feel that this is a lot; preparing for this gathering is a big step. What small, manageable goals do you think you could set leading up to the event?",
+          "therapist_use": "Action planning: encouraged Leo to set small, achievable goals to promote his readiness for the gathering."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective to collaboratively outline manageable steps for attending the gathering wasn't achieved as Leo hasn't specified any goals yet. The client objective of feeling more prepared and empowered remains unmet.",
+          "client_utterance": "Maybe I could write a bit more about how I feel before I go, like I did before. It might help me clarify my thoughts going in, and I could even practice some coping strategies before the day arrives.",
+          "therapist_utterance": "That sounds like a fantastic approach, Leo. Writing can help you process your emotions, and practicing coping strategies will give you tools to handle any anxiety. What strategies do you think would be helpful for you during the gathering?",
+          "therapist_use": "Coping strategy development: assisted Leo in identifying strategies he can use to manage potential anxiety during the event."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective of helping Leo practice coping strategies was not fully met as he hasn't detailed specific strategies yet. The client objective of feeling confident in handling family interactions was also not fully reached.",
+          "client_utterance": "I think I could try deep breathing if I start feeling overwhelmed. And maybe taking breaks outside if I need a moment to collect my thoughts. But still, I worry that it might not be enough.",
+          "therapist_utterance": "Those are excellent coping strategies, Leo. Deep breathing can help calm your nerves, and taking breaks shows that you’re prioritizing your well-being. What can you remind yourself about your worth and capabilities if those worries start to creep in during the gathering?",
+          "therapist_use": "Behavioral experiments: reinforced the idea of using coping strategies as a way to prepare Leo for the event."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist objective to help Leo strengthen his commitment and outline a plan was met as he expressed specific strategies and reflections. The client objective of feeling more prepared and motivated to confront family dynamics was also met, as he articulated actionable steps.",
+          "client_utterance": "I think I’m starting to feel like I can actually handle this. If I remind myself that I’m doing this for my own growth, it makes it feel a bit easier. I’m feeling more committed to showing up and trying to connect with my family.",
+          "therapist_utterance": "That’s a significant shift, Leo! It seems like you’re finding a sense of empowerment in your decision to attend. Your commitment to growth and connection is truly inspiring, and it sounds like you’re ready to take this step.",
+          "therapist_use": "Strengthening commitment language: used to affirm Leo's newfound motivation and commitment."
+        }
+      ]
+    }
+  ]
+}

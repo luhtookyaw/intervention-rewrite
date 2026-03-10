@@ -1,0 +1,331 @@
+{
+  "case_id": "10-1",
+  "name": "Grace",
+  "phase_order": [
+    "precontemplation",
+    "contemplation",
+    "preparation"
+  ],
+  "results": [
+    {
+      "phase": "precontemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "pre-contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Enhance Grace's self-awareness regarding her thoughts and feelings related to her current life situation, while building rapport and reducing defensiveness.",
+          "strategies": [
+            {
+              "strategy_name": "Reflective Listening",
+              "instructions_for_therapist": [
+                "Listen actively to Grace's concerns and feelings.",
+                "Reflect back her statements to validate her emotions and show understanding.",
+                "Use phrases like, 'It sounds like you feel overwhelmed by your financial situation.'"
+              ]
+            },
+            {
+              "strategy_name": "Expressing Empathy",
+              "instructions_for_therapist": [
+                "Acknowledge Grace's feelings of helplessness and fear.",
+                "Convey understanding by saying, 'It’s understandable to feel scared when facing so many changes at once.'"
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Help Grace identify any differences between her current feelings and her personal values.",
+                "Ask questions like, 'What are the things that matter most to you in life?' to initiate reflection."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Identifying Automatic Thoughts",
+              "instructions_for_therapist": [
+                "Encourage Grace to articulate her automatic thoughts about her financial struggles.",
+                "Ask her to keep a journal of these thoughts between sessions to increase awareness."
+              ]
+            },
+            {
+              "technique_name": "Recognizing Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Introduce the concept of cognitive distortions and help Grace to identify them in her thinking.",
+                "Discuss examples such as catastrophizing and all-or-nothing thinking."
+              ]
+            },
+            {
+              "technique_name": "Functional Analysis of Behavior",
+              "instructions_for_therapist": [
+                "Explore Grace's current coping strategies and their effectiveness.",
+                "Discuss how avoidance may be impacting her feelings and decisions, without pushing for change."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In this session, the focus is on enhancing Grace's self-awareness and reducing her defensiveness regarding her current situation. Employing reflective listening will help build rapport and allow her to feel heard, which is crucial given her pessimistic resistance. Expressing empathy validates her feelings of helplessness, fostering a safe space for her to open up. By developing discrepancies between her current emotional state and her values, I aim to gently encourage her to reflect on her life without pushing her toward immediate change. In parallel, the CBT interventions focus on identifying and recognizing her automatic thoughts and cognitive distortions, which will help Grace understand her thought patterns. A functional analysis of her behavior will also provide insight into her coping mechanisms and how they might be contributing to her distress. This approach respects her current stage of change while laying the groundwork for future exploration of potential changes.",
+        "progress_marker": "Grace expresses a willingness to discuss her feelings and thoughts without feeling pressured to change."
+      },
+      "client_plan": {
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I hope to find a way to cope with everything without having to dive too deep into my feelings right now.",
+        "client_state": {
+          "awareness": "I know things are tough, but I don't really see them as a problem that needs changing.",
+          "motivation": "I don’t feel a strong urge to change; it seems pointless given my situation.",
+          "openness": "I’m not very willing to talk about my feelings; I’d rather focus on anything else.",
+          "resistance": "I feel quite defensive about discussing my issues; I doubt it will make a difference."
+        },
+        "client_reasoning": "I guess I understand that my life has changed a lot since the divorce, but I don't think I need to fix anything right now. It feels overwhelming to even think about my finances or my feelings; it just makes me anxious. I keep telling myself that I can handle this on my own, that I should just tough it out. Talking about my problems seems pointless because I’m convinced that no matter what I do, I’ll end up in the same messy situation. It feels safer to talk about the surface stuff, like the kids or work, rather than dive into the emotional chaos. I’m scared that if I really open up, it will just confirm how helpless I feel, and I really don't want to feel that way. Honestly, I just want to avoid all the heavy stuff for now.",
+        "progress_marker": ""
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met because Grace did not open up about her feelings. Client's objective was not met as she still feels overwhelmed and defensive about discussing deeper issues.",
+          "client_utterance": "I get that things are tough, but honestly, I don’t see the point in diving into my feelings. I just want to manage things as best as I can without overthinking everything. It feels safer to focus on my kids or work instead of my emotions.",
+          "therapist_utterance": "It sounds like you feel overwhelmed by the idea of discussing your emotions right now. It’s understandable to want to focus on things that feel less heavy, like your kids or work. What do you think helps you cope with everything at the moment?",
+          "therapist_use": "Reflective Listening: used to validate Grace's feelings and encourage her to share more about her coping strategies."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Grace didn't explore her coping mechanisms in depth. Client's objective was not met since she continues to resist discussing deeper emotional issues.",
+          "client_utterance": "I guess I just keep myself busy with the kids and try to stay on top of work. It feels like if I keep moving, I won't have to think about everything that’s going wrong. But sometimes, it just feels exhausting.",
+          "therapist_utterance": "It seems like staying busy helps you avoid feeling overwhelmed, but it also sounds tiring. I can imagine that juggling everything must be taking a toll on you. What do you think might happen if you took a moment to pause and reflect on how you’re really feeling?",
+          "therapist_use": "Expressing Empathy: acknowledged Grace's feelings of exhaustion and validated her experience of juggling responsibilities."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Grace didn't engage in deeper reflection. Client's objective was not met since she remains focused on avoidance rather than exploring her feelings.",
+          "client_utterance": "Honestly, I’m scared that if I stop to think about my feelings, I’ll just feel worse. I keep telling myself I can handle this, but it’s hard to see that path when everything feels like a mess. I don’t want to feel helpless.",
+          "therapist_utterance": "It’s understandable to fear that reflecting on your feelings might lead to more pain or helplessness. You’re trying to protect yourself, and that’s completely valid. Can you share more about what specific feelings come up for you when you think about your current situation?",
+          "therapist_use": "Reflective Listening: validated Grace's fears and encouraged her to articulate her feelings more clearly."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Grace did not articulate her feelings. Client's objective was not met since she continues to resist deeper emotional exploration.",
+          "client_utterance": "I don’t know, I guess I just feel like I’m in this constant state of anxiety. I can't shake the thought that everything is spiraling. It’s just so much to think about, and I don’t want to feel overwhelmed.",
+          "therapist_utterance": "It sounds like you're experiencing a lot of anxiety about your situation, and that’s really tough. It’s normal to feel overwhelmed when facing so many changes at once. What do you think is the most challenging part for you right now?",
+          "therapist_use": "Expressing Empathy: acknowledged Grace's anxiety and the weight of her situation, inviting her to elaborate on her challenges."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Grace did not identify specific challenges. Client's objective was not met since she is still resistant to discussing deeper issues.",
+          "client_utterance": "I think it's just the uncertainty of everything. Financial stress, co-parenting, and my relationships—everything feels like it's in flux. I just want to get through the day without feeling like I’m drowning.",
+          "therapist_utterance": "It makes sense that the uncertainty in multiple areas of your life would feel overwhelming. You're trying to manage so much, and it’s understandable to want to find a way through without feeling overwhelmed. If you had to pick one area that feels most urgent for you, what would it be?",
+          "therapist_use": "Developing Discrepancy: encouraged Grace to reflect on her values by identifying the most urgent area in her life."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Grace did not express urgency or a desire for change. Client's objective was not met since she is still focused on avoidance rather than exploring her feelings.",
+          "client_utterance": "I don’t know if there’s really an urgent area. It all feels like too much. I guess I just want to get through it without feeling like I have to confront anything right now.",
+          "therapist_utterance": "It sounds like you’re feeling a lot of pressure, and confronting anything right now feels daunting. You're managing so many responsibilities, and it’s okay to feel that way. What are some small ways you think you could take care of yourself amidst all this?",
+          "therapist_use": "Expressing Empathy: acknowledged Grace’s pressure and encouraged her to consider self-care, fostering a sense of safety."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist's objective was met as Grace began to express her feelings about pressure and self-care. Client's objective was met as she engaged in discussing her situation, showing a willingness to reflect on her self-care.",
+          "client_utterance": "I guess I could try to carve out a little time for myself, maybe take a walk or read a book. It feels like such a small thing, but it might help me feel a bit lighter, even if just for a moment.",
+          "therapist_utterance": "That sounds like a wonderful idea, Grace. Taking time for yourself, even in small ways, can make a big difference in how you feel. Recognizing that you deserve those moments is an important step, and I’m glad you’re willing to consider it.",
+          "therapist_use": "Reflective Listening: validated Grace's consideration of self-care and reinforced her ability to take small steps towards feeling better."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Grace's ambivalence about her current situation and increase her motivation for change.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Facilitate a discussion where Grace can express both her desire to change and her fears about it.",
+                "Use open-ended questions to encourage her to articulate her feelings about her financial situation and the impact of her divorce.",
+                "Acknowledge her feelings and normalize the ambivalence she is experiencing."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Prompt Grace to discuss what aspects of her life she values and how these relate to her current struggles.",
+                "Ask questions like 'What would it mean for you to feel more secure financially?' to inspire reflection on her motivations for change.",
+                "Encourage her to identify small changes she has considered that could lead to a more positive outlook."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Guide Grace in weighing the pros and cons of staying in her current state versus taking steps towards change.",
+                "Use a pros and cons chart to visualize her thoughts, helping her to see discrepancies between her values and current behavior."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Help Grace identify automatic thoughts related to her financial situation, such as 'I don't know how I'm going to afford everything.'",
+                "Use Socratic questioning to challenge these thoughts, asking her to consider evidence for and against her beliefs.",
+                "Encourage her to reframe negative thoughts into more balanced ones, such as 'I can explore options to manage my finances.'"
+              ]
+            },
+            {
+              "technique_name": "Identifying Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Teach Grace about common cognitive distortions, particularly catastrophizing and all-or-nothing thinking.",
+                "Assist her in recognizing these patterns in her own thoughts and discussing how they affect her emotions and behaviors.",
+                "Encourage her to practice identifying these distortions in daily situations to build awareness."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "The therapist's approach begins with understanding Grace's ambivalence towards change, recognizing that her resistance is indirect and stemmed from a pessimistic internal monologue. Utilizing Motivational Interviewing strategies, the therapist will explore her ambivalence by facilitating open discussions about her feelings on her current situation, thereby normalizing her experience. By eliciting change talk, the therapist aims to connect Grace’s values to her challenges, enhancing her motivation for change. The decisional balance discussions will help her visualize the costs and benefits of her current behaviors versus potential changes. On the CBT side, the focus will be on cognitive restructuring and identifying cognitive distortions that contribute to her feelings of helplessness. By employing Socratic questioning, the therapist encourages Grace to challenge her automatic thoughts and rebuild her confidence in her ability to manage her situation, thus fostering self-efficacy. This collaborative and non-confrontational stance aligns with Grace's intermediate resistance level, allowing her to reflect and gain insights without feeling pressured.",
+        "progress_marker": "Grace begins to articulate her feelings about change and identifies specific beliefs that contribute to her ambivalence."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I want to explore my feelings about my financial situation and the changes I might need to make.",
+        "client_state": {
+          "awareness": "I'm starting to realize that my financial struggles are affecting my overall well-being and relationships.",
+          "motivation": "I want to change my situation, but I'm unsure if I can really make a difference.",
+          "openness": "I'm willing to talk about my feelings and experiences, but I still hold back on some topics.",
+          "resistance": "I often doubt that change will lead to anything better, which makes me hesitant to commit."
+        },
+        "client_reasoning": "I've been thinking a lot about my life since the divorce, and I can see how my financial issues are not just about money but also about my self-worth and independence. I recognize that I feel anxious and overwhelmed, especially when I think about my bills and the pressure of being a single parent. I guess part of me knows I need to change something, but I can't shake the feeling that no matter what I do, I'll just end up back where I started. It’s frustrating because I want to be proactive, but I feel scared about diving into my finances and admitting how much I need help. Talking in therapy is helping me connect my thoughts and emotions, but I still find myself resisting the idea of making real changes. What if I try and fail? I am caught in this cycle of wanting to change but feeling paralyzed by fear and doubt."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Grace has not yet articulated specific beliefs contributing to her ambivalence. Client objective not met: Grace has not fully explored her feelings about her financial situation.",
+          "client_utterance": "I’ve been thinking about how my financial struggles make me feel less secure, but I still worry that no matter what I do, I won't be able to change anything significant. It's like I'm stuck in this loop of wanting to improve but feeling paralyzed by fear. I guess I just need to figure out what really matters to me in all of this.",
+          "therapist_utterance": "It sounds like you're recognizing that your financial situation affects not just your security but also your sense of self. What do you think would be the most important change for you to feel more secure? Exploring that could help clarify your feelings and values.",
+          "therapist_use": "Open-ended question: to encourage Grace to articulate her feelings about what matters to her."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist has not yet guided Grace in weighing the pros and cons of her current state versus potential changes. Client objective not met: Grace has not yet identified small changes she might consider.",
+          "client_utterance": "I suppose feeling more financially secure would mean not constantly stressing about bills and being able to plan for the future. But then I think about how daunting it feels to even start tackling my finances. What if I mess it up and make things worse?",
+          "therapist_utterance": "It’s completely valid to feel that way, and many people share that fear of starting something new. If you were to list out the pros and cons of staying as you are versus taking steps to change, what might that look like? Sometimes visualizing these options can help clarify your feelings.",
+          "therapist_use": "Decisional Balance Discussions: to help Grace visualize her thoughts and consider her options."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist still needs to facilitate a more in-depth discussion on Grace's ambivalence. Client objective not met: Grace has not fully expressed her feelings or fears about potential changes.",
+          "client_utterance": "If I think about it, the pros of staying the same are that I don't have to deal with the fear of failure. But the cons are that I'm stuck feeling anxious and overwhelmed. I guess the thought of taking action is just really intimidating.",
+          "therapist_utterance": "It makes sense that the fear of failure feels like a strong barrier to change. Acknowledging that fear is a big step, and it sounds like you’re weighing the costs of staying the same against the potential for improvement. What if we explored some small steps that might feel less intimidating?",
+          "therapist_use": "Exploring Ambivalence: to validate her feelings while gently encouraging exploration of small steps."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet helped Grace challenge her automatic thoughts about failure. Client objective not met: Grace still has not identified specific small changes she could make.",
+          "client_utterance": "I think small steps could help, but I still can’t shake off the thought that I might not succeed. I often tell myself that I don’t know how to manage my finances, and that makes me feel trapped. How can I even start when I feel this way?",
+          "therapist_utterance": "It’s really common to feel trapped by those automatic thoughts, and they can create a cycle of doubt. Let's try to challenge that thought together—what evidence do you have that supports or contradicts the idea that you can't manage your finances? Sometimes re-framing those thoughts can help shift your perspective.",
+          "therapist_use": "Cognitive Restructuring: to help Grace identify and challenge her automatic thoughts about her financial management."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist has not yet facilitated Grace's recognition of cognitive distortions. Client objective not met: Grace has not effectively articulated her feelings about the potential changes.",
+          "client_utterance": "I guess I often think I’ll fail before I even try, which is probably a bit extreme. Maybe I can look for resources or support to help me feel more confident about tackling this. But I still have this nagging doubt that I won’t be able to keep up with any changes.",
+          "therapist_utterance": "Recognizing that tendency to think you’ll fail is an important insight. It's a common cognitive distortion, and understanding it can help you challenge those thoughts. What kind of support or resources do you think you could seek out to help you feel more equipped to make changes?",
+          "therapist_use": "Identifying Cognitive Distortions: to help Grace recognize her thinking patterns that contribute to her feelings of helplessness."
+        },
+        {
+          "reason_for_ending": "MOVE - Therapist objective met: Grace has started to articulate her feelings about change and recognized cognitive distortions impacting her mindset. Client objective met: Grace has begun to explore feelings about her financial situation and considered potential small changes.",
+          "client_utterance": "I think talking about these thoughts and recognizing them is helping me feel a bit more in control. I want to explore finding a financial advisor or support group that could help me take those first steps. It’s not everything, but it feels like a start.",
+          "therapist_utterance": "That’s a significant step, Grace! Seeking out support like a financial advisor or group can provide you with the guidance you need. It’s great to see you moving toward actionable change, and I believe these small steps can lead to a more positive outlook.",
+          "therapist_use": "Eliciting Change Talk: to inspire Grace's reflection on her motivations and the changes she can consider."
+        }
+      ]
+    },
+    {
+      "phase": "preparation",
+      "therapist_plan": {
+        "phase_of_therapy": "preparation",
+        "motivational_interviewing_plan": {
+          "objective": "Strengthen Grace’s commitment to change and enhance her confidence in managing her financial situation and personal life post-divorce.",
+          "strategies": [
+            {
+              "strategy_name": "Strengthening Commitment Language",
+              "instructions_for_therapist": [
+                "Encourage Grace to articulate her reasons for wanting to improve her financial situation.",
+                "Ask open-ended questions to explore her values and motivations around financial stability and personal growth.",
+                "Reflect back her statements of commitment to reinforce her desire to change."
+              ]
+            },
+            {
+              "strategy_name": "Exploring Confidence and Readiness",
+              "instructions_for_therapist": [
+                "Use scaling questions to assess Grace’s confidence in her ability to manage finances and implement changes.",
+                "Discuss past successes to build her self-efficacy.",
+                "Explore any resources or support systems that could enhance her readiness to take action."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Action Planning",
+              "instructions_for_therapist": [
+                "Collaborate with Grace to develop a step-by-step action plan that outlines specific financial tasks she can tackle.",
+                "Ensure the plan includes small, achievable goals to prevent overwhelm, such as organizing financial paperwork or setting a budget.",
+                "Encourage her to visualize the steps and identify potential obstacles."
+              ]
+            },
+            {
+              "technique_name": "Coping Strategy Development",
+              "instructions_for_therapist": [
+                "Help Grace identify and practice coping strategies to address feelings of anxiety and overwhelm, such as mindfulness or relaxation techniques.",
+                "Encourage her to seek social support while also building self-reliance through manageable tasks.",
+                "Create a list of positive affirmations she can use to challenge her core beliefs of helplessness."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "To assist Grace effectively, I first recognized her core beliefs of helplessness and incompetence, which contribute to her anxiety about finances. Using MI, I focused on strengthening her commitment to change by encouraging her to articulate her motivations and values. This involved reinforcing her commitment language, which is vital to foster her belief in her ability to change. I also utilized scaling questions to explore her confidence levels, helping her to reflect on past successes that can boost her self-efficacy. In parallel, I employed CBT interventions like action planning, where I collaborated with her to create realistic, incremental goals for managing her finances. This approach addresses her feelings of overwhelm while providing structure. Additionally, developing coping strategies aimed at reducing anxiety and enhancing self-reliance is essential. I aimed to create a supportive environment where Grace can gradually implement these changes, reducing her resistance and fostering a sense of agency in the face of her challenges.",
+        "progress_marker": "Grace has identified at least three specific financial tasks she plans to complete within the next week and expressed increased confidence in her ability to manage her situation."
+      },
+      "client_plan": {
+        "awareness": "I recognize that my financial struggles and emotional distress after the divorce are affecting my well-being and my ability to co-parent effectively.",
+        "motivation": "I feel a growing desire to change my situation, as I know I can't keep living in this state of anxiety and worry.",
+        "openness": "I'm willing to discuss my feelings and thoughts with my therapist, even though it feels uncomfortable at times.",
+        "resistance": "I still grapple with doubts about my ability to make lasting changes, fearing that I might fail again."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist's objective of enhancing Grace's confidence in managing her financial situation was not fully achieved as she still expresses doubt. The client's objective to feel more secure and ready to change has not been met as she continues to grapple with feelings of being overwhelmed.",
+          "client_utterance": "I've been thinking about what you said regarding seeking support. I know I need to take action, but every time I consider it, I feel paralyzed by the fear of failing again. It's like I'm caught in this loop where I want to change but can’t see a way out.",
+          "therapist_utterance": "It’s understandable to feel that way, Grace. The fear of failure can be really powerful, especially when it feels like so much is at stake. Remember, recognizing that fear is the first step to overcoming it. What specific actions do you think might feel less intimidating to you right now?",
+          "therapist_use": "Open-ended question: used to explore Grace's feelings and identify manageable steps."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's goal of creating a step-by-step action plan was not fully achieved as Grace has not yet identified specific actions she feels ready to take. The client is still struggling with doubt and a sense of being overwhelmed.",
+          "client_utterance": "I guess I could start by organizing my financial paperwork. It feels like such a small thing, but even that seems daunting. I’m just scared that I’ll get started and then not know what to do next.",
+          "therapist_utterance": "Starting with organizing your financial paperwork is a great idea, Grace. It’s a small step that can lead to more clarity about your situation. What do you think might help you stay focused and motivated while you tackle this task?",
+          "therapist_use": "Scaling question: used to assess Grace's motivation and identify supportive strategies."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective of helping Grace develop a coping strategy to manage her anxiety while taking action was not fully met as she still feels overwhelmed. The client has not entirely committed to a specific plan or action yet.",
+          "client_utterance": "I think if I could set aside a specific time to work on it and maybe reward myself afterward, it could help. But I still worry that if I get stuck, I won't know how to move forward. It feels like I need to build up my confidence before I start.",
+          "therapist_utterance": "Planning rewards for your efforts could definitely help keep you motivated. Building confidence takes time, and it’s okay to start at your own pace. What past successes can you reflect on that may help remind you of your capability?",
+          "therapist_use": "Exploring past successes: used to enhance Grace's self-efficacy and confidence."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's aim to strengthen Grace's commitment language has not been fully realized as she continues to express doubt. The client is still hesitant and not fully ready to take actionable steps.",
+          "client_utterance": "I remember when I managed to create a budget for my household before all this happened. It felt empowering, but now I just feel lost. I want to feel that way again, but I’m not sure how to get there.",
+          "therapist_utterance": "That’s a powerful realization, Grace! Reflecting on that achievement shows you have the ability to succeed when you set your mind to it. What do you think are the first two or three steps you could take to recreate that feeling of empowerment?",
+          "therapist_use": "Reflective listening: used to validate Grace's feelings and reinforce her past successes."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective of collaborating on a specific action plan has not been met because Grace has not yet committed to any particular steps. The client still feels uncertain about her ability to take action.",
+          "client_utterance": "I think I could start by creating a simple budget and maybe seek some resources to help me understand my finances better. But even saying that feels like a lot to commit to right now. I’m just worried about taking the first step.",
+          "therapist_utterance": "That’s a solid starting point, Grace! Creating a simple budget and seeking resources can provide structure and guidance. What do you think would help you feel more ready to take that first step?",
+          "therapist_use": "Collaborative action planning: used to help Grace identify specific tasks and build readiness."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's goal of reinforcing Grace's commitment language has not been fully achieved as she still expresses hesitation. The client has not yet fully embraced a commitment to action.",
+          "client_utterance": "I know I want to change my financial situation, but I still feel stuck. I want to get there, but taking action feels so overwhelming. I just need to figure out how to approach it without feeling paralyzed.",
+          "therapist_utterance": "Feeling overwhelmed is a common response when facing change, and it’s okay to take small, manageable steps. It’s great that you recognize the need for change. Let’s take a moment to break it down—what is one action you can commit to this week that feels achievable?",
+          "therapist_use": "Breaking it down: used to help Grace identify a manageable action step for her to commit to."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist's objective of strengthening Grace's commitment to change has been met as she has identified specific actions. The client’s objective has been met as she feels more ready to take actionable steps toward her financial management.",
+          "client_utterance": "I think I can commit to creating that budget by the end of the week. It feels manageable, and I can ask for help if I need it. I’m starting to feel a bit more confident about this.",
+          "therapist_utterance": "That’s fantastic, Grace! Committing to creating a budget is a significant step forward, and it’s wonderful to hear you feel more confident. Remember, you can always reach out for support along the way. What will be your first step in creating that budget?",
+          "therapist_use": "Affirmation and commitment reinforcement: used to celebrate Grace's decision and build confidence."
+        }
+      ]
+    }
+  ]
+}

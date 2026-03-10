@@ -1,0 +1,367 @@
+{
+  "case_id": "1-3",
+  "name": "Alex",
+  "phase_order": [
+    "precontemplation",
+    "contemplation",
+    "preparation"
+  ],
+  "results": [
+    {
+      "phase": "precontemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "pre-contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "To build rapport and increase Alex's awareness of his current thoughts and feelings without pushing for change.",
+          "strategies": [
+            {
+              "strategy_name": "Reflective Listening",
+              "instructions_for_therapist": [
+                "Listen attentively to Alex's concerns and feelings.",
+                "Paraphrase what he shares to validate his experience and encourage him to explore his feelings further.",
+                "Use phrases like 'It sounds like you feel...,' to help him articulate his emotions."
+              ]
+            },
+            {
+              "strategy_name": "Expressing Empathy",
+              "instructions_for_therapist": [
+                "Acknowledge Alex's struggles with feelings of victimization and hopelessness.",
+                "Use empathetic statements to convey understanding of his experiences, such as 'It must be really tough to feel this way.'",
+                "Reinforce that it's okay to feel overwhelmed and that his feelings are valid."
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Encourage Alex to reflect on the differences between his current feelings and his personal values or aspirations.",
+                "Ask open-ended questions that prompt him to consider how his current situation aligns with what he wants for himself.",
+                "Help him identify any internal conflicts without pushing for immediate change."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Identifying Automatic Thoughts",
+              "instructions_for_therapist": [
+                "Guide Alex in recognizing his automatic thoughts, particularly those related to his feelings of being a victim.",
+                "Encourage him to articulate his thoughts when he experiences negative emotions, such as during stressful situations.",
+                "Use examples from recent experiences to illustrate how these thoughts influence his feelings and behaviors."
+              ]
+            },
+            {
+              "technique_name": "Recognizing Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Help Alex identify cognitive distortions in his thinking, such as 'catastrophizing' or 'all-or-nothing' thinking.",
+                "Discuss how these distortions contribute to his feelings of anger and frustration.",
+                "Encourage him to challenge these distortions by considering alternative perspectives."
+              ]
+            },
+            {
+              "technique_name": "Functional Analysis of Behavior",
+              "instructions_for_therapist": [
+                "Assist Alex in analyzing the triggers and consequences of his behaviors, especially his use of substances to cope.",
+                "Encourage reflection on how his behaviors serve as coping strategies and the impact they have on his emotions.",
+                "Frame this analysis in a non-judgmental way to reduce defensiveness."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In understanding Alex's resistance and current state in the Pre-contemplation phase, the therapist will start with Motivational Interviewing strategies to build rapport and trust. Reflective listening will allow Alex to feel heard, which is crucial given his defensiveness. Expressing empathy will validate his feelings, particularly regarding his sense of victimization and hopelessness. Developing discrepancy will help him see the gap between his current feelings and his values, prompting curiosity without pressure. In parallel, CBT interventions will focus on increasing his awareness of automatic thoughts and cognitive distortions that perpetuate his negative feelings. Identifying these thoughts will enable him to see their impact on his emotions and behaviors, while functional analysis will help him explore the reasons behind his coping strategies. By addressing his resistance through these empathetic and awareness-building techniques, the therapist aims to create a safe space for Alex to begin contemplating change, without imposing solutions or commitments.",
+        "progress_marker": "Increased willingness to discuss feelings and thoughts without defensiveness; identification of automatic thoughts and cognitive distortions."
+      },
+      "client_plan": {
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I just want to get through this session without feeling judged or pressured to change.",
+        "client_state": {
+          "awareness": "I know there are problems, but I don't really see them as serious or something I need to change right now.",
+          "motivation": "I don't feel like I want to change anything; it seems pointless.",
+          "openness": "I'm not really comfortable sharing my true feelings or thoughts about my life.",
+          "resistance": "I'm very defensive about discussing my issues; I feel angry when it comes up."
+        },
+        "client_reasoning": "I keep thinking about how everything always seems to go wrong for me, like today with the rain. It feels like I'm just a victim of bad luck, and honestly, I don’t see how talking about it is going to change anything. I know I have problems, but they don’t feel urgent. Why should I bother? It’s just easier to avoid the tough conversations and stick to what’s comfortable. I feel ashamed about my past and worried that if I open up, I’ll just get judged or told what to do. I don’t have much faith in therapy—nothing ever changes for me, and it makes me feel even more trapped. I’d rather not dig into my feelings; it just feels too painful, and what’s the point anyway? I’d rather keep my distance from all of it and manage things my own way, even if it means using substances to cope."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Alex is still resistant to discussing his feelings. Client objective not met: Alex feels judged and pressured, expressing discomfort in sharing.",
+          "client_utterance": "I don’t know why I’m even here. It feels pointless to talk about my life when nothing ever changes. Like today, it’s raining and just reminds me how everything goes wrong for me. I’d rather not dig into all this stuff.",
+          "therapist_utterance": "It sounds like you're feeling frustrated and questioning the value of our conversations. It must be tough to feel like things never improve despite your efforts. I wonder if there are moments when you see anything differently, even just a little.",
+          "therapist_use": "Reflective Listening: to validate Alex's feelings and encourage him to explore his thoughts further."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Alex is not yet open to exploring different perspectives on his situation. Client objective not met: Alex is still defensive and feels judged.",
+          "client_utterance": "I guess there are times when I feel okay, but they never last. I just don’t see how talking about it will help me feel better for long. It’s like I’m stuck in this cycle, and I don’t know how to get out of it.",
+          "therapist_utterance": "It seems like you're feeling trapped in a cycle, which can be really overwhelming. It's understandable to feel that way, especially when you don’t see a way out. What do you think keeps you feeling stuck in this place?",
+          "therapist_use": "Expressing Empathy: to acknowledge Alex's feelings and reinforce understanding of his experience."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Alex is not fully engaging in the exploration of his feelings. Client objective not met: Alex still shows reluctance to share deeper thoughts.",
+          "client_utterance": "I don’t really know what keeps me stuck. Maybe it’s just easier to stay where I am instead of facing the pain of change. I keep thinking maybe it’s just how my life is meant to be.",
+          "therapist_utterance": "It sounds like you're considering the comfort of familiarity, even if it comes with pain. It must be hard to think about change when it feels daunting. If you could envision a different path, what might that look like for you?",
+          "therapist_use": "Developing Discrepancy: to encourage Alex to reflect on his current feelings versus potential aspirations."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Alex is still hesitant to envision change. Client objective not met: Alex remains resistant to discussing potential changes.",
+          "client_utterance": "I don’t know what a different path would be. It just feels like I’m a victim of my own circumstances. Why should I even bother thinking about change when it seems so far away?",
+          "therapist_utterance": "It seems like you’re feeling overwhelmed by the idea of change, and that’s completely understandable. It must feel exhausting to think about facing those circumstances. What if we looked at just one small thing that could be different, without the pressure of making big changes?",
+          "therapist_use": "Reflective Listening: to validate Alex's feelings about change and gently encourage him to consider smaller steps."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Alex is still struggling to identify even small changes. Client objective not met: Alex feels too pressured to think about change.",
+          "client_utterance": "I guess a small change might be okay, but it just feels like one more thing to manage. What if it doesn’t work out? I don’t want to feel like a failure again.",
+          "therapist_utterance": "It's completely normal to fear failure, especially when you've faced tough experiences in the past. You're not alone in feeling that way, and it can make change feel even more daunting. Could we explore what small step might feel manageable for you right now?",
+          "therapist_use": "Expressing Empathy: to acknowledge Alex's fears and create a supportive space for discussing manageable changes."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Alex still feels overwhelmed by the idea of change. Client objective not met: Alex has not yet opened up about small steps.",
+          "client_utterance": "Maybe I could think about something small, like just talking to a friend more often. But honestly, I’m still not sure it will help. I just feel so stuck in my ways.",
+          "therapist_utterance": "It sounds like you're considering reaching out to a friend, and that could be a meaningful step. Feeling stuck is tough, but even small connections can sometimes lead to new perspectives. What would it feel like if you took that small step?",
+          "therapist_use": "Developing Discrepancy: to encourage Alex to reflect on the potential benefits of small actions that may lead to change."
+        },
+        {
+          "reason_for_ending": "MOVE - Therapist objective met: Alex is beginning to consider small steps and reflect on his feelings. Client objective met: Alex is sharing more openly about potential changes.",
+          "client_utterance": "I think it would feel good to talk to someone, even if it’s just a little. I guess it’s better than nothing. Maybe I’ll give it a try.",
+          "therapist_utterance": "That sounds like a positive step forward, and it's great that you're open to trying something new. It's okay to take it slow; every small action counts. I'm here to support you as you explore this path.",
+          "therapist_use": "Reflective Listening: to validate Alex's consideration of taking small steps and reinforce his openness."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Alex's ambivalence towards change and strengthen his motivation to consider taking steps towards healthier behaviors.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Ask Alex what he likes about his current behaviors and what he dislikes, prompting a discussion about the pros and cons.",
+                "Use reflective listening to validate his feelings of conflict while guiding him to articulate both sides."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Encourage Alex to express any desire, ability, reasons, or need for change by asking open-ended questions.",
+                "Reinforce any positive statements he makes about wanting to change or feeling capable of change."
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Help Alex identify how his current behaviors conflict with his values and goals, particularly regarding his self-esteem and family relationships.",
+                "Facilitate a discussion around the difference between his current lifestyle and the healthier version of himself he envisions."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Guide Alex to identify and challenge his automatic thoughts, such as 'Why does this always happen to me?'",
+                "Use Socratic questioning to help him examine the evidence for and against his beliefs about being a victim of bad luck."
+              ]
+            },
+            {
+              "technique_name": "Identifying Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Discuss with Alex the concept of cognitive distortions and help him recognize patterns such as personalization and catastrophizing.",
+                "Encourage him to keep a thought diary where he can record instances of negative self-talk and reframe them."
+              ]
+            },
+            {
+              "technique_name": "Exploring Core Beliefs",
+              "instructions_for_therapist": [
+                "Facilitate a conversation to help Alex explore his core beliefs around helplessness and control.",
+                "Encourage him to reflect on past experiences that may have shaped these beliefs and how they impact his current behavior."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In approaching Alex's ambivalence, the therapist first utilizes Motivational Interviewing (MI) strategies to facilitate exploration of his conflicting feelings about change. By exploring ambivalence, the therapist creates a safe space for Alex to discuss both the pros and cons of his current behaviors, enhancing self-awareness. Eliciting change talk encourages Alex to express any motivations for change, reinforcing his own voice in the process. Developing discrepancy helps Alex articulate the gap between his values and behaviors, which is essential for fostering motivation. Concurrently, Cognitive Behavioral Therapy (CBT) interventions are used to address Alex's cognitive patterns. Cognitive restructuring allows Alex to challenge his negative automatic thoughts, such as viewing himself as a victim. Through identifying cognitive distortions, he learns to reframe his thoughts, shifting his perspective on control and helplessness. Exploring core beliefs assists in understanding the root of his feelings and behaviors, promoting deeper insight and paving the way for eventual behavioral changes without pressuring him into action planning at this stage.",
+        "progress_marker": "Client demonstrates increased willingness to discuss feelings about change and begins to articulate reasons for wanting to adopt healthier behaviors."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to gain clarity on my feelings and understand the patterns in my behavior.",
+        "client_state": {
+          "awareness": "I recognize that my coping strategies, like using substances and avoiding my family, are not helping me. I see how my emotions are connected to these behaviors.",
+          "motivation": "I want to change, but I'm scared of failing again and unsure if I can really do it. Part of me feels like I should try.",
+          "openness": "I'm somewhat willing to share my thoughts and feelings, but I still hold back because I fear judgment and vulnerability.",
+          "resistance": "I feel a strong urge to resist change, thinking it won't work for me. I often tell myself that nothing changes, and I'm stuck."
+        },
+        "client_reasoning": "Lately, I've started to notice how often I turn to substances when things get tough, like when it started raining right before I was supposed to pick up my girlfriend. I felt angry and frustrated, thinking, 'Why does this always happen to me?' It’s like I’m stuck in a loop, and I realize that my behavior isn’t helping me, but I also feel scared to try changing it. What if I fail again? Sometimes I think about how I’ve avoided my family to escape negativity, but I know it’s not a real solution. Therapy is pushing me to reflect on these patterns, but I’m still uncertain about sharing everything. I worry that if I open up too much, I’ll feel exposed and vulnerable, and I wonder if any of this will actually lead to real change. It’s confusing and I’m still battling a lot of doubt."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met as the exploration of ambivalence is still ongoing. The client objective was not met since Alex hasn't fully articulated his feelings about wanting to change.",
+          "client_utterance": "I’ve been thinking a lot about how I keep turning to substances when I'm stressed. It feels like a temporary escape, but I know it’s not fixing anything. I guess part of me likes that it dulls the pain, but I also hate feeling trapped by it.",
+          "therapist_utterance": "It sounds like you're recognizing the temporary relief substances provide, but also the feeling of being trapped by that choice. That conflict can be really tough to navigate. What are some things you dislike about relying on substances to cope?",
+          "therapist_use": "Exploring Ambivalence: to encourage Alex to articulate both the pros and cons of his current behaviors."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met as the discussion on the cons of current behaviors needs further exploration. The client objective was not met since Alex hasn't yet connected these behaviors to his larger goals.",
+          "client_utterance": "I dislike how it affects my relationships, especially with my mom. I avoid her because I feel ashamed of my choices, but then I miss her. It’s like I’m pushing away the people I care about to deal with my pain alone.",
+          "therapist_utterance": "It seems like there's a lot of conflict between wanting to connect with your mom and feeling ashamed of your choices. That must be really painful. How do you think your relationship with her would change if you didn’t rely on substances as a coping mechanism?",
+          "therapist_use": "Developing Discrepancy: to help Alex identify how his current behaviors conflict with his values and goals, particularly regarding family relationships."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met as there's more work needed to connect Alex's feelings with his motivations for change. The client objective was not met because Alex hasn't yet articulated a desire or reason for change.",
+          "client_utterance": "I guess I want to feel better about myself and not feel like I’m hiding from everyone. But I’m scared that if I try to change, I’ll just fail again and let everyone down. It’s hard to think about taking that step when it feels so risky.",
+          "therapist_utterance": "It's understandable to feel scared about trying to change, especially with the fear of failure lingering. That fear can hold you back and make the idea of change feel overwhelming. What would it mean for you to succeed in making a change, even if it's small?",
+          "therapist_use": "Eliciting Change Talk: to encourage Alex to express any desire or reasons for change, reinforcing his motivations."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met since Alex still holds onto significant fear and uncertainty about change. The client objective was not met as Alex has not yet fully explored his motivations or connected them to actionable steps.",
+          "client_utterance": "I think succeeding would mean feeling more in control of my life, like I’m not just a victim of my circumstances. But I still can’t shake the feeling that any change I try will just end in failure. It’s like I’m stuck between wanting to try and being terrified of what that means.",
+          "therapist_utterance": "That’s a powerful insight—feeling more in control would be a significant shift. It's tough to balance that desire with the fear of failing. What small step do you think you could take to start feeling that sense of control without overwhelming pressure?",
+          "therapist_use": "Exploring Ambivalence: to validate Alex's feelings while also guiding him to consider manageable steps toward change."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met as further exploration of small steps is needed to enhance Alex's motivation. The client objective was not met because Alex hasn't committed to any specific action yet.",
+          "client_utterance": "Maybe I could try talking to my mom a bit more, even just texting her. I feel anxious about it, but I think it might help me feel less isolated. But what if she judges me for everything I’ve done?",
+          "therapist_utterance": "It’s great that you’re considering reaching out to your mom; that could be an important step. It's normal to worry about judgment, especially when you're feeling vulnerable. How can you prepare for that conversation to feel more secure about it?",
+          "therapist_use": "Identifying Cognitive Distortions: to discuss Alex's fears of judgment and help him prepare mentally for the potential conversation."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met as Alex hasn't fully addressed his fears about the conversation. The client objective was not met because Alex has not yet committed to taking action.",
+          "client_utterance": "I guess I could focus on the positive things I want to share, like how I’m trying to work on myself. That might shift the focus away from my past. But I still feel nervous about opening up.",
+          "therapist_utterance": "That’s a constructive way to approach it, focusing on the positives can help shift the dynamic. It’s completely okay to feel nervous; it shows that you care about how this conversation will go. What would you want to say first to help ease into the conversation?",
+          "therapist_use": "Cognitive Restructuring: to help Alex challenge negative thoughts and prepare for a positive interaction."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist objective was met as Alex is now exploring actions that may lead to change. The client objective was met because Alex has articulated a desire to take a step toward a healthier relationship with his mom.",
+          "client_utterance": "I think I’ll just start with a simple text, maybe just something like 'Hey, I’ve been thinking about you.' It feels like a small step, but it’s something I can manage. I’m still scared, but I want to try.",
+          "therapist_utterance": "That sounds like a wonderful first step, and it's great that you're acknowledging both your fear and your desire to change. Taking action, even in small ways, can lead to meaningful shifts over time. I’m here to support you as you take this step forward.",
+          "therapist_use": "Eliciting Change Talk: to reinforce Alex's willingness to take action and support his decision-making process."
+        }
+      ]
+    },
+    {
+      "phase": "preparation",
+      "therapist_plan": {
+        "phase_of_therapy": "preparation",
+        "motivational_interviewing_plan": {
+          "objective": "Strengthen Alex's commitment to change and enhance his motivation for taking actionable steps.",
+          "strategies": [
+            {
+              "strategy_name": "Strengthening Commitment Language",
+              "instructions_for_therapist": [
+                "Encourage Alex to articulate his reasons for change, emphasizing positive outcomes he desires.",
+                "Ask open-ended questions to help him express his commitment, such as 'What will be different for you when you make these changes?'"
+              ]
+            },
+            {
+              "strategy_name": "Reinforcing Motivation",
+              "instructions_for_therapist": [
+                "Acknowledge Alex's past successes and strengths to reinforce his motivation.",
+                "Explore what specifically motivates him about making changes, linking them to his values and goals."
+              ]
+            },
+            {
+              "strategy_name": "Exploring Confidence and Readiness",
+              "instructions_for_therapist": [
+                "Discuss with Alex how ready he feels to take action and what specifically might increase his confidence.",
+                "Use scaling questions (1-10) to assess his confidence in making changes and explore what would help him increase that score."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Help Alex identify support systems, including friends or support groups, that can assist him in his journey.",
+                "Encourage him to think about what resources he can leverage, such as therapy or community programs."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Action Planning",
+              "instructions_for_therapist": [
+                "Collaborate with Alex to create a specific, achievable action plan detailing the steps he will take towards change.",
+                "Ensure the plan is gradual, starting with small, manageable goals to enhance his sense of control."
+              ]
+            },
+            {
+              "technique_name": "Coping Strategy Development",
+              "instructions_for_therapist": [
+                "Work with Alex to identify coping strategies that can replace substance use when faced with stress.",
+                "Role-play scenarios where he practices these strategies in a supportive environment."
+              ]
+            },
+            {
+              "technique_name": "Relapse Prevention Planning",
+              "instructions_for_therapist": [
+                "Discuss potential barriers he might encounter, particularly related to stress triggers and family interactions.",
+                "Help him develop a plan for how to handle setbacks, emphasizing that they are a part of the process."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In working with Alex, I recognized his strong feelings of anger and helplessness, which contribute to his resistance. I began by applying MI strategies to strengthen his commitment language, helping him articulate why he wants to change. This approach should clarify his motivations and reinforce his sense of agency. I then explored his confidence and readiness, using scaling questions to gauge his feelings about taking action. This also allowed us to identify supports he could lean on, which is crucial given his history of isolation. In parallel, I introduced CBT techniques, starting with action planning to ensure he has a clear, realistic path forward. This plan will be gradual to avoid overwhelming him. Additionally, developing alternative coping strategies and establishing a relapse prevention plan will empower him to manage challenges effectively. Overall, this integrated approach should enhance his self-efficacy and reduce feelings of being trapped, facilitating a smoother transition into action.",
+        "progress_marker": "Alex has developed a clear action plan and is actively identifying supports and coping strategies in preparation for implementing change."
+      },
+      "client_plan": {
+        "phase_of_change": "preparation",
+        "client_objective": "I want to explore practical steps I can take to improve my life and manage my emotions better.",
+        "client_state": {
+          "awareness": "I recognize that my current coping strategies aren't effective and that I need to confront my issues rather than escape from them.",
+          "motivation": "I feel a strong desire to change my situation, especially regarding my relationships and my health, and I want to be a better version of myself.",
+          "openness": "I'm becoming more willing to discuss my feelings and thoughts with my therapist, even if it feels uncomfortable at times.",
+          "resistance": "I still have doubts about whether I can truly change and fear that my efforts may not lead to the outcomes I hope for."
+        },
+        "client_reasoning": "I've started to see that my current situation, filled with anger and shame, isn't sustainable. It's frustrating to feel trapped in this cycle of self-destructive behavior, and I know that if I don't change, I might lose the few good relationships I have. Therapy has helped me realize that I can't just keep avoiding my problems; I have to face them head-on. I hope that by discussing my feelings openly, I can find new ways to cope and improve my self-esteem. However, I still doubt myself. What if I fail again? It’s scary to think about trying and falling short. I know I need to be more proactive, but that fear of failure sometimes holds me back. Yet, I feel a flicker of hope that maybe, just maybe, I can make the changes I need to live a healthier and happier life.",
+        "progress_marker": "The client is beginning to articulate their thoughts about change and express a desire for practical steps, indicating readiness to engage in the therapeutic process."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of enhancing Alex's motivation for change was not fully met as he still expresses doubts. The client’s objective to explore practical steps has not been sufficiently addressed as he hasn't decided on specific actions.",
+          "client_utterance": "I've been thinking about what you said regarding reaching out to my mom. It's still scary for me, but I can see how that might help. I just wonder if I’m really ready for that kind of conversation yet.",
+          "therapist_utterance": "It's understandable to feel scared about reaching out, especially when it involves vulnerable topics. What do you think would help you feel more prepared for that conversation? Sometimes, just thinking through what you want to say can lessen that fear.",
+          "therapist_use": "Open-ended question: encouraged Alex to reflect on his feelings and prepare for the conversation."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of identifying supports was not met as Alex hasn’t explored specific preparations for the conversation. The client’s objective to explore practical steps is still pending as he hasn’t established clear actions.",
+          "client_utterance": "I guess if I write down what I want to say, it could help. I could focus on expressing that I’ve been trying to improve myself. But what if she doesn’t respond well? That’s what worries me.",
+          "therapist_utterance": "Writing down your thoughts is a great strategy to organize your feelings and reduce anxiety. It's normal to worry about how she might respond, but focusing on your intention to connect can be powerful. What would be one thing you really want her to know?",
+          "therapist_use": "Affirmation: reinforced Alex's idea of writing down his thoughts to help reduce anxiety."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of strengthening Alex's commitment was not fully achieved since he still holds significant worries about his mother's reaction. The client’s exploration of practical steps remains insufficient as he hasn’t made a solid plan.",
+          "client_utterance": "I think I want to tell her that I’m working on myself and that I miss her. It feels like a lot to put out there, though. What if she brings up the past, and I feel ashamed again?",
+          "therapist_utterance": "It's valid to be concerned that she might bring up the past, especially when emotions run high. How might you handle that if it comes up? Preparing responses for those moments can help you feel more in control.",
+          "therapist_use": "Scaling question: explored Alex's feelings about his mother's potential reactions to help him prepare."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective to enhance Alex's confidence in taking action was not met as he still feels uncertain about the conversation. The client’s goal of exploring practical steps remains unfulfilled as he hasn't committed to a specific action yet.",
+          "client_utterance": "If she does bring up the past, I could just remind myself that I’m trying to be better now. I think I’m starting to see that I can’t let my fears hold me back forever. But it still feels risky.",
+          "therapist_utterance": "Recognizing that you can remind yourself of your progress is an important step. It shows you're beginning to build confidence. What might be a small way to ease into that conversation, so it feels less risky for you?",
+          "therapist_use": "Exploring confidence: encouraged Alex to think about manageable steps to ease his fears."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of reinforcing motivation was not fully met as Alex continues to express concern. The client’s aim to explore practical steps still needs clarity since he has not yet taken concrete actions.",
+          "client_utterance": "Maybe I could start with just a text like 'Hey, I’ve been thinking about you' without diving too deep initially. That feels small enough to manage, but I’m still nervous about her response.",
+          "therapist_utterance": "That sounds like a wonderful first step; starting small can help build your confidence. It’s okay to feel nervous; just remember that reaching out is a sign of growth. How would you feel after sending that text?",
+          "therapist_use": "Encouragement: validated Alex's plan to start with a small step to build confidence."
+        },
+        {
+          "reason_for_ending": "KEEP: The therapist's objective of enhancing commitment to change was met partially as Alex is willing to take a small step but still feels anxiety. The client’s objective to explore practical steps is still ongoing since he hasn't fully committed to the action.",
+          "client_utterance": "I think sending that text would feel like a relief, like I’m finally taking a step forward. But I still doubt if it will change anything. I want to believe it could help me feel more connected.",
+          "therapist_utterance": "It's great to hear that sending the text feels like a relief! While it's normal to doubt, taking that step can open up new possibilities for connection. What would you like to do after sending the text if she responds positively?",
+          "therapist_use": "Future-focused question: helped Alex envision positive outcomes to reinforce motivation."
+        },
+        {
+          "reason_for_ending": "MOVE: The therapist's objective to strengthen Alex's commitment to change was successfully met as he has articulated specific action steps. The client’s objective to explore practical steps is met, as he has created a clear plan to reach out to his mother.",
+          "client_utterance": "If she responds well, I’d like to talk about what I’ve been working on and how much I miss her. I feel like this could really help me shift my mindset. I’m ready to give it a try.",
+          "therapist_utterance": "That’s a fantastic plan, and it sounds like you’re feeling hopeful about this step! Recognizing the potential for positive change shows your growth. I'm here to support you as you take this important action.",
+          "therapist_use": "Affirmation: celebrated Alex's readiness to take action, reinforcing his commitment."
+        }
+      ]
+    }
+  ]
+}

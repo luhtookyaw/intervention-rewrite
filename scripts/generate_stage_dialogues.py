@@ -237,6 +237,16 @@ def get_case(cases: list[dict[str, Any]], case_id: str | None, index: int | None
     return cases[index]
 
 
+def _slugify(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "_", value.strip().lower()).strip("_")
+
+
+def build_default_output_path(case_id: str, resistance_level: str) -> Path:
+    safe_level = _slugify(resistance_level) or "unknown"
+    safe_case_id = case_id.replace("-", "_")
+    return ROOT / "outputs" / "dialogues" / f"dialogues_{safe_level}_{safe_case_id}.json"
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Generate therapist/client plans and dialogue sequentially by phase."
@@ -253,12 +263,19 @@ def main() -> None:
     parser.add_argument(
         "--output",
         type=Path,
-        default=ROOT / "outputs" / "phase_dialogues.json",
+        default=None,
     )
     args = parser.parse_args()
 
     cases = load_cases(args.data)
     case = get_case(cases, args.case_id, args.index)
+    case_id = str(case.get("id"))
+    resistance_level = str(case.get("resistance_level", "unknown"))
+    output_path = (
+        args.output
+        if args.output is not None
+        else build_default_output_path(case_id, resistance_level)
+    )
     values = build_template_values(case)
 
     dialogue_template = load_text(ROOT / "prompts" / "dialogue_system.txt")
@@ -297,7 +314,7 @@ def main() -> None:
         # Backward compatibility if prompt uses old placeholder name.
         dialogue_values["previous_phase_dialogues"] = previous_dialogues_text
         dialogue_prompt = safe_format(dialogue_template, dialogue_values)
-        print(dialogue_prompt)
+
         dialogue = generate_json(
             prompt=dialogue_prompt,
             model=args.model,
@@ -315,17 +332,17 @@ def main() -> None:
         previous_phase_dialogues.append({"phase": phase, "dialogue": dialogue})
 
     payload = {
-        "case_id": case.get("id"),
+        "case_id": case_id,
         "name": case.get("name"),
         "phase_order": PHASES,
         "results": results,
     }
 
-    args.output.parent.mkdir(parents=True, exist_ok=True)
-    with args.output.open("w", encoding="utf-8") as f:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with output_path.open("w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
 
-    print(f"Generated {len(results)} phases for case_id={case.get('id')} -> {args.output}")
+    print(f"Generated {len(results)} phases for case_id={case_id} -> {output_path}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,359 @@
+{
+  "case_id": "32-2",
+  "name": "Leo",
+  "phase_order": [
+    "precontemplation",
+    "contemplation",
+    "preparation"
+  ],
+  "results": [
+    {
+      "phase": "precontemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "pre-contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Build rapport and increase awareness of Leo's thoughts and feelings related to his family dynamics.",
+          "strategies": [
+            {
+              "strategy_name": "Reflective Listening",
+              "instructions_for_therapist": [
+                "Listen actively to Leo's concerns and feelings without interruption.",
+                "Reflect back what Leo shares, particularly his feelings of disconnection and fears of judgment from his parents.",
+                "Use phrases like 'It sounds like you feel judged and unvalued by your parents when you share your successes.'"
+              ]
+            },
+            {
+              "strategy_name": "Expressing Empathy",
+              "instructions_for_therapist": [
+                "Acknowledge the difficulty of Leo's family dynamics.",
+                "Validate his feelings of anger and frustration regarding his perceived failures and his parents' expectations.",
+                "Use empathetic statements such as 'It’s understandable to feel overwhelmed by these family pressures.'"
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Gently explore the gap between Leo's current experiences and his values regarding family support and recognition.",
+                "Ask open-ended questions like, 'How do you feel when you think about your achievements in relation to your parents' views?'"
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Identifying Automatic Thoughts",
+              "instructions_for_therapist": [
+                "Encourage Leo to articulate the thoughts that arise when he thinks about sharing his achievements with his parents.",
+                "Guide him to recognize the negative predictions he has, such as fearing judgment or rejection."
+              ]
+            },
+            {
+              "technique_name": "Recognizing Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Help Leo identify and label cognitive distortions in his thinking, such as 'all-or-nothing' thinking regarding his accomplishments.",
+                "Ask questions like 'Do you think it’s possible your parents might react differently than you expect?'"
+              ]
+            },
+            {
+              "technique_name": "Functional Analysis of Behavior",
+              "instructions_for_therapist": [
+                "Explore with Leo the consequences of his decision to withhold sharing his achievements from his parents.",
+                "Discuss how this behavior aligns with his feelings of worthlessness and helplessness."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In this structured therapy plan, I first focus on building rapport and trust with Leo, who is in the pre-contemplation phase and exhibits advanced resistance. I begin with motivational interviewing strategies, employing reflective listening to validate his feelings and experiences regarding family dynamics. This helps to create a safe space for him to share without fear of judgment. Next, I express empathy towards his feelings of anger and frustration, acknowledging the challenges he faces with his parents. I then work on developing discrepancies between his current emotional state and his personal values, encouraging him to reflect on how his experiences align with what he truly desires in family relationships. Concurrently, I implement cognitive-behavioral techniques starting with identifying automatic thoughts that arise when he considers sharing achievements with his parents. This awareness can lead to recognizing cognitive distortions, such as all-or-nothing thinking. Finally, I facilitate a functional analysis of his behavior to explore the consequences of withholding communication, which may reinforce feelings of worthlessness. This combined approach allows Leo to gain insight without feeling pressured to change immediately.",
+        "progress_marker": "Leo begins to articulate his feelings and thoughts more openly, demonstrating increased self-awareness and engagement in the therapeutic process."
+      },
+      "client_plan": {
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I want to understand why I feel this way without feeling judged.",
+        "client_state": {
+          "awareness": "I don't really see my relationship problems as a big deal; they're just how things are.",
+          "motivation": "I feel like change is impossible because my parents will always see me as a failure.",
+          "openness": "I'm hesitant to share my true feelings because I worry about being misunderstood.",
+          "resistance": "I feel really defensive about discussing my family and their opinions."
+        },
+        "client_reasoning": "I can't help but think that my situation isn't that bad; everyone has family issues, right? But when I think about talking about it in therapy, I feel this wave of defensiveness. It's like I know deep down that my parents will always see me as a disappointment, and that makes me want to shut down. I don’t want to dig too deep into my feelings because what if it just makes everything worse? I feel anxious about being vulnerable and fear that discussing my family dynamics will only lead to more pain. There's this part of me that feels overwhelmed, like I’m stuck in a cycle where nothing can change. Therapy feels uncomfortable because I'm not sure how to express these thoughts without feeling judged or misunderstood. I just wish I could be accepted as I am without this constant need for approval, but that feels like a far-off dream."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist's goal of building rapport and increasing awareness is not fully met as Leo is still defensive about discussing his family. Leo's objective of understanding his feelings without feeling judged is not met since he struggles to articulate his thoughts openly.",
+          "client_utterance": "I don’t know, it just feels like every time I try to talk about my family, I end up feeling worse. Like, I want to get it off my chest, but what if it just makes things more complicated? Honestly, I think my parents are always going to see me as a failure, and that’s just how it is.",
+          "therapist_utterance": "It sounds like you feel stuck and worry that sharing your feelings might only bring more pain. You seem to believe that your parents will always view you negatively, which makes it hard to even start discussing these feelings. It’s understandable to feel overwhelmed by the thought of bringing this up.",
+          "therapist_use": "Reflective Listening: validated Leo's feelings about the difficulty of discussing family dynamics."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective of fostering deeper awareness is not fully met as Leo remains resistant to exploring his feelings. Leo's goal of understanding his emotions without judgment is still unmet since he is hesitant to delve deeper.",
+          "client_utterance": "Yeah, I guess I just think that everyone has family issues, and mine aren't that special. I mean, talking about it feels like I am just complaining, and I don’t want to be that person. Plus, what’s the point? They’re never going to change.",
+          "therapist_utterance": "It seems like you feel your family issues are common and maybe not worth discussing, which might keep you feeling isolated. You might be worried that sharing could come off as complaining, and that’s a valid concern. How do you think it would feel to express those thoughts, even just to yourself?",
+          "therapist_use": "Expressing Empathy: acknowledged Leo's feelings of isolation and the fear of being perceived as complaining."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's aim to increase awareness of Leo's feelings is still in progress as he does not yet recognize the impact of his thoughts. Leo hasn't fully explored his feelings, which prevents him from achieving his objective.",
+          "client_utterance": "I don’t know, maybe it would feel freeing, but I’m also scared. What if I really dig into it and realize I’m just stuck? I mean, what if my parents really don’t care about my achievements? That would hurt.",
+          "therapist_utterance": "It sounds like you’re grappling with the fear of discovering painful truths about your parents' feelings. It’s understandable to be scared of what you might find when you dig deeper. What do you think keeps you from sharing your achievements with them?",
+          "therapist_use": "Developing Discrepancy: explored the gap between Leo's feelings about his achievements and his parents' views."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective of helping Leo recognize discrepancies in his thoughts is not fully met since he hasn't yet articulated his automatic thoughts. Leo's objective of understanding his feelings without judgment is still not achieved as he remains hesitant.",
+          "client_utterance": "I guess I just think they’ll dismiss everything I do. Like, no matter what I accomplish, it never feels good enough for them. So why bother sharing? It’s easier to just keep it to myself.",
+          "therapist_utterance": "It seems like you’re fearing that your accomplishments won't be valued by your parents, which leads you to withhold sharing them. That must feel pretty isolating and frustrating for you. Can we explore what thoughts come to your mind when you think about sharing those achievements?",
+          "therapist_use": "Identifying Automatic Thoughts: encouraged Leo to articulate the thoughts that arise when considering sharing his achievements."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's goal of helping Leo recognize negative predictions is still in progress as he hasn't fully unpacked his cognitive distortions. Leo's goal of understanding his feelings remains unmet because he is still defensive and hesitant.",
+          "client_utterance": "Honestly, I just think they’ll think I’m trying to show off or something. Like they’ll think I’m not being genuine. I don't want to be judged for what I’ve done, but it feels like that’s all they see.",
+          "therapist_utterance": "It sounds like you’re worried that your parents might misinterpret your intentions, which makes it hard to share. It’s completely valid to fear judgment from those you care about. Do you think there’s a chance they might react differently than you expect?",
+          "therapist_use": "Recognizing Cognitive Distortions: helped Leo identify possible cognitive distortions in his thinking about sharing with his parents."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's aim to facilitate a functional analysis of Leo's behavior is not yet fully met as he hasn't considered the consequences of withholding communication. Leo's objective of understanding his feelings without judgment still remains unfulfilled.",
+          "client_utterance": "I guess if I don’t share, it just makes me feel even more disconnected. But if I do share, it could blow up in my face. It’s a lose-lose situation, and I just don’t know what to do.",
+          "therapist_utterance": "It seems like you recognize that withholding could lead to more feelings of disconnection, but the fear of rejection holds you back. That’s a tough spot to be in, feeling like you have no good options right now. What do you think would happen if you did choose to share something small with them?",
+          "therapist_use": "Functional Analysis of Behavior: explored the consequences of withholding communication and how it aligns with Leo's feelings."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist's objective of increasing awareness of Leo's thoughts and feelings regarding his family dynamics is met as he begins to articulate his emotions. Leo's objective of understanding his feelings without judgment is also met as he expresses his disconnection and fears more openly. The conversation has progressed toward deeper self-awareness and exploration of his family dynamics.",
+          "client_utterance": "Maybe I could try sharing something small and see how it goes. I mean, I do want to feel more connected, even if it’s scary. I just hope it won’t make things worse.",
+          "therapist_utterance": "That sounds like a brave step, considering how difficult this is for you. It’s understandable to feel apprehensive, but trying something small could lead to a better understanding. I’m here to support you as you navigate this.",
+          "therapist_use": "Expressing Empathy: validated Leo's feelings of apprehension while supporting his willingness to try sharing."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore and resolve Leo's ambivalence about change while increasing his motivation and readiness to address familial relationships.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Ask Leo to articulate both the reasons he wants to change and the reasons he feels hesitant, encouraging him to express his feelings in a safe environment.",
+                "Use reflective listening to validate his feelings, demonstrating understanding of his conflicting desires."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Prompt Leo to discuss what a positive family relationship might look like and how it aligns with his values.",
+                "Encourage him to express any instances where he felt good about reaching out or connecting with his family."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Facilitate a discussion where Leo can weigh the pros and cons of taking steps toward change versus remaining in his current state.",
+                "Help him recognize the dissonance between his current behaviors and his values around family connection."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Guide Leo to identify specific automatic thoughts related to his parents’ perceptions and his feelings of worthlessness.",
+                "Use Socratic questioning to challenge the validity of these thoughts, encouraging him to consider alternative perspectives."
+              ]
+            },
+            {
+              "technique_name": "Identifying Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Help Leo recognize cognitive distortions such as 'all-or-nothing thinking' and 'catastrophizing' in relation to his family interactions.",
+                "Facilitate discussions around evidence that contradicts these distortions, emphasizing past positive experiences."
+              ]
+            },
+            {
+              "technique_name": "Examining Underlying Beliefs",
+              "instructions_for_therapist": [
+                "Encourage Leo to explore the underlying beliefs that drive his feelings of unlovability and worthlessness.",
+                "Facilitate an exploration of how these beliefs manifest in his current relationships and contribute to his ambivalence about change."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In approaching Leo's treatment, the therapy plan begins by addressing his ambivalence through motivational interviewing strategies. First, exploring ambivalence allows Leo to articulate both his desire for change and his hesitations, fostering self-awareness. Using reflective listening, I will validate his feelings, which is crucial given his advanced resistance and anger towards therapy. Next, eliciting change talk is vital to empower Leo, prompting him to envision positive familial relationships that align with his values. Decisional balance discussions will help him weigh the pros and cons of his current behaviors against his long-term goals, highlighting discrepancies that may motivate change. In conjunction with MI, I will employ cognitive restructuring from CBT to challenge his automatic negative thoughts about his worth and his parents' perceptions. Socratic questioning will facilitate this process, allowing Leo to question the validity of his beliefs. Identifying cognitive distortions will help him see the unrealistic nature of his thoughts, while examining underlying beliefs will provide deeper insights into his ambivalence. This combination of MI and CBT creates a non-confrontational, collaborative approach, encouraging reflection and insight as Leo navigates his feelings.",
+        "progress_marker": "Leo expresses increased awareness of his ambivalence and begins to articulate potential motivations for change during sessions, indicating a readiness to explore his feelings further."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I want to explore my feelings about my family and how they affect my self-worth.",
+        "client_state": {
+          "awareness": "I am starting to see that my relationship with my parents impacts my self-esteem and how I view my accomplishments.",
+          "motivation": "I feel a desire to improve my relationship with my parents and myself, but I am scared of the potential outcomes.",
+          "openness": "I am somewhat willing to share my feelings in therapy, but I still hold back due to fear of judgment.",
+          "resistance": "I feel angry and doubtful about how therapy can help when I still believe my parents see me as a failure."
+        },
+        "client_reasoning": "I’ve begun to realize that I keep falling into the same patterns with my parents. When I accomplished something at work, instead of feeling proud, I was anxious about how they would react. I noticed that I often withhold good news because I fear their judgment. It's frustrating because I want their approval, but it feels like no matter what I do, I can’t escape their expectations. I feel conflicted about changing this dynamic; part of me knows I should speak up, but I worry that it will just lead to more disappointment. I also feel guilty for wanting to distance myself from them, yet I can’t shake the feeling that I have to protect myself. Therapy is helping me reflect on these issues, but I still feel a lot of anger and doubt about whether I can truly change my situation or if it’s even worth the effort."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - Therapist objective was not met because Leo hasn't fully articulated his ambivalence. Client objective was not met as Leo still holds back from expressing his feelings.",
+          "client_utterance": "I keep thinking about what it would be like to share something small with my parents, but I still feel that tightness in my chest. Part of me wants to reach out, but then I remember the last time it ended poorly. What if they just dismiss me again? I don't know if I can handle that kind of rejection again.",
+          "therapist_utterance": "It sounds like there's a real conflict for you between wanting to connect and fearing dismissal. That tension must be really hard to navigate. Can you tell me more about what you think might happen if you did share something small?",
+          "therapist_use": "Reflective listening: used to validate Leo's feelings about his conflict and encourage him to explore his thoughts further."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective was not met as Leo hasn't discussed reasons for hesitance in detail. Client objective was not met since Leo remains fearful and hasn't identified motivations for change.",
+          "client_utterance": "I guess I worry that even a small share could lead to a big reaction, like they might make it about them or just brush it off. I want to be seen as more than their expectations. But part of me thinks if I don’t try, I’ll never know how they might react. It’s just so confusing.",
+          "therapist_utterance": "It's understandable to feel confused when you're trying to protect yourself from potential hurt. You want to be seen for who you are, not just the expectations placed upon you. What do you think it would take for you to feel ready to share something?",
+          "therapist_use": "Eliciting change talk: encouraged Leo to express what might help him feel ready to share, fostering self-exploration."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective was not met because Leo hasn't fully considered the potential benefits of sharing. Client objective was not met as Leo continues to hold back due to fear.",
+          "client_utterance": "I think it would help if I felt more secure in myself first, like maybe if I had more confidence in what I’ve accomplished. But I don’t always feel that way, and I’m worried they’ll see me as a failure no matter what. It’s like I’m trapped in this cycle of feeling unworthy.",
+          "therapist_utterance": "It seems like your confidence is a big factor in how you perceive sharing with your parents. That cycle of feeling unworthy must be exhausting. Let’s explore some past moments when you felt proud of yourself—how did those moments impact your self-view?",
+          "therapist_use": "Examining underlying beliefs: aimed at helping Leo reflect on positive experiences that may counter his feelings of unworthiness."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective was not met since Leo hasn't identified any positive experiences yet. Client objective was not met as Leo struggles to connect his accomplishments to self-worth.",
+          "client_utterance": "I remember when I got that promotion at work, and for a moment, I felt good. But then I just thought they’d see it as luck or something, not really my achievement. I wish I could hold onto that feeling longer. It just fades away too quickly.",
+          "therapist_utterance": "It sounds like that moment of pride was overshadowed by doubts about how your parents would perceive it. It’s tough to feel good about your achievements when you fear they won't recognize your efforts. What if you could focus on that initial pride instead of what they might think?",
+          "therapist_use": "Cognitive restructuring: encouraged Leo to focus on his feelings of pride rather than his doubts, promoting a positive self-image."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective was not met because Leo hasn't fully connected past positive experiences to the present. Client objective was not met as Leo still feels disconnected from their accomplishments.",
+          "client_utterance": "I really want to feel that pride more often, but it’s like a flicker, and then it’s gone. Maybe I could write down the things I’m proud of, but even then, I’m not sure it would matter. What if it doesn’t change how I feel about my parents?",
+          "therapist_utterance": "Writing down your achievements could be a powerful way to reinforce that feeling of pride. It’s understandable to doubt whether it will change anything with your parents, but it could help strengthen your own self-view. What do you think it would mean for you to acknowledge your own successes, regardless of their opinions?",
+          "therapist_use": "Decisional balance discussions: facilitated Leo's exploration of the potential benefits of recognizing his achievements for his self-esteem."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective was not met since Leo hasn't articulated the meaning of self-acknowledgment yet. Client objective was not met as Leo remains uncertain about the impact of his actions.",
+          "client_utterance": "I think it would mean a lot to me, like I’d finally be giving myself permission to feel proud. But then I wonder if it’s just a way to avoid the real issues with my parents. It feels selfish to focus on myself when I still have these unresolved feelings.",
+          "therapist_utterance": "It’s not selfish at all to want to acknowledge your own worth; it’s an essential part of healing. By valuing yourself, you may find the strength to address those unresolved issues with your parents more effectively. Would you be open to trying that and seeing how it feels?",
+          "therapist_use": "Encouraging self-acknowledgment: helped Leo recognize the importance of valuing himself as a step towards addressing family issues."
+        },
+        {
+          "reason_for_ending": "MOVE - Therapist objective was met as Leo began to articulate his motivations for self-acknowledgment. Client objective was met since Leo is open to exploring his feelings and potential for change.",
+          "client_utterance": "I think I’m ready to start writing down my achievements. It’s time I focus on what I can control and how I feel about myself, regardless of their opinions. If I can work on that, maybe I’ll find the courage to share with my parents. It feels like a step forward.",
+          "therapist_utterance": "That’s a fantastic realization, Leo! Focusing on your own achievements is a powerful step towards building your self-worth. I’m excited to see how this shift in perspective will help you navigate your relationship with your parents. Remember, I’m here to support you through this journey.",
+          "therapist_use": "Affirmation of change: reinforced Leo's readiness to take actionable steps towards improvement and connection."
+        }
+      ]
+    },
+    {
+      "phase": "preparation",
+      "therapist_plan": {
+        "phase_of_therapy": "preparation",
+        "motivational_interviewing_plan": {
+          "objective": "Strengthen Leo's commitment to change by exploring his motivations and readiness to address family dynamics.",
+          "strategies": [
+            {
+              "strategy_name": "Strengthening Commitment Language",
+              "instructions_for_therapist": [
+                "Encourage Leo to express what changes he wishes to make regarding his relationships with his parents.",
+                "Ask open-ended questions to elicit Leo's thoughts on the importance of these changes for his emotional well-being.",
+                "Reflect back his statements to reinforce his commitment and motivation."
+              ]
+            },
+            {
+              "strategy_name": "Exploring Confidence and Readiness",
+              "instructions_for_therapist": [
+                "Discuss with Leo what he feels he is ready to change and what might be holding him back.",
+                "Use scaling questions (e.g., on a scale from 1 to 10, how confident do you feel about communicating with your parents?) to gauge his readiness.",
+                "Help him identify specific instances where he felt capable of making changes in the past."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Collaboratively explore who in Leo's life can support him during this change process.",
+                "Discuss possible resources, such as support groups or literature on family dynamics, that can aid his journey."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Action Planning",
+              "instructions_for_therapist": [
+                "Work with Leo to create a step-by-step action plan for communicating with his parents, starting with small, manageable conversations.",
+                "Encourage him to set specific goals for each interaction, focusing on sharing accomplishments gradually.",
+                "Ensure the plan is realistic and addresses his fears of judgment."
+              ]
+            },
+            {
+              "technique_name": "Coping Strategy Development",
+              "instructions_for_therapist": [
+                "Help Leo identify practical coping strategies for managing his anxiety before and during conversations with his parents.",
+                "Explore relaxation techniques or positive affirmations he can use to combat feelings of unworthiness.",
+                "Reinforce the idea of viewing setbacks as learning opportunities rather than failures."
+              ]
+            },
+            {
+              "technique_name": "Behavioral Experiments",
+              "instructions_for_therapist": [
+                "Encourage Leo to engage in a behavioral experiment by sharing a small success with his parents and observing their reactions.",
+                "Discuss the outcomes of these interactions in future sessions, emphasizing any positive feedback or lessons learned."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In developing this therapy plan, I first recognized Leo's readiness for change, which indicates he is in the Preparation phase. To strengthen his commitment, I employed Motivational Interviewing strategies, such as strengthening commitment language, to encourage him to vocalize his desire to improve family dynamics. By exploring his confidence and readiness using scaling questions, I aimed to identify specific barriers, which is crucial given his advanced resistance level. Additionally, identifying supports and resources will empower him and reduce feelings of isolation. On the CBT side, action planning will provide Leo with a structured approach to gradually engage with his parents, addressing his fears while using manageable steps. The coping strategy development aims to equip him with tools to manage anxiety and feelings of worthlessness, reinforcing his self-efficacy. Finally, behavioral experiments will allow him to test his fears in a controlled manner, thus providing real-time feedback and reinforcing positive change. This comprehensive approach addresses Leo's unique resistance profile and prepares him for actionable steps towards improving his family relationships.",
+        "progress_marker": "Leo will successfully initiate a brief, positive conversation with a family member about a recent accomplishment, and report on his feelings post-interaction."
+      },
+      "client_plan": {
+        "phase_of_change": "preparation",
+        "client_objective": "I hope to explore ways to communicate better with my parents and build a healthier relationship with them.",
+        "client_state": {
+          "awareness": "I recognize that my relationship with my parents is strained and that my coping strategies are not helping me feel better.",
+          "motivation": "I feel a strong desire to change my situation and improve my connections with my family.",
+          "openness": "I'm willing to discuss my feelings and explore potential changes, but I still feel some hesitation.",
+          "resistance": "I have significant doubts about whether I can change my family's perception of me, and I often feel angry about this."
+        },
+        "client_reasoning": "I realize that my relationship with my parents needs to change; it's affecting my happiness and sense of self-worth. I've started to think about how I can approach them differently, rather than just withholding my good news out of fear of judgment. I want to feel more connected and less anxious when talking to them. However, I still worry that no matter what I do, they'll continue to see me as a failure. Therapy has helped me understand my feelings and how my past experiences shape my current behaviors. I feel motivated to take steps toward change, but there’s a part of me that fears I might fail again. I want to believe that I can improve my family dynamics, but the thought of rejection still looms large in my mind."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist's objective to explore Leo's motivations and readiness for change was not fully met, as Leo still expresses doubts about his family's perceptions. The client's objective to discuss ways to communicate better with his parents is not fully addressed since he hasn't yet articulated specific changes he wishes to make.",
+          "client_utterance": "I’ve been thinking about how I can start sharing my accomplishments, but I still feel so hesitant. What if they just dismiss it again? It’s like I’m caught between wanting to connect and fearing that they’ll just see me as a failure.",
+          "therapist_utterance": "It sounds like you're feeling that tension between your desire to connect and the fear of being dismissed. Those feelings of doubt can be really powerful. What do you think would help you feel more confident in sharing something with them?",
+          "therapist_use": "Open-ended question: encouraged exploration of Leo's feelings and thoughts about sharing."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective to strengthen Leo's commitment was not fully met since Leo hasn't yet articulated a clear action plan for communicating with his parents. The client's objective to explore ways to communicate better remains unfulfilled as he hasn't committed to specific steps.",
+          "client_utterance": "Maybe I could start small, like just mentioning a recent project at work. But then I worry they won't care, or worse, they'll think I'm trying to show off. It feels risky, and I’m not sure I can handle another rejection.",
+          "therapist_utterance": "Starting with something small sounds like a practical approach. It’s understandable to feel that risk, especially when past experiences have been painful. How might you prepare yourself for that conversation to feel more secure?",
+          "therapist_use": "Scaling question: helped Leo assess his readiness and prepare for the conversation."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's goal of identifying supports and resources was not fully met as Leo hasn't discussed who might help him during this process. The client's objective remains unmet because he hasn't yet detailed a clear action plan for reaching out to his parents.",
+          "client_utterance": "I guess I could talk to my friend who understands my family dynamics. But I still feel like no one can really help me with this. It's like I have to do it on my own, and that feels overwhelming.",
+          "therapist_utterance": "It’s great that you have a friend who understands your situation. While it might feel overwhelming to think you have to do this alone, remember that support can come from various places. What do you think your friend might offer in terms of encouragement or perspective?",
+          "therapist_use": "Reflective listening: validated Leo's feelings of isolation while encouraging him to consider support."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective to strengthen commitment language was not fully met, as Leo is still struggling to express concrete changes he wants to make. The client objective remains unfulfilled since Leo hasn't committed to specific actions for improving his relationship with his parents.",
+          "client_utterance": "I think my friend might help me see things differently, but I still feel hesitant to take that step. What if I share and they just don't respond the way I hope? I guess there's a part of me that wonders if it's worth the risk.",
+          "therapist_utterance": "It’s understandable to question whether it’s worth the risk, especially when past experiences have made you cautious. Exploring those fears can help you decide what’s best for you. What do you think would make it feel more worthwhile for you to share with your parents?",
+          "therapist_use": "Exploring fears: encouraged Leo to articulate what would make sharing feel valuable."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective to facilitate Leo's action planning was not met as he hasn't yet established a clear plan for communicating with his parents. The client objective is unmet because Leo has not yet defined specific steps he will take.",
+          "client_utterance": "Maybe if I set a small goal, like just saying something positive about my work, that could be manageable. But I still feel that anxiety creeping in, like what if they don't respond well? It’s hard to shake off those feelings.",
+          "therapist_utterance": "Setting a small goal is a fantastic idea, and it shows you’re thinking about practical steps forward. It’s normal to feel anxious, but facing that anxiety can lead to growth. How can you remind yourself of your worth before you try to share?",
+          "therapist_use": "Action planning: guided Leo to establish a small, achievable goal to facilitate communication."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective to help Leo identify coping strategies was not fully met since he hasn't developed specific techniques for managing his anxiety. The client objective remains unmet as he hasn't committed to a clear action plan for interacting with his parents.",
+          "client_utterance": "I could try using some positive affirmations to boost my confidence before I talk to them. But honestly, I still feel like it might not change anything. What if they still see me as a failure no matter what I say?",
+          "therapist_utterance": "Using affirmations is a great way to build your confidence, and it’s understandable to feel uncertain about the outcome. You can’t control their perceptions, but you can control how you view yourself. What affirmations do you think would resonate with you?",
+          "therapist_use": "Coping strategy development: supported Leo in identifying practical techniques to manage anxiety."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist's objective to strengthen Leo's commitment to change and explore his motivations was met as he articulated a desire to use affirmations to improve self-confidence, reflecting readiness. The client objective was fulfilled as Leo expressed concrete steps for improving communication with his parents, indicating a readiness for change.",
+          "client_utterance": "I think I’ll start with affirmations about my achievements, and then I can try sharing something small with my parents. It feels like a good step forward, even if it’s scary. I’m ready to give it a try.",
+          "therapist_utterance": "That’s a powerful decision, Leo! Taking these steps shows your commitment to change and improving your relationship with your parents. I’m proud of you for embracing this opportunity to grow.",
+          "therapist_use": "Strengthening commitment language: reinforced Leo's commitment and acknowledged his progress."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "case_id": "15-2",
+  "name": "Karen",
+  "phase_order": [
+    "precontemplation",
+    "contemplation",
+    "preparation"
+  ],
+  "results": [
+    {
+      "phase": "precontemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "pre-contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "To build rapport with Karen and increase her awareness of her thoughts and feelings regarding her workplace situation.",
+          "strategies": [
+            {
+              "strategy_name": "Reflective Listening",
+              "instructions_for_therapist": [
+                "Listen attentively to Karen's concerns without interruption.",
+                "Reflect her feelings and thoughts back to her, highlighting her emotions of sadness and frustration.",
+                "Use phrases like, 'It sounds like you feel overlooked and that makes you feel sad and frustrated.'"
+              ]
+            },
+            {
+              "strategy_name": "Expressing Empathy",
+              "instructions_for_therapist": [
+                "Validate Karen's experiences and feelings by acknowledging how difficult her situation is.",
+                "Share an understanding of her feelings of being underappreciated, saying, 'It must be really tough to feel like your contributions are not valued.'"
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Gently explore the gap between Karen’s current feelings about her worth and her intrinsic value and expertise.",
+                "Ask open-ended questions like, 'How do you feel when your ideas are overlooked compared to how you view your own expertise?'"
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Identifying Automatic Thoughts",
+              "instructions_for_therapist": [
+                "Encourage Karen to identify the automatic thoughts that arise when she feels dismissed at work.",
+                "Ask her to share specific moments when she felt her input was overlooked and what thoughts accompanied those moments."
+              ]
+            },
+            {
+              "technique_name": "Recognizing Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Help Karen identify cognitive distortions in her thoughts, such as catastrophizing or black-and-white thinking.",
+                "Facilitate discussions around her beliefs that lead her to feel helpless or worthless."
+              ]
+            },
+            {
+              "technique_name": "Functional Analysis of Behavior",
+              "instructions_for_therapist": [
+                "Guide Karen to reflect on how her current behaviors (e.g., reluctance to engage) are influenced by her thoughts and emotions.",
+                "Explore the reasons behind her avoidance and how it impacts her feelings of worthiness."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In this therapy plan, the focus is on building rapport and increasing awareness in Karen, who is currently in the pre-contemplation phase. The use of motivational interviewing strategies, such as reflective listening and expressing empathy, is crucial to create a safe environment where Karen can express her feelings. By reflecting her feelings of sadness and frustration, I can validate her experiences and reduce defensiveness. Developing discrepancy allows us to explore the gap between her feelings of worthlessness and her actual expertise, fostering curiosity about her beliefs. Concurrently, CBT interventions such as identifying automatic thoughts and recognizing cognitive distortions will help Karen gain insight into her thought patterns. Exploring her avoidance behaviors through functional analysis will enable her to understand the impact of her current coping strategies without pushing for immediate change. This balanced approach respects her resistance level while promoting self-exploration and awareness.",
+        "progress_marker": "Karen begins to articulate her feelings and thoughts about her situation without defensiveness, showing signs of increased self-awareness."
+      },
+      "client_plan": {
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I want to understand why I feel this way, but I'm not sure if talking about it will help.",
+        "client_state": {
+          "awareness": "I know something feels off, but I don’t see it as a big problem.",
+          "motivation": "I don’t really want to change; it feels pointless.",
+          "openness": "I hesitate to share my thoughts because I doubt they matter.",
+          "resistance": "I feel defensive about discussing my feelings and the situation."
+        },
+        "client_reasoning": "I often feel like my contributions at work are ignored, and it’s disheartening. I’ve tried to express my thoughts, but they get brushed aside, making me question my worth. Talking about it feels uncomfortable because I worry it won’t lead to anything useful. I tell myself it’s easier to avoid these discussions since they only remind me of how undervalued I feel. I’m in a tough spot; I feel trapped in this cycle of wanting validation but also believing it’s unrealistic to seek it. Therapy seems like it could help, but I’m skeptical. I don’t want to dig into these feelings if it’s just going to make me more upset. It’s hard to open up when I’m not sure it will lead to any change. I keep thinking that if my input doesn’t matter, then why bother trying to engage? It’s safer to stay quiet than risk further disappointment.",
+        "progress_marker": "Client expresses feelings of being overlooked and doubts the value of their input."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP; therapist objective not met: didn't fully explore Karen's feelings of worthlessness; client objective not met: still doubts if discussing feelings will help.",
+          "client_utterance": "I just feel like my ideas don’t matter at work. Sometimes it seems pointless to even try to share them because they always get overlooked. I guess I worry that talking about it won’t really change anything.",
+          "therapist_utterance": "It sounds like you feel overlooked, and that makes you feel sad and frustrated. It must be really tough to feel like your contributions are not valued. What do you think is going on when your ideas are overlooked?",
+          "therapist_use": "Reflective Listening: to validate Karen's feelings and encourage her to share more."
+        },
+        {
+          "reason_for_ending": "KEEP; therapist objective not met: didn't delve deeper into the gap between feelings of worthlessness and her expertise; client objective not met: still unsure if sharing will lead to change.",
+          "client_utterance": "I think it just reinforces this feeling of being unworthy, like I don’t really have anything valuable to offer. It’s frustrating because I know I have skills, but it’s hard to believe that when no one seems to see them.",
+          "therapist_utterance": "It sounds like there's a significant gap between how you see your expertise and how it's acknowledged at work. How do you feel when your ideas are overlooked compared to how you view your own expertise?",
+          "therapist_use": "Developing Discrepancy: to explore the gap in Karen's perception of her value and the recognition she receives."
+        },
+        {
+          "reason_for_ending": "KEEP; therapist objective not met: needs to validate her feelings more; client objective not met: still feeling defensive about discussing her worth.",
+          "client_utterance": "I guess I just feel stuck. I know I have good ideas, but it feels like I’m just shouting into the void. I don’t know if talking about this will make me feel any better or just remind me how undervalued I am.",
+          "therapist_utterance": "It must be really frustrating to feel like you're not being heard. It's understandable to feel defensive when you’re questioning your worth. What are some automatic thoughts that come to mind when you feel this way?",
+          "therapist_use": "Expressing Empathy: to validate her experiences and encourage her to reflect on her thoughts."
+        },
+        {
+          "reason_for_ending": "KEEP; therapist objective not met: hasn't fully explored Karen's automatic thoughts; client objective not met: still hesitant to engage in deeper discussion.",
+          "client_utterance": "When I think about it, I often tell myself that maybe I’m just not good enough or that my input just doesn’t hold weight. It’s like I’m stuck in this loop of thinking I should just keep quiet. I really don’t know if talking about these thoughts will help.",
+          "therapist_utterance": "It sounds like you're caught in a cycle of negative thinking that makes it hard to voice your ideas. Recognizing those automatic thoughts is a big step. What would you say is the worst part of feeling that your input doesn’t matter?",
+          "therapist_use": "Identifying Automatic Thoughts: to help Karen articulate her negative thoughts and challenge them."
+        },
+        {
+          "reason_for_ending": "KEEP; therapist objective not met: needs to help her identify cognitive distortions more clearly; client objective not met: still feels uncertain about the value of discussing her feelings.",
+          "client_utterance": "I guess I often think that if my ideas are ignored, it means I’m not good at my job, which feels overwhelming. It’s like I can’t separate my worth from what others think of me. I worry that digging into this will only make me feel worse.",
+          "therapist_utterance": "It seems like there's a strong connection between how you perceive your work and your self-worth. It must be tough to feel that pressure. How do you think recognizing these thoughts could change how you feel about sharing your ideas?",
+          "therapist_use": "Recognizing Cognitive Distortions: to help Karen see how her thoughts may not reflect reality."
+        },
+        {
+          "reason_for_ending": "KEEP; therapist objective not met: hasn't fully explored the impact of her avoidance behaviors; client objective not met: still feels defensive and skeptical about the process.",
+          "client_utterance": "I think it’s just easier to avoid putting myself out there. If I don’t try, then I can’t be disappointed again, right? But it feels like that’s just making everything worse in the long run.",
+          "therapist_utterance": "It sounds like avoiding engagement feels safer, but you recognize it might not be helping you in the long term. It’s a tough spot to be in. How do you think this avoidance impacts your feelings about your worth?",
+          "therapist_use": "Functional Analysis of Behavior: to explore how avoidance affects her self-perception."
+        },
+        {
+          "reason_for_ending": "MOVE; therapist objective met: explored Karen's feelings and thoughts about her situation; client objective met: increased awareness of her feelings and the impact of avoidance.",
+          "client_utterance": "I see now that avoiding it just makes me feel worse and more trapped. Maybe talking about this does have some value after all. I’m still not sure about changing things, but I can understand why it’s important to at least explore my feelings.",
+          "therapist_utterance": "That's a significant realization, Karen. It seems like you’re starting to see the connection between your avoidance and how it affects your feelings of worthiness. Exploring these feelings can be a first step toward finding more fulfillment.",
+          "therapist_use": "Reflective Listening: to acknowledge her insights and reinforce her willingness to explore."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore ambivalence around change and increase motivation to address workplace challenges.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Use open-ended questions to encourage Karen to articulate her mixed feelings about making changes at work.",
+                "Reflect on her statements to validate her feelings and help her explore the reasons behind her reluctance to engage more actively."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Ask Karen about times when she felt valued and acknowledged, and what that meant to her.",
+                "Encourage her to express what changes she might envision that could positively impact her work environment."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussion",
+              "instructions_for_therapist": [
+                "Facilitate a discussion about the pros and cons of her current avoidance behavior versus potential engagement.",
+                "Help her identify discrepancies between her values (being recognized and valued) and her current behavior (withholding input)."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Guide Karen through identifying her automatic thoughts about her expertise being overlooked.",
+                "Use Socratic questioning to challenge the validity of her beliefs, such as 'What evidence do you have that your input does not matter?'",
+                "Help her reframe these thoughts by identifying instances where her contributions were acknowledged."
+              ]
+            },
+            {
+              "technique_name": "Identifying Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Assist Karen in recognizing cognitive distortions, such as all-or-nothing thinking and overgeneralization regarding her competence.",
+                "Encourage her to reflect on situations where her contributions were valued, challenging the belief that she is always overlooked."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In working with Karen, the focus is on exploring her ambivalence and enhancing her motivation to change. I first employ Motivational Interviewing strategies, starting with exploring her ambivalence by using open-ended questions about her feelings towards engagement at work. This allows Karen to voice her concerns and recognize her conflicting desires. Next, I will elicit change talk by discussing past experiences where she felt valued, encouraging her to connect with her intrinsic motivation. The decisional balance discussion will help her recognize the gap between her values of being acknowledged and her current avoidance behavior. Concurrently, I will implement Cognitive Behavioral Therapy techniques. Cognitive restructuring will challenge her automatic thoughts and cognitive distortions, guiding her to examine the evidence for her beliefs. This will foster insight into her worth and capabilities, thereby strengthening her self-efficacy. By maintaining a collaborative and supportive stance, I aim to help Karen feel empowered to consider potential changes in her work life.",
+        "progress_marker": "Karen begins to articulate her feelings more openly and explores the potential benefits of engaging with her colleagues, showing increased curiosity about her role and contributions."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to explore my feelings about my work situation and understand the patterns that leave me feeling underappreciated.",
+        "client_state": {
+          "awareness": "I recognize that my feelings of being overlooked and undervalued are affecting my work and self-esteem.",
+          "motivation": "I want to change my situation, but I’m not sure if it’s possible or if it will be worth the effort.",
+          "openness": "I am starting to share my thoughts and feelings, but I still hesitate to fully open up about my deeper fears.",
+          "resistance": "I feel a strong pull to avoid change because it seems daunting and I doubt my ability to succeed."
+        },
+        "client_reasoning": "I’ve been reflecting on how I feel at work, and I can see that my sense of being unappreciated is more than just a passing thought; it’s a pattern that keeps repeating. I notice that I often hold back my ideas because I fear they won’t be valued, which leaves me feeling even more stuck. There’s part of me that wants to advocate for myself and seek validation, but I also worry about the effort it would take and whether it would just lead to more disappointment. I know I deserve to be heard, but I feel so helpless and incompetent at times, like nothing I do will change how others see me. Therapy has helped me to unpack these feelings, but I’m still unsure about how to move forward. The thought of stepping out of my comfort zone is intimidating, and I can’t shake the feeling that I might fail."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Karen hasn't fully explored her ambivalence about engaging at work. Client objective not met: Karen is still hesitant to articulate deeper fears about her situation.",
+          "client_utterance": "I’ve been thinking about how much I hold back because I fear rejection. I know I want to be heard, but the idea of trying again feels so daunting. What if I just end up feeling more discouraged?",
+          "therapist_utterance": "It's understandable to feel that way, especially if past attempts to share have led to disappointment. What would it mean for you to take that risk and express your ideas, despite that fear? Can you think of a time when you felt more confident about sharing your thoughts?",
+          "therapist_use": "Open-ended question: encouraged exploration of her feelings towards risk-taking in sharing ideas."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet facilitated a deep exploration of Karen's past experiences of feeling valued. Client objective not met: Karen is still grappling with her fears and hasn't begun to envision changes.",
+          "client_utterance": "I guess there were moments when my ideas were acknowledged, but they feel so far away now. It’s like those times don’t matter because the current situation feels so heavy. I just don’t know if it’s worth the effort to try again.",
+          "therapist_utterance": "It sounds like those moments of acknowledgment were significant for you. How did it feel to be recognized in those instances? What do you think made those experiences different from what you're facing now?",
+          "therapist_use": "Eliciting change talk: helped Karen articulate her past positive experiences to motivate reflection."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to help Karen explicitly connect her values to her current avoidance behavior. Client objective not met: Karen hasn't reflected deeply enough on how to navigate her fears.",
+          "client_utterance": "When I was acknowledged, it felt amazing, like I was actually contributing something valuable. But now, I just feel invisible, and it’s hard to believe things could change. I’m not sure how to move from this stuck place.",
+          "therapist_utterance": "That feeling of being valued is clearly important to you, and it's understandable to want it back. Recognizing that you’ve felt valued before can be a starting point for change. What do you think could bridge the gap between that recognition and your current situation?",
+          "therapist_use": "Decisional balance discussion: facilitated reflection on the significance of acknowledgment and how to move forward."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet helped Karen identify specific changes she could make. Client objective not met: Karen remains uncertain about actionable steps she could take.",
+          "client_utterance": "I suppose if I could find a way to express myself without fear, that could help. But I also worry about how others will react. I don’t want to face more disappointment.",
+          "therapist_utterance": "It's valid to have that concern, and it's a common fear when considering change. Let’s think about what small steps you could take that feel manageable. What could be an initial way to start sharing your thoughts without feeling overwhelmed?",
+          "therapist_use": "Exploring ambivalence: encouraged Karen to think of manageable steps to mitigate her fear of disappointment."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to help Karen identify the pros and cons of her avoidance behavior. Client objective not met: Karen hasn't explored the implications of her current behavior on her feelings of self-worth.",
+          "client_utterance": "Maybe I could start sharing my ideas in a less formal setting, like with a friend at work. It feels less risky that way. But I still question whether it will really change anything.",
+          "therapist_utterance": "That sounds like a thoughtful approach to ease into sharing your ideas. What do you think are the pros and cons of continuing to hold back versus trying to share more, even in small ways? How does each option align with your desire to feel valued?",
+          "therapist_use": "Decisional balance discussion: prompted Karen to consider the implications of her current avoidance versus potential engagement."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to ensure Karen recognizes the connection between her values and her desire for change. Client objective not met: Karen hasn't fully explored the emotional impact of her avoidance on her self-esteem.",
+          "client_utterance": "If I keep holding back, I just feel worse over time, and it reinforces the belief that I’m not good enough. But I also wonder if sharing will just lead to more hurt. It's such a tough decision.",
+          "therapist_utterance": "It sounds like you’re beginning to see how your current behavior is affecting your self-worth. Recognizing that pattern is a crucial step. What do you think it would take for you to feel more confident in sharing your contributions?",
+          "therapist_use": "Cognitive restructuring: encouraged Karen to challenge her beliefs about sharing and its impact on her self-worth."
+        },
+        {
+          "reason_for_ending": "MOVE - Therapist objective met: Karen has actively explored her ambivalence and shown a willingness to consider change. Client objective met: Karen is articulating her feelings and recognizing patterns that affect her self-esteem.",
+          "client_utterance": "I realize now that avoiding sharing my ideas only deepens my feelings of worthlessness. I think I want to work on being more assertive and finding ways to express my thoughts. I may not have all the answers, but I’m ready to try.",
+          "therapist_utterance": "That’s a powerful realization, Karen, and it shows your growth in understanding your feelings. Taking steps to be more assertive could lead to more fulfillment in your work. What would be your first step in this new direction?",
+          "therapist_use": "Eliciting change talk: validated Karen's shift toward commitment and readiness to take action."
+        }
+      ]
+    },
+    {
+      "phase": "preparation",
+      "therapist_plan": {
+        "phase_of_therapy": "preparation",
+        "motivational_interviewing_plan": {
+          "objective": "Enhance Karen's commitment to change and explore her motivation for engaging more actively in her workplace.",
+          "strategies": [
+            {
+              "strategy_name": "Strengthening Commitment Language",
+              "instructions_for_therapist": [
+                "Encourage Karen to articulate her reasons for wanting to change, emphasizing her desire to be acknowledged and valued.",
+                "Ask open-ended questions to explore what specific changes she is willing to commit to in the near future.",
+                "Reflect back her statements of commitment to reinforce her motivation."
+              ]
+            },
+            {
+              "strategy_name": "Exploring Confidence and Readiness",
+              "instructions_for_therapist": [
+                "Discuss with Karen her feelings about the upcoming changes and what she believes might hold her back.",
+                "Utilize scaling questions to assess her confidence in making these changes, helping her identify areas of strength and potential support."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Action Planning",
+              "instructions_for_therapist": [
+                "Collaborate with Karen to create a step-by-step action plan for engaging her colleagues, focusing on one small change at a time.",
+                "Set specific, measurable goals that she can achieve in the next week, such as speaking up in one meeting or sharing one idea."
+              ]
+            },
+            {
+              "technique_name": "Coping Strategy Development",
+              "instructions_for_therapist": [
+                "Help Karen identify practical coping strategies for managing feelings of sadness and worthlessness when her input is overlooked.",
+                "Encourage her to practice self-affirmation techniques that reinforce her competence and value."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In developing this therapy plan for Karen, I first recognized her core beliefs of helplessness and worthlessness, which fuel her avoidance behaviors. Using Motivational Interviewing, I focused on strengthening her commitment to change by encouraging her to articulate her motivations and aspirations within her workplace, which directly addresses her feelings of being underappreciated. Next, I incorporated strategies to explore her confidence and readiness by using scaling questions, allowing her to identify specific areas where she feels capable. For the CBT interventions, I prioritized action planning, as it offers Karen a structured approach to gradually engage with her colleagues, thereby reducing her feelings of being trapped. Additionally, I emphasized coping strategy development to provide her with tools for managing negative emotions. This dual approach aids in building her self-efficacy while addressing her emotional resistance. Overall, the plan is collaborative and realistic, focusing on small, achievable steps to facilitate her transition into active engagement.",
+        "progress_marker": "Karen will report her feelings of commitment and readiness to engage in one specific action by the next session, along with any barriers she faced."
+      },
+      "client_plan": {
+        "phase_of_change": "preparation",
+        "client_objective": "I hope to explore ways to assert myself and feel valued in my workplace.",
+        "client_state": {
+          "awareness": "I realize that my current work situation is unhealthy and unsatisfying, and I understand that I deserve to be acknowledged for my contributions.",
+          "motivation": "I feel a stronger desire to improve my circumstances and find ways to advocate for myself and my ideas.",
+          "openness": "I am more willing to discuss my feelings and thoughts with my therapist, and I’m open to considering changes I can make.",
+          "resistance": "I still feel some doubt about my ability to enact change, worrying that I may fail or that my efforts won't be appreciated."
+        },
+        "client_reasoning": "I've started to understand that my situation at work is weighing heavily on me, and I can't keep feeling overlooked and undervalued. I know I need to make some changes, not just for my mental health but also to reclaim my sense of worth. I want to feel confident enough to express my ideas and be recognized for my skills. There’s a part of me that is hopeful—maybe I can find ways to communicate better with my colleagues or seek support when I need it. But I also worry about pushing myself too hard and failing again, which makes me hesitate. Therapy has helped me see that I am not as helpless as I thought, and I’m beginning to believe that I can take small steps toward feeling more empowered. I just need to figure out how to bridge that gap between what I want and what I fear."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met because Karen hasn't yet articulated specific changes she is willing to commit to. The client objective was not met as Karen is still exploring her feelings without deciding on actionable steps.",
+          "client_utterance": "I want to be more assertive at work, but I'm still unsure about how to start. I think sharing my ideas with a friend is a good first step, but I keep worrying about what will happen next. What if my friend doesn’t take me seriously either?",
+          "therapist_utterance": "It's understandable to have that concern about being taken seriously, especially given your past experiences. Starting with a friend sounds like a great way to build your confidence in a lower-stakes environment. What do you think you could say to your friend to express your ideas more clearly?",
+          "therapist_use": "Open-ended questioning: used to encourage Karen to articulate her thoughts and feelings about sharing with her friend."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met because Karen has not yet expressed her reasons for wanting to change. The client objective was not met as Karen still has doubts about her ability to engage.",
+          "client_utterance": "I guess I could share one of my ideas that I felt really good about in the past. But then I think, what if they dismiss it again? I just don't want to feel that disappointment.",
+          "therapist_utterance": "It's completely valid to worry about rejection, especially when you've put thought into your ideas. Reflecting on a time when you felt good about sharing can help you reconnect with that positive feeling. What was it about that experience that made you feel good, and how can you carry that forward?",
+          "therapist_use": "Reflective listening: used to validate Karen's feelings while helping her recall positive experiences."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met because Karen hasn't yet articulated her motivations for change clearly. The client objective was not met as Karen is still feeling hesitant and uncertain.",
+          "client_utterance": "When my ideas were acknowledged, it felt validating, like I was part of the team. I want to feel that again, but I'm scared it won't happen. I don't want to get my hopes up just to be let down.",
+          "therapist_utterance": "That feeling of being part of the team is something you deserve to experience. It’s understandable to feel scared of disappointment when you’ve faced it before. How would it feel to take a small step toward sharing your ideas, even if it might not go perfectly?",
+          "therapist_use": "Exploring confidence and readiness: used to assess Karen's feelings about taking action despite her fears."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met because Karen has not yet committed to specific actions. The client objective was not met as Karen remains hesitant about taking the first step.",
+          "client_utterance": "I know I need to start sharing, but I keep thinking about all the times it went wrong. If I could just feel more confident, that would help. But how do I get there without overwhelming myself?",
+          "therapist_utterance": "Building confidence is a gradual process, and it’s okay to take small steps. Maybe we can identify one specific idea you want to share that feels manageable. What if you set a goal to share that idea in a casual setting this week?",
+          "therapist_use": "Action planning: used to collaboratively create a concrete goal for Karen's engagement."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met because Karen has not yet reported feelings of commitment. The client objective was not met as Karen is still feeling uncertain about her next steps.",
+          "client_utterance": "I think I could try sharing one idea with my friend. It feels less daunting than doing it in a meeting. But I still worry about how they’ll react.",
+          "therapist_utterance": "That sounds like a wonderful plan, starting with a friend can help ease your way into sharing. It’s good to have a supportive environment to practice in. How can you remind yourself of your strengths before this conversation?",
+          "therapist_use": "Coping strategy development: used to help Karen prepare emotionally for the upcoming interaction."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist objective was not met because Karen has not fully articulated her commitment to change. The client objective was not met as Karen still carries doubts about her ability to advocate for herself.",
+          "client_utterance": "I guess I can remind myself of the skills I bring to the table. It’s just hard to shake off the fear of being ignored again. I want to believe that I can handle whatever comes next.",
+          "therapist_utterance": "It's great that you're recognizing your skills; that self-affirmation is powerful. Acknowledging your feelings of fear is also important, and it sounds like you're beginning to believe in your ability to navigate this. What would it look like for you to embrace that belief moving forward?",
+          "therapist_use": "Strengthening commitment language: used to reinforce Karen's emerging confidence and self-affirmation."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist objective was met as Karen has articulated a specific action plan and expressed readiness to share her ideas. The client objective was met as Karen has shown commitment to engaging more actively in her workplace.",
+          "client_utterance": "I feel like I’m ready to share my idea with my friend this week. I know it’s just a small step, but it feels meaningful. I want to keep building on this, and I believe I can do it.",
+          "therapist_utterance": "That’s fantastic, Karen! You’ve taken a significant step toward asserting yourself, and it’s wonderful to hear that you feel ready. Remember, each small step builds your confidence and helps you feel valued. I’m excited to hear how it goes next time.",
+          "therapist_use": "Double-sided reflection: used to validate Karen's commitment while reinforcing her progress."
+        }
+      ]
+    }
+  ]
+}

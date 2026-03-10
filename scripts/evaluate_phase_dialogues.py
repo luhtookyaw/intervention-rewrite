@@ -208,6 +208,7 @@ def evaluate_therapist_skills(
     evaluations: dict[str, dict[str, Any]] = {}
     for name, template in prompts.items():
         user_prompt = template.replace("{conversation}", transcript)
+
         raw = call_llm(
             system_prompt="You are a strict CBT evaluator. Follow output format exactly.",
             user_prompt=user_prompt,

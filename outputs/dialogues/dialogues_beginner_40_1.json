@@ -1,0 +1,368 @@
+{
+  "case_id": "40-1",
+  "name": "Ryan",
+  "phase_order": [
+    "precontemplation",
+    "contemplation",
+    "preparation"
+  ],
+  "results": [
+    {
+      "phase": "precontemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "pre-contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "To build rapport and increase Ryan's awareness of his feelings and thoughts related to his current situation.",
+          "strategies": [
+            {
+              "strategy_name": "Reflective Listening",
+              "instructions_for_therapist": [
+                "Practice active listening to Ryan's concerns about moving and feeling overwhelmed.",
+                "Reflect back his feelings about his isolation and experiences with friends and family to validate his emotions."
+              ]
+            },
+            {
+              "strategy_name": "Express Empathy",
+              "instructions_for_therapist": [
+                "Acknowledge Ryan's feelings of loneliness and helplessness.",
+                "Reassure Ryan that it’s understandable to feel overwhelmed during such a significant life change."
+              ]
+            },
+            {
+              "strategy_name": "Develop Discrepancy",
+              "instructions_for_therapist": [
+                "Gently explore Ryan's personal values and how they may conflict with his current feelings of isolation.",
+                "Ask open-ended questions to facilitate Ryan's exploration of his values without suggesting change."
+              ]
+            },
+            {
+              "strategy_name": "Raise Awareness",
+              "instructions_for_therapist": [
+                "Encourage Ryan to articulate his thoughts and feelings about his current emotional state.",
+                "Support him in recognizing the impact of his avoidance behaviors on his feelings of loneliness."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Identifying Automatic Thoughts",
+              "instructions_for_therapist": [
+                "Help Ryan articulate his automatic thoughts, such as feeling abandoned by friends.",
+                "Encourage him to write down these thoughts to increase awareness."
+              ]
+            },
+            {
+              "technique_name": "Recognizing Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Guide Ryan in identifying cognitive distortions in his thoughts, such as all-or-nothing thinking.",
+                "Discuss examples of these distortions to raise his awareness of their influence on his emotions."
+              ]
+            },
+            {
+              "technique_name": "Functional Analysis of Behavior",
+              "instructions_for_therapist": [
+                "Assist Ryan in examining the triggers for his social withdrawal and avoidance behaviors.",
+                "Explore the feelings and thoughts that lead to these behaviors to enhance understanding."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In the initial sessions, the therapist will prioritize building rapport with Ryan, who is currently in the Pre-contemplation phase. By employing motivational interviewing strategies, the therapist will use reflective listening to validate Ryan's feelings of being overwhelmed and isolated. Expressing empathy will help Ryan feel understood, which is crucial for reducing defensiveness. The therapist will develop discrepancy by gently exploring how Ryan's values about connection and support may conflict with his current feelings of loneliness. Raising awareness of his thoughts and feelings will encourage Ryan to reflect on his situation without pressure for change. Concurrently, through CBT interventions, the therapist will assist Ryan in identifying his automatic thoughts, such as feeling abandoned, and help him recognize cognitive distortions that may exacerbate these feelings. A functional analysis of his avoidance behaviors will allow him to connect his emotions to his actions, fostering a deeper understanding of his experiences. This dual approach aims to create a safe space for exploration, ultimately laying the groundwork for potential future change.",
+        "progress_marker": "Ryan expresses a willingness to share more about his feelings and begins to articulate his thoughts about his current emotional state."
+      },
+      "client_plan": {
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I want to feel heard without having to confront what’s really bothering me.",
+        "client_state": {
+          "awareness": "I don't think I have a problem that needs changing.",
+          "motivation": "I don't really see the point in trying to change anything right now.",
+          "openness": "I feel hesitant to share what's really on my mind.",
+          "resistance": "I find myself defending my situation by avoiding deeper discussions."
+        },
+        "client_reasoning": "I just moved, and honestly, I feel overwhelmed with unpacking and adjusting. It's like I'm trying to do everything on my own because my friends bailed on me when I really needed them, which just makes me feel more isolated. I know my relationship with my mother is strained, but talking about it feels pointless; she never really understands me anyway. It’s easier to keep things to myself. Discussing my feelings makes me feel vulnerable, and I worry that it won’t lead anywhere good. I keep telling myself that I’m not the kind of person who needs help or that there’s no real problem to address. I just want to get through this without having to dig into what's really bothering me. I can’t help but feel that if I open up, it’ll just lead to more disappointment.",
+        "progress_marker": "Client begins to articulate feelings of isolation and overwhelm in a safe environment."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Ryan is still feeling overwhelmed and hasn't fully articulated his feelings. Client objective not met: Ryan is hesitant to share deeper thoughts and remains defensive.",
+          "client_utterance": "I guess unpacking is just really taking a toll on me. I thought it would be exciting to move, but it's more stressful than I expected. I just feel like I'm drowning in boxes and no one seems to care.",
+          "therapist_utterance": "It sounds like you're feeling quite overwhelmed by the unpacking process and the lack of support from others. It's understandable to feel that way during such a big change. Can you tell me more about how this situation makes you feel?",
+          "therapist_use": "Reflective Listening: used to validate Ryan's feelings of being overwhelmed and to encourage further exploration."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Ryan hasn't connected his feelings of isolation to his experiences with friends. Client objective not met: Ryan still avoids discussing deeper emotional issues.",
+          "client_utterance": "Honestly, I feel like my friends just disappeared when I needed them most. It's like I was left to deal with everything alone. I don’t even want to think about reaching out to them now; it just feels pointless.",
+          "therapist_utterance": "It seems like you're feeling really isolated and let down by your friends during this tough time. It's tough when you expect support and don't receive it. What do you think this experience says about your relationships with them?",
+          "therapist_use": "Express Empathy: used to acknowledge Ryan's feelings of loneliness and to encourage him to reflect on his relationships."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Ryan hasn't explored his feelings about his relationship with his mother. Client objective not met: Ryan is still reluctant to share deeper emotions.",
+          "client_utterance": "My mom has always been critical, so talking to her about how I feel is just a waste of time. I don't think she would understand, and it just adds to the pressure. I’d rather keep it to myself than face that disappointment.",
+          "therapist_utterance": "I can hear that you feel judged and unsupported by your mom, which makes it difficult to open up to her. It’s understandable to want to avoid those feelings of disappointment. How do you think this impacts your ability to connect with others?",
+          "therapist_use": "Develop Discrepancy: used to gently explore Ryan's values about connection and how they conflict with his sense of isolation."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Ryan hasn't fully articulated his internal struggles. Client objective not met: Ryan still avoids discussing what's truly bothering him.",
+          "client_utterance": "I guess I just don't want to feel vulnerable. Talking about my feelings feels like opening a can of worms, and I don’t want to deal with that right now. It's just easier to keep everything to myself.",
+          "therapist_utterance": "It sounds like you're really concerned about being vulnerable and the potential fallout from that. Keeping things to yourself may feel easier now, but it also seems to contribute to your feelings of isolation. What would it mean for you to share some of these feelings with someone you trust?",
+          "therapist_use": "Raise Awareness: used to encourage Ryan to think about the impact of his avoidance on his feelings of loneliness."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Ryan hasn’t yet acknowledged the effects of his avoidance behaviors. Client objective not met: Ryan remains hesitant to dive deeper into his emotional landscape.",
+          "client_utterance": "I don’t know. I feel like if I start talking about it, it’ll just spiral out of control, and I’ll end up feeling worse. Sometimes I think I’m better off just managing it on my own.",
+          "therapist_utterance": "It sounds like you're worried about losing control of your emotions if you start to open up. That's a valid fear, but it seems like managing everything alone is also weighing heavily on you. What do you think keeps you from reaching out for support?",
+          "therapist_use": "Functional Analysis of Behavior: used to explore the triggers for Ryan's social withdrawal and avoidance behaviors."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Ryan hasn't fully connected his thoughts and feelings regarding his current emotional state. Client objective not met: Ryan is still avoiding deeper discussions of his feelings.",
+          "client_utterance": "I think I just feel stuck. I want to be okay, but it feels like there’s this barrier stopping me from talking about it. I keep telling myself I should just get over it.",
+          "therapist_utterance": "Feeling stuck can be incredibly frustrating, especially when you want to move forward. It seems like there's a part of you that knows talking about it could help, but you’re feeling that barrier. What would it look like for you to take a small step in exploring these feelings?",
+          "therapist_use": "Reflective Listening: used to validate Ryan's feelings of being stuck while inviting him to consider small steps forward."
+        },
+        {
+          "reason_for_ending": "MOVE - Therapist objective met: Ryan has begun to articulate his feelings about feeling stuck. Client objective met: Ryan expressed a willingness to explore his feelings further.",
+          "client_utterance": "Maybe I could try to share some of my feelings with you. It might help to talk about it a little. I just hope it won’t feel too overwhelming.",
+          "therapist_utterance": "I appreciate your willingness to start sharing your feelings. It’s a brave step to take, and I’m here to support you as you navigate through this. Let’s take it at your own pace and see where it leads.",
+          "therapist_use": "Encouragement: used to support Ryan's willingness to begin sharing his feelings while assuring him of a safe space."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Ryan's ambivalence towards change and strengthen his motivation to address his emotional needs.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Encourage Ryan to articulate both his desire to change and his fears associated with change.",
+                "Use open-ended questions to facilitate discussion about what change might mean for him."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Prompt Ryan to express any thoughts or feelings that support the idea of change.",
+                "Reflect on any statements he makes that indicate a desire for different outcomes."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Help Ryan list the pros and cons of his current behaviors versus potential changes.",
+                "Encourage him to consider how his values align with his current situation."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Guide Ryan to identify and challenge his automatic thoughts, such as 'I am doing this alone because no one cares.'",
+                "Use Socratic questioning to help Ryan explore the evidence for and against these thoughts."
+              ]
+            },
+            {
+              "technique_name": "Identifying Cognitive Distortions",
+              "instructions_for_therapist": [
+                "Assist Ryan in recognizing patterns of all-or-nothing thinking and catastrophizing.",
+                "Discuss how these distortions may contribute to his feelings of loneliness and isolation."
+              ]
+            },
+            {
+              "technique_name": "Examining Underlying Beliefs",
+              "instructions_for_therapist": [
+                "Encourage Ryan to reflect on his core beliefs, particularly around feeling unlovable and helpless.",
+                "Facilitate a conversation about how these beliefs affect his current behaviors and relationships."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In this session, I will prioritize exploring Ryan's ambivalence regarding change, as he currently feels conflicted about addressing his emotional needs. Using Motivational Interviewing (MI) strategies, I will start with exploring ambivalence by inviting Ryan to share both his desires and fears related to change. This will help him articulate his inner conflict. I will then elicit change talk by reflecting on his statements that suggest a desire for different outcomes, which is vital for increasing motivation. Next, I will conduct decisional balance discussions to help Ryan weigh the pros and cons of his current behaviors against potential changes, reinforcing the discrepancy between his values and behaviors. Simultaneously, I will employ Cognitive Behavioral Therapy (CBT) techniques to address his automatic thoughts and cognitive distortions. By guiding Ryan through cognitive restructuring and identifying underlying beliefs, I aim to foster self-reflection and insight while maintaining a supportive and collaborative therapeutic environment. This integrated approach is designed to enhance Ryan's self-efficacy and readiness for change without pushing him prematurely into action planning.",
+        "progress_marker": "Client expresses increased awareness of ambivalence and begins to articulate personal values related to change."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to explore my feelings of loneliness and the impact of my relationships on my emotional well-being.",
+        "client_state": {
+          "awareness": "I am starting to see that my feelings of loneliness and my avoidance of my mother and friends are patterns that might be affecting my happiness.",
+          "motivation": "I feel a small desire to change because I recognize that isolating myself isn't helping, but I'm also afraid of the effort it might take.",
+          "openness": "I'm somewhat willing to discuss my experiences and feelings in therapy, but I still hold back because I doubt it will lead to anything meaningful.",
+          "resistance": "I feel a strong urge to resist change; I often tell myself that nothing I do will matter, so why bother trying."
+        },
+        "client_reasoning": "Lately, I've been reflecting on how alone I feel while unpacking in my new home. I realize that my friends didn’t show up to help, and it hurts. I’m starting to see that I often avoid my mom because I dread her judgment, but I also miss having her support. It’s confusing because part of me knows these patterns aren’t healthy; I can see how they hold me back from connecting with others. But then there’s this nagging feeling that changing things will require more energy than I have right now. What if I try to open up and it doesn’t change anything? Therapy is making me think more deeply about these feelings, but I still wonder if sharing will even make a difference. I feel trapped between wanting to be understood and fearing that my efforts will be in vain.",
+        "progress_marker": "The client begins to articulate feelings of loneliness and recognizes the impact of their avoidance behaviors."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Ryan has not yet articulated his desires for change clearly. The client's objective was not met as Ryan is still struggling to explore his feelings of loneliness.",
+          "client_utterance": "I've been thinking about how I often feel like no one really cares about what I'm going through. When I unpack and look around my new home, it hits me that I feel so alone. I want to feel connected, but I’m scared of reaching out and being let down again.",
+          "therapist_utterance": "It sounds like you're grappling with feelings of loneliness and the fear of reaching out. That desire for connection is important, but it's also understandable that you're apprehensive given your past experiences. What do you think would happen if you took a small step towards reaching out to someone?",
+          "therapist_use": "Open-ended question: used to invite Ryan to explore his feelings about connection and reaching out."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Ryan hasn't fully expressed his fears about change. The client's objective was not met because he hasn't explored the impact of his relationships in depth yet.",
+          "client_utterance": "I guess I worry that if I open up, it’ll just remind me of how unsupported I’ve felt before. It’s like I want to be understood, but I fear that I’ll just end up feeling worse. There’s a part of me that thinks maybe it’s better to just keep my distance.",
+          "therapist_utterance": "That fear of feeling worse is completely valid, especially when past experiences have left you feeling unsupported. It seems like there's a conflict between wanting to be understood and wanting to protect yourself from disappointment. Can you identify what it would mean for you to take that risk and share your feelings?",
+          "therapist_use": "Reflective listening: used to validate Ryan's fears while encouraging exploration of his feelings."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective wasn't met because Ryan hasn't yet articulated any desires for change. The client's objective was not met as he is still hesitant to explore the deeper impact of his relationships.",
+          "client_utterance": "I think it would mean a lot to be understood, but I’m also scared it would lead to conflict, especially with my mom. Part of me is tired of feeling this way, but I keep telling myself it’s not worth the effort. I don’t want to try and fail again.",
+          "therapist_utterance": "It sounds like you're feeling really conflicted about the potential for conflict, especially with your mom. Recognizing that desire to be understood is a significant step, but the fear of failure can be paralyzing. What would it look like for you to weigh the potential benefits against these fears?",
+          "therapist_use": "Decisional balance discussion: used to help Ryan consider the pros and cons of opening up."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Ryan has not yet expressed any thoughts that support the idea of change. The client's objective was not met as he is still struggling to explore his feelings deeply.",
+          "client_utterance": "I suppose if I did share, maybe I could find some relief from this loneliness. But it feels like such a huge step, and I worry it might just make things worse. I’m not sure if I can handle that right now.",
+          "therapist_utterance": "It's important to acknowledge that sharing can feel daunting, especially when you're already feeling vulnerable. However, that thought of finding relief suggests that there’s a part of you that sees value in opening up. How might you take a small step towards that, even if it's just in this safe space?",
+          "therapist_use": "Eliciting change talk: used to encourage Ryan to articulate any thoughts that support the idea of change."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met since Ryan has not clearly articulated his values related to change. The client's objective was not met as he still feels hesitant about exploring his feelings.",
+          "client_utterance": "I guess I want to feel less alone, but the thought of reaching out feels heavy. I know I need to do something, but I keep thinking about all the ways it could go wrong. It just feels easier to stay where I am.",
+          "therapist_utterance": "Staying where you are might feel easier, but it also seems to contribute to your feelings of loneliness. It’s a lot to consider, but acknowledging that desire to feel less alone is a positive sign. What would it take for you to feel ready to explore this further?",
+          "therapist_use": "Exploring ambivalence: used to help Ryan articulate both his desire to change and his fears associated with change."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met since Ryan hasn't fully articulated how his values align with potential changes. The client's objective was not met because he still holds back on exploring his feelings.",
+          "client_utterance": "I think if I could just get past the fear, I might be able to see things differently. But that fear is really holding me back; it feels like a wall I can’t break through. I want to find a way to open up, but I just don’t know how.",
+          "therapist_utterance": "That wall of fear can be incredibly tough to break through, especially when you're feeling isolated. It’s a positive realization that you want to open up; recognizing that desire is the first step. What could help you feel more equipped to face that fear?",
+          "therapist_use": "Encouraging self-reflection: used to help Ryan identify potential strategies to overcome his fears."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist's objective was met as Ryan has begun to articulate his feelings about change and recognize his desire for connection. The client's objective was met as he has started exploring his feelings of loneliness and the impact of his relationships.",
+          "client_utterance": "I think I need to start small, maybe just share how I feel with you and see how it goes. I realize that keeping everything in isn’t working for me, and I want to change that. I’m still scared, but I want to try.",
+          "therapist_utterance": "That sounds like a brave decision, and I’m here to support you as you take this step. It’s completely okay to feel scared; acknowledging that is part of the process. Let’s work together to navigate through your feelings and see where this leads us.",
+          "therapist_use": "Affirmation: used to validate Ryan's willingness to try sharing his feelings."
+        }
+      ]
+    },
+    {
+      "phase": "preparation",
+      "therapist_plan": {
+        "phase_of_therapy": "preparation",
+        "motivational_interviewing_plan": {
+          "objective": "Strengthen Ryan's commitment to change and identify supportive resources.",
+          "strategies": [
+            {
+              "strategy_name": "Strengthening Commitment Language",
+              "instructions_for_therapist": [
+                "Encourage Ryan to articulate his reasons for wanting to change by asking open-ended questions.",
+                "Reflect back his statements of commitment to reinforce his motivation.",
+                "Help him explore the benefits of making changes in his life in a way that feels authentic to him."
+              ]
+            },
+            {
+              "strategy_name": "Exploring Confidence and Readiness",
+              "instructions_for_therapist": [
+                "Ask Ryan to rate his confidence in making changes on a scale from 1 to 10.",
+                "Explore what would help increase his confidence and readiness to take action.",
+                "Discuss past successes to highlight his strengths and build self-efficacy."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Guide Ryan to identify friends, family, or community resources that can support him.",
+                "Discuss potential barriers and how these supports can help address them.",
+                "Encourage him to reach out to at least one identified support before the next session."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Action Planning",
+              "instructions_for_therapist": [
+                "Assist Ryan in developing a specific action plan for unpacking and organizing his new space.",
+                "Break down the tasks into manageable steps with realistic timelines.",
+                "Collaborate with him to set small, achievable goals that he can work on gradually."
+              ]
+            },
+            {
+              "technique_name": "Coping Strategy Development",
+              "instructions_for_therapist": [
+                "Help Ryan identify specific coping strategies to manage feelings of loneliness and sadness.",
+                "Encourage him to practice self-compassion and challenge negative thoughts about his worth.",
+                "Discuss alternative responses to situations that trigger his feelings of helplessness."
+              ]
+            },
+            {
+              "technique_name": "Behavioral Experiments",
+              "instructions_for_therapist": [
+                "Plan a small behavioral experiment where Ryan engages with a supportive friend or family member.",
+                "Discuss potential outcomes and what he hopes to learn from this interaction.",
+                "Debrief after the experiment to reinforce learning and insights gained."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In developing this therapy plan for Ryan, I first recognized the importance of addressing his core beliefs of feeling helpless and unlovable, which contribute to his resistance and feelings of isolation. Utilizing Motivational Interviewing (MI), I focused on strengthening his commitment to change by encouraging him to articulate his motivations and exploring his confidence and readiness. This approach is critical given his current emotional withdrawal and indirect resistance. I included strategies to help him identify supports and resources, which aligns with his expressed feelings of being unsupported. For the Cognitive Behavioral Therapy (CBT) component, I designed interventions that emphasize action planning and coping strategy development, which are essential for building his self-efficacy. The behavioral experiments will also provide him with opportunities to test new behaviors in a low-stakes environment, further reinforcing his confidence. This structured yet flexible plan is aimed at gradually guiding Ryan towards meaningful change while respecting his pace and current emotional state.",
+        "progress_marker": "Ryan will implement his action plan by completing at least two unpacking tasks and reach out to one identified support before the next session."
+      },
+      "client_plan": {
+        "phase_of_change": "preparation",
+        "client_objective": "I hope to find practical ways to cope with my feelings of loneliness and start building a support system.",
+        "client_state": {
+          "awareness": "I realize that my current situation, feeling isolated and unsupported, is affecting my mental health and overall well-being.",
+          "motivation": "I feel a strong desire to improve my circumstances and am beginning to see that change is possible.",
+          "openness": "I am more willing to talk about my feelings and consider new strategies, even if I'm still a bit hesitant.",
+          "resistance": "I still experience doubts about whether I can maintain these changes and fear failing at them."
+        },
+        "client_reasoning": "I've come to understand that my feelings of loneliness and the stress of unpacking in a new place are not just temporary discomforts; they're impacting my mental health significantly. I know I need to change my situation, especially since my friends couldn't support me when I needed them. Although I feel motivated to improve my life and reach out for help, I'm still scared that I might not succeed in making these changes stick. Therapy has helped me see that I can talk about my feelings and that there are strategies I might use to cope better, but I worry that even if I try, I might still end up feeling hurt and alone. I want to explore what I can do to feel more connected and supported, but I’m still holding onto doubts about whether things can really get better for me."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist's plan to strengthen Ryan's commitment to change has not been fully addressed, and Ryan still feels uncertain about reaching out for support.",
+          "client_utterance": "I've been thinking about what you said regarding taking small steps. I want to feel connected, but every time I consider reaching out, that fear of being let down creeps back in. I just don’t know how to get past it.",
+          "therapist_utterance": "It's understandable to feel that fear, especially given your past experiences. It might help to think about what reaching out could look like in a way that feels manageable for you. What would a small step look like, maybe in a conversation with someone you trust?",
+          "therapist_use": "Open-ended question: used to encourage Ryan to explore small steps toward reaching out."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective of identifying supportive resources has not been sufficiently met, and Ryan still feels hesitant about sharing his feelings.",
+          "client_utterance": "I guess if I can think of it as just checking in with someone instead of sharing everything, that might help. But what if they still don’t understand? I just keep worrying it’ll lead to disappointment again.",
+          "therapist_utterance": "That’s a valid concern, and it’s okay to feel that way. It seems like you want to protect yourself from potential hurt but also desire connection. Could you think of someone who might be more understanding or open to listening?",
+          "therapist_use": "Affirmation and reflection: validated Ryan's feelings while encouraging him to consider potential supportive connections."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist has not helped Ryan identify specific coping strategies, and Ryan's fear of disappointment still looms large.",
+          "client_utterance": "I suppose I could talk to my friend Alex; he’s always been pretty supportive. But I keep thinking, what if I open up and he doesn’t know how to help? It feels risky.",
+          "therapist_utterance": "It's great that you have someone in mind like Alex. Taking that risk can feel daunting, but sometimes it can lead to unexpected support. What would you want to communicate to him if you decided to reach out?",
+          "therapist_use": "Strengthening Commitment Language: encouraged Ryan to articulate his thoughts about reaching out to Alex."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's plan to enhance Ryan's confidence and readiness to reach out has not been fully realized, and Ryan still has doubts.",
+          "client_utterance": "If I do reach out, I think I’d want to let him know that I’m feeling really overwhelmed. But there’s still that voice in my head saying it could just end up being awkward or uncomfortable.",
+          "therapist_utterance": "That voice of doubt is something many people experience when reaching out. It’s okay to feel uncertain, but acknowledging that you want to share your feelings is a big step. How might you prepare for that conversation to feel more confident?",
+          "therapist_use": "Exploring Confidence and Readiness: prompted Ryan to think about preparation for the conversation to boost his confidence."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's goal of helping Ryan develop an action plan for unpacking and organizing is still pending, and Ryan's feelings of being overwhelmed persist.",
+          "client_utterance": "I think I could make a plan for unpacking too, like tackling one room at a time. It just feels like there’s so much to do, and I don’t even know where to start. Maybe breaking it down will help.",
+          "therapist_utterance": "That sounds like a positive approach! Breaking it down into smaller tasks can make it feel less overwhelming. Let's discuss what your first step could be and how you can incorporate that into your week.",
+          "therapist_use": "Action Planning: assisted Ryan in developing a structured plan to tackle unpacking by breaking it into manageable steps."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective to help Ryan identify supports is not yet fully met, and Ryan's plan to engage with his friend is still tentative.",
+          "client_utterance": "I could start with just unpacking my bedroom first, and then think about reaching out to Alex afterward. But I still feel that weight of uncertainty about how he'll react.",
+          "therapist_utterance": "That’s a solid plan to start with your bedroom. Remember that reaching out is also a part of unpacking your emotions. Would it help to set a timeline for both tasks to keep you motivated?",
+          "therapist_use": "Behavioral Experiments: helped Ryan set a timeline to encourage action and maintain motivation."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist's objectives to strengthen Ryan's commitment to change and identify supportive resources have been met, as Ryan has articulated plans for both unpacking and reaching out.",
+          "client_utterance": "I think if I can focus on unpacking a little bit each day and then reach out to Alex afterward, I might finally start feeling a little less alone. I know it won’t fix everything, but it feels like a start.",
+          "therapist_utterance": "That sounds like a fantastic plan, Ryan! You’re taking proactive steps toward both your environment and your relationships. I’m proud of you for recognizing this as a way to feel more connected and less overwhelmed.",
+          "therapist_use": "Double-sided reflection: reinforced Ryan’s commitment to action while acknowledging the potential positive outcomes."
+        }
+      ]
+    }
+  ]
+}
