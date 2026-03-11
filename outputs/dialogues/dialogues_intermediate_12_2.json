@@ -12,131 +12,29 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase awareness of Jay's thoughts, emotions, and beliefs around his leadership position and current struggles.",
+          "objective": "To foster awareness of Jay's feelings and thoughts regarding his current situation and to reduce defensiveness by exploring his values and experiences.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Jay's concerns about the leadership position without interrupting.",
-                "Reflect back his feelings of anxiety and worry, emphasizing his sense of being overwhelmed.",
-                "Validate his emotions by reassuring him that feeling this way is common in high-pressure situations."
+                "Listen actively to Jay's concerns and emotions about the leadership position he declined.",
+                "Reflect back his feelings of anxiety and inadequacy to validate his experience.",
+                "Use reflective statements to show understanding, such as 'It sounds like you're feeling overwhelmed by the responsibility that comes with leadership.'"
+              ]
+            },
+            {
+              "strategy_name": "Expressing Empathy",
+              "instructions_for_therapist": [
+                "Acknowledge the difficulty Jay faces in balancing his PhD and mental health challenges with his passion for music.",
+                "Express empathy toward his feelings of shame and disappointment about declining the leadership role.",
+                "Say something like, 'It's completely understandable to feel scared when you're facing so many pressures at once.'"
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Jay to explore his values around success and recognition versus his current feelings of failure.",
-                "Ask open-ended questions that prompt him to articulate the differences between his past experiences of connection and appreciation and his present situation."
-              ]
-            }
-          ]
-        },
-        "cbt_plan": {
-          "interventions": [
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Jay to identify specific instances where he felt competent and successful in both his academic and musical endeavors.",
-                "Guide him to consider evidence that contradicts his belief of being a failure."
-              ]
-            },
-            {
-              "technique_name": "Reality Testing",
-              "instructions_for_therapist": [
-                "Encourage Jay to assess the reality of his fears related to taking on more responsibility.",
-                "Challenge his automatic thoughts by discussing potential outcomes and support systems available to him."
-              ]
-            }
-          ]
-        },
-        "therapist_reasoning": "To effectively engage Jay in the Pre-contemplation phase, I will first focus on building rapport and trust through reflective listening, validating his feelings of anxiety and worry. This approach aligns with the MI strategy of expressing empathy, helping to reduce his defensiveness. Next, I will introduce the concept of developing discrepancy by guiding him to explore his values and past experiences, which can help him recognize the gap between his current state and desired state without pressuring him for change. For the CBT interventions, I will implement evidence-based questioning to help him identify moments of success, challenging his core belief of incompetence, and facilitate reality testing to evaluate the feasibility of his fears regarding increased responsibility. This combination of strategies aims to foster awareness and curiosity, allowing Jay to reflect on his thoughts and feelings without feeling overwhelmed by the need for immediate change.",
-        "progress_marker": "Jay begins to articulate feelings of disconnection and past experiences of success, demonstrating increased self-awareness."
-      },
-      "client_plan": {
-        "phase_of_change": "pre-contemplation",
-        "client_objective": "I just want to understand why I feel so overwhelmed and if there's a way to feel better without having to change anything right now.",
-        "client_state": {
-          "awareness": "I don't really see my situation as a problem; I just think it's the way things are.",
-          "motivation": "I don't feel a strong desire to change; it seems too daunting.",
-          "openness": "I'm hesitant to share my feelings because I worry about being judged or misunderstood.",
-          "resistance": "I often feel defensive when the topic of my struggles comes up, as if I have to protect myself from scrutiny."
-        },
-        "client_reasoning": "I feel like I’m stuck in this cycle where everything feels too heavy to handle. I know I should be able to take on new challenges, especially with the jazz group, but every time I think about it, I just feel shame and embarrassment. It's easier to avoid those discussions because I don't want to confront the fact that I might not be cut out for this. I keep telling myself that if I just push through, things will get better, but deep down, I feel hopeless. I feel like I'm supposed to be thriving in my PhD and music, yet here I am, declining opportunities and feeling like a failure. Talking about it in therapy feels uncomfortable; I worry that opening up will only make me feel worse and expose my inadequacies. I just want to get through this without having to change anything right now, even if I know that might not be the best approach."
-      },
-      "dialogue": [
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Jay has not yet articulated his feelings of disconnection and past experiences of success. The client objective was not met as Jay still feels overwhelmed without exploring his emotions.",
-          "client_utterance": "I just feel like everything is too much right now. Even thinking about taking on that leadership role makes me anxious. I don’t really see it as a problem; it just feels like that’s the way things are.",
-          "therapist_utterance": "It sounds like you're feeling quite overwhelmed, and that the thought of new responsibilities adds to that anxiety. It's understandable to feel this way, especially when you’re balancing your PhD and other commitments. Can you share more about what specifically makes you feel this way?",
-          "therapist_use": "Reflective Listening: used to validate Jay's feelings of overwhelm and encourage him to share more."
-        },
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Jay hasn't yet explored his values or past feelings of success. The client objective was not met as Jay still expresses discomfort without deeper understanding.",
-          "client_utterance": "I guess I worry that I won’t be able to handle it, like I’m not cut out for the extra responsibility. I remember feeling more connected and appreciated when I was leading the band, but now it just seems so far away.",
-          "therapist_utterance": "It’s interesting that you mention that connection and appreciation from leading the band. It seems like there’s a gap between how you felt then and how you feel now in your current situation. What do you think has changed for you since those times?",
-          "therapist_use": "Developing Discrepancy: used to encourage Jay to reflect on his values and past experiences."
-        },
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Jay has not fully articulated the differences between his past and present feelings. The client objective was not met as Jay remains hesitant to explore deeper feelings.",
-          "client_utterance": "I think I just feel like I’ve lost my confidence. Back then, I was excited about leading, and now I just feel like I’m barely keeping it together. It’s hard to even think about stepping up again.",
-          "therapist_utterance": "It seems like that loss of confidence is really impacting how you see your potential now. You once felt excited about leadership, but the pressure now feels stifling. Can you think of moments, in both music and academics, where you felt successful or competent?",
-          "therapist_use": "Evidence-Based Questioning: used to help Jay identify instances of success and challenge his feelings of inadequacy."
-        },
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Jay hasn't reflected on any specific moments of success yet. The client objective was not met as Jay is still struggling to feel better without confronting his feelings.",
-          "client_utterance": "I guess there were times in my music career when things went really well, but I just can't seem to remember them clearly right now. It feels like the stress of my PhD is overshadowing everything else. I just keep telling myself that if I push through, it’ll all get better.",
-          "therapist_utterance": "It’s common to feel overwhelmed, especially when you’re under pressure. You mentioned pushing through; what do you think that’s doing for you? Is there a possibility that confronting some of these feelings might help you find a clearer path forward?",
-          "therapist_use": "Reality Testing: used to challenge Jay’s automatic thoughts and explore the potential benefits of addressing his feelings."
-        },
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Jay is still not fully assessing the reality of his fears. The client objective was not met as Jay remains hesitant to confront his feelings.",
-          "client_utterance": "I don’t know, it just feels easier to avoid it. But I can’t shake this feeling that I might be missing out on opportunities, like with the jazz group. It’s frustrating because I know I could enjoy it if I could just get past this.",
-          "therapist_utterance": "It sounds like there's a part of you that recognizes the value of those opportunities, even amidst your fears. You mentioned feeling frustrated; what do you think would help you to move past this feeling of avoidance? Are there small steps you can take to engage without feeling overwhelmed?",
-          "therapist_use": "Reflective Listening: used to validate Jay's frustration and encourage exploration of small steps toward engagement."
-        },
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Jay has not yet identified actionable small steps to address his feelings. The client objective was not met as Jay still feels stuck in avoidance.",
-          "client_utterance": "Maybe I could just attend a few more rehearsals without the pressure to lead. But then again, I worry I’ll just feel out of place or not good enough. It’s hard to imagine feeling confident again.",
-          "therapist_utterance": "That sounds like a reasonable step, attending rehearsals without the pressure of leadership. It could be a way to reconnect with the music and your passion without the added responsibility. What would make you feel more comfortable in that setting?",
-          "therapist_use": "Developing Discrepancy: used to encourage Jay to consider a step that aligns with his values while addressing his fears."
-        },
-        {
-          "reason_for_ending": "MOVE: The therapist objective was met as Jay has started to identify possible actions that reflect his values. The client objective was met as Jay is beginning to articulate his feelings and consider a way to feel better.",
-          "client_utterance": "I think if I can just go to a few rehearsals and not worry about leading, maybe I can start to feel more like myself again. It feels good to think about that possibility, even if it’s just a small step.",
-          "therapist_utterance": "That’s a wonderful realization, Jay. Taking that step could help you reconnect with what you love about music without the pressures of leadership. It’s great to see you opening up to this possibility.",
-          "therapist_use": "Reflective Listening: used to validate Jay's emerging readiness to take a small step toward reconnecting with his passion."
-        }
-      ]
-    },
-    {
-      "phase": "contemplation",
-      "therapist_plan": {
-        "phase_of_therapy": "contemplation",
-        "motivational_interviewing_plan": {
-          "objective": "Explore Jay's ambivalence about taking on leadership responsibilities and enhance his motivation for change.",
-          "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Ask Jay about his conflicting feelings regarding the leadership position.",
-                "Encourage him to articulate both the reasons he felt tempted and the fears he experienced.",
-                "Reflect on his responses to validate his feelings and explore the complexity of his situation."
-              ]
-            },
-            {
-              "strategy_name": "Eliciting Change Talk",
-              "instructions_for_therapist": [
-                "Prompt Jay to discuss what he values in music and leadership.",
-                "Encourage him to express any desire he has to grow and connect, despite his fears.",
-                "Use reflective listening to highlight any statements that indicate motivation for change."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance Discussion",
-              "instructions_for_therapist": [
-                "Guide Jay in identifying the pros and cons of accepting the leadership role.",
-                "Facilitate a discussion on how his values align with his current behavior versus desired behavior.",
-                "Encourage him to consider what change would mean for his identity and self-worth."
+                "Encourage Jay to explore the discrepancy between his desire for connection and recognition in music versus his current feelings of disconnection.",
+                "Ask open-ended questions to help him consider how these feelings align with his values, such as 'What does being a musician mean to you?'"
               ]
             }
           ]
@@ -146,85 +44,178 @@
             {
               "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Help Jay to challenge his automatic thoughts about not being able to manage responsibilities.",
-                "Encourage him to consider less catastrophic outcomes of taking on leadership roles.",
-                "Work together to reframe his thoughts into more balanced perspectives."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Assist Jay in listing the pros and cons of taking on the leadership role in a structured format.",
-                "Encourage him to consider how these align with his core beliefs and values.",
-                "Discuss how the analysis influences his feelings about his competencies and self-worth."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Jay to provide evidence for his beliefs of incompetence and failure.",
-                "Challenge him to identify past successes in both academic and musical contexts.",
-                "Encourage exploration of alternative explanations for his feelings of inadequacy."
+                "Introduce the Decatastrophizing concept by discussing Jay’s feelings and thoughts about the leadership role.",
+                "Guide him to identify and articulate his catastrophic thoughts related to the situation.",
+                "Help Jay challenge these thoughts by examining evidence and exploring past successes that contradict his beliefs.",
+                "Encourage him to generate realistic outcomes of taking on challenges, reinforcing his capability to manage stress with support."
               ]
             }
           ]
         },
-        "therapist_reasoning": "I will begin by employing Motivational Interviewing strategies to explore Jay's ambivalence towards accepting the leadership position. By prompting him to articulate both his desire for growth and his fears, I can validate his feelings and facilitate deeper insight. The decisional balance discussion will help him weigh the pros and cons of his current behavior versus his aspirations, allowing him to visualize the discrepancy between his values and actions. Meanwhile, I will introduce CBT techniques like decatastrophizing to challenge his catastrophic thoughts about failure and evidence-based questioning to help him re-evaluate his core beliefs. This combination supports his exploration of self-efficacy and confidence while maintaining a collaborative therapeutic stance. By focusing on understanding his ambivalence without pushing for immediate action, I aim to strengthen his motivation and readiness for change.",
-        "progress_marker": "Jay expresses a clearer understanding of his ambivalence and begins to articulate potential benefits of change."
+        "therapist_reasoning": "In the therapy session, I will focus on building rapport and trust with Jay, who is in the Pre-contemplation phase. I will employ reflective listening to validate his feelings of anxiety and shame about declining the leadership position. By expressing empathy, I aim to create a safe space for him to explore his emotions without feeling pressured to change. Developing discrepancy will be crucial for helping him recognize the gap between his current feelings of disconnection and his values of connection and recognition in music. As we address his cognitive patterns, I will introduce the Decatastrophizing technique. This will help Jay articulate his catastrophic thoughts about failure and explore evidence that counters these beliefs. By guiding him through this process, I will encourage awareness and curiosity about his experiences without pushing for behavioral change. My approach will consider his resistance, aiming to reduce defensiveness and encourage reflection. By the end of the session, I hope to enhance his awareness of his thoughts and emotions, leading to a greater understanding of his situation and values.",
+        "progress_marker": "Increased awareness of feelings and thoughts; reduced defensiveness in discussing emotions."
       },
       "client_plan": {
-        "phase_of_change": "contemplation",
-        "client_objective": "I hope to better understand my feelings about my music and academic responsibilities.",
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I just want to talk about how overwhelmed I feel without having to dig too deep into why.",
         "client_state": {
-          "awareness": "I am starting to see that my fears about managing responsibilities are holding me back from opportunities.",
-          "motivation": "I feel a desire to change and take on challenges, but I'm also afraid of failing again.",
-          "openness": "I am becoming more willing to discuss my feelings and experiences, even though it’s still difficult.",
-          "resistance": "I often find myself doubting whether I can handle change and feeling ashamed of my perceived failures."
+          "awareness": "I know something feels off, but I can't really pinpoint what the problem is.",
+          "motivation": "I don’t really want to change anything right now; it feels too hard.",
+          "openness": "I’m not sure I can share my true feelings; it feels safer to keep things surface-level.",
+          "resistance": "I feel defensive and ashamed about my struggles, so I want to avoid discussing them."
         },
-        "client_reasoning": "Lately, I've been reflecting on my situation, especially after declining the leadership position in the jazz group. It's becoming clearer to me that my fears about not being able to manage responsibilities are deeply rooted in my feelings of inadequacy. I can see that I want to grow and embrace challenges, but there's a part of me that feels paralyzed by the thought of failing again. I often catch myself thinking that I should be able to handle everything, but then I feel ashamed for not being able to rise to the occasion. Therapy is helping me to articulate these conflicting feelings, and I’m starting to recognize that avoiding these responsibilities might be a way to protect myself from further disappointment. It’s confusing; I want to engage more fully with music and my studies, but I’m scared of what that might require from me and whether I can actually handle it."
+        "client_reasoning": "I look at my situation and see how I’ve turned down opportunities that could have been great for me, like the leadership role in the jazz group. It feels like I'm stuck in this cycle of feeling overwhelmed and inadequate. I know I should be able to handle more, but every time I think about it, I just freeze up with anxiety. Talking about it makes me feel vulnerable, and I worry that if I open up, I’ll just end up feeling more ashamed. I keep telling myself that I don't really have a problem worth discussing—it’s just life, right? I don't want to dive into my emotions because they feel heavy and confusing. I guess deep down, I’m afraid that if I acknowledge how I feel, I’ll have to confront something I’m not ready to face. Therapy feels like a place where I might get judged, so I prefer to keep it light and avoid the tough stuff."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Jay has not yet fully articulated his conflicting feelings about leadership. Client objective not met: Jay still feels confused about his desires and fears regarding responsibilities.",
-          "client_utterance": "I keep thinking about how leading the band felt back then, but now it just seems impossible. I know I want to feel that connection again, but I’m still so scared. It's like I’m stuck between wanting to grow and fearing I’ll fail.",
-          "therapist_utterance": "It’s understandable to feel caught between those desires and fears, Jay. You’ve experienced that connection and appreciation before, which makes the current situation feel even more frustrating. What do you think are the specific fears holding you back from stepping into a leadership role again?",
-          "therapist_use": "Exploring Ambivalence: encouraged Jay to articulate both his desire for growth and his fears."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay has not yet explored his feelings deeply; Client objective not met as Jay remains surface-level in his discussion.",
+          "client_utterance": "I just feel overwhelmed with everything going on. The PhD work is tough, and I thought about the leadership role in the jazz group, but I just froze up and said no. It’s like I can’t handle any more pressure right now.",
+          "therapist_utterance": "It sounds like you're feeling really overwhelmed by the demands of your PhD and the thought of taking on more responsibility. It's completely understandable to feel scared when you're facing so many pressures at once. Can you tell me more about what made you feel that way when you thought about the leadership role?",
+          "therapist_use": "Reflective Listening: to validate Jay's feelings of overwhelm and encourage exploration."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Jay has not yet fully explored the reasons for his fears. Client objective not met: Jay is still struggling to connect his feelings with his past successes.",
-          "client_utterance": "I guess I worry that I’ll just disappoint others, or that I won’t be able to manage my schoolwork. It’s hard to shake the thought that if I fail this time, it’ll just prove I’m not cut out for it. I want to think positively, but it feels like my past failures are looming over me.",
-          "therapist_utterance": "That fear of disappointment can be really powerful, especially when you’ve experienced setbacks before. But what if we looked at some of those past experiences where you felt competent? How did you overcome challenges in the past, both in music and academics?",
-          "therapist_use": "Evidence-Based Questioning: prompted Jay to reflect on his past successes and how they relate to his current fears."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay still avoids deeper emotions; Client objective not met as Jay isn’t willing to delve into his fears.",
+          "client_utterance": "I guess I just felt like I wouldn’t be able to juggle it all, and I didn't want to let anyone down. It’s like I kept thinking about how I might fail if I took it on. But maybe I shouldn't worry so much about that.",
+          "therapist_utterance": "It seems like you’re really concerned about the possibility of failing and letting others down. It's understandable to have those thoughts, especially when you're already feeling stretched thin. What do you think would happen if you allowed yourself to consider the idea of taking on that role?",
+          "therapist_use": "Expressing Empathy: to acknowledge Jay's fear and validate his concerns."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Jay has not yet listed his past successes in a structured way. Client objective not met: Jay is still uncertain about his capabilities and hesitant to confront his fears.",
-          "client_utterance": "I remember some moments in performances that felt really good, but they seem overshadowed by all the stress I feel now. It’s like I’m trying to remember the joy of those moments, but it’s hard when the pressure is so high. I suppose I could try to focus on those positive experiences more.",
-          "therapist_utterance": "Focusing on those positive experiences could really help shift your perspective, Jay. How about we make a list of those successful moments to remind you of what you’re capable of? This could help balance out some of those negative thoughts you’re dealing with.",
-          "therapist_use": "Pros and Cons Analysis: suggested making a list of positive past experiences to help Jay see his capabilities."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay is still hesitant to confront deeper feelings; Client objective not met as Jay continues to avoid exploring the implications of his decisions.",
+          "client_utterance": "I don’t know, maybe I’d just stress myself out even more. I keep telling myself that it’s probably better to stay where I am, even if it feels boring and disconnected. I just don’t want to feel worse than I already do.",
+          "therapist_utterance": "It sounds like you're really trying to protect yourself from feeling worse, which makes sense given everything you're juggling. But you also mentioned feeling bored and disconnected. How do you think these feelings of disconnect align with what being a musician means to you?",
+          "therapist_use": "Developing Discrepancy: to encourage Jay to reflect on the gap between his values and current experiences."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Jay has not yet fully engaged with the pros and cons of accepting the leadership role. Client objective not met: Jay is still struggling to connect his values with his current feelings.",
-          "client_utterance": "That sounds like it could help, but I still feel like the negatives might outweigh the positives. I mean, what if I try to lead and then just fail again? I can’t shake the feeling that I’m not meant for this kind of responsibility.",
-          "therapist_utterance": "It’s completely valid to feel that way, and it’s important to acknowledge those fears. But what if we explore the potential positives of accepting that leadership role? How might stepping up align with your values and what you truly enjoy about music?",
-          "therapist_use": "Decisional Balance Discussion: encouraged Jay to weigh the potential positives against his fears regarding leadership."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay is still not ready to explore deeper values; Client objective not met as Jay is hesitant to confront his true feelings.",
+          "client_utterance": "I don’t know. Music used to mean a lot to me, but now it feels like just another thing that adds pressure. I guess I just want to keep it simple and not think too much about what I’m missing.",
+          "therapist_utterance": "I can see that music is something you once felt connected to, and now it feels more like a source of pressure. It’s okay to want to keep things simple, especially when you're feeling overwhelmed. If you could imagine a way to reconnect with that passion without feeling pressured, what might that look like for you?",
+          "therapist_use": "Reflective Listening: to validate Jay's feelings and encourage him to envision a less pressured connection to music."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Jay has not yet articulated how his values align with leadership. Client objective not met: Jay still feels conflicted about his desires and fears.",
-          "client_utterance": "I know I love music and connecting with people through it, but the thought of being responsible for others feels overwhelming. I want to feel that excitement again, but I’m just scared of what that might entail. It’s tough for me to see how I could manage both my studies and a leadership role.",
-          "therapist_utterance": "It’s clear that music is a core part of who you are, and connecting with others through it is important. Perhaps we could break down what responsibilities you would have in that leadership role. Are there smaller steps you could take that would allow you to engage with both music and your studies without feeling overwhelmed?",
-          "therapist_use": "Exploring Ambivalence: helping Jay to articulate his love for music while considering smaller steps to engagement."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay is still avoiding deeper exploration; Client objective not met as Jay remains resistant to discussing his feelings further.",
+          "client_utterance": "I honestly can’t picture that right now. It just feels like a lot, and I don't want to make any decisions about it. I keep thinking that maybe if I just focus on my work, everything will sort itself out.",
+          "therapist_utterance": "It's understandable to want to focus on your work and hope things become clearer. But sometimes, addressing what's bothering us can help alleviate some of that pressure. What do you think would happen if you took a small step to explore those feelings about music?",
+          "therapist_use": "Expressing Empathy: to acknowledge Jay's desire to focus on work while gently encouraging exploration of emotions."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Jay has not yet identified smaller steps toward engagement. Client objective not met: Jay still feels overwhelmed by the responsibilities of leadership.",
-          "client_utterance": "Maybe I could just focus on showing up to rehearsals more regularly. That feels like a manageable step, but I still worry about feeling out of place. I want to feel more confident, but it’s hard to imagine that right now.",
-          "therapist_utterance": "Focusing on attending rehearsals sounds like a great first step! It allows you to reconnect with music without the pressure of leading. What would help you feel more comfortable and confident in that setting?",
-          "therapist_use": "Eliciting Change Talk: encouraged Jay to express his desire to engage more with music in a manageable way."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay remains resistant to exploring feelings; Client objective not met as Jay continues to avoid deeper discussions.",
+          "client_utterance": "I don’t know if I’m ready for that. It feels safer to keep things as they are. I just don’t think I can handle talking about it more right now.",
+          "therapist_utterance": "I hear you, and it's perfectly okay to feel that way. It can be overwhelming to dive into those feelings, especially when you're already feeling stressed. What if we take a moment to breathe and just acknowledge that it’s tough without having to change anything right now?",
+          "therapist_use": "Reflective Listening: to validate Jay's feelings and provide a safe space without pressure to change."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: Jay has articulated a manageable step toward engagement. Client objective met: Jay expressed a clearer understanding of his feelings and a willingness to take steps toward change.",
-          "client_utterance": "I think if I can just attend those rehearsals without the pressure, I might start feeling like myself again. It’s good to think about this possibility, even if it feels small. I want to reconnect with that part of me without the weight of leadership right now.",
-          "therapist_utterance": "That’s a wonderful realization, Jay! Taking that small step could help you reconnect with what you love about music. It’s great to see you opening up to this possibility, and I’m here to support you as you explore this path.",
-          "therapist_use": "Double-sided reflection: validated Jay's decision to prioritize his comfort while recognizing his desire to reconnect with music."
+          "reason_for_ending": "MOVE: Therapist objective met as Jay has shown increased awareness of his feelings; Client objective met as Jay has begun to articulate his struggles more clearly.",
+          "client_utterance": "I guess I’ve talked a bit about my feelings without realizing it. Even though it’s scary, maybe I can start to think about what I really want in music and my life. I just need to take it slow.",
+          "therapist_utterance": "That’s a great realization, Jay. Recognizing that it’s okay to take things slow is an important step. I’m glad you feel comfortable sharing some of your thoughts, and I’m here to support you as you explore this further.",
+          "therapist_use": "Developing Discrepancy: to highlight Jay's emerging awareness and support his exploration of feelings."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Jay's ambivalence towards taking on leadership responsibilities and enhance his motivation for change.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Start the session by inviting Jay to share his feelings about the leadership position he declined.",
+                "Encourage him to express both his desire to lead and his fears about the responsibilities.",
+                "Use open-ended questions to facilitate a discussion about what he values in leadership versus what holds him back."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Ask Jay about times he has successfully faced challenges in the past, focusing on his strengths.",
+                "Encourage him to articulate reasons for wanting to lead and what it would mean for him.",
+                "Reflect his statements to reinforce his motivations for change and what he might gain."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussion",
+              "instructions_for_therapist": [
+                "Create a list of the pros and cons of accepting the leadership role.",
+                "Facilitate a discussion on how his current behavior (declining the role) aligns or misaligns with his core values and goals.",
+                "Highlight discrepancies between his values of leadership and his current avoidance behavior."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Decatastrophizing",
+              "instructions_for_therapist": [
+                "Introduce the concept of Decatastrophizing by explaining how it can help with Jay's fears about leadership.",
+                "Guide Jay to identify specific catastrophic thoughts he has regarding the leadership role.",
+                "Challenge these thoughts by asking for evidence and exploring alternative outcomes.",
+                "Discuss past experiences where he faced challenges successfully to gather evidence against catastrophic thinking.",
+                "Help him brainstorm realistic outcomes of taking the role, including both positives and manageable negatives.",
+                "Formulate a balanced thought that reflects a more realistic perspective on the situation.",
+                "Encourage him to practice reframing any future catastrophic thoughts using the Decatastrophizing technique."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "To support Jay in the contemplation phase, I will utilize Motivational Interviewing (MI) strategies to explore his ambivalence about leadership responsibilities. I will start by facilitating a discussion about his feelings regarding the recently offered role, allowing him to express both his desires and fears. This aligns with MI's emphasis on exploring ambivalence. Next, I will elicit change talk by encouraging Jay to reflect on past successes that highlight his strengths, reinforcing the idea that he is capable of handling challenges. A decisional balance discussion will help him weigh the pros and cons of his decision to decline the role, fostering insight into how his current avoidance may conflict with his values. In conjunction with MI, I will implement CBT interventions, particularly Decatastrophizing. This will involve helping Jay identify and challenge his catastrophic thoughts about the leadership position, guiding him toward a more balanced perspective. By addressing his resistance to change gently, I aim to strengthen his self-efficacy while maintaining a collaborative and supportive environment.",
+        "progress_marker": "Jay begins to articulate his motivations for change and demonstrates increased awareness of the discrepancy between his values and current behavior."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to explore my feelings about my abilities and the fear of change in a safe environment.",
+        "client_state": {
+          "awareness": "I am starting to see that my fear of failure and need for recognition are impacting my decisions, but I still struggle to fully understand how these beliefs shape my current feelings.",
+          "motivation": "I want to change and feel more connected and successful, but I am unsure about the effort it will take and whether I can handle it.",
+          "openness": "I am beginning to express my thoughts and feelings more openly in therapy, but I still hold back due to my fear of being judged.",
+          "resistance": "I feel a strong resistance to change, as I am ashamed of my perceived failures and doubt my ability to handle new responsibilities."
+        },
+        "client_reasoning": "Lately, I've been reflecting on my choices, especially the leadership position I turned down. I realize that I often feel incompetent and helpless, which makes me question whether I can really excel in my studies or music. I want to make a change, to feel successful and appreciated again, but the fear of taking on more responsibility holds me back. I notice that I keep ruminating on my past experiences where I felt connected and valued, and it feels so far from my current reality. I want to talk about this in therapy, as I think it might help me understand my feelings better. But I still feel ashamed, like I should be able to handle things. I wonder if I'm just not cut out for roles that demand more from me, which makes it hard to see a clear path forward."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met because they did not fully explore Jay's ambivalence about leadership. The client's objective was not met since Jay still feels uncertain about his feelings and fears regarding the leadership role.",
+          "client_utterance": "I've been thinking more about that leadership role, and I can't help but feel torn. Part of me thinks it could be a great opportunity, but another part is terrified of failing. What if I can't handle it and it just adds to my stress?",
+          "therapist_utterance": "It's completely natural to feel torn, especially when it comes to opportunities that could impact your life significantly. Can you share more about what excites you about the idea of taking on leadership? And what are your biggest fears about it?",
+          "therapist_use": "Open-ended questioning: encouraged deeper reflection on Jay's feelings about leadership."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't yet elicited Jay's change talk regarding his strengths. The client's objective was not fully met since Jay is still grappling with conflicting feelings and hasn't articulated his motivations yet.",
+          "client_utterance": "I guess leading could help me feel more connected to the group and make a difference, but I'm just so afraid of not living up to expectations. It feels like I’d be out of my depth, and that's really intimidating.",
+          "therapist_utterance": "It's understandable to feel intimidated by expectations, especially when you're already dealing with a lot. Can you think of any times when you stepped up in the past, despite feeling uncertain? What did you learn about yourself from those experiences?",
+          "therapist_use": "Eliciting change talk: aimed to highlight past successes to empower Jay."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't yet engaged Jay in a decisional balance discussion. The client’s objective was not fully met because Jay is still hesitant and hasn't clearly identified his motivations for change.",
+          "client_utterance": "There were times in my band where I felt really proud of what we achieved together, but that seems so far away now. I think leading could potentially bring back some of those good feelings, but the fear of failure is just so overwhelming.",
+          "therapist_utterance": "It sounds like there's a part of you that craves that sense of pride and connection, which is really valuable to acknowledge. If we were to list out the pros and cons of taking on that role, what do you think would be on each side? Let's explore how those align with what you truly want.",
+          "therapist_use": "Decisional balance discussion: facilitated weighing the pros and cons of leadership to clarify Jay's motivation."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met since they did not yet facilitate a detailed exploration of Jay's core values. The client's objective was not fully met because Jay hasn't fully articulated his values regarding leadership and connection.",
+          "client_utterance": "Well, on the pro side, I guess I could develop my skills and feel more engaged. But the cons are really daunting; what if I let my team down or fail to manage the workload? It feels like I'm stuck between wanting to lead and being scared of the consequences.",
+          "therapist_utterance": "Being caught between those two feelings is tough, and it's important to honor both sides. Let’s dig deeper into what leadership means to you and how it connects with your values. How does the idea of leadership align with your desire to feel connected and appreciated?",
+          "therapist_use": "Exploring ambivalence: validated Jay's feelings while guiding him to connect leadership with his core values."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't yet helped Jay reframe his catastrophic thoughts. The client's objective was not fully met since Jay is still wrestling with fears and hasn't embraced a more balanced perspective.",
+          "client_utterance": "I think leadership could help me connect to others, but my mind keeps going to the worst-case scenarios. I can’t shake the thought that I’ll end up failing and disappointing everyone, which just makes me want to avoid it even more.",
+          "therapist_utterance": "Those catastrophic thoughts can be really hard to manage, especially when they take over. What if we took a moment to identify those worst-case scenarios? Then we can look for evidence against them and brainstorm more achievable outcomes.",
+          "therapist_use": "Decatastrophizing: introduced the concept to help Jay challenge catastrophic thoughts about leadership."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not yet help Jay generate evidence against his fears. The client's objective was not fully met because Jay is still feeling overwhelmed by his thoughts instead of gaining clarity.",
+          "client_utterance": "I think my biggest fear is that I'll fail to keep up with my studies and let my band down. But I remember times when I managed to juggle multiple responsibilities, even if it felt tough. I just don't know if I can do it now.",
+          "therapist_utterance": "It's great to acknowledge those past experiences where you successfully managed multiple roles, even when it was challenging. Let's reflect on what strategies you used then that could help you now. How did those experiences shape your confidence in your abilities?",
+          "therapist_use": "Reflecting on past successes: aimed to reinforce Jay's confidence in his abilities by drawing on his history."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist's objective was met as they explored Jay's motivations and fears effectively. The client's objective was met as Jay articulated his feelings and started to see a clearer path forward regarding his leadership.",
+          "client_utterance": "I realize now that I have faced tough situations before, and even though I still feel scared, maybe I can try to approach this differently. Perhaps I should give myself a chance to explore the leadership role, even if it feels daunting.",
+          "therapist_utterance": "That's a significant realization, Jay! It shows that you're starting to connect your past strengths with your current feelings. Remember, it's okay to take small steps and see how it feels to explore this opportunity. What would your first step look like?",
+          "therapist_use": "Affirmation and reflection: recognized Jay's shift towards a more open mindset about leadership."
         }
       ]
     },
@@ -233,22 +224,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Jay's commitment to change and enhance his confidence regarding taking on new responsibilities.",
+          "objective": "Strengthen Jay's commitment to taking on the leadership role in the jazz group by exploring his motivations and addressing his fears.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Jay to express his reasons for wanting to accept leadership roles in music, highlighting the positive feelings he associates with performing.",
-                "Ask open-ended questions to explore his motivations further, such as 'What would being a leader in the jazz group mean for you?'",
-                "Reflect back his commitment statements to reinforce his desire for change and progress."
+                "Engage Jay in a discussion about the leadership role and encourage him to express his motivations for wanting to take it on.",
+                "Reflect back his statements of commitment to change, reinforcing any positive language he uses.",
+                "Ask open-ended questions such as 'What would taking on this role mean for you?' to deepen his exploration of personal values related to leadership."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss with Jay his feelings of uncertainty regarding the leadership role and normalize such feelings.",
-                "Use scaling questions (e.g., 'On a scale of 1 to 10, how ready do you feel to take on new responsibilities?') to help him articulate his confidence levels.",
-                "Encourage him to identify small steps he can take to boost his readiness."
+                "Encourage Jay to share his feelings about his ability to manage the leadership position alongside his studies.",
+                "Use scaling questions like 'On a scale of 1 to 10, how confident do you feel about taking on this role?' to assess his readiness.",
+                "Identify specific areas he feels confident in and discuss how these strengths can support him in assuming the leadership role."
               ]
             }
           ]
@@ -256,79 +247,82 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Work collaboratively with Jay to create a step-by-step action plan for gradually increasing his involvement in the jazz group.",
-                "Identify specific short-term goals, such as attending more rehearsals or taking on a minor leadership role initially.",
-                "Ensure that each goal is realistic and manageable, considering his current commitments."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Help Jay to identify potential barriers he may encounter when taking on new responsibilities.",
-                "Guide him through brainstorming practical solutions to each barrier, emphasizing the development of coping strategies.",
-                "Encourage him to visualize potential success scenarios to increase his confidence."
+                "Introduce the concept of Decatastrophizing and its relevance to Jay's fears around taking on leadership.",
+                "Help him identify and articulate his catastrophic thoughts about the leadership role.",
+                "Guide Jay to challenge these thoughts by examining evidence and exploring alternative outcomes.",
+                "Encourage him to recall past successes that contradict his current fears.",
+                "Assist him in generating realistic and balanced outcomes regarding the leadership position.",
+                "Work with Jay to formulate a new, balanced thought to replace his catastrophizing beliefs.",
+                "Assign him a follow-up exercise to practice reframing future catastrophic thoughts."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this therapy plan, I first identified Jay's core beliefs and resistance emotions to tailor my approach. Understanding his feelings of shame and incompetence led me to employ MI strategies that focus on strengthening commitment language and exploring his confidence. This can help him articulate his motivations for change and reduce feelings of helplessness. I included specific techniques like action planning to ensure that goals are achievable and collaborative, which can help mitigate his resistance. By integrating problem-solving skills training, I aim to empower Jay to identify and address barriers actively, fostering a sense of agency. Overall, these steps are designed to enhance Jay's self-efficacy and prepare him for the changes he is contemplating, aligning with his current stage in the preparation phase.",
-        "progress_marker": "Jay has identified at least two achievable short-term goals and expressed increased confidence in his ability to manage responsibilities."
+        "therapist_reasoning": "In addressing Jay's situation, I first recognized the need to strengthen his commitment to change through Motivational Interviewing techniques. By employing strategies that focus on commitment language, I will encourage Jay to articulate his motivations for wanting the leadership role, which enhances his intrinsic motivation. Additionally, exploring his confidence and readiness will help to uncover both his strengths and any lingering fears, setting the stage for a positive mindset. Concurrently, I will integrate CBT interventions, specifically Decatastrophizing, to help Jay challenge his catastrophic thoughts regarding the leadership position. This approach allows us to examine the validity of his fears, while reinforcing his past successes to build self-efficacy. By combining MI strategies with CBT techniques, I aim to create a collaborative and supportive environment that addresses Jay's resistance, allowing him to gradually prepare for the changes he wishes to implement without feeling overwhelmed.",
+        "progress_marker": "Client articulates at least two personal motivations for taking on the leadership role and identifies one practical step he can take in preparation for this change."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings about taking on new responsibilities and find ways to manage my anxiety around change.",
+        "client_objective": "I hope to explore my feelings about taking on new responsibilities and find ways to manage my fears around change.",
         "client_state": {
-          "awareness": "I realize that my current situation isn't fulfilling, and my reluctance to accept new opportunities is holding me back.",
-          "motivation": "I feel a growing desire to improve my life and find a balance between my studies and my passion for music.",
-          "openness": "I'm willing to discuss my fears and explore potential changes, but I still feel hesitant about fully committing.",
-          "resistance": "I have doubts about my abilities and fear that I might fail if I try to take on more responsibilities."
+          "awareness": "I realize that my current situation in both my PhD and music career is affecting my mental health, and I need to make a change to feel more fulfilled.",
+          "motivation": "I feel a strong motivation to improve my situation and regain a sense of connection and success, especially in my music.",
+          "openness": "I am willing to discuss my thoughts and emotions with my therapist, as well as potential changes I can make moving forward.",
+          "resistance": "I still have some doubt and fear about whether I can handle changes, which sometimes makes me hesitant to fully commit to new opportunities."
         },
-        "client_reasoning": "I've come to understand that my current state of dissatisfaction isn't sustainable. I see how my reluctance to embrace new challenges, like the leadership role in my jazz group, stems from a fear of failure and a sense of inadequacy. I genuinely want to change this pattern and believe that taking small, manageable steps could lead to a more fulfilling life. However, I can't shake the fear that I might not be able to handle the added pressure, which makes me feel ashamed. Therapy has helped me recognize these feelings and understand that it's okay to seek support while I navigate this transition. I hope that by discussing my thoughts and emotions with my therapist, I can gain clarity and build the confidence to pursue opportunities that align with my passions without feeling overwhelmed."
+        "client_reasoning": "I’ve started to understand that my current feelings of disconnection and inadequacy are not just a personal failing, but rather a reflection of my environment and the pressures I'm facing. I know I need to change something to find satisfaction in my work and personal life, especially in music where I once felt so alive. I really want to explore how I can manage the responsibilities of leadership without overwhelming myself, since being part of that jazz group means a lot to me. However, I’m scared that I won’t be able to handle it and will just end up feeling like a failure again. Therapy has helped me see that my fears are valid but also that I have the power to create change in my life. I'm cautiously optimistic about discussing my feelings with my therapist and figuring out a way forward that feels manageable.",
+        "progress_marker": "Client articulates a desire to explore coping strategies and acknowledges the need for change, despite lingering fears."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Jay has not yet fully articulated his motivations for leadership roles. The client objective was not met as Jay is still hesitant and has not identified specific short-term goals.",
-          "client_utterance": "I've been thinking that maybe if I attend rehearsals, I can start feeling more connected to the music again. But I still worry about what will happen if I really try to lead again. What if I just end up feeling overwhelmed like before?",
-          "therapist_utterance": "It's understandable to have those concerns, Jay. Attending rehearsals could be a way to ease back into the environment without the pressure of leadership. What feelings come up for you when you think about reconnecting with your music in that way?",
-          "therapist_use": "Open-ended question: to encourage exploration of feelings about reconnecting with music."
+          "reason_for_ending": "KEEP: Therapist objective not met due to insufficient exploration of motivations for leadership. Client objective not met as Jay hasn't articulated two personal motivations yet.",
+          "client_utterance": "I've been thinking about the leadership role again, and I still feel this tug-of-war inside me. Part of me really wants to try, but I can't shake the fear of failing and not being able to handle it all. It feels like I'm being pulled in two directions.",
+          "therapist_utterance": "It's completely understandable to feel that tension, Jay. What do you think might motivate you to take on that leadership role despite your fears? Let’s explore what it could mean for you personally.",
+          "therapist_use": "Open-ended question: to encourage exploration of Jay's motivations for leadership."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Jay has yet to express his reasons for wanting to take on a leadership role. The client objective was not met as he still feels uncertain about his readiness.",
-          "client_utterance": "I think I might feel excited to be around the music again, but there’s still that nagging fear of disappointing everyone if I fail. I want to feel that joy, but I can't help but think about what could go wrong.",
-          "therapist_utterance": "It sounds like you recognize the potential joy in reconnecting with music, but the fear of disappointment is holding you back. Maybe we can focus on what that leadership role would mean for you. What would it mean to you to take on that responsibility in the jazz group?",
-          "therapist_use": "Exploring motivations: aimed at clarifying the significance of leadership for Jay."
+          "reason_for_ending": "KEEP: Therapist objective not met because Jay hasn't expressed specific motivations yet. Client objective not met as he hasn't fully addressed his fears around change.",
+          "client_utterance": "I guess leading could be a way to feel more connected to the group again, but I just worry it’ll be too much. I really miss that feeling of belonging, but the thought of taking on more responsibility makes me hesitate.",
+          "therapist_utterance": "It sounds like connection is really important to you, and that leading could help you regain that sense of belonging. What do you think would be the hardest part about balancing that connection with the responsibilities of leadership?",
+          "therapist_use": "Reflective listening: to validate Jay's desire for connection and identify challenges."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Jay has not yet fully committed to exploring leadership opportunities. The client objective was not met since Jay is still grappling with his fears rather than identifying actionable steps.",
-          "client_utterance": "Leading the jazz group would mean reconnecting with that part of me that loves music and enjoys bringing people together. But I still can't shake the fear that I won't be good enough or that I'll let everyone down.",
-          "therapist_utterance": "It's wonderful that you can see the value in leading and how it aligns with your passion for music. However, those fears of inadequacy are significant. What are some small, manageable steps you could take to gradually increase your involvement in the group?",
-          "therapist_use": "Action planning: to help Jay identify small, realistic steps toward increased involvement."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay hasn't articulated enough about his confidence in managing responsibilities. Client objective not met since he still expresses hesitation.",
+          "client_utterance": "I think the hardest part would be managing my time. I really don’t want to let my band down, but I also don’t want my PhD work to suffer. It feels like I'm stuck in a loop of anxiety about it.",
+          "therapist_utterance": "That anxiety is understandable, especially with so much on your plate. If you could rank your confidence in handling both responsibilities on a scale of 1 to 10, where would you place yourself? Let’s see if we can identify some areas where you feel more secure.",
+          "therapist_use": "Scaling question: to assess Jay's confidence level regarding the leadership role."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Jay has not yet identified specific short-term goals. The client objective was not met because Jay is still hesitant to fully engage with new responsibilities.",
-          "client_utterance": "Maybe I could start by attending a couple of rehearsals each month. Just to get back into the swing of things and see how I feel about it. But I still worry about how I’ll manage everything else on my plate.",
-          "therapist_utterance": "That sounds like a great first step, and it's important to keep your other commitments in mind. Attending rehearsals without the pressure of leading could help you gauge how you feel. How can we ensure that this plan remains manageable for you?",
-          "therapist_use": "Collaborative planning: to ensure Jay's action plan is realistic and aligned with his current commitments."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay hasn't fully explored how his strengths can support him in leadership. Client objective not met since he hasn't yet articulated a practical step.",
+          "client_utterance": "I think I’d say a 5. I feel like I can handle some things, but others just seem daunting. It’s hard to see how I could balance it all without feeling overwhelmed.",
+          "therapist_utterance": "A 5 indicates that you recognize some strengths, which is a good place to start. Can you think of specific past experiences where you balanced multiple responsibilities successfully? What did you do then that could help you now?",
+          "therapist_use": "Encouraging reflection: to help Jay identify past successes that can support his confidence."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Jay has not yet visualized success scenarios. The client objective was not met as he still feels uncertain about how to balance his responsibilities.",
-          "client_utterance": "If I can attend those rehearsals, maybe I can remind myself of why I love music. But I still feel anxious about juggling my studies and the jazz group. What if it all just becomes too much?",
-          "therapist_utterance": "It's completely valid to feel anxious about balancing everything, and it’s great that you’re thinking about reconnecting with your love for music. What if we brainstorm some potential barriers you might face and come up with strategies to overcome them? Visualizing success could really help boost your confidence.",
-          "therapist_use": "Problem-solving skills training: to empower Jay to identify barriers and develop coping strategies."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay hasn't yet challenged his catastrophic thoughts. Client objective not met since he hasn't articulated a desire for coping strategies.",
+          "client_utterance": "I remember managing my band and studies before, but it was really tough. I guess I just have to remind myself that I’ve done it before, but my mind keeps going to these worst-case scenarios. It’s hard to shift that thinking.",
+          "therapist_utterance": "It’s great that you can recall those past successes. Let’s take a moment to identify those worst-case scenarios you’re worried about. Then we can look for evidence against them and come up with more balanced thoughts.",
+          "therapist_use": "Decatastrophizing: to help Jay challenge his catastrophic thinking regarding leadership."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Jay has not yet articulated potential barriers. The client objective was not met because he still feels overwhelmed and uncertain about managing his commitments.",
-          "client_utterance": "I guess I worry that if I fall behind in my studies, it’ll just prove that I can’t handle everything. I want to feel confident and excited about music, but right now, it just feels like a lot.",
-          "therapist_utterance": "It’s understandable to have those worries, Jay. What if we brainstorm some specific solutions to those barriers? Focusing on those strategies might help you feel more prepared to take on both responsibilities.",
-          "therapist_use": "Brainstorming solutions: to help Jay build confidence in managing responsibilities."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay hasn't yet generated realistic outcomes to counter his fears. Client objective not met since he hasn't fully explored coping strategies.",
+          "client_utterance": "My biggest fear is that I’ll fail to keep up, and that I’ll let everyone down. But I remember that I’ve succeeded in tough situations before. I think I need to focus on that more.",
+          "therapist_utterance": "That’s a positive realization. Let’s brainstorm some practical steps you could take to explore leadership without overwhelming yourself. What might a small step look like for you?",
+          "therapist_use": "Brainstorming: to encourage Jay to generate practical steps toward leadership."
         },
         {
-          "reason_for_ending": "MOVE - The therapist objective was met as Jay expressed a clearer commitment to taking steps toward leadership. The client objective was met as Jay identified achievable goals and recognized that he could manage his responsibilities.",
-          "client_utterance": "I think if I can just commit to attending those rehearsals regularly, that could help me ease back into things. I feel hopeful about it, and it’s nice to think about reconnecting without the pressure of leading right now.",
-          "therapist_utterance": "That’s a fantastic decision, Jay! Committing to those rehearsals is a great way to reconnect with your passion while managing your workload. I’m here to support you as you take this step forward.",
-          "therapist_use": "Reflection of commitment: to reinforce Jay's decision and support his progress."
+          "reason_for_ending": "KEEP: Therapist objective not met as Jay hasn't articulated a concrete first step yet. Client objective not met since he hasn't fully embraced the change.",
+          "client_utterance": "Maybe I could start by communicating more with the current leader about my thoughts. I think just opening that dialogue could help me feel more involved without jumping in completely.",
+          "therapist_utterance": "That sounds like an excellent first step, Jay! Starting a conversation can lead to a deeper understanding of the role and how you might fit into it. It also gives you a chance to express your concerns while exploring what leadership could look like for you.",
+          "therapist_use": "Reflective support: to validate Jay's proposed step and encourage exploration."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist objective met as Jay articulated motivations and identified a practical step. Client objective met as he explored his fears and ways to manage them.",
+          "client_utterance": "I feel more hopeful about this now. I think communicating with the leader will help me work through my fears and maybe even build my confidence. It feels like I’m finally ready to consider this change.",
+          "therapist_utterance": "That’s fantastic to hear, Jay! It sounds like you’ve made significant strides in exploring your feelings about leadership and finding ways to manage your fears. I'm here to support you as you take this step forward.",
+          "therapist_use": "Validation and encouragement: to affirm Jay’s commitment and readiness for change."
         }
       ]
     }

@@ -12,35 +12,36 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase awareness of Charlie's emotions and thoughts regarding his current situation and values.",
+          "objective": "Enhance awareness of thoughts and emotions related to personal values and self-perception.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Charlie's concerns and feelings.",
-                "Reflect back what he shares to validate his experiences without judgment.",
-                "Encourage him to elaborate on his feelings about the lack of response from the person he is interested in."
+                "Listen to Charlie's concerns and feelings without judgment.",
+                "Reflect back what Charlie shares to demonstrate understanding and empathy.",
+                "Encourage Charlie to elaborate on their feelings about the recent lack of response from the person they're interested in."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
                 "Acknowledge Charlie's feelings of sadness and disappointment.",
-                "Use empathetic statements to convey understanding of his ambivalence and hesitance to discuss deeper feelings."
+                "Validate Charlie's experiences by stating that it's normal to feel down in such situations.",
+                "Reassure Charlie that these feelings are valid and part of the human experience."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Help Charlie explore the gap between his current feelings and his personal values.",
-                "Facilitate a discussion on how his current coping strategies may not align with his self-worth and professional aspirations."
+                "Help Charlie explore the difference between their current feelings of hopelessness and their personal values related to relationships.",
+                "Ask questions that prompt Charlie to think about what they truly desire in their connections with others."
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Encourage Charlie to reflect on how his thoughts about the lack of response may affect his self-image.",
-                "Promote curiosity about the impact of his automatic thoughts on his emotions and behaviors."
+                "Encourage Charlie to reflect on their core beliefs about self-worth and productivity.",
+                "Prompt Charlie to consider how these beliefs may influence their perceptions of rejection."
               ]
             }
           ]
@@ -48,92 +49,98 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Introduce the Concept and Identify the Thoughts",
               "instructions_for_therapist": [
-                "Ask Charlie to consider evidence for and against his automatic thoughts about the lack of response.",
-                "Encourage him to identify instances where his assumptions may not have been accurate."
+                "Initiate a discussion about the automatic thoughts Charlie has regarding the lack of response.",
+                "Guide Charlie to identify specific thoughts and feelings associated with this situation."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Explore the Evidence",
               "instructions_for_therapist": [
-                "Guide Charlie to evaluate the reality of his assumptions regarding others' perceptions of him.",
-                "Facilitate discussions that challenge his belief that his self-worth is tied solely to external validation."
+                "Ask Charlie about the evidence supporting their automatic thoughts.",
+                "Encourage them to consider alternative explanations for the person's silence."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Challenge the Assumptions",
               "instructions_for_therapist": [
-                "Encourage Charlie to consider alternative explanations for the lack of response.",
-                "Discuss how the situation may not reflect his value or worthiness as a person."
+                "Collaboratively list potential alternative explanations for the lack of response.",
+                "Facilitate a discussion about past experiences that challenge their negative assumptions."
               ]
             },
             {
-              "technique_name": "Continuum Technique",
+              "technique_name": "Examine Past Experiences",
               "instructions_for_therapist": [
-                "Help Charlie place his feelings on a continuum to better understand the intensity of his emotions.",
-                "Assist him in recognizing that emotions are not absolute and can fluctuate."
+                "Prompt Charlie to recall times when their assumptions about others were proven wrong.",
+                "Help Charlie reflect on how those experiences might inform their current situation."
+              ]
+            },
+            {
+              "technique_name": "Create a Balanced Thought",
+              "instructions_for_therapist": [
+                "Assist Charlie in formulating a balanced thought that reflects new evidence gathered.",
+                "Encourage Charlie to practice this balanced thinking when faced with similar situations."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Charlie's pre-contemplation phase, the therapist must first create a safe and trusting environment to foster engagement. Using reflective listening allows the therapist to validate Charlie's feelings while expressing empathy for his sadness and disappointment, which reduces defensiveness. The therapist then employs strategies to develop discrepancy, prompting Charlie to reflect on the incongruence between his values and current emotional responses. This can enhance awareness without pushing for change. Evidence-based questioning and reality testing help Charlie critically assess his automatic thoughts and assumptions, encouraging him to see the situation from multiple perspectives. The continuum technique will aid in normalizing his emotional experience, helping him understand that feelings are not fixed. Each strategy is tailored to Charlie's ambivalence, ensuring the conversation remains exploratory rather than directive, aligning with motivational interviewing principles. Overall, these interventions aim to cultivate self-awareness, paving the way for future contemplation of change while respecting Charlie's current stage of readiness.",
-        "progress_marker": "Charlie expresses curiosity about his thoughts and feelings, showing willingness to explore his emotional responses further."
+        "therapist_reasoning": "To effectively engage Charlie in the Pre-contemplation phase, I will employ MI strategies that enhance awareness and curiosity without pushing for immediate change. I will begin with reflective listening to build rapport and allow Charlie to express their feelings regarding their recent experience. By expressing empathy, I aim to validate their emotions, reducing resistance and defensiveness. Developing discrepancy will help Charlie explore the gap between their current feelings of hopelessness and their desired connection with others, fostering self-reflection. I will also raise awareness about their core beliefs, which may be exacerbating their distress. Concurrently, I will utilize CBT techniques to introduce the concept of automatic thoughts, encouraging Charlie to identify and explore these thoughts. I will guide them through evidence-based questioning to challenge their assumptions and examine past experiences that contradict their current beliefs. This structured approach will help Charlie reassess their thoughts and create a more balanced perspective, ultimately fostering a greater awareness of their emotions without demanding behavioral change.",
+        "progress_marker": "Charlie's ability to articulate their feelings and thoughts about the lack of response, demonstrating increased self-awareness and openness to exploration."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to find a way to talk about my feelings without feeling overwhelmed or judged.",
+        "client_objective": "I hope to just talk about my feelings without being pressured to change anything.",
         "client_state": {
-          "awareness": "I have a vague sense that something isn't right, but I don't really want to confront it.",
-          "motivation": "I feel stuck and unsure about making any changes; it seems pointless.",
-          "openness": "I'm hesitant to share my thoughts and feelings because I fear being misunderstood.",
-          "resistance": "I find myself defending my situation, thinking it’s better to avoid discussing it."
+          "awareness": "I know something feels off, but I can't pinpoint what it is.",
+          "motivation": "I feel a little hopeless about making any changes, so I'm not sure I even want to try.",
+          "openness": "I want to share, but I worry that it won't matter or that I'll be judged.",
+          "resistance": "I often deflect and avoid discussing my true feelings, feeling it's safer."
         },
-        "client_reasoning": "I know there’s something off in my life, like my career path and my dating situation, but honestly, I don’t feel ready to dive into those issues. It’s like I want to talk about it, yet I feel this heavy weight of shame and fear that makes me want to retreat instead. I keep thinking maybe it’s just how things are meant to be, that I won’t find a way out of this feeling of inadequacy. Talking about it feels risky—what if I reveal too much and still don’t find a solution? I worry that I’ll just highlight my failures. So, I prefer to keep things light and focus on external distractions, like projects or friends, rather than face this uncomfortable inner turmoil. It’s easier to avoid the conversation than to confront how lost I feel.",
-        "progress_marker": "Client begins to acknowledge feelings of discomfort in their current situation."
+        "client_reasoning": "Lately, I've been feeling really overwhelmed with my career and personal life, but I'm not sure it's worth bringing up in therapy. I know I should probably consider a change, especially with my job, but it feels like a mountain I can't climb. I keep telling myself that things can't really improve, so what's the point? I want to talk about the emotions swirling inside of me, but I feel like if I do, I'll just be hit with a wave of pressure to change, and that terrifies me. I often think about how I've tied my worth to my productivity, and admitting I need help feels like admitting defeat. It’s easier to just focus on external things, like my friends or projects, rather than confront my feelings of loneliness and disappointment. Therapy feels like a place where I might have to face those uncomfortable truths, and that makes me hesitant to dive deeper into my internal struggles."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Charlie hasn't fully explored his feelings. Client objective not met as Charlie still feels hesitant to discuss deeper feelings.",
-          "client_utterance": "I guess I've been avoiding thinking about my career change. It feels daunting, and I don't really know if I want to face it. Sometimes I just think maybe I should stick with what I have, even if it doesn't feel right.",
-          "therapist_utterance": "It sounds like you're feeling overwhelmed by the idea of change, and that it feels easier to stay where you are. You're acknowledging that something isn't quite right, but there's also a fear of confronting it. Can you share more about what keeps you from wanting to explore those feelings?",
-          "therapist_use": "Reflective listening: used to validate Charlie's feelings while encouraging him to share more."
+          "reason_for_ending": "KEEP - Therapist objective not met: Charlie hasn't fully articulated their feelings about the lack of response. Client objective not met: Charlie is still hesitant to share deeper feelings.",
+          "client_utterance": "I've been feeling really down about this person not responding to me. It makes me wonder if I just don't matter enough. I know I shouldn't think like that, but it's hard to shake off these feelings.",
+          "therapist_utterance": "It sounds like you're feeling really hurt and questioning your worth because of their silence. It's completely understandable to feel that way; many people experience those feelings when they’re waiting for a response. Can you tell me more about what thoughts come up for you when you think about this situation?",
+          "therapist_use": "Reflective Listening: used to demonstrate understanding and encourage Charlie to elaborate."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Charlie hasn’t elaborated on his feelings. Client objective not met as Charlie still feels defensive about deeper discussions.",
-          "client_utterance": "I just think that maybe if I keep my head down and focus on work, I'll be fine. I mean, isn’t it normal to feel lost sometimes? I don’t want to dig too deep, thinking it won’t really help anyway.",
-          "therapist_utterance": "It makes sense that you'd want to focus on work to avoid feeling lost, but it seems like there's a part of you that questions if that’s truly enough. You mentioned it's normal to feel lost; what do you think that feeling is trying to tell you? Exploring that could open up some new perspectives.",
-          "therapist_use": "Developing discrepancy: aimed at helping Charlie reflect on the gap between his current coping strategies and his values."
+          "reason_for_ending": "KEEP - Therapist objective not met: There’s still a lack of clarity in Charlie's feelings. Client objective not met: Charlie is holding back from exploring deeper emotions.",
+          "client_utterance": "I guess I keep thinking that maybe I’m not interesting enough for them. It's like I’m projecting my own insecurities onto the situation. I feel ashamed for even thinking this way, but I can’t help it.",
+          "therapist_utterance": "It seems like you're feeling a mix of shame and insecurity about how you perceive yourself in this situation. Those thoughts can be really tough to navigate, especially when they make you question your value. What do you think these thoughts say about how you view yourself?",
+          "therapist_use": "Expressing Empathy: used to acknowledge Charlie's feelings and validate his experiences."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Charlie hasn't connected his feelings to his values. Client objective not met as Charlie still feels reticent to explore emotions.",
-          "client_utterance": "I don't know, maybe it's just a phase? If I ignore it, it'll go away, right? I feel like everyone has their struggles, and I don’t want to make a big deal out of mine.",
-          "therapist_utterance": "You’re expressing a common thought that ignoring problems might help them fade, but sometimes that can lead to more frustration. It sounds like there's a fear of magnifying your struggles. What if you allowed yourself to acknowledge them, even just a little?",
-          "therapist_use": "Expressing empathy: to acknowledge Charlie’s feelings and gently challenge his avoidance."
+          "reason_for_ending": "KEEP - Therapist objective not met: Charlie has not yet explored the gap between their feelings and personal values. Client objective not met: Charlie is still deflecting deeper exploration.",
+          "client_utterance": "I’ve always tied my self-worth to how others see me, especially in my career. It’s frustrating because I know I’m capable, but I feel like I keep failing. I just wish I could break free from these thoughts.",
+          "therapist_utterance": "It's clear that your self-worth is deeply connected to external validation, which can be exhausting. It sounds like there's a part of you that understands your capabilities but feels weighed down by these thoughts. What would it look like for you to separate your worth from how others perceive you?",
+          "therapist_use": "Developing Discrepancy: used to prompt exploration of Charlie's values and feelings of worth."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Charlie hasn't acknowledged the impact of avoidance. Client objective not met as Charlie remains hesitant to delve deeper.",
-          "client_utterance": "I guess it just feels safer to pretend everything is fine. I worry that if I start talking, I might end up feeling worse. Maybe I just need to keep things light for now.",
-          "therapist_utterance": "It's understandable to want to keep things light, especially when facing deeper emotions feels risky. However, what you’re feeling is important, too, and it’s okay to take small steps in exploring it. What do you think might happen if you let yourself feel a bit more?",
-          "therapist_use": "Raising awareness: encouraging Charlie to reflect on the impact of avoiding his feelings."
+          "reason_for_ending": "KEEP - Therapist objective not met: Charlie needs to identify specific thoughts for deeper understanding. Client objective not met: Charlie is still hesitant to engage fully with their emotions.",
+          "client_utterance": "I just don’t know if I can do that. It feels like I’m stuck in this cycle where I can’t change how I feel or think. I want to be better, but it almost feels impossible.",
+          "therapist_utterance": "I hear you saying that change feels daunting, almost like a mountain to climb. It’s okay to feel stuck; many people find themselves in similar positions. Let's take a small step together—what specific thoughts come to mind when you feel like this?",
+          "therapist_use": "Raising Awareness: used to encourage Charlie to reflect on their thoughts and feelings."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Charlie hasn't shown curiosity about his feelings. Client objective not met as Charlie still feels resistant to discussing emotions.",
-          "client_utterance": "I’m not sure. I think maybe I just don’t want to end up feeling worse. It’s easier to distract myself and feel like I’m doing something productive.",
-          "therapist_utterance": "It sounds like distractions provide a temporary relief for you, but they may not solve the underlying feelings. You mentioned feeling stuck; what if we explored what that means for you? There might be a way to talk about these feelings without feeling overwhelmed.",
-          "therapist_use": "Alternative perspective: inviting Charlie to consider the possibility of discussing feelings in a manageable way."
+          "reason_for_ending": "KEEP - Therapist objective not met: Charlie hasn't yet challenged their automatic thoughts. Client objective not met: Charlie is still avoiding deeper exploration of their feelings.",
+          "client_utterance": "I usually just think that I must not be good enough, but I guess I don't really look for other explanations. I feel like I’m just waiting for everything to change on its own.",
+          "therapist_utterance": "It's insightful that you've recognized this pattern of thinking. Often, looking for alternative explanations can help ease some of that pressure. What are some other reasons that might explain their silence, apart from your self-doubt?",
+          "therapist_use": "Introduce the Concept and Identify the Thoughts: used to initiate discussion about Charlie's automatic thoughts."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Charlie hasn't engaged with the idea of exploring his feelings. Client objective not met as Charlie still feels defensive.",
-          "client_utterance": "I guess I could try to think about it more, but I’m still not sure it’ll help. What if I just end up feeling worse about myself? It’s hard to imagine that talking would change anything.",
-          "therapist_utterance": "It's valid to worry about feeling worse, but sometimes understanding our feelings can lead to clarity. What if we took a small step, like identifying one feeling that stands out to you? It might help in seeing things from a different angle.",
-          "therapist_use": "Continuum technique: to help Charlie identify and understand the intensity of his feelings."
+          "reason_for_ending": "KEEP - Therapist objective not met: Charlie hasn't explored past experiences yet. Client objective not met: Charlie is still hesitant to confront their feelings.",
+          "client_utterance": "I remember a time when I thought someone didn’t like me, but it turned out they were just busy. I guess I’m afraid that if I think like that, I’ll just be setting myself up for disappointment.",
+          "therapist_utterance": "That’s a great example of how our assumptions can sometimes lead us astray. It's encouraging to hear that you’ve had experiences that contradict your current thoughts. How might those past experiences help you view your situation differently?",
+          "therapist_use": "Examine Past Experiences: used to help Charlie reflect on how past experiences inform their current situation."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Charlie has begun identifying his feelings. Client objective met as Charlie has expressed a willingness to explore emotions.",
-          "client_utterance": "Okay, I think I can try that. Maybe just naming one feeling could be a start. I feel a mix of fear and sadness about my situation, and it’s been tough to sit with that.",
-          "therapist_utterance": "That’s a significant first step, Charlie. Acknowledging fear and sadness can open up pathways for understanding yourself better. How might you explore these feelings in a way that feels safe for you?",
-          "therapist_use": "Reflective listening: validating Charlie’s feelings while encouraging him to explore them further."
+          "reason_for_ending": "MOVE - Therapist objective met: Charlie has articulated their feelings and is exploring them. Client objective met: Charlie is opening up about their thoughts and emotions.",
+          "client_utterance": "I think if I try to remember that not every silence means something negative, it might help me feel a bit less anxious. I want to believe that I can change how I think about these situations.",
+          "therapist_utterance": "It’s wonderful to hear you expressing a willingness to shift your thoughts. Acknowledging that not all silence is a reflection of your worth is a significant step forward. This kind of balanced thinking can really help you navigate your feelings more easily.",
+          "therapist_use": "Create a Balanced Thought: used to assist Charlie in formulating a more balanced perspective."
         }
       ]
     },
@@ -142,30 +149,30 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Charlie's ambivalence towards career change and increase motivation for considering new possibilities.",
+          "objective": "Explore Charlie's ambivalence about pursuing a career change and increase motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Facilitate a discussion about both the reasons for wanting to change career and the fears associated with it.",
-                "Ask open-ended questions to encourage Charlie to express conflicting feelings.",
-                "Use reflective listening to acknowledge and validate Charlie's ambivalence."
+                "Begin the session by asking Charlie how they feel about their current career situation and their thoughts on pursuing a change.",
+                "Use reflective listening to acknowledge their mixed feelings, encouraging them to elaborate on both their desire for change and their fears.",
+                "Facilitate a discussion about the pros and cons of staying in their current role versus pursuing a new opportunity, allowing Charlie to voice their concerns and aspirations."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Charlie to articulate any desire or need for change by asking, 'What would a career change mean for you?'",
-                "Encourage Charlie to share past experiences that indicate a readiness for change.",
-                "Highlight statements that indicate a desire for change and reinforce them."
+                "Encourage Charlie to express reasons why they might want to change careers by asking open-ended questions.",
+                "Prompt them to share any positive feelings or experiences related to the idea of pursuing a career in robotics.",
+                "Reinforce their statements of desire for change by reflecting and summarizing what they share, building on their motivation."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussion",
               "instructions_for_therapist": [
-                "Introduce a pros and cons analysis related to staying in the current job versus pursuing a new career.",
-                "Encourage Charlie to weigh the benefits and drawbacks of each option.",
-                "Use this discussion to help Charlie identify discrepancies between current behaviors and personal values."
+                "Guide Charlie through a decisional balance exercise, where they can list the advantages and disadvantages of changing careers.",
+                "Encourage them to reflect on how their current situation aligns with their core values and long-term goals.",
+                "Help Charlie identify discrepancies between their current behavior and their aspirations, fostering insight into the need for change."
               ]
             }
           ]
@@ -173,88 +180,71 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Guide Charlie through identifying catastrophic thoughts about career change.",
-                "Help them reframe these thoughts by examining evidence for and against their fears.",
-                "Encourage Charlie to rate the likelihood of their feared outcomes occurring."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Assist Charlie in creating a list of pros and cons of both their current career and the potential new career.",
-                "Discuss how these align with their core beliefs and values.",
-                "Encourage reflection on how these lists influence their feelings about change."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Charlie to provide evidence supporting their automatic thoughts about being unlovable or incompetent.",
-                "Challenge these thoughts by exploring alternative explanations and evidence that contradict their beliefs.",
-                "Encourage self-compassion and understanding in the face of these beliefs."
+                "Introduce the concept of cognitive distortions, specifically focusing on mind reading and overgeneralization regarding the lack of response from the person Charlie is interested in.",
+                "Use evidence-based questioning to challenge Charlie's automatic thoughts, asking them to provide evidence for their assumptions and considering alternative explanations.",
+                "Guide them in developing more balanced thoughts that reflect a broader perspective on the situation, and encourage practice of this technique in future scenarios."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this structured therapy plan for Charlie, the primary focus is on exploring and resolving ambivalence about career change while enhancing motivation. Motivational Interviewing strategies are prioritized, such as exploring ambivalence, which allows Charlie to voice both desires and fears regarding change, facilitating deeper understanding. Eliciting change talk encourages Charlie to articulate their motivations, reinforcing positive feelings toward potential change. The decisional balance discussion serves to highlight discrepancies between Charlie's current behavior and their values, which can promote insight into the need for change. Meanwhile, the CBT interventions, such as decatastrophizing and evidence-based questioning, are designed to challenge unhelpful beliefs about self-worth and competence, helping to restructure Charlie's thinking. This combination of MI and CBT tailored to Charlie's resistance profile aims to create a safe and collaborative environment, fostering reflection and insight without pushing for immediate action. Through this approach, the therapist aims to strengthen Charlie's self-efficacy and confidence in their ability to change.",
-        "progress_marker": "Client expresses increased awareness of ambivalent feelings and begins to articulate motivations for change."
+        "therapist_reasoning": "Initially, I will leverage Motivational Interviewing strategies to help Charlie explore the ambivalence they feel about changing careers. By using open-ended questions and reflective listening, I can create a safe space for them to express both their desires and fears. This will help elicit change talk, as I encourage them to articulate their motivations for pursuing a career in robotics. The decisional balance discussion will further clarify how their current role aligns with their values, highlighting discrepancies that may motivate change. After establishing this groundwork, I will introduce CBT techniques, focusing on cognitive restructuring to address Charlie's automatic thoughts about rejection. By challenging these thoughts with evidence-based questioning, I can help them reassess their beliefs and develop healthier perspectives. This combined approach respects their ambivalence while progressively guiding them toward increased self-efficacy and motivation for change.",
+        "progress_marker": "Charlie begins to articulate reasons for change and identifies at least one alternative explanation for their feelings of rejection."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity on my feelings about my career and relationships.",
+        "client_objective": "I hope to gain clarity on my feelings about my career change and understand my fears around it.",
         "client_state": {
-          "awareness": "I recognize that my current situation isn't fulfilling, and I'm starting to see how my past experiences shape my feelings about change.",
-          "motivation": "I feel a growing desire to explore new career options, but I'm also scared of the uncertainty and potential failure that comes with change.",
-          "openness": "I'm somewhat willing to discuss my feelings and experiences, but I still hesitate to fully express my doubts and fears.",
-          "resistance": "I experience a strong internal conflict, often doubting whether change is possible or worth the effort, which leads me to avoid deeper discussions."
+          "awareness": "I am starting to see that my current situation isn't fulfilling, but I'm not sure how to change it.",
+          "motivation": "I feel a pull towards change because I want to be happier, but I am scared of what that means.",
+          "openness": "I want to share my feelings with my therapist, but I hesitate because I question if it will lead to anything useful.",
+          "resistance": "I find myself pushing back against the idea of changing my career because I fear failure and uncertainty."
         },
-        "client_reasoning": "I’ve been thinking a lot about where I am in my life and what I really want. I see that my current job isn’t making me happy, but the idea of changing careers feels overwhelming. Sometimes, I catch myself thinking about how my worth is tied to my success, and that makes me afraid to take risks. I feel ashamed about not committing enough to my past projects, which makes me question my abilities. I know I need to talk about this in therapy, but there's a part of me that wonders if it's worth it. What if I fail again? I want to share my thoughts, but I worry that it might lead to more confusion. Still, I realize that reflecting on these feelings is the first step toward understanding what I truly want and what changes I might consider.",
-        "progress_marker": "Client begins to identify and articulate feelings of dissatisfaction with their current career and relationships."
+        "client_reasoning": "Lately, I've been reflecting on my career and realizing that I don't feel satisfied with where I am. I notice patterns in my thoughts where I often feel incompetent and think about how my self-worth is tied to my work. I want to change, but I also feel scared—what if I fail? I keep ruminating on my recent experiences, like not hearing back from someone I liked, which makes me doubt my appeal and worth. Therapy is helping me to articulate these feelings, but I still wonder if discussing them is worthwhile. Am I just going to get more disappointed? I feel pulled between wanting to take a leap into something new and the comfort of what I already know, even if it doesn't make me happy."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Charlie hasn't fully explored his ambivalence yet. Client objective was not met because he hasn't gained clarity on his feelings about his career.",
-          "client_utterance": "I still feel a bit lost about what I should do next. There’s this part of me that wants to explore new opportunities, but I also worry that I might not be good enough. It's like I'm stuck between wanting to change and fearing that change won't be worth it.",
-          "therapist_utterance": "It sounds like you're caught in that tug-of-war between your desire for change and your fears about your abilities. What do you think might happen if you leaned into that desire a bit more? Exploring what excites you might help clarify things.",
-          "therapist_use": "Exploring ambivalence: encouraged Charlie to articulate his conflicting feelings about change."
+          "reason_for_ending": "KEEP - The therapist did not fully explore Charlie's ambivalence about the career change. Charlie has not articulated specific fears or motivations related to their current career situation.",
+          "client_utterance": "I've been thinking a lot about my current job and how it just doesn't feel right anymore. I know I want something different, especially in robotics, but I keep questioning if I can really do it. It feels like a big leap and I'm scared of what might happen if I fail.",
+          "therapist_utterance": "It sounds like you're experiencing a mix of frustration and fear. You have this desire for change, particularly towards something you’re passionate about, but the fear of failing is holding you back. Can you tell me more about what excites you about a career in robotics?",
+          "therapist_use": "Open-ended question: used to invite Charlie to explore their motivations for change."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Charlie is still wrestling with his fears and hasn't articulated motivations for change. Client objective was not met because clarity on feelings about his career remains elusive.",
-          "client_utterance": "I suppose if I think about it, a career change could mean more fulfillment for me. But then I can’t shake the feeling that I might fail again. It’s frustrating because I want to move forward, but I keep thinking about my past experiences.",
-          "therapist_utterance": "It's understandable to feel frustrated when past experiences weigh heavily on your thoughts. What if we explored what fulfillment looks like for you? Identifying what you truly want might help bridge that gap between fear and motivation.",
-          "therapist_use": "Eliciting change talk: prompted Charlie to articulate what fulfillment means to him."
+          "reason_for_ending": "KEEP - The therapist did not guide Charlie through a decisional balance discussion. Charlie has not yet expressed the pros and cons of their current situation versus a potential change.",
+          "client_utterance": "I think working in robotics would be thrilling. I remember how much I enjoyed it in college, creating things and solving problems. But then I get hit with thoughts about my current job stability and how much I would miss it if I left.",
+          "therapist_utterance": "It's great to hear that you have such positive memories associated with robotics! You mentioned stability as a concern; what are some of the advantages you see in staying where you are versus pursuing something new? Let's explore both sides together.",
+          "therapist_use": "Decisional balance discussion: used to help Charlie weigh the pros and cons of their current job versus a potential career change."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met since Charlie hasn't fully weighed the pros and cons yet. Client objective was not met as he has not gained complete clarity on his feelings.",
-          "client_utterance": "Fulfillment for me would involve working on projects that genuinely interest me, like robotics. But I worry that pursuing that might lead to instability, and I'm not sure I can handle that. It feels risky to even think about stepping away from my current job.",
-          "therapist_utterance": "You’re highlighting a significant aspect—your interest in robotics versus the stability of your current job. Let’s take a moment to list the pros and cons of staying versus pursuing robotics. It might help you see where your values align and how that impacts your feelings about change.",
-          "therapist_use": "Decisional balance discussion: initiated a pros and cons analysis to help Charlie clarify his thoughts."
+          "reason_for_ending": "KEEP - The therapist needs to reinforce and summarize Charlie's motivations for change. Charlie has not clearly articulated any specific advantages of pursuing a new career.",
+          "client_utterance": "Staying in my current job means I'm financially secure, and I know what to expect every day. But I also feel unfulfilled and a bit stagnant. I guess the excitement of robotics is something that really pulls me, even if I worry about the risks.",
+          "therapist_utterance": "You’re highlighting some important points—financial security and familiarity are significant, yet the feeling of stagnation and the excitement of robotics are pulling you in different directions. How does this conflict align with your values and long-term goals? What would a fulfilling career look like for you?",
+          "therapist_use": "Reflective listening: used to acknowledge Charlie's concerns while inviting deeper exploration of their values and goals."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Charlie has not yet fully explored the consequences of staying versus changing. Client objective was not met as he still needs to clarify his feelings.",
-          "client_utterance": "Okay, if I think about it, staying might mean security and a predictable routine. But it also feels like I'm just drifting through life without passion. On the other hand, changing careers could mean following my passion, but there's that constant worry about failing again.",
-          "therapist_utterance": "You've outlined some important points there. It’s clear that security is important to you, but so is your passion for robotics. How do you think those two can coexist in your decision-making process? What would it take for you to feel more confident in pursuing that passion?",
-          "therapist_use": "Reflective listening: validated Charlie's concerns while encouraging deeper exploration of his values."
+          "reason_for_ending": "KEEP - The therapist did not sufficiently elicit change talk regarding Charlie's aspirations. Charlie has not identified discrepancies between their current behavior and their aspirations.",
+          "client_utterance": "A fulfilling career would definitely involve creativity and problem-solving, much like what I enjoyed in robotics. I can see how working on something I love could bring me happiness, but I fear that making this change could lead to disappointment.",
+          "therapist_utterance": "It’s insightful that you recognize the connection between your passions and what would bring you fulfillment. If we were to look at your current situation and how it aligns with those values, what do you notice? Are there any gaps or discrepancies that stand out to you?",
+          "therapist_use": "Eliciting change talk: used to encourage Charlie to articulate their reasons for change and reflect on discrepancies."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Charlie has not fully examined his fears about failure. Client objective was not met as he still needs more clarity about his motivations.",
-          "client_utterance": "I guess I need to confront that fear of failure more directly. I often think about how my past mistakes define my abilities, and maybe that’s what’s holding me back. If I could just let go of the fear, perhaps I could explore these new possibilities.",
-          "therapist_utterance": "It’s a brave insight to recognize that fear of failure might be holding you back. What would it look like for you to challenge that fear? We could explore the evidence for and against those fears you have about failing, which might help lessen their grip on you.",
-          "therapist_use": "Decatastrophizing: guided Charlie to identify and challenge thoughts about failure."
+          "reason_for_ending": "KEEP - The therapist needs to further explore Charlie's fears about pursuing change. Charlie has not fully articulated their feelings of fear and uncertainty.",
+          "client_utterance": "I notice that my current job feels safe but unfulfilling, which makes me question if I can handle the uncertainty of a new path. I often think about how I might not succeed or how long it would take to get there. That fear of failure really weighs on me.",
+          "therapist_utterance": "Your awareness of the safety versus fulfillment struggle is important. The fear of failure can be paralyzing, but what if you reframed that fear? Could it be possible to see it as a part of the growth process rather than a definitive end?",
+          "therapist_use": "Cognitive restructuring: used to help Charlie reframe their fear of failure into a potential growth opportunity."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Charlie has not yet fully reframed his thoughts on failure. Client objective was not met because he still has not achieved clarity on the path forward.",
-          "client_utterance": "I think it could help to see those past experiences as learning opportunities instead of failures. If I could view my mistakes differently, maybe I could approach a career change with more confidence. But it's hard to shake off that negative self-talk.",
-          "therapist_utterance": "That's a powerful shift in perspective, seeing past experiences as learning opportunities. It sounds like challenging that negative self-talk could be key for you. What specific thoughts do you find yourself repeating, and how might you reframe them in a more positive light?",
-          "therapist_use": "Evidence-based questioning: encouraged Charlie to examine and reframe negative self-talk."
+          "reason_for_ending": "KEEP - The therapist did not guide Charlie to identify alternative explanations for their fears. Charlie has not developed a balanced perspective on their concerns.",
+          "client_utterance": "I guess I often think that if I fail, it would mean I'm not good enough. But I realize that there could be other reasons for not succeeding, like external circumstances or just needing more time to adjust to something new.",
+          "therapist_utterance": "That's a significant insight! Recognizing that failure doesn't solely reflect on your worth is empowering. How might acknowledging those external factors change the way you approach the idea of a career change?",
+          "therapist_use": "Challenging cognitive distortions: used to help Charlie develop a more balanced view of their fears."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective was met as Charlie has articulated motivations for change and engaged in self-reflection. Client objective was met as he has gained clarity on his feelings about his career.",
-          "client_utterance": "I want to take that risk and explore a career in robotics. I realize that my past doesn't define my future, and I need to start believing in my potential. I feel ready to take the first steps toward this change.",
-          "therapist_utterance": "That’s an incredible realization, Charlie! Acknowledging your potential and readiness to explore robotics is a significant step forward. How do you envision taking those first steps, and what support might you need to make this transition?",
-          "therapist_use": "Reinforcing change talk: validated Charlie's readiness for change and encouraged planning for next steps."
+          "reason_for_ending": "MOVE - The therapist objectives were met through Charlie’s exploration of ambivalence and recognition of alternative perspectives. Charlie articulated reasons for change and acknowledged their fears in a more balanced way.",
+          "client_utterance": "I think understanding that there are factors outside of my control helps me feel a bit lighter. I want to pursue robotics because it excites me, and I can learn from any setbacks rather than just viewing them as failures. This is starting to feel more possible.",
+          "therapist_utterance": "I'm glad to hear you’re feeling a sense of possibility! You've articulated your desire for change and recognized that setbacks can be part of a learning journey. This clarity is a huge step forward, and it's exciting to see you embracing that potential.",
+          "therapist_use": "Summarizing and reinforcing change talk: used to validate Charlie's progress and encourage further exploration of their motivations."
         }
       ]
     },
@@ -263,29 +253,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Charlie's commitment to change and explore his motivations and confidence for a career transition.",
+          "objective": "Strengthen Charlie's commitment to change and prepare for actionable steps in their career transition.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Charlie to articulate his reasons for wanting to change careers.",
-                "Ask open-ended questions to help him express his commitment to this change.",
-                "Reflect back his statements of commitment to reinforce his motivation."
+                "Encourage Charlie to articulate their reasons for wanting to change careers, focusing on intrinsic motivations.",
+                "Ask open-ended questions such as, 'What excites you about the idea of transitioning to a new career?'",
+                "Reflect back Charlie's statements to reinforce their commitment, highlighting their strengths and readiness for change."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess Charlie's confidence in making this career change.",
-                "Discuss what factors would increase his confidence and readiness to act.",
-                "Help him identify past successes that could boost his self-efficacy."
-              ]
-            },
-            {
-              "strategy_name": "Identifying Supports and Resources",
-              "instructions_for_therapist": [
-                "Explore potential support systems, such as mentors or friends, and how they can assist him.",
-                "Discuss resources available for career transition, such as workshops or online courses."
+                "Use scaling questions to assess Charlie's confidence in making the career change, asking them to rate their readiness from 1 to 10.",
+                "Encourage Charlie to visualize successful steps they can take, reinforcing their belief in their abilities.",
+                "Discuss past successes to enhance their self-efficacy and connect those experiences to the upcoming changes."
               ]
             }
           ]
@@ -293,87 +276,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Collaboratively develop a step-by-step action plan for Charlie's career change.",
-                "Break down the plan into small, manageable tasks to avoid overwhelming him.",
-                "Set specific timelines for each task and discuss potential barriers."
+                "Begin by discussing Charlie's automatic thoughts related to their feelings of incompetence regarding the career change.",
+                "Guide Charlie through the evidence-based questioning process to challenge these thoughts, focusing on their past achievements and skills.",
+                "Help Charlie formulate balanced thoughts that acknowledge their capabilities while addressing their fears of failure."
               ]
             },
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Behavioral Experimentation",
               "instructions_for_therapist": [
-                "Encourage Charlie to engage in a small behavior experiment related to his interest in robotics.",
-                "Help him formulate a hypothesis about what he might learn from this experience.",
-                "Plan a follow-up session to discuss the outcomes and insights gained."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Assist Charlie in identifying potential barriers to his career change.",
-                "Teach him problem-solving techniques to address these barriers effectively.",
-                "Role-play scenarios to practice these skills in a supportive environment."
+                "Collaboratively identify small, achievable steps Charlie can take towards their career transition, such as networking or exploring job postings.",
+                "Encourage Charlie to set a timeline for these actions and discuss any potential barriers they foresee.",
+                "Plan follow-up sessions to review these actions, reinforcing positive experiences and addressing any challenges faced."
               ]
             }
           ]
         },
-        "therapist_reasoning": "The therapy plan for Charlie focuses on the Preparation phase of change, addressing his ambivalence and commitment to a career transition. The use of MI strategies begins with strengthening commitment language, which allows Charlie to articulate his motivations for change, reinforcing his intrinsic motivation. Exploring his confidence and readiness through scaling questions helps to clarify his self-efficacy, making the change feel more attainable. Identifying supports and resources is crucial, as he may feel isolated in this transition. In terms of CBT interventions, action planning is essential for setting realistic and collaborative goals, breaking down tasks into manageable steps to mitigate feelings of overwhelm. The behavior experiment will empower him to engage with his interest in robotics, fostering a sense of competence. Finally, problem-solving skills training addresses his fears of failure by providing practical strategies to overcome identified barriers. Overall, this integrated approach is aimed at enhancing Charlie’s confidence, commitment, and readiness for change while considering his resistance profile.",
-        "progress_marker": "Charlie will complete at least one small task from his action plan and report back on his experience and feelings related to it in the next session."
+        "therapist_reasoning": "In developing this therapy plan, I first focused on enhancing Charlie's commitment to change, as they are in the Preparation phase. Using MI strategies, I emphasized the importance of exploring their intrinsic motivations and reinforcing their readiness by scaling their confidence. This approach is crucial given Charlie's ambivalence and indirect resistance. I incorporated CBT techniques to challenge their negative self-beliefs and automatic thoughts that contribute to feelings of incompetence. The cognitive restructuring process will help Charlie to gather evidence against their fears and formulate more balanced perspectives. Additionally, by introducing behavioral experimentation, we can incrementally ease Charlie into their career transition through realistic action steps, while regularly addressing any barriers they encounter. This combination of MI and CBT will support Charlie’s gradual preparedness and boost their self-efficacy, ultimately paving the way for successful behavioral changes.",
+        "progress_marker": "Charlie has successfully articulated their reasons for change and identified at least two actionable steps toward their career transition, demonstrating increased confidence in their abilities."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings about my career change and gain clarity on the next steps I can take.",
+        "client_objective": "I hope to explore practical steps for my career change while addressing my fears about failure.",
         "client_state": {
-          "awareness": "I recognize that my current job isn't fulfilling and that my fear of failure has held me back from pursuing what I really want.",
-          "motivation": "I'm feeling more motivated to make changes and to investigate potential career paths that align with my interests.",
-          "openness": "I'm willing to discuss my thoughts and emotions with my therapist, even though I still feel hesitant about some topics.",
-          "resistance": "There’s a lingering fear that I might not succeed and doubts about whether I deserve to pursue a career change."
+          "awareness": "I realize that my current career path isn't fulfilling, and I'm aware of how my past experiences have shaped my feelings of incompetence and fear of rejection.",
+          "motivation": "I'm feeling a strong desire to change my career and pursue something that aligns more with my interests in robotics and creativity.",
+          "openness": "I'm willing to discuss my thoughts and feelings with my therapist, though I still hesitate to fully express my fears about failure and rejection.",
+          "resistance": "I experience a significant amount of doubt over whether I can successfully make these changes, and I worry about the potential for failure."
         },
-        "client_reasoning": "I’ve come to realize that my current job isn’t bringing me the fulfillment I crave. The shame I felt over not dedicating enough time to a past project has made me question my competence, but it's also pushed me to confront the idea that I need to change. I believe that exploring a career in robotics could reignite my passion and creativity, but I worry about whether I can truly make this transition successfully. Therapy has helped me identify these feelings and has made me more aware of the need for change, even if it feels daunting. I want to discuss my options and strategies with my therapist, but I still feel ambivalent about my ability to follow through and whether I deserve this change in my life."
+        "client_reasoning": "I’m starting to understand that my dissatisfaction with my current career is deeply rooted in my fear of not being good enough. I’ve felt ashamed about not dedicating enough time to projects in the past, and this has made me question my abilities. However, I recognize that I want more from my work life; I want to engage in something that excites me, like robotics. This desire gives me a sense of motivation to explore new possibilities. Even so, I am still plagued by doubts. What if I fail again? What if I can't sustain this change? I’ve been thinking about this a lot, and therapy has helped me see that acknowledging these fears is the first step toward overcoming them. I really want to talk about what I’m feeling in our sessions, but sometimes I hold back because I’m unsure if it’s worth it. Still, I feel that I’m inching closer to taking action and making the changes I need to feel fulfilled."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; the therapist has not yet fully explored Charlie's motivations for change; Charlie has not yet articulated a clear action plan.",
-          "client_utterance": "I’ve been thinking more about robotics and how it really excites me. However, I still struggle with the idea of actually making the leap. I guess I'm just worried that I might not be good enough or that it could lead to more disappointment.",
-          "therapist_utterance": "It's great to hear that robotics excites you, but I can sense that fear of not being good enough is still holding you back. Can you share more about what specifically makes you feel that way? Identifying those fears might help us find a way to address them together.",
-          "therapist_use": "Open-ended question: used to encourage exploration of fears and motivations."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Charlie hasn't fully articulated their reasons for change yet. The client objective was not met as Charlie still holds back on expressing fears.",
+          "client_utterance": "I'm feeling more excited about robotics, but I keep thinking about my past failures. I want to believe I can do this, but then I wonder if I’m just setting myself up for another disappointment.",
+          "therapist_utterance": "It's understandable to feel that tension between excitement and fear. You're recognizing the potential for disappointment based on past experiences, which is a common concern. What do you think it would take for you to see this transition as a positive opportunity rather than a risk?",
+          "therapist_use": "Open-ended question: encouraged exploration of Charlie's feelings about the transition."
         },
         {
-          "reason_for_ending": "KEEP; the therapist has not yet reinforced Charlie's commitment language; Charlie still has not fully addressed his fears.",
-          "client_utterance": "I think my previous failures in projects haunt me. I feel ashamed that I didn't put in enough effort before, and now I'm scared of repeating that mistake. It’s like I want to chase my passion, but that shame keeps dragging me back.",
-          "therapist_utterance": "Acknowledging that shame is a key step, Charlie. It sounds like those past experiences are powerful in shaping your current feelings. What if we reframed those experiences as lessons rather than failures? How might that change your approach to pursuing robotics?",
-          "therapist_use": "Reframing: used to help Charlie shift perspective on past failures."
+          "reason_for_ending": "KEEP - The therapist objective was not met because the therapist needs to reinforce Charlie's strengths and readiness further. The client objective was not met as Charlie is still grappling with fear and self-doubt.",
+          "client_utterance": "I think it would help if I could focus on what I enjoyed in the past, like the thrill of creating. But I can't shake the thought that I might not be good enough to succeed this time.",
+          "therapist_utterance": "Reflecting on what you enjoyed in the past is a strong starting point. It sounds like those memories of creating bring you joy, which is valuable. How can you leverage those positive experiences to build your confidence as you think about making this change?",
+          "therapist_use": "Reflection: reinforced positive memories to enhance confidence."
         },
         {
-          "reason_for_ending": "KEEP; the therapist has not yet helped Charlie identify support systems; Charlie has not outlined his next steps.",
-          "client_utterance": "Reframing might help a bit, but I still feel like I need some guidance. I don't know where to start in pursuing a career in robotics, and that uncertainty is overwhelming. I wish I had someone to talk to who could help me.",
-          "therapist_utterance": "It's understandable to feel overwhelmed, especially when starting something new. Let's think about who in your life could be a support for you—maybe a mentor or a friend who shares your interests? Identifying those supports could make this transition feel less daunting.",
-          "therapist_use": "Identifying supports: used to explore potential support systems for Charlie."
+          "reason_for_ending": "KEEP - The therapist objective was not met as Charlie hasn't fully connected their past successes to their current ambitions. The client objective was not met since they are still uncertain about their capabilities.",
+          "client_utterance": "I remember some projects in college where I felt really accomplished. But now, I wonder if those successes were just luck and if I can replicate that in a new field.",
+          "therapist_utterance": "It's important to recognize your past successes as evidence of your capabilities. Many people experience doubts about their achievements, but those moments show your potential. What specific skills did you use during those projects that you think could help you in robotics?",
+          "therapist_use": "Cognitive restructuring: helped Charlie identify skills from past successes."
         },
         {
-          "reason_for_ending": "KEEP; the therapist has not yet developed a clear action plan with Charlie; Charlie has not yet identified specific resources.",
-          "client_utterance": "I think my friend from college who worked in robotics could be a great resource. I could reach out to him, but I’m still hesitant. What if I make a fool of myself asking for help?",
-          "therapist_utterance": "Reaching out can feel daunting, but remember that most people appreciate when someone shows interest in their work. Let’s think about how you might approach this conversation with your friend. What could you say that feels comfortable for you?",
-          "therapist_use": "Action Planning: used to collaboratively develop a strategy for reaching out."
+          "reason_for_ending": "KEEP - The therapist objective was not met because the therapist needs to help Charlie visualize actionable steps. The client objective was not met since Charlie still holds doubts about their abilities.",
+          "client_utterance": "I think I was good at problem-solving and collaboration, but it feels different when thinking about the future. I want to believe I can do this, but the fear of failing is still there.",
+          "therapist_utterance": "Acknowledging those problem-solving and collaboration skills is a significant insight. It shows that you have a foundation to build on. What are some small, concrete steps you could take to start exploring robotics as a career and build your confidence?",
+          "therapist_use": "Behavioral experimentation: prompted Charlie to think about actionable steps."
         },
         {
-          "reason_for_ending": "KEEP; the therapist has not yet established a step-by-step action plan; Charlie has not yet expressed readiness to initiate contact.",
-          "client_utterance": "I suppose I could just ask him about his experiences and see where that leads. It might not be as scary as I think. Still, I have this nagging doubt about whether I should even bother him.",
-          "therapist_utterance": "It’s a positive step that you're considering reaching out! Remember, most people are happy to share their experiences, especially with someone who is genuinely interested. What would be the first small step you could take to make that contact?",
-          "therapist_use": "Scaling question: used to assess Charlie's comfort level in taking the first step."
+          "reason_for_ending": "KEEP - The therapist objective was not met as Charlie needs to set a timeline for their steps. The client objective was not met since Charlie isn't yet committed to taking action.",
+          "client_utterance": "I guess I could start by looking at job postings or connecting with people in the field. But I keep thinking about what if I don't measure up or if I can't keep up with the changes.",
+          "therapist_utterance": "Those are valid concerns, but taking small, manageable steps can help alleviate some of that fear. If you set a timeline for exploring job postings or networking, it gives you a structure to work within. How does that sound to you?",
+          "therapist_use": "Exploring confidence and readiness: encouraged Charlie to set a timeline for actions."
         },
         {
-          "reason_for_ending": "KEEP; the therapist has not yet confirmed Charlie's confidence level in taking action; Charlie has not yet committed to a specific timeline.",
-          "client_utterance": "Maybe I could text him this weekend. I think I just need to get it out of the way to feel better. But what if he doesn’t respond the way I hope?",
-          "therapist_utterance": "That sounds like a reasonable plan! It’s natural to worry about how he might respond. What if you prepared a couple of questions to ask him about his journey? That could help ease some of that anxiety.",
-          "therapist_use": "Problem-Solving Skills Training: used to help Charlie prepare for potential barriers."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Charlie hasn't fully committed to a concrete plan yet. The client objective was not met since they still have lingering doubts about their readiness.",
+          "client_utterance": "Setting a timeline could help, but I still feel hesitant. What if I take those steps and still fail? I guess I just need to believe in myself more.",
+          "therapist_utterance": "It's okay to feel hesitant; change can be daunting. Believing in yourself is a journey, and recognizing that fear is part of the process is key. What are some affirmations or reminders you could use to support yourself as you begin this exploration?",
+          "therapist_use": "Strengthening Commitment Language: encouraged Charlie to affirm their self-belief."
         },
         {
-          "reason_for_ending": "MOVE; the therapist has successfully helped Charlie identify an action plan and support network; Charlie has expressed readiness to take the first step.",
-          "client_utterance": "I feel more confident about reaching out now. I can see how this could lead me to more clarity about pursuing robotics. I’m ready to take that step and will text him this weekend.",
-          "therapist_utterance": "That’s fantastic, Charlie! Taking that step shows your commitment to pursuing what you’re passionate about. I believe this will be a pivotal moment for you, and I’m excited to hear how it goes.",
-          "therapist_use": "Strengthening Commitment Language: used to reinforce Charlie's motivation and commitment."
+          "reason_for_ending": "MOVE - The therapist objective was met as Charlie articulated reasons for change and identified actionable steps. The client objective was met as Charlie expressed a desire to take steps despite their fears.",
+          "client_utterance": "I think I can start looking into robotics and remind myself that it's okay to fail along the way. If I focus on my passion, maybe I can make this work.",
+          "therapist_utterance": "That's a fantastic realization, Charlie! Embracing your passion and accepting that failure is part of growth shows your readiness for this change. I'm excited to see you take these steps toward a fulfilling career in robotics.",
+          "therapist_use": "Double-sided reflection: validated Charlie's commitment while reinforcing their readiness for action."
         }
       ]
     }

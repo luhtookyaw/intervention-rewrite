@@ -12,34 +12,36 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Patrick's awareness of his thoughts, emotions, and behaviors related to micromanagement without pushing for change.",
+          "objective": "To build rapport with Patrick and gradually increase his awareness of his thoughts and emotions related to micromanagement at work.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen carefully to Patrick's concerns about micromanagement and reflect back what you hear to show understanding.",
-                "Use phrases like 'It sounds like you're feeling overwhelmed by the expectations at work.'"
+                "Listen attentively to Patrick's feelings about micromanagement.",
+                "Reflect back what he shares to validate his experience.",
+                "Encourage him to elaborate on his thoughts without rushing him."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Patrick's feelings of helplessness and anxiety, validating his emotional experience.",
-                "Say things like 'It's understandable to feel trapped in your situation.'"
+                "Acknowledge Patrick's feelings of helplessness and anxiety.",
+                "Reassure him that it’s normal to feel overwhelmed in such situations.",
+                "Use empathetic statements to demonstrate understanding of his struggles."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Patrick to explore how his feelings of inadequacy conflict with his self-image or values.",
-                "Ask questions like 'How do you feel your work aligns with your values of competence and fairness?'"
+                "Help Patrick explore the gap between his current feelings of incompetence and his personal values regarding competence and success.",
+                "Ask questions like, 'What does being competent mean to you?' to encourage reflection."
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Help Patrick identify and articulate his automatic thoughts about his competence.",
-                "Prompt him with questions like 'What evidence do you have for thinking you are incompetent?'"
+                "Guide Patrick to consider the impact of his thoughts about micromanagement on his emotions and actions.",
+                "Encourage him to share moments where he felt competent, even when he feels otherwise."
               ]
             }
           ]
@@ -47,98 +49,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identify Automatic Thoughts",
               "instructions_for_therapist": [
-                "Encourage Patrick to examine the validity of his belief that he is incompetent.",
-                "Ask him to list specific instances when he felt competent at work."
+                "Encourage Patrick to identify specific automatic thoughts he experiences when faced with micromanagement.",
+                "Support him in recognizing patterns of overgeneralization and all-or-nothing thinking."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Gather Evidence",
               "instructions_for_therapist": [
-                "Ask Patrick to consider alternative explanations for his experiences of criticism.",
-                "Prompt with questions such as 'Could there be other factors that contribute to your manager's behavior?'"
+                "Prompt Patrick to list specific evidence that supports and contradicts his belief of incompetence.",
+                "Ask directed questions to help him recall positive feedback he has received."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Challenge Negative Beliefs",
               "instructions_for_therapist": [
-                "Invite Patrick to think about how a friend would view his situation.",
-                "Encourage him to articulate what advice he would give to someone in his position."
+                "Facilitate a discussion on the validity of Patrick's negative beliefs about himself.",
+                "Gently challenge exaggerations in his perceptions of feedback regarding his performance."
               ]
             },
             {
-              "technique_name": "Continuum Technique",
+              "technique_name": "Reframe the Thought",
               "instructions_for_therapist": [
-                "Help Patrick to place his feelings about competence on a continuum from 'completely incompetent' to 'fully competent.'",
-                "Facilitate discussion about where he places himself and why."
-              ]
-            },
-            {
-              "technique_name": "Changing Rules to Wishes",
-              "instructions_for_therapist": [
-                "Encourage Patrick to reframe his thoughts about needing approval from others.",
-                "Ask, 'If you could change the rule that you must meet everyone's expectations, what would you wish for instead?'"
+                "Assist Patrick in developing a more balanced thought that incorporates both criticism and praise.",
+                "Use collaborative language to create a new thought together."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Patrick's Pre-contemplation phase, the therapist prioritizes building rapport and increasing awareness without imposing change. Employing motivational interviewing strategies, reflective listening validates Patrick's feelings of overwhelm, creating a safe space for exploration. Expressing empathy helps him feel understood, while developing discrepancies between his values and current emotions encourages self-reflection. Raising awareness through structured questioning prompts Patrick to examine the validity of his core beliefs, facilitating insight. Utilizing CBT techniques, evidence-based questioning challenges his perception of incompetence, while reality testing encourages him to consider alternative explanations for criticism. The alternative perspective technique allows him to step outside his own viewpoint, potentially revealing cognitive distortions. Using the continuum technique aids in normalizing his feelings and identifying nuances in self-assessment. Finally, changing rules to wishes invites Patrick to envision a more empowering narrative, fostering curiosity without pressure. This structured approach engages Patrick in awareness and reflection, aligning with his resistance profile and avoiding direct suggestions for change.",
-        "progress_marker": "Patrick demonstrates increased engagement in discussions about his feelings and begins to articulate thoughts related to his work experiences."
+        "therapist_reasoning": "In this phase, the primary focus is on building rapport and increasing awareness without pushing for behavior change. I will use reflective listening to validate Patrick's feelings of being overwhelmed and anxious, which is crucial given his resistance profile. By expressing empathy, I can create a safe space for him to share his experiences. Developing discrepancy will help him explore the conflict between his feelings of incompetence and his personal values, facilitating deeper self-reflection. I will also raise awareness of how his negative thoughts affect his emotions and behaviors. In parallel, I will employ CBT techniques like identifying automatic thoughts, gathering evidence, and challenging negative beliefs. These steps will help Patrick to recognize patterns in his thinking and to begin reframing his negative self-perceptions. My goal is to maintain a supportive environment where he feels comfortable exploring these thoughts without feeling pressured to change immediately.",
+        "progress_marker": "Patrick articulates more awareness of his automatic thoughts and begins to express feelings of competence."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I feel so overwhelmed at work without having to confront my manager's mistakes.",
+        "client_objective": "I hope to understand why I feel so overwhelmed at work without having to dive into my feelings too deeply.",
         "client_state": {
-          "awareness": "I recognize that I feel anxious and stressed at work, but I don't see it as a problem that needs addressing.",
-          "motivation": "I'm not really motivated to change my situation because I doubt anything will improve.",
-          "openness": "I'm hesitant to share my true feelings; I find it easier to focus on my manager's faults instead.",
-          "resistance": "I strongly resist discussing my own feelings about work, as I feel defensive and overwhelmed."
+          "awareness": "I recognize that micromanagement is affecting me, but I don’t see it as a problem I can change.",
+          "motivation": "I feel a desire for things to be better, but I don’t really believe that change is possible for me.",
+          "openness": "I’m hesitant to share my feelings because I’m scared of being judged or misunderstood.",
+          "resistance": "I strongly defend against discussing my feelings by focusing on my manager's mistakes rather than my own."
         },
-        "client_reasoning": "I know I should probably talk about how I feel at work, but every time I sit down to think about it, I just start listing all the things my manager does wrong. It feels like a way to protect myself from the criticism I always seem to face. I can’t shake this feeling that if I admit I’m struggling, it will just confirm my fears that I’m incompetent. My emotions are all tangled up—anxiety, fear, and sadness swirl together, making it hard to focus on anything else. Honestly, I feel trapped in this role, and the idea of change seems impossible. Therapy feels uncomfortable because it forces me to face things I’d rather avoid, yet, at the same time, I wish I could feel safe enough to share what I’m really thinking without feeling judged."
+        "client_reasoning": "I know something isn’t right, but the thought of discussing my feelings about work feels too daunting. Every time I try to talk about it, I end up pointing fingers at my manager instead of looking at my own reactions. It’s easier to deflect and criticize others than to face my own feelings of incompetence and helplessness. I feel like I’m trapped in this cycle of worry, where I convince myself that if I work harder, everything will improve. But deep down, I doubt my ability to change anything. Therapy makes me feel vulnerable; I worry that I’ll have to confront feelings I’m not ready to face. It feels safer to keep things surface-level and avoid the real issues that cause my anxiety and sadness. I wish I could just brush it all off and not have to deal with it, but I know that’s not sustainable either."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not fully explore Patrick's feelings. The client's objective was not met because Patrick still feels defensive and has not opened up about his emotions.",
-          "client_utterance": "I just can't help but focus on everything my manager does wrong. It feels like if I admit my own struggles, it will just make things worse. I don’t want to feel like I’m incompetent, so I just push those thoughts away.",
-          "therapist_utterance": "It sounds like you're feeling overwhelmed by the expectations at work and that focusing on your manager's faults is a way to cope. It's understandable to feel that way when you feel trapped and anxious. What do you think would happen if you allowed yourself to explore those feelings about your own experiences?",
-          "therapist_use": "Reflective Listening: used to show understanding of Patrick's feelings while encouraging exploration."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Patrick has not yet explored his feelings about micromanagement. The client's objective was not met since he is still deflecting attention from himself.",
+          "client_utterance": "I keep thinking that if my manager would just give me more space, everything would be fine. It’s hard to look at my own role in this. I mean, I do get overwhelmed, but it feels like that’s just how it is because of my manager's style.",
+          "therapist_utterance": "It sounds like you're feeling really frustrated with your manager's approach and how it impacts you. I can understand why it feels easier to focus on their actions rather than your own feelings. What do you think happens to you when you feel overwhelmed in those situations?",
+          "therapist_use": "Reflective Listening: validated Patrick's feelings and encouraged him to share more about his experiences."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not fully met as they didn't probe deeply enough into Patrick's feelings. The client's objective was not met because Patrick remained resistant to discussing his own feelings.",
-          "client_utterance": "I guess I’m just scared that if I admit I'm struggling, it will confirm that I'm not good at my job. I don’t know how to separate my feelings from what my manager does. It feels safer to blame them than to face my own thoughts.",
-          "therapist_utterance": "It's understandable to feel trapped in that mindset, where blaming your manager feels like a protective shield. How do you think that impacts your sense of competence and self-worth? Can we explore how you feel your work aligns with your values of competence and fairness?",
-          "therapist_use": "Expressing Empathy: used to validate Patrick's feelings while encouraging self-reflection."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Patrick has not yet articulated his feelings or thoughts more deeply. The client's objective was not met since he is still avoiding self-reflection.",
+          "client_utterance": "I guess I just end up feeling trapped. I think, if I could just do my job without interference, I wouldn’t feel so incompetent. But then I wonder if I am really that good at my job anyway.",
+          "therapist_utterance": "It seems like there's a conflict for you between wanting to do your job well and feeling that outside factors are holding you back. It's normal to have doubts about our capabilities, especially when we feel overwhelmed. Can you recall a time when you felt competent at work, even if just for a moment?",
+          "therapist_use": "Empathy and Raising Awareness: acknowledged Patrick's doubts and encouraged him to reflect on positive experiences."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not yet fully met as they need to delve deeper into Patrick's values. The client's objective was not met because Patrick is still focused on external blame rather than internal reflection.",
-          "client_utterance": "I think I value being competent and fair, but I just can't see how I measure up. All I feel is anxiety and frustration when I think about it. I don’t even know where to start with that.",
-          "therapist_utterance": "It sounds like there's a conflict between your values and how you're feeling right now. What evidence do you have for thinking you aren't measuring up? Are there specific instances when you felt competent at work?",
-          "therapist_use": "Raising Awareness: used to help Patrick identify and articulate his automatic thoughts about his competence."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Patrick has not yet shared specific instances of feeling competent. The client's objective was not met because he is still focused on negative self-perceptions.",
+          "client_utterance": "There have been times when I’ve received good feedback, but I brush it off. I think it was just luck or that they were being nice. I can’t help but think that if I were really competent, I wouldn’t feel this way.",
+          "therapist_utterance": "It’s understandable to feel that way, especially when self-doubt creeps in. It sounds like you have some evidence of your competence, but it's overshadowed by these negative thoughts. What do you think would happen if you allowed yourself to accept that feedback as valid?",
+          "therapist_use": "Identifying Automatic Thoughts: encouraged Patrick to examine and challenge his negative beliefs about himself."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not fully met as they need to help Patrick examine his beliefs more thoroughly. The client objective was not met because Patrick is still struggling to articulate his feelings of competence.",
-          "client_utterance": "I can think of a few times when I did well, but they feel overshadowed by all the criticism. It’s hard to shake that feeling of being incompetent. I just want to avoid any situation where I might get criticized again.",
-          "therapist_utterance": "It’s common to feel overwhelmed by negative feedback, especially when it overshadows your successes. Could there be other factors contributing to your manager's behavior? Maybe it’s not solely about your performance.",
-          "therapist_use": "Reality Testing: used to encourage Patrick to consider alternative explanations for his experiences of criticism."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Patrick has not yet acknowledged the validity of his positive feedback. The client's objective was not met since he is still resisting deeper self-exploration.",
+          "client_utterance": "I just feel like I have to prove myself over and over again. It’s like the positive feedback doesn’t really matter if I can’t consistently perform well. I don’t know how to break out of this cycle of feeling inadequate.",
+          "therapist_utterance": "It sounds exhausting to feel like you constantly have to prove yourself, and it's understandable that this cycle would lead to feelings of inadequacy. Have you thought about what breaking that cycle might look like for you? What would it mean to you to feel more secure in your competence?",
+          "therapist_use": "Developing Discrepancy: helped Patrick explore the gap between his feelings of inadequacy and his values regarding competence."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not fully met as they need to guide Patrick towards a different perspective. The client's objective was not met because Patrick is still fixated on his manager’s actions.",
-          "client_utterance": "I guess it’s possible that my manager has their own issues, but it still doesn’t change how I feel. I feel like their criticism is all about me, even if that’s not true. I wish I could see it differently.",
-          "therapist_utterance": "I understand that it’s difficult to shift your perspective, especially when you feel personally targeted. If you were to think about this scenario from a friend’s viewpoint, what advice do you think they would give you?",
-          "therapist_use": "Alternative Perspective: used to invite Patrick to think about his situation from an outside viewpoint."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Patrick has not yet considered the implications of breaking the cycle. The client's objective was not met since he is still focused on external validation.",
+          "client_utterance": "I guess it would feel like a relief to not have that pressure. But I just can’t see how I can change that feeling when my manager keeps micromanaging me. It feels like my performance is always under scrutiny.",
+          "therapist_utterance": "It seems like you're feeling a lot of pressure from external sources, which makes it difficult to find a sense of relief. I want to acknowledge how that can feel overwhelming. What if we looked at the things within your control that could help you feel more secure, regardless of your manager's actions?",
+          "therapist_use": "Expressing Empathy: acknowledged Patrick's feelings of pressure and encouraged him to consider what he can control."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not fully met as they need to help Patrick articulate his own advice. The client's objective was not met because Patrick is still not engaging with his own feelings.",
-          "client_utterance": "A friend might say that sometimes managers are just stressed too, and it’s not all about me. They might suggest I focus on what I can control. But that feels so hard right now.",
-          "therapist_utterance": "That's a really insightful observation. It’s true that we often forget to consider the broader context of others' actions. How would you feel about placing your feelings about your competence on a continuum from 'completely incompetent' to 'fully competent'?",
-          "therapist_use": "Continuum Technique: used to help Patrick normalize his feelings and identify nuances in self-assessment."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Patrick has not yet named specific actions he can take. The client's objective was not met since he is still struggling with self-efficacy.",
+          "client_utterance": "I suppose I could try to focus on my own work and what I can control. But what if my manager’s style continues to undermine that? It feels so uncertain, and I’m not sure I can handle that risk.",
+          "therapist_utterance": "It's understandable to feel uncertain, especially when change is involved. Recognizing what you can control is a significant step, but the fear of how your manager may react is valid too. What if we spent some time exploring ways to build your confidence in those areas?",
+          "therapist_use": "Raising Awareness: encouraged Patrick to focus on what he can control and consider building his confidence."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met by facilitating a deeper exploration of Patrick's feelings and encouraging insight. The client's objective was met as Patrick has begun to articulate thoughts about his feelings of competence and control.",
-          "client_utterance": "I think I would place myself closer to the 'partially competent' side. I have strengths, but I feel like I’m often seen as not good enough. I wish I could change that feeling.",
-          "therapist_utterance": "It’s great that you’re recognizing your strengths, even if you feel partially competent. If you could change the rule that you must meet everyone’s expectations, what would you wish for instead? How might that shift your perspective?",
-          "therapist_use": "Changing Rules to Wishes: used to encourage Patrick to reframe his thoughts and envision a more empowering narrative."
+          "reason_for_ending": "MOVE: The therapist's objective was met as Patrick has shown increased awareness of his thoughts and feelings about micromanagement. The client's objective was met as he has begun to express feelings of competence and control he hadn't acknowledged before.",
+          "client_utterance": "I think maybe I do have some control over my work, and that’s a start. It feels like a small victory, but I can see how it could help if I focused on that more. I’m still a bit scared, but I guess I’m starting to see that change might be possible.",
+          "therapist_utterance": "That's a powerful realization, Patrick! Acknowledging that you have some control is a significant step toward feeling more competent. It's okay to feel scared, but it sounds like you're beginning to see a path forward, and that’s encouraging.",
+          "therapist_use": "Reflective Listening: validated Patrick's newfound awareness and encouraged his emerging optimism."
         }
       ]
     },
@@ -147,29 +142,34 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Patrick's ambivalence regarding change and strengthen his motivation to address micromanagement at work.",
+          "objective": "Explore and resolve ambivalence regarding micromanagement and its impact on self-efficacy while enhancing motivation to consider change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Encourage Patrick to express both his desires to change and his fears about the consequences of change.",
-                "Ask open-ended questions to help him articulate his conflicting feelings.",
-                "Validate his feelings and help him recognize that ambivalence is a normal part of the change process."
+                "Encourage Patrick to express his feelings about the micromanagement situation and identify both the pros and cons of staying in his current job.",
+                "Use open-ended questions to help him articulate his fears and desires regarding change."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Patrick to discuss moments when he felt competent or effective at work.",
-                "Encourage him to reflect on what change would mean for him personally.",
-                "Use reflective listening to reinforce any positive statements he makes about wanting to change."
+                "Ask Patrick to reflect on moments when he felt competent or received positive feedback.",
+                "Encourage him to share what changes he would like to see in his work environment."
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Help Patrick identify his core values related to work and competence.",
+                "Discuss how his current feelings of helplessness conflict with these values."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Facilitate a discussion where Patrick lists the pros and cons of his current behavior and potential changes.",
-                "Help him see discrepancies between his values (e.g., wanting recognition for competence) and his current coping strategies."
+                "Facilitate a discussion where Patrick lists the benefits and drawbacks of continuing to micromanage his workload versus seeking support and feedback.",
+                "Encourage him to weigh these factors to create a clearer picture of his options."
               ]
             }
           ]
@@ -177,85 +177,85 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Identify and Challenge Automatic Thoughts",
               "instructions_for_therapist": [
-                "Work with Patrick to identify his worst-case scenarios related to change and micromanagement.",
-                "Guide him through evaluating the likelihood of these scenarios occurring and discuss more realistic outcomes."
+                "Guide Patrick to articulate his automatic thoughts, particularly 'My efforts are never enough.'",
+                "Explore the cognitive distortions present and help him gather evidence for and against these thoughts."
               ]
             },
             {
-              "technique_name": "Pros and Cons Analysis",
+              "technique_name": "Cognitive Reframing",
               "instructions_for_therapist": [
-                "Assist Patrick in creating a detailed pros and cons list regarding his micromanagement behaviors and their impact on his work life.",
-                "Encourage him to consider how these behaviors align with his personal values."
+                "Assist Patrick in creating balanced, alternative thoughts based on the evidence gathered.",
+                "Encourage him to practice these reframed thoughts in real-life situations."
               ]
             },
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Goal Setting for Self-Reflection",
               "instructions_for_therapist": [
-                "Encourage Patrick to challenge his automatic thoughts about incompetence by examining the evidence for and against these beliefs.",
-                "Help him identify instances where he has succeeded or received positive feedback."
+                "Work with Patrick to set small, achievable goals related to seeking feedback and discussing feelings with colleagues.",
+                "Ensure these goals are framed as explorative rather than prescriptive to respect his ambivalence."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this phase, I will begin by utilizing motivational interviewing strategies to help Patrick explore his ambivalence about change. This involves exploring his conflicting feelings about wanting to change his micromanagement behaviors while fearing the consequences. By facilitating discussions around his values and the discrepancies in his current behaviors, I aim to elicit change talk that highlights his desire for recognition and competence. Next, I will employ CBT techniques such as decatastrophizing to challenge his worst-case scenarios and promote a more realistic outlook on change. Additionally, I will engage him in a pros and cons analysis to further clarify how his behaviors align with his values. This combination of MI and CBT will help Patrick gain insight into his beliefs and increase his motivation in a collaborative, non-confrontational manner, addressing his intermediate resistance level while maintaining focus on his exploration of ambivalence.",
-        "progress_marker": "Patrick begins to articulate specific aspects of change he desires while expressing his fears, indicating increased self-awareness and readiness to explore potential changes."
+        "therapist_reasoning": "In working with Patrick, I first need to understand his ambivalence about addressing micromanagement at work. I will employ Motivational Interviewing strategies, such as exploring ambivalence by encouraging him to discuss both the pros and cons of his current situation, which may help him articulate his fears and desires for change. Eliciting change talk will be crucial, so I will ask about positive feedback he has received, fostering a sense of competence. Additionally, developing discrepancy between his core values and current feelings will help him recognize the conflict and motivate change. To support this, I will utilize CBT techniques, starting with identifying and challenging automatic thoughts like 'My efforts are never enough' by helping him gather evidence against this thought. This will lead to cognitive reframing, creating balanced thoughts to replace negative beliefs. Lastly, I will set small, achievable goals for him, focusing on self-reflection and feedback, maintaining an exploratory approach to respect his ambivalence. This structured yet flexible plan aims to strengthen Patrick's motivation and self-efficacy without pushing him prematurely into action planning.",
+        "progress_marker": "Client expresses increased awareness of ambivalence and begins to articulate both fears and desires regarding change."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about micromanagement and my role in it without feeling overwhelmed by self-criticism.",
+        "client_objective": "I want to explore my feelings about micromanagement and understand how it affects my self-worth at work.",
         "client_state": {
-          "awareness": "I recognize that my micromanagement issues are linked to deeper feelings of incompetence and helplessness, but I'm still struggling to fully understand these patterns.",
-          "motivation": "I feel a growing desire to change my approach at work, but I'm also scared that I won't be able to meet expectations even if I try.",
-          "openness": "I'm somewhat willing to share my thoughts and feelings with my therapist, but I often find myself deflecting by focusing on my manager's mistakes instead.",
-          "resistance": "I feel anxious about discussing my feelings, often feeling the urge to defend myself against criticism instead of confronting my own role in the situation."
+          "awareness": "I am starting to see that my feelings of incompetence and helplessness at work are linked to my tendency to micromanage and overwork myself.",
+          "motivation": "I feel a strong desire to change my approach and reduce my anxiety, but I am unsure if I can truly shift my mindset or if it's worth the effort.",
+          "openness": "I am willing to discuss my experiences and feelings, but I often find myself deflecting by pointing out my manager's mistakes instead of focusing on my own.",
+          "resistance": "I feel anxious about the idea of change, and I often defend my current behavior as a way to avoid confronting the deeper issues related to my self-worth."
         },
-        "client_reasoning": "Lately, I've started to realize that my tendency to micromanage stems from a deeper sense of incompetence and fear of being criticized. I notice patterns in how I react to my workload and my colleagues, and it's becoming clearer to me that I often blame myself for not meeting expectations. At the same time, I feel conflicted about changing my approach because I'm not sure if I can really let go of the need to control everything around me. What if I try to change and still end up feeling inadequate? Therapy has been a space for me to reflect, but I often find myself deflecting the conversation to my manager's mistakes instead of facing my own feelings. It's hard to open up about this without feeling overwhelmed by self-criticism, yet I know I need to explore these emotions if I want to find a way forward.",
-        "progress_marker": "Client begins to identify specific thoughts and emotions tied to micromanagement, recognizing a need for change while feeling hesitant."
+        "client_reasoning": "I’ve been reflecting on my situation at work and recognizing that my constant micromanagement stems from my feelings of inadequacy. It’s like I’m caught in this loop where I feel like if I don’t control everything, I’ll be seen as incompetent. I know I need to talk about my feelings and experiences, but every time I try, I end up justifying my actions by criticizing my manager instead. I see the connection between my anxiety and my behavior, but I fear that if I stop micromanaging, I might fail to meet everyone’s expectations, which terrifies me. I’m torn between wanting to change and feeling like I’m not capable of doing so. Therapy is helping me bring these thoughts to the surface, but I still feel a lot of doubt about whether I can really change my approach or if it’s even worth the effort.",
+        "progress_marker": "Client begins to articulate specific thoughts and patterns related to their micromanagement and self-criticism."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: ambivalence exploration needs further depth. Client objective not met: still feeling overwhelmed by self-criticism.",
-          "client_utterance": "I think if I could just let go of the micromanagement, I would feel more competent, but what if I end up making mistakes? That scares me. I don’t want to be criticized again.",
-          "therapist_utterance": "It's completely natural to fear making mistakes, especially when you’ve faced criticism before. What do you think the worst-case scenario would be if you allowed yourself to let go a little? Let’s explore that fear together.",
-          "therapist_use": "Decatastrophizing: used to help Patrick identify and evaluate worst-case scenarios related to change."
+          "reason_for_ending": "KEEP: Therapist objective was not met because ambivalence wasn't fully explored. Client objective was not met as deeper feelings about micromanagement were not articulated.",
+          "client_utterance": "I feel like I’m starting to see how my micromanagement is tied to my self-worth at work. But I also wonder if it’s just easier to keep doing what I know. I mean, if I stop, what if everything falls apart?",
+          "therapist_utterance": "It sounds like you're caught between recognizing the negative impact of micromanagement and the fear of losing control if you change. What do you think are the pros and cons of continuing to manage this way versus changing your approach?",
+          "therapist_use": "Exploring Ambivalence: Encouraged Patrick to express feelings about micromanagement and identify pros and cons."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: more exploration of fears is needed. Client objective not met: still feeling hesitant about facing self-criticism.",
-          "client_utterance": "I guess I worry that if I try to step back, everything will fall apart, and I’ll be blamed for it. It feels like such a huge risk. What if I can’t handle the consequences?",
-          "therapist_utterance": "It sounds like you really feel the weight of that responsibility. What evidence do you have that stepping back would lead to those consequences? Have there been instances where delegation or trusting others worked out well for you?",
-          "therapist_use": "Evidence-Based Questioning: used to challenge Patrick’s automatic thoughts about incompetence and evaluate past successes."
+          "reason_for_ending": "KEEP: Therapist objective was not met as the discussion didn't delve deeply enough into specific pros and cons. Client objective was not met as he didn’t fully articulate his feelings about change.",
+          "client_utterance": "Well, I guess the pro of micromanaging is that I feel like I have everything under control, but the con is that I’m constantly stressed and exhausted. It just feels like a safety net, even if it’s not healthy.",
+          "therapist_utterance": "You’ve identified a key conflict: the safety of control versus the stress it brings you. Can you think of a time when you received positive feedback that made you feel competent, even when you weren’t micromanaging?",
+          "therapist_use": "Eliciting Change Talk: Asked about moments of competence to foster a sense of self-efficacy."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: needs to facilitate deeper reflection on evidence of competence. Client objective not met: still feels hesitant about the potential for self-criticism.",
-          "client_utterance": "I can think of a few projects where my team succeeded, but I was always afraid of letting go too much. I just feel like if I don’t keep my hands on everything, I’ll mess it up. It’s hard to shake that feeling.",
-          "therapist_utterance": "You have shown that you can succeed, which is an important strength to recognize. If we were to list the pros of letting go of some control, what do you think might be beneficial? How might that align with your values of competence and fairness?",
-          "therapist_use": "Pros and Cons Analysis: used to assist Patrick in recognizing the benefits of change and aligning them with his values."
+          "reason_for_ending": "KEEP: Therapist objective was not met since he didn't help the client connect positive feedback to his feelings of competence. Client objective was not met as he didn't share a specific instance.",
+          "client_utterance": "I remember getting praise for a project where I let my team take the lead. But I still felt uneasy because I was worried it wouldn’t meet expectations without my oversight.",
+          "therapist_utterance": "It's great you have that experience to reflect on! It seems that even in positive moments, the fear of failure can overshadow your achievements. What do you think it would feel like to trust your team more and step back a little?",
+          "therapist_use": "Developing Discrepancy: Helped Patrick recognize the conflict between his positive experiences and his current feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: needs to help client explore pros and cons more thoroughly. Client objective not met: still feeling overwhelmed by self-criticism.",
-          "client_utterance": "I think if I let go, I might actually see some positive outcomes, like more collaboration. But then I worry it’ll just lead to chaos and I’ll be blamed again. It’s so hard to balance those thoughts.",
-          "therapist_utterance": "It’s good that you can see potential positives, even amidst that fear. Let’s try to write down some of those pros and cons. What do you think are the biggest advantages of changing your approach?",
-          "therapist_use": "Decisional Balance Discussions: used to facilitate discussion on pros and cons of current behaviors and potential changes."
+          "reason_for_ending": "KEEP: Therapist objective was not met as he didn't fully guide the client in exploring feelings of trust. Client objective was not met as he didn't articulate the value of trusting himself or others.",
+          "client_utterance": "I think trusting my team could be freeing, but it’s scary. What if they let me down? I feel like if I don’t control everything, I might be seen as weak or incompetent.",
+          "therapist_utterance": "That fear of being perceived as weak is understandable, especially in a high-pressure environment. Let’s explore how that aligns with your values. What does being competent mean to you, and how does your current approach support or hinder that?",
+          "therapist_use": "Decisional Balance Discussions: Facilitated a discussion on the relationship between values and current feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: needs to further facilitate pros and cons discussion. Client objective not met: still feeling anxious about self-criticism.",
-          "client_utterance": "I guess the biggest advantage would be feeling more at ease at work. But I’m still scared of what could go wrong if I try to change. It’s like I’m stuck between wanting to feel competent and fearing failure.",
-          "therapist_utterance": "That’s a very honest reflection, and it sounds like you truly value peace of mind at work. Can you think of a time when you felt competent despite uncertainty? How did you handle that situation?",
-          "therapist_use": "Eliciting Change Talk: used to prompt Patrick to discuss moments of competence to reinforce positive self-perception."
+          "reason_for_ending": "KEEP: Therapist objective was not met since the exploration of core values wasn't fully realized. Client objective was not met as he didn't clarify his values related to competence.",
+          "client_utterance": "I want to be seen as capable and reliable, but I think I’m creating this image of control that’s exhausting. It’s like I want to be competent, but I’m not sure how to get there without micromanaging.",
+          "therapist_utterance": "It sounds like there’s a significant conflict between wanting to be seen as reliable and the cost of that perception. What if we looked at some small, achievable goals that would allow you to seek feedback from your team? How might that help you feel more secure?",
+          "therapist_use": "Goal Setting for Self-Reflection: Encouraged Patrick to set small, achievable goals to seek feedback."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: needs to elicit more confident feelings. Client objective not met: still feeling hesitant about self-criticism.",
-          "client_utterance": "There was a time when I led a project and everything went well, but I still remember how anxious I was the whole time. I guess I want to feel that way more often, but it’s hard to see it happening.",
-          "therapist_utterance": "It’s a great sign that you can recall a success, even if it came with anxiety. What would it take for you to feel that way more regularly? How can we work together to help you build that confidence?",
-          "therapist_use": "Exploring Ambivalence: used to help Patrick articulate his desires for change while addressing his fears."
+          "reason_for_ending": "KEEP: Therapist objective was not met since the client did not set any specific goals yet. Client objective was not met as he didn't express readiness to take action.",
+          "client_utterance": "I think I could ask for feedback, but it’s daunting. Part of me feels like I should just keep doing what I know. What if the feedback is negative?",
+          "therapist_utterance": "It's completely natural to feel daunted by the prospect of seeking feedback, especially with the fear of negative responses. However, consider that feedback could provide you with valuable insights. What if you viewed this as an opportunity to learn rather than a judgment on your abilities?",
+          "therapist_use": "Cognitive Reframing: Helped Patrick to see seeking feedback as a learning opportunity rather than a threat."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: ambivalence explored and addressed effectively. Client objective met: showing increased self-awareness and readiness to explore change. Progressing toward a potential commitment to change.",
-          "client_utterance": "I think if I could find ways to manage my anxiety and still trust my team, I could really start to change my approach. I’m beginning to see that it’s possible, but I need support to get there.",
-          "therapist_utterance": "That sounds like a significant realization. Recognizing your need for support is a positive step towards change. What would you like to focus on in our next sessions to help you move forward?",
-          "therapist_use": "Planning for Change: used to facilitate planning for future sessions to support Patrick’s journey toward change."
+          "reason_for_ending": "MOVE: Therapist objective was met as he helped Patrick explore his fears and recognize opportunities for growth. Client objective was met since he began to consider actionable steps toward change.",
+          "client_utterance": "I see what you mean. If I frame it that way, asking for feedback doesn’t seem as scary. I feel a bit more hopeful that I can change my approach.",
+          "therapist_utterance": "That’s a powerful shift in perspective, Patrick! Feeling hopeful about change is an important step forward. It seems like you're starting to see that your experiences can lead to growth rather than just fear.",
+          "therapist_use": "Encouragement: Validated Patrick's shift in perspective and reinforced his emerging hope for change."
         }
       ]
     },
@@ -264,27 +264,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Patrick's commitment to change and explore his motivation and confidence in addressing micromanagement at work.",
+          "objective": "Strengthen Patrick's commitment to change and explore his confidence in managing micromanagement at work.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Patrick to articulate his reasons for wanting to change, focusing on how addressing micromanagement can improve his work satisfaction.",
-                "Ask open-ended questions to elicit Patrick's feelings about taking action, such as 'What would it mean for you to address these issues at work?'"
+                "Ask Patrick how important it is for him to address his feelings about micromanagement.",
+                "Encourage him to articulate his reasons for wanting to change his response to micromanagement.",
+                "Reinforce his commitment by summarizing what he has expressed and emphasizing his motivations."
               ]
             },
             {
-              "strategy_name": "Reinforcing Motivation",
+              "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use reflective listening to acknowledge Patrick's feelings of anxiety and uncertainty, reinforcing his motivation by highlighting past successes in coping with challenges.",
-                "Explore what personally drives him to seek change and how this aligns with his values."
-              ]
-            },
-            {
-              "strategy_name": "Identifying Supports and Resources",
-              "instructions_for_therapist": [
-                "Help Patrick identify supportive colleagues or friends he can turn to for encouragement as he prepares for change.",
-                "Discuss resources or tools that can assist him in managing stress and workload effectively."
+                "Prompt Patrick to rate his confidence level in managing micromanagement from 1 to 10.",
+                "Discuss what would help him move from his current confidence level to a higher one.",
+                "Utilize positive reflections to highlight past successes and reinforce his ability to cope with challenges."
               ]
             }
           ]
@@ -292,84 +287,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Identify and Challenge Negative Thoughts",
               "instructions_for_therapist": [
-                "Collaboratively develop a step-by-step action plan that includes specific, achievable goals related to addressing micromanagement, such as preparing for a conversation with his manager.",
-                "Ensure the plan includes small incremental steps to avoid overwhelming Patrick."
+                "Guide Patrick to explore the automatic thought, 'My efforts are never enough,' and identify cognitive distortions.",
+                "Facilitate a discussion on evidence supporting and contradicting this thought, focusing on specific feedback he has received.",
+                "Work collaboratively to reframe this thought into a balanced perspective that acknowledges both criticism and strengths."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Set Specific Achievable Goals",
               "instructions_for_therapist": [
-                "Guide Patrick through identifying potential barriers he may face when implementing his action plan and collaboratively brainstorm coping strategies.",
-                "Encourage him to visualize possible scenarios and how he might respond to challenges."
-              ]
-            },
-            {
-              "technique_name": "Behavior Experiment",
-              "instructions_for_therapist": [
-                "Encourage Patrick to engage in a low-risk behavior experiment, such as sharing one small idea with his manager to test the waters of open communication.",
-                "After the experiment, discuss the outcomes and feelings experienced to build confidence."
+                "Collaborate with Patrick to set realistic goals related to seeking feedback from colleagues and expressing feelings about micromanagement.",
+                "Ensure goals are gradually introduced to avoid overwhelming him, focusing on one or two actionable steps.",
+                "Encourage him to practice cognitive restructuring techniques outside of sessions."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan, I focused on Patrick's current resistance and readiness to change by integrating motivational interviewing strategies with cognitive behavioral techniques. First, I aimed to strengthen his commitment to change by using commitment language that highlights his motivations and values, ensuring he articulates his desire to address workplace micromanagement. I recognized his anxiety and reinforced his motivation by reflecting on his past successes, which can bolster his confidence. Identifying supports and resources will help him feel less isolated in this process. In the CBT interventions, I prioritized action planning that is specific and achievable to avoid overwhelming Patrick while addressing his core beliefs of helplessness. Problem-solving skills training will empower him to anticipate barriers and develop coping strategies, enhancing his self-efficacy. Finally, the behavior experiment will provide a safe avenue for him to test his ability to communicate effectively at work, allowing for a gradual build-up of confidence. This integrated approach respects his resistance while fostering a collaborative environment conducive to change.",
-        "progress_marker": "Patrick articulates specific goals and demonstrates increased commitment to implementing his action plan, feeling more confident in addressing micromanagement at work."
+        "therapist_reasoning": "In developing this therapy plan for Patrick, I prioritized strengthening his commitment to change by employing Motivational Interviewing strategies that resonate with his current phase of readiness. By focusing on commitment language, I aim to affirm his motivations for addressing micromanagement, which is crucial for bolstering his confidence. I also planned to explore his confidence and readiness further, using his self-rated confidence level to identify specific areas for growth. Concurrently, I integrated Cognitive Behavioral Therapy interventions by targeting his automatic thoughts about incompetence and working to challenge and reframe these beliefs collaboratively. This dual approach addresses both his emotional resistance and cognitive distortions. The specific and achievable goals set in collaboration with Patrick aim to ensure he feels supported and empowered as he navigates this change. Overall, this structured plan seeks to enhance Patrick's self-efficacy while respecting his resistance and current emotional state.",
+        "progress_marker": "Patrick has begun to articulate his motivations for change, identified specific goals for seeking feedback at work, and practiced reframing negative thoughts about micromanagement."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings about micromanagement and identify practical steps to regain control at work.",
+        "client_objective": "I hope to explore my feelings about micromanagement and identify practical steps for change.",
         "client_state": {
-          "awareness": "I recognize that my tendency to micromanage and the feelings of helplessness stem from my past experiences and current job situation. I can see how this impacts my self-esteem and overall happiness.",
-          "motivation": "I feel a stronger desire to improve my work situation and regain a sense of control over my responsibilities, though I'm still hesitant about how to achieve this.",
-          "openness": "I'm willing to discuss my thoughts and feelings about work with my therapist, but I struggle to let go of my focus on my manager's mistakes and my need to defend myself.",
-          "resistance": "I experience significant anxiety about making these changes, and I doubt my ability to maintain any improvements, which makes me hesitant to fully engage in the process."
+          "awareness": "I recognize that my tendency to micromanage and feel overwhelmed is negatively impacting my work and relationships.",
+          "motivation": "I feel motivated to make changes because I want to regain control over my work life and reduce my anxiety.",
+          "openness": "I am willing to discuss my feelings and thoughts with my therapist, though I still struggle with bringing up my manager's mistakes.",
+          "resistance": "I experience some hesitation and self-doubt about my ability to change, fearing that my efforts might not be enough."
         },
-        "client_reasoning": "I’ve come to realize that the micromanagement I experience at work is affecting not just my performance but also my mental health. After reflecting on my past, I understand that my feelings of incompetence and helplessness are deeply rooted in my experiences with criticism and blame. I recognize that change is necessary, as I cannot continue feeling this way. I hope that by addressing these issues, I can find a way to manage my workload without feeling overwhelmed and regain confidence in my abilities. However, I still worry about my capacity to implement changes—what if I fail again? My therapist has helped me see that there are strategies I can use, but I often find myself fixating on my manager’s mistakes instead of focusing on my own growth. I know I need to shift my perspective, but that transition feels daunting."
+        "client_reasoning": "I've come to realize that my current situation at work isn't sustainable. The micromanagement is draining me and making me feel incompetent, which isn't how I want to feel anymore. I know I need to make changes, and I'm starting to think that by acknowledging my struggles, I can find ways to cope better. I hope that by working through these feelings, I can gain practical strategies to manage my workload without overburdening myself. However, I still feel a bit anxious about whether I can truly change my behavior and overcome my fears of inadequacy. Therapy has helped me see that I'm not alone in this, and I feel a cautious optimism that I can improve my situation with the right support and effort."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because Patrick hasn't articulated specific goals yet. Client objective not met as Patrick is still hesitant about taking steps to regain control.",
-          "client_utterance": "I’ve been thinking more about how my micromanagement impacts my team. I want to change, but I still don’t know what that looks like in practice. I guess I need to figure out what specific steps I can take.",
-          "therapist_utterance": "It's great to hear you're reflecting on the impact of micromanagement. What would it mean for you to identify those specific steps? How do you envision the changes improving your work satisfaction?",
-          "therapist_use": "Open-ended questioning: encouraged Patrick to explore his feelings about taking action and envision change."
+          "reason_for_ending": "KEEP - Therapist objective was not met because there was no exploration of Patrick's feelings about micromanagement yet. Client objective was not met as he hasn't articulated practical steps for change.",
+          "client_utterance": "I've been thinking about how micromanagement makes me feel powerless, and I want to address that. But I still struggle with knowing where to start in making changes.",
+          "therapist_utterance": "It's great that you're recognizing how micromanagement affects your feelings of power. Can you share more about what specifically makes you feel powerless? Understanding this could help us find some practical steps for change.",
+          "therapist_use": "Open-ended questioning: used to encourage Patrick to explore his feelings more deeply."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Patrick hasn't yet expressed strong commitment to explore his motivations. Client objective not met; he is still unsure about practical steps.",
-          "client_utterance": "I think addressing these issues would mean I could finally feel at ease at work. But what if my manager reacts negatively? I’m still stuck on that fear.",
-          "therapist_utterance": "It's understandable to worry about how your manager might react. Let's explore that fear together—what's the worst that could happen if you tried to share your thoughts? How might that fear hold you back from making the changes you want?",
-          "therapist_use": "Exploration of fears: aimed at helping Patrick confront his anxieties about potential negative reactions."
+          "reason_for_ending": "KEEP - Therapist objective was not met because the conversation did not yet focus on commitment to change. Client objective was not met since he hasn't identified any practical steps yet.",
+          "client_utterance": "When I feel my manager hovering over me, I just freeze up. It’s like I can’t think straight, and I end up micromanaging my team to cope with that pressure.",
+          "therapist_utterance": "That makes a lot of sense. It sounds like the pressure from your manager leads you to react in a way that feels safer but ultimately is not helpful. What might be a small step you could take to respond differently in those moments?",
+          "therapist_use": "Reflective listening: used to validate Patrick's feelings while guiding him towards identifying steps for change."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because Patrick hasn't identified any supports yet. Client objective not met as he is still focused on fears rather than on actionable steps.",
-          "client_utterance": "If I share my thoughts, I guess I could be blamed again if things go wrong. I feel like I need to protect myself from that. I wish I could trust my team more.",
-          "therapist_utterance": "Trusting your team is a significant step towards reducing micromanagement. Who do you think you could turn to for support when addressing these issues? Identifying those resources might help you feel less isolated.",
-          "therapist_use": "Identifying supports and resources: helping Patrick recognize potential allies who can provide encouragement."
+          "reason_for_ending": "KEEP - Therapist objective was not met because there was no strengthening of commitment language yet. Client objective was not met since he hasn't articulated any specific practical steps.",
+          "client_utterance": "I think if I could just take a deep breath and trust my team, that might help. But it’s hard to imagine doing that because I still doubt their abilities.",
+          "therapist_utterance": "It's understandable to feel that doubt, especially when you're under pressure. If you were to trust your team just a little more, how would that look for you? What would be a first step towards that trust?",
+          "therapist_use": "Exploring confidence and readiness: used to encourage Patrick to envision trusting his team and identify actionable steps."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Patrick hasn't yet committed to any specific actions. Client objective not met because he is still struggling with trust issues.",
-          "client_utterance": "I’m not sure who I can really rely on, though. It feels like everyone is under pressure themselves. Maybe I just need to handle everything on my own.",
-          "therapist_utterance": "It can be tough to feel like you’re alone in this. What if we brainstormed some small actions you could take that wouldn’t feel overwhelming? Sometimes starting small can lead to building trust and confidence.",
-          "therapist_use": "Action planning: collaborating to develop small, achievable steps that Patrick can take to regain control."
+          "reason_for_ending": "KEEP - Therapist objective was not met as there was no reinforcement of commitment language. Client objective was not met since he hasn't clearly defined any practical steps.",
+          "client_utterance": "Maybe I could start by delegating one task to a team member. I guess that could be a way to test the waters, but I’m still worried about the outcome.",
+          "therapist_utterance": "That sounds like a very reasonable step, and it shows you're willing to take action. What are some positive outcomes you hope to see from delegating that task? How important is it for you to try this out?",
+          "therapist_use": "Strengthening commitment language: used to encourage Patrick to articulate his motivations for trying out delegation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Patrick hasn't outlined any specific steps yet. Client objective not met as he remains hesitant about taking action.",
-          "client_utterance": "I guess I could try sharing one small idea with my manager. That feels less risky than a full conversation. But what if it doesn’t go well?",
-          "therapist_utterance": "That sounds like a reasonable first step. What’s a low-risk idea you could share that might open the door for more communication? Let’s think about how you can prepare for that conversation.",
-          "therapist_use": "Behavior experiment: encouraging Patrick to engage in a low-risk behavior experiment to build confidence."
+          "reason_for_ending": "KEEP - Therapist objective was not met because the exploration of confidence levels was not completed. Client objective was not met as he hasn't fully committed to action yet.",
+          "client_utterance": "I think it’s important for me to try, but I still feel nervous. I’d rate my confidence about a 5 right now, as I want to change but I’m scared it won’t work.",
+          "therapist_utterance": "It’s brave of you to acknowledge that fear and your current confidence level. What would it take for you to feel more confident about this step? Let’s brainstorm some supportive actions you could take.",
+          "therapist_use": "Exploring confidence and readiness: used to identify specific actions that could bolster Patrick's confidence."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Patrick hasn't yet reflected on the potential outcomes. Client objective not met because he is still focused on the fear of failure.",
-          "client_utterance": "If I share something and it goes well, then maybe I could open up more. But if it fails, I don't know how I would handle the disappointment. It's hard to visualize success.",
-          "therapist_utterance": "Visualizing success can be challenging, especially with a history of setbacks. Let’s discuss what success would look like for you in this scenario. How would you feel if the conversation went positively?",
-          "therapist_use": "Visualization technique: helping Patrick envision positive outcomes to build confidence."
+          "reason_for_ending": "KEEP - Therapist objective was not met as there was no summary of Patrick's motivations yet. Client objective was not met as he hasn't committed to a clear plan of action.",
+          "client_utterance": "If I could receive feedback from my team after delegating tasks, that might help me feel more secure. I just need to remind myself that it’s okay to rely on them.",
+          "therapist_utterance": "That's a fantastic insight, Patrick! It sounds like seeking feedback might be a key part of building your confidence and trust. How committed do you feel to taking this step in the coming week?",
+          "therapist_use": "Strengthening commitment language: used to reinforce Patrick's motivations for seeking feedback."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Patrick articulates a specific goal of sharing an idea. Client objective met because he expresses a willingness to take practical steps toward change.",
-          "client_utterance": "I think if I can share that idea, I might feel a little more in control. It’s a small step, but it feels like it could lead to something bigger. I’m ready to try.",
-          "therapist_utterance": "That’s a significant commitment, Patrick! Taking that small step is a powerful way to regain control and build your confidence. I believe you can do this, and I’m here to support you through it.",
-          "therapist_use": "Strengthening commitment language: reinforcing Patrick's motivation and commitment to take actionable steps."
+          "reason_for_ending": "MOVE - Therapist objective was met as there was a summary of Patrick's motivations for change. Client objective was met as he clearly articulated a practical step he plans to take.",
+          "client_utterance": "I feel ready to delegate that task next week and ask for feedback afterward. It feels like a good first step to regain some control and trust in my team.",
+          "therapist_utterance": "That's a significant step forward, Patrick! I'm really proud of you for committing to this action. It sounds like you're on a path to feeling more in control and confident in your role.",
+          "therapist_use": "Summary and affirmation: used to celebrate Patrick's commitment and reinforce his motivation."
         }
       ]
     }

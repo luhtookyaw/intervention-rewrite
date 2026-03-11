@@ -12,36 +12,30 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Skyler's awareness of their thoughts and feelings while fostering a sense of safety and trust.",
+          "objective": "To increase Skyler's awareness of their emotional experiences and the discrepancies between their current feelings and personal values without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Skyler's concerns and feelings.",
-                "Reflect back their feelings of hurt and loneliness without judgment.",
-                "Validate their experiences to help them feel understood."
+                "Listen carefully to Skyler's feelings about Edson's contact.",
+                "Paraphrase and reflect back Skyler's emotions to validate their experience.",
+                "Encourage Skyler to express their thoughts and feelings without judgment."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Communicate understanding of Skyler's feelings of being unheard and invalidated.",
-                "Acknowledge the difficulty they face in their relationships and emotional struggles.",
-                "Use empathetic statements to reinforce the therapeutic alliance."
+                "Acknowledge the hurt and disappointment Skyler feels regarding past interactions.",
+                "Validate their experiences of feeling unheard and invalidated, reinforcing that such feelings are understandable.",
+                "Use empathetic statements to help Skyler feel supported and understood."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the contrast between Skyler's current feelings of being unlovable and their values regarding connection and belonging.",
-                "Encourage Skyler to express their thoughts on what they truly desire in their relationships without pushing for change."
-              ]
-            },
-            {
-              "strategy_name": "Raising Awareness",
-              "instructions_for_therapist": [
-                "Ask open-ended questions that prompt Skyler to reflect on their behaviors and feelings.",
-                "Encourage them to consider how these behaviors align with their values and desires."
+                "Help Skyler explore how their current feelings of unlovability conflict with their desire for connection.",
+                "Ask questions that encourage Skyler to reflect on what they value in relationships versus their current beliefs.",
+                "Highlight the difference between their feelings of rejection and the possibility of being valued by others."
               ]
             }
           ]
@@ -49,91 +43,87 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identify and Challenge Automatic Thoughts",
               "instructions_for_therapist": [
-                "Ask Skyler to identify evidence supporting their beliefs of being unlovable and unwanted.",
-                "Encourage them to explore counter-evidence, such as positive interactions or relationships."
+                "Introduce the concept of automatic thoughts related to Edson's contact.",
+                "Guide Skyler to identify thoughts like 'He only reaches out when it suits him.'",
+                "Encourage them to explore evidence for and against these thoughts, fostering a balanced perspective."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Gather Counter-Evidence",
               "instructions_for_therapist": [
-                "Guide Skyler to examine the validity of their automatic thoughts regarding Edson's intentions.",
-                "Discuss alternative explanations for Edson's behavior to challenge negative assumptions."
+                "Assist Skyler in recalling instances where they felt valued by Edson or others.",
+                "Encourage them to list positive experiences that contradict their negative beliefs.",
+                "Facilitate a discussion on how these positive experiences can reshape their perceptions."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Reframe Negative Thoughts",
               "instructions_for_therapist": [
-                "Encourage Skyler to consider how they might view their situation differently.",
-                "Prompt them to think about how someone they trust might perceive their experiences."
-              ]
-            },
-            {
-              "technique_name": "Continuum Technique",
-              "instructions_for_therapist": [
-                "Discuss with Skyler where they feel they stand on a scale of feeling loved and valued.",
-                "Encourage them to reflect on moments when they felt more connected to others."
+                "Work with Skyler to create a more balanced thought to replace 'I am not valued.'",
+                "Example: 'Edson reaching out shows he cares, and I have value regardless of who reaches out.'",
+                "Encourage Skyler to practice this reframing technique in future reflective moments."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To support Skyler in the Pre-contemplation phase, the therapist will first prioritize building a strong therapeutic rapport through reflective listening and expressing empathy. This will help Skyler feel heard and validated, reducing defensiveness. The therapist will then use techniques like developing discrepancy to gently guide Skyler to reflect on the difference between their current feelings of unlovability and their deeper values around connection. By raising awareness through open-ended questions, Skyler can begin to explore their thoughts without feeling pressured to change. Meanwhile, CBT techniques such as evidence-based questioning and reality testing will help Skyler evaluate their core beliefs about being unwanted and consider alternative perspectives. This approach respects their resistance profile by avoiding direct suggestions for behavior change, instead fostering curiosity and engagement with their own experiences. Ultimately, this plan aims to cultivate an environment where Skyler feels safe to explore their feelings and beliefs, setting the stage for future readiness to change.",
-        "progress_marker": "Skyler begins to articulate thoughts and feelings about their experiences and the discrepancies between their current state and desired values."
+        "therapist_reasoning": "In this therapy plan, I focused on building rapport and increasing Skyler's self-awareness through Motivational Interviewing (MI) techniques while respecting their pre-contemplation status. I decided to employ reflective listening to validate Skyler's feelings, thus reducing defensiveness. Expressing empathy was critical in ensuring Skyler feels understood, which is essential given their history of feeling unheard. Developing discrepancy allows Skyler to explore the contrast between their feelings of unlovability and their longing for connection, thereby fostering curiosity about their beliefs. In parallel, I utilized Cognitive Behavioral Therapy (CBT) interventions to help Skyler identify and challenge automatic thoughts related to Edson's contact, facilitating an exploration of the evidence behind these thoughts. Gathering counter-evidence will help Skyler recognize moments of value and connection, which is vital for reframing negative beliefs. By guiding them to create balanced statements, I aim to promote a shift in their perspective without pressuring them toward immediate behavioral changes.",
+        "progress_marker": "Skyler begins to articulate their feelings and beliefs more openly, showing signs of increased self-awareness and a willingness to explore their emotions."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to talk about my feelings without being judged or pressured to change.",
+        "client_objective": "I hope to just get through this conversation without feeling too exposed or judged.",
         "client_state": {
-          "awareness": "I know something feels off, but I'm not sure it's a problem worth discussing.",
-          "motivation": "I don’t really want to change; it feels like too much right now.",
-          "openness": "I find it hard to share my true feelings because I feel misunderstood.",
-          "resistance": "I strongly resist talking about my issues; it feels safer to avoid them."
+          "awareness": "I realize there are issues in my life, but I don't think they can actually change.",
+          "motivation": "I feel stuck and don't really want to change anything right now.",
+          "openness": "I'm not comfortable sharing my deeper feelings; I prefer to keep them hidden.",
+          "resistance": "I feel a strong urge to avoid discussing my feelings or the core issues."
         },
-        "client_reasoning": "I feel like I'm stuck in this cycle where I can't really talk about what's bothering me. When Edson reached out, I just thought, 'He only cares when it suits him.' It's like I’m always waiting to be rejected, and I really don’t want to deal with that pain again. I know I should probably open up, but it feels overwhelming, and I’m afraid of being judged. I keep thinking that if I talk about my feelings, it will just lead to more hurt. It’s easier to keep things to myself and decline invitations than to face the possibility of being let down again. Therapy feels like a place where I might have to confront these uncomfortable feelings, and that scares me. I just keep wondering if it’s even worth it since no one really understands how lonely I feel anyway."
+        "client_reasoning": "Every time I think about what’s bothering me, like Edson reaching out again, I just feel this wave of hurt and disappointment. I can’t shake off this feeling that I’m unlovable and that no one really values me. It’s easier to just decline invitations than to face the possibility of rejection. I know I should talk about these feelings, but I fear it’ll just lead to more pain and will show how alone I truly feel. Sometimes, I wonder if this therapy is even worth it because it feels like no one really understands the depth of my loneliness. I keep telling myself that if I just avoid the conversation, maybe I can protect myself from feeling even more vulnerable. Change feels so far away, and I can’t see how talking could actually help me right now."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - Skyler hasn't sufficiently reflected on their feelings and experiences. Client objective not met - Skyler is still resisting discussing their feelings openly.",
-          "client_utterance": "I just feel like talking about my feelings is pointless. Every time I think about it, I just remember how lonely I am and how nobody really gets it. I don't want to end up feeling rejected again, especially after what happened with Edson.",
-          "therapist_utterance": "It sounds like you really struggle with feelings of loneliness and the fear of rejection. I can understand why you’d want to avoid discussing those feelings if they lead to hurt. What do you think would happen if you allowed yourself to share what you feel?",
-          "therapist_use": "Reflective Listening: to validate Skyler's feelings of loneliness and fear."
+          "reason_for_ending": "KEEP: Therapist objective not met because Skyler did not explore their feelings regarding Edson's contact. Client objective not met as Skyler still feels exposed and judged.",
+          "client_utterance": "I guess I feel mixed about Edson reaching out. Part of me wants to ignore it because it hurts, but another part wonders if he actually cares. I just don’t know if it’s worth the emotional risk to even think about it.",
+          "therapist_utterance": "It sounds like you're feeling conflicted about Edson's contact. On one hand, there's a desire to avoid the pain, but on the other, there's curiosity about his intentions. It's understandable to feel this way given how you've felt in the past.",
+          "therapist_use": "Reflective Listening: used to validate Skyler's conflicting emotions and encourage exploration."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - Skyler hasn't started to articulate their deeper feelings. Client objective not met - Skyler still feels judged and is hesitant to share more.",
-          "client_utterance": "I guess I just don't see the point in talking. Edson’s behavior makes me think he only cares when it’s convenient, and I’m afraid that if I open up, it’ll just lead to more hurt. I feel like I'm stuck in this cycle of waiting for the next disappointment.",
-          "therapist_utterance": "It's understandable to feel stuck when past experiences have led you to expect disappointment. Your feelings about Edson seem to really weigh on you. How do you think these experiences shape your desire for connection with others?",
-          "therapist_use": "Expressing Empathy: acknowledging the difficulty of feeling stuck and the impact of past experiences."
+          "reason_for_ending": "KEEP: Therapist objective not met because Skyler has not yet identified specific feelings about their self-worth. Client objective not met as Skyler continues to feel the urge to avoid deeper discussions.",
+          "client_utterance": "Yeah, I just keep thinking that maybe I'm not worth that kind of attention. It feels safer to think he only reaches out when he needs something. I can't shake the feeling that I'm just not lovable enough to matter.",
+          "therapist_utterance": "It's clear that you're grappling with feelings of unlovability and questioning your worth in relationships. I can see how that might make you feel hesitant to engage with Edson or anyone else. You're not alone in feeling this way; many people struggle with similar thoughts.",
+          "therapist_use": "Expressing Empathy: used to acknowledge Skyler's feelings of unlovability and validate their experiences."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - Skyler hasn't explored the discrepancy between their feelings and values. Client objective not met - Skyler is still hesitant to dive deeper into their feelings.",
-          "client_utterance": "I don't know. I want to feel connected, but I also want to protect myself from being hurt again. It’s like I’m caught between wanting someone to understand me and fearing that they’ll never really get it.",
-          "therapist_utterance": "That’s a tough position to be in, wanting connection but also wanting to shield yourself from pain. It makes sense that you’d feel conflicted about opening up. What do you think it would look like to feel understood by someone?",
-          "therapist_use": "Developing Discrepancy: to gently encourage Skyler to reflect on their desires for connection."
+          "reason_for_ending": "KEEP: Therapist objective not met as Skyler hasn't reflected on discrepancies between their feelings and desires for connection. Client objective not met since Skyler still prefers to keep feelings hidden.",
+          "client_utterance": "I know I want to connect with people, but then I just feel like I’ll be rejected. It’s like I’m caught in this loop where I want to reach out but I can’t bring myself to do it. I just end up pushing everyone away instead.",
+          "therapist_utterance": "That sounds really tough, feeling caught between wanting connection and fearing rejection. It's completely understandable to want to protect yourself from hurt. Exploring that desire for connection alongside the fear of rejection might help you understand your feelings better.",
+          "therapist_use": "Developing Discrepancy: used to help Skyler reflect on their desires versus fears in relationships."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - Skyler hasn't begun to articulate their values regarding connection. Client objective not met - Skyler is still resisting deeper exploration of their feelings.",
-          "client_utterance": "I suppose it would mean that someone actually listens and cares about what I have to say. But I just don’t know if that’s even possible for me. It feels like I’m always on the outside looking in.",
-          "therapist_utterance": "It sounds like being listened to and cared for is really important to you, yet it feels out of reach. I can see how that would make you feel isolated. What do you think has held you back from finding that kind of connection?",
-          "therapist_use": "Raising Awareness: to prompt Skyler to reflect on barriers to connection."
+          "reason_for_ending": "KEEP: Therapist objective not met because Skyler hasn't challenged their automatic thoughts about Edson. Client objective not met as Skyler continues to avoid discussing deeper feelings.",
+          "client_utterance": "I guess I just think about how he hasn’t been there when I needed him. So when he reaches out, I can’t help but feel it’s not genuine. It makes me question if I even matter to him.",
+          "therapist_utterance": "It seems like you’re feeling that Edson’s past actions are overshadowing his current attempts to connect. Those thoughts can be hard to shake, especially when they tie into feelings of not being valued. What if we took a moment to look at times you felt differently about your worth?",
+          "therapist_use": "Identify and Challenge Automatic Thoughts: used to help Skyler recognize and reflect on their negative beliefs."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - Skyler hasn't started to identify evidence for their beliefs about connection. Client objective not met - Skyler is still holding back from fully engaging.",
-          "client_utterance": "I guess I’ve just always been afraid of being let down, so it’s easier to keep people at a distance. I don’t want to risk feeling like I did when I was younger, like my feelings didn’t matter. But maybe I’m missing out on something by doing that.",
-          "therapist_utterance": "It seems like there’s a part of you that recognizes the cost of keeping people at a distance. That’s a significant realization. If you were to think about moments when you felt more connected, what would those look like for you?",
-          "therapist_use": "Continuum Technique: to encourage Skyler to reflect on moments of connection."
+          "reason_for_ending": "KEEP: Therapist objective not met as Skyler has not yet gathered counter-evidence. Client objective not met since they still feel exposed talking about their feelings.",
+          "client_utterance": "I can think of a few times he did show he cared, but they feel far away. It’s hard to hold onto those moments when all I feel is the hurt from before. I just wish things were different.",
+          "therapist_utterance": "Those moments of care are important to acknowledge, even if they feel distant. It’s okay to hold both the positive and negative experiences at the same time. How might recognizing those positive moments shift how you view your interactions with him?",
+          "therapist_use": "Gather Counter-Evidence: used to encourage Skyler to recall positive experiences that challenge their negative beliefs."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - Skyler hasn’t fully engaged with their feelings about connection. Client objective not met - Skyler is still hesitant to explore deeper.",
-          "client_utterance": "There have been times when I felt close to someone, but those moments always seem so fleeting. It's like I’m always waiting for the other shoe to drop. I don’t know if I can risk that disappointment again.",
-          "therapist_utterance": "It sounds like those fleeting moments of connection are meaningful to you, but they also come with a fear of disappointment. That’s a tough balance to navigate. What do you think might happen if you allowed yourself to experience those connections more fully?",
-          "therapist_use": "Alternative Perspective: to encourage Skyler to consider a different viewpoint on their connections."
+          "reason_for_ending": "KEEP: Therapist objective not met because Skyler hasn't reframed their negative thoughts yet. Client objective not met as Skyler still feels hesitant to share deeper emotions.",
+          "client_utterance": "I don’t know, maybe it would help to think differently about it. But it feels like changing my thoughts is easier said than done. I just keep getting stuck in what I believe.",
+          "therapist_utterance": "It’s completely normal to feel that way, especially when those thoughts have been ingrained for so long. What if we worked together to create a more balanced thought that acknowledges both your feelings and the possibility of being valued? It could be a small step in shifting your perspective.",
+          "therapist_use": "Reframe Negative Thoughts: used to support Skyler in creating balanced thoughts to replace negative beliefs."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met - Skyler has begun to articulate their feelings and reflect on their experiences. Client objective met - Skyler is expressing their feelings without feeling pressured to change.",
-          "client_utterance": "I suppose if I opened up more, I might find that not everyone will hurt me. Maybe there are people who would listen without judgment. I guess I just need to take that first step, even if it feels scary.",
-          "therapist_utterance": "That’s a powerful insight, Skyler. Recognizing that not everyone will hurt you is a significant step forward. It sounds like you’re starting to see the possibility of connection without the fear of judgment, which is a wonderful place to begin.",
-          "therapist_use": "Reflective Listening: to reinforce Skyler’s emerging insights and feelings of possibility."
+          "reason_for_ending": "MOVE: Therapist objective met as Skyler is beginning to explore thoughts and feelings about their worth. Client objective met as Skyler is showing increased openness towards discussing their feelings.",
+          "client_utterance": "I think it might be worth trying to see Edson's outreach as him caring, instead of just focusing on the hurt. Maybe I can find a way to feel valued regardless of how others act. It's a scary thought but maybe it’s a start.",
+          "therapist_utterance": "That’s a significant shift, Skyler! Recognizing Edson's outreach as a sign of care is a powerful step forward. It’s okay to feel scared, but it sounds like you’re open to exploring this new perspective, and that’s really promising.",
+          "therapist_use": "Double-sided reflection: used to validate Skyler's emerging willingness to see things differently."
         }
       ]
     },
@@ -142,27 +132,28 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore and resolve ambivalence about change while increasing motivation and readiness.",
+          "objective": "Explore Skyler's ambivalence about reaching out to Edson and strengthen their motivation to engage in healthier interpersonal behaviors.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Skyler about their feelings regarding change and what they feel they might gain or lose from it.",
-                "Encourage Skyler to express both their desire to change and their fears or concerns about the consequences of change."
+                "Ask Skyler to share their feelings about Edson's attempts to reconnect, highlighting both positive and negative emotions.",
+                "Encourage Skyler to express reasons for wanting to engage with Edson and reasons for avoiding contact.",
+                "Facilitate a discussion around the pros and cons of maintaining distance versus reconnecting, guiding them to reflect on how each choice aligns with their values."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Skyler to articulate reasons for wanting to change, focusing on personal values.",
-                "Use open-ended questions to help them reflect on their motivations and the benefits of moving towards change."
+                "Prompt Skyler to articulate any thoughts or feelings that indicate a desire for change or improvement in their relationships.",
+                "Use open-ended questions to invite Skyler to reflect on past instances where they felt valued and how that could influence their current situation."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussion",
+              "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Facilitate a discussion on the pros and cons of their current behavior versus potential changes.",
-                "Help Skyler visualize the impact of staying the same versus making changes in their life."
+                "Help Skyler to identify discrepancies between their current avoidance behaviors and their values around connection and belonging.",
+                "Encourage Skyler to reflect on how their actions may be preventing them from experiencing the relationships they desire."
               ]
             }
           ]
@@ -172,82 +163,71 @@
             {
               "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Guide Skyler in identifying automatic thoughts related to their feelings of being unlovable and unwanted.",
-                "Encourage them to challenge these thoughts by examining evidence for and against them."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Have Skyler list the advantages and disadvantages of their current coping strategies, such as avoidance.",
-                "Help them consider how these strategies align with their long-term values and goals."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Skyler to provide evidence that supports or contradicts their beliefs about not being valued.",
-                "Encourage them to reflect on past experiences where they felt valued, to create a more balanced perspective."
+                "Introduce the concept of mind reading and how it relates to Skyler's automatic thoughts about Edson's intentions.",
+                "Guide Skyler to identify and challenge their automatic thoughts, such as 'He only reaches out when it suits him.'",
+                "Encourage Skyler to gather evidence that counters this thought and to reassess their beliefs based on this new information.",
+                "Help Skyler to reframe negative thoughts into more balanced perspectives, reinforcing their self-worth."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, I will begin by focusing on exploring Skyler's ambivalence about change, which is crucial in the contemplation phase. I will use Motivational Interviewing strategies such as open-ended questions to elicit change talk, allowing Skyler to express their desires and fears regarding change. This will help in developing a discrepancy between their current behaviors and their personal values. I will also facilitate a decisional balance discussion to make Skyler aware of the pros and cons of their current coping strategies. Concurrently, I will employ CBT techniques like cognitive restructuring to challenge Skyler's automatic thoughts about being unlovable and unwanted, promoting a consideration of evidence that contradicts these beliefs. This dual approach will help Skyler reflect deeply on their feelings and thoughts while maintaining a collaborative atmosphere. By addressing their resistance with understanding, I aim to foster insight and increase their motivation for change.",
-        "progress_marker": "Skyler expresses a clearer understanding of their ambivalence and begins to articulate both the desire for change and the fears that accompany it. They show willingness to explore their thoughts and beliefs more deeply."
+        "therapist_reasoning": "In this session, I will begin by exploring Skyler's ambivalence regarding Edson's outreach, using MI strategies to facilitate discussion about both their desire for connection and their fears of rejection. By encouraging them to articulate their thoughts and feelings about engaging with Edson, I aim to elicit change talk that can help clarify their motivation. In parallel, I will introduce cognitive restructuring techniques from CBT to address Skyler's automatic negative thoughts. I will guide them in identifying and challenging these thoughts, particularly focusing on the belief that they are not valued. By helping Skyler gather evidence that contradicts their assumptions and encouraging reflection on moments they have felt valued, I will facilitate a reassessment of their beliefs. This dual approach of MI and CBT will allow me to maintain a collaborative stance while fostering self-efficacy and encouraging insight into their emotional conflicts.",
+        "progress_marker": "Skyler expresses a clearer understanding of their ambivalence and begins to articulate reasons for wanting to engage with Edson, along with some evidence of feeling valued in past interactions."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I want to explore my feelings of rejection and understand how they affect my relationships.",
+        "client_objective": "I hope to gain deeper insights into my feelings of unworthiness and how they affect my relationships.",
         "client_state": {
-          "awareness": "I am starting to see that my feelings of being unloved and unwanted are affecting how I interact with people, especially Edson.",
-          "motivation": "I feel a part of me wants to change and feel more connected, but I’m scared of getting hurt again.",
-          "openness": "I’m willing to share some of my thoughts and feelings with my therapist, but I still hold back because I fear being misunderstood.",
-          "resistance": "I feel a strong urge to avoid dealing with these painful emotions, and I doubt whether it’s worth the effort to change."
+          "awareness": "I am starting to see that my feelings of being unloved and unwanted are connected to how I react to others, especially when they reach out.",
+          "motivation": "I feel a desire to change, but I also fear that I might not be able to or that it won't make a difference.",
+          "openness": "I am becoming more willing to share my experiences and emotions with my therapist, even though I still hold back at times.",
+          "resistance": "I feel a strong pull to protect myself from potential hurt, making me hesitant to fully embrace the idea of change."
         },
-        "client_reasoning": "I've been reflecting on how I've been feeling lately, especially about my interactions with Edson. I'm beginning to understand that my past experiences of feeling unheard and invalidated are coloring my current relationships. I notice I'm often disappointed and hurt when people don't reach out, and I realize that I tend to withdraw. It’s confusing because I want to feel connected, but I also fear that those connections will just lead to more hurt. It’s like I’m caught between wanting to open up and worrying that I’ll end up feeling even more alone. Talking in therapy helps me see some of these patterns, but I still doubt whether change is really possible for me. I wonder if it’s even worth the effort when I’ve felt this way for so long."
+        "client_reasoning": "I’ve been reflecting on my life and how I’ve always felt like I’m not enough for others, especially when I think about Edson reaching out. It’s hard to accept that my automatic thoughts about being unwanted might be influencing my actions, like when I declined his invitation. Part of me knows that I need to confront these feelings, but I also worry that change could lead to more pain. What if I try and still feel rejected? It’s comforting to stick with what I know, even if it’s painful. I’ve noticed that talking to my therapist helps me see these patterns more clearly, but I still feel this internal conflict about whether reaching out and being vulnerable is worth the risk. I want to believe I can be loved, yet I fear that I’ll just end up hurt again.",
+        "progress_marker": "The client is able to identify specific thoughts and emotions connected to their past experiences, showing emerging insight into their patterns of behavior."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Skyler has not fully explored their feelings of fear and desire for change; client objective not met: Skyler still holds back on sharing deeper feelings about rejection.",
-          "client_utterance": "I’ve been thinking about what you said last time, about those fleeting moments of connection. I want to open up more, but I’m still scared that it won’t lead anywhere good. It feels easier to just keep people at arm's length to avoid getting hurt, you know?",
-          "therapist_utterance": "It makes sense that you would want to protect yourself, given your past experiences. Yet, it sounds like there's also a part of you that longs for deeper connections. What do you think you might gain if you took that risk to open up more with others?",
-          "therapist_use": "Open-ended questioning: encouraged Skyler to reflect on the potential benefits of change."
+          "reason_for_ending": "KEEP: The therapist objective was not met because the exploration of ambivalence is still in progress. The client objective was not met as Skyler has not yet fully articulated their reasons for wanting to engage with Edson.",
+          "client_utterance": "I’m still feeling unsure about reaching out to Edson. I mean, part of me wants to think he cares, but then I remember how he wasn’t there for me before. It just makes it hard to trust that he really means it this time.",
+          "therapist_utterance": "It's understandable to feel hesitant when past experiences weigh heavily on your mind. You want to believe in his care, yet the memories of feeling unsupported create doubt. How do you think those past experiences influence your feelings about reconnecting now?",
+          "therapist_use": "Exploring ambivalence: used to delve deeper into Skyler's conflicting emotions regarding Edson."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Skyler has not yet articulated their fears about change; client objective not met: Skyler is still grappling with understanding how past experiences affect current relationships.",
-          "client_utterance": "I guess if I opened up, I might find someone who really listens, but the thought of being vulnerable is terrifying. I can't shake the feeling that if I let my guard down, it could lead to disappointment again. It feels like a gamble I’m not sure I want to take.",
-          "therapist_utterance": "That fear of disappointment is very real, especially when you've experienced it before. But it sounds like you’re also recognizing that staying guarded might prevent you from forming those meaningful connections you desire. What do you think are the specific risks that hold you back the most?",
-          "therapist_use": "Decisional balance discussion: facilitated understanding of the risks involved in opening up."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Skyler has not yet voiced their reasons for avoiding contact. The client objective was not met because they are still struggling to confront their feelings of unworthiness.",
+          "client_utterance": "I guess my main reason for avoiding him is that I’m just scared of getting hurt again. It feels like a risk to open up, especially since I still feel like I’m not enough. What if he just ends up disappointing me again?",
+          "therapist_utterance": "That fear of potential disappointment is very real and valid. It seems like there's a protective instinct at play, wanting to shield yourself from further hurt. What might it mean for you if you were to consider the possibility of a different outcome this time?",
+          "therapist_use": "Eliciting change talk: used to prompt Skyler to think about positive possibilities and challenge their fears."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Skyler hasn't fully explored the pros and cons of their current behaviors; client objective not met: Skyler is still hesitant about the benefits of change.",
-          "client_utterance": "I think the main risk is just feeling rejected again. I’ve been through that enough times, and it’s hard to believe that it could be different this time. But at the same time, I realize that avoiding these feelings only keeps me lonely.",
-          "therapist_utterance": "You’ve highlighted a crucial point: the loneliness that comes from avoidance can often feel heavier than the risk of rejection. It seems like there’s an internal conflict between your desire for connection and your fear of getting hurt. How does that conflict impact your day-to-day interactions with Edson and others?",
-          "therapist_use": "Exploring ambivalence: validated Skyler’s feelings while encouraging them to reflect on their current interactions."
+          "reason_for_ending": "KEEP: The therapist objective was not met since the discussion on the pros and cons of reconnecting is still ongoing. The client objective was not met as Skyler has not yet identified evidence of feeling valued in past interactions.",
+          "client_utterance": "I can’t shake the thought that reaching out could just lead to more pain. But I also remember a few times he did try to be there for me, even if they feel overshadowed by the bad. It’s like I’m stuck between wanting to connect and wanting to protect myself.",
+          "therapist_utterance": "That feeling of being torn between connection and self-protection is a common struggle. It's important to acknowledge those moments where you felt cared for, as they can provide a counterbalance to the hurt. How can reflecting on those positive moments help you assess your current feelings about Edson?",
+          "therapist_use": "Developing discrepancy: used to help Skyler identify the contrast between their past positive experiences and current avoidance."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Still needs to help Skyler identify automatic thoughts; client objective not met: Skyler needs to clarify how their feelings of unlovability affect their relationships.",
-          "client_utterance": "With Edson, I feel like I’m constantly testing the waters. I want to reach out, but I also fear that he’ll just prove that I’m not worth his time. It’s like I’m stuck in this loop of feeling unwanted.",
-          "therapist_utterance": "That loop you describe must be exhausting, constantly feeling like you have to prove your worth. It sounds like your past experiences are influencing how you perceive your current relationships. What evidence do you see that contradicts your feelings of being unwanted?",
-          "therapist_use": "Evidence-based questioning: encouraged Skyler to challenge their automatic thoughts about being unlovable."
+          "reason_for_ending": "KEEP: The therapist objective was not met since Skyler hasn't articulated their desire for change regarding their relationship with Edson. The client objective was not met as they still hold back from fully embracing the idea of reaching out.",
+          "client_utterance": "I think recognizing those moments helps a little, but I still feel like it’s not enough. Sometimes I wonder if it’s worth it to try and reach out, even if it could mean getting hurt again. I just don’t know if I’m ready to take that leap.",
+          "therapist_utterance": "It's okay to feel uncertain about taking that leap; that shows you're being thoughtful about your choices. It’s a big step to consider reaching out, especially when you’ve been hurt before. What might help you feel more prepared to take that step if you choose to?",
+          "therapist_use": "Exploring ambivalence: encouraged Skyler to consider what might support them in making a decision."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Skyler has not yet fully articulated evidence against their negative beliefs; client objective not met: Skyler needs to explore more examples of feeling valued.",
-          "client_utterance": "I guess there have been times when Edson has reached out, but I often brush it off as just him being polite. It’s hard for me to believe that anyone genuinely cares. I feel like my value is always in question.",
-          "therapist_utterance": "It’s understandable to feel that way, especially when past experiences have shaped your view of yourself. But it sounds like there are moments where you can see that you are valued. Can you think of a specific instance where you felt appreciated or cared for?",
-          "therapist_use": "Cognitive restructuring: guided Skyler to identify moments of feeling valued to counter negative beliefs."
+          "reason_for_ending": "KEEP: The therapist objective was not met as the discussion has not yet resulted in Skyler expressing a clearer understanding of their motivations. The client objective was not met since Skyler has not fully articulated their feelings of worthiness.",
+          "client_utterance": "I guess I need to think more about what I really want. Part of me knows I crave connection, but another part is terrified of being hurt again. I can see how my fear is holding me back, but it’s hard to shake.",
+          "therapist_utterance": "Recognizing that your fear is holding you back is an important insight. It shows that you're beginning to understand how these feelings influence your actions. If you were to step back and look at it from a different perspective, how might you view your worth in the context of reaching out to Edson?",
+          "therapist_use": "Eliciting change talk: used to help Skyler articulate their desire for connection despite their fears."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Skyler has not fully engaged with the evidence of feeling valued; client objective not met: Skyler still needs to deepen their understanding of their feelings about rejection.",
-          "client_utterance": "I remember when I helped a friend through a tough time, and they thanked me genuinely. It felt good, but it’s hard to hold onto that feeling when I’m stuck in my head. I still feel unworthy more often than not.",
-          "therapist_utterance": "That’s a significant moment to hold onto, Skyler. It shows that you can indeed make impactful connections. How might recognizing these moments influence how you approach your relationships in the future?",
-          "therapist_use": "Eliciting change talk: prompted Skyler to reflect on how positive experiences can shift their perspective on relationships."
+          "reason_for_ending": "KEEP: The therapist objective was not met since Skyler has not yet fully engaged in a discussion about their values. The client objective was not met as they still haven't expressed how they feel valued in past interactions.",
+          "client_utterance": "I think I can see where I’ve felt valued, even if it’s not easy to hold onto. Maybe I can try to remind myself of those moments as a way to counter the negative thoughts. But I still worry if it’s enough to change how I feel.",
+          "therapist_utterance": "That’s a great approach, recognizing those moments can help shift your perspective. It's about finding balance between the past hurt and the evidence of care you’ve experienced. How could you incorporate these positive memories into your decision-making process about Edson?",
+          "therapist_use": "Developing discrepancy: prompted Skyler to think about how positive memories can influence their current decisions."
         },
         {
-          "reason_for_ending": "MOVE; therapist objective met: Skyler has begun to articulate their feelings and recognize moments of value; client objective met: Skyler is showing a clearer understanding of their ambivalence and a willingness to explore change.",
-          "client_utterance": "I think if I can focus on those moments where I feel valued, it might help me take the risk to open up more. I’m not saying it’ll be easy, but maybe it’s worth trying for a change. I want to feel connected instead of just waiting for disappointment.",
-          "therapist_utterance": "That’s a wonderful realization, Skyler. Acknowledging your worth and the moments that affirm it can be a powerful step toward change. It seems like you are starting to see the potential for connection in a new light. How do you feel about taking that next step forward?",
-          "therapist_use": "Summarizing progress: reinforced Skyler’s recognition of the value in connection and readiness to move forward."
+          "reason_for_ending": "MOVE: The therapist objective was met as Skyler has expressed a clearer understanding of their ambivalence and articulated some evidence of feeling valued. The client objective was met as Skyler is gaining insights into their feelings of unworthiness and how they affect their relationships.",
+          "client_utterance": "I think I’m starting to see that maybe I can be worthy of connection. It feels scary, but I want to try to reach out to Edson and see if things can be different this time. I realize holding on to fear isn’t helping me.",
+          "therapist_utterance": "That’s a significant breakthrough, Skyler! Acknowledging your worthiness and considering reaching out to Edson is a powerful step. It shows that you're open to change and ready to explore new possibilities in your relationships.",
+          "therapist_use": "Eliciting change talk: validated Skyler's emerging insights and commitment to exploring the possibility of connection."
         }
       ]
     },
@@ -256,22 +236,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Enhance Skyler's commitment to change and readiness for action.",
+          "objective": "Strengthen Skyler's commitment to change and explore their confidence in taking actionable steps.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Skyler to articulate specific reasons why change is important to them.",
-                "Encourage Skyler to express their feelings about taking action, reinforcing any positive statements.",
-                "Help Skyler formulate a personal commitment statement to change."
+                "Ask Skyler to articulate their reasons for wanting to change and what they hope to achieve.",
+                "Encourage them to express their feelings about the upcoming changes and how they align with their values.",
+                "Reinforce their commitment by summarizing their statements and highlighting their motivations."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Inquire about Skyler's confidence in making the changes they are considering.",
-                "Use scaling questions (e.g., 'On a scale of 1 to 10, how ready do you feel to take this step?') to assess readiness.",
-                "Discuss any past successes to build confidence and strengthen motivation."
+                "Use scaling questions to assess Skyler's confidence in making changes, such as 'On a scale of 1 to 10, how ready do you feel to take the next step?'",
+                "Discuss what would help increase their confidence and readiness, emphasizing small, achievable steps.",
+                "Normalize feelings of uncertainty and explore how they can manage these feelings."
               ]
             }
           ]
@@ -279,79 +259,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Collaborate with Skyler to outline small, specific behavioral changes they are willing to undertake.",
-                "Set achievable short-term goals to help Skyler feel a sense of accomplishment.",
-                "Create a timeline for when Skyler will start taking these steps."
+                "Guide Skyler through identifying and labeling their automatic thoughts about Edson's outreach.",
+                "Facilitate a discussion to challenge those thoughts using evidence-based questioning, focusing on alternative explanations for Edson's behavior.",
+                "Help Skyler gather counter-evidence to support a more balanced perspective, reinforcing their self-worth."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Behavioral Experimentation",
               "instructions_for_therapist": [
-                "Help Skyler identify potential barriers to their action plan.",
-                "Work with Skyler to brainstorm practical solutions for these barriers.",
-                "Encourage Skyler to verbalize coping strategies they can use when faced with difficulties."
+                "Collaboratively create a small behavioral experiment where Skyler can test their assumptions about interactions with others.",
+                "Encourage them to accept Edson's invitation or reach out to someone else to practice engagement.",
+                "Discuss the outcomes and feelings after the experiment to reinforce learning and self-efficacy."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan for Skyler, I first recognized the core beliefs and emotions influencing their resistance to change, specifically feelings of unworthiness and hurt. I opted to employ Motivational Interviewing strategies to enhance their commitment, focusing on strengthening commitment language to empower Skyler in their journey. Exploring their confidence and readiness will help clarify their motivations, as well as reinforce their sense of capability. Next, I incorporated CBT interventions like action planning, which allows for collaborative goal-setting, ensuring that the steps are manageable and gradual. This approach is critical in reducing overwhelm and fostering a sense of achievement. Additionally, I included problem-solving skills training to proactively address potential barriers, which aligns with their need for coping strategies. Overall, the plan prioritizes fostering self-efficacy while gently steering Skyler toward actionable steps, considering their beginner level of resistance.",
-        "progress_marker": "Skyler articulates a clear commitment statement and outlines at least one specific action step they plan to take in the coming week."
+        "therapist_reasoning": "In working with Skyler, the aim is to enhance their motivation for change while addressing their feelings of hurt associated with Edson's outreach. I will begin by employing MI strategies to strengthen commitment language, asking Skyler to articulate their reasons for change, which helps solidify their internal motivation. Following this, I will explore their confidence and readiness through scaling questions, allowing us to identify barriers and supports collaboratively. Concurrently, I will integrate CBT techniques by guiding Skyler in cognitive restructuring, helping them identify and challenge negative automatic thoughts about their worth, using evidence-based questioning to gather counter-evidence. Additionally, I will introduce behavioral experimentation to provide practical opportunities for practice, reinforcing a sense of agency and self-efficacy. This dual approach of MI and CBT is designed to address both the motivational and cognitive aspects of Skyler's experience, accommodating their resistance by focusing on small, collaborative steps toward change.",
+        "progress_marker": "Skyler expresses a clear intention to take actionable steps and demonstrates increased confidence in their ability to engage with others."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore how I can begin to change my reaction to others and build healthier connections.",
+        "client_objective": "I hope to explore my feelings of unworthiness and find ways to connect with others without fear of rejection.",
         "client_state": {
-          "awareness": "I recognize that my feelings of unworthiness and fear of rejection are impacting my relationships and overall happiness.",
-          "motivation": "I feel a growing desire to change, as I want to connect with people instead of pushing them away.",
-          "openness": "I'm starting to be more open to discussing my feelings and considering new ways to approach situations, though I'm still hesitant.",
-          "resistance": "I experience doubts about whether I can truly change and fears about the potential for failure."
+          "awareness": "I recognize that my feelings of being unheard and unlovable are impacting my relationships and overall happiness.",
+          "motivation": "I feel a growing desire to change my situation and improve my connections with others.",
+          "openness": "I'm willing to discuss my thoughts and feelings, although I still find it hard to fully express my fears.",
+          "resistance": "I experience doubts about my ability to change and worry that my efforts may not lead to the acceptance I crave."
         },
-        "client_reasoning": "I've come to realize that my past experiences of feeling unheard have shaped how I react to others today. When I see Edson reaching out, it brings up those old feelings of being unvalued, which makes me question if I can really trust anyone. I know that my avoidance isn’t helping me, and I genuinely want to find a way to feel more connected. I hope that through therapy, I can learn to express my needs and feel deserving of love and attention. However, I still worry that I might end up feeling hurt again, and I doubt whether I can maintain any changes in the long run. But I feel a spark of hope that maybe I can start to build better relationships if I take small steps with the support of my therapist."
+        "client_reasoning": "I'm starting to see that my feelings of being unlovable and unwanted are deeply rooted in my past, especially from my childhood experiences. I realize that my avoidance tactics, like declining Edson's invitation, only reinforce my feelings of isolation. I want to break this cycle and learn how to engage more openly with others, but I still fear rejection and doubt whether I can truly change. Therapy has helped me understand these patterns better, and while I feel motivated to try, I can’t shake the feeling that I might fail or that no one will truly value me. I hope to find ways to cope that allow me to connect without the fear of getting hurt again, but there’s still a part of me that feels hesitant and afraid of what that might look like."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Skyler hasn't articulated specific reasons why change is important yet. client objective not met: Skyler hasn't outlined any specific action steps they plan to take.",
-          "client_utterance": "I really want to feel connected, but I keep thinking about how hard it’s going to be to change. I’m afraid that if I try and fail, it’ll just hurt more. It feels like every time I think about opening up, my past just pulls me back.",
-          "therapist_utterance": "It sounds like you're experiencing a lot of fear around the possibility of change, and I can see how your past experiences are weighing heavily on you. What do you think might happen if you were to take one small step toward opening up to someone? Can you think of a reason why it might be worth the risk?",
-          "therapist_use": "Exploring confidence and readiness: encouraged Skyler to consider the potential benefits of taking small steps."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not fully explore Skyler's feelings about their worth. The client's objective was not met because Skyler is still struggling with their fear of rejection.",
+          "client_utterance": "I think I want to reach out to Edson, but I still feel scared that it won't go well. It's like, part of me wants to take that step, but another part is holding me back. I can't help but worry that I’ll just end up feeling hurt again.",
+          "therapist_utterance": "It’s completely understandable to feel that way, Skyler. Taking that step towards reaching out can feel risky, especially when you're still processing those fears. What do you think would help you feel more secure in your decision to reach out?",
+          "therapist_use": "Exploring feelings: used to delve deeper into Skyler's fears and support their decision-making process."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Skyler hasn't expressed feelings about taking action yet. client objective not met: Skyler hasn't begun to outline specific action steps.",
-          "client_utterance": "I guess if I tried to open up, it could lead to understanding, but I still can’t shake the fear of being let down. I want to believe that I could find someone who really listens, but I’m not sure how to even start doing that. It's like I want to change, but part of me is still holding back.",
-          "therapist_utterance": "That hesitation is completely understandable, and it shows how much this means to you. Let’s think about what that first small step might look like. What would be one manageable action you could take in the coming week to start moving toward opening up?",
-          "therapist_use": "Action Planning: collaborating with Skyler to outline small, specific behavioral changes they are willing to undertake."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not assess Skyler's confidence to engage with others. The client's objective was not met because Skyler remains hesitant and uncertain about reaching out.",
+          "client_utterance": "I guess if I think about it, having a plan could help. Maybe I could write down what I want to say to Edson first, that way I won’t feel so overwhelmed. But I still wonder if he’ll even respond positively.",
+          "therapist_utterance": "That's a great idea, having a plan can make the process feel less daunting. Writing down your thoughts can provide clarity and help you express yourself more easily. What would you want to include in that message to Edson?",
+          "therapist_use": "Encouragement of planning: used to foster a sense of agency and preparedness in Skyler."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Skyler hasn't articulated a personal commitment statement yet. client objective not met: Skyler hasn't specified any short-term goals.",
-          "client_utterance": "I think maybe I could try reaching out to Edson and just see how he responds. It feels scary, but I guess if I allow myself to be a little vulnerable, it might help me feel more connected. I just hope it doesn’t end up making things worse.",
-          "therapist_utterance": "Reaching out sounds like a meaningful step, and acknowledging that fear shows your awareness of the potential risks. Can you tell me more about what you would say or how you might approach that conversation with Edson? What specifically do you hope to express to him?",
-          "therapist_use": "Strengthening Commitment Language: encouraging Skyler to articulate specific reasons why change is important to them."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not help Skyler articulate their motivations for reaching out. The client's objective was not met because Skyler is still unsure about their self-worth in this situation.",
+          "client_utterance": "I think I’d want to tell him how I’ve been feeling, but I still worry it might not change anything. I want to express that I’m open to reconnecting, but what if he doesn’t care? It’s just hard to shake off that fear.",
+          "therapist_utterance": "Expressing your feelings to Edson is a courageous step, and it’s okay to have those fears. It might be helpful to remind yourself of the positive moments you’ve shared, which can support your decision. How do you think he might respond to your openness?",
+          "therapist_use": "Normalizing fears: used to validate Skyler's feelings while encouraging them to consider positive possibilities."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Skyler hasn't fully expressed their feelings about taking action yet. client objective not met: Skyler hasn't established a commitment statement.",
-          "client_utterance": "I think I’d like to let him know that I’ve been feeling distant and that I want to connect more. It’s just hard to put myself out there like that, but I know that I want to change. I guess I need to remind myself that it’s okay to be vulnerable.",
-          "therapist_utterance": "That’s a brave step, and expressing your feelings is a key part of building connection. It’s okay to feel vulnerable; it’s a part of being human. How do you feel about committing to reaching out to Edson this week and sharing that with him?",
-          "therapist_use": "Exploring Confidence and Readiness: discussing Skyler's confidence in taking the action step."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not reinforce Skyler's commitment to take action. The client's objective was not met because Skyler remains conflicted about their worth and capability to reach out.",
+          "client_utterance": "I guess if I think about those moments when he did show he cared, it gives me some hope. But still, I worry that I’m setting myself up for disappointment. I don’t know if I can handle that again.",
+          "therapist_utterance": "It’s perfectly normal to feel apprehensive, especially when past disappointments linger. Remembering those moments of care can help shift your focus towards a more balanced view. What small step could you take first that feels manageable to you?",
+          "therapist_use": "Encouraging small steps: used to help Skyler identify achievable actions that move them towards engagement."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Skyler hasn't yet formulated a personal commitment statement. client objective not met: Skyler hasn't outlined any action steps with a timeline.",
-          "client_utterance": "I think I can commit to reaching out to Edson, maybe even texting him tomorrow. I just need to remind myself that I deserve to be heard. It’s just scary to think about how he might react.",
-          "therapist_utterance": "That’s a great commitment, and it shows a willingness to take that step despite the fear. Remember, you deserve to express your feelings and be heard. How can you prepare yourself for that conversation to feel more confident?",
-          "therapist_use": "Problem-Solving Skills Training: helping Skyler identify potential barriers to their action plan."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not strengthen Skyler's commitment language. The client's objective was not met because Skyler still feels reluctant to take the first step.",
+          "client_utterance": "I suppose I could start by just texting him to see how he’s doing. It feels less intimidating than pouring out all my feelings at once. But I still can’t shake the fear that he won’t care.",
+          "therapist_utterance": "That sounds like a wonderful plan! Starting small can ease the pressure and allow you to gauge his response. How does taking that initial step make you feel about your decision to reach out?",
+          "therapist_use": "Affirming small steps: used to validate Skyler's willingness to take action while reducing anxiety around reaching out."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Skyler hasn’t fully articulated a commitment statement. client objective not met: Skyler hasn't established a timeline for their action steps.",
-          "client_utterance": "I can prepare by reminding myself of the positive moments we’ve had and how he has reached out before. I think if I focus on those good memories, it might help me feel more secure in reaching out. I just want to make sure I’m ready for whatever response he has.",
-          "therapist_utterance": "That’s a solid approach, focusing on the positive memories can help alleviate some of the fear. It’s also important to remember that any response from him is valid. How about we create a timeline for when you’ll reach out, so you have a clear plan?",
-          "therapist_use": "Action Planning: collaborating on outlining a specific timeline for starting the steps."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not fully articulate Skyler's commitment to change. The client's objective was not met because Skyler still has doubts about their worthiness of connection.",
+          "client_utterance": "I feel a bit more hopeful about reaching out, but part of me still worries it won't change anything. I want to believe I deserve a connection, but it's hard to shake that old feeling of unworthiness. Maybe this step is just the beginning.",
+          "therapist_utterance": "It’s great to hear that you’re feeling a bit more hopeful! Remember, taking that first step is significant in itself, and it doesn’t have to lead to immediate answers. How would you like to remind yourself of your worth as you consider reaching out?",
+          "therapist_use": "Reinforcing worthiness: used to support Skyler in affirming their value while contemplating the next step."
         },
         {
-          "reason_for_ending": "MOVE, therapist objective met: Skyler articulated a commitment statement. client objective met: Skyler outlined a specific action step with a timeline.",
-          "client_utterance": "I commit to texting Edson tomorrow to share how I’ve been feeling. I want to open up, and I’m going to remind myself that this is a step toward what I truly want: connection. It feels empowering to think that I can do this.",
-          "therapist_utterance": "That’s a fantastic commitment, Skyler! You’re taking an important step toward building the connections you desire, and it’s inspiring to hear your empowerment. Remember, you’re not alone in this process, and I’m here to support you as you move forward.",
-          "therapist_use": "Strengthening Commitment Language: reinforced Skyler's positive statement and readiness for action."
+          "reason_for_ending": "MOVE - The therapist's objective was met as they successfully explored Skyler's readiness to engage and reinforced their commitment. The client's objective was met because Skyler expressed a clear intention to reach out, demonstrating increased confidence and willingness to take action.",
+          "client_utterance": "I think I’m ready to try reaching out to Edson. I realize that I can’t let my fear dictate my choices anymore. I want to see if things can be different this time.",
+          "therapist_utterance": "That’s a powerful realization, Skyler! Choosing to reach out despite your fears shows tremendous growth and commitment to change. I believe this step could open up new possibilities for you in your relationships.",
+          "therapist_use": "Strengthening commitment language: used to affirm Skyler's intention and reinforce their motivation for change."
         }
       ]
     }

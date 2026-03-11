@@ -12,30 +12,38 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase Ramona's awareness of her feelings and experiences without pushing for immediate change.",
+          "objective": "Increase Ramona's awareness of her thoughts and feelings regarding intimacy and vulnerability in her relationship with Ivan.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Ramona's concerns and emotions.",
-                "Reflect back her feelings, such as her fears about vulnerability and intimacy.",
-                "Validate her emotions to create a safe space for her to express herself."
+                "Listen attentively to Ramona's concerns about intimacy.",
+                "Paraphrase her feelings and fears to demonstrate understanding and validate her experience.",
+                "Encourage her to explore her thoughts further without judgment."
               ]
             },
             {
-              "strategy_name": "Expressing Empathy",
+              "strategy_name": "Express Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Ramona's past trauma and its impact on her current feelings.",
-                "Use empathetic statements to show understanding of her struggles.",
-                "Reinforce that her feelings of anxiety are common in such situations."
+                "Acknowledge Ramona's feelings of fear and anxiety as normal responses to her past trauma.",
+                "Use empathetic statements to convey support and understanding of her situation.",
+                "Reinforce that her feelings are valid and that it's okay to discuss them."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Develop Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the gap between Ramona's current feelings of fear and her deeper values around trust and intimacy.",
-                "Ask open-ended questions that encourage her to reflect on her desires for connection versus her fears.",
-                "Help her articulate her values around safety and intimacy without pressuring her to act."
+                "Help Ramona identify the gap between her current feelings of vulnerability and her desire for a trusting relationship.",
+                "Facilitate a discussion on what intimacy means to her and how it aligns with her personal values.",
+                "Encourage reflection on how her fears might be affecting her relationship with Ivan."
+              ]
+            },
+            {
+              "strategy_name": "Raise Awareness",
+              "instructions_for_therapist": [
+                "Ask open-ended questions that prompt Ramona to think about her beliefs about intimacy and relationships.",
+                "Encourage her to reflect on the positive changes she has noticed in Ivan's behavior.",
+                "Highlight any moments where she felt safe or comfortable in the relationship."
               ]
             }
           ]
@@ -43,88 +51,75 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Encourage Ramona to examine the evidence supporting her beliefs about being unlovable or powerless.",
-                "Ask her to identify specific instances that contradict these beliefs.",
-                "Guide her in recognizing moments of safety and trust in her relationship with Ivan."
-              ]
-            },
-            {
-              "technique_name": "Reality Testing",
-              "instructions_for_therapist": [
-                "Support Ramona in assessing the current reality of her relationship with Ivan.",
-                "Explore her thoughts about intimacy and whether they align with her actual experiences.",
-                "Facilitate discussions about any discrepancies in her perceptions versus the improvements she has observed."
-              ]
-            },
-            {
-              "technique_name": "Changing Rules to Wishes",
-              "instructions_for_therapist": [
-                "Invite Ramona to articulate what she wishes for in her relationship and how it contrasts with her current fears.",
-                "Encourage her to think about what rules she has set for herself that may be limiting her enjoyment of her relationship.",
-                "Help her to reframe these rules into more flexible wishes that allow for exploration of intimacy."
+                "Introduce the concept of decatastrophizing to Ramona, focusing first on her feelings of fear regarding intimacy.",
+                "Help her articulate specific fears related to being vulnerable, documenting them for further exploration.",
+                "Guide her to challenge these fears by evaluating their validity and examining evidence that contradicts her catastrophic thoughts.",
+                "Discuss the likelihood of her feared outcomes occurring and what she could do if they did happen, promoting a sense of preparedness.",
+                "Collaborate on creating a balanced perspective on intimacy, reframing her automatic thoughts to reflect a more rational outlook.",
+                "Identify coping strategies that can help her manage her anxiety when it arises, such as mindfulness techniques or open communication with Ivan.",
+                "Encourage her to practice reframing her thoughts in real-life situations, reinforcing her ability to take small steps towards vulnerability."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, I will begin by employing Motivational Interviewing strategies to build rapport with Ramona, focusing on reflective listening to ensure she feels heard and validated. I will express empathy towards her experiences of trauma, which is critical in establishing trust. By developing discrepancy, I can gently guide her to recognize the conflict between her fears and her values regarding intimacy. This approach respects her pre-contemplation status while encouraging self-reflection. Simultaneously, I will implement CBT techniques such as evidence-based questioning to help her examine the validity of her core beliefs about being powerless and unlovable. Reality testing will further assist Ramona in contrasting her fears with the positive changes she has noticed in her relationship with Ivan. Lastly, I will use the technique of changing rules to wishes to help her reframe her rigid beliefs into more flexible perspectives, thus promoting curiosity about her feelings without pushing for immediate change. This combination of MI and CBT will facilitate a supportive environment for Ramona to explore her emotions safely.",
-        "progress_marker": "Ramona begins to articulate her feelings and thoughts about vulnerability and intimacy, showing signs of increased awareness without feeling pressured to change her behavior."
+        "therapist_reasoning": "In this session, I will focus on building rapport with Ramona while gently guiding her to explore her feelings towards intimacy and vulnerability. Using reflective listening, I will validate her fears and anxieties, which will help reduce her defensiveness. By expressing empathy, I aim to create a safe space where she feels understood and supported. Developing discrepancy will be crucial in helping her recognize the conflict between her desire for intimacy and her fears stemming from past trauma. Open-ended questions will raise her awareness about her beliefs and the positive changes in her relationship with Ivan. Implementing CBT techniques, I will introduce decatastrophizing to help her articulate her fears about vulnerability. By challenging the validity of her catastrophic thoughts and exploring the likelihood of those outcomes, I will assist her in forming a more balanced perspective. This approach aligns with her intermediate resistance level, allowing her to explore her thoughts without feeling pressured to change immediately.",
+        "progress_marker": "Ramona demonstrates increased engagement in discussing her feelings and begins to articulate her fears regarding intimacy."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I want to feel safe but I’m not sure I can talk about my feelings without making things worse.",
+        "client_objective": "I hope to feel understood without having to dive too deeply into my feelings right now.",
         "client_state": {
-          "awareness": "I see that there have been some improvements in my relationship, but I'm not fully aware of how deeply the trauma still affects me.",
-          "motivation": "I want to feel better, but I also doubt that anything will really change for me.",
-          "openness": "I struggle to share my thoughts and feelings because I fear being vulnerable could lead to more pain.",
-          "resistance": "I feel a strong urge to avoid discussing the trauma as it makes me anxious and defensive."
+          "awareness": "I recognize that there are issues in my relationship, but I’m not sure how serious they are or if they really need to be addressed.",
+          "motivation": "I feel conflicted about wanting to improve things, but I doubt that change is possible or necessary.",
+          "openness": "I want to share my feelings, but I find it hard to trust that it will help me or that I won't regret it later.",
+          "resistance": "I often feel anxious about discussing the core issues because I worry it might lead to more pain or discomfort."
         },
-        "client_reasoning": "I know things with Ivan have improved since he’s been trying to be more considerate, but there's this nagging fear inside me. It’s hard to shake off the feeling that I need to be on guard all the time; if I let my walls down, it might lead to more hurt. When I think about talking about my feelings, I freeze up. I want to share, but I can't help but think that if I open up too much, it will just make everything worse. I feel so overwhelmed by my emotions, and I’m not sure what to say or how to say it. Therapy feels like a risky place for me right now; I want to feel safe, but I also feel trapped by my own thoughts and fears. It’s like I’m stuck in this loop of wanting change but feeling like it’s impossible.",
-        "progress_marker": ""
+        "client_reasoning": "I know there are problems in my relationship with Ivan, especially after everything that happened, but part of me thinks maybe I should just let it be for now. I mean, he's trying, and I don't want to ruin that by digging too deep into my feelings. When I think about talking more about it, I feel this tight knot in my stomach because I fear it’ll just make things worse. My past keeps reminding me that if I let my guard down, I could get hurt again. I want to believe that things can get better, but I often feel helpless, as if I’m just a victim of circumstances. Therapy feels like a double-edged sword; it could help me, but it also feels like opening a can of worms that I'm not ready to deal with yet. So, I just keep my thoughts to myself, hoping that maybe this will pass on its own."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ramona has not fully articulated her feelings about vulnerability. The client's objective was not met because Ramona still feels unsafe discussing her emotions.",
-          "client_utterance": "I know Ivan has been trying to be better, but I still feel this huge wall inside me. It's like I want to trust him, but I keep thinking about what happened. Talking about my feelings just feels too risky right now.",
-          "therapist_utterance": "It's understandable to feel that way, Ramona. You've been through a lot, and it's natural to have those walls up, especially when it comes to trusting someone again. It sounds like there's a part of you that wants to connect with Ivan, but another part feels afraid. Can you share more about what specifically makes you feel that way?",
-          "therapist_use": "Reflective Listening: used to validate her feelings and encourage deeper exploration."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not explore Ramona's feelings about intimacy deeply enough. Client objective not met: Ramona still feels hesitant and is not fully engaged in discussing her feelings.",
+          "client_utterance": "I've been thinking about how Ivan is trying to be more considerate, but I still feel this wall between us. I wonder if I'm just holding back too much because of what happened in the past. It's tough to let my guard down when I'm scared of feeling vulnerable again.",
+          "therapist_utterance": "It sounds like you're experiencing a lot of conflict between appreciating Ivan's efforts and feeling hesitant to let yourself be vulnerable. That wall you mentioned – it makes sense given what you've been through. Can you share more about what it feels like to think about lowering that wall?",
+          "therapist_use": "Reflective Listening: used to validate Ramona's feelings while encouraging her to explore her thoughts."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ramona has not yet recognized the discrepancy between her desire for connection and her fears. The client's objective was not met because she is still struggling to feel safe discussing her feelings.",
-          "client_utterance": "I guess I'm scared that if I let my guard down, I might get hurt again. I keep replaying the trauma in my mind, and it just makes me freeze up. I want to feel close to him, but my mind keeps telling me to stay cautious.",
-          "therapist_utterance": "It's completely valid to feel that fear, especially after what you've experienced. It seems like there's a conflict between wanting to feel safe and wanting to be close to Ivan. What would it feel like for you to take a small step towards that closeness, even with your fears present?",
-          "therapist_use": "Developing Discrepancy: used to gently explore the gap between her fears and her desire for intimacy."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not sufficiently develop the discrepancy between Ramona's desire for connection and her fear of vulnerability. Client objective not met: Ramona is still struggling to articulate her feelings about intimacy.",
+          "client_utterance": "When I think about lowering that wall, I just feel this overwhelming fear. It's like I want to trust him, but my past makes me doubt if it's worth it. I don’t want to end up hurt again, and sometimes I think it’s easier to stay guarded.",
+          "therapist_utterance": "Your fear of getting hurt again is completely understandable. It’s like you want to protect yourself while also wanting that connection with Ivan. What do you think intimacy means for you in a relationship, and how does that connect with what you want with him?",
+          "therapist_use": "Open-ended questioning: used to explore Ramona's beliefs about intimacy and encourage reflection."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ramona has not yet articulated her deeper values around trust. The client's objective was not met because she is still hesitant to explore her feelings.",
-          "client_utterance": "I don't know, it feels like a huge leap. Maybe if I could just express a little bit of what I'm feeling without going into everything, it might help. But what if it just makes things worse? That thought keeps holding me back.",
-          "therapist_utterance": "That makes sense; taking a leap can feel daunting. It's okay to start small and just share a piece of what you're feeling. What do you think you could share that feels manageable right now?",
-          "therapist_use": "Expressing Empathy: used to acknowledge her fear while promoting a safe space for sharing."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not sufficiently explore the positive changes in Ivan's behavior. Client objective not met: Ramona is still conflicted and hasn't begun to feel understood.",
+          "client_utterance": "Intimacy feels like being open and trusting, but right now, it scares me. Ivan has been making an effort, and I do appreciate that, but I can't shake off the anxiety. Sometimes, I just wish things could go back to how they were before everything happened.",
+          "therapist_utterance": "It sounds like you’re caught between wanting to go back to a time before the trauma and recognizing that Ivan is trying to improve things. That anxiety can make it hard to see the positive steps he’s taking. Can you think of a moment recently where you felt safe or comfortable with him?",
+          "therapist_use": "Encouraging reflection: used to highlight positive changes and invite Ramona to consider moments of safety."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ramona has not yet recognized the possibility of sharing her feelings. The client's objective was not met because she is still unsure about discussing her feelings safely.",
-          "client_utterance": "Maybe I could mention how I sometimes feel anxious when he tries to get close. I don't want him to feel bad, but I also don't want to hide how I feel. It just feels like I'm always walking on eggshells.",
-          "therapist_utterance": "That sounds like a very important feeling to express. It's okay to share your anxiety without making him feel blamed; it’s about sharing your experience. How do you think he might react if you opened up about that?",
-          "therapist_use": "Reality Testing: used to support her in assessing her beliefs about sharing feelings and potential outcomes."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not guide Ramona in considering how her fears might impact her relationship. Client objective not met: Ramona is still not fully open about her feelings.",
+          "client_utterance": "There was a moment when we were watching a movie together, and I felt relaxed. But then I immediately thought about how that could lead to something deeper, and I just panicked. It's like I want to enjoy those moments, but my mind keeps racing with 'what ifs.'",
+          "therapist_utterance": "That relaxation you felt is a positive sign, but I can see how those 'what ifs' rush in to disrupt it. It’s common for past experiences to influence how we feel in the present. What do you think those fears are trying to protect you from?",
+          "therapist_use": "Developing discrepancy: used to help Ramona identify the gap between her fears and her desire for connection."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ramona has not yet explored her feelings of safety. The client's objective was not met because she still feels trapped by her fears.",
-          "client_utterance": "I think he might be understanding, but there’s this nagging fear that he won't know how to handle it. What if he thinks I'm overreacting? I really don't want to push him away, but I also want to be honest.",
-          "therapist_utterance": "It’s completely natural to worry about how your honesty might affect him. It’s a balancing act between being true to yourself and wanting to protect the relationship. What do you think would help you feel more secure in expressing that honesty?",
-          "therapist_use": "Developing Discrepancy: used to explore her values around safety and honesty in her relationship."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not help Ramona articulate specific fears related to vulnerability. Client objective not met: Ramona is still not feeling fully understood or comfortable sharing.",
+          "client_utterance": "I guess I’m just scared that if I open up, I’ll end up feeling weak or like I can't handle things. The last time I was vulnerable, it hurt so much, and I don't want to go through that again. I wonder if it would just be easier to keep things as they are.",
+          "therapist_utterance": "Your concern about feeling weak when being vulnerable is very valid, especially given your past experiences. It’s understandable to want to protect yourself from further pain. What if we took a moment to discuss what those specific fears are when you think about being vulnerable with Ivan?",
+          "therapist_use": "Decatastrophizing: used to encourage Ramona to articulate her fears and begin evaluating their validity."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ramona has not yet articulated her wishes regarding intimacy. The client's objective was not met because she continues to feel overwhelmed by her fears.",
-          "client_utterance": "I wish I could just feel comfortable with him, like I used to. I want to be able to enjoy his company without feeling so tense. But right now, it feels like that’s too far out of reach.",
-          "therapist_utterance": "Wishing for comfort and connection is a really important feeling to acknowledge. It's okay to recognize how far that feels right now; it shows you're aware of what you truly value in your relationship. What might be a small step towards feeling more comfortable with him?",
-          "therapist_use": "Changing Rules to Wishes: used to help her articulate her desires and consider small steps toward intimacy."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not sufficiently support Ramona in challenging her catastrophic thoughts. Client objective not met: Ramona remains apprehensive about sharing deeper feelings.",
+          "client_utterance": "I fear that if I open up, I might reveal too much and then regret it. What if Ivan can't handle my feelings? I also worry that if I let him in, it might change everything, and I won't be able to go back.",
+          "therapist_utterance": "It’s understandable to fear that revealing too much could lead to regret, especially when trust is fragile. But what if we looked at the likelihood of those outcomes happening? Could there be a way to communicate that feels safer for you?",
+          "therapist_use": "Raising awareness: used to help Ramona evaluate the likelihood of her feared outcomes and consider alternatives."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met as Ramona has begun to articulate her feelings about vulnerability and intimacy. The client's objective was met because she is expressing her wishes for comfort and connection, showing increased awareness.",
-          "client_utterance": "I think I could try to share that I'm feeling anxious and see how he responds. It feels a bit scary, but I also want to be open with him. I guess I’m starting to see that it might not be as bad as I thought.",
-          "therapist_utterance": "That's a significant realization, Ramona! It sounds like you're starting to find a balance between your fears and your desire for connection. Taking that step to share your feelings can be a powerful move toward healing and intimacy. I'm here to support you through that process.",
-          "therapist_use": "Reflective Listening: used to validate her decision and reinforce her emerging awareness and willingness to share."
+          "reason_for_ending": "MOVE - Therapist objective met: Ramona is beginning to articulate her fears and reflect on her feelings regarding vulnerability. Client objective met: Ramona feels more understood and is engaging in discussions about her feelings.",
+          "client_utterance": "Maybe if I took small steps to share just a little at a time, it could help. I still feel anxious, but I think I can try to open up without going all in right away. It feels a bit more manageable when I think about it that way.",
+          "therapist_utterance": "That sounds like a great approach, taking small steps can really help ease the anxiety around vulnerability. It’s encouraging to hear you feel it’s more manageable. Let’s talk about what those small steps might look like for you in your relationship with Ivan.",
+          "therapist_use": "Encouraging exploration: used to support Ramona in considering manageable ways to express her feelings."
         }
       ]
     },
@@ -133,27 +128,35 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore ambivalence about change and strengthen motivation for potential behavioral shifts in the context of the relationship.",
+          "objective": "Explore Ramona's ambivalence regarding intimacy and strengthen her motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Facilitate a discussion about Ramona's mixed feelings regarding intimacy with Ivan, emphasizing her fears and hopes.",
-                "Encourage her to articulate both the reasons she might want to be closer to Ivan and the reasons she feels hesitant."
+                "Begin by asking Ramona how she feels about the improvements in her relationship with Ivan.",
+                "Encourage her to articulate both her positive feelings and her fears about intimacy.",
+                "Use reflective listening to validate her feelings and demonstrate understanding."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask open-ended questions to prompt Ramona to express her desires for change, such as her thoughts on vulnerability and intimacy.",
-                "Reflect back her statements about wanting to feel safe while also desiring connection to reinforce her motivations."
+                "Ask open-ended questions that prompt Ramona to express her desires for change, e.g., 'What would it mean for you to feel safe being vulnerable with Ivan?'",
+                "Encourage her to identify any small changes she has noticed in her emotional responses to intimacy."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussions",
+              "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Guide Ramona in weighing the pros and cons of increasing intimacy versus maintaining her current level of caution.",
-                "Use reflective listening to validate her feelings while encouraging her to consider the discrepancies between her values and current behaviors."
+                "Guide Ramona in reflecting on her core values regarding safety, trust, and intimacy.",
+                "Discuss the discrepancies between her current behavior (caution in intimacy) and her values (desire for a loving relationship)."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussion",
+              "instructions_for_therapist": [
+                "Facilitate a discussion on the pros and cons of remaining cautious versus allowing herself to be more vulnerable.",
+                "Help her weigh the potential benefits of intimacy against her fears."
               ]
             }
           ]
@@ -161,84 +164,74 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Introduce a pros and cons list to help Ramona evaluate the benefits and drawbacks of being vulnerable with Ivan.",
-                "Encourage her to reflect on her experiences and feelings about physical intimacy to facilitate insight."
-              ]
-            },
-            {
               "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Assist Ramona in identifying her catastrophic thoughts about vulnerability and explore evidence against these thoughts.",
-                "Help her reframe these thoughts by discussing past instances where vulnerability was safe."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Challenge Ramona’s automatic thoughts about being unable to trust by asking for specific evidence supporting her beliefs.",
-                "Encourage her to think of situations where trust has been restored or where Ivan has demonstrated positive changes."
+                "Introduce the concept of decatastrophizing by discussing Ramona's feelings of fear surrounding intimacy.",
+                "Explore and document her specific fears about vulnerability.",
+                "Challenge her catastrophic thoughts by questioning their validity and exploring evidence of positive changes in Ivan's behavior.",
+                "Examine the likelihood and consequences of her feared outcomes, encouraging her to consider coping strategies.",
+                "Work together to create a balanced perspective on intimacy."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, the focus is on exploring Ramona's ambivalence regarding intimacy with Ivan while reinforcing her motivation for change. I will begin with Motivational Interviewing strategies to elicit her thoughts and feelings about the situation, especially her mixed emotions about vulnerability. By acknowledging both her fears and desires, I aim to create a safe space for her to articulate her concerns. I will employ exploring ambivalence and decisional balance discussions to help her see how her current behaviors conflict with her values of connection and safety. Through CBT techniques, such as pros and cons analysis, I can help her evaluate the potential outcomes of increased intimacy, which aligns with her desire for a deeper relationship with Ivan. Additionally, decatastrophizing and evidence-based questioning will help challenge her unhelpful thoughts about trust and control, fostering a sense of empowerment. This collaborative approach respects her resistance while guiding her toward reflection and insight about her relationship dynamics.",
-        "progress_marker": "Client demonstrates increased willingness to discuss fears related to intimacy and begins to identify personal values that conflict with her current behavior."
+        "therapist_reasoning": "In planning this therapy session, I first recognized Ramona's ambivalence about intimacy due to her trauma history. This calls for Motivational Interviewing (MI) strategies to explore her feelings and strengthen her motivation for change. I started with exploring ambivalence, encouraging her to express both her fears and positive feelings about Ivan's improvements. Eliciting change talk is crucial, prompting her to articulate her desires for vulnerability. Developing discrepancy aids in highlighting the gap between her current cautious behavior and her values of trust and intimacy. Finally, a decisional balance discussion will allow her to weigh the pros and cons of her cautious approach versus the potential benefits of vulnerability. Complementing this with Cognitive Behavioral Therapy (CBT) interventions, I will guide her through the decatastrophizing process, helping her identify and challenge her catastrophic thoughts about intimacy. This dual approach respects her resistance profile by facilitating exploration rather than pushing for action, creating a collaborative and supportive environment for reflection and insight.",
+        "progress_marker": "Ramona expresses a greater understanding of her fears and articulates at least one positive change she has noticed in her relationship, indicating increased motivation for exploring vulnerability."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
         "client_objective": "I hope to explore my feelings about intimacy and trust in my relationship with Ivan.",
         "client_state": {
-          "awareness": "I am starting to see that my fears about intimacy and vulnerability are tied to my past trauma and my core beliefs about being helpless and unlovable.",
-          "motivation": "I want to believe that change is possible, especially since Ivan is trying to be more considerate, but I'm torn between wanting to feel safe and wanting to connect.",
-          "openness": "I feel a bit hesitant to share too much with my therapist; I want to talk about my fears, but I worry that it might complicate things or make me feel worse.",
-          "resistance": "I often find myself resisting the idea of fully embracing intimacy because I still feel anxious about being hurt again."
+          "awareness": "I'm starting to recognize that my fear of vulnerability is tied to my past trauma and current relationship dynamics.",
+          "motivation": "I want to feel closer to Ivan, but I'm unsure if I can trust him completely yet.",
+          "openness": "I'm willing to discuss my feelings, but I still hold back because I'm scared of the consequences.",
+          "resistance": "I often feel anxious about opening up, worried that it could lead to more pain."
         },
-        "client_reasoning": "I'm beginning to understand that my fears around intimacy with Ivan are deeply rooted in my past trauma. I notice that even when things seem to improve, like Ivan's efforts to be more considerate, I feel this overwhelming anxiety that makes me want to pull back. I know I want to change and be able to enjoy our relationship, but there's this nagging voice telling me that if I let my guard down, I might get hurt again. It's frustrating because I can see the potential for healing, yet I feel stuck in this cycle of fear and doubt. When I talk to my therapist, I find myself reflecting on my beliefs about being helpless and unlovable, but I still hesitate to fully open up. I want to share my feelings, but I can't help but think that doing so might make everything worse instead of better."
+        "client_reasoning": "I find myself in this confusing place where I can see that some things are improving with Ivan, yet I feel this heavy weight of fear whenever I think about being vulnerable again. I'm starting to understand that my anxiety comes from my past experiences, and it makes me question if I can truly let my guard down. I want to explore these feelings and see if I can allow myself to connect with him on a deeper level, but I can't shake the thought that things could go wrong, just like they did before. Therapy is helping me reflect on these patterns, but part of me is still hesitant, fearing that if I share too much, it might ruin what little progress we've made. It's like I'm caught between wanting to move forward and being paralyzed by my past.",
+        "progress_marker": "Client begins to identify specific fears and anxieties related to vulnerability and intimacy."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the therapist did not fully explore Ramona's feelings about vulnerability. Client objective not met as Ramona is still hesitant to articulate her concerns about intimacy.",
-          "client_utterance": "I'm still feeling a bit conflicted. Part of me really wants to be closer to Ivan, especially since he's making an effort, but I can't shake off the fear that something bad could happen if I let my guard down. It's like I want to connect, but my past keeps pulling me back.",
-          "therapist_utterance": "It sounds like you're caught between that desire for connection and the fear rooted in your past experiences. It's completely understandable to feel that way. Can you tell me more about what specifically worries you when you think about being vulnerable with him?",
-          "therapist_use": "Open-ended question: Encouraged Ramona to explore her fears about vulnerability."
+          "reason_for_ending": "KEEP: Therapist objective was not met as the exploration of Ramona's feelings about intimacy needs more depth. Client objective was not met because Ramona is still holding back on discussing her fears.",
+          "client_utterance": "I've been thinking about those small steps we talked about. I guess I can try sharing a bit more, but I still feel this tight knot in my stomach when I think about it. What if I share and it just makes things worse between us?",
+          "therapist_utterance": "It's understandable to feel that knot in your stomach when contemplating sharing more. It sounds like you're still weighing the risks of being vulnerable. Can you tell me more about what makes you feel that sharing could lead to things getting worse?",
+          "therapist_use": "Open-ended questioning: aimed at encouraging Ramona to articulate her concerns about sharing."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the therapist hasn't yet helped Ramona weigh the pros and cons of intimacy. Client objective not met since Ramona is still expressing mixed feelings without clarity.",
-          "client_utterance": "I guess I'm worried that if I let him in, I might end up feeling exposed or even hurt again. It's hard to trust that he really understands what I've been through. Sometimes I think about how safe it feels to keep my distance.",
-          "therapist_utterance": "Those fears are valid, Ramona. It sounds like keeping your distance feels safer, but at the same time, it might make you feel more alone. What do you think are the potential benefits of letting him in a little more?",
-          "therapist_use": "Decisional balance discussion: Prompted Ramona to consider the benefits of vulnerability."
+          "reason_for_ending": "KEEP: Therapist objective was not met as Ramona hasn't fully articulated her fears about sharing. Client objective was not met because she's still hesitant and hasn't explored her feelings deeply enough.",
+          "client_utterance": "I just worry that if I open up, Ivan might not know how to handle my feelings. I feel like I would be laying out a lot for him to take in, and what if he can't support me? It's scary to think of being so exposed.",
+          "therapist_utterance": "That's a valid fear, feeling exposed can make the idea of vulnerability seem daunting. It’s important that you feel safe in sharing your feelings. What do you think would help Ivan understand you better if you decide to share something?",
+          "therapist_use": "Reflective listening: validating Ramona's fears and encouraging her to think about communication strategies."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the therapist needs to facilitate a deeper exploration of Ramona's thoughts on connection. Client objective not met as Ramona hasn't articulated her values related to intimacy yet.",
-          "client_utterance": "I suppose if I let him in, I could feel more connected and maybe even happier. But I also think about how it could go wrong, and that holds me back. It's like I'm in this tug-of-war between wanting to be happy and fearing what might happen.",
-          "therapist_utterance": "That tug-of-war is a powerful metaphor for what you're experiencing. You're weighing the potential joy of connection against the fear of pain, and that’s completely normal. How do those feelings of wanting happiness and fearing hurt align with your values in this relationship?",
-          "therapist_use": "Reflective listening: Validated Ramona's feelings while encouraging her to connect them to her values."
+          "reason_for_ending": "KEEP: Therapist objective was not met as Ramona hasn't identified any supportive strategies for sharing her feelings. Client objective was not met because she hasn’t yet articulated any small changes she could make.",
+          "client_utterance": "I suppose if I started with something simple, like sharing a minor worry or a thought I had, it could help. But even small things feel big when I think about how Ivan might react. I guess I just wish I could feel more certain about it.",
+          "therapist_utterance": "Starting with something simple sounds like a good strategy. It can ease both your anxiety and allow Ivan to respond without feeling overwhelmed. What specific minor worry or thought do you feel comfortable sharing first?",
+          "therapist_use": "Eliciting change talk: encouraging Ramona to connect her thoughts with actionable steps."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the therapist hasn't prompted Ramona to reflect on past positive experiences. Client objective not met as Ramona has not yet identified any prior moments of trust.",
-          "client_utterance": "I know there have been times when we've shared good moments, and I've felt safe, but those memories often get overshadowed by the bad ones. I just don’t know if I can trust those good feelings anymore. It's frustrating because I want to believe in our happier times.",
-          "therapist_utterance": "It’s understandable to feel frustrated; those negative experiences can overshadow the positive ones. Can you think of any specific moments when you felt safe with him, despite your fears? Reflecting on those can sometimes help us see that trust isn’t always lost.",
-          "therapist_use": "Evidence-based questioning: Encouraged Ramona to recall positive experiences that could help challenge her fears."
+          "reason_for_ending": "KEEP: Therapist objective was not met as Ramona has not yet committed to specific actions. Client objective was not met because she is still feeling uncertain about sharing.",
+          "client_utterance": "Maybe I could mention how I felt during that movie night, that moment when I was relaxed. But I still feel like I might overthink it when the time comes. I just don’t want to ruin what we have right now.",
+          "therapist_utterance": "That sounds like a great first step. Sharing that moment could open up a deeper conversation without overwhelming you or Ivan. What do you think you might feel if you share that experience with him?",
+          "therapist_use": "Decisional balance discussion: helping Ramona weigh the pros and cons of sharing her feelings."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the therapist hasn't yet explored the evidence against Ramona's fears. Client objective not met as Ramona hasn't fully articulated her insights about trust.",
-          "client_utterance": "I remember a time when he surprised me with a thoughtful gesture, and it made me feel cared for. But then I think about how that doesn't erase the past. I feel like I'm stuck in this cycle of remembering the hurt more than the good.",
-          "therapist_utterance": "That thoughtful gesture sounds significant and shows that he can be caring and attentive. It’s important to recognize that moments of kindness can coexist with your fears. What do you think could help you focus more on those positive experiences when you feel overwhelmed?",
-          "therapist_use": "Reflective listening: Helped Ramona to see the coexistence of positive and negative experiences."
+          "reason_for_ending": "KEEP: Therapist objective was not met as Ramona needs to reflect on her feelings about sharing the movie night experience. Client objective was not met because she still seems unsure of the outcomes.",
+          "client_utterance": "I think I might feel relieved if I share, but there's also that fear of vulnerability creeping up again. I guess it could be a small win, but I just worry about how he might react. What if it's too much for him?",
+          "therapist_utterance": "It’s completely natural to feel both relief and fear about sharing. Remember, it’s about taking small steps and seeing how Ivan responds. How do you think he might react to hearing about a positive moment like that?",
+          "therapist_use": "Exploring ambivalence: encouraging Ramona to reflect on potential positive outcomes of sharing."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the therapist has not yet fully guided Ramona in developing coping strategies for her anxiety. Client objective not met since Ramona has not determined how to manage her feelings of overwhelm.",
-          "client_utterance": "I guess if I could remind myself of those good moments, it might help calm my fears. But I still find it hard to trust that everything will be okay. I want to believe that I can be happy again without the anxiety ruining it.",
-          "therapist_utterance": "That’s a great insight, Ramona. Finding a way to ground yourself in those positive moments might be a helpful strategy when anxiety creeps in. How do you think you could remind yourself of those good experiences when you're feeling anxious?",
-          "therapist_use": "Encouragement: Supported Ramona in exploring strategies to manage her anxiety through positive memories."
+          "reason_for_ending": "KEEP: Therapist objective was not met as Ramona is still uncertain about Ivan's reaction. Client objective was not met because she is still caught between her fears and desires.",
+          "client_utterance": "I guess he might appreciate my honesty, but what if that honesty leads to him feeling overwhelmed? I really want to connect with him, but my mind keeps jumping to the worst-case scenarios. It's frustrating.",
+          "therapist_utterance": "It’s understandable to feel frustrated when your mind races to the worst-case scenarios. Let’s take a moment to identify those worst-case thoughts so we can challenge them together. What specific thoughts come to mind when you think about being honest with him?",
+          "therapist_use": "Decatastrophizing: helping Ramona identify and challenge her catastrophic thoughts."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as they explored Ramona's ambivalence about intimacy and helped her articulate her feelings. Client objective met since Ramona expressed a desire to work through her fears and seek connection.",
-          "client_utterance": "I think I can try to focus more on those good memories and use them to remind myself that not everything is bad. I want to start being more open with Ivan about how I feel, even if it’s scary. Maybe if I take small steps, it won’t feel so overwhelming.",
-          "therapist_utterance": "That sounds like a wonderful plan, Ramona. Taking those small steps can allow you to gradually build trust and connection without feeling overwhelmed. I'm really proud of you for wanting to embrace that vulnerability while being mindful of your feelings.",
-          "therapist_use": "Affirmation: Reinforced Ramona's commitment to take small steps toward openness and connection."
+          "reason_for_ending": "MOVE: Therapist objective was met as Ramona is beginning to identify her fears and challenge them. Client objective was met because Ramona has articulated her desire to connect and is recognizing her feelings about intimacy.",
+          "client_utterance": "I think if I can just focus on sharing one positive thing, it could help me ease into it. I feel like I’m starting to see that being vulnerable doesn’t have to mean losing control. I want to try, even if it’s scary.",
+          "therapist_utterance": "That’s a significant realization, Ramona! Focusing on one positive thing can indeed make vulnerability feel more manageable. I'm proud of you for recognizing the potential for connection despite the fear. Let’s plan how you can approach sharing that moment with Ivan.",
+          "therapist_use": "Developing discrepancy: highlighting the progress in Ramona's understanding of vulnerability and her willingness to explore it."
         }
       ]
     },
@@ -247,22 +240,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Ramona's commitment to change and explore her readiness for behavioral changes in her relationship with Ivan.",
+          "objective": "To strengthen Ramona's commitment to change and enhance her confidence in navigating intimacy with Ivan.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Ramona to articulate her reasons for wanting to engage in physical intimacy with Ivan.",
-                "Ask open-ended questions to elicit her feelings about the changes she's experiencing in the relationship.",
-                "Reinforce her commitment by summarizing her expressed motivations for change."
+                "Encourage Ramona to verbalize her intentions for change, such as expressing her desire to feel more comfortable with intimacy.",
+                "Help her articulate specific steps she is willing to take, reinforcing her commitment to these actions."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess her confidence in initiating intimacy with Ivan.",
-                "Discuss past successes in her relationship to build her confidence.",
-                "Explore any ambivalence she may feel towards intimacy and help her articulate that."
+                "Ask Ramona how confident she feels about taking the next steps towards vulnerability in her relationship.",
+                "Explore any specific barriers she perceives and discuss ways to overcome them, reinforcing her belief in her ability to manage these challenges."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Discuss the types of support Ramona may need from her environment, including friends, family, or support groups.",
+                "Encourage her to identify positive influences in her life that can help reinforce her motivation to change."
               ]
             }
           ]
@@ -270,79 +268,71 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Collaboratively design a low-risk exposure scenario where Ramona can practice initiating physical intimacy in a controlled and safe environment.",
-                "Discuss potential outcomes and feelings she may experience during the experiment.",
-                "Plan a follow-up session to review her feelings and experiences during the behavior experiment."
-              ]
-            },
-            {
-              "technique_name": "Action Planning",
-              "instructions_for_therapist": [
-                "Help Ramona create a specific, step-by-step action plan for increasing physical intimacy with Ivan, ensuring it's gradual and manageable.",
-                "Identify potential barriers she may face in this process and collaboratively brainstorm coping strategies.",
-                "Set short-term goals to ensure she feels a sense of achievement as she progresses."
+                "Guide Ramona in identifying specific fears related to intimacy and write them down for examination.",
+                "Challenge her catastrophic thoughts by evaluating the evidence for her fears and discussing positive changes in Ivan's behavior.",
+                "Discuss the likelihood of her feared outcomes and create a balanced perspective on vulnerability and intimacy."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To support Ramona in the Preparation phase, I will first utilize MI strategies to strengthen her commitment to change. I will encourage her to express her motivations for intimacy with Ivan and help her articulate her emotions around these changes, which may reinforce her commitment. Scaling questions will help gauge her confidence and readiness, allowing me to address any ambivalence. Next, I will apply CBT techniques, specifically a behavior experiment, to expose her gradually to initiating physical intimacy. This is essential for her to experience success in a controlled manner, reducing anxiety. Additionally, I will implement action planning to create structured, achievable steps for increasing intimacy while identifying barriers. This plan will be collaborative to ensure Ramona feels empowered and supported. By combining MI and CBT, I aim to enhance her self-efficacy and prepare her effectively for behavioral changes.",
-        "progress_marker": "Ramona will report increased confidence in initiating intimacy and outline specific steps she plans to take in the next session."
+        "therapist_reasoning": "To support Ramona in her Preparation phase, I will utilize motivational interviewing techniques to enhance her commitment and readiness for change. First, I will focus on strengthening her commitment language by asking her to express her intentions regarding intimacy with Ivan, which helps to solidify her motivation. Next, I will explore her confidence levels by discussing barriers she perceives, allowing us to strategize overcoming these obstacles collaboratively. This aligns with her intermediate belief that she must be vigilant to prevent harm. Additionally, I will encourage her to identify support systems that can bolster her motivation. Simultaneously, I will implement CBT interventions, specifically decatastrophizing, to address her automatic thoughts of fear and anxiety. By guiding her through identifying and challenging her catastrophic thinking, we can formulate a balanced perspective that allows her to view vulnerability as a manageable risk. Together, these approaches aim to empower Ramona to take tangible steps toward improving intimacy in a safe and supported manner.",
+        "progress_marker": "Ramona will create a specific action plan outlining steps she will take to engage in gradual intimacy with Ivan, while identifying at least one support resource to help her through this process."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to gain clarity on my feelings regarding intimacy and explore ways to navigate my fears while rebuilding trust with Ivan.",
+        "client_objective": "I hope to explore my feelings about intimacy and develop a plan to feel safer in my relationship with Ivan.",
         "client_state": {
-          "awareness": "I recognize that my relationship with Ivan has improved, but my past trauma still affects my ability to be fully present and vulnerable.",
-          "motivation": "I feel a strong desire to work through my fears and rebuild intimacy, knowing that it could lead to a healthier relationship.",
-          "openness": "I am beginning to feel more open to discussing my feelings with my therapist, even though I still hold back at times out of fear.",
-          "resistance": "I experience significant hesitation about sharing my thoughts, worried that being too vulnerable might lead to more pain."
+          "awareness": "I recognize that my relationship with Ivan is improving, but my past trauma still influences my ability to be vulnerable.",
+          "motivation": "I feel a strong desire to rebuild intimacy in my relationship, but I'm also scared about the possibility of being hurt again.",
+          "openness": "I want to share my thoughts and feelings, but I worry that being too open might lead to conflict or misunderstandings.",
+          "resistance": "I still feel a lot of anxiety about discussing my fears and doubts, which sometimes makes me hesitate to fully engage in therapy."
         },
-        "client_reasoning": "I’ve come to realize that my relationship with Ivan has changed for the better, and it's important for me to acknowledge that. I feel motivated to explore intimacy again, even though the thought terrifies me. I want to believe that I can be vulnerable without being hurt, but I still carry this fear that if I let my guard down, things could spiral out of control. Therapy has been a safe space for me to reflect on these feelings, and I see that I can start to take small steps toward change. I wish to understand how to balance my need for control with the desire for connection. My hopes are growing, yet I still feel the weight of my past trauma lurking in the background, reminding me of the risks involved."
+        "client_reasoning": "I’ve started to realize that things between Ivan and me are changing for the better. He’s trying to be more considerate, and I can see that there’s a chance for us to rebuild our intimacy. I know that I need to be vulnerable to truly reconnect, but I feel this overwhelming fear of being hurt again. The past trauma lingers in my mind, making me question whether I can trust him fully. I want to talk about how I feel, but there’s this voice in my head telling me that sharing too much might just complicate things. Therapy has helped me see that change is possible, and I’m beginning to believe that I can take small steps towards feeling safer and more in control. I hope that by discussing my feelings, I can find a way to embrace intimacy without losing myself in the process."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective to strengthen Ramona's commitment to change was not fully met as she still expresses significant fears. The client's objective to gain clarity on her feelings regarding intimacy and explore ways to navigate fears is not fully met as she remains hesitant.",
-          "client_utterance": "I know I want to be closer to Ivan, but I still feel so scared about being vulnerable. There are moments when I think, 'What if I let him in and it all goes wrong again?' It's hard to shake off that fear, even though I see him trying.",
-          "therapist_utterance": "It's completely understandable to have those fears, especially when you've been working hard to rebuild trust. It sounds like you want to move forward but feel stuck because of your past experiences. How might you express those fears to Ivan in a way that feels safe for you?",
-          "therapist_use": "Open-ended question: Encouraging exploration of her feelings and how to communicate them."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not strengthen Ramona's commitment language. Client objective not met: Ramona did not articulate specific steps for intimacy.",
+          "client_utterance": "I keep thinking about that moment during the movie night, and I want to share it with Ivan. But part of me worries that even sharing something positive might lead to him feeling overwhelmed. I guess I'm still unsure about how to approach it.",
+          "therapist_utterance": "It’s completely normal to feel uncertain about how to share your feelings, especially when it comes to something as significant as intimacy. How do you think you could frame that experience to make it feel more comfortable for both you and Ivan? Perhaps focusing on how relaxed you felt could be a good start.",
+          "therapist_use": "Exploring confidence and readiness: to help Ramona articulate a potential approach to sharing."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to help Ramona articulate her feelings about intimacy was not fully met as she is still struggling to find the right words. The client's objective to explore ways to navigate her fears while rebuilding trust with Ivan is not fully met as she remains conflicted.",
-          "client_utterance": "I think I could tell him that I'm feeling anxious about being close, but I worry about how he’ll react. What if he thinks I'm overreacting or gets frustrated? I want to be honest, but that fear keeps holding me back.",
-          "therapist_utterance": "Your concerns about how he might react are valid, and it's important to consider your feelings too. It might help to frame it as sharing your experience rather than placing blame. What if you practiced how to phrase it so you feel more prepared?",
-          "therapist_use": "Reflective listening: Validating her concerns while guiding her towards a constructive approach to communication."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not identify specific supports for Ramona. Client objective not met: Ramona did not express her needs for support during this process.",
+          "client_utterance": "I like the idea of focusing on how relaxed I felt. Maybe I could even tell him that I appreciated his company in that moment. I just wish I had someone to talk to about my feelings before sharing with him, someone who gets it.",
+          "therapist_utterance": "Having someone to talk to can be really beneficial, especially as you navigate these feelings. Are there friends or family members you feel comfortable reaching out to for support? It might help to practice sharing your thoughts with someone you trust before talking with Ivan.",
+          "therapist_use": "Identifying supports and resources: to encourage Ramona to find external support as she prepares to be vulnerable."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to reinforce Ramona's commitment by summarizing her motivations for change was not fully met as she still expresses significant hesitation. The client's objective to gain clarity on her feelings regarding intimacy is not fully met as she continues to struggle with fear.",
-          "client_utterance": "Practicing how to phrase it might help, but I still can’t shake the thought that he might not understand. I want to believe he can handle my feelings, but there’s always that nagging doubt. It's like I want to connect but fear that it could all come crashing down.",
-          "therapist_utterance": "It's clear that you're in a tough spot between wanting connection and fearing the fallout of vulnerability. Acknowledging that conflict can be the first step toward managing it. What would it feel like to take a small step, like sharing just a bit of your anxiety with him?",
-          "therapist_use": "Scaling question: Assessing her readiness for taking small steps while addressing her fears."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not reinforce Ramona's commitment to share her feelings. Client objective not met: Ramona did not create a specific action plan for sharing.",
+          "client_utterance": "I think I could talk to my sister about it. She knows about what happened and has been supportive. But I still feel nervous about actually telling Ivan how I felt during that movie night.",
+          "therapist_utterance": "It's great that you have your sister as a support. Talking to her can provide you with some reassurance and maybe even help you feel more prepared for your conversation with Ivan. What do you think you might say to her about your feelings?",
+          "therapist_use": "Exploring confidence and readiness: to encourage Ramona to practice sharing her feelings in a safe environment."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to explore her confidence in initiating intimacy was not fully met as Ramona remains hesitant about taking that step. The client's objective to explore ways to navigate her fears is not fully met as she still feels stuck.",
-          "client_utterance": "I guess taking a small step could be manageable, but it’s still scary. I think I could start by just telling him that I feel anxious when he gets close. But what if he doesn’t know how to respond?",
-          "therapist_utterance": "Starting with a small step sounds like a good approach, and it's okay to express your anxiety. You might find that he appreciates your honesty and is willing to support you. How do you think you can prepare for that conversation?",
-          "therapist_use": "Behavioral experiment planning: Encouraging her to think through a manageable step to ease into vulnerability."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not enhance Ramona's commitment to specific steps. Client objective not met: Ramona did not outline her intentions or next steps.",
+          "client_utterance": "I could tell my sister about the positive moment and how it made me feel. Maybe that could help me feel more confident about sharing with Ivan. I still worry though, what if things go wrong?",
+          "therapist_utterance": "It's perfectly natural to worry about potential outcomes. But remember, taking that first step, like talking to your sister, can help you feel more secure. How about we outline some specific steps you could take after talking with her to feel ready for Ivan?",
+          "therapist_use": "Strengthening Commitment Language: to help Ramona articulate specific steps to enhance her commitment to sharing."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to collaboratively design a low-risk exposure scenario was not fully met as Ramona still feels uncertain. The client's objective to gain clarity on her feelings regarding intimacy is not fully met as she continues to wrestle with her fears.",
-          "client_utterance": "I could maybe write down what I want to say first; that might help me feel more prepared. But even thinking about it makes my heart race. I want to be open, but the anxiety is so overwhelming.",
-          "therapist_utterance": "Writing it down is a great strategy to help organize your thoughts and ease those feelings of anxiety. It can give you a sense of control over the conversation. What are some specific things you want to include in that note?",
-          "therapist_use": "Action planning: Helping her create a structured approach to expressing her feelings."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not facilitate a clear action plan for Ramona. Client objective not met: Ramona did not express a complete plan for engagement with Ivan.",
+          "client_utterance": "I could talk to my sister about how I felt and maybe ask her for advice on how to approach Ivan. After that, I guess I could practice saying it out loud. But I still feel a lot of anxiety about the actual conversation.",
+          "therapist_utterance": "Practicing out loud is a great way to reduce anxiety. It can help you organize your thoughts and feel more prepared. Can we outline what you might say to Ivan after you talk with your sister?",
+          "therapist_use": "Identifying supports and resources: to help Ramona create a supportive plan for her conversation with Ivan."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to help Ramona create a specific action plan was not fully met as she still feels anxious about the conversation. The client's objective to explore ways to navigate her fears is not fully met as she continues to feel overwhelmed.",
-          "client_utterance": "I think I’d want to include how much I appreciate his efforts, but also how hard it is for me. I want him to know I’m trying, but I fear it won’t be enough. It just feels like such a huge risk.",
-          "therapist_utterance": "It’s commendable that you want to communicate your appreciation while being honest about your struggles. Acknowledging both can create a deeper connection. How might you express that risk in a way that feels manageable for you?",
-          "therapist_use": "Double-sided reflection: Validating her feelings while helping her articulate her experience."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not finalize a clear commitment from Ramona. Client objective not met: Ramona did not create a detailed action plan.",
+          "client_utterance": "I think after I talk to my sister, I could tell Ivan, 'I really enjoyed our movie night and felt relaxed.' That might be a good way to start. But I'm still scared of his reaction.",
+          "therapist_utterance": "That sounds like a solid opening. Sharing that positive experience can set a reassuring tone for the conversation. Remember, it's okay to feel scared, but you are taking important steps to express your feelings. What do you think you’ll need from Ivan in response to feel supported?",
+          "therapist_use": "Exploring confidence and readiness: to deepen Ramona's understanding of her needs during the conversation."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective to reinforce her commitment and help her articulate her motivations for change was met as she is actively planning how to communicate with Ivan. The client's objective to gain clarity on her feelings regarding intimacy and navigate her fears is met as she expresses a desire to move forward with a plan.",
-          "client_utterance": "I feel like I’m starting to see a path forward. Writing it down and preparing to share my feelings feels like a step in the right direction. I’m still scared, but I want to try.",
-          "therapist_utterance": "That's a significant breakthrough, Ramona! It sounds like you're ready to take those steps toward openness with Ivan, and that's truly courageous. Remember, each small step you take can lead to greater connections and healing.",
-          "therapist_use": "Summarization: Reinforcing her progress and commitment to taking action."
+          "reason_for_ending": "MOVE - Therapist objective met: Strengthened Ramona's commitment to share her feelings. Client objective met: Ramona created a specific action plan for engagement with Ivan.",
+          "client_utterance": "I realize that if I can share that moment, it could really help us reconnect. I think I'm ready to take that step after I talk to my sister. I just need to remind myself that it's okay to be vulnerable.",
+          "therapist_utterance": "That’s a wonderful realization, Ramona! Embracing vulnerability can lead to deeper connections. I'm proud of you for outlining your steps and recognizing the importance of this moment. You're on the path to rebuilding that intimacy with Ivan.",
+          "therapist_use": "Strengthening Commitment Language: to reinforce Ramona's intention to share her feelings and take action."
         }
       ]
     }

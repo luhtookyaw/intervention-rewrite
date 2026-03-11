@@ -12,34 +12,29 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase awareness of Morgan's thoughts and feelings regarding their work environment and self-perception.",
+          "objective": "To build rapport and increase awareness of the client's thoughts, emotions, and behavior patterns without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Morgan's expressions of concern and validate their feelings.",
-                "Reflect back Morgan's statements to help them feel heard and understood, especially regarding their fears about coworkers' perceptions."
+                "Listen actively to Morgan's concerns about their coworkers and recurring nightmares.",
+                "Reflect back what Morgan shares to show understanding and validate their feelings.",
+                "Use phrases like 'It sounds like you feel that your coworkers think negatively of you,' to promote a safe space for sharing."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge the pressure Morgan feels from their past experiences and current job expectations.",
-                "Use empathetic statements to convey understanding of their feelings of inadequacy and fear."
+                "Acknowledge the pressure Morgan feels from both the work environment and personal history.",
+                "Utilize empathetic statements such as, 'It seems like the expectations you’ve experienced are weighing heavily on you.'",
+                "Create a non-judgmental atmosphere where Morgan feels comfortable exploring their feelings."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently encourage Morgan to explore the contrast between their perceptions of themselves and their values.",
-                "Ask questions that prompt Morgan to reflect on whether their current beliefs align with their deeper values and desires."
-              ]
-            },
-            {
-              "strategy_name": "Raising Awareness",
-              "instructions_for_therapist": [
-                "Facilitate discussions that help Morgan recognize patterns in their thoughts and emotions.",
-                "Encourage curiosity about the origins of these thoughts and how they impact their feelings and behaviors."
+                "Encourage Morgan to articulate their personal values and how they may conflict with their current feelings of being perceived as a failure.",
+                "Ask questions that elicit their thoughts on what they really want versus their current state, such as 'How do you feel about how you are viewed at work compared to how you want to be seen?'"
               ]
             }
           ]
@@ -47,98 +42,80 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Explore Automatic Thoughts",
               "instructions_for_therapist": [
-                "Ask Morgan to provide evidence for their belief that coworkers think negatively about them.",
-                "Encourage them to consider alternative explanations for their coworkers' behaviors."
+                "Engage Morgan in discussing the automatic thought, 'My coworkers all think horrible things about me.'",
+                "Guide them to identify how this thought impacts their emotions and behavior.",
+                "Encourage them to express their feelings related to this thought, fostering self-awareness."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Gather Evidence",
               "instructions_for_therapist": [
-                "Guide Morgan in evaluating the truth of their automatic thoughts regarding coworker opinions.",
-                "Help them identify instances when their beliefs were proven wrong."
-              ]
-            },
-            {
-              "technique_name": "Alternative Perspective",
-              "instructions_for_therapist": [
-                "Encourage Morgan to think about how they would view a friend in a similar situation.",
-                "Invite them to consider how their friend might interpret the same interactions differently."
-              ]
-            },
-            {
-              "technique_name": "Continuum Technique",
-              "instructions_for_therapist": [
-                "Ask Morgan to rate their feelings of being perceived as a failure on a scale from 1 to 10.",
-                "Discuss the specific reasons for their rating and explore where they might fall on that continuum."
-              ]
-            },
-            {
-              "technique_name": "Changing Rules to Wishes",
-              "instructions_for_therapist": [
-                "Help Morgan reframe their beliefs by turning negative thoughts into positive aspirations.",
-                "For example, discuss what it would look like if they believed they were competent and lovable."
+                "Facilitate a discussion where Morgan can list specific interactions with coworkers that challenge their negative beliefs.",
+                "Ask guiding questions, such as 'What evidence do you have that supports this belief?' and 'What evidence contradicts this thought?'",
+                "Encourage Morgan to reflect on these interactions without pushing for immediate conclusions."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Morgan, the focus is on building a trusting therapeutic relationship and fostering awareness without pushing for change, given their pre-contemplation stage. I will employ reflective listening to validate Morgan's feelings and express empathy regarding their experiences of pressure and fear of failure. By developing discrepancy, I aim to help them explore the differences between their negative self-perception and their core values, which may prompt reflection. Using MI strategies, I will raise awareness of their thought patterns while avoiding confrontation. For the CBT component, evidence-based questioning will be crucial in helping Morgan challenge their automatic thoughts about coworkers. Reality testing will allow them to evaluate the validity of their beliefs, while the alternative perspective technique encourages them to view their situation more compassionately. The continuum technique will provide a framework for Morgan to assess their feelings more nuancedly. Lastly, changing rules to wishes will help shift their mindset from negative beliefs to more hopeful aspirations. This structured plan respects their current resistance while promoting deeper self-exploration.",
-        "progress_marker": "Morgan begins to identify and articulate their thoughts and feelings about their self-worth and relationships with coworkers."
+        "therapist_reasoning": "In this phase, Morgan is exhibiting signs of defensiveness and pessimism, which necessitates a gentle approach. I will employ reflective listening to validate their feelings about their coworkers and their perceived failures, thus establishing rapport. Expressing empathy is crucial for creating a safe space for Morgan to share their experiences without judgment, which aligns with MI principles. By developing discrepancy, I aim to encourage Morgan to reflect on their values and the incongruence with their current feelings, fostering self-awareness. In parallel, I will introduce CBT techniques by exploring automatic thoughts related to their nightmares and workplace anxieties, guiding Morgan to articulate these thoughts and their emotional impact. Gathering evidence will help challenge Morgan's core beliefs indirectly, as it promotes curiosity without demanding change. This approach respects their resistance while facilitating engagement in the therapeutic process.",
+        "progress_marker": "Morgan demonstrates increased self-reflection on their thoughts and feelings, showing a willingness to explore their beliefs about themselves and their coworkers."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I want to understand why I feel so overwhelmed without necessarily talking about my feelings directly.",
+        "client_objective": "I want to understand why I feel so overwhelmed, but I’m not sure if talking about it will help.",
         "client_state": {
-          "awareness": "I don't really see my situation as a problem; it just feels like life is hard.",
-          "motivation": "I don't feel ready to change anything; it seems pointless.",
-          "openness": "I'm not really willing to share my feelings right now; it's uncomfortable.",
-          "resistance": "I strongly defend against discussing these issues because I feel they're not worth addressing."
+          "awareness": "I recognize something feels off, but I can't pinpoint what it is.",
+          "motivation": "I don't really feel like I need to change; I think this is just how life is.",
+          "openness": "I'm hesitant to share my true feelings because I worry about judgment.",
+          "resistance": "I feel defensive when discussing my situation because it makes me uncomfortable."
         },
-        "client_reasoning": "I often think about how my coworkers might view me, and it’s hard to shake that feeling. It feels like they’re judging me, which makes me anxious. I know I’m supposed to talk about my feelings, but I keep getting stuck on how everyone must see me as a failure. I feel overwhelmed by the thought of opening up; it’s like I’d be exposing my weaknesses. I doubt that discussing this will help because change feels impossible. The pressure I felt during grad school made me think I have to keep it all together, and admitting that I struggle feels like admitting defeat. Therapy feels a bit safer when I can talk about my work and the external things instead of my feelings, but deep down, I know I’m just avoiding the real problem. I worry that if I dive into my feelings, it’ll only confirm my fears of being unlovable and out of control."
+        "client_reasoning": "I know I should probably talk about my feelings, but honestly, I keep thinking about how everyone at work must see me as a failure. I feel like if I dig deeper, it will just confirm my fears that I’m not good enough. I’ve always felt this pressure from my dad to succeed, and those expectations haunt me. It’s easier to avoid discussing my feelings and focus on what’s happening around me instead of what’s really going on inside. I worry that opening up will just lead to more disappointment or prove that I'm incompetent. Sometimes, I think that maybe it’s best to just keep my head down and deal with things on my own. Therapy feels like a place where I could be vulnerable, but right now, that feels really unsafe. I’m not ready for that.",
+        "progress_marker": "Client begins to express some awareness of feelings without delving into them deeply."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not fully explore Morgan's feelings about their work environment. The client's objective was not met because they still feel overwhelmed without gaining deeper insights into their feelings.",
-          "client_utterance": "I just feel like I'm constantly under pressure at work. Sometimes I wonder if my coworkers think I'm not capable enough, but I don't really want to dwell on it too much. It feels pointless to talk about it, like I'm just making a big deal out of nothing.",
-          "therapist_utterance": "It sounds like you're feeling a lot of pressure and uncertainty about how your coworkers perceive you. I can understand why you'd want to avoid discussing it if it feels overwhelming. What do you think might be behind those feelings of pressure?",
-          "therapist_use": "Reflective listening: used to validate Morgan's feelings while encouraging exploration."
+          "reason_for_ending": "KEEP; therapist objective not met because rapport is still being built; client objective not met as Morgan remains hesitant to explore deeper feelings.",
+          "client_utterance": "I feel like I’m just stuck in this loop of thinking everyone at work sees me as a failure. I don't know if talking about it will change anything, though. It seems safer to just keep my head down and push through.",
+          "therapist_utterance": "It sounds like you're feeling trapped by those thoughts and worried about how others perceive you. It's understandable to want to avoid those feelings when they feel overwhelming. What do you think would happen if you did start to talk about it?",
+          "therapist_use": "Reflective listening: to validate Morgan's feelings and encourage exploration."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not help Morgan recognize patterns in their thoughts. The client's objective was not met because they still feel overwhelmed without deeper understanding.",
-          "client_utterance": "I guess it's just this lingering feeling from grad school. My dad always had high expectations, and I feel like I have to prove myself constantly. I don't know if anyone else feels this way, but it makes me anxious.",
-          "therapist_utterance": "It seems like those past experiences are really influencing how you feel today. I hear that you're anxious about meeting expectations, and that pressure might be making it hard to see things clearly. Have you thought about how these feelings from grad school connect to your current job?",
-          "therapist_use": "Expressing empathy: acknowledged the pressure from past experiences while inviting reflection."
+          "reason_for_ending": "KEEP; therapist objective not met because Morgan is still defensive about discussing feelings; client objective not met as Morgan continues to avoid deeper exploration.",
+          "client_utterance": "I guess I’m just scared that if I talk about it, it’ll confirm what I fear—that I’m not good enough. Those expectations from my dad haunt me, and it feels like I’m always trying to live up to something impossible.",
+          "therapist_utterance": "It seems like the pressure from your father's expectations is weighing heavily on you. It’s natural to fear that exploring these feelings might only lead to more disappointment. Can you share more about how these expectations affect how you see yourself at work?",
+          "therapist_use": "Expressing empathy: to acknowledge the pressure and create a safe space for sharing."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they didn't fully explore the discrepancy between Morgan's feelings and their values. The client's objective was not met as they are still not fully aware of the impact of these feelings.",
-          "client_utterance": "Yeah, I mean, I want to be competent and do well, but then I get stuck worrying about what others think. It's like I can't shake off that feeling of being judged. I just want to keep my head down and get through the day.",
-          "therapist_utterance": "It sounds like there's a conflict between wanting to do well and feeling judged by others. That must be really exhausting. What do you think it would look like if you could let go of that worry about others' opinions?",
-          "therapist_use": "Developing discrepancy: gently encouraging Morgan to explore the contrast between their desires and fears."
+          "reason_for_ending": "KEEP; therapist objective not met as Morgan is still holding back from fully exploring feelings; client objective not met as Morgan remains uncertain about discussing deeper emotions.",
+          "client_utterance": "I think I just want to avoid feeling that way. If I dig deeper, it might just make everything worse, you know? Sometimes I think it’s easier to just deal with the surface stuff.",
+          "therapist_utterance": "I understand why you might feel that way; avoiding those feelings seems like a way to protect yourself. However, it can also prevent you from understanding what you truly want. How do you feel about the contrast between how you see yourself and how you'd like to be seen?",
+          "therapist_use": "Developing discrepancy: to encourage Morgan to reflect on their values and self-image."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they didn't facilitate discussions that help Morgan recognize their thought patterns. The client's objective was not met as they are still avoiding deeper feelings.",
-          "client_utterance": "I don't know, maybe I'd feel more free? But then I think about how it feels like everyone is watching me, and that makes me want to retreat even more. It's all just too much to handle sometimes.",
-          "therapist_utterance": "It seems like that fear of being watched is really holding you back. I can see how that would make it feel impossible to open up. What if we looked at those thoughts from a different angle? What would you say to a friend feeling the same way?",
-          "therapist_use": "Alternative perspective: inviting Morgan to consider their thoughts more compassionately."
+          "reason_for_ending": "KEEP; therapist objective not met because Morgan is still resistant to exploring deeper feelings; client objective not met as Morgan is not articulating feelings clearly.",
+          "client_utterance": "I don’t know, I guess I want to be seen as competent and confident, but I feel like I’m failing. It’s hard to shake that feeling when I’m constantly reminded of it by my own thoughts.",
+          "therapist_utterance": "It sounds like there's a significant gap between how you want to be perceived and how you feel now. Those reminders can be tough to handle. Can you think of specific instances at work that challenge that feeling of failing?",
+          "therapist_use": "Gathering evidence: to help Morgan identify specific interactions that may contradict negative beliefs."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not help Morgan evaluate the truth of their automatic thoughts. The client's objective was not met as they are still struggling with their feelings.",
-          "client_utterance": "I guess I'd tell them that they're not as bad as they think. But I can't seem to do that for myself. It feels like I'm in a cycle of just doubting everything.",
-          "therapist_utterance": "It's great that you can recognize that perspective for a friend. It sounds like you might be holding yourself to a different standard. What evidence do you have that supports the idea that your coworkers see you as a failure?",
-          "therapist_use": "Evidence-based questioning: encouraging Morgan to challenge their negative beliefs about others' perceptions."
+          "reason_for_ending": "KEEP; therapist objective not met because Morgan has not yet fully explored specific interactions; client objective not met as Morgan is still hesitant to discuss evidence.",
+          "client_utterance": "I guess there have been times when my coworkers have complimented my work, but I brush it off as just being polite. Still, I can’t shake the feeling that they’re just saying it to be nice.",
+          "therapist_utterance": "It seems like there's a part of you that doubts the validity of those compliments. That doubt can keep you feeling stuck in the belief that you're not good enough. What do you think would happen if you allowed yourself to believe those compliments might be genuine?",
+          "therapist_use": "Exploring automatic thoughts: to challenge Morgan's negative beliefs and foster self-awareness."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not guide Morgan in evaluating the validity of their beliefs. The client's objective was not met as they are still feeling overwhelmed by self-doubt.",
-          "client_utterance": "I don't know... I mean, I think I just feel that way because of how I see myself. I can't remember a time when I thought I was doing well, you know? It's just hard to break out of that mindset.",
-          "therapist_utterance": "It sounds like you're really struggling with how you view yourself. That can be a heavy weight to carry. If you were to rate how much you feel like a failure on a scale from 1 to 10, where would you say you are right now?",
-          "therapist_use": "Continuum technique: helping Morgan assess their feelings more nuancedly."
+          "reason_for_ending": "KEEP; therapist objective not met due to Morgan's continued skepticism about positive feedback; client objective not met as Morgan avoids deeper engagement with their feelings.",
+          "client_utterance": "I don’t know if I can really let myself believe that. It just feels like if I do, I’ll be setting myself up for a bigger fall. I’ve been let down before.",
+          "therapist_utterance": "That fear of being let down is completely valid, especially when you've faced so much pressure. It's understandable to protect yourself from disappointment. Could you reflect on what it would mean for you to accept those positive statements as truth?",
+          "therapist_use": "Reflective listening: to validate Morgan's fears while promoting self-reflection."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met as they facilitated a deeper exploration of Morgan's self-perception. The client's objective was met as they began to articulate their feelings about self-worth and relationships.",
-          "client_utterance": "I think I'd say around a 7. I still feel pretty lost, but maybe there are moments where I can see some good. I want to believe that I'm not a failure, but it's hard. Maybe I can start to think of it differently.",
-          "therapist_utterance": "That's a significant realization, Morgan. A 7 shows that there's some hope in your self-view. It might be worth exploring what those good moments look like and how you can cultivate more of that perspective.",
-          "therapist_use": "Changing rules to wishes: helping Morgan reframe their beliefs into more positive aspirations."
+          "reason_for_ending": "MOVE; therapist objective met as Morgan is showing signs of increased self-reflection; client objective met as Morgan begins to articulate feelings and thoughts about self-perception.",
+          "client_utterance": "I guess if I could accept those compliments, it might change how I see myself. Maybe it wouldn’t be so bad to explore these feelings after all. I’m still scared, but I can see it might help.",
+          "therapist_utterance": "It’s great to hear that you're considering exploring those feelings. Acknowledging your fears while also recognizing the potential for change is an important step. How do you feel about continuing this exploration in our future sessions?",
+          "therapist_use": "Expressing empathy: to acknowledge Morgan's growth and willingness to explore feelings further."
         }
       ]
     },
@@ -147,34 +124,28 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Morgan's ambivalence towards change and strengthen motivation for potential behavioral shifts.",
+          "objective": "To explore Morgan's ambivalence towards change and enhance motivation for addressing negative thoughts and feelings about coworkers.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Facilitate a discussion where Morgan can express both the desire to change and the fears associated with it.",
-                "Encourage Morgan to articulate the positive aspects of change alongside the negative aspects, ensuring a balanced view."
+                "Begin by validating Morgan's feelings of conflict regarding their thoughts about coworkers.",
+                "Encourage Morgan to articulate both their desires for change and their fears.",
+                "Use open-ended questions to facilitate discussion about what change would mean for them."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask open-ended questions that prompt Morgan to reflect on what change could look like and what benefits it might bring.",
-                "Validate any expressions of hope or desire for change to reinforce a positive outlook."
+                "Ask Morgan to reflect on times when they felt competent or valued at work.",
+                "Prompt them to express reasons why they might want to change their perceptions about coworkers."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Decisional Balance",
               "instructions_for_therapist": [
-                "Help Morgan identify discrepancies between their core values and current behaviors, particularly around maintaining control and handling expectations.",
-                "Encourage Morgan to articulate how their current behavior contradicts their values, fostering insight."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance Discussions",
-              "instructions_for_therapist": [
-                "Guide Morgan through a pros and cons analysis of their current situation versus potential changes.",
-                "Encourage Morgan to weigh the benefits of change against their fears and losses."
+                "Guide Morgan through a discussion about the pros and cons of continuing to ruminate on coworkers’ opinions versus changing this mindset.",
+                "Encourage them to weigh how each option aligns with their values and aspirations."
               ]
             }
           ]
@@ -182,85 +153,73 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Work with Morgan to identify catastrophic thoughts about coworkers' perceptions and explore the reality of those thoughts.",
-                "Challenge these thoughts by asking for evidence supporting them and considering alternative, more balanced perspectives."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Facilitate a session where Morgan lists out the pros and cons of remaining in their current state versus making changes.",
-                "Encourage them to reflect on the emotional impact of each side and how it aligns with their core beliefs."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Morgan to provide evidence for their beliefs of being seen as a failure by coworkers.",
-                "Encourage a critical examination of these beliefs by asking how they might feel if they received positive feedback from a coworker."
+                "Introduce the concept of cognitive distortions, especially mind reading.",
+                "Work with Morgan to identify their automatic thought about coworkers.",
+                "Encourage them to gather evidence supporting and contradicting this thought.",
+                "Help Morgan analyze the evidence and explore alternative explanations for the behaviors of coworkers.",
+                "Guide them in reframing their automatic thought to a more balanced perspective."
               ]
             }
           ]
         },
-        "therapist_reasoning": "The therapy plan for Morgan in the contemplation phase focuses on addressing their ambivalence about change through motivational interviewing and cognitive behavioral techniques. First, exploring ambivalence allows Morgan to voice their conflicting desires while validating their feelings, which can help ease resistance. Eliciting change talk encourages Morgan to envision the benefits of change, fostering motivation. The development of discrepancy highlights the incongruence between their values and current behaviors, prompting deeper reflection. Additionally, decisional balance discussions provide a structured way for Morgan to weigh the pros and cons of their current situation, reinforcing the possibility of change. In CBT, decatastrophizing is essential for challenging Morgan's catastrophic thoughts about coworkers, helping them recognize the reality of these perceptions. The pros and cons analysis further deepens understanding of the emotional ramifications of their choices. Finally, evidence-based questioning serves to critically evaluate their core beliefs about failure, offering alternative perspectives that can strengthen self-efficacy and confidence in potential change.",
-        "progress_marker": "Morgan expresses increased insight into their ambivalence and begins to articulate both fears and hopes regarding change."
+        "therapist_reasoning": "In this session, I will begin by addressing Morgan's ambivalence towards change, recognizing their fears while validating their desire for improvement. Using Motivational Interviewing strategies, I will explore these conflicting feelings, allowing Morgan to voice both their reluctance and hopes for change. Specifically, I will facilitate a discussion about the pros and cons of their current mindset versus potential changes, employing decisional balance techniques to help them see the discrepancy between their values and behaviors. In parallel, I will implement CBT techniques by introducing cognitive restructuring to challenge Morgan's automatic thoughts about their coworkers. I will guide them through a process of gathering evidence to understand their thoughts better, thereby promoting insight and reframing those thoughts to reduce anxiety. This dual approach allows for a supportive environment where Morgan can reflect on their feelings, fostering self-efficacy without pushing them into immediate action planning, which aligns with their current contemplation phase and resistance profile.",
+        "progress_marker": "Morgan begins to articulate their ambivalence and expresses a desire to challenge their negative thoughts about coworkers."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my work situation and begin to understand the impact of my past on my current behavior.",
+        "client_objective": "I want to explore my feelings and thoughts about my work situation and understand why I feel so conflicted about change.",
         "client_state": {
-          "awareness": "I am starting to recognize that my anxieties and fears about how my coworkers perceive me may be linked to my past experiences and the pressure I felt during grad school.",
-          "motivation": "I want to change my feelings of inadequacy, but I’m unsure if I can truly overcome them or if it’s even worth the effort.",
-          "openness": "I feel somewhat willing to share my thoughts and feelings with my therapist, but I still hold back because I fear judgment or misunderstanding.",
-          "resistance": "I often find myself defending my current state, feeling pessimistic about the possibility of change and doubting whether I can handle facing my fears."
+          "awareness": "I recognize that my anxiety about my coworkers and my nightmares are connected to my feelings of being inadequate.",
+          "motivation": "I see the benefits of addressing my fears, but I'm scared of what that might mean for my relationships and self-image.",
+          "openness": "I'm starting to share more about my experiences, but I still hold back some feelings out of fear of judgment.",
+          "resistance": "I feel a strong pull to defend my current state, as it feels safer than the unknown of change."
         },
-        "client_reasoning": "I've been thinking a lot about my situation lately. It’s hard to ignore the fact that I feel anxious and worried about what my coworkers think of me, and I’m starting to see that this might connect to my past—especially with my father’s expectations and my experiences in grad school. Part of me knows that I want to change this feeling of inadequacy, but I can’t shake the doubt that I might not be capable of making those changes. I wonder if it’s worth the effort to try and face these fears. Therapy has been helpful in getting me to reflect on these thoughts, but I still feel stuck. I want to be open about my feelings, yet I hold back, fearing judgment. It’s like I’m caught between wanting to improve and feeling like I’ll just end up disappointed again.",
-        "progress_marker": "The client is beginning to articulate their fears and recognizing links between past experiences and current feelings."
+        "client_reasoning": "Lately, I've been reflecting on how my anxiety at work is tied to my childhood and my father's expectations. I can see that my fears are impacting my ability to connect with my coworkers, and it's frustrating. While I understand that I need to address these feelings, I often feel stuck. Part of me wants to change and let go of this fear of being perceived as a failure, but there’s a nagging doubt that makes me think, 'What if things don’t get better?' I worry about how my coworkers really see me and whether they will judge me even more harshly if I show my true self. Therapy is helping me think through these issues, but I still find it hard to fully embrace the idea of change because it feels so risky. I'm caught between wanting to improve and fearing the unknown outcomes of that change."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist's objective not met: hasn't fully explored Morgan's ambivalence. Client's objective not met: still feels uncertain about change.",
-          "client_utterance": "I guess I can see that there are moments where I feel competent, but I still struggle with the overwhelming fear that I'm not good enough. It's like I want to change how I feel, but part of me is still holding on to those old beliefs from my past. Sometimes I think, what if I try and still fail? It’s hard to believe I can make a real change.",
-          "therapist_utterance": "It sounds like you're caught between wanting to feel better and being afraid of what might happen if you try. Those fears seem deeply rooted in your past experiences, and it's understandable why they would hold you back. What do you think would be the worst part about facing those fears?",
-          "therapist_use": "Open-ended question: used to encourage Morgan to explore fears associated with change."
+          "reason_for_ending": "KEEP: Therapist objective not met as there's still ambivalence in Morgan's feelings about change. Client objective not met since Morgan hasn't fully explored their thoughts on how to address their fears.",
+          "client_utterance": "I still feel torn about whether addressing my fears is worth the risk. Part of me thinks it might help, but another part is terrified of what it could mean for my perceptions at work.",
+          "therapist_utterance": "It's understandable to feel torn. Change often brings uncertainty, and it's natural to fear that. Can you share more about what you imagine might happen if you did decide to confront those fears?",
+          "therapist_use": "Open-ended question: used to encourage Morgan to articulate their fears and desires."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective not met: has not fully facilitated a balanced exploration of fears and hopes. Client's objective not met: hasn't articulated potential benefits of change.",
-          "client_utterance": "The worst part might be that I’d realize I really am as incapable as I think I am. If I try and still feel that way, it would just reinforce all those negative thoughts. But then I also wonder if maybe there’s a chance I could feel different. I guess that hope is there, but it feels fragile.",
-          "therapist_utterance": "That hope is an important part of this process, even if it feels fragile. It's okay to acknowledge the fear while also considering what change could offer you. What do you think would be the best outcome if you could let go of those negative beliefs about yourself?",
-          "therapist_use": "Eliciting change talk: used to help Morgan articulate potential positive outcomes of change."
+          "reason_for_ending": "KEEP: Therapist objective not met as Morgan hasn't fully articulated their fears about confronting their issues. Client objective not met since they still hold back on expressing their thoughts fully.",
+          "client_utterance": "I worry that if I confront my fears, I might end up feeling even more inadequate. It’s like I’m afraid to open that door because I don’t know what’s behind it.",
+          "therapist_utterance": "It sounds like opening that door feels risky, and I can see why you'd want to keep it closed. What if we talked about what you think might be behind that door? Maybe we can explore those feelings together.",
+          "therapist_use": "Reflective listening: validated Morgan's fears while encouraging exploration of those feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective not met: hasn't fully developed a discrepancy between values and current behaviors. Client's objective not met: still needs to explore the emotional impact of current state.",
-          "client_utterance": "If I could let go of those beliefs, I think I would feel more confident and maybe even more engaged at work. I might actually enjoy my job instead of just getting through the day. But it still feels risky to think about that change. What if it doesn’t happen for me?",
-          "therapist_utterance": "It's understandable to feel that way; change can be daunting. But it sounds like you have a vision for what you want your work life to feel like. Can we explore what stands in the way of that vision becoming a reality?",
-          "therapist_use": "Decisional balance discussion: used to guide Morgan in identifying barriers to change."
+          "reason_for_ending": "KEEP: Therapist objective not met since Morgan hasn’t yet weighed the pros and cons of addressing their feelings. Client objective not met as they are still hesitant to explore deeper.",
+          "client_utterance": "I guess if I think about it, maybe confronting those feelings could lead to a better understanding of my coworkers. But I’m still scared that it might just reinforce my insecurities.",
+          "therapist_utterance": "It's valid to think about both sides. What do you think the benefits might be if you were able to change how you feel about your coworkers? And what might be the downsides of staying stuck in your current mindset?",
+          "therapist_use": "Decisional balance: encouraged Morgan to weigh the pros and cons of their current mindset versus potential changes."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective not met: hasn't fully addressed Morgan's catastrophic thoughts. Client's objective not met: still uncertain about the effort required for change.",
-          "client_utterance": "I think what's in the way is this fear of failing again, like I won’t be able to handle it. I keep thinking about all the times I felt like I let my dad down, and it just adds to that pressure. It’s hard to see how I could break that cycle. What if I just end up disappointing myself again?",
-          "therapist_utterance": "That fear of disappointment is certainly powerful and can be paralyzing. However, it might help to challenge those catastrophic thoughts by looking for evidence against them. Let’s think about times when you’ve succeeded or received positive feedback—how did that feel?",
-          "therapist_use": "Decatastrophizing: used to help Morgan challenge their catastrophic thoughts and explore evidence of past successes."
+          "reason_for_ending": "KEEP: Therapist objective not met as Morgan hasn't fully committed to exploring the benefits of change. Client objective not met since they still express fear about being judged.",
+          "client_utterance": "If I could change my mindset, maybe I’d feel less anxious and more connected at work. But then I think, what if my coworkers still see me as inadequate regardless of how I feel?",
+          "therapist_utterance": "That's an important concern to acknowledge. It seems like a part of you wants to connect, but another part fears judgment. How do you think your perception of yourself shapes your interactions with them?",
+          "therapist_use": "Exploring ambivalence: helped Morgan articulate their desires for change while acknowledging their fears."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective not met: hasn't fully explored the emotional ramifications of current situation. Client's objective not met: still needs to weigh pros and cons.",
-          "client_utterance": "I guess there have been times when I felt appreciated, but they feel few and far between. I remember a project I worked on where I got positive feedback, and that felt great. But then the fear of not living up to those moments just overshadows them. It’s like I’m constantly waiting for the next failure.",
-          "therapist_utterance": "It's important to recognize those positive moments, as they show you are capable. Let’s take a moment to list out what you see as the pros and cons of holding on to those fears versus trying to change. How does that feel for you?",
-          "therapist_use": "Pros and cons analysis: used to facilitate a structured exploration of Morgan's current state versus potential changes."
+          "reason_for_ending": "KEEP: Therapist objective not met as Morgan hasn’t fully embraced the idea of change yet. Client objective not met since they still hold onto doubts about their coworkers' perceptions.",
+          "client_utterance": "I think my self-image really does affect how I interact with my coworkers. Sometimes I hold back from being my true self because I feel like I’m not good enough.",
+          "therapist_utterance": "It sounds like your self-image has a significant impact on your interactions. What would it look like for you to show your true self at work? How might that change your relationships with your coworkers?",
+          "therapist_use": "Encouraging exploration: prompted Morgan to consider the effects of being authentic at work."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective not met: has not fully reinforced a positive outlook on change. Client's objective not met: still uncertain about worthiness of effort.",
-          "client_utterance": "When I think about it, the pros of changing seem to be feeling more confident and possibly enjoying my work more. But the cons are still that fear of failing and feeling judged by everyone. I know I want to feel better, but I still can’t shake the doubt. Is it really worth the effort if I might just end up feeling worse?",
-          "therapist_utterance": "It’s completely valid to weigh those fears against the desire for change. However, focusing on the potential positive outcomes can help you see the value in taking that leap. What if we looked at the idea of change as an opportunity to grow rather than just a risk of failure?",
-          "therapist_use": "Developing discrepancy: used to contrast Morgan's desire for change with their fears, fostering insight."
+          "reason_for_ending": "KEEP: Therapist objective not met since Morgan hasn't fully articulated their vision for change. Client objective not met as they still feel insecure about being authentic.",
+          "client_utterance": "I guess if I could show my true self, it might allow for more genuine connections. But I’m still worried about how my coworkers would react if they really saw me.",
+          "therapist_utterance": "It's a big step to consider showing your true self, and your concerns are completely valid. Would you be open to exploring what a supportive environment might look like for you? One where you could feel safe being yourself?",
+          "therapist_use": "Visioning: encouraged Morgan to imagine a supportive environment that fosters authenticity."
         },
         {
-          "reason_for_ending": "MOVE - Therapist's objective met: Morgan has expressed insight and explored both fears and hopes about change. Client's objective met: Morgan has begun to articulate feelings about their work situation and recognize the impact of past experiences.",
-          "client_utterance": "I think I’m starting to see that while the fear is real, the possibility of change could lead to something better. Maybe it’s time to start believing I can handle facing those fears. I do want to try to feel more confident and engaged at work, and that’s worth something. I guess I’m ready to explore this further.",
-          "therapist_utterance": "That's a significant realization, Morgan! Embracing the possibility of change is a huge step forward. It sounds like you're beginning to see how facing those fears could lead to a more fulfilling work life. Let’s keep building on that momentum as we move forward.",
-          "therapist_use": "Validation and support: used to reinforce Morgan's insight and readiness to explore change."
+          "reason_for_ending": "MOVE: Therapist objective met as Morgan has articulated a desire for change and explored their fears. Client objective met since they are beginning to envision a supportive workplace and their authentic self.",
+          "client_utterance": "I think that imagining a supportive environment helps lessen my fear a bit. Maybe if I can keep working on my self-image, I could gradually feel more comfortable at work.",
+          "therapist_utterance": "That's a wonderful realization, Morgan. It seems like you're recognizing the potential for change and how it could positively impact your work life. How do you feel about taking small steps toward that vision?",
+          "therapist_use": "Eliciting change talk: supported Morgan in expressing their desire for gradual change."
         }
       ]
     },
@@ -269,30 +228,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Morgan's commitment to change while exploring their confidence and readiness.",
+          "objective": "Strengthen Morgan's commitment to change and explore their confidence in addressing fears and barriers.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask open-ended questions that encourage Morgan to articulate their desire for change.",
-                "Reflect back any statements that express commitment, emphasizing their importance.",
-                "Encourage Morgan to visualize their ideal outcome and express how it feels to commit to that change."
+                "Ask Morgan to articulate their reasons for wanting to change and how it aligns with their values.",
+                "Encourage Morgan to express their commitment in specific terms, such as 'I intend to address my fears about coworkers within the next month.'",
+                "Reflect back Morgan's statements of commitment to reinforce their resolve."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess Morgan's confidence in making changes and readiness to implement them.",
-                "Discuss past successes to reinforce their ability to handle challenges.",
-                "Encourage Morgan to identify specific situations where they feel more confident and explore how those feelings can translate into action."
+                "Use scaling questions (1-10) to assess Morgan's confidence in handling their thoughts about coworkers.",
+                "Explore what would help Morgan move from their current confidence level to a higher one.",
+                "Discuss past successes to highlight Morgan’s ability to overcome challenges."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Morgan identify supportive individuals in their life who can assist them during this transition.",
-                "Explore resources available to them, such as self-help materials or community groups.",
-                "Encourage Morgan to consider how they might ask for help in challenging situations."
+                "Facilitate a discussion about potential support systems, including friends, colleagues, or professional resources.",
+                "Encourage Morgan to identify specific people they could talk to when feeling overwhelmed.",
+                "Develop a list of resources or tools that Morgan can utilize for support."
               ]
             }
           ]
@@ -300,88 +259,81 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Collaborate with Morgan to design a small, manageable experiment related to their workplace interactions.",
-                "Encourage Morgan to test their beliefs about coworkers' opinions by initiating a low-stakes conversation.",
-                "Debrief after the experiment to discuss outcomes and adjust beliefs based on new evidence."
+                "Begin by discussing the recurring nightmare and explore Morgan's thoughts about coworkers.",
+                "Guide Morgan in identifying cognitive distortions, particularly mind reading.",
+                "Help Morgan gather evidence supporting and contradicting the thought 'My coworkers all think horrible things about me.'",
+                "Challenge the validity of this thought and encourage Morgan to develop a more balanced perspective.",
+                "Assist Morgan in reframing the thought to a neutral statement and practice this in real-life situations."
               ]
             },
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Behavioral Activation",
               "instructions_for_therapist": [
-                "Work with Morgan to create a detailed action plan that outlines specific steps they will take to address their anxiety about coworkers.",
-                "Set short-term, achievable goals that can be gradually increased in difficulty.",
-                "Ensure Morgan feels ownership of the plan by allowing them to lead the discussion about what steps they want to include."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Guide Morgan through identifying specific barriers they foresee in their action plan.",
-                "Teach problem-solving strategies to address these barriers, focusing on realistic solutions.",
-                "Encourage Morgan to practice these skills in session and apply them to real-life situations."
+                "Collaborate with Morgan to create a gradual action plan for engaging with coworkers.",
+                "Identify specific, small steps Morgan can take to improve their interactions, such as initiating a casual conversation.",
+                "Set achievable goals for each week to foster confidence and reduce feelings of helplessness."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, I will begin by utilizing Motivational Interviewing strategies to strengthen Morgan's commitment to change. I will ask open-ended questions to facilitate discussion about their desire for change, allowing them to articulate their goals. Reflecting their commitment language will reinforce their motivation. Next, I will explore their confidence and readiness using scaling questions, helping Morgan recall past successes to bolster their self-efficacy. By identifying supports and resources in their life, I aim to create a network that encourages them to seek help when needed. Moving into CBT interventions, I will introduce a behavior experiment focused on workplace interactions, encouraging Morgan to challenge their negative beliefs about coworkers by initiating low-stakes conversations. This will be followed by collaboratively developing an action plan that outlines specific, achievable steps for Morgan to take. Finally, I will conduct problem-solving skills training to equip Morgan with the tools needed to address anticipated barriers, promoting a gradual and collaborative approach to their journey of change.",
-        "progress_marker": "Morgan reports increased clarity in their action plan and expresses a willingness to initiate conversations with colleagues."
+        "therapist_reasoning": "In developing the therapy plan for Morgan, I first recognized their resistance as indirect and pessimistic, indicating ambivalence about change. I utilized Motivational Interviewing (MI) strategies to strengthen their commitment to change by encouraging them to articulate their reasons and intentions, thus fostering intrinsic motivation. Scaling questions helped assess Morgan's confidence, enabling exploration of readiness for action. Identifying supports empowers Morgan by connecting them with resources that can ease their feelings of isolation. Concurrently, the CBT interventions focus on cognitive restructuring to challenge their negative automatic thoughts and develop a balanced perspective, which aligns with the client's issues of self-doubt and feelings of being unloved. Behavioral activation complements this by providing a practical, collaborative action plan that Morgan can gradually implement, thereby reinforcing their self-efficacy. This dual approach addresses both cognitive distortions and behavioral patterns, fostering a supportive environment for Morgan's readiness to change while managing their resistance sensitively.",
+        "progress_marker": "Morgan has articulated specific action steps to challenge their automatic thoughts and has begun to identify supportive resources as part of their commitment to change."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my fears and begin to outline steps to improve my self-esteem and work relationships.",
+        "client_objective": "I hope to explore possible strategies for managing my anxiety and improving my self-esteem at work.",
         "client_state": {
-          "awareness": "I recognize that my feelings of inadequacy and anxiety are impacting my work and personal life.",
-          "motivation": "I feel more motivated to change now that I understand how my past experiences shape my current beliefs.",
-          "openness": "I am willing to discuss my feelings and explore potential changes with my therapist, though I still feel hesitant.",
-          "resistance": "I still experience doubts about my ability to change, fearing that I may fail or that others will judge me."
+          "awareness": "I recognize that my fears about how my coworkers perceive me are impacting my work and mental health.",
+          "motivation": "I feel a strong desire to improve my situation and find ways to cope better with my anxiety.",
+          "openness": "I'm willing to discuss my feelings and thoughts with my therapist, even though it's uncomfortable.",
+          "resistance": "I still have doubts about my ability to change and fear that I may fail again."
         },
-        "client_reasoning": "As I sit here, I realize that my nightmares and feelings of being unworthy are not just stressors; they are signs that something needs to change. I've started to understand how my father's expectations and my experiences in grad school have shaped my beliefs about myself. I feel a flicker of motivation to improve my situation because I don't want to keep feeling anxious and scared. However, I can’t shake the doubt that lingers in my mind—what if I try and still fail? It’s terrifying to think about what others might say if I don’t meet their expectations. Still, therapy has opened my eyes to the possibility of change. I want to share these fears with my therapist and see if we can outline practical steps to help me cope better and maybe even regain some control over my life.",
-        "progress_marker": "The client is beginning to articulate their feelings and thoughts about change, which indicates a growing readiness to engage in the therapeutic process."
+        "client_reasoning": "I've come to realize that my anxiety and negative thoughts about my coworkers are holding me back from being the best version of myself. It feels like I’m constantly battling my belief that I'm inadequate and unlovable, which stems from my past and my father's expectations. I know I need change because living in fear of judgment is exhausting. I hope that by discussing my feelings more openly in therapy, I can find practical strategies to manage my anxiety and improve my self-esteem. However, I still worry that I might not be able to maintain these changes or that my coworkers will always see me as a failure. Despite these fears, I feel a flicker of hope that with support, I can learn to cope better and maybe even start believing in myself again."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because they haven't fully explored Morgan's commitment to change. Client objective not met as Morgan hasn't outlined specific steps yet.",
-          "client_utterance": "I think about feeling more confident at work, but I still feel overwhelmed when I consider taking the first steps. It’s like I want to change, but I’m not sure what that looks like in practice. I feel like I need to define some clear actions to take, but I’m worried about failing again.",
-          "therapist_utterance": "It’s understandable to feel overwhelmed, especially when trying to visualize the first steps. Let's break it down together; what would be a small, manageable action you could take that feels less intimidating? Sometimes starting with a tiny step can help build confidence.",
-          "therapist_use": "Open-ended question: Encouraged Morgan to articulate specific actions to enhance their sense of agency."
+          "reason_for_ending": "KEEP - Therapist objective was not met because they have not yet fully explored Morgan's support systems. Client objective was not met because Morgan has not articulated specific strategies for managing anxiety.",
+          "client_utterance": "I keep thinking about how hard it would be to show my true self at work. It seems like every time I try to push those fears away, they just come back stronger. I really want to believe that I can change, but I still feel this heavy weight of self-doubt.",
+          "therapist_utterance": "It's understandable that those fears feel heavy, especially when you've been carrying them for so long. Can we explore what specific support systems you might have that could help you with this journey? Identifying people or resources could really make a difference.",
+          "therapist_use": "Identifying Supports and Resources: aimed at helping Morgan recognize potential support systems."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because they haven't yet helped Morgan visualize the ideal outcome. Client objective not met as Morgan hasn't identified concrete steps.",
-          "client_utterance": "Maybe I could try initiating a conversation with one of my coworkers I feel comfortable with. It feels like a small step, but I’m still worried about what I’ll say and how they’ll react. What if it doesn’t go well?",
-          "therapist_utterance": "That sounds like a great starting point! It’s completely normal to feel anxious about how it might go, but remember, this is a low-stakes situation. What do you think you might gain from that conversation, even if it doesn’t go perfectly?",
-          "therapist_use": "Strengthening Commitment Language: Helped Morgan articulate a specific action while reinforcing their desire to change."
+          "reason_for_ending": "KEEP - Therapist objective was not met because they haven't reinforced Morgan's commitment to engage with coworkers. Client objective was not met because Morgan hasn't yet identified specific strategies for managing anxiety.",
+          "client_utterance": "I suppose I could talk to my friend from grad school about how I’m feeling. She’s always been supportive, and I think she would understand. I just worry that I’ll sound weak or like I’m complaining.",
+          "therapist_utterance": "It sounds like your friend could be a great resource for you. It's okay to seek support; it doesn't make you weak. In fact, sharing your feelings might help you feel less isolated and more empowered to tackle your challenges.",
+          "therapist_use": "Strengthening Commitment Language: encouraged Morgan to articulate potential support systems and the importance of seeking help."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as they have not assessed Morgan's confidence level regarding initiating the conversation. Client objective not met since Morgan hasn't yet fully outlined their fears and expectations.",
-          "client_utterance": "I guess I might gain a sense of relief just from talking to someone. But honestly, I’m still feeling nervous about how they might judge me. I keep thinking about my past experiences and how they might cloud my mind during the conversation.",
-          "therapist_utterance": "It’s good that you recognize the potential relief in connecting with someone. Let’s explore that fear of judgment a bit more. On a scale from 1 to 10, how confident do you feel about initiating this conversation?",
-          "therapist_use": "Scaling question: Assessed Morgan's confidence level to help them understand their readiness."
+          "reason_for_ending": "KEEP - Therapist objective was not met because they have not yet assessed Morgan's confidence level. Client objective was not met because Morgan has not yet articulated a clear action plan.",
+          "client_utterance": "I think I could reach out to her next week. It feels a bit daunting, but maybe I can work up to it. I guess I’m still trying to figure out what I’d even say.",
+          "therapist_utterance": "It’s great to hear that you’re considering reaching out. On a scale of 1 to 10, how confident do you feel about taking that step? Exploring what might help you feel more ready could also be beneficial.",
+          "therapist_use": "Exploring Confidence and Readiness: used scaling questions to assess Morgan's confidence in taking action."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as they haven't fully reinforced Morgan's past successes. Client objective not met because Morgan hasn't fully articulated their feelings about the upcoming conversation.",
-          "client_utterance": "I think I’m around a 4. I want to feel more confident, but I keep doubting myself. Sometimes I think about how I messed up in the past, and it makes me hesitate.",
-          "therapist_utterance": "A 4 shows that you're aware of the fear but also that there’s room for growth. Can we reflect on a time when you felt more confident? What helped you feel that way, and how can we bring some of that into this situation?",
-          "therapist_use": "Exploring Confidence and Readiness: Encouraged reflection on past successes to enhance self-efficacy."
+          "reason_for_ending": "KEEP - Therapist objective was not met because they have not fully explored what could enhance Morgan's confidence. Client objective was not met because Morgan has not yet articulated a clear plan of action.",
+          "client_utterance": "I’d say I’m around a 5 right now. It’s not terrible, but I still feel a lot of anxiety about it. I think if I had a better idea of what to say, it would help me feel more prepared.",
+          "therapist_utterance": "A 5 is a solid starting point, and it shows that you have some confidence in yourself. What do you think would help you move closer to a 7? Maybe we can brainstorm some specific phrases or topics you could bring up with your friend.",
+          "therapist_use": "Exploring Confidence and Readiness: aimed at identifying what could boost Morgan’s confidence and preparing for action."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as they haven't fully connected Morgan's past successes to their current fears. Client objective not met because Morgan hasn't yet committed to a specific action plan.",
-          "client_utterance": "I remember during grad school when I presented my thesis, I felt really prepared and received positive feedback. But now, I just feel like I’m a shadow of that person. I want to feel that way again, but it seems so out of reach.",
-          "therapist_utterance": "That’s an important memory, Morgan! It shows that you have the ability to succeed and feel confident. How can we use that experience as a stepping stone to help you feel more like that person again in your current situation?",
-          "therapist_use": "Reflective Listening: Validated Morgan's feelings while encouraging them to connect past successes to present challenges."
+          "reason_for_ending": "KEEP - Therapist objective was not met because they haven’t yet helped Morgan challenge negative thoughts directly. Client objective was not met because Morgan has not yet set actionable steps.",
+          "client_utterance": "I think if I wrote down some of my thoughts, it might help me understand them better. Sometimes I feel like they’re just swirling around in my head. But I’m still worried about what my friend will think.",
+          "therapist_utterance": "Writing down your thoughts is an excellent way to clarify them and see them more objectively. Let’s also consider what thoughts you might have about your friend's perspective; can we challenge those a bit? It might help reduce some of that worry.",
+          "therapist_use": "Cognitive Restructuring: initiated a discussion to help Morgan challenge negative thoughts about their friend's potential judgment."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as they haven’t fully explored the resources Morgan has to support them. Client objective not met as Morgan hasn't identified support systems yet.",
-          "client_utterance": "I think I could start by talking to a friend who’s been supportive in the past. But I’m still wondering if they’ll really understand what I’m going through. I just don’t want to burden anyone with my problems.",
-          "therapist_utterance": "It’s great that you have someone in mind who could support you. It’s common to worry about burdening others, but often, friends appreciate the chance to help. What would it feel like to reach out to them and share what you’ve been experiencing?",
-          "therapist_use": "Identifying Supports and Resources: Encouraged Morgan to consider reaching out to supportive individuals in their life."
+          "reason_for_ending": "KEEP - Therapist objective was not met because they have not yet reinforced a balanced perspective regarding Morgan's self-doubt. Client objective was not met because Morgan has not yet identified specific coping strategies.",
+          "client_utterance": "I guess I have to remind myself that my friend cares about me. But it’s still hard to shake off that fear of judgment. I just feel like my past experiences make it hard to trust others.",
+          "therapist_utterance": "It's important to acknowledge how past experiences can shape our current feelings. What if we work on reframing those thoughts about judgment? Let’s focus on developing a more balanced perspective that recognizes your friend's support.",
+          "therapist_use": "Cognitive Restructuring: aimed at helping Morgan reframe their thoughts and develop a more balanced perspective."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as they successfully explored Morgan's supports and commitment to change. Client objective met because Morgan has identified specific steps and support in their action plan.",
-          "client_utterance": "I think reaching out to my friend could help me feel less isolated in this. I realize that I don’t have to go through this alone, and that’s encouraging. I’m starting to feel like I can really face these fears.",
-          "therapist_utterance": "That’s a significant shift, Morgan! Recognizing that you have support can make a big difference in your journey. I’m proud of you for articulating these steps and feeling ready to take action.",
-          "therapist_use": "Strengthening Commitment Language: Reinforced Morgan's readiness to change and commitment to reaching out for support."
+          "reason_for_ending": "MOVE - Therapist objective was met as they effectively reinforced Morgan's commitment to change and explored supports. Client objective was met as Morgan articulated specific steps and identified supportive resources.",
+          "client_utterance": "I feel a bit more confident now that I’ve thought through this. I’ll reach out to my friend and maybe even write some thoughts down first. I can see how this could really help me feel better at work.",
+          "therapist_utterance": "That’s a wonderful breakthrough, Morgan! It sounds like you’re ready to take action, and I’m really proud of you for articulating those steps. Remember, this is just the beginning of your journey toward feeling more confident and connected at work.",
+          "therapist_use": "Strengthening Commitment Language: reinforced Morgan's commitment to taking actionable steps toward change."
         }
       ]
     }

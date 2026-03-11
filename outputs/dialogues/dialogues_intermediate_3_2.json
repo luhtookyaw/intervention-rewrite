@@ -12,30 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase Caleb's awareness of his thoughts and feelings regarding his work and self-perception.",
+          "objective": "Increase Caleb's awareness of his thoughts and feelings related to self-comparison and build a therapeutic alliance.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen carefully to Caleb's concerns and emotional expressions.",
-                "Paraphrase his statements to show understanding and validate his feelings.",
-                "Encourage him to elaborate on his thoughts about his work and feelings of inadequacy."
+                "Paraphrase Caleb's statements to demonstrate understanding and validate his feelings.",
+                "Encourage Caleb to express his thoughts about his work and how he perceives his colleagues."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Caleb's feelings of being overwhelmed and his pessimism about measuring up.",
-                "Use empathetic statements such as, 'It sounds like you feel a lot of pressure and doubt about your work.'",
-                "Create a safe environment where Caleb feels comfortable discussing his emotions."
+                "Acknowledge Caleb's feelings of inadequacy and pressure without judgment.",
+                "Reinforce that it's normal to feel overwhelmed in a competitive academic environment."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently highlight the discrepancy between Caleb's current feelings and his personal values regarding success.",
-                "Ask open-ended questions that encourage him to reflect on what success means to him.",
-                "Facilitate discussions that allow Caleb to explore his values and how they relate to his current situation."
+                "Help Caleb explore the discrepancy between his self-perception and his actual achievements.",
+                "Ask open-ended questions that guide him to reflect on his values versus his current feelings of failure."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Encourage Caleb to consider how his comparisons impact his emotional well-being and work performance.",
+                "Foster curiosity about the effects of these thoughts on his confidence and motivation."
               ]
             }
           ]
@@ -45,85 +49,70 @@
             {
               "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Encourage Caleb to identify specific evidence that supports or contradicts his beliefs of incompetence.",
-                "Ask questions like, 'What evidence do you have that you are not working hard enough?'",
-                "Help him explore alternative interpretations of his experiences."
-              ]
-            },
-            {
-              "technique_name": "Reality Testing",
-              "instructions_for_therapist": [
-                "Guide Caleb in assessing the reality of his automatic thoughts.",
-                "Ask him to consider the thoughts, 'I'm not as good as they are.' and evaluate their validity.",
-                "Encourage him to think of times when he felt competent or successful."
-              ]
-            },
-            {
-              "technique_name": "Alternative Perspective",
-              "instructions_for_therapist": [
-                "Encourage Caleb to adopt a different perspective on his situation.",
-                "Ask questions such as, 'How might someone else see your work or your abilities?'",
-                "Facilitate discussions that help him consider more positive self-assessments."
+                "Introduce the concept of evidence-based questioning to challenge negative beliefs.",
+                "Guide Caleb to identify and articulate his automatic thoughts regarding his work compared to others.",
+                "Facilitate a discussion on evidence supporting and contradicting these automatic thoughts.",
+                "Encourage Caleb to reflect on his own achievements and reassess the validity of his comparisons."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Caleb, the primary focus is to build rapport and enhance his self-awareness while he remains in the Pre-contemplation phase. The use of Motivational Interviewing strategies such as reflective listening and expressing empathy allows for a non-judgmental sharing of his thoughts and feelings, which is crucial given his defensiveness. By developing discrepancies between his current mindset and his personal values, I can help him reflect on what he truly desires in his academic and personal life without pushing for immediate change. Integrating CBT techniques like evidence-based questioning will enable Caleb to critically assess his automatic thoughts about his competency, while reality testing will help him evaluate the validity of those beliefs. Using alternative perspectives will encourage him to see his situation from a different angle, which may reduce his feelings of hopelessness. This structured approach addresses his resistance by fostering curiosity and engagement rather than imposing solutions.",
-        "progress_marker": "Caleb begins to articulate more about his feelings and thoughts without defensiveness, showing signs of increased self-awareness and curiosity about his situation."
+        "therapist_reasoning": "In approaching Caleb's therapy, I first recognize his pre-contemplation phase, which is characterized by resistance and defensiveness. Utilizing motivational interviewing, I will employ reflective listening to show empathy and validate his feelings, making him feel safe to express his thoughts. This will help build rapport. I will also develop discrepancies by asking him to explore the differences between his perceived failures and actual achievements, thereby increasing his awareness of his thoughts and emotions. In parallel, I will employ evidence-based questioning from CBT to help him articulate his negative automatic thoughts, encouraging him to gather evidence for both sides of his beliefs about his competence. This dual approach allows me to avoid pressuring him into change while guiding him to reflect on his situation and values, which is particularly important given his intermediate resistance level. The combination of MI strategies and CBT techniques aims to foster curiosity and engagement, promoting self-exploration without pushing for immediate behavioral change.",
+        "progress_marker": "Caleb expresses increased awareness of his thought patterns and begins to articulate his feelings about comparisons with colleagues."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to express my feelings without being judged or pressured to change.",
+        "client_objective": "I hope to understand my feelings without feeling pressured to change anything right now.",
         "client_state": {
-          "awareness": "I have some sense that I struggle, but I don't see it as a serious problem.",
-          "motivation": "I don't really want to change; it feels overwhelming to think about it.",
-          "openness": "I'm willing to share a bit about how I feel, but I don't want to dig too deep.",
-          "resistance": "I feel a strong urge to defend my current situation and avoid discussing my issues."
+          "awareness": "I recognize that I have issues with completing my work, but I often downplay how serious they are.",
+          "motivation": "I don't really feel motivated to change; it seems too overwhelming and impossible.",
+          "openness": "I'm somewhat reluctant to share my deeper feelings, as it feels safer to keep things surface-level.",
+          "resistance": "I often feel defensive when discussing my work and my inadequacies; it feels uncomfortable."
         },
-        "client_reasoning": "I know I should probably be more focused on my research and not compare myself to others, but it feels like there's just too much pressure to perform perfectly. I often feel like I'm just not good enough, and that thought makes me want to avoid talking about my work altogether. I think about how my colleagues are publishing more and working longer hours, and it just reinforces this feeling of inadequacy. Talking about it feels uncomfortable; what if I admit that I’m struggling? It feels safer to brush it off and focus on other things, like painting or meditating, rather than face the reality of my situation. I’m skeptical that anything can really change for me, and sometimes I just want to talk about my feelings instead of my work. I guess I worry that if I confront these problems, I might discover I'm more of a failure than I already believe I am."
+        "client_reasoning": "I look at my peers and see them working tirelessly, publishing paper after paper, while I struggle just to finish my projects. I know I should be more focused and driven, but the thought of digging deep into my feelings about not measuring up feels impossible. It’s easier to brush it off and talk about the external pressures instead of confronting my own beliefs about being a failure. Therapy feels intimidating; I worry that talking about my inadequacies will just highlight how unworthy I feel. I guess I’m stuck in a cycle of avoidance because I fear that discussing these issues might push me toward change, which I’m not ready for. It’s like I’m in a fog where I know something isn’t right, but I can’t see clearly enough to make sense of it or even want to change it. That uncertainty keeps me from being open about what I really think and feel."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Caleb hasn't fully articulated his feelings or thoughts. Client objective not met: Caleb remains defensive and hesitant to explore deeper issues.",
-          "client_utterance": "I guess I feel like I'm not really good enough compared to my colleagues. They always seem to publish more and work harder. It makes me want to avoid thinking about my own projects.",
-          "therapist_utterance": "It sounds like there's a lot of pressure you feel from comparing yourself to others. You might feel like their success highlights how you're struggling. What do you think that says about your own view of your work?",
-          "therapist_use": "Reflective Listening: to validate Caleb's feelings of inadequacy and encourage him to elaborate."
+          "reason_for_ending": "KEEP: Therapist's objective of increasing Caleb's awareness of his thoughts and feelings wasn't met as Caleb remains defensive. Client's objective of understanding his feelings without pressure wasn't met because he still feels overwhelmed and reluctant to dig deeper.",
+          "client_utterance": "I guess I just feel like everyone else is moving forward while I'm stuck. It’s frustrating to see others publish their work when I can barely finish mine. I try to tell myself it’s okay, but it still eats at me.",
+          "therapist_utterance": "It sounds like you’re really feeling the weight of comparisons with your peers, which is understandable. You’re recognizing that it’s frustrating to feel stuck while others seem to be progressing. It’s okay to feel this way, and I want to hear more about how this impacts your work.",
+          "therapist_use": "Reflective Listening: used to demonstrate understanding and validate Caleb's feelings about his comparisons."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Caleb has not yet begun to reflect on his values or his self-perception in depth. Client objective not met: Caleb still feels the need to defend his situation.",
-          "client_utterance": "I just think I should be able to handle it. I know I shouldn’t compare myself, but it’s hard not to. Sometimes I just want to focus on my painting instead of my work.",
-          "therapist_utterance": "It seems like there's a conflict between what you feel you should do and what you actually want to do. Focusing on painting brings you joy, which is important too. How do you see that balancing out with your research?",
-          "therapist_use": "Expressing Empathy: acknowledging Caleb's conflict and encouraging exploration of his feelings."
+          "reason_for_ending": "KEEP: Therapist's objective of fostering curiosity about Caleb's thoughts and their impact wasn't met, as Caleb is still hesitant to explore deeper feelings. Client's objective of feeling safe in understanding his emotions wasn't met due to his defensiveness.",
+          "client_utterance": "I mean, sometimes I think I should just be more like them, but it feels impossible. It’s like I’m stuck in this cycle of feeling inadequate, yet I don’t want to confront it. Talking about it right now feels overwhelming.",
+          "therapist_utterance": "It’s completely normal to feel that way, and it sounds like there’s a part of you that wants to explore these feelings but feels some resistance. You’re not alone in this experience, and it’s okay to take your time. What do you think is holding you back from feeling like you can confront these feelings?",
+          "therapist_use": "Expressing Empathy: acknowledged Caleb's feelings of inadequacy without judgment and reinforced that it's normal to feel overwhelmed."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Caleb is still not fully open about his internal struggles. Client objective not met: Caleb is reluctant to delve deeper into his feelings.",
-          "client_utterance": "I guess I just feel overwhelmed when I think about my research. It feels like the more I try, the more I see how far I have to go. I’m not sure I want to face that.",
-          "therapist_utterance": "It sounds overwhelming indeed, and it's understandable to want to avoid those feelings. What do you think would happen if you allowed yourself to really examine those thoughts and feelings? Could there be value in confronting them?",
-          "therapist_use": "Developing Discrepancy: gently highlighting the disconnect between Caleb's feelings and potential for growth."
+          "reason_for_ending": "KEEP: Therapist's objective of developing discrepancy wasn't met, as Caleb is still avoiding deeper exploration of his feelings. Client's objective of understanding his feelings wasn't met, as he remains reluctant to confront his emotions.",
+          "client_utterance": "I guess it’s just easier to focus on my projects rather than think about how I measure up. But then, I still feel this nagging sense of failure. I don’t want to feel like I’m failing, but I’m not sure how to change that.",
+          "therapist_utterance": "You’re expressing a common struggle, where focusing on your work feels like a protective mechanism against those feelings of inadequacy. It sounds like there’s a conflict between wanting to avoid those feelings and also wanting to feel successful. Can we explore what success looks like for you, outside of comparisons?",
+          "therapist_use": "Developing Discrepancy: helped Caleb reflect on the difference between his current feelings and his definition of success."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Caleb still hasn't articulated his values regarding success. Client objective not met: Caleb continues to resist exploring his deeper feelings.",
-          "client_utterance": "I think if I were actually good at what I do, I wouldn’t feel this way. But I just can’t shake the feeling that I’m not measuring up. It’s easier to just focus on other things.",
-          "therapist_utterance": "You seem to hold a strong belief that your worth is tied to your success in research. What does success truly mean to you beyond just comparisons? How might you redefine it in a way that feels more achievable?",
-          "therapist_use": "Evidence-Based Questioning: encouraging Caleb to critically assess his beliefs around success."
+          "reason_for_ending": "KEEP: Therapist's objective of raising awareness wasn't fully met, as Caleb still struggles to articulate the impact of comparisons on his well-being. Client's objective of understanding his feelings isn't met, as he remains surface-level in his responses.",
+          "client_utterance": "I don’t know, I guess I just want to finish my work and not feel so behind. But it’s hard to not think about how others are judging me. I try to ignore it, but it keeps coming back.",
+          "therapist_utterance": "It sounds like you’re feeling pressured by external judgments, which can be really tough. Ignoring those feelings might give temporary relief, but they tend to resurface. What do you think would happen if you allowed yourself to acknowledge those thoughts instead?",
+          "therapist_use": "Raising Awareness: encouraged Caleb to consider how his comparisons impact his emotional well-being and work performance."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Caleb hasn't fully explored alternative perspectives on his abilities. Client objective not met: Caleb still feels defensive about his situation.",
-          "client_utterance": "I don’t know… maybe success is just finishing something, but it feels so hard to get there. I keep thinking I should be able to do it. But then I get stuck.",
-          "therapist_utterance": "It’s interesting to hear you say that finishing something could be a measure of success. What do you think has been holding you back from completing your projects? How might you view your progress differently?",
-          "therapist_use": "Alternative Perspective: encouraging Caleb to see his situation in a more positive light."
+          "reason_for_ending": "KEEP: Therapist's objective of increasing awareness wasn't fully met, as Caleb still struggles to articulate the specifics of his emotional experiences. Client's objective of feeling safe to explore feelings remains unmet as Caleb continues to express discomfort.",
+          "client_utterance": "I don’t know if I want to dive into this right now. It feels like it could just make everything worse. I just want to get my projects done without all this extra pressure.",
+          "therapist_utterance": "I hear you—dipping into these feelings can feel risky and overwhelming, especially when you have so much on your plate. It’s okay to take a step back if that’s what you need right now. What would feel manageable for you in terms of discussing these pressures?",
+          "therapist_use": "Reflective Listening: validated Caleb's feelings of overwhelm while allowing him to maintain control over the discussion."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Caleb is not yet fully aware of his strengths or achievements. Client objective not met: Caleb remains hesitant to confront deeper issues.",
-          "client_utterance": "I guess I have finished things before, but they never feel good enough. I just keep thinking about what I could have done differently. It’s frustrating.",
-          "therapist_utterance": "It sounds like you've had successes, but they don’t feel satisfying to you. What do you think contributes to that feeling? How could you celebrate the things you’ve accomplished instead of focusing on what could have been?",
-          "therapist_use": "Reality Testing: guiding Caleb to assess his automatic thoughts about past successes."
+          "reason_for_ending": "KEEP: Therapist's objective of fostering curiosity about Caleb's impact of comparisons wasn't met, as he still feels resistant to deep exploration. Client's objective of understanding feelings is still unmet as he avoids confronting them.",
+          "client_utterance": "I think maybe I just want to understand why I keep feeling this way without feeling like I have to change anything right away. I’m not ready for that yet.",
+          "therapist_utterance": "It's absolutely valid to want to understand your feelings without the pressure to change immediately. This is a process, and we can take it at a pace that feels comfortable for you. What do you think is the first step in understanding what you’re feeling more deeply?",
+          "therapist_use": "Developing Discrepancy: encouraged Caleb to reflect on his feelings and explore them without pressure to change."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: Caleb has begun to articulate his feelings and reflect on his values. Client objective met: Caleb is expressing his thoughts without significant defensiveness.",
-          "client_utterance": "Maybe I can start seeing the value in what I’ve done instead of just feeling inadequate. I’m not sure how, but I think I want to try focusing on finishing my projects.",
-          "therapist_utterance": "That's a wonderful realization, Caleb. Recognizing your achievements is a significant step forward. How might you start to incorporate that perspective into your daily work?",
-          "therapist_use": "Developing Discrepancy: reinforcing Caleb's shift in perspective and encouraging further exploration."
+          "reason_for_ending": "MOVE: Therapist's objective of increasing Caleb's awareness of his thoughts and feelings was met as he began to articulate his desire to understand himself. Client's objective of feeling safe to explore feelings was met as Caleb expressed a willingness to understand his emotions.",
+          "client_utterance": "Maybe I just need to accept that it's okay to feel this way sometimes. I can see now that these feelings are part of my experience, even if they’re uncomfortable.",
+          "therapist_utterance": "That’s a significant realization, Caleb. Accepting your feelings as part of your experience can be a powerful step forward. It’s okay to feel uncomfortable, and acknowledging that can help you move through it more easily.",
+          "therapist_use": "Raising Awareness: reinforced Caleb's recognition of his feelings, fostering a sense of acceptance and understanding."
         }
       ]
     },
@@ -132,28 +121,22 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Caleb's ambivalence towards change and increase his motivation for action.",
+          "objective": "To explore Caleb's ambivalence regarding the completion of his projects and to enhance his motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Invite Caleb to discuss his feelings about his current situation and his desire for change.",
-                "Use open-ended questions to elicit both sides of his ambivalence, highlighting his fears and desires.",
-                "Encourage Caleb to articulate what he values most in his work and how it connects to his current feelings."
+                "Begin by inviting Caleb to discuss his feelings about completing his projects.",
+                "Encourage him to express both his desire to complete his work and any fears or hesitations he has about doing so.",
+                "Utilize open-ended questions to facilitate deeper exploration, such as 'What do you think would happen if you completed your project?'"
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Help Caleb identify discrepancies between his current behavior and his values or goals.",
-                "Ask reflective questions that prompt him to consider how his current procrastination may conflict with his desire for academic success."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance",
-              "instructions_for_therapist": [
-                "Facilitate a discussion about the pros and cons of staying in his current cycle versus making changes.",
-                "Encourage Caleb to weigh the benefits of potential change against the fears he has about it."
+                "Guide Caleb to list the pros and cons of completing his projects versus not completing them.",
+                "Encourage reflections on how these align with his personal values and long-term goals.",
+                "Help him identify discrepancies between his current behavior and desired outcomes to foster motivation for change."
               ]
             }
           ]
@@ -161,84 +144,67 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
-              "instructions_for_therapist": [
-                "Guide Caleb to identify his catastrophic thoughts about not measuring up.",
-                "Ask him to consider the worst-case scenario and evaluate its likelihood and impact."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Assist Caleb in creating a list of pros and cons regarding his current work habits.",
-                "Encourage him to think critically about how these habits impact his self-esteem and productivity."
-              ]
-            },
-            {
               "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Help Caleb challenge his automatic thoughts by asking for evidence that contradicts his beliefs of incompetence.",
-                "Encourage him to recall past successes and moments of competence."
+                "Introduce the concept of evidence-based questioning to challenge negative beliefs.",
+                "Guide Caleb through identifying his automatic thoughts related to his work.",
+                "Assist him in gathering evidence that supports and contradicts these thoughts, emphasizing his successes.",
+                "Encourage him to reassess his beliefs and develop a balanced perspective that acknowledges his achievements."
               ]
             }
           ]
         },
-        "therapist_reasoning": "The therapy plan is focused on addressing Caleb's ambivalence towards change while fostering motivation. I will begin with Motivational Interviewing strategies to explore his mixed feelings about his work and the potential changes he is contemplating. By using open-ended questions, I aim to help him articulate both his fears and desires, creating a safe space for reflection. Developing discrepancy will involve highlighting the clash between his current procrastination and his academic goals, prompting him to consider the personal values at stake. The decisional balance will further clarify the benefits and drawbacks of his current behavior, allowing him to see the larger picture. In parallel, CBT interventions will focus on reframing his unhelpful thoughts through decatastrophizing and evidence-based questioning, which will help him challenge his core beliefs of incompetence. The pros and cons analysis will also aid in enhancing his self-awareness regarding the impacts of his coping strategies. This structured approach respects his resistance and promotes gradual insight, setting the stage for increased self-efficacy without forcing immediate action.",
-        "progress_marker": "Caleb begins to articulate his feelings about change and shows increased awareness of discrepancies between his values and current behaviors."
+        "therapist_reasoning": "In this phase, it is crucial to address Caleb's ambivalence regarding his work and enhance his motivation for change. By employing Motivational Interviewing strategies, such as exploring ambivalence, I will facilitate Caleb's expression of both his desires and fears, allowing him to confront his internal conflicts. The decisional balance discussions will help him reflect on the impact of his current behaviors on his values and aspirations, thus creating discrepancies that can motivate change. Concurrently, I will incorporate Cognitive Behavioral Therapy techniques, specifically evidence-based questioning, to challenge his automatic negative thoughts and beliefs about himself. This approach will involve guiding him to gather evidence of his achievements, thereby reinforcing his self-efficacy. By intertwining these strategies, I aim to foster a collaborative environment where Caleb feels supported in navigating his ambivalence, ultimately leading to increased motivation and readiness for change.",
+        "progress_marker": "Caleb expresses a clearer understanding of his ambivalence and articulates specific personal values that contrast with his current behavior, indicating a readiness to explore change."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity on my feelings about my work and the changes I might need to make.",
+        "client_objective": "I hope to understand my feelings about finishing my projects and explore my fears about change.",
         "client_state": {
-          "awareness": "I'm starting to see how my fear of not being perfect is holding me back from finishing my projects. I realize I often compare myself to others and feel inadequate.",
-          "motivation": "I want to change, but I'm unsure if I can actually make it happen. I see the benefits of finishing my work, but the fear of failure looms large.",
-          "openness": "I'm somewhat willing to share my thoughts with my therapist, especially about my feelings of inadequacy. However, I still hesitate to fully open up about my fears.",
-          "resistance": "I feel a strong pull to resist change because it seems overwhelming and I doubt my ability to succeed. Part of me wants to stay in my comfort zone."
+          "awareness": "I recognize that I often feel overwhelmed and anxious about my work, especially when comparing myself to others. I see that my tendency to procrastinate might be linked to my fear of not being perfect.",
+          "motivation": "I want to change my approach to work, as I know that my current habits aren’t helping me succeed. However, I'm unsure if I can make these changes or if they will even make a difference.",
+          "openness": "I'm starting to share more about my feelings with my therapist, but I still find it difficult to fully express my doubts and fears regarding my competence and self-worth.",
+          "resistance": "I often feel pessimistic about my ability to change and find myself defending my current situation, thinking it might be easier to just accept things as they are."
         },
-        "client_reasoning": "Lately, I've been reflecting on how I approach my work and the constant pressure I put on myself to achieve perfection. I see now that my tendency to compare myself with my colleagues is fueling my anxiety and making me feel like a failure. I know I should be focusing on my projects, but the idea of not measuring up is paralyzing. There’s a part of me that wants to change because I know it could lead to a more fulfilling career, yet I can't shake the feeling that I'm not good enough to succeed. Talking with my therapist is helping me untangle these thoughts, but I still feel conflicted. I find myself ruminating about my past experiences and wondering if it’s even worth the effort to change. I’m concerned that if I try and fail, it would only confirm my fears of incompetence. I want to explore these feelings further, but I’m scared of what it might mean for me moving forward."
+        "client_reasoning": "I'm beginning to see that my behavior and feelings about my work are interconnected, and it’s unsettling. I recognize that I struggle to finish projects, which makes me feel like a failure, especially when I compare myself to my colleagues. I know I should be working harder and pushing through, but the thought of failing or not measuring up to my expectations paralyzes me. Sometimes, I feel that talking about my feelings might be more beneficial than trying to force myself to work. Therapy is helping me reflect, but I still feel stuck between wanting to change and fearing that I can't. What if I try and still don’t succeed? I’m caught in this cycle of doubt and procrastination, and while I want to break free from it, the thought of doing so feels daunting.",
+        "progress_marker": "Client has begun to articulate feelings of anxiety and recognizes the impact of perfectionism on work completion."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Caleb hasn't fully explored his ambivalence. Client objective not met as Caleb hasn't gained clarity about his feelings.",
-          "client_utterance": "I've been thinking about what you said regarding success being about finishing projects. I realize that I often feel overwhelmed by the idea of finishing, but maybe I need to redefine what completion looks like for me.",
-          "therapist_utterance": "That's a great insight, Caleb. What would it look like for you to redefine completion? Are there smaller steps you could take that would still feel like progress without the pressure of perfection?",
-          "therapist_use": "Open-ended questioning: used to facilitate Caleb's exploration of redefining success."
+          "reason_for_ending": "KEEP - Therapist objective was not met as Caleb hasn't fully explored his feelings about completing projects. Client objective was not met because Caleb is still uncertain about his feelings toward change.",
+          "client_utterance": "I've been thinking more about my feelings around finishing my projects, and I feel this constant pressure to be perfect. I know deep down that I want to complete my work, but the fear of it not being good enough really holds me back. It's like I'm at a standstill because I don’t know if I can meet my own expectations.",
+          "therapist_utterance": "It sounds like you're grappling with the weight of perfectionism, which is a significant barrier to completing your projects. Acknowledging that pressure is an important step, but it can feel paralyzing. What do you think might happen if you allowed yourself to see the value in making progress, even if it's not perfect?",
+          "therapist_use": "Open-ended question: encouraged deeper exploration of Caleb's fears about perfectionism."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Caleb hasn't fully articulated his feelings about the pressure to finish. Client objective not met as he still feels uncertain about actionable steps.",
-          "client_utterance": "I think if I could focus on just completing smaller aspects of my projects, it might help. But I still feel like I need to achieve a certain standard, which is hard to let go of.",
-          "therapist_utterance": "It sounds like there's tension between your desire to complete tasks and the standard you set for yourself. What do you think would happen if you allowed yourself to complete something without that high standard? How might that change your experience?",
-          "therapist_use": "Developing discrepancy: used to highlight the gap between current standards and potential for lower-pressure completion."
+          "reason_for_ending": "KEEP - Therapist objective was not met as Caleb hasn't listed the pros and cons of completing his projects. Client objective was not met because Caleb still feels overwhelmed and is not ready to confront his fears.",
+          "client_utterance": "I guess if I think about it, completing my projects could lead to a sense of accomplishment. But at the same time, I fear that it could expose my inadequacies, and that thought is really daunting. I just wish I could feel more confident about the whole process.",
+          "therapist_utterance": "You're identifying some important pros and cons, which is a good start. It’s natural to feel that completing your work could both bring relief and also raise fears about your capabilities. How do you think these feelings align with what you truly value in your research and academic journey?",
+          "therapist_use": "Decisional balance discussion: facilitated Caleb's reflection on the impact of his fears versus his values."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Caleb has not deeply weighed the pros and cons of his current work habits. Client objective not met as Caleb still feels conflicted about letting go of perfection.",
-          "client_utterance": "I guess if I completed something without aiming for perfection, it might actually feel good to finish. But what if it’s still not good enough in the end? That thought is really scary.",
-          "therapist_utterance": "It’s completely understandable to feel scared about that. What do you think is the worst-case scenario if you finish a project without it being perfect? How likely do you think that scenario actually is?",
-          "therapist_use": "Decatastrophizing: used to help Caleb identify and evaluate his catastrophic thoughts about project completion."
+          "reason_for_ending": "KEEP - Therapist objective was not met as Caleb hasn't fully articulated discrepancies between his current behavior and desired outcomes. Client objective was not met because Caleb is still unsure about how to reconcile his fears with his goals.",
+          "client_utterance": "I value the impact my research could have, but I often feel like I'm just spinning my wheels. I see others making progress, and I keep thinking that if I don’t get my projects done, I’ll never be taken seriously. It’s frustrating because I want to be recognized for my work but feel trapped by my own expectations.",
+          "therapist_utterance": "That recognition is clearly important to you, and it’s understandable to feel frustrated when you perceive a disconnect between your efforts and outcomes. It’s powerful that you’re seeing this pattern of feeling trapped. What do you think might change if you allowed yourself to focus on the process rather than just the end result?",
+          "therapist_use": "Reflective listening: validated Caleb's feelings about recognition and helped him consider a shift in focus."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Caleb hasn't fully engaged in a pros and cons analysis of his fears. Client objective not met as he remains uncertain about the implications of his fears.",
-          "client_utterance": "The worst-case scenario feels like it would confirm my fears of incompetence, which terrifies me. But I also know that if I don’t try, I’ll never know if I can succeed.",
-          "therapist_utterance": "That’s a powerful realization, Caleb. It seems like there’s a part of you that recognizes the importance of trying despite the fear. Can you list some pros and cons of staying in this cycle of perfectionism versus attempting to finish your projects in a more relaxed way?",
-          "therapist_use": "Pros and cons analysis: used to help Caleb weigh the benefits of change against his fears."
+          "reason_for_ending": "KEEP - Therapist objective was not met as Caleb hasn't fully reflected on the potential benefits of focusing on the process. Client objective was not met because Caleb is still caught up in his fears and comparisons.",
+          "client_utterance": "If I could focus more on enjoying the process of my research, I think I might feel less anxious. But then there's this nagging fear that I won't have anything to show for it in the end. I'm just worried that if I don't see tangible results, it will feel like a waste of time.",
+          "therapist_utterance": "It sounds like you’re recognizing the potential shift in perspective, which is a positive step. Yet, that fear of not having tangible results still looms large for you. What would it look like to redefine success in a way that incorporates both the journey and the outcomes?",
+          "therapist_use": "Exploratory questioning: encouraged Caleb to redefine success and consider a broader perspective."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Caleb hasn't articulated clear pros and cons. Client objective not met as he still needs to clarify his feelings about the fear of failure.",
-          "client_utterance": "If I stay in this cycle, I keep feeling inadequate and unproductive. But on the other hand, finishing something could lead to a sense of accomplishment, even if it’s not perfect.",
-          "therapist_utterance": "You’ve highlighted some important points there. It sounds like the fear of feeling inadequate is a strong motivator to stay where you are, but the potential for accomplishment is a compelling reason to try something different. How can you start to lean towards that sense of accomplishment?",
-          "therapist_use": "Reflective questioning: used to encourage Caleb to focus on moving toward accomplishment."
+          "reason_for_ending": "KEEP - Therapist objective was not met as Caleb hasn't fully embraced a new definition of success. Client objective was not met because Caleb is still hesitant about adopting a new mindset.",
+          "client_utterance": "I think redefining success could help, but it feels like a big change. I'm not sure I can do it, and part of me fears that it might not even help. What if I try and it doesn’t make a difference? I feel stuck in that uncertainty.",
+          "therapist_utterance": "It's completely normal to feel apprehensive about making changes, especially when you’ve been operating under a particular mindset for so long. Embracing uncertainty can be challenging, but it also opens up new possibilities. How might taking small steps toward this new definition of success feel for you?",
+          "therapist_use": "Encouragement for small steps: supported Caleb in considering manageable actions towards his goals."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Caleb hasn't fully committed to taking any actions yet. Client objective not met as he still feels uncertain about the next steps.",
-          "client_utterance": "Maybe I can try setting smaller goals that feel more manageable. The idea of completing smaller pieces sounds less intimidating, but I still worry about not measuring up.",
-          "therapist_utterance": "That sounds like a constructive approach. Setting smaller, more manageable goals could help you regain a sense of control. What would be the first small step you might take towards that goal?",
-          "therapist_use": "Goal setting: used to help Caleb identify actionable steps toward progress."
-        },
-        {
-          "reason_for_ending": "MOVE: Therapist objective met as Caleb has begun articulating his feelings and considering actionable steps. Client objective met as he has gained clarity about his feelings and potential changes.",
-          "client_utterance": "I think my first step could be to finish one section of my project this week. I’ll aim for completion without worrying too much about perfection. That feels manageable.",
-          "therapist_utterance": "That’s a fantastic plan, Caleb! Setting a specific goal like that can really help you focus. Remember to celebrate that achievement once you complete it, regardless of how perfect it feels.",
-          "therapist_use": "Supportive affirmation: used to reinforce Caleb's commitment to actionable steps."
+          "reason_for_ending": "MOVE - Therapist objective was met as Caleb has articulated his fears and considered a new perspective on success. Client objective was met because Caleb is starting to explore change and feels more open to redefining his approach.",
+          "client_utterance": "I think maybe I could start by focusing on the enjoyment of my research rather than just the end product. That feels like a manageable shift, and I can see how it might relieve some pressure. It’s still daunting, but I feel a bit more motivated to try.",
+          "therapist_utterance": "That’s a significant breakthrough, Caleb! By prioritizing enjoyment in your research, you’re setting a foundation for a healthier relationship with your work. It’s encouraging to hear you feel more motivated to try this approach, and I’m here to support you as you navigate this transition.",
+          "therapist_use": "Reinforcement of progress: celebrated Caleb's shift in perspective and commitment to focus on enjoyment."
         }
       ]
     },
@@ -247,22 +213,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Caleb's commitment to change and enhance his motivation for action.",
+          "objective": "To strengthen Caleb's commitment to change and enhance his self-efficacy regarding his work.",
           "strategies": [
             {
-              "strategy_name": "Commitment Language Enhancement",
+              "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Caleb to articulate his reasons for wanting to complete his projects and how that aligns with his personal and professional goals.",
-                "Encourage him to express his feelings about the changes he wants to make, reinforcing positive language around his intentions.",
-                "Explore and affirm any statements that reflect Caleb's commitment to taking concrete steps toward his goals."
+                "Ask Caleb to articulate why he wants to make changes in his work habits and how these changes will benefit him.",
+                "Encourage him to express his feelings about taking action and the importance of his research.",
+                "Explore how his past successes can reinforce his commitment to change."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Ask Caleb to rate his confidence in completing specific tasks on a scale from 1 to 10.",
-                "Discuss what would need to change for him to feel more confident, exploring his strengths and past successes.",
-                "Support him in identifying any resources or supports that he could leverage to increase his readiness for action."
+                "Ask Caleb to rate his confidence in making the necessary changes on a scale of 1 to 10.",
+                "Explore the reasons behind his rating and what would help him feel more confident.",
+                "Discuss potential supports he can enlist from his network, such as mentors or peers."
               ]
             }
           ]
@@ -270,80 +236,74 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Caleb in creating a specific action plan for completing a manageable project segment, ensuring it feels achievable.",
-                "Break down tasks into smaller steps, and help him set realistic deadlines for each step.",
-                "Encourage him to identify potential barriers and brainstorm coping strategies to address these challenges."
-              ]
-            },
-            {
-              "technique_name": "Behavior Experiment",
-              "instructions_for_therapist": [
-                "Design a behavior experiment where Caleb can test his belief about needing to work perfectly by allowing himself to complete a task with a lower standard.",
-                "Discuss the anticipated outcomes and how he might feel before and after completing this experiment.",
-                "Reflect on the results in the next session to evaluate the impact on his perceptions of competence and success."
+                "Introduce the concept of evidence-based questioning to Caleb.",
+                "Help him identify his automatic thoughts about comparing himself to colleagues.",
+                "Guide him in gathering evidence for and against these thoughts.",
+                "Challenge the validity of his comparisons and facilitate a reassessment of his beliefs.",
+                "Work collaboratively to create a balanced perspective on his achievements.",
+                "Set small, achievable goals focusing on his personal progress, like specific work hours and weekly reflections."
               ]
             }
           ]
         },
-        "therapist_reasoning": "The therapist begins by recognizing Caleb's internal resistance, particularly his pessimistic feelings and fear of inadequacy. To address this, MI strategies are employed, starting with commitment language enhancement to help Caleb verbalize his motivations and intentions. This aligns with strengthening his commitment to change. Next, exploring his confidence and readiness allows him to assess and articulate areas of strength, which can counteract his feelings of helplessness. In conjunction with these MI strategies, CBT interventions focus on action planning to create a realistic and achievable framework for Caleb's project completion, which is crucial given his tendency to ruminate and procrastinate. By breaking tasks into smaller steps, the therapist aims to alleviate the overwhelming feelings Caleb experiences. The behavior experiment will challenge his belief that perfection is necessary for success, allowing him to test this assumption in a supportive manner. This combined approach fosters a collaborative environment where Caleb feels empowered to take gradual steps toward his goals, bolstering his self-efficacy and commitment to change.",
-        "progress_marker": "Caleb will demonstrate increased confidence in his ability to complete projects by sharing his action plan and reflecting on his experience with the behavior experiment."
+        "therapist_reasoning": "Initially, I focused on strengthening Caleb's commitment to change by using Motivational Interviewing strategies. I encouraged him to articulate his reasons for wanting to improve his work habits, reinforcing the intrinsic motivation that comes from aligning his actions with his values. I then explored his confidence in making these changes, helping him identify potential supports that could enhance his self-efficacy. Subsequently, I integrated Cognitive Behavioral Therapy interventions, particularly through evidence-based questioning, to address his negative automatic thoughts related to self-comparison. This approach allowed Caleb to gather evidence that countered his feelings of inadequacy and facilitated a reassessment of his beliefs about success. By collaboratively setting small, achievable goals, I ensured that the plan was realistic and tailored to his individual needs, thereby addressing his resistance and promoting gradual behavioral change.",
+        "progress_marker": "Caleb will track his feelings of self-efficacy and commitment to change through weekly reflections on his progress and challenges."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore practical steps I can take to finish my projects while managing my fears of inadequacy.",
+        "client_objective": "I hope to explore practical steps for completing my projects while managing my fears of inadequacy.",
         "client_state": {
-          "awareness": "I recognize that my struggle to complete my work is affecting my confidence and overall happiness. I see how comparing myself to others only deepens my feelings of inadequacy.",
-          "motivation": "I feel a growing desire to improve my situation and am starting to believe that change is possible. I want to find ways to finish my projects and feel accomplished.",
-          "openness": "I'm willing to discuss my thoughts and feelings with my therapist, as I know that exploring my doubts and fears is important for my growth.",
-          "resistance": "Despite my motivation, I still feel a lot of doubt about my abilities and fear that I won't be able to maintain any changes I try to make."
+          "awareness": "I recognize that my fear of failure and comparison to others is holding me back from finishing my work.",
+          "motivation": "I feel a stronger desire to make changes and complete my projects, knowing that improvement is possible.",
+          "openness": "I am willing to discuss my thoughts and feelings about my work and potential strategies with my therapist.",
+          "resistance": "I still feel some doubts about my capabilities and fear that I might not measure up to others or succeed."
         },
-        "client_reasoning": "I've started to acknowledge that my current situation is not sustainable. The constant comparison to my colleagues has only amplified my feelings of incompetence and failure. However, I realize that completing my projects is essential for my self-esteem and professional growth. Therapy has helped me understand that feeling overwhelmed is a natural part of the process, and that change is not just possible, but necessary. I’m beginning to envision ways I can manage my time and thoughts, but I still worry about not measuring up to my own expectations or those of others. There's a cautious optimism growing within me; I want to improve, yet I still grapple with fears of failure and inadequacy. I hope to explore these feelings further in therapy to help me move forward.",
-        "progress_marker": "Client has begun to articulate the need for change and is exploring possible strategies in therapy."
+        "client_reasoning": "I've come to realize that my current situation isn't sustainable; I can't keep feeling like a failure just because I haven't finished my projects. I know that change is necessary because I genuinely want to complete my work and feel accomplished. I imagine how good it will feel to finish something, but I still worry that I won't be able to maintain that change or that my efforts won't be enough. Therapy has helped me see that it's okay to have these fears, but I need to push through them. I want to explore ways to cope better and find a balance that allows me to complete my work without feeling overwhelmed. I'm motivated to improve, but there's still a part of me that hesitates, fearing I won't measure up to my peers."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Caleb has not yet articulated his specific action plan. The client's objective was not met as Caleb has not yet fully explored practical steps to manage his fears of inadequacy.",
-          "client_utterance": "I’ve been thinking more about setting smaller goals, but sometimes I still doubt if I can actually follow through with them. It feels like I might just end up avoiding the work again, especially if I think it might not be good enough.",
-          "therapist_utterance": "It's completely normal to feel that way, Caleb. Maybe we can explore what specific steps you could break those smaller goals into so that they feel less daunting. What would be one manageable task you could tackle this week that feels achievable?",
-          "therapist_use": "Open-ended questioning: used to encourage Caleb to think about actionable steps."
+          "reason_for_ending": "KEEP: Therapist objectives were not met because they haven't fully explored Caleb's feelings about his research and commitment to change. Client objectives were not met as Caleb still expresses doubts about his capabilities and feels overwhelmed by the pressure.",
+          "client_utterance": "I've been thinking about what you said regarding focusing on the enjoyment of my research. But honestly, I still find it hard to shake off the pressure of needing to produce results. What if I start enjoying my work and nothing changes? I’m worried that I’ll still feel inadequate.",
+          "therapist_utterance": "It’s understandable to feel apprehensive about how enjoyment might affect your results. The pressure to produce can be overwhelming, especially when you’re used to tying your self-worth to those outcomes. Let’s explore what enjoyment in your work could look like and how it might shift your focus away from that pressure.",
+          "therapist_use": "Exploring values: aimed to help Caleb articulate a vision of enjoyment in his research."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Caleb has not yet identified a concrete action plan. The client's objective was not met as Caleb is still expressing doubt about his ability to manage his fears.",
-          "client_utterance": "I think I could try to complete just the introduction of my project this week, but I’m still afraid that it won’t be good enough. I keep picturing how I’ll feel if I don’t meet my own expectations.",
-          "therapist_utterance": "That sounds like a great start! Focusing on just the introduction can help you build momentum. What if we also thought about how you might celebrate that accomplishment, regardless of the outcome?",
-          "therapist_use": "Affirmation: used to reinforce Caleb's plan and encourage a positive outlook on achievement."
+          "reason_for_ending": "KEEP: Therapist objectives were not met because they need to help Caleb articulate specific steps to enhance enjoyment. Client objectives were not met as Caleb is still grappling with the pressure of results.",
+          "client_utterance": "Maybe if I could identify smaller tasks that I enjoy more, it would help. I just don’t know where to start, and it feels like everything is interconnected with that pressure. I want to enjoy my work, but I also fear that focusing on enjoyment might take away my motivation to finish.",
+          "therapist_utterance": "Identifying smaller tasks can be a great way to reconnect with your passion for research. It’s about finding a balance where enjoyment doesn’t detract from your motivation but rather enhances it. Can we brainstorm some specific tasks or aspects of your work that you find fulfilling?",
+          "therapist_use": "Goal setting: encouraged Caleb to identify specific enjoyable tasks to foster intrinsic motivation."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Caleb has not yet committed to a plan for celebrating his accomplishments. The client's objective was not met as Caleb still holds onto fear about expectations.",
-          "client_utterance": "Celebrating feels a little strange to me. I wonder if I should even bother if I feel it’s not 'worthy' of celebration. It’s hard to shake that feeling that I’ll just be disappointed.",
-          "therapist_utterance": "I understand that celebrating can feel uncomfortable, especially when you're tied to rigid standards. However, recognizing even small achievements can help shift your mindset. What if we reframed celebration as simply acknowledging your effort, rather than the outcome?",
-          "therapist_use": "Reframing: used to help Caleb shift his perspective on celebration to reduce pressure."
+          "reason_for_ending": "KEEP: Therapist objectives were not met because they haven't yet worked through how to balance enjoyment and motivation. Client objectives were not met as Caleb still feels uncertain about the relationship between enjoyment and productivity.",
+          "client_utterance": "I think I enjoy the initial stages of research, like brainstorming ideas and planning experiments. But once it gets to the nitty-gritty details, I feel overwhelmed. Maybe if I focused on enjoying the planning stages, it could help ease the pressure later.",
+          "therapist_utterance": "That's a valuable insight, Caleb! Focusing on the stages you enjoy can indeed provide a reprieve from the pressure. It’s about creating a workflow that allows you to experience joy while still moving forward. How do you feel about setting specific times for those enjoyable planning sessions?",
+          "therapist_use": "Reframing: helped Caleb see the value in focusing on enjoyable tasks to alleviate pressure."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Caleb has not yet fully embraced the idea of acknowledging his efforts. The client's objective was not met as Caleb continues to express fear of disappointment.",
-          "client_utterance": "I guess if I think of it that way, it might feel less intimidating. But I still worry that if I don’t hit the mark I set, I’ll feel like I failed. It’s a tough cycle to break.",
-          "therapist_utterance": "It really is a challenging cycle, and it’s completely valid to feel that way. Maybe we can explore ways to remind yourself of your past successes and how they can inform this new approach? Reflecting on your strengths might help build your confidence.",
-          "therapist_use": "Strength exploration: used to help Caleb recognize his strengths and past accomplishments."
+          "reason_for_ending": "KEEP: Therapist objectives were not met because they haven't yet established a clear plan for how to integrate enjoyment into Caleb's workflow. Client objectives were not met as Caleb still feels hesitant to fully commit to this idea.",
+          "client_utterance": "Setting specific times sounds good, but I worry that I’ll still get caught up in the pressure to produce. I want to commit to enjoying my work, but those nagging thoughts keep creeping back in. How do I make sure I don’t fall back into that cycle?",
+          "therapist_utterance": "It’s completely natural for those thoughts to surface, especially when you’re trying to make a shift in your mindset. Addressing those nagging thoughts can be part of your process. Let’s talk about some strategies to manage them while you focus on your enjoyable tasks.",
+          "therapist_use": "Cognitive reframing: aimed to help Caleb address and manage his intrusive thoughts about performance."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Caleb has not yet connected his strengths to his current situation. The client's objective was not met as Caleb is still feeling overwhelmed by his fears.",
-          "client_utterance": "I can think of a few times when I’ve done well in my research, but it feels like those moments are overshadowed by my current struggles. I want to believe I can succeed, but it’s hard.",
-          "therapist_utterance": "It's understandable to feel overshadowed by current challenges, but those past successes are part of what makes you capable. Let's brainstorm how you can tap into that experience as you take these steps forward. What strengths from your past projects can you draw on to assist you now?",
-          "therapist_use": "Strengths-based inquiry: used to empower Caleb by focusing on his past successes."
+          "reason_for_ending": "KEEP: Therapist objectives were not met because they need to provide Caleb with more tools to manage his intrusive thoughts. Client objectives were not met as Caleb still expresses concern about falling back into old patterns.",
+          "client_utterance": "I think I could try writing down my thoughts when they come up. It might help to see them on paper instead of letting them swirl in my head. But I’m still worried if I’ll really stick to this new plan.",
+          "therapist_utterance": "That’s a great idea, Caleb! Writing down your thoughts can help externalize them and give you a clearer perspective. It’s also okay to be worried about sticking to the plan; change takes time and practice. What if we set up a way to check in on your progress with this new approach?",
+          "therapist_use": "Progress tracking: aimed to create a structure for Caleb to monitor his commitment to new strategies."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Caleb has not yet formulated a clear action plan based on his strengths. The client's objective was not met as Caleb still struggles with self-doubt.",
-          "client_utterance": "I think I can pull from my past experiences, like the time I successfully managed a project under tight deadlines. If I remind myself of that, maybe I could push through my current doubts.",
-          "therapist_utterance": "That’s a fantastic realization! It sounds like you have a strong foundation to rely on. How can we incorporate that experience into your action plan? What’s a first step that feels achievable, drawing on that strength?",
-          "therapist_use": "Action planning: used to help Caleb create a concrete step based on his strengths."
+          "reason_for_ending": "KEEP: Therapist objectives were not met because they still need to reinforce Caleb's commitment to using his strategies. Client objectives were not met as Caleb expresses doubt about his ability to follow through.",
+          "client_utterance": "A check-in sounds helpful, but I still feel like I might not follow through completely. I want to believe that I can make this change, but I also don’t want to set myself up for disappointment. Maybe if I start with just one thing, it would feel less daunting.",
+          "therapist_utterance": "Starting with one manageable step is a wise approach, Caleb. It allows you to build confidence without feeling overwhelmed. Let’s identify that one step you feel ready to take, and I’ll be here to support you as you check in on your progress.",
+          "therapist_use": "Scaffolded goal setting: helped Caleb focus on a manageable first step to build confidence."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met because Caleb has articulated a specific action plan drawing on his strengths. The client's objective was met as Caleb has shown increased confidence in his ability to manage his fears and complete tasks.",
-          "client_utterance": "I can start by outlining my introduction this week. I’ll remind myself of my past success while doing it, and maybe that will keep me motivated. It feels good to have a clearer plan.",
-          "therapist_utterance": "That’s a wonderful plan, Caleb! It sounds like you’re ready to take this step with a new perspective. Remember, celebrating your efforts along the way is just as important as completing the task.",
-          "therapist_use": "Commitment language enhancement: used to strengthen Caleb's commitment to his action plan."
+          "reason_for_ending": "MOVE: Therapist objectives were met as they supported Caleb in identifying manageable steps and fostering self-efficacy. Client objectives were met as Caleb articulated a plan to start with one step, showing readiness to commit.",
+          "client_utterance": "I think I’ll start by dedicating some time each week to just brainstorming ideas without the pressure of results. It feels manageable, and I can see how it could help me enjoy the process more. I’m ready to give this a try and see how it goes.",
+          "therapist_utterance": "That’s fantastic, Caleb! Dedicating time for brainstorming is an excellent step towards enjoying your work while still moving forward. I believe this will help you foster a more positive relationship with your research. Let’s set a time for our next check-in to see how this approach is working for you.",
+          "therapist_use": "Commitment reinforcement: validated Caleb's decision and set a plan for follow-up."
         }
       ]
     }

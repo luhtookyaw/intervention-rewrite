@@ -12,28 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport, increase awareness of emotional experiences, and explore discrepancies in beliefs without pushing for change.",
+          "objective": "Increase Taylor's awareness of their emotional experiences and the impact of their beliefs without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Taylor's feelings of detachment and emotional struggles.",
-                "Reflect back key emotions and thoughts to validate their experience, e.g., 'It sounds like you feel a deep sense of loneliness and struggle to articulate that.'",
-                "Encourage Taylor to share more about their experiences without judgment."
+                "Listen attentively to Taylor's feelings of detachment and validate their experiences.",
+                "Reflect back their thoughts and emotions to demonstrate understanding and encourage deeper exploration."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge the difficulty Taylor faces in discussing emotions, e.g., 'It's understandable that talking about these feelings is challenging for you.'",
-                "Normalize their feelings of withdrawal and confusion as a common response to emotional pain."
+                "Acknowledge the difficulty Taylor faces in articulating their feelings and the sense of being overwhelmed.",
+                "Use empathetic statements to reinforce that it’s okay to feel the way they do and that these feelings are valid."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the differences between Taylor's current emotional state and their values or desires regarding emotional connection.",
-                "Ask questions that evoke curiosity about their beliefs, e.g., 'What does it mean to you to feel connected with your emotions?'"
+                "Gently encourage Taylor to reflect on the disconnection between their current feelings of helplessness and their personal values, especially regarding emotional expression.",
+                "Ask open-ended questions that explore how their beliefs about emotions might not align with their desire for connection."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Prompt Taylor to consider moments when they felt connected to others or engaged in their emotions.",
+                "Facilitate a discussion about their family's beliefs regarding emotional expression and how that might influence their own beliefs."
               ]
             }
           ]
@@ -41,84 +47,98 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Introduce the Concept",
               "instructions_for_therapist": [
-                "Encourage Taylor to examine the evidence for their beliefs about helplessness and being unlovable.",
-                "Ask questions like, 'What experiences have led you to feel this way about yourself?'"
+                "Begin the session by discussing Taylor's feelings of detachment.",
+                "Explain emotional reasoning and how it might lead to distorted thinking, helping to normalize their experience."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Identify Emotional Beliefs",
               "instructions_for_therapist": [
-                "Invite Taylor to consider how someone else might view their situation, e.g., 'How do you think a friend would describe your feelings?'",
-                "Help them see that there could be different ways to interpret their experiences."
+                "Explore the automatic thought that Taylor feels detached and unable to engage.",
+                "Help Taylor identify the underlying beliefs tied to these thoughts, particularly focusing on feelings of being unlovable."
               ]
             },
             {
-              "technique_name": "Continuum Technique",
+              "technique_name": "Gather Evidence",
               "instructions_for_therapist": [
-                "Introduce a scale from 1 to 10 to help Taylor articulate their feelings of detachment and engagement.",
-                "Ask, 'On a scale of 1 to 10, how connected do you feel to your emotions right now?'"
+                "Guide Taylor to reflect on past experiences where they felt connected or engaged.",
+                "Help them identify evidence that contradicts their feelings of worthlessness and detachment."
+              ]
+            },
+            {
+              "technique_name": "Challenge Emotional Reasoning",
+              "instructions_for_therapist": [
+                "Ask Taylor to consider the evidence gathered and how it challenges their belief of being unlovable.",
+                "Encourage them to think about moments of connection and engagement they've experienced."
+              ]
+            },
+            {
+              "technique_name": "Develop Compassionate Self-Statements",
+              "instructions_for_therapist": [
+                "Collaborate with Taylor to create self-statements that affirm their worth and ability to express emotions.",
+                "Focus on statements that counter their feelings of detachment and helplessness."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Taylor, the therapist first recognizes the importance of building rapport and establishing a safe space for exploration. Utilizing Motivational Interviewing strategies, the therapist employs reflective listening to validate Taylor's feelings of detachment and loneliness, which may help reduce their defensiveness. Expressing empathy normalizes their struggle, fostering trust. Developing discrepancy is critical, as it encourages Taylor to reflect on how their current emotional experience may conflict with their values around emotional expression. Transitioning to Cognitive Behavioral Therapy, the therapist uses evidence-based questioning to challenge Taylor's core beliefs about helplessness and unlovability, promoting self-reflection. The alternative perspective technique invites Taylor to view their situation from a different angle, potentially fostering insight. Finally, the continuum technique helps quantify their emotional state, making feelings more manageable. By focusing on awareness and curiosity, the therapist respects Taylor's pre-contemplation phase, avoiding any push towards change while facilitating exploration of their internal landscape.",
-        "progress_marker": "Taylor begins to articulate feelings of detachment and shows increased willingness to explore emotional experiences."
+        "therapist_reasoning": "In approaching Taylor's therapy, I will first employ reflective listening to validate their feelings of detachment, which is crucial in building rapport. By expressing empathy, I can create a safe environment for Taylor to explore their emotions without feeling pressured to change. Using the strategy of developing discrepancy, I will gently guide Taylor to reflect on the conflict between their current feelings and their personal values regarding emotional expression. This will help them recognize the impact of their beliefs on their emotional state. In parallel, I will introduce cognitive behavioral techniques, starting with the concept of emotional reasoning to normalize their experience of detachment. By identifying emotional beliefs, I will help Taylor articulate their automatic thoughts and the underlying beliefs tied to these thoughts. As we gather evidence of moments when they felt connected, I will challenge their emotional reasoning to encourage self-reflection. Finally, I will work with them to develop compassionate self-statements that reinforce their worth, fostering a sense of agency without pushing for behavioral change at this stage.",
+        "progress_marker": "Taylor demonstrates increased willingness to reflect on their feelings and beliefs during sessions, indicating a growing awareness of their emotional state."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand my feelings of detachment better without feeling pressured to change.",
+        "client_objective": "I hope to understand why I feel so detached and if there's a way to make sense of it all.",
         "client_state": {
-          "awareness": "I feel like I might have a problem with emotions, but I'm not fully sure what it is.",
-          "motivation": "I want to feel better but don't think it's possible for me to change.",
-          "openness": "I'm hesitant to share my true feelings because I don't know how to express them.",
-          "resistance": "I often divert the conversation to external issues rather than addressing my internal struggles."
+          "awareness": "I have a vague sense that I feel detached and unhappy, but I don't fully recognize the depth of my emotional struggles.",
+          "motivation": "I'm not really motivated to change right now; I feel overwhelmed and doubt that anything can actually improve.",
+          "openness": "I want to share how I feel, but I'm really hesitant and struggle to find the right words.",
+          "resistance": "I feel a strong urge to avoid discussing my feelings, often redirecting the conversation to external situations."
         },
-        "client_reasoning": "When I think about my feelings, it’s like I’m watching from a distance, unable to fully grasp what's going on inside me. I know there's something not right, but every time I try to talk about it, I feel overwhelmed and just want to shut down. I remember my dad's struggles and how he never opened up, which makes me think that maybe discussing feelings isn't worth it. It’s easier to focus on what's happening around me instead of facing my own pain. I have this belief that if I dig too deep, I might uncover something even worse. Therapy feels like a double-edged sword; it could help, yet it’s also terrifying because I fear what I might find out about myself. I want to talk about my feelings, but the thought of putting them into words feels daunting. It’s like I’m caught in a web of confusion, where clarity seems just out of reach, and I don’t know how to move forward without feeling more vulnerable."
+        "client_reasoning": "I feel stuck in this fog of detachment, and it's hard to pinpoint why. Sometimes, I think about how my family never really discussed pain or suffering, and it makes me feel like I shouldn't talk about my own feelings either. I want to share what's going on inside me, but it feels like trying to grab smoke with my bare hands; it just slips away. I doubt that anything will change because my dad never talked about his struggles, and I see how that affected him. It’s like I’m carrying this weight, but I can’t find the words to express it. Therapy feels both intriguing and scary; part of me wants to explore this pain, yet I’m afraid of what I might uncover. I often think, 'What’s the point? Can talking really help?' I wonder if opening up will just make things worse, so I keep my feelings at bay."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective to build rapport and explore feelings was not fully met. The client's objective to understand feelings of detachment was not sufficiently addressed.",
-          "client_utterance": "I feel like I'm always looking at my emotions from the outside, like a movie. It's confusing and I don't know how to process it. Sometimes I think it might be better not to dig too deep.",
-          "therapist_utterance": "It sounds like you feel a sense of confusion and even fear about diving into your emotions. It's understandable to want to protect yourself from what might lie beneath the surface. Can you share more about what comes to mind when you think about digging deeper?",
-          "therapist_use": "Reflective Listening: used to validate the client's feelings of confusion and fear."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Taylor is still struggling to articulate their feelings of detachment. The client's objective was not met as they have not yet begun to explore the depth of their emotional struggles.",
+          "client_utterance": "I don't know, I just feel like I'm stuck in this fog. It's hard to even talk about it because it feels like I shouldn't have these feelings. I mean, my family never really talked about pain, so why should I? I guess I just keep thinking that nothing will change anyway.",
+          "therapist_utterance": "It sounds like you're feeling overwhelmed by this fog and that it's difficult to even start talking about your feelings. I hear you saying that your family didn't discuss pain, which makes it hard for you to feel you can share your own emotions. It's okay to feel that way, and you're not alone in this struggle. Can you tell me more about what it feels like when you try to talk about your feelings?",
+          "therapist_use": "Reflective Listening: used to validate Taylor's feelings of overwhelm and encourage exploration."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to increase awareness of emotional experiences was not fully met. The client's objective to understand feelings of detachment was not sufficiently addressed.",
-          "client_utterance": "When I think about it, I worry that whatever I find might make things worse. My dad never talked about his feelings, and it feels like there's this unspoken rule in my family. I don't want to be like him, but I don't know how to change that.",
-          "therapist_utterance": "It's clear that your dad's experiences have influenced how you view expressing emotions. You seem to feel caught between wanting to break that cycle and the fear of what might emerge. What do you think could happen if you allowed yourself to explore those feelings?",
-          "therapist_use": "Expressing Empathy: acknowledged the impact of family background on the client's emotional expression."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as the client still seems hesitant to explore their feelings in depth. The client's objective was not met since they are still avoiding a deeper understanding of their emotional struggles.",
+          "client_utterance": "When I try to talk about it, it feels like I'm just grasping at smoke. I want to share, but the words just slip away, and I end up thinking, 'What's the point?' Sometimes, I feel like if I open up, it might just make everything worse, you know? I think about my dad and how he never talked about his pain, and it makes me doubt this whole process.",
+          "therapist_utterance": "It's understandable to feel like the words are slipping away, especially when it feels like there's so much to unpack. It seems like you're grappling with a fear that opening up could lead to more pain, which makes sense given your dad's experience. It’s really valid to question whether talking about these feelings will help. Have there been any moments where you felt even a little bit connected or understood?",
+          "therapist_use": "Expressing Empathy: used to acknowledge Taylor's fear of opening up and validate their doubts about the process."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to develop discrepancies in beliefs was not fully met. The client's objective to understand feelings of detachment was not sufficiently addressed.",
-          "client_utterance": "I guess I feel like if I start talking about how I really feel, it may just open a floodgate of emotions that I can't handle. I want to feel connected to my emotions, but it’s just so hard. I often think about how my family would react if I opened up about what I'm really feeling.",
-          "therapist_utterance": "It sounds like there's a conflict between your desire for emotional connection and the fear of how it might affect you and those around you. It’s understandable to hesitate when thinking about your family's reaction. What would it mean for you to feel more connected to your emotions, despite those fears?",
-          "therapist_use": "Developing Discrepancy: explored the difference between the client's desire for connection and their fears."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because the client is still not recognizing moments of connection. The client's objective was not met as they have not yet started to explore their emotional experiences in a meaningful way.",
+          "client_utterance": "I think there were moments, like with friends sometimes, but I always feel like I end up shutting down. I guess I just don’t know how to keep that connection alive. It’s like I’m afraid they’ll see how detached I really am, and then it just becomes awkward. I keep thinking maybe it’s just easier to stay quiet.",
+          "therapist_utterance": "It sounds like there have been some moments with friends where you felt connected, but fear of being seen as detached makes it hard to maintain those connections. It's okay to feel that way, and it shows you're aware of your struggle. Staying quiet can feel safer, yet it sounds like part of you longs for deeper connections. What do you think might help you feel more comfortable expressing yourself with those you care about?",
+          "therapist_use": "Developing Discrepancy: used to gently encourage Taylor to reflect on their desire for connection versus their current feelings of detachment."
         },
         {
-          "reason_for_ending": "KEEP: The therapist’s objective to encourage self-reflection was not fully met. The client's objective to better understand feelings of detachment was not sufficiently addressed.",
-          "client_utterance": "I think it would mean a lot to feel understood and less alone in all this. But I worry that it could lead to more pain than relief. Sometimes I feel it’s just easier to focus on the outside world.",
-          "therapist_utterance": "You’re expressing a deep wish for understanding and connection, but also a strong concern about the potential pain that might come from it. It makes sense to want to stay in your comfort zone. What would help you feel safe if you were to explore those deeper feelings?",
-          "therapist_use": "Reflective Listening: validated the client’s feelings of wanting connection while also fearing emotional pain."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as the client is still struggling to articulate their needs for connection. The client's objective was not met since they are not fully exploring how to express their emotions.",
+          "client_utterance": "I guess I just don’t want to burden anyone with my feelings. It’s like I feel unlovable, and that if I start talking, they might see that. I just don't want to be a downer or make things awkward. Sometimes, I think it’s better to just keep my feelings to myself.",
+          "therapist_utterance": "It's really tough to feel that way, believing that sharing your feelings might burden others or make you feel unlovable. I want you to know that your feelings are valid, and it's okay to express them without fearing judgment. You deserve to be heard and supported. Can we explore some thoughts you have about being unlovable and how they might affect your connections?",
+          "therapist_use": "Identifying Emotional Beliefs: used to help Taylor articulate their feelings of unlovability and its impact on their emotional expression."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to help the client articulate their feelings was not fully met. The client's objective to understand feelings of detachment was not sufficiently addressed.",
-          "client_utterance": "Maybe if I had someone who just listened without judgment, I could say what's on my mind. But there's always this fear that once I start talking, I won’t be able to stop. I don't know if I'm ready for that.",
-          "therapist_utterance": "It sounds like having a safe space to express yourself is important to you, but there’s a fear of losing control once you start. That fear is very real, and it’s okay to take your time. How would you describe your current feelings on a scale from 1 to 10, in terms of feeling connected to your emotions?",
-          "therapist_use": "Continuum Technique: introduced a scale to help the client quantify their emotional connection."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as the client has not yet gathered evidence against their feelings of unlovability. The client's objective was not met because they are still not fully understanding or exploring their emotional struggles.",
+          "client_utterance": "I just keep thinking about all the times I felt like I didn't fit in, and it makes me feel worse. I know I have friends, but I still feel alone sometimes. Sometimes I think about how my dad dealt with his pain by shutting everyone out, and I don't want to be like that. But it’s hard to see anything different.",
+          "therapist_utterance": "It sounds like you're reflecting on your experiences of feeling alone, even in the company of friends, which is really valid. It’s insightful that you recognize the pattern from your dad’s experience, and it makes sense that you would want to avoid that outcome. Can we talk about times when you felt even a little bit connected, or when someone reached out to you? It might help to see a different perspective.",
+          "therapist_use": "Gather Evidence: used to encourage Taylor to recall moments of connection that might counteract their feelings of loneliness."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to increase awareness of emotional experiences was not fully met. The client's objective to understand feelings of detachment was not sufficiently addressed.",
-          "client_utterance": "I think I’d say I’m at a 3. I know there’s something there, but it feels really distant and hard to reach. I wish I could just jump to a higher number.",
-          "therapist_utterance": "That’s a great insight into where you currently are, and it’s okay to feel that distance. It’s a starting point, and recognizing it is the first step. What do you think might help you move from that 3 toward feeling more connected?",
-          "therapist_use": "Evidence-Based Questioning: encouraged exploration of what might help the client feel more connected."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as the client has not yet fully challenged their emotional reasoning. The client's objective was not met because they are still not exploring ways to affirm their emotional experiences.",
+          "client_utterance": "I can think of a few times, like when I had a good time with a friend at a concert. But I still feel like those moments are few and far between, like they don’t really count. It’s like I’ll always default back to feeling detached and unworthy, no matter what. I just don’t know how to change that.",
+          "therapist_utterance": "It's great that you can recall that concert as a moment of connection, even if it feels rare. Those moments absolutely count, and they show that connection is possible for you. It's understandable to feel like you might revert to detachment, but what if we looked at those moments as evidence that you are capable of connection? What do you think could help you hold onto those moments more?",
+          "therapist_use": "Challenging Emotional Reasoning: used to encourage Taylor to view their moments of connection as evidence against their feelings of unworthiness."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective to build rapport and explore feelings was met. The client's objective to understand feelings of detachment was met through exploration.",
-          "client_utterance": "I guess just talking about it here feels a little less scary. Maybe I can start to explore these feelings more, even if it is slow. I don’t know where it will lead, but I’m willing to keep trying.",
-          "therapist_utterance": "It’s encouraging to hear that you feel a bit safer discussing your emotions here. Taking it slow is a wise approach, and your willingness to explore is a significant step. Let’s keep this dialogue open and see where it leads us.",
-          "therapist_use": "Reflective Listening: validated the client's willingness to explore emotions while emphasizing the importance of a safe space."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Taylor is beginning to reflect on their experiences and recognize moments of connection. The client's objective was met as they are exploring their feelings and considering the possibility of change.",
+          "client_utterance": "Maybe if I remind myself of those good times, I can start to see that I’m not completely unlovable. I want to believe that I can have those connections more often. It feels scary to even think about, but I do want to try. I guess there’s a part of me that hopes it could get better.",
+          "therapist_utterance": "That’s a significant realization, Taylor! Recognizing that you can have moments of connection is a powerful step forward. It’s okay to feel scared, but having hope is a great starting point for change. Let's keep exploring how you can build on those good times and what affirmations could help you feel more connected.",
+          "therapist_use": "Developing Compassionate Self-Statements: used to support Taylor's emerging hope and encourage further exploration of their emotional experiences."
         }
       ]
     },
@@ -127,27 +147,34 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Taylor's ambivalence towards change and strengthen their motivation for addressing emotional pain.",
+          "objective": "To explore Taylor's ambivalence regarding change and strengthen motivation to engage with emotions.",
           "strategies": [
             {
-              "strategy_name": "Exploring Ambivalence",
+              "strategy_name": "Explore Ambivalence",
               "instructions_for_therapist": [
-                "Invite Taylor to express their conflicting feelings about discussing emotions and seeking change.",
-                "Use open-ended questions to facilitate discussion about what feels challenging and what is desired."
+                "Ask Taylor open-ended questions about their feelings towards discussing emotions.",
+                "Encourage Taylor to express both sides of their ambivalence, highlighting both the desire to change and the fears associated with it."
               ]
             },
             {
-              "strategy_name": "Eliciting Change Talk",
+              "strategy_name": "Elicit Change Talk",
               "instructions_for_therapist": [
-                "Encourage Taylor to articulate their reasons for wanting to change and the potential benefits they see.",
-                "Reflectively listen and affirm any expressions of desire for emotional connection and understanding."
+                "Prompt Taylor with questions like, 'What would a more connected emotional life look like for you?'",
+                "Encourage Taylor to articulate reasons for wanting to change, reinforcing any positive statements they make about potential benefits."
               ]
             },
             {
-              "strategy_name": "Decisional Balance",
+              "strategy_name": "Develop Discrepancy",
               "instructions_for_therapist": [
-                "Guide Taylor in discussing the pros and cons of remaining in their current emotional state versus pursuing change.",
-                "Facilitate a discussion that helps highlight discrepancies between their values (e.g., wanting to feel connected) and current behaviors (e.g., detachment)."
+                "Help Taylor identify discrepancies between their current behavior (detachment) and their values (desire for connection).",
+                "Facilitate a discussion on how their family background may influence their current beliefs about emotional expression."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Guide Taylor through a pros and cons list regarding engaging with their emotions.",
+                "Ask them to reflect on how their past coping strategies have served them and where they may have fallen short."
               ]
             }
           ]
@@ -155,84 +182,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Help Taylor identify and list the advantages and disadvantages of addressing their emotional pain and discussing feelings.",
-                "Encourage them to reflect on how these factors influence their ambivalence."
-              ]
-            },
-            {
               "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Challenge Taylor's automatic thoughts about their powerlessness and lack of communicability by asking for evidence supporting these beliefs.",
-                "Guide them to consider alternative perspectives that may enhance their sense of agency."
+                "Introduce the concept of emotional reasoning and its impact on Taylor's self-perception.",
+                "Explore the automatic thought of feeling detached, guiding Taylor to identify core beliefs that arise from it."
               ]
             },
             {
-              "technique_name": "Cognitive Restructuring",
+              "technique_name": "Gather Evidence",
               "instructions_for_therapist": [
-                "Assist Taylor in gently reframing unhelpful thoughts related to feelings of detachment and inadequacy.",
-                "Encourage them to explore healthier beliefs about emotional expression and their ability to engage with their feelings."
+                "Help Taylor reflect on instances where they have felt connected and engaged with their emotions.",
+                "Support them in writing down both supportive and contradictory evidence regarding their feelings of being unlovable."
+              ]
+            },
+            {
+              "technique_name": "Challenge Emotional Reasoning",
+              "instructions_for_therapist": [
+                "Ask Taylor to consider what evidence contradicts their belief of being unlovable.",
+                "Facilitate a discussion around moments of connection, prompting them to articulate specific experiences."
+              ]
+            },
+            {
+              "technique_name": "Develop Compassionate Self-Statements",
+              "instructions_for_therapist": [
+                "Collaborate with Taylor to create new affirmations that reflect their capacity for emotional expression.",
+                "Encourage them to practice these statements regularly to reinforce a positive self-view."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Taylor's therapy plan, I first recognized their ambivalence about change stemming from family influences and personal struggles with emotional expression. The initial step involved exploring ambivalence using MI strategies, such as open-ended questions to facilitate Taylor's exploration of their conflicting feelings. Subsequently, I planned to elicit change talk by encouraging them to articulate the benefits they perceive in addressing their emotional pain. I introduced a decisional balance discussion to help highlight the discrepancy between their current detachment and their values of connection and understanding. In conjunction with MI, I employed CBT techniques like pros and cons analysis to further examine their ambivalence and evidence-based questioning to challenge their core beliefs about powerlessness. Lastly, cognitive restructuring was incorporated to gently reframe their unhelpful thoughts regarding emotional expression, enhancing their self-efficacy. This combined approach allows for a deeper understanding of their emotional conflicts while fostering motivation for potential change.",
-        "progress_marker": "Taylor begins to articulate feelings of ambivalence and identifies at least one personal value they wish to align with their emotional experiences."
+        "therapist_reasoning": "The initial step is to address Taylor's ambivalence by using Motivational Interviewing (MI) strategies. I will explore ambivalence by asking open-ended questions about their feelings on emotional expression, allowing them to articulate both their desire for connection and their fears. This will support eliciting change talk by prompting Taylor to visualize a more connected emotional life. Subsequently, I will develop discrepancy by discussing how their current detachment conflicts with their values of connection, particularly influenced by their family dynamics. Using decisional balance, we will weigh the pros and cons of engaging with emotions versus remaining detached, fostering insight into their coping strategies. Concurrently, I will incorporate CBT techniques, beginning with evidence-based questioning to challenge emotional reasoning, exploring the automatic thought of detachment and its core beliefs. I will guide Taylor in gathering evidence to reflect on their emotional engagement, using this to challenge the notion of being unlovable. Ultimately, developing compassionate self-statements will reinforce their self-efficacy, and by collaborating on these affirmations, I aim to strengthen Taylor's confidence in their ability to connect with their emotions.",
+        "progress_marker": "Taylor begins to articulate their ambivalence and expresses a clearer understanding of their emotional needs and desires for change."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity on my feelings of detachment and how to express my emotions more openly.",
+        "client_objective": "I hope to gain a clearer understanding of my feelings and the reasons behind my detachment.",
         "client_state": {
-          "awareness": "I am starting to recognize that my emotional detachment is a significant issue in my life and that it stems from my family's patterns of not discussing pain.",
-          "motivation": "I want to change and be more connected to my emotions, but I'm scared about what that means and whether I can actually do it.",
-          "openness": "I feel somewhat willing to share my thoughts and feelings, but I struggle to find the right words and often feel like withdrawing instead.",
-          "resistance": "I still feel a strong resistance to the idea of change, as I have doubts about whether it will really help me or if I'm capable of facing my emotional pain."
+          "awareness": "I recognize that my feelings of detachment and inability to express emotions are patterns that have been shaped by my family background.",
+          "motivation": "I want change because I see the pain of not addressing my emotions, but I'm scared of what that change might require from me.",
+          "openness": "I'm somewhat willing to share my thoughts and feelings, but I often struggle to articulate them fully in our sessions.",
+          "resistance": "I still feel a strong sense of doubt about whether I can truly change, which makes me withdraw from deeper discussions."
         },
-        "client_reasoning": "I'm beginning to see that my feelings of detachment are more than just a passing phase; they’re tied to my family's way of handling emotions, or rather, not handling them. I notice that I often feel sad and lonely, and I think about how my dad never talked about his suffering, which makes me wonder if I'm following in his footsteps. I want to change this, but I feel conflicted. On one hand, I want to feel more connected to my emotions and share them with others, especially with Jeremy. On the other hand, I worry that embracing my feelings will just lead to more pain. It’s like I’m caught between wanting to be free from this weight and being terrified of what that freedom might look like. Therapy feels like a safe space to explore these thoughts, but I still find it hard to completely open up about what I’m experiencing."
+        "client_reasoning": "I'm starting to see that my detachment isn't just something I can ignore; it stems from a deeper place, influenced by my family's reluctance to talk about pain. I notice that I often feel sad, lonely, and down, but articulating these feelings feels like an uphill battle. I want to open up more, but there's this fear that if I dive deeper, I could face emotions that are overwhelming. I remember my father's struggles and the way he avoided discussing his own suffering, and I wonder if I'm following in those footsteps. Therapy is making me reflect on these patterns, and while I feel a pull toward understanding myself better, I also feel stuck in my fears and doubts about whether I can truly change my habits of detachment. It's a confusing mix of wanting to explore and feeling hesitant to go there."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective of exploring ambivalence was not fully met as Taylor has not yet articulated specific feelings about discussing emotions. The client’s objective of gaining clarity on feelings of detachment is also not fully addressed as they still express uncertainty about exploring emotions.",
-          "client_utterance": "I know I want to connect with my emotions, but I'm still scared. It's like I’m afraid that if I start talking about my feelings, I might unleash something overwhelming. I just don’t know if I can handle that kind of pain.",
-          "therapist_utterance": "It sounds like you’re feeling torn between a desire for connection and a fear of what that might bring. That fear is very real and can make the idea of exploring your emotions feel daunting. What do you think could help you feel more at ease about discussing these feelings?",
-          "therapist_use": "Open-ended question: used to invite Taylor to express their feelings and concerns about discussing emotions."
+          "reason_for_ending": "KEEP: Therapist objective was not met because the therapist did not sufficiently explore Taylor's feelings about emotional engagement. Client objective was not met as Taylor is still struggling to articulate their deeper feelings.",
+          "client_utterance": "I keep thinking about how I want to connect more, but then I just feel this weight of fear. It’s like I want to dive deeper into my emotions, but I worry about what I might find. I remember those moments of connection, but they feel so fleeting and I often feel like I’m back to square one.",
+          "therapist_utterance": "It sounds like you're caught between wanting to explore your emotions and feeling afraid of what that might reveal. That fear is understandable, especially when those moments of connection feel temporary. Can you tell me more about what specifically worries you about diving deeper into your emotions?",
+          "therapist_use": "Open-ended questioning: used to encourage Taylor to express fears about emotional engagement."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of eliciting change talk was not fully met as Taylor has not articulated any clear reasons for wanting to change. The client’s objective of gaining clarity on feelings of detachment remains unfulfilled as they continue to express fear without exploring potential benefits.",
-          "client_utterance": "I guess I just want to feel more connected, especially with Jeremy. I worry that if I talk about my feelings, it might change how he sees me or how I see myself. I feel like there's this pressure to stay strong and not show weakness.",
-          "therapist_utterance": "It's understandable to feel that pressure, especially with how your family has handled emotions. You seem to have a strong desire for connection, but it’s intertwined with fear of vulnerability. Can you think of any benefits that might come from being more open about your emotions?",
-          "therapist_use": "Decisional balance: encouraged Taylor to reflect on the potential benefits of emotional openness."
+          "reason_for_ending": "KEEP: Therapist objective was not met as the therapist did not fully elicit change talk regarding the potential benefits of emotional exploration. Client objective was not met because Taylor remains hesitant to articulate their fears.",
+          "client_utterance": "I guess I worry that if I really start feeling, I might get overwhelmed. My dad always seemed so lost in his own pain, and I don’t want to go down that path. There’s a part of me that fears I might end up feeling alone again if I open up too much.",
+          "therapist_utterance": "It's really valid to feel that way, especially considering your dad's experiences with emotional pain. The thought of feeling overwhelmed is scary, but it sounds like you’re also aware that there’s a potential for connection if you allow yourself to feel. What do you think a more connected emotional life might look like for you?",
+          "therapist_use": "Elicit change talk: aimed at helping Taylor visualize the benefits of emotional engagement."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of highlighting discrepancies between values and current behaviors was not met as Taylor has not yet identified specific values. The client’s objective of gaining clarity on feelings of detachment is still lacking since they are not fully discussing their emotional experiences.",
-          "client_utterance": "I think if I could just express my feelings without fear of judgment, it would help. But I still feel like I might end up hurting more than I already do. Sometimes I just don't know how to start that conversation.",
-          "therapist_utterance": "You’re expressing a desire for a safe space to share your feelings, which is a significant step toward connecting with yourself. It makes sense to be apprehensive about starting that conversation. What do you think would be a small step you could take to begin expressing your feelings more openly?",
-          "therapist_use": "Exploring ambivalence: helped Taylor articulate their desire for emotional expression while recognizing their fears."
+          "reason_for_ending": "KEEP: Therapist objective was not met since the therapist did not help Taylor identify discrepancies between their current detachment and their values. Client objective was not met as Taylor still expresses doubt without articulating their desires for change.",
+          "client_utterance": "I can see that I want to be more connected, but then I think about how hard it can be. I worry that if I try to feel more, I might just end up feeling worse instead of better. I remember those concerts, but they often feel like they’re just a distraction from the real issue.",
+          "therapist_utterance": "It sounds like you recognize a desire for connection, yet you’re also aware of the risks involved in feeling more. It’s okay to see those concerts as temporary distractions; they still show you that connection is possible. How do you think your family background has shaped your beliefs about engaging with your emotions?",
+          "therapist_use": "Develop discrepancy: focused on connecting Taylor's family history to their current beliefs about emotional expression."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of facilitating change talk was not fully met as Taylor has not yet articulated compelling reasons to pursue change. The client’s objective of gaining clarity remains unfulfilled since they are still caught in ambivalence.",
-          "client_utterance": "Maybe if I started with something small, like journaling, it could help me find the words I need. But then I think about how my dad never did anything like that, and it makes me question if I can do it too. I want to try, but I feel so stuck sometimes.",
-          "therapist_utterance": "Journaling sounds like a great way to start expressing your feelings in a manageable way. It’s okay to feel stuck; many people do when trying something new. How might it feel to give yourself permission to explore your emotions without the pressure of sharing them with others right away?",
-          "therapist_use": "Pros and cons analysis: encouraged Taylor to consider manageable steps toward emotional expression."
+          "reason_for_ending": "KEEP: Therapist objective was not met as the therapist did not sufficiently explore the impact of family background on Taylor’s beliefs. Client objective was not met because Taylor continues to express uncertainty about their feelings.",
+          "client_utterance": "I think my family always made it seem like talking about feelings was a weakness. I see now that my dad’s avoidance probably influenced me, but it’s hard to break out of that mindset. I still find myself shutting down when it gets too real.",
+          "therapist_utterance": "It's insightful that you're recognizing how your family's views on emotions have shaped your own. Understanding that connection is important as you navigate through your feelings. What would it look like to challenge that belief of emotional expression being a weakness?",
+          "therapist_use": "Challenge emotional reasoning: aimed at encouraging Taylor to reconsider their beliefs about expressing emotions."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of challenging unhelpful thoughts regarding emotional expression was not fully met as Taylor has not confronted their fears directly. The client’s objective of gaining clarity on feelings of detachment is still incomplete since they are not fully embracing the concept of change.",
-          "client_utterance": "I think it would feel freeing to write things down, but I still have this nagging thought that I won’t be able to stop thinking about it once I start. What if it just opens up a floodgate of emotions I can't handle?",
-          "therapist_utterance": "It’s valid to be concerned about what might happen if you start to unearth those emotions. But writing can also serve as a tool to help you process those feelings at your own pace. What if you allowed yourself to write without judgment, just to see where it leads?",
-          "therapist_use": "Evidence-based questioning: challenged Taylor’s fears about emotional expression while encouraging a safe exploration."
+          "reason_for_ending": "KEEP: Therapist objective was not met because the therapist did not fully facilitate a discussion about the pros and cons of emotional engagement. Client objective was not met as Taylor is still hesitant about challenging their beliefs.",
+          "client_utterance": "I guess challenging that belief is scary because it feels like it would mean opening Pandora's box. I want to believe that expressing emotions is okay, but then I fear it will lead to more pain. I just don’t know how to start shifting that thinking.",
+          "therapist_utterance": "It's understandable to feel that opening up could lead to more pain, but acknowledging that fear is a step towards change. What if we explored what could happen if you began to view emotional expression differently? Can we list some pros and cons of engaging more with your feelings?",
+          "therapist_use": "Decisional balance discussions: inviting Taylor to weigh the pros and cons of emotional engagement."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of guiding Taylor toward cognitive restructuring was not fully met as they have not yet reframed their thoughts. The client’s objective of gaining clarity on their feelings of detachment is also not fully addressed as they still express fears without recognizing their ability to manage them.",
-          "client_utterance": "That sounds like it could work, but I still feel this weight of expectation to keep everything inside. What if I can’t do it? I just don’t want to feel more pain than I already do.",
-          "therapist_utterance": "It’s understandable to feel the weight of those expectations, especially given your family history. Remember, exploring your emotions doesn’t mean you have to dive into all of it at once. What if you focused on one small feeling or thought at a time to ease into the process?",
-          "therapist_use": "Cognitive restructuring: helped Taylor consider a less overwhelming approach to emotional exploration."
+          "reason_for_ending": "KEEP: Therapist objective was not met as the therapist did not guide Taylor through a thorough exploration of the pros and cons. Client objective was not met because Taylor has not yet fully articulated their motivations for change.",
+          "client_utterance": "I think the pro would be feeling more connected, and maybe even feeling understood. But the con is that I might feel vulnerable and that’s terrifying. I just keep thinking about how hard it would be to let those walls down.",
+          "therapist_utterance": "You're identifying some important pros and cons here, and it’s valid to feel conflicted about vulnerability. Feeling more connected and understood is a powerful motivation. What small step do you think you could take to begin letting those walls down?",
+          "therapist_use": "Develop discrepancy: to facilitate a discussion on the benefits of vulnerability versus the fear of it."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective of exploring ambivalence and eliciting change talk was met as Taylor articulated their desire to try journaling. The client’s objective of gaining clarity on feelings of detachment was also met as they expressed willingness to explore their emotions more openly.",
-          "client_utterance": "I think I might give journaling a shot. It feels like a safe way to start exploring my emotions without too much pressure. I want to see where it takes me, even if it’s just a little bit at a time.",
-          "therapist_utterance": "That sounds like a wonderful plan! Taking that first step with journaling can really help you start to connect with those emotions. It’s all about progress, not perfection, and you’re moving in a positive direction.",
-          "therapist_use": "Affirmation: validated Taylor's decision to start journaling while reinforcing the importance of progress."
+          "reason_for_ending": "MOVE: Therapist objective was met as Taylor began to articulate their motivations for change and reflect on the benefits of emotional engagement. Client objective was met as Taylor expressed a clearer understanding of their feelings and the reasons behind their detachment.",
+          "client_utterance": "I think maybe I could start by sharing my feelings with a close friend. It feels like a small step, but it might help me feel less alone. I want to believe that being open can lead to more connection in my life.",
+          "therapist_utterance": "That’s a fantastic first step, Taylor! Sharing your feelings with a close friend can create a sense of connection and support. It’s great to see you recognizing the potential for change and feeling hopeful about it.",
+          "therapist_use": "Elicit change talk: reinforcing Taylor's decision to take a small step towards emotional engagement."
         }
       ]
     },
@@ -241,28 +275,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Taylor's commitment to change and reduce feelings of uncertainty.",
+          "objective": "To enhance Taylor's commitment to change by exploring their motivations, identifying support systems, and reinforcing their readiness for action.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Taylor to articulate their reasons for wanting to change and how they envision their life post-change.",
-                "Reflect back their commitment statements to reinforce their motivation.",
-                "Ask open-ended questions like, 'What changes are you most excited about?' to elicit positive feelings toward change."
+                "Ask Taylor to articulate their reasons for wanting to change and write them down.",
+                "Encourage Taylor to express how they envision their life post-change, reinforcing their commitment verbally.",
+                "Reflect back their commitment statements to enhance their confidence."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions (1-10) to assess Taylor's confidence in making changes and readiness to take action.",
-                "Discuss what a '10' would look like and what steps they believe they need to take to reach that level."
+                "Use scaling questions (1-10 scale) to assess Taylor's confidence in their ability to make changes.",
+                "Explore the reasons behind their confidence level, highlighting strengths and past successes.",
+                "Discuss potential next steps that feel achievable and align with their readiness."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Taylor identify individuals or resources that can provide support, such as Jeremy or therapeutic texts.",
-                "Encourage them to reach out to these supports to bolster their confidence."
+                "Help Taylor identify supportive individuals in their life (e.g., family, friends) who can assist in their change process.",
+                "Discuss potential coping strategies or resources, such as literature or support groups, that can provide encouragement.",
+                "Encourage Taylor to reach out to these supports for emotional validation."
               ]
             }
           ]
@@ -270,84 +306,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Challenge Emotional Reasoning",
               "instructions_for_therapist": [
-                "Collaboratively design a small behavior experiment where Taylor can express their feelings in a safe environment, such as journaling or sharing with a close friend.",
-                "Discuss the expected outcomes and potential barriers in advance, emphasizing gradual exposure to emotional expression."
+                "Assist Taylor in identifying the automatic thought 'I feel detached and unable to engage' and its associated beliefs.",
+                "Guide them in gathering evidence for and against these beliefs, encouraging a balanced view.",
+                "Facilitate the development of compassionate self-statements that counteract the negative beliefs they hold."
               ]
             },
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Practice and Integration of New Beliefs",
               "instructions_for_therapist": [
-                "Facilitate the creation of a step-by-step action plan that includes specific, achievable goals related to emotional expression.",
-                "Set timelines for each goal and discuss potential obstacles and coping strategies for when challenges arise."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Teach Taylor problem-solving techniques to navigate feelings of detachment.",
-                "Encourage brainstorming solutions to overcome barriers they identify regarding expressing emotions."
+                "Collaborate with Taylor to create a list of specific, evidence-based self-statements.",
+                "Encourage daily practice of these statements and reflection on their emotional impact.",
+                "Discuss scenarios where they can apply evidence-based questioning to real-life situations."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Taylor's preparation phase, the first step is to strengthen their commitment to change by utilizing MI strategies that reinforce motivation and exploration of confidence. I began by focusing on commitment language to elicit Taylor's reasons for change, which can help solidify their resolve. Next, I employed scaling questions to assess and explore their confidence in taking action, allowing them to visualize their end goals. Simultaneously, I aimed to identify potential supports that can provide encouragement throughout this process. For the CBT component, I chose a behavior experiment to facilitate safe emotional expression, which aligns with their struggle to articulate feelings. This behavior experiment will help Taylor gradually confront their fears of vulnerability in a structured way. Action planning is essential to create a realistic roadmap for change, ensuring it feels manageable. Lastly, problem-solving skills training will equip Taylor with tools to tackle barriers they may encounter, ultimately enhancing their self-efficacy and confidence as they move towards implementing their action plan.",
-        "progress_marker": "Taylor has begun articulating specific feelings and has identified Jeremy as a key support for discussing emotions."
+        "therapist_reasoning": "The therapy plan targets Taylor's readiness for change by integrating Motivational Interviewing (MI) and Cognitive Behavioral Therapy (CBT) techniques. First, I will use MI strategies to strengthen Taylor's commitment to change by encouraging them to articulate their motivations and visualize their desired outcomes. This helps reinforce their readiness and fosters a sense of ownership over their change process. Next, I will explore their confidence in making changes through scaling questions, allowing them to reflect on their strengths and successes, which is essential given their feelings of detachment. Additionally, identifying supportive resources will help combat their sense of isolation. In parallel, I will employ CBT techniques to challenge Taylor's emotional reasoning by guiding them through evidence gathering related to their automatic thoughts. This will help them confront beliefs of being unlovable and powerless. By developing compassionate self-statements collaboratively, we can increase their self-efficacy and set a foundation for gradual behavioral changes. This structured, supportive approach aligns with their resistance profile and emphasizes incremental progress.",
+        "progress_marker": "Taylor will complete a commitment statement and identify at least two supports or resources by the next session."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings of detachment and find ways to communicate my emotions effectively.",
+        "client_objective": "I hope to explore my feelings more openly and identify practical steps toward emotional engagement.",
         "client_state": {
-          "awareness": "I recognize that my feelings of detachment and inability to express my emotions are impacting my relationships and overall well-being.",
-          "motivation": "I feel a strong desire to improve my emotional connections and better understand my feelings, especially after reflecting on my family's struggles.",
-          "openness": "I am willing to discuss my thoughts and emotions with my therapist, even though it feels challenging to articulate them.",
-          "resistance": "I still experience hesitation and fear about whether I can truly change or if my attempts will lead to failure."
+          "awareness": "I recognize that my emotional detachment is impacting my life, making me feel isolated and disconnected from my own experiences.",
+          "motivation": "I feel a growing desire to improve my situation and understand my pain better, especially after reflecting on my family's struggles.",
+          "openness": "I am becoming more willing to discuss my feelings and thoughts with my therapist, even though it still feels challenging.",
+          "resistance": "I still grapple with doubts about whether I can truly change and fear that my attempts to express my emotions may not be successful."
         },
-        "client_reasoning": "I’ve started to understand that my feelings of detachment are not just a phase but a significant part of how I interact with the world. It’s painful to realize that I’ve inherited some of my family's avoidance of discussing emotions, especially when I see how it has affected my father. I believe change is necessary because I want to feel more connected to myself and those around me. I’ve been reading and reflecting, which has given me some hope, but I still worry that I won't be able to articulate my feelings or that my efforts will fall flat. Therapy has opened my eyes to the possibility of change, and I feel a cautious optimism, but I still grapple with doubts about my ability to maintain that change in the long run."
+        "client_reasoning": "I've come to understand that my detachment isn't just a phase; it's a significant barrier to my happiness and connection with others. My recent conversations with my mom and Jeremy have shown me that I can't keep avoiding my emotions any longer. I believe change is necessary because I want to feel more engaged and less lonely. Therapy has helped me see that there is hope for improvement, but I still worry about whether I can maintain this change. The idea of expressing my feelings is daunting, and I fear being misunderstood or rejected, just like I've seen in my family. Yet, I feel a flicker of optimism that if I can articulate my pain, I might begin to heal and connect more deeply with myself and those around me."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because they did not sufficiently strengthen Taylor's commitment to change. Client objective not met because Taylor has not yet articulated specific feelings or plans for emotional expression.",
-          "client_utterance": "I've started journaling, but I still feel uneasy about whether I can truly express my feelings. It's like I'm afraid my writing will just highlight how disconnected I am. Sometimes, I wonder if I’m really ready to face what’s in there.",
-          "therapist_utterance": "It’s great that you’ve begun journaling; that’s a significant step! However, I can hear that there’s still uncertainty about facing those feelings. What do you think might help you feel more prepared to dive deeper into what you’re writing?",
-          "therapist_use": "Open-ended question: to encourage Taylor to explore their feelings about journaling and readiness."
+          "reason_for_ending": "KEEP: Therapist's objective was not fully met as they did not explore Taylor's motivations for change deeply enough. Client's objective was not fully met because Taylor has not yet articulated their commitment to change.",
+          "client_utterance": "I’ve been thinking about what it would mean to really open up more. It feels like a big leap, but I can't shake the idea that connecting with my emotions could lead to something better. I just worry about what might come up if I do that.",
+          "therapist_utterance": "It’s understandable to feel both excitement and fear about opening up more. What do you think specifically holds you back from taking that leap? And if you could imagine a scenario where expressing your emotions leads to a positive outcome, what would that look like?",
+          "therapist_use": "Open-ended questioning: used to encourage Taylor to explore their feelings and potential outcomes of change."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because they did not explore Taylor's confidence and readiness in detail. Client objective not met because Taylor has not fully articulated their feelings or next steps.",
-          "client_utterance": "I think if I focused on smaller, less intense feelings, it might be easier. But I’m still worried about what I’ll find when I dig deeper. My family’s avoidance of emotions just looms over me, making it feel like a daunting task.",
-          "therapist_utterance": "You’re identifying a practical approach by starting with smaller feelings, which is a wise strategy. It’s understandable that your family history makes it feel daunting. Can you rate your confidence on a scale from 1 to 10 about addressing these smaller feelings in your journaling?",
-          "therapist_use": "Scaling question: to assess Taylor's confidence in their ability to express feelings and to explore readiness for change."
+          "reason_for_ending": "KEEP: Therapist's objective was not fully met as they did not sufficiently reinforce Taylor's commitment language. Client's objective was not fully met because Taylor still hasn't identified specific steps toward emotional engagement.",
+          "client_utterance": "I guess if I really opened up, I could feel more supported, but I’m also scared of feeling overwhelmed or misunderstood. I think about those moments with friends, and I wonder if I could have more of those. But it’s hard to imagine that happening consistently.",
+          "therapist_utterance": "It's great to recognize the potential for support from friends, even amidst your fears. What if you could write down a few reasons why you want to engage more emotionally? Articulating those could help solidify your commitment to this change.",
+          "therapist_use": "Strengthening Commitment Language: used to encourage Taylor to articulate their reasons for wanting to change."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because they did not sufficiently identify supports and resources for Taylor. Client objective not met because Taylor has not yet specified how to approach emotional expression.",
-          "client_utterance": "I’d say my confidence is around a 4. I know I can start small, but I still get stuck thinking about how it might feel to write about deeper stuff. It’s like I need a push to really commit to it.",
-          "therapist_utterance": "A 4 is a solid recognition of where you are, and it shows there’s room to grow. What do you think would need to happen for you to feel like you could reach a 7 or an 8? Perhaps there’s someone, like Jeremy, who could help support you as you explore these feelings.",
-          "therapist_use": "Exploring supports: to encourage Taylor to identify resources that can bolster their confidence."
+          "reason_for_ending": "KEEP: Therapist's objective was not fully met as they did not explore Taylor's confidence in taking the next steps. Client's objective was not fully met because Taylor has not yet identified any support systems.",
+          "client_utterance": "Writing down my reasons sounds helpful, but I still worry about whether I can actually change. I feel like I need to have someone to talk to about this, but I’m not sure who would understand.",
+          "therapist_utterance": "It's normal to have doubts about your ability to change, especially when it feels so daunting. Can we scale your confidence on a scale of 1 to 10 regarding sharing your feelings with someone? It might help us figure out what support you need.",
+          "therapist_use": "Scaling question: used to assess Taylor's confidence in making changes and to explore their readiness."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because they did not facilitate an action plan for emotional expression. Client objective not met because Taylor has not made a concrete plan for how to express emotions.",
-          "client_utterance": "I feel like if I could share some of my writing with Jeremy, it might help. I just need to figure out how to approach that conversation without feeling overwhelmed. Maybe I could set a goal to show him something next week?",
-          "therapist_utterance": "That sounds like a good plan! Setting a goal to share with Jeremy can provide you with the support you need. What do you think would be a manageable piece to share, and how might you feel about it if you took that step?",
-          "therapist_use": "Action planning: to help Taylor create a concrete step toward emotional expression with Jeremy’s support."
+          "reason_for_ending": "KEEP: Therapist's objective was not fully met as they did not sufficiently explore Taylor's identified support systems. Client's objective was not fully met because Taylor hasn't articulated specific steps or supports.",
+          "client_utterance": "I think I’d rate my confidence around a 4. I know I want to share more, but I also feel like I might just shut down again. It’s hard to see how I can reach out when I still feel so detached.",
+          "therapist_utterance": "A 4 is a good starting point, and it shows you're aware of your feelings. What do you think would help you move that number up a bit? Are there friendships or family members you feel could provide support if you reached out?",
+          "therapist_use": "Exploring Confidence and Readiness: used to encourage Taylor to reflect on their confidence and potential steps towards change."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because they did not sufficiently address potential barriers to sharing. Client objective not met because Taylor has not fully committed to sharing their feelings.",
-          "client_utterance": "I think I could share a small entry about my day or a feeling that came up. But I’m still anxious about how he might react or if I’ll be able to handle my feelings afterward. What if I start crying or feel embarrassed?",
-          "therapist_utterance": "It’s valid to feel anxious about sharing, especially with the fear of vulnerability. Let’s think about what could help you feel more comfortable during and after that conversation. Could there be a strategy to manage your emotions if they do come up?",
-          "therapist_use": "Problem-solving skills training: to equip Taylor with tools to navigate their feelings and potential barriers."
+          "reason_for_ending": "KEEP: Therapist's objective was not fully met as they did not encourage Taylor to use specific coping strategies. Client's objective was not fully met because Taylor has not yet identified any specific supportive individuals.",
+          "client_utterance": "I do have a couple of friends I trust, but I’m still worried about how they might react if I open up. I guess I need to think about what I would want to share with them before I reach out.",
+          "therapist_utterance": "That's a good insight, Taylor. It might help to write down what you feel comfortable sharing so that you can approach the conversation with more clarity. Would it also be beneficial to consider how these friends could react positively?",
+          "therapist_use": "Identifying Supports and Resources: used to guide Taylor in thinking about who could support them in their change process."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because they did not sufficiently help Taylor solidify their emotional expression plan. Client objective not met because Taylor has not yet expressed a clear commitment to action.",
-          "client_utterance": "Maybe I could just write down how I feel about sharing and then show that to Jeremy. It feels less scary than sharing everything all at once. I just hope it leads to something positive.",
-          "therapist_utterance": "That’s a fantastic approach! Starting with your feelings about sharing can be a gentle way to ease into it. How does it feel to think about taking this small step, and what would it mean for you to share even that much?",
-          "therapist_use": "Strengthening commitment language: to reinforce Taylor's motivation and readiness to take gradual steps toward emotional expression."
+          "reason_for_ending": "KEEP: Therapist's objective was not fully met as they did not facilitate the development of compassionate self-statements. Client's objective was not fully met because Taylor has not yet detailed any practical steps toward emotional engagement.",
+          "client_utterance": "I think if I can prepare what to say, it might make it easier. But I still feel that fear of being judged or misunderstood. I wish I could just shake off these feelings of detachment.",
+          "therapist_utterance": "Preparing what to say is a great step! It’s also important to acknowledge those feelings of fear. What if we worked together to come up with some positive affirmations you could remind yourself of when those feelings arise?",
+          "therapist_use": "Practice and Integration of New Beliefs: used to encourage Taylor to create self-statements that can help counteract their negative beliefs."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met because they successfully strengthened Taylor's commitment to explore feelings and take action. Client objective met because Taylor has articulated a plan for how to communicate emotions effectively.",
-          "client_utterance": "It feels encouraging to think I can start small. I want to share my writing with Jeremy even if it’s just my feelings about sharing itself. I believe this could help me feel more connected.",
-          "therapist_utterance": "It’s wonderful to hear you express that belief! You’ve taken significant steps toward connecting with your emotions, and sharing your writing is a brave move. Remember, it’s all about progress, and you’re on the right path.",
-          "therapist_use": "Double-sided reflection: used to validate Taylor's commitment while reinforcing their motivation for change."
+          "reason_for_ending": "MOVE: Therapist's objective was met as they facilitated Taylor's commitment to change and exploration of supports. Client's objective was met as Taylor articulated clear steps and identified supportive individuals.",
+          "client_utterance": "I think I can start with just writing down my feelings and maybe sharing them with my friend next week. It feels like a small step, but I believe it could help me feel less alone. I’m ready to try and see how it goes.",
+          "therapist_utterance": "That's a wonderful plan, Taylor! Taking that step to write down your feelings and share them is significant progress. I believe this will help you feel more connected and supported, and I'm excited to hear how it goes.",
+          "therapist_use": "Reflective summarization: used to reinforce Taylor's commitment and acknowledge their readiness for action."
         }
       ]
     }

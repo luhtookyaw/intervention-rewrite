@@ -12,27 +12,30 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Matthew's awareness of his emotions and thoughts regarding his family dynamics and recent breakup, fostering a supportive therapeutic environment.",
+          "objective": "Increase Matthew's awareness of his thoughts and feelings regarding his family dynamics and the potential discussion about his breakup.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Matthew's concerns about his breakup and family dynamics.",
-                "Respond with reflections that validate his feelings of sadness and loneliness, emphasizing that it's okay to feel that way."
+                "Listen carefully to Matthew's concerns and feelings about his breakup and family dynamics.",
+                "Reflect back his feelings of sadness and confusion, ensuring he feels heard and validated.",
+                "Use open-ended questions to encourage Matthew to delve deeper into his emotions and thoughts."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Matthew's feelings of being lost and alone, showing understanding of his emotional state.",
-                "Communicate that his feelings are valid and that it’s normal to have mixed emotions about the situation."
+                "Acknowledge the difficulty Matthew faces in thinking about discussing his breakup with his parents.",
+                "Validate his feelings of being overwhelmed and alone, reinforcing that these feelings are understandable given his history.",
+                "Create a safe space for Matthew to share without fear of judgment."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Matthew to explore the contrast between his desire for emotional connection with his family and his experiences of feeling unsupported.",
-                "Help him articulate how these feelings affect his view of himself and his relationships."
+                "Gently explore any discrepancies between Matthew's values (such as seeking emotional support) and his current situation (feeling isolated).",
+                "Ask questions like, 'What does it mean for you to feel supported by your family?' to prompt reflection.",
+                "Encourage him to consider what emotional support looks like for him and how it aligns with his values."
               ]
             }
           ]
@@ -40,84 +43,92 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Introduce the Concept",
               "instructions_for_therapist": [
-                "Ask Matthew about evidence that supports or contradicts his belief that his family will not understand his feelings.",
-                "Encourage him to think about past interactions that may have been supportive, to challenge the absolute nature of his beliefs."
+                "Discuss Matthew's concerns about telling his parents about the breakup.",
+                "Explain cognitive distortions like Mind Reading and Fortune Telling and how they contribute to his anxiety.",
+                "Encourage Matthew to share his thoughts without judgment."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Identify Automatic Thoughts",
               "instructions_for_therapist": [
-                "Assist Matthew in examining the thought that his family would react negatively to his breakup by discussing how they reacted to his coming out.",
-                "Encourage him to assess whether he has enough evidence to predict their reaction based on past experiences."
+                "Guide Matthew to articulate specific thoughts he has regarding his parents' potential responses.",
+                "Encourage him to express his fears and expectations about their reactions."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Challenge the Assumptions",
               "instructions_for_therapist": [
-                "Guide Matthew to consider how he might feel if his family responded positively to his sharing about the breakup.",
-                "Encourage him to envision a scenario where he feels supported by them and how that would impact his feelings of helplessness."
+                "Help Matthew examine the evidence for and against his assumptions about his parents' reactions.",
+                "Ask him about any past instances where his parents showed care or concern."
+              ]
+            },
+            {
+              "technique_name": "Generate Alternatives",
+              "instructions_for_therapist": [
+                "Facilitate a discussion about alternative responses his parents might have.",
+                "Encourage Matthew to think of various possible outcomes, reducing the focus on negative expectations."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Matthew, I first focused on building rapport and trust, recognizing his emotional state of sadness and loneliness. Utilizing reflective listening, I aimed to validate his feelings without pushing for change. This aligns with MI's emphasis on expressing empathy to create a safe space for exploration. I then employed the strategy of developing discrepancy by encouraging him to articulate the conflict between his desire for family connection and his feelings of being unsupported. This approach fosters awareness and curiosity about his situation. In parallel, I incorporated CBT techniques like evidence-based questioning to challenge his belief that his family will react negatively, promoting reality testing to assess the validity of his fears. Additionally, by introducing alternative perspectives, I aimed to help him envision a supportive response from his family, thereby reducing the rigidness of his core beliefs. Overall, these strategies are intended to gently facilitate Matthew's self-exploration while respecting his current phase of pre-contemplation.",
-        "progress_marker": "Matthew begins to express his feelings more openly and engages in discussions about his family dynamics without defensiveness."
+        "therapist_reasoning": "In approaching Matthew, I recognize he is in the Pre-contemplation phase, where he may not yet see the need for change. Therefore, I will begin with Motivational Interviewing strategies to build rapport and increase his awareness. I will utilize reflective listening to validate his feelings of sadness and confusion, addressing his resistance in a gentle manner. By expressing empathy, I aim to create a safe space for Matthew to explore his thoughts about discussing his breakup with his parents. Developing discrepancy will allow us to highlight the gap between his values of seeking emotional support and his current feelings of isolation. Concurrently, I will introduce CBT techniques to address his cognitive distortions. By discussing his automatic thoughts, I can help him recognize unhelpful patterns, while gently challenging his assumptions about his parents' reactions. This holistic approach, combining MI and CBT, aligns with his resistance profile and fosters self-reflection without pushing for immediate change.",
+        "progress_marker": "Matthew begins to articulate his feelings and thoughts more openly, demonstrating increased awareness of his emotional struggles and the cognitive patterns influencing his perceptions."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to just talk about my feelings without being judged or pressured to change.",
+        "client_objective": "I hope to understand my feelings about my breakup without having to confront my parents yet.",
         "client_state": {
-          "awareness": "I know something feels off, but I can't pinpoint what it is.",
-          "motivation": "I don't really believe change is possible for me right now.",
-          "openness": "I'm hesitant to share my true feelings because I'm afraid of being misunderstood.",
-          "resistance": "I feel an overwhelming urge to avoid discussing my breakup, even though I know I should."
+          "awareness": "I know there's something bothering me, but I don't fully grasp how it connects to my breakup or my family.",
+          "motivation": "I don't really want to change anything right now; it feels too overwhelming.",
+          "openness": "I feel uncomfortable sharing my deeper feelings; it seems safer to keep them to myself.",
+          "resistance": "I strongly resist discussing my breakup and family dynamics; it just makes me feel sad and lost."
         },
-        "client_reasoning": "I feel lost and alone, and the last thing I want is to bring up my breakup with my parents. They never seem to care about my feelings anyway, and it just feels pointless to talk about it. I keep thinking they would see this as another failure in my journey of self-discovery, just like they reacted when I came out to them. It’s hard for me to believe that anything will change; I feel trapped by my family’s expectations and their lack of emotional support. Therapy feels like a place where I should be open, but I’m scared that if I share too much, I’ll just be judged or pushed to make changes I’m not ready for. I want to feel understood, but I’m also defensive because I don’t want to deal with the pain of rejection again. It’s all too overwhelming, and I just want to keep things light and avoid the heavy stuff for now."
+        "client_reasoning": "I feel like my breakup has left me in a confusing place, but I can't shake the thought that my parents wouldn't really care about how I feel. I remember how they reacted when I came out, and it makes me hesitate to share anything personal with them again. I want to talk about what I'm going through, but it feels pointless because I doubt they would understand or support me emotionally. I keep thinking about how they only focus on the failures in my life rather than what I really need. It's easier to laugh things off or pretend everything is okay, rather than dive into these painful emotions. The idea of discussing my feelings in therapy is scary; it feels like I'm exposing my vulnerabilities, and I'm not sure I'm ready to do that. I guess I just feel lost and alone right now, and I'm afraid of that uncertainty leading to even more pain."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not fully met as Matthew hasn't opened up about his breakup. The client objective was not met because Matthew is still hesitant to share his true feelings.",
-          "client_utterance": "I don’t know, it just feels like discussing my breakup would lead to more disappointment. I mean, my parents didn’t really react well when I came out, so why would this be any different? It’s like, what’s the point of talking about it if they’re just going to judge me?",
-          "therapist_utterance": "It sounds like you're feeling stuck and worried about being judged again. It's understandable to have those feelings given your past experiences with your family. What do you think it would feel like to share those feelings with them, even just a little?",
-          "therapist_use": "Reflective Listening: validated Matthew's feelings of fear and stuckness regarding his family."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because Matthew has not yet articulated his thoughts and feelings regarding his family dynamics or breakup. The client objective was not met as Matthew still feels overwhelmed and is resisting deeper exploration.",
+          "client_utterance": "I don't know, talking about my breakup just makes me feel even more lost. I keep thinking about how my parents reacted before, and it feels pointless to even bring it up. It's like, why bother if they won't understand me?",
+          "therapist_utterance": "It sounds like you're feeling really stuck and overwhelmed by the thought of discussing your breakup with your parents. It's understandable to feel that way, especially given their past reactions. What do you think it would mean for you to share these feelings with them?",
+          "therapist_use": "Reflective Listening: used to validate Matthew's feelings of being overwhelmed and to encourage exploration of his thoughts."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not fully met since Matthew hasn't explored his feelings about the potential reactions from his family. The client objective was not met because Matthew is still avoiding discussing his breakup.",
-          "client_utterance": "I guess it would be nice to share, but I can’t shake the feeling that they wouldn’t understand. It’s like they only see things in black and white, and my feelings are just too messy for them. I don’t want to be vulnerable and end up feeling even more alone.",
-          "therapist_utterance": "It’s valid to feel that way, especially when you want to be understood. Have there been any moments in the past where you felt your family did understand you, even a little? That might help us see if there’s a chance for more connection now.",
-          "therapist_use": "Evidence-Based Questioning: encouraged Matthew to reflect on past supportive interactions with his family."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Matthew has not yet reflected on his values of seeking emotional support. The client objective was not met because Matthew is still avoiding the connection between his feelings and family dynamics.",
+          "client_utterance": "I guess it would mean I'd have to face the fact that they might not care. I just can't shake that feeling. It feels safer to just keep my emotions to myself instead.",
+          "therapist_utterance": "It's understandable to want to protect yourself, especially when past experiences have made you doubt their support. But what does it look like for you to feel supported by your family? Could sharing your feelings help bridge that gap?",
+          "therapist_use": "Expressing Empathy: used to acknowledge Matthew’s desire to protect himself while prompting him to consider what emotional support means."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not fully met as Matthew hasn't identified any positive past experiences with his family. The client objective was not met because Matthew remains defensive about his feelings.",
-          "client_utterance": "I can’t think of many times like that. Most of our talks feel like they just want to fix things instead of really listening. I just feel like they wouldn’t get how much this breakup has affected me.",
-          "therapist_utterance": "It seems like you really crave that emotional connection and understanding from them. It’s tough to feel like they might not be able to provide that. How do you think it would feel if they did listen and support you through this breakup?",
-          "therapist_use": "Alternative Perspective: encouraged Matthew to envision a scenario where he feels supported by his family."
+          "reason_for_ending": "KEEP: The therapist's objective was not met since Matthew has not fully explored his feelings or thoughts regarding family support. The client objective was not met as Matthew remains uncomfortable sharing deeper feelings.",
+          "client_utterance": "I don't know. I just think they would focus on the negative parts of my breakup, telling me what I should have done differently. It feels like they're more interested in fixing things rather than understanding how I feel.",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure to meet their expectations, which can be really isolating. Have there been times when your parents showed care or concern for you? How did that feel in contrast to how they react now?",
+          "therapist_use": "Developing Discrepancy: used to gently explore the inconsistency between Matthew's need for emotional support and his current feelings of isolation."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not fully met since Matthew hasn't shared how he would feel with positive support. The client objective was not met because Matthew is still hesitant to open up about his feelings.",
-          "client_utterance": "I don’t know, maybe it would feel nice? But it’s hard to imagine them being that way, especially after everything. I feel like I’m just setting myself up for disappointment.",
-          "therapist_utterance": "It’s understandable to feel that way after having those experiences. You’re protecting yourself from potential hurt, which is a natural instinct. What if we explored what you could say to them if you did decide to share your feelings?",
-          "therapist_use": "Developing Discrepancy: helped Matthew articulate the conflict between his desire for connection and fear of disappointment."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Matthew has not yet fully articulated his thoughts on past positive experiences with his parents. The client objective was not met because Matthew is still resisting deeper exploration of his emotions.",
+          "client_utterance": "Maybe a little, but it feels like those moments are few and far between. I don't want to get my hopes up thinking they might actually care this time. It just makes me feel sad thinking about it.",
+          "therapist_utterance": "It's completely valid to feel sad and cautious about those memories. What do you think it would look like if you allowed yourself to hope for a different response from them this time? Could that open up a different kind of conversation?",
+          "therapist_use": "Reflective Listening: used to validate Matthew's feelings of sadness and to encourage him to consider different possibilities."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not fully met as Matthew hasn't articulated potential steps to share his feelings. The client objective was not met because Matthew is still avoiding the deeper discussion about his feelings.",
-          "client_utterance": "I guess I could try, but it feels really overwhelming. I mean, what if they don’t react the way I hope? I just don’t want to feel worse than I already do.",
-          "therapist_utterance": "It sounds daunting, and it’s natural to feel that way when facing uncertainty. What if we break it down into smaller steps? Maybe just expressing one feeling could be a start, rather than sharing everything at once.",
-          "therapist_use": "Reality Testing: encouraged Matthew to consider small steps in expressing his feelings to manage overwhelm."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Matthew has not yet considered alternative outcomes regarding his parents' potential responses. The client objective was not met because Matthew is still hesitant to explore his feelings.",
+          "client_utterance": "I don't know if I can. I'm just stuck in my head about how they might react, and it feels easier to just avoid all of this. I keep thinking they'll just be disappointed.",
+          "therapist_utterance": "It sounds really tough to be caught in that cycle of worry and avoidance. What if you took a moment to think about some possible responses they could have that wouldn't be disappointing? Are there any alternatives that come to mind?",
+          "therapist_use": "Generate Alternatives: used to facilitate a discussion about the various possible responses from his parents to reduce his focus on negative expectations."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not fully met as Matthew hasn't committed to any steps yet. The client objective was not met because Matthew remains resistant to sharing his feelings.",
-          "client_utterance": "I suppose that could work, but I’m still not sure it would help. I just don’t want to feel like I’m being judged or pushed to change. It’s really hard to trust that they could respond differently this time.",
-          "therapist_utterance": "Building trust takes time, especially when past experiences have been difficult. It’s okay to take your time with this. What would it take for you to feel a bit more comfortable with the idea of sharing something with them?",
-          "therapist_use": "Expressing Empathy: acknowledged Matthew's need for trust and comfort in potentially sharing his feelings."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Matthew has not yet identified specific automatic thoughts regarding his parents' responses. The client objective was not met because Matthew is still avoiding deeper emotions.",
+          "client_utterance": "I guess they might say they hope I'm okay, or maybe even ask if I'm sad. But then again, that feels so far from what I really need from them. I just don’t want a surface-level conversation.",
+          "therapist_utterance": "It's understandable to long for a deeper connection, especially when you're feeling vulnerable. What do you think it would take for you to express that need for more than just surface-level conversation? What might that look like?",
+          "therapist_use": "Challenging the Assumptions: used to help Matthew examine his expectations and articulate his needs for deeper emotional support."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met as Matthew has begun to explore his feelings about sharing with his family. The client objective was met as Matthew expressed a willingness to consider sharing his feelings.",
-          "client_utterance": "I think I need to sit with this a bit longer, but I could see myself maybe trying to share a small part of how I feel. It’s a start, I guess. I just want to be careful.",
-          "therapist_utterance": "That sounds like a thoughtful approach, and it’s great to hear you’re considering sharing even a small part of your feelings. Taking it slow can really help ease some of that pressure. Let’s continue to explore this in our next session and see how you feel about taking those steps.",
-          "therapist_use": "Reflective Listening: validated Matthew's emerging willingness to explore sharing his feelings."
+          "reason_for_ending": "MOVE: The therapist's objective was met as Matthew has started to articulate his feelings and thoughts regarding family dynamics. The client objective was met because Matthew is beginning to understand his feelings about the breakup in the context of family support, showing increased awareness.",
+          "client_utterance": "I think if I could just tell them that I need them to really listen, it might help. I guess I want to feel like they care about what I'm going through. It's just hard to imagine them being supportive.",
+          "therapist_utterance": "That's a significant realization, Matthew. Wanting to feel heard and supported is completely valid. It sounds like you're beginning to uncover what you need from your family, which is an important step.",
+          "therapist_use": "Double-sided reflection: used to validate Matthew's emerging awareness of his needs while reinforcing his desire for deeper support."
         }
       ]
     },
@@ -126,27 +137,27 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Matthew's ambivalence regarding sharing personal experiences with his family and to enhance his motivation for change by reflecting on his values and desires.",
+          "objective": "Explore Matthew's ambivalence regarding sharing his breakup with his parents while reinforcing his motivation to communicate his feelings.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Encourage Matthew to articulate both his desire to share his feelings about the breakup and his fears regarding his family's reaction.",
-                "Facilitate a discussion about the pros and cons of sharing his feelings, helping him to see both sides clearly."
+                "Facilitate a discussion about Matthew's mixed feelings regarding telling his parents about his breakup.",
+                "Encourage him to express both his desire to share and his fears of negative reactions."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask open-ended questions to help Matthew express what he hopes to gain from talking to his parents.",
-                "Encourage him to reflect on how sharing his feelings aligns with his values, such as self-acceptance and emotional honesty."
+                "Ask open-ended questions to invite Matthew to verbalize potential benefits of sharing his feelings with his parents.",
+                "Reinforce any expressions of hope or desire for a supportive response from his parents."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Guide Matthew to identify any discrepancies between his current behavior (not sharing) and his values (desiring connection and support).",
-                "Discuss how these discrepancies impact his emotional well-being."
+                "Create a pros and cons list with Matthew, balancing the potential outcomes of sharing his breakup with his parents against remaining silent.",
+                "Guide him in reflecting on how these choices align with his values around self-expression and independence."
               ]
             }
           ]
@@ -154,84 +165,85 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Pros and Cons Analysis",
+              "technique_name": "Identifying and Challenging Automatic Thoughts",
               "instructions_for_therapist": [
-                "Help Matthew create a list of pros and cons regarding telling his parents about the breakup.",
-                "Encourage him to consider how each point affects his feelings and future interactions with his family."
+                "Introduce cognitive distortions such as Mind Reading and Fortune Telling related to his fears of sharing with his parents.",
+                "Work collaboratively to identify specific automatic thoughts Matthew has regarding his parents' potential reactions."
               ]
             },
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Generating Alternative Responses",
               "instructions_for_therapist": [
-                "Assist Matthew in challenging his automatic thoughts that his parents will react negatively.",
-                "Explore alternative outcomes and evidence that contradicts his fears, focusing on past experiences where he received support."
+                "Facilitate a brainstorming session where Matthew can explore alternative, more positive responses he might anticipate from his parents.",
+                "Encourage him to acknowledge his feelings while considering these alternatives."
               ]
             },
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Role-Playing",
               "instructions_for_therapist": [
-                "Prompt Matthew to question the validity of his beliefs about being unlovable and helpless.",
-                "Encourage him to gather evidence from past interactions that may contradict these beliefs."
+                "Engage in role-playing scenarios to help Matthew practice discussing his breakup with his parents, using insights gained from previous discussions.",
+                "Encourage Matthew to express his emotions while simulating possible supportive responses from his parents."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Matthew, I will first employ Motivational Interviewing (MI) strategies to explore his ambivalence about sharing his feelings with his family. By facilitating discussions on his desire for connection versus his fears of rejection, I can help him articulate both sides of his internal conflict. This will include eliciting change talk to encourage him to express what he hopes to achieve, thereby enhancing his motivation. Additionally, I will develop discrepancy between his current behavior of withholding feelings and his values of emotional honesty, which may reveal the emotional cost of inaction. Concurrently, I will integrate Cognitive Behavioral Therapy (CBT) techniques such as Pros and Cons Analysis to help him weigh the potential benefits and drawbacks of communicating with his parents. Decatastrophizing will assist him in challenging unhelpful thoughts about negative outcomes, while Evidence-Based Questioning will empower him to reevaluate his core beliefs about self-worth. Together, these approaches will help Matthew gain insights into his ambivalence and strengthen his self-efficacy in navigating family relationships.",
-        "progress_marker": "Matthew expresses a clearer understanding of his ambivalence and begins to identify potential positive outcomes of communicating with his family."
+        "therapist_reasoning": "In this session, I will begin by exploring Matthew's ambivalence about sharing his breakup with his parents, as he experiences both a desire for connection and fear of rejection. Using Motivational Interviewing strategies, I will facilitate discussions that elicit change talk, encouraging him to express the benefits of sharing his feelings. This will help him recognize discrepancies between his values of self-expression and his current behavior of withholding. Concurrently, I will implement CBT techniques to identify and challenge his automatic thoughts, such as Mind Reading, which contribute to his anxiety. By collaboratively generating alternative responses, I aim to shift his perspective on his parents' potential reactions. Role-playing will provide a safe environment for him to practice expressing his emotions while receiving simulated supportive responses. This integrated approach will foster self-efficacy and motivation, allowing Matthew to reflect on his feelings and increase his readiness for change while managing his resistance to discussing personal matters with his family.",
+        "progress_marker": "Matthew demonstrates increased openness in discussing his feelings about his breakup and begins to articulate possible positive outcomes of sharing this with his parents."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity on how my breakup has affected me and whether I should share that with my parents.",
+        "client_objective": "I hope to explore my feelings about my breakup and understand how it impacts my relationship with my family.",
         "client_state": {
-          "awareness": "I’m starting to see how my past experiences with my family shape my current feelings and reactions. I recognize that my relationship with them might not provide the support I need.",
-          "motivation": "I want to change, but I'm torn between the desire for connection with my family and the fear of rejection. I know I need to address my feelings, but I'm unsure if it will lead to any positive outcomes.",
-          "openness": "I feel a bit more willing to share my thoughts and feelings with my therapist, but I still hold back because I fear judgment and being misunderstood.",
-          "resistance": "I still feel a significant amount of resistance to fully engaging in this process. I'm sad and often tell myself it might be pointless to discuss my feelings, which prevents me from moving forward."
+          "awareness": "I'm starting to realize that my family dynamics affect how I handle emotions, especially after my breakup.",
+          "motivation": "I feel a desire to change my relationship with my family, but I'm unsure if it's worth the risk.",
+          "openness": "I'm somewhat willing to share my feelings in therapy, but I still hold back due to fear of judgment.",
+          "resistance": "I often doubt whether discussing my feelings will lead to any positive outcome, making me hesitant to fully engage."
         },
-        "client_reasoning": "I’m beginning to understand that my breakup is not just a personal loss; it’s also a reflection of how I navigate relationships, especially with my family. I notice that I often think about how they won't understand my pain, which makes me hesitant to share anything with them. I feel conflicted because on one hand, I want to connect with them, but on the other, I fear their judgment and lack of emotional support. It’s like I’m stuck in this loop of wanting to be open, yet feeling unworthy of their attention. I worry that if I tell them how I feel, it will just lead to more disappointment. Therapy is helping me to reflect on these patterns, but I still find myself struggling with the idea of change. Maybe it’s just safer to keep my feelings to myself, but I know that can’t be the solution forever."
+        "client_reasoning": "Lately, I've been thinking more about how my breakup has affected me, and I recognize that my family relationships play a big role in my feelings. I notice that I often feel sad and alone when I think about sharing my experiences with them, especially after how they reacted to my coming out. It's like I'm stuck between wanting to connect with them and fearing their rejection. While I want to open up, I'm still filled with doubt about whether they'll understand or care. Sometimes, I think I shouldn't bother because it might just lead to more hurt. Therapy is helping me reflect on these conflicting emotions, but I still feel lost and unsure about taking that next step toward change.",
+        "progress_marker": "Client shows signs of recognizing the impact of family dynamics on their emotional well-being."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Matthew hasn't fully articulated his fears and desires regarding sharing feelings with his family. Client objective not met: Matthew is still ambivalent about discussing his breakup with his parents.",
-          "client_utterance": "I’ve been thinking about how overwhelming it feels to even consider sharing my feelings with my parents. I want to be honest about my breakup, but I can’t shake the fear that they won’t understand me again. It feels like I’m just walking into another disappointment, and that discourages me from trying.",
-          "therapist_utterance": "It’s completely understandable to feel that way, especially considering your past experiences. You’re caught between wanting to be open and fearing the outcome. What would it look like for you to express just one small part of what you're feeling, rather than everything at once?",
-          "therapist_use": "Exploring ambivalence: encouraged Matthew to articulate his fears and consider a smaller step towards sharing."
+          "reason_for_ending": "KEEP: Therapist's objective was not met because the client has not fully explored their feelings about sharing their breakup. Client's objective was not met as they are still hesitant to discuss their family dynamics.",
+          "client_utterance": "I've been thinking about what you said regarding needing them to listen. But I'm still worried that they won't really get it, or that they'll just brush it off like they did before. It's frustrating because I want to connect with them, but all I feel is this wall between us.",
+          "therapist_utterance": "It sounds like you're feeling a mix of hope and anxiety about reaching out to them. That wall can feel really isolating, especially when you want to connect. What do you think might help you in breaking down that wall a little bit?",
+          "therapist_use": "Open-ended question: encouraged exploration of barriers to connection."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Matthew hasn't fully explored the pros and cons of sharing his feelings. Client objective not met: Matthew is still hesitant about how to approach the conversation with his parents.",
-          "client_utterance": "I guess breaking it down could help, but I still worry that even a small share could lead to a big reaction. I want them to understand how much this breakup affects me, but I also fear that they might just dismiss it again. It feels really risky to even think about opening up like that.",
-          "therapist_utterance": "It sounds like you recognize the potential value in sharing, even if it feels risky. Let’s explore what you think might be the positives and negatives of sharing your feelings with them. This could help you see if there’s a way to approach this that feels safer.",
-          "therapist_use": "Pros and Cons Analysis: facilitated a discussion to weigh the benefits and drawbacks of sharing feelings."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Matthew has not yet articulated any potential benefits of sharing his feelings. Client's objective was not met since he continues to struggle with expressing his emotions.",
+          "client_utterance": "I guess I could try telling them how I feel first, but I keep thinking they'll just give me advice instead of listening. It feels like they might miss the point and just focus on fixing things. I really want to be understood, not just told what to do.",
+          "therapist_utterance": "Your desire to be understood is really important, and it's valid to want more than just advice. What do you think would happen if you told them exactly what you need from them in that moment? Could that shift the conversation to be more supportive?",
+          "therapist_use": "Eliciting change talk: inviting Matthew to consider the potential benefits of expressing his needs."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Matthew hasn't fully articulated the pros and cons. Client objective not met: Matthew is still struggling with the idea of sharing any feelings.",
-          "client_utterance": "On the positive side, I guess sharing could bring me closer to them, but the negatives really weigh heavy on me. I just keep thinking about how they might react, and that makes me feel like I’m just setting myself up for failure. It’s like I want to take the chance, but my past experiences keep holding me back.",
-          "therapist_utterance": "That’s a valid concern, especially given your past. It’s clear that you want connection, but the fear of negative responses is strong. How could we address those fears together as you think about taking this step?",
-          "therapist_use": "Developing discrepancy: helped Matthew identify the gap between his desire for connection and his fears about sharing."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Matthew has not fully engaged with his feelings about a potential supportive response. Client's objective was not met since he still feels unsure about the outcome of sharing his feelings.",
+          "client_utterance": "I suppose if I told them I need them to listen, they might actually try. But what if they just revert back to their old habits? I feel like I'm setting myself up for disappointment if I expect anything different.",
+          "therapist_utterance": "It's understandable to fear disappointment based on past experiences. However, what if you allowed yourself to envision a positive outcome? What would it feel like to think about a different response they might have this time?",
+          "therapist_use": "Decisional balance discussion: helping Matthew weigh potential positive outcomes against his fears."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Matthew has not yet challenged his automatic thoughts about family reactions. Client objective not met: Matthew still feels conflicted about the potential outcomes.",
-          "client_utterance": "I guess if I think about it, they could surprise me positively, but I mostly just see the worst-case scenarios. It’s hard to imagine them reacting in a supportive way, considering how they've treated my feelings in the past. I really want to believe they could be different, but it feels safer just to keep my feelings to myself.",
-          "therapist_utterance": "It’s understandable to feel that way, especially when past experiences loom large. What if we reflected on some past interactions where they might have surprised you positively? This could help challenge those worst-case scenarios you’re envisioning.",
-          "therapist_use": "Decatastrophizing: encouraged Matthew to explore past experiences for evidence contradicting his fears about his parents' reactions."
+          "reason_for_ending": "KEEP: Therapist's objective was not met since Matthew hasn't yet voiced any hope or benefits from sharing. Client's objective was not met as he continues to hold back feelings about his family.",
+          "client_utterance": "Imagining a positive response feels unrealistic. But maybe if I tried to express my feelings clearly, they might surprise me. Still, I just can't shake the thought that they could shut me down again.",
+          "therapist_utterance": "It's a big step to consider that they could respond differently than before. What if you practiced expressing your feelings here, in this safe space? That might help you feel more prepared for the conversation with them.",
+          "therapist_use": "Role-playing: encouraging Matthew to practice his expression of feelings to build confidence."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Matthew hasn't fully examined past positive experiences with his parents. Client objective not met: Matthew is still hesitant about sharing his feelings.",
-          "client_utterance": "There have been a couple of moments where they did listen, but they felt so rare. I remember one time when I was really upset about something else, and they tried to help, but it still felt very surface-level. I guess I just don’t want to get my hopes up thinking it could be different this time.",
-          "therapist_utterance": "It’s good to acknowledge those rare moments of support, even if they feel few and far between. It sounds like you want to protect yourself from disappointment, which is completely valid. How can we use those positive moments to help you feel a bit more confident about sharing now?",
-          "therapist_use": "Eliciting Change Talk: facilitated discussion about past supportive moments to build confidence in sharing feelings."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Matthew has not yet practiced discussing his feelings. Client's objective was not met since he still hesitates to fully express himself.",
+          "client_utterance": "Okay, I can try that. If I could just say how their reactions have made me feel, that might be a start. I guess I want to tell them that I just need them to be there for me, without judgment.",
+          "therapist_utterance": "That’s a powerful start, Matthew. Expressing your need for support without judgment is important. How do you think you might frame that when talking to them?",
+          "therapist_use": "Generating alternative responses: assisting Matthew in formulating how to express his needs."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: Matthew hasn’t yet made a clear decision about whether to share. Client objective not met: Matthew still feels unsure about taking the step to communicate his feelings.",
-          "client_utterance": "I think maybe if I could just express how their lack of support affects me, that might be a good start. It feels less daunting than diving into the whole breakup story. But I still worry about how they’ll react, and that makes it hard to commit to even that small step.",
-          "therapist_utterance": "That sounds like a thoughtful and manageable approach, focusing on how their reactions impact you could be a great starting point. It’s okay to take your time with this and prepare yourself emotionally. What support do you feel you would need from me as you think about this step?",
-          "therapist_use": "Developing Discrepancy: highlighted the potential for sharing feelings while acknowledging Matthew’s fears."
+          "reason_for_ending": "KEEP: Therapist's objective was not met since Matthew has not yet fully role-played the conversation. Client's objective was not met as he still feels uncertain about his approach.",
+          "client_utterance": "I could say something like, 'I need you to listen to me without trying to fix everything.' But I still doubt they’ll be able to do that. What if they just focus on what’s practical again?",
+          "therapist_utterance": "It's common to have that fear, but practicing how you might say it can lessen some of that doubt. Would you like to role-play that conversation now? It could give you a sense of how to approach them.",
+          "therapist_use": "Role-playing: encouraging Matthew to practice his expression to increase readiness."
         },
         {
-          "reason_for_ending": "MOVE, therapist objective met: Matthew has articulated his feelings and thoughts about sharing. Client objective met: Matthew has identified a potential first step in communicating with his parents.",
-          "client_utterance": "I think having a plan to express my feelings could help me feel more in control of the situation. I’m realizing that it’s not just about the breakup, but also about how I want to be treated by my family. I feel a little more empowered to take this step now, even if it’s small.",
-          "therapist_utterance": "That’s fantastic to hear, Matthew! It sounds like you’re beginning to feel more empowered and ready to explore this connection with your family. Taking that first step towards expressing your feelings is significant, and I’m here to support you through it.",
-          "therapist_use": "Eliciting Change Talk: reinforced Matthew's empowerment and readiness to share feelings with his family."
+          "reason_for_ending": "MOVE: Therapist's objective was met as Matthew has articulated how he might express his needs. Client's objective was met as he has shown increased openness to sharing his feelings.",
+          "client_utterance": "Okay, I think I can try to frame it that way. I want to focus on my feelings rather than their reactions. It's scary, but I can see how it might help improve things.",
+          "therapist_utterance": "That’s a significant realization, Matthew. By focusing on your feelings, you're taking a brave step toward connection. It sounds like you're beginning to find the courage to reach out and express your needs.",
+          "therapist_use": "Double-sided reflection: validating Matthew's courage while recognizing the challenge of focusing on his feelings."
         }
       ]
     },
@@ -240,22 +252,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "To strengthen Matthew's commitment to discussing his breakup with his parents while exploring his feelings and increasing his confidence.",
+          "objective": "To strengthen Matthew's commitment to discussing his breakup with his parents and to reinforce his motivation for change.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Invite Matthew to express his intentions regarding talking to his parents about the breakup.",
-                "Encourage him to articulate why this conversation is important to him.",
-                "Reinforce any positive statements he makes about his ability to handle the situation."
+                "Encourage Matthew to articulate his motivations for wanting to share his feelings about the breakup with his parents.",
+                "Ask open-ended questions that help him reflect on the importance of this conversation, such as 'What would it mean for you to have this discussion?'",
+                "Reinforce his commitment by summarizing his expressed motivations and confirming his readiness to take action."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Ask open-ended questions to explore his confidence in approaching his parents.",
-                "Discuss past experiences where he successfully managed similar conversations.",
-                "Help him identify any support systems he can rely on."
+                "Utilize scaling questions to assess Matthew's confidence in approaching his parents, asking him to rate his confidence from 1 to 10.",
+                "Explore what a higher confidence rating would look like for him and what steps he could take to increase his confidence.",
+                "Assist him in identifying past instances where he successfully approached difficult conversations to bolster his self-efficacy."
               ]
             }
           ]
@@ -263,79 +275,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Challenging Cognitive Distortions",
               "instructions_for_therapist": [
-                "Collaborate with Matthew to design a small, low-stakes scenario where he can practice expressing his feelings about the breakup.",
-                "Discuss potential outcomes and how he could respond to various reactions from his parents.",
-                "Encourage him to reflect on his feelings after the experiment to build self-efficacy."
+                "Guide Matthew in identifying and labeling his automatic thoughts regarding his parents' potential reactions.",
+                "Encourage him to examine the evidence for and against these thoughts, focusing on factual past experiences.",
+                "Facilitate a discussion on alternative outcomes and how they might differ from his initial expectations."
               ]
             },
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Role-Playing",
               "instructions_for_therapist": [
-                "Work with Matthew to create a step-by-step action plan for the conversation with his parents.",
-                "Ensure the plan includes specific dates and times for when he will initiate this conversation.",
-                "Identify potential barriers and brainstorm coping strategies to address these challenges."
+                "Engage Matthew in a role-playing exercise where he practices the conversation with his parents.",
+                "Simulate various responses from the parents based on Matthew's new perspectives to help him prepare for different scenarios.",
+                "Debrief after the role-play to assess his feelings and reinforce the skills he practiced."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To support Matthew in the Preparation phase, the focus is on enhancing his commitment to discussing his breakup with his parents, which aligns with his desire for emotional connection. Using MI strategies, I will encourage him to articulate his intentions and the importance of this conversation, helping him recognize his ability to manage potential outcomes. This will help alleviate some of his feelings of helplessness. Additionally, by exploring his readiness and confidence, I can bolster his self-efficacy while identifying supports he can lean on. The CBT interventions will include a Behavior Experiment where Matthew can practice sharing his feelings in a low-stakes environment, enabling him to confront his fears in a manageable way. This is coupled with an Action Planning technique that provides him with a clear, structured approach to the upcoming conversation, addressing barriers and coping strategies, which will further empower him. This structured approach caters to his current resistance level and emotional state, ensuring it is gradual and collaborative.",
-        "progress_marker": "Matthew has outlined a specific action plan to discuss his breakup with his parents and has practiced expressing his feelings in a safe environment."
+        "therapist_reasoning": "In this phase, my goal is to enhance Matthew's motivation and commitment to discussing his breakup with his parents. I will utilize Motivational Interviewing strategies, such as strengthening commitment language, to help him articulate his motivations for wanting to engage in this conversation. By asking open-ended questions, I can facilitate his reflection on the significance of this discussion. Additionally, I will explore his confidence and readiness using scaling questions, which will help him acknowledge areas for growth. In parallel, I will employ CBT techniques, particularly challenging cognitive distortions, to help him identify and reframe negative automatic thoughts about his parents' reactions. This approach will include examining evidence for his assumptions and brainstorming alternative outcomes. Finally, role-playing will provide him with an opportunity to practice the conversation in a safe environment, allowing him to rehearse his feelings and responses while building self-efficacy. Through this structured plan, I aim to create a supportive environment that addresses his resistance while fostering a sense of agency and readiness for change.",
+        "progress_marker": "Matthew expresses a clearer understanding of his motivations and begins to articulate an action plan for discussing his breakup with his parents."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to find a way to communicate my feelings about my breakup to my parents without fearing their negative reactions.",
+        "client_objective": "I hope to explore my feelings about my breakup and how to communicate this to my parents.",
         "client_state": {
-          "awareness": "I recognize that discussing my breakup with my parents is important for my emotional well-being, but I am unsure how they will react.",
-          "motivation": "I feel a strong desire to improve my relationship with my parents, especially as I navigate this difficult time.",
-          "openness": "I am willing to explore my feelings and thoughts with my therapist, though I still have reservations about sharing with my family.",
-          "resistance": "I experience significant doubt about whether my parents will be supportive, which makes me hesitant to open up."
+          "awareness": "I understand that my breakup has affected me deeply and that I need to address my feelings rather than ignore them.",
+          "motivation": "I feel a growing desire to improve my relationships and find a way to communicate my emotions more effectively.",
+          "openness": "I am willing to discuss my thoughts and feelings in therapy, although I still feel hesitant about my family's potential reaction.",
+          "resistance": "I experience significant doubts about whether my family will support me, which makes me hesitant to fully open up."
         },
-        "client_reasoning": "I’ve come to realize that my breakup is affecting me more deeply than I initially thought, and talking about it with my parents might help me process my feelings. I know that keeping this to myself isn’t healthy, and I want to improve my relationship with them, but I fear they'll respond the same way they did when I came out. They’ve always focused on practicality rather than emotions, which leaves me feeling unvalued and alone. Therapy has opened my eyes to the possibility that I can seek support, but I still grapple with the fear of rejection. I want to be brave enough to share my truth, but the thought of their possible disappointment makes me hesitate. I hope to find a way to express my feelings without feeling like I'm setting myself up for more hurt."
+        "client_reasoning": "I’ve come to realize that my current situation isn't sustainable; I can't keep avoiding my feelings about the breakup. I understand that talking about it, especially with my family, could help me process my emotions and move forward. There's a part of me that feels hopeful; I want to have better relationships, even if my family has been less than supportive in the past. Therapy has helped me see that I deserve to express myself and seek understanding. Yet, I still feel scared. Will they dismiss my feelings again? What if they react negatively like they did when I came out? I know I need to face these fears, but I'm not sure how to bridge that gap. However, I feel I am starting to be ready to take those steps, albeit cautiously."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP, the therapist's objective of strengthening commitment to discuss feelings was not fully met as Matthew still feels hesitant. The client's objective of finding a way to communicate feelings without fearing negative reactions is not achieved yet.",
-          "client_utterance": "I think I’m starting to feel a bit more empowered, but I’m still worried about how they’ll react if I express how their reactions affect me. It feels risky, and I don’t want to open up just to be hurt again. I know I want to improve our relationship, but it’s hard to see that happening.",
-          "therapist_utterance": "It’s completely understandable to feel apprehensive about the risks involved. You’re recognizing the importance of this conversation for your relationship, and that shows growth. Let’s talk about how you can prepare for their reactions, so you feel more equipped to handle whatever comes your way.",
-          "therapist_use": "Exploring confidence and readiness: used to validate Matthew's concerns while guiding him towards preparation."
+          "reason_for_ending": "KEEP - Therapist objective not met: Not yet reinforced client's commitment to discuss the breakup. Client objective not met: Matthew hasn't fully articulated his feelings and action plan.",
+          "client_utterance": "I've been thinking more about how to express my feelings to my parents, but I'm still really worried about their reaction. It's like every time I try to envision the conversation, I can’t shake the fear that they'll just dismiss me again. I want to be honest, but I also want to protect myself from getting hurt.",
+          "therapist_utterance": "It's completely understandable to feel that way, especially with your past experiences. What do you think it would mean for you to express those feelings regardless of their reaction? How might it help you to process your emotions?",
+          "therapist_use": "Open-ended question: Encouraged Matthew to reflect on the importance of expressing his feelings."
         },
         {
-          "reason_for_ending": "KEEP, the therapist's objective of helping Matthew prepare for potential reactions is not fully achieved as he still feels unsure. The client’s objective of finding a way to communicate feelings without fearing negative reactions remains unmet.",
-          "client_utterance": "I guess thinking about how to prepare for their reactions might help ease some of my worries. But the doubt still creeps in, and I just don’t want to deal with another disappointing conversation. Can we talk about what kind of responses I might expect?",
-          "therapist_utterance": "Absolutely, it’s crucial to consider what responses you might encounter. By anticipating different reactions, you can feel more in control of the conversation. What do you think are some possible ways your parents could react, both positively and negatively?",
-          "therapist_use": "Behavior Experiment: used to help Matthew identify potential outcomes and responses, building readiness."
+          "reason_for_ending": "KEEP - Therapist objective not met: Still needs to strengthen Matthew's commitment. Client objective not met: Matthew hasn't yet clarified his action plan.",
+          "client_utterance": "If I could tell them how I feel, it might help me feel a bit lighter, but I still picture them focusing on what I should do instead of listening. I don’t want to feel like I’m begging for their understanding. It’s just hard to trust that they will actually listen this time.",
+          "therapist_utterance": "It sounds like you're grappling with the idea of being vulnerable and feeling heard. What would it look like for you to ask them directly for what you need? How do you think they might respond if you clearly expressed your desire for them to listen?",
+          "therapist_use": "Exploring confidence and readiness: Encouraged Matthew to envision a specific request to his parents."
         },
         {
-          "reason_for_ending": "KEEP, the therapist's objective of exploring Matthew's confidence in handling his parents' reactions is not fully met as he still feels uncertain. The client objective of finding a safe way to communicate feelings is not fully achieved.",
-          "client_utterance": "I can imagine a few positive responses, like them actually listening or trying to understand. But on the flip side, I can’t shake the fear that they’ll just dismiss my feelings again. It’s hard because I want to believe they could surprise me, but I keep thinking about how they usually react.",
-          "therapist_utterance": "It’s a real challenge when past experiences shape your expectations. It’s good that you can see the possibility of positive reactions, even if they feel overshadowed by doubts. How can we build on those positive scenarios to give you more confidence going into this conversation?",
-          "therapist_use": "Strengthening Commitment Language: used to encourage Matthew to focus on the positives while addressing his fears."
+          "reason_for_ending": "KEEP - Therapist objective not met: Needs to reinforce Matthew's motivation. Client objective not met: Matthew hasn't expressed a clear action plan yet.",
+          "client_utterance": "I think if I asked them to listen, they might try, but there's always this nagging voice in my head saying it'll just end up being another disappointment. I really want to be understood, but the fear of them reverting to old patterns is so strong. I guess I'm just caught in this loop of wanting to connect but feeling like it's too risky.",
+          "therapist_utterance": "It's tough to feel stuck between wanting connection and fearing pain. What if you focused on one small step to break that loop? Could you practice expressing just one feeling to them, to see how they respond?",
+          "therapist_use": "Scaling question: Encouraged Matthew to think about taking small steps to express his feelings."
         },
         {
-          "reason_for_ending": "KEEP, the therapist's objective to enhance Matthew's confidence is not fully met since he is still focused on doubts. The client objective of feeling secure in communicating feelings remains unresolved.",
-          "client_utterance": "I think maybe if I focus on how they could listen this time, it might help. But then I remember how often they don’t see my feelings, and that makes me hesitant to try. I want to believe they’ll respond differently, but it’s tough.",
-          "therapist_utterance": "It’s completely valid to feel that way, especially when past experiences have been difficult. Believing in the possibility of a different response can be a strong motivator. What if we created a small action plan that includes the steps you want to take before having that conversation?",
-          "therapist_use": "Action Planning: used to create a structured approach for Matthew to navigate the conversation with his parents."
+          "reason_for_ending": "KEEP - Therapist objective not met: Still needs to reinforce commitment to the discussion. Client objective not met: Matthew hasn't fully articulated his action plan.",
+          "client_utterance": "I could try to just share one feeling first, but what if they still don’t get it? It feels like I’m trying to walk on eggshells around them. I want to be brave and take that step, but I can’t shake off the anxiety of their past reactions.",
+          "therapist_utterance": "It's completely valid to feel anxious about their reactions. What if you prepared yourself for different responses this time? It might help to visualize how you could respond if they do revert to their old ways.",
+          "therapist_use": "Challenging cognitive distortions: Helped Matthew visualize potential responses from his parents to ease his anxiety."
         },
         {
-          "reason_for_ending": "KEEP, the therapist's objective to help Matthew plan for the conversation is not fully met as he hasn't outlined specific steps yet. The client objective of feeling secure in communicating feelings remains unfulfilled.",
-          "client_utterance": "Sure, having a plan sounds good, but I’m not sure where to start. I guess I need to think about what I want to say first, but I still feel overwhelmed by the thought of it. Can we break it down into smaller steps?",
-          "therapist_utterance": "Absolutely! Let’s break it down together. What do you think the first step could be in expressing your feelings? It could be as simple as writing down what you want to say or even rehearsing it with me.",
-          "therapist_use": "Action Planning: used to collaboratively outline initial steps for Matthew, reducing overwhelm."
+          "reason_for_ending": "KEEP - Therapist objective not met: Needs to further strengthen commitment language. Client objective not met: Matthew needs to clarify his action plan.",
+          "client_utterance": "I guess I could practice what I would say if they don't respond the way I hope. I want to be ready for anything, but the thought of facing that fear is daunting. I feel like I’m really trying to prepare myself, but I still have my doubts.",
+          "therapist_utterance": "Preparing yourself is a strong and proactive step. What if you role-played the conversation here to practice those responses? It might help to build your confidence and create a clearer action plan.",
+          "therapist_use": "Role-Playing: Suggested practice to build confidence and clarify action plan."
         },
         {
-          "reason_for_ending": "KEEP, the therapist's objective of helping Matthew create a plan is still in progress as he hasn't defined specific steps yet. The client objective of feeling secure in communicating feelings is not fully achieved.",
-          "client_utterance": "I think writing down my feelings could help me organize my thoughts. But I still worry that even if I prepare, their reactions could still throw me off. It’s like I want to be ready, but I’m still scared.",
-          "therapist_utterance": "Preparation can definitely help you feel more grounded, and it’s okay to acknowledge that fear. What if we also brainstorm some coping strategies for when those fears come up during the conversation? That way, you’ll feel equipped to handle whatever happens.",
-          "therapist_use": "Exploring Confidence and Readiness: used to identify coping strategies that can provide reassurance."
+          "reason_for_ending": "KEEP - Therapist objective not met: Needs to reinforce commitment to the conversation. Client objective not met: Matthew has not yet articulated a complete action plan.",
+          "client_utterance": "Okay, I can see how role-playing might help. If I could articulate my feelings here, it might give me the confidence to do it with them. But I still fear that it might not go as I hope, and that’s hard to shake off.",
+          "therapist_utterance": "It's completely understandable to fear that uncertainty. Let’s role-play that conversation now, and you can express your feelings as you would like to them. This is a safe space for you to explore how it might feel.",
+          "therapist_use": "Role-Playing: Engaged Matthew in a practice conversation to explore his feelings."
         },
         {
-          "reason_for_ending": "MOVE, the therapist's objective to engage Matthew in planning for communication was met as he has begun to outline steps and coping strategies. The client objective of feeling secure in communicating has advanced as he has identified writing down feelings as a first step.",
-          "client_utterance": "I think I’m ready to start writing down my feelings. It feels good to have a plan, even if I'm still a bit scared. I can see how preparing could help me feel more secure and less overwhelmed.",
-          "therapist_utterance": "That’s excellent progress, Matthew! Having a plan can empower you and reduce some of that fear. I’m here to support you through this as you take that first step toward sharing your feelings with your parents.",
-          "therapist_use": "Strengthening Commitment Language: used to affirm Matthew’s progress and support his commitment to the next steps."
+          "reason_for_ending": "MOVE - Therapist objective met: Successfully reinforced Matthew's commitment to discussing his feelings. Client objective met: Matthew articulated a clearer action plan for the conversation.",
+          "client_utterance": "Practicing this feels really helpful! I want to say something like, 'I need you to really listen to me without jumping to fix things.' I can feel the tension easing a bit when I think about saying that. I know it's still scary, but I feel more prepared now.",
+          "therapist_utterance": "That's a significant step forward, Matthew! You've articulated a clear way to express your needs, and that’s a powerful action plan. It’s normal to feel scared, but you’re also showing courage in preparing for this conversation.",
+          "therapist_use": "Summary and reinforcement: Validated Matthew's progress and commitment to his action plan."
         }
       ]
     }

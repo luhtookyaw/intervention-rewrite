@@ -12,143 +12,38 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To build rapport and encourage awareness of Matthew's feelings and beliefs regarding his family dynamics and emotional needs.",
+          "objective": "Increase Matthew's awareness of his thoughts and emotions regarding family dynamics and build rapport.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Matthew's concerns about his family without interrupting.",
-                "Paraphrase his statements to demonstrate understanding and validate his feelings.",
-                "Encourage him to elaborate on specific feelings or experiences by reflecting back what he shares."
+                "Listen attentively to Matthew's feelings and thoughts about his family.",
+                "Reflect back what you hear to validate his experiences, ensuring he feels understood.",
+                "Use phrases like, 'It sounds like you're feeling...,' to encourage him to explore his feelings further."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge the difficulties he faces in his family relationships.",
-                "Use empathetic statements to convey that his feelings of loneliness and sadness are valid.",
-                "Reinforce that it's okay to feel overwhelmed and that these feelings are part of his experience."
+                "Acknowledge Matthew's feelings of being overwhelmed and defensive regarding family interactions.",
+                "Communicate understanding of his struggles by saying, 'It's understandable to feel that way given your experiences.'",
+                "Create a safe space where he feels comfortable sharing without fear of judgment."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently help Matthew identify the gap between his current feelings and his desire for emotional support.",
-                "Ask open-ended questions that prompt him to reflect on how his current situation aligns or conflicts with his values."
-              ]
-            }
-          ]
-        },
-        "cbt_plan": {
-          "interventions": [
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Encourage Matthew to explore the evidence for his beliefs about his family's inability to provide support.",
-                "Ask questions like, 'What experiences have led you to feel that your family will never support you?'"
+                "Gently guide Matthew to reflect on the differences between his current family dynamics and his personal values.",
+                "Ask open-ended questions like, 'What do you value most in your relationships?' to help him articulate his desires.",
+                "Encourage him to think about what aspects of family connection he might want to explore further."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Help Matthew assess the validity of his automatic thoughts by discussing instances when he received support.",
-                "Challenge the absolute nature of his thoughts with questions like, 'Are there any times when your family has surprised you in a positive way?'"
-              ]
-            },
-            {
-              "technique_name": "Alternative Perspective",
-              "instructions_for_therapist": [
-                "Invite Matthew to consider how he might view his family's reactions from a different angle.",
-                "Discuss the idea that their responses may stem from their own fears or lack of understanding."
-              ]
-            }
-          ]
-        },
-        "therapist_reasoning": "The therapy plan for Matthew focuses on building rapport and encouraging self-exploration. Using reflective listening allows me to validate his feelings and create a safe space for him to express himself without pressure. By incorporating empathy, I acknowledge the emotional turmoil he experiences with his family, which is essential for reducing his defensiveness. Developing discrepancy helps Matthew recognize the inconsistency between his current situation and his desire for connection, fostering curiosity about his feelings. In the CBT interventions, evidence-based questioning is employed to help him critically evaluate his beliefs about his family's support, while reality testing challenges his automatic thoughts by prompting him to consider positive past experiences. The alternative perspective technique encourages him to view his family's actions through a different lens, facilitating deeper understanding without pushing for immediate change. This approach aligns with his resistance profile, allowing for gradual engagement and self-awareness without demanding commitments or action plans.",
-        "progress_marker": "Matthew begins to articulate his feelings and beliefs about his family with less defensiveness, demonstrating increased self-awareness and curiosity about his emotional needs."
-      },
-      "client_plan": {
-        "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I feel this way, but I’m not sure it will help.",
-        "client_state": {
-          "awareness": "I know there are issues with my family, but I don’t think talking about it will make a difference.",
-          "motivation": "I don’t really want to change anything; it feels easier to avoid the discomfort.",
-          "openness": "I’m not comfortable sharing my true feelings about my family; it feels safer to keep it to myself.",
-          "resistance": "I feel strongly against discussing my family situation because it just leads to more pain."
-        },
-        "client_reasoning": "I know there’s something wrong, especially with my family dynamics, but it’s hard to pin down exactly what it is. I feel like I’ve always been the one to hold things together, and discussing my feelings makes me uncomfortable. It just seems pointless because every time I try, I end up feeling more alone and unsupported. I want my family to validate me, but it never happens. I often feel like I’m just being weak when I think about my emotions. The idea of opening up about my feelings in therapy feels intimidating; it’s easier to brush things off with humor or distance myself. I don’t think I’ll get anything good out of it, and I’m worried I’ll just end up feeling worse. I want to feel better, but change feels so far away and unreachable right now."
-      },
-      "dialogue": [
-        {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not fully explore Matthew's feelings about his family dynamics. Client objective was not met because Matthew still feels uncertain about the value of discussing his family situation.",
-          "client_utterance": "I guess I know my family has issues, but talking about them feels like a waste of time. It just makes me feel worse, you know? I really don’t see how digging into this will help me understand anything better.",
-          "therapist_utterance": "It sounds like you’re feeling pretty skeptical about the idea of discussing your family. You’ve been through a lot with them, and it makes sense that you might think it won’t lead to anything positive. What do you think holds you back from wanting to explore those feelings a bit more?",
-          "therapist_use": "Reflective Listening: used to acknowledge Matthew's skepticism and encourage further exploration of his feelings."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not help Matthew articulate his feelings more clearly. Client objective was not met because Matthew still feels the need to avoid discussing his family issues.",
-          "client_utterance": "I don’t know... I just feel like I’ve been doing fine by myself. When I talk about my family, it just opens up old wounds, and I don’t want to deal with that pain again.",
-          "therapist_utterance": "It’s understandable to want to avoid pain, especially when it feels overwhelming. You’ve shown a lot of strength in handling things on your own, but it seems like there’s still hurt underneath. What do you think it would feel like to allow yourself to acknowledge that pain, even just a little?",
-          "therapist_use": "Expressing Empathy: used to validate Matthew's desire to avoid pain while encouraging him to consider the possibility of acknowledging his feelings."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not help Matthew recognize the gap between his feelings and his desire for emotional connection. Client objective was not met because Matthew remains resistant to discussing his emotions.",
-          "client_utterance": "I guess it just feels easier to pretend everything is fine. It’s like, if I don’t think about it, I don’t have to deal with it. But maybe I’m just fooling myself.",
-          "therapist_utterance": "It sounds like you’re caught between wanting to avoid the discomfort and recognizing that there might be something deeper at play. You’re not alone in feeling that way; many people struggle with this. What do you think it would take for you to feel safe enough to explore those feelings?",
-          "therapist_use": "Developing Discrepancy: used to help Matthew reflect on the tension between his current avoidance and his deeper emotional needs."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not probe deeper into Matthew's past experiences for insight. Client objective was not met because Matthew continues to focus on avoidance rather than exploration.",
-          "client_utterance": "I’m not sure what it would take. I mean, I’ve tried before, and it just never goes well. I think my family will never be there for me in the way I need them to be.",
-          "therapist_utterance": "It’s tough when past experiences make you feel like there’s no hope for change. You’ve mentioned that you feel they won’t support you, but I wonder if there have been times when you felt differently? Can you think of any moments when your family surprised you in a good way?",
-          "therapist_use": "Evidence-Based Questioning: used to encourage Matthew to explore the evidence for his beliefs about his family's support."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not fully challenge Matthew’s negative beliefs about his family. Client objective was not met because Matthew still feels stuck in his perception of family dynamics.",
-          "client_utterance": "I mean, there were a couple of times, but they were so rare. Most of the time, it just feels like I’m the one trying to keep things together.",
-          "therapist_utterance": "It’s understandable to feel like you’re carrying a heavy burden, especially when you’re trying to maintain harmony. Those rare moments of support matter, though, and they show that there might be some capacity for connection. What do you think those moments say about your family?",
-          "therapist_use": "Reality Testing: used to challenge the absolute nature of Matthew's thoughts by highlighting positive past experiences."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not help Matthew explore different perspectives on his family's behavior. Client objective was not met because Matthew still feels like his family is unsupportive.",
-          "client_utterance": "I guess it could mean that they care, but it’s hard to see it that way when I feel ignored most of the time. I just wish they could understand me better.",
-          "therapist_utterance": "It’s completely valid to wish for understanding from your family. Sometimes, their reactions may stem from their own fears or misunderstandings rather than a lack of care. How might that perspective change how you view their actions?",
-          "therapist_use": "Alternative Perspective: used to invite Matthew to consider his family’s reactions from a different angle."
-        },
-        {
-          "reason_for_ending": "MOVE - Therapist objective was met as they helped Matthew articulate his feelings and consider different perspectives. Client objective was met as Matthew began to reflect on his family's actions and his emotional needs.",
-          "client_utterance": "I guess if I think about it that way, I might be able to see them as struggling too. It’s just hard to balance my needs with theirs.",
-          "therapist_utterance": "That’s a significant realization, Matthew. Recognizing that both you and your family have struggles can be a step toward finding common ground. How does it feel to think about approaching these issues with that understanding?",
-          "therapist_use": "Reflective Listening: used to validate Matthew's realization and encourage further exploration of his feelings."
-        }
-      ]
-    },
-    {
-      "phase": "contemplation",
-      "therapist_plan": {
-        "phase_of_therapy": "contemplation",
-        "motivational_interviewing_plan": {
-          "objective": "Explore Matthew's ambivalence about reconnecting with family while strengthening his motivation for change.",
-          "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Encourage Matthew to express both sides of his feelings about connecting with his family, emphasizing the positive and negative aspects.",
-                "Ask open-ended questions to help him articulate his fears and hopes regarding family relationships."
-              ]
-            },
-            {
-              "strategy_name": "Eliciting Change Talk",
-              "instructions_for_therapist": [
-                "Prompt Matthew to discuss what changes he sees as beneficial in his relationship with his family.",
-                "Use reflective listening to affirm any positive statements he makes about wanting to improve these connections."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance Discussions",
-              "instructions_for_therapist": [
-                "Facilitate a discussion on the pros and cons of both reconnecting with his family and maintaining distance.",
-                "Guide him to weigh the emotional impact of each choice and how it aligns with his values."
+                "Encourage Matthew to reflect on his coping strategies and their effectiveness.",
+                "Ask questions that promote self-evaluation, such as, 'How do you feel when you distance yourself from your family?'",
+                "Facilitate awareness of the impact of his current behaviors on his emotional state."
               ]
             }
           ]
@@ -158,83 +53,178 @@
             {
               "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Help Matthew to identify and challenge catastrophic thoughts related to family interactions.",
-                "Encourage him to articulate evidence that contradicts these negative thoughts."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Assist Matthew in creating a list of pros and cons regarding his current behavior towards family.",
-                "Explore how these align with his core beliefs and values, particularly around love and support."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Use questions to challenge Matthew’s belief that he is unlovable and will always be rejected.",
-                "Encourage him to reflect on any supportive relationships he has developed outside his family."
+                "Begin by discussing Matthew's experience of coming out to his parents, prompting him to identify specific negative thoughts.",
+                "Guide him to articulate his worst fears about family reactions and the emotional consequences.",
+                "Encourage him to challenge these thoughts by examining evidence for and against them.",
+                "Help him assess the likelihood of his fears coming true and develop alternative outcomes.",
+                "Collaborate on creating a balanced thought that reflects a more realistic perspective about family support.",
+                "Ensure that this process is exploratory and does not push for immediate behavioral change."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To begin, I will utilize Motivational Interviewing (MI) strategies to explore Matthew's ambivalence regarding family connections. By facilitating discussions that elicit change talk, I can help him articulate both his desire for connection and his fears about potential rejection, fostering insight into his internal conflict. The decisional balance discussions will allow Matthew to weigh the pros and cons of his current distancing behavior, helping him identify discrepancies between his values of family connection and his current actions. In conjunction with MI, I will incorporate Cognitive Behavioral Therapy (CBT) techniques like decatastrophizing to challenge his catastrophic thinking about family interactions. This approach will encourage Matthew to recognize alternative outcomes and reduce his sense of helplessness. Additionally, using evidence-based questioning will address his belief of being unlovable, prompting reflection on supportive relationships outside his family. By maintaining a collaborative stance throughout these discussions, I can effectively address Matthew's advanced resistance and promote self-efficacy while respecting his ambivalence about change.",
-        "progress_marker": "Matthew expresses increased clarity about his feelings toward family and identifies at least one supportive relationship outside of his family."
+        "therapist_reasoning": "In approaching Matthew's therapy in the pre-contemplation phase, my first step is to build a strong rapport through reflective listening and expressing empathy. This will create a safe environment for him to explore his feelings without feeling pressured. Next, I will utilize motivational interviewing techniques to develop discrepancies between his current family dynamics and his personal values, prompting him to articulate what he truly desires from these relationships. This exploration will help raise awareness about his coping strategies and their emotional impact, which is critical given his resistance profile. Furthermore, incorporating the CBT technique of decatastrophizing will allow Matthew to identify and challenge catastrophic thoughts related to his family interactions. This structured approach focuses on awareness and curiosity, aligning with his current readiness for change while avoiding any pressure for immediate action or solutions. By fostering self-reflection and thoughtful engagement, I aim to reduce his defensiveness and promote a supportive therapeutic alliance.",
+        "progress_marker": "Matthew begins to articulate feelings about family dynamics and shows a willingness to explore those feelings in therapy."
       },
       "client_plan": {
-        "phase_of_change": "contemplation",
-        "client_objective": "I hope to better understand my feelings about my family and how they affect my sense of self.",
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I want to understand why I feel so overwhelmed and distant from my family without having to confront them directly.",
         "client_state": {
-          "awareness": "I am starting to see that my relationship with my family is strained and that their reactions impact my self-worth and emotional well-being.",
-          "motivation": "I feel a desire to change my relationship with my family, but I am also scared of the possible repercussions and uncertainty that change could bring.",
-          "openness": "I find it difficult to open up about my family dynamics during therapy, but I know I need to explore these feelings to move forward.",
-          "resistance": "I still feel a strong urge to withdraw and protect myself from painful emotions, which makes me hesitant to fully commit to discussing my struggles."
+          "awareness": "I know something feels off, but I don't really see it as a problem that needs fixing.",
+          "motivation": "I don't feel a strong desire to change my situation; it feels safer to avoid it.",
+          "openness": "I'm not willing to share my true feelings about my family; it feels pointless.",
+          "resistance": "I defend against discussing my family dynamics quite strongly; it just leads to more pain."
         },
-        "client_reasoning": "Lately, I've started to realize that my relationship with my family isn't just complicated; it's affecting how I see myself. I notice that when I think about coming out to them, I feel this weight of sadness and loneliness, like no matter how much I try, I won't get the support I need. I want to make changes, maybe reconnect in some way, but then I wonder if it’s even worth it. I feel afraid that opening up more in therapy could lead to more pain or disappointment. Sometimes, I think about how my mother focuses on practical matters instead of my feelings, and that makes me want to pull away even more. But I also see that avoiding these conversations might not help me grow. Therapy is starting to give me some clarity, but I'm still unsure how to bridge this gap between wanting to change and fearing the unknown.",
-        "progress_marker": "Client begins to articulate feelings about family dynamics and their impact on self-identity."
+        "client_reasoning": "I feel trapped in this situation with my family, but I also think it's just how things are meant to be. Talking about my feelings never seems to help, and I often end up feeling worse. I remember coming out to my parents, and their reactions still haunt me. I don't think I’ll ever get the support I need from them, so why even try? I keep telling myself that my independence is what I need, but it just makes me feel lonelier. Therapy feels uncomfortable because it forces me to confront feelings I’d rather ignore. I’d rather joke about things and keep them light, but deep down, I know there's a lot of hurt that I don’t want to face. It feels safer to just avoid discussing my family or my emotions, and that’s where I am right now—just trying to survive without getting hurt more."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as ambivalence about family connections isn't fully explored. Client objective not met as Matthew hasn't articulated his feelings clearly yet.",
-          "client_utterance": "I see that understanding my family is important, but I still feel hesitant. It’s like, while I want to reconnect, I can't shake off the fear of being hurt again. I often think about how my mom will react, and it just makes me want to avoid it altogether.",
-          "therapist_utterance": "It sounds like there's a lot of fear tied to the idea of reconnecting with your family, especially concerning your mom. It's completely valid to feel that way, given your past experiences. What do you think might happen if you tried to open up a little more, despite those fears?",
-          "therapist_use": "Open-ended question: used to encourage Matthew to explore his fears about opening up to family."
+          "reason_for_ending": "KEEP - Therapist objective not met as Matthew has not yet started to explore his feelings. Client objective not met as Matthew still feels overwhelmed and distant without articulating those feelings.",
+          "client_utterance": "I guess I've just been feeling really overwhelmed by everything. It's like I don't even want to think about my family, but I can't escape those thoughts either. I just keep pushing them away and focusing on my job search instead.",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure right now, and it's understandable to want to avoid those overwhelming thoughts about your family. It can be hard to juggle so many feelings at once, especially when it seems safer to focus on something else. Can you tell me more about what comes up for you when you think about them?",
+          "therapist_use": "Reflective Listening: used to validate Matthew's feelings and encourage exploration."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the discussion of potential outcomes hasn't deepened. Client objective not met as Matthew hasn't shared specific fears or hopes yet.",
-          "client_utterance": "I guess if I tried, I might be met with rejection again, which is what I fear the most. But I also think there's a part of me that craves their acceptance. It’s just so confusing because I want to feel loved, but I don’t want to get hurt.",
-          "therapist_utterance": "You're caught between wanting love and fearing rejection, which is a tough place to be. It’s understandable to have those conflicting feelings. Can you think of any small steps you might take that would feel less overwhelming but still allow for some connection?",
-          "therapist_use": "Reflective listening: used to affirm Matthew's conflicting emotions while guiding him to consider manageable steps."
+          "reason_for_ending": "KEEP - Therapist objective not met as Matthew is still avoiding deeper discussion about his family. Client objective not met as he hasn't articulated specific feelings about his family dynamics.",
+          "client_utterance": "Honestly, I just feel drained thinking about it. My mom never really understood me, and my sister seems to resent me for moving away and doing better. I keep telling myself that it's just easier this way.",
+          "therapist_utterance": "It sounds like there's a lot of hurt and misunderstanding in those relationships, and it's easier for you to keep your distance. You mentioned feeling drained; it seems like this situation is taking a toll on you. What do you think you value most in your connection with them?",
+          "therapist_use": "Developing Discrepancy: encouraged Matthew to reflect on his values in relationships."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the pros and cons of reconnecting haven't been discussed. Client objective not met as Matthew hasn't identified specific changes he might want.",
-          "client_utterance": "Maybe I could try texting or calling, but I’m worried it might not end well. I think about the good times we had, but then I remember how often it feels like I’m just trying to keep the peace. I just don't know if it's worth putting myself out there again.",
-          "therapist_utterance": "It seems like you have both positive and negative memories associated with your family. Weighing those can help you see what feels more significant right now. What are some good things that have happened when you’ve connected with them, and how do those compare with the difficult moments?",
-          "therapist_use": "Decisional balance discussion: used to facilitate Matthew's reflection on positive versus negative family interactions."
+          "reason_for_ending": "KEEP - Therapist objective not met as Matthew hasn't explored his values deeply. Client objective not met as he hasn't fully articulated his feelings regarding family.",
+          "client_utterance": "I guess I just want to be accepted for who I am, but it feels like that's never going to happen. I want to be close to them, but I don't want to open that door again. It just feels too risky.",
+          "therapist_utterance": "It's understandable to feel that way given your experiences. Wanting acceptance and fearing rejection can create a strong conflict within you. Can you think about what it would mean for you to be accepted by them, and how that contrasts with how things are now?",
+          "therapist_use": "Expressing Empathy: acknowledged Matthew's feelings of conflict and fear."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the emotional impact of the decisions isn’t fully explored. Client objective not met as Matthew hasn't articulated core beliefs yet.",
-          "client_utterance": "I think the good moments show that there’s potential for support, but I still feel like I’m always the one reaching out. It’s hard to believe I can be loved when it often feels conditional. I want to feel accepted for who I am, but I’m scared of what they might say.",
-          "therapist_utterance": "That's a significant insight, Matthew. Feeling like love is conditional can create a lot of hesitance to connect. How does this belief about being unlovable affect your choices in terms of reaching out to them?",
-          "therapist_use": "Evidence-based questioning: used to challenge Matthew’s belief about being unlovable and prompt deeper self-reflection."
+          "reason_for_ending": "KEEP - Therapist objective not met as Matthew is still hesitant to explore the contrast deeply. Client objective not met as he hasn't provided insight into how distancing impacts him.",
+          "client_utterance": "I don't know, maybe it would feel good, but I can't imagine it happening. I just keep telling myself that my independence is enough for now, but it really doesn't feel like it sometimes. I just feel lonely in my own success.",
+          "therapist_utterance": "It seems like your independence is important to you, yet there's a sense of loneliness that comes with it. It's a tough place to be in, wanting to be independent while also longing for connection. How do you feel when you distance yourself from your family?",
+          "therapist_use": "Raising Awareness: encouraged Matthew to reflect on the impact of his distancing behavior."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as progress in exploring Matthew's beliefs is still limited. Client objective not met as Matthew hasn’t identified supportive relationships yet.",
-          "client_utterance": "It makes me hesitant to reach out because I don’t want to feel that rejection again. I guess I’ve built some good friendships that support me, but I still feel this void with my family. I want to change that, but the fear keeps creeping back in.",
-          "therapist_utterance": "It’s great to hear that you’ve built supportive friendships; that’s important. Those relationships can serve as a foundation for exploring your family dynamics. What do you think those friendships reveal about your worthiness of love and acceptance?",
-          "therapist_use": "Reflective listening: used to acknowledge Matthew's supportive relationships and encourage deeper exploration of self-worth."
+          "reason_for_ending": "KEEP - Therapist objective not met as Matthew hasn't fully explored his emotional state related to distancing. Client objective not met as he hasn't openly discussed the feelings behind his loneliness.",
+          "client_utterance": "I guess I just feel empty sometimes. It's like I achieved all this, but I still feel like there's something missing. I don't want to confront them because it just leads to pain, and I feel like I can't deal with that right now.",
+          "therapist_utterance": "It's understandable to want to avoid pain, especially when it feels so heavy. You're navigating a lot of conflicting emotions, and it can be difficult to confront those feelings. What do you think would help you cope with that emptiness?",
+          "therapist_use": "Reflective Listening: validated Matthew's feelings of emptiness and invited further exploration."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the connection between friendships and family dynamics isn’t fully explored. Client objective not met as Matthew hasn’t articulated specific insights about his worthiness.",
-          "client_utterance": "My friends care about me, which shows I can be loved. But I still find myself thinking that my family won’t see me the same way. It's tough to reconcile these two sides of my life.",
-          "therapist_utterance": "That’s a powerful realization, Matthew. Your friends’ care for you highlights your worthiness of love that you might not feel from your family. How might that understanding influence your approach to reconnecting with them?",
-          "therapist_use": "Double-sided reflection: used to validate Matthew's feelings while prompting him to consider how supportive friendships can inform his family interactions."
+          "reason_for_ending": "KEEP - Therapist objective not met as Matthew is still resistant to discussing coping strategies. Client objective not met as he hasn't articulated any potential steps forward.",
+          "client_utterance": "I don't really know. I guess I just keep pushing them away and focusing on what I can control, like my job. But deep down, I know I'm missing something important.",
+          "therapist_utterance": "It sounds like there's an awareness of loss, even while you're trying to focus on what you can control. Acknowledging that you're missing something important can be a first step towards exploring those feelings. What do you think might happen if you took a small step towards addressing that loss?",
+          "therapist_use": "Raising Awareness: prompted Matthew to consider potential steps towards addressing his feelings."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Matthew articulates his feelings about family and friendships. Client objective met as Matthew begins to understand his feelings and their impact on self-worth.",
-          "client_utterance": "I think understanding my worth through my friendships is helping me see that I deserve love from my family too. I want to explore ways to reconnect, even if it’s scary. I know it might not go perfectly, but I’m willing to try.",
-          "therapist_utterance": "That's a wonderful step forward, Matthew! Acknowledging your worth and your desire to reconnect is significant. Taking those small steps toward your family can lead to growth, even with the uncertainty involved.",
-          "therapist_use": "Eliciting change talk: used to affirm Matthew's readiness for change and encourage further exploration of reconnection."
+          "reason_for_ending": "MOVE - Therapist objective met as Matthew began to articulate deeper feelings about family dynamics. Client objective met as he recognized his feelings of loss and the desire to explore them.",
+          "client_utterance": "Maybe if I just talked about it without expecting anything in return, it could help. I don't know if it'll change anything, but I think I owe it to myself to at least explore those feelings.",
+          "therapist_utterance": "That's a significant insight, Matthew. It sounds like you're starting to see the value in exploring those feelings, even if it feels uncertain. I believe that this exploration could lead to a better understanding of your relationships and yourself.",
+          "therapist_use": "Double-sided reflection: validated Matthew's willingness to explore feelings while acknowledging the uncertainty."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "To explore Matthew's ambivalence regarding family relationships and the potential for change, while strengthening his motivation to consider new perspectives.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Begin by asking Matthew how he feels about his current relationship with his family and what he hopes to change.",
+                "Encourage him to express both the positives and negatives of engaging with his family more.",
+                "Use reflective listening to validate his feelings and help him articulate his mixed emotions about the situation."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Prompt Matthew with open-ended questions about what change might look like for him in his family relationships.",
+                "Ask him to describe any moments where he felt understood or supported by his family, even if those moments were minimal.",
+                "Reinforce his expressions of desire for change by summarizing his statements and emphasizing his strengths."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Facilitate a discussion about the pros and cons of changing his current approach to family interactions.",
+                "Help him weigh the emotional costs of distancing himself versus the potential benefits of reconnecting, even if gradually.",
+                "Encourage Matthew to consider how his values align with his desires for family acceptance and support."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Decatastrophizing",
+              "instructions_for_therapist": [
+                "Introduce the concept by discussing Matthew's memories of coming out to his parents, focusing on the negative aftermath and his thoughts surrounding it.",
+                "Guide him to articulate his worst fears about his family's reactions, prompting him to consider what evidence supports or contradicts these beliefs.",
+                "Encourage him to rate the likelihood of these fears coming true and help him brainstorm alternative, more balanced outcomes.",
+                "Work with Matthew to create a balanced thought that acknowledges his fears while also recognizing potential for positive outcomes."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In working with Matthew, I will start by applying Motivational Interviewing strategies to explore his ambivalence about reconnecting with his family. I will begin with open-ended questions to help him articulate both his desires for support and his fears of rejection, using reflective listening to validate his emotions. This aligns with his resistance profile, as he tends to withdraw; thus, creating a safe space for him to express his feelings is critical. Next, I will facilitate decisional balance discussions to help him weigh the pros and cons of changing his behavior towards his family, allowing him to see discrepancies between his current behavior and his values of seeking familial acceptance. Following this, I will integrate CBT techniques, specifically decatastrophizing, to challenge his negative automatic thoughts about his family's support. By collaboratively examining his catastrophic fears, we can work together to develop balanced thoughts and explore potential outcomes. This approach will not only address his ambivalence but also strengthen his motivation for change without pushing him into action planning prematurely.",
+        "progress_marker": "Matthew begins to articulate his feelings about his family and expresses a desire to explore potential changes in their relationship dynamics."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to explore my feelings about my family and my independence without feeling judged or pressured.",
+        "client_state": {
+          "awareness": "I recognize that my relationships with my family are strained and that I often feel unsupported, especially from my mother. I'm starting to see that my need for their approval influences my decisions.",
+          "motivation": "I want to change my relationship with my family and feel more at peace, but I’m scared of losing the little connection we have.",
+          "openness": "I'm somewhat willing to share my feelings about my family, but I still hold back because I fear it won't lead to anything positive.",
+          "resistance": "I feel a strong urge to avoid talking about my family dynamics because I doubt it will help and worry it will just make me feel worse."
+        },
+        "client_reasoning": "I'm starting to notice how my past experiences, especially coming out to my parents, still affect me today. I feel sad and alone when I think about our conversations, and it’s like I’m stuck in a loop of seeking their approval while knowing deep down that they may never understand me. I want to feel free and independent, yet I’m scared that if I change too much, I might lose them completely. The idea of opening up in therapy feels daunting; I’m worried that it won’t lead to any real change or that I’ll just end up feeling worse. But at the same time, I know I can't keep pretending everything is fine when it’s not. I appreciate that therapy gives me a safe space to reflect, but I still feel conflicted and unsure about whether I should even bother to change things.",
+        "progress_marker": "Client begins to identify specific emotions related to family interactions and expresses a desire to understand their impact on personal well-being."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as there was limited exploration of Matthew's feelings towards his family. Client objective not met as Matthew has not fully articulated his desires for change.",
+          "client_utterance": "I've been thinking about what you said last time, and I guess I'm still feeling that emptiness when I think of my family. I want to connect, but I don't know if it's worth the pain. Sometimes, I wonder if facing that fear could help me feel less alone.",
+          "therapist_utterance": "It sounds like you’re weighing the possibility of connection against the fear of pain. That’s a tough balance to strike. Can you share more about what specific fears come up for you when you think of reconnecting with your family?",
+          "therapist_use": "Open-ended questioning: encouraged Matthew to explore specific fears regarding family interactions."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as the discussion has not yet prompted deeper emotional exploration. Client objective not met as Matthew has not fully expressed his mixed feelings about family engagement.",
+          "client_utterance": "I guess I worry that if I open up too much, they won’t understand me again, like they didn’t before. My mom has this way of making me feel like my feelings don't matter, and that really hurts. I fear that I might just end up feeling rejected all over again.",
+          "therapist_utterance": "It’s understandable to feel apprehensive, especially given your past experiences. Your feelings are valid, and it seems like there's a deep-seated fear of being dismissed or hurt again. What do you think would be the worst-case scenario if you did decide to reach out to them?",
+          "therapist_use": "Decisional balance discussions: helped Matthew consider the worst-case scenarios to bring clarity to his fears."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as there hasn't been enough focus on exploring the emotional costs of distancing. Client objective not met as Matthew has not identified any potential benefits of reconnecting.",
+          "client_utterance": "Honestly, I think the worst would be them rejecting me again, like when I came out. It took so much energy to build myself up after that, and I don’t know if I can handle it again. But then, I also feel like I might be missing out on something meaningful if I keep avoiding them.",
+          "therapist_utterance": "It sounds like you’re caught between the fear of rejection and the desire for connection. Acknowledging that there might be something meaningful to gain is an important realization. Can you think of any moments when you felt even a small sense of understanding from them?",
+          "therapist_use": "Eliciting change talk: prompted Matthew to recall positive moments to help shift focus towards potential beneficial outcomes."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as the exploration of supportive moments has not yet yielded insights. Client objective not met as Matthew has not fully articulated what change might mean for him.",
+          "client_utterance": "I remember one time my sister actually seemed proud of me for something I achieved at school. It was a brief moment, but it felt good to be seen. Still, I can't shake the feeling that it was just a fluke, and she often seems jealous of me.",
+          "therapist_utterance": "That’s a significant moment to hold onto, even if it felt fleeting. It shows that there are instances where you felt a connection, which is important. How did that moment affect your feelings about your sister and your relationship with her?",
+          "therapist_use": "Reflective listening: validated Matthew's positive experience to encourage further exploration of his relationship dynamics."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as the exploration of Matthew’s relationships with both parents and sister is still incomplete. Client objective not met as Matthew has not fully articulated how these experiences shape his current desires for change.",
+          "client_utterance": "I think it made me realize that there might be hope for connection, but it also made me feel more pressure. I don’t want to lose that moment of pride by pushing too hard. I feel like my mom would just dismiss it and point out the negatives instead.",
+          "therapist_utterance": "It’s tough to feel that pressure, especially if you anticipate negative reactions. It seems like you’re longing for validation from your mom, yet fearing her response might overshadow those positive feelings. What do you think would happen if you expressed your need for support to her?",
+          "therapist_use": "Exploring ambivalence: encouraged Matthew to consider the potential reactions of his mother and the impact on his feelings."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met as the conversation has not sufficiently explored the pros and cons of reconnecting. Client objective not met as Matthew remains unsure about expressing his feelings to his family.",
+          "client_utterance": "I guess if I told her, maybe she'd surprise me and actually listen, but I doubt it. I just can't shake the feeling that it would lead to disappointment. It's just so hard to navigate these expectations I have of them.",
+          "therapist_utterance": "It’s understandable to have those mixed feelings, especially when past experiences weigh heavily. Navigating expectations can be challenging, but recognizing them is a step towards understanding your own desires. What do you think would be a manageable way to share your feelings without setting yourself up for disappointment?",
+          "therapist_use": "Decisional balance discussions: facilitated a conversation about managing expectations while exploring the possibility of sharing feelings."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist objective met as Matthew has explored his ambivalence and identified feelings about his family. Client objective met as Matthew articulated his desire for connection while recognizing his fears and expectations.",
+          "client_utterance": "Maybe if I start small and just share something positive, it could open the door without overwhelming me. I realize that I want to try, but I also need to protect myself from potential hurt. It feels like I owe it to myself to at least give it a shot.",
+          "therapist_utterance": "That sounds like a thoughtful approach, Matthew. Starting small and focusing on positive interactions can help you gauge their response without diving into deeper issues right away. It seems like you’re finding a balance between your desire for connection and the need to protect yourself, which is really important.",
+          "therapist_use": "Reflection and summarization: reinforced Matthew's insight about starting small while balancing his needs for connection and protection."
         }
       ]
     },
@@ -243,22 +233,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Matthew's commitment to change and enhance his motivation to reconnect with his family in a healthier way.",
+          "objective": "Strengthen Matthew's commitment to taking actionable steps towards improving his emotional relationship with his family.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Matthew to verbalize his desire for change by asking open-ended questions about what he hopes to achieve in his relationships with his family.",
-                "Reflect back his statements of commitment to change, reinforcing his motivation to take actionable steps.",
-                "Help him articulate specific goals related to family interactions, focusing on what changes he would like to see."
+                "Encourage Matthew to verbalize his commitment to change by asking open-ended questions like, 'What steps do you feel ready to take towards improving your relationship with your family?'",
+                "Reinforce his responses with affirming statements that highlight his strengths and past successes, such as 'It sounds like you have a clear vision of how you want to approach this situation.'"
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss with Matthew his feelings about approaching his family and identify what makes him feel uncertain.",
-                "Use scaling questions to assess his confidence level in initiating contact with family members and what would increase that confidence.",
-                "Highlight past successes in overcoming challenges to bolster his self-efficacy."
+                "Ask Matthew to rate his confidence on a scale from 1 to 10 about initiating communication with his family.",
+                "Explore the reasons behind his rating and discuss what would help him feel more confident, affirming his feelings and reinforcing his intrinsic motivation."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Help Matthew identify external supports, such as friends or supportive family members, that can provide encouragement during this process.",
+                "Discuss potential resources, like therapy or support groups, that could assist him in navigating his family dynamics."
               ]
             }
           ]
@@ -266,79 +261,71 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Collaboratively design a small, manageable interaction with a family member, such as a phone call or text, to test the belief that he will not receive validation.",
-                "Encourage Matthew to document his feelings before and after the interaction to reflect on the results.",
-                "Discuss the outcome in the next session to evaluate his beliefs and feelings about the interaction."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Guide Matthew through identifying specific barriers he anticipates when reaching out to his family.",
-                "Assist him in brainstorming practical solutions to these barriers and role-play scenarios to practice responses.",
-                "Encourage him to create a step-by-step action plan that includes timelines and coping strategies for potential emotional challenges."
+                "Begin with a discussion about Matthew's fears related to family interactions, specifically focusing on his automatic thoughts regarding their lack of support.",
+                "Guide him through challenging these thoughts by exploring evidence and alternative outcomes, helping him articulate a balanced perspective.",
+                "Encourage him to develop a specific action plan that includes small, achievable goals for communication with his family."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan, I first acknowledged Matthew's advanced resistance by focusing on MI strategies that strengthen his commitment and motivation without overwhelming him. I chose to utilize commitment language to empower him to articulate his goals clearly, addressing his feelings of helplessness. By exploring his confidence, I aimed to identify and mitigate his fears of failure. For CBT, I incorporated a behavior experiment to allow Matthew to challenge his core beliefs about familial support through direct experience, while problem-solving skills training enables him to address the barriers he faces in reconnecting with his family. This combination of MI and CBT is designed to gradually build Matthew's confidence and prepare him for the behavioral changes he aspires to make, ensuring the plan remains realistic and collaborative to reduce his feelings of being overwhelmed.",
-        "progress_marker": "Matthew has committed to initiating contact with one family member by the next session and is prepared to discuss his feelings and outcomes."
+        "therapist_reasoning": "In approaching Matthew's therapy, I first acknowledged his readiness for change in the Preparation phase, which allows for focused planning. Utilizing Motivational Interviewing, I aimed to strengthen his commitment language by encouraging him to verbalize his intentions, thus reinforcing his motivation. This aligns with his need for self-efficacy. I also explored his confidence and readiness, fostering a safe environment for him to reflect on his feelings while emphasizing his strengths. Identifying supports and resources is crucial given his history of seeking external validation. Incorporating CBT, I employed the decatastrophizing technique to help him challenge his catastrophic thoughts about family interactions. This involved collaboratively examining evidence against his fears, which directly counters his core beliefs of helplessness and unlovability. The action plan developed through this process was designed to be specific, achievable, and gradually implemented, respecting his current emotional state while promoting empowerment. Overall, this structured approach blends MI and CBT to support Matthew's commitment to change and his journey towards healthier family dynamics.",
+        "progress_marker": "Matthew has articulated at least two specific steps he intends to take in communicating with his family, demonstrating increased confidence and commitment."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore practical steps to improve my relationship with my family while maintaining my independence.",
+        "client_objective": "I hope to explore my feelings about my family and find ways to cope better while seeking independence.",
         "client_state": {
-          "awareness": "I recognize that my current distance from my family is affecting my emotional well-being, and I understand that I need to address this issue to move forward.",
-          "motivation": "I feel a growing desire to reconnect with my family on some level, despite the fear of rejection or negative reactions.",
-          "openness": "I am more willing to discuss my feelings and thoughts about my family in therapy, though I still hesitate to fully express my deeper emotions.",
-          "resistance": "I experience significant doubts about whether my family can change or if I can handle the emotional fallout from attempting to reconnect."
+          "awareness": "I recognize that my relationship with my family is affecting my mental health and my ability to move forward in life.",
+          "motivation": "I feel a strong desire to improve my situation and create healthier boundaries with my family, despite my fears.",
+          "openness": "I am willing to discuss my thoughts and feelings with my therapist, though I still hesitate to share everything about my family.",
+          "resistance": "I experience significant doubts about whether change is possible and fear that opening up may lead to more pain."
         },
-        "client_reasoning": "I've been thinking a lot about my family and how our relationship has become so strained since I came out. I know I can't keep pretending everything is fine when deep down, I feel lonely and unvalidated. Change feels necessary because I want to feel more connected, but I worry about opening up old wounds or facing their disapproval again. I hope that by discussing this in therapy, I can find a way to approach my family without losing myself in the process. I’m starting to see that while I’ve distanced myself to protect my heart, it might also be holding me back from real connections. There’s a part of me that wants to believe things can improve, but I can’t shake off the fear that it will just lead to more hurt. Therapy has helped me realize that I need to take steps towards change, but I still feel stuck in my doubts."
+        "client_reasoning": "I’ve come to understand that my relationship with my family, especially my mother and sister, is holding me back from fully embracing my identity and independence. The negative reactions I faced when coming out have left me feeling unlovable and unsupported, which makes me doubt whether I can ever find the validation I need from them. However, I believe change is necessary; I want to learn how to establish healthier boundaries while still seeking support and connection. Therapy has been a safe space for me to explore these feelings, and I’m starting to feel more motivated to take steps forward. Yet, I still fear that opening up too much might lead to more hurt, and part of me wonders if it’s worth the risk. I hope that by discussing these thoughts with my therapist, I can find ways to cope better and gradually rebuild my confidence."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because they need to encourage more specific goal-setting for family interactions. The client objective was not met since Matthew hasn't articulated actionable steps yet.",
-          "client_utterance": "I've been thinking about what you said regarding my worth and how it relates to my family. I want to try reconnecting, but I'm still not sure how to start. Maybe I could send a text, but I worry they won't respond positively.",
-          "therapist_utterance": "It's understandable to feel uncertain about how to start. Sending a text could be a manageable first step. What do you hope to achieve with that message, and how could you phrase it to express your feelings?",
-          "therapist_use": "Open-ended question: to facilitate exploration of Matthew's goals and feelings about reaching out."
+          "reason_for_ending": "KEEP - The therapist's objective of strengthening commitment language has not been fully met, as Matthew has not articulated specific steps yet. The client’s objective of exploring feelings and coping strategies is still in progress.",
+          "client_utterance": "I've been thinking about starting with something small, like sharing a recent achievement with my mom. But I’m still scared that she might just dismiss it, and then I’d feel even worse. I want to try, but I’m not sure if I have the strength to face her reaction.",
+          "therapist_utterance": "It's great to hear you're considering starting with something small. Sharing an achievement could be a good way to gauge her reaction without diving into deeper issues right away. What do you think it would feel like to take that step, even if it's just a small one?",
+          "therapist_use": "Open-ended question: encouraged Matthew to explore his feelings about taking a small step."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because they need to help Matthew articulate specific goals regarding family interactions. The client objective was not met since Matthew hasn't fully expressed his desired outcome for the text.",
-          "client_utterance": "I guess I want them to know I'm thinking about them and that I want to reconnect. But I'm scared they'll just brush it off or not understand what I'm really trying to say. I want to be honest without opening old wounds.",
-          "therapist_utterance": "It's great that you want to be honest while considering their feelings. Perhaps framing your message in a way that expresses your desire for connection might help. What if you started with something simple, like sharing a positive memory?",
-          "therapist_use": "Reflective listening: to acknowledge Matthew's feelings while guiding him towards a constructive approach."
+          "reason_for_ending": "KEEP - The therapist's objective of exploring confidence and readiness hasn't been fully realized, as Matthew hasn't rated his confidence yet. The client’s objective of finding ways to cope better is still evolving.",
+          "client_utterance": "I think it might feel a little empowering to share something positive, but I’m still feeling a 4 out of 10 in terms of confidence. I keep doubting if it'll be worth the risk. I really want to be hopeful, but part of me feels like I'm setting myself up for disappointment.",
+          "therapist_utterance": "I appreciate your honesty about your confidence level. A 4 indicates you're feeling some readiness, which is a start. What do you think would help you increase that confidence before reaching out to your mom?",
+          "therapist_use": "Exploring confidence and readiness: helped Matthew articulate his feelings and assess what support he might need."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because they still need to encourage Matthew's commitment to taking steps. The client objective was not met as Matthew hasn't created a clear plan for the message yet.",
-          "client_utterance": "I like that idea! I could mention a good time we had together, but I still wonder if it will make them feel pressured. I want them to feel like I'm reaching out from a place of care, not obligation.",
-          "therapist_utterance": "That's an important consideration. Expressing care can help reduce pressure on both sides. How about you think of one specific memory that made you feel close to them, and then we can shape the message around that?",
-          "therapist_use": "Collaborative brainstorming: to help Matthew articulate a manageable and meaningful approach to reconnecting."
+          "reason_for_ending": "KEEP - The objective to identify supports and resources hasn't been fully met, as Matthew hasn't discussed any external supports yet. The client's objective of exploring feelings about his family is still under development.",
+          "client_utterance": "I’m not sure what could help, but maybe talking to a friend who understands could give me some perspective. I feel more comfortable sharing my feelings with them than with my family. I just need to figure out how to communicate my fears without feeling overwhelmed.",
+          "therapist_utterance": "That sounds like a good idea. Having a supportive friend to talk to can provide you with the encouragement and perspective you need. How do you think sharing your thoughts with them might help you approach your family?",
+          "therapist_use": "Identifying supports and resources: facilitated Matthew's connection to potential external supports."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as they need to further support Matthew in crafting a specific message. The client objective was not met since Matthew hasn't detailed the memory or the message.",
-          "client_utterance": "I remember when we went on that family trip together to the beach. It was such a fun time, and I felt really connected to them then. I could mention that, but I'm still worried about how they'll react.",
-          "therapist_utterance": "That sounds like a lovely memory to share! It could serve as a bridge to reconnecting. Expressing something positive from the past might open the door for a more meaningful conversation. What if you wrote something like, 'I was thinking about our trip to the beach and it made me realize how much I miss those moments together'?",
-          "therapist_use": "Encouragement of positive memory sharing: to help Matthew frame his message in a way that fosters connection."
+          "reason_for_ending": "KEEP - The therapist's goal of strengthening commitment language is still unmet, as Matthew hasn't articulated specific actionable steps. The client's objective of seeking independence and coping better is still a work in progress.",
+          "client_utterance": "I guess if I talk to my friend this week, it might help me feel more prepared. I want to get their advice on how to approach my family without feeling so vulnerable. It feels like a step in the right direction, but I still have a long way to go.",
+          "therapist_utterance": "That's a positive step to take, Matthew. Talking to your friend can provide you with valuable insights and support. Can you think of any specific things you’d like to discuss with them that could help you feel more prepared for that conversation with your family?",
+          "therapist_use": "Open-ended question: encouraged Matthew to think about specific discussions with his friend."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because they still need to bolster Matthew's confidence in sending the message. The client objective was not met as Matthew hasn't confirmed his readiness to send the message.",
-          "client_utterance": "I like that phrasing! It sounds warm and genuine. But I still feel hesitant about actually sending it. What if they don't respond or say something hurtful?",
-          "therapist_utterance": "It's completely natural to feel hesitant, especially given your past experiences. Remember, reaching out is a courageous step, and their response is not a reflection of your worth. Would it help to discuss what you might do if their response isn't what you hope for?",
-          "therapist_use": "Exploring potential responses: to prepare Matthew for various outcomes and reduce anxiety about reaching out."
+          "reason_for_ending": "KEEP - The therapist's objective of exploring confidence and readiness is not fully met, as Matthew has not expressed a higher confidence level yet. The client’s objective of exploring feelings and coping strategies is still ongoing.",
+          "client_utterance": "I think I’d like to ask my friend how they cope with family dynamics, especially if they’ve faced similar issues. It might help me feel less isolated in this experience. I just hope I can find the right words when the time comes.",
+          "therapist_utterance": "That’s a great plan! Learning from your friend's experiences can provide you with useful tools to navigate your situation. How do you feel about the possibility of using what you learn from that conversation when you reach out to your family?",
+          "therapist_use": "Exploring confidence and readiness: supported Matthew in thinking about how to apply insights from his friend."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because they need to ensure Matthew has coping strategies for potential negative responses. The client objective was not met as Matthew hasn't articulated a plan for handling negative outcomes.",
-          "client_utterance": "Yeah, I think it would help to prepare for that. I guess if they react negatively, I could remind myself of my friends' support. But it still feels daunting to put myself out there.",
-          "therapist_utterance": "That's a solid plan; reminding yourself of your support system can help you stay grounded. You deserve love and acceptance, and reaching out is a step toward that. What if we created a simple action plan for you to follow after sending the message, so you feel more prepared?",
-          "therapist_use": "Action planning: to assist Matthew in feeling more prepared and confident about reaching out."
+          "reason_for_ending": "KEEP - The therapist's objective of strengthening commitment language has not been fully met, as Matthew has not set concrete steps yet. The client’s objective of coping with family issues is still developing.",
+          "client_utterance": "I think it would make me feel more prepared, but I still worry about the outcome. I want to feel strong enough to face whatever happens, but I’m not there yet. I guess I just need to take it one step at a time.",
+          "therapist_utterance": "That's a wise approach, Matthew. Taking one step at a time can help you build confidence gradually. What might be the first small step you would like to take after talking to your friend?",
+          "therapist_use": "Open-ended question: prompted Matthew to think about actionable steps post-conversation with his friend."
         },
         {
-          "reason_for_ending": "MOVE - The therapist objective was met as they have helped Matthew create an actionable plan for reaching out. The client objective was met because Matthew has expressed a willingness to take steps towards reconnecting with his family.",
-          "client_utterance": "I think having a plan would really help me feel more secure. I’m ready to try sending the message and see how it goes. I want to take this step to reconnect, even if it’s scary.",
-          "therapist_utterance": "That's fantastic to hear, Matthew! Your willingness to take this step shows significant growth and commitment to improving your family relationships. I believe this can lead to meaningful change, and I look forward to hearing about your experience in our next session.",
-          "therapist_use": "Affirmation and closure: reinforcing Matthew's commitment and readiness to take action."
+          "reason_for_ending": "MOVE - The therapist's objective of strengthening commitment language has been met, as Matthew has articulated a clear plan to talk to his friend and explore actionable steps. The client’s objective of finding ways to cope better and seek independence has reached a satisfactory level as he's ready to take action.",
+          "client_utterance": "I think I’ll start by reaching out to my friend this week and sharing how I've been feeling. I want to gather my thoughts and maybe even write down what I want to say to my family. It feels like I’m finally ready to take that chance.",
+          "therapist_utterance": "That’s an excellent plan, Matthew! Taking that step to reach out and prepare will empower you as you move forward. I’m proud of you for committing to this process; it shows your strength and desire for healthier relationships.",
+          "therapist_use": "Strengthening Commitment Language: reinforced Matthew's commitment and acknowledged his readiness to take action."
         }
       ]
     }

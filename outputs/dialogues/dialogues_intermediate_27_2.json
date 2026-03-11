@@ -12,29 +12,35 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Mia's self-awareness regarding her thoughts, emotions, and behaviors without pushing for change.",
+          "objective": "Build rapport and increase awareness of feelings related to social interactions and judgments.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Mia's concerns and feelings.",
-                "Reflect back her statements to show understanding and validate her emotions.",
-                "Encourage her to expand on her feelings of overwhelm and loneliness."
+                "Listen actively to Mia's experiences at the birthday party.",
+                "Reflect her feelings of shame and embarrassment back to her, acknowledging the difficulty of her situation.",
+                "Use phrases like, 'It sounds like you felt really judged and exposed during the party.'"
               ]
             },
             {
-              "strategy_name": "Expressing Empathy",
+              "strategy_name": "Express Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Mia's feelings of shame and embarrassment.",
-                "Use supportive language to convey understanding of her situation.",
-                "Reassure her that it’s normal to feel lost during significant life changes like divorce."
+                "Validate Mia's feelings of being overwhelmed and her sense of loss.",
+                "Convey understanding by saying, 'It's understandable to feel like everyone is judging you during such a challenging time.'"
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Develop Discrepancy",
               "instructions_for_therapist": [
-                "Gently help Mia explore the gap between her current feelings of helplessness and her values of being a strong, independent mother.",
-                "Encourage her to identify what being a good mother means to her and how her current feelings align or conflict with that."
+                "Encourage Mia to reflect on the disconnect between her feelings of judgment and any positive interactions she experienced.",
+                "Ask questions like, 'How do you think your friends view you versus how you view yourself in this situation?'"
+              ]
+            },
+            {
+              "strategy_name": "Raise Awareness",
+              "instructions_for_therapist": [
+                "Help Mia explore the impact of her beliefs on her emotions and behaviors.",
+                "Facilitate self-reflection by asking, 'What do you think it would feel like to let go of that need to maintain a façade?'"
               ]
             }
           ]
@@ -42,87 +48,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identify Automatic Thoughts",
               "instructions_for_therapist": [
-                "Ask Mia about specific thoughts she has when she feels judged by others.",
-                "Encourage her to consider the evidence supporting or contradicting these thoughts.",
-                "Help her explore alternative explanations for others' behaviors during social interactions."
+                "Guide Mia to articulate her automatic thoughts from the birthday party experience.",
+                "Focus specifically on her thought, 'Everyone is judging me; I am exposed.'"
               ]
             },
             {
-              "technique_name": "Changing Rules to Wishes",
+              "technique_name": "Challenge the Thought",
               "instructions_for_therapist": [
-                "Discuss with Mia the 'rules' she feels she must follow to be accepted by friends.",
-                "Encourage her to reframe these rules into wishes, such as wishing to connect authentically rather than maintain an image.",
-                "Explore how these changes in perspective might reduce her feelings of pressure."
+                "Use evidence-based questioning to explore the validity of Mia's thoughts.",
+                "Ask, 'What evidence do you have that everyone was judging you?' and encourage her to consider her answers."
               ]
             },
             {
-              "technique_name": "Continuum Technique",
+              "technique_name": "Explore Alternative Explanations",
               "instructions_for_therapist": [
-                "Guide Mia to rate her feelings of loneliness and shame on a scale from 1 to 10.",
-                "Encourage her to reflect on what changes might occur if her feelings shifted by just one point.",
-                "Discuss small shifts in perspective or emotion, rather than full changes."
+                "Encourage Mia to think of other perspectives on the situation.",
+                "Prompt her with questions like, 'What if others were not thinking about you at all?' to facilitate curiosity."
+              ]
+            },
+            {
+              "technique_name": "Reframe the Thought",
+              "instructions_for_therapist": [
+                "Work with Mia to create a balanced thought that represents a more realistic view.",
+                "Help her formulate a statement such as, 'I am navigating a difficult time, but that doesn't define how others feel about me.'"
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Mia, the primary focus is on building rapport and increasing her self-awareness while respecting her current stage of change. I used reflective listening to create a safe space for her to express her feelings of overwhelm and loneliness, which is crucial given her withdrawn resistance type. Expressing empathy helps Mia feel validated, reducing defensiveness. Developing discrepancy will guide her to explore how her feelings of helplessness conflict with her values, prompting reflection without pressure to change. For the CBT interventions, evidence-based questioning is employed to help Mia examine her automatic thoughts about being judged, which can foster awareness of distorted thinking patterns. The changing rules to wishes technique allows us to gently challenge her beliefs about needing to maintain an image, providing a supportive avenue for her to explore her identity. Lastly, the continuum technique encourages her to consider small shifts in feelings, promoting curiosity and engagement without demanding immediate action, thus aligning with her current resistance level.",
-        "progress_marker": "Mia begins to articulate her feelings more openly and reflects on her values in relation to her current emotional state."
+        "therapist_reasoning": "The therapy plan begins with a focus on building rapport and increasing Mia's awareness of her thoughts and emotions, key objectives in the Pre-contemplation phase. Utilizing Motivational Interviewing strategies, I first prioritize reflective listening to create a safe space for Mia to express her feelings about the birthday party incident. This empathetic approach helps reduce her defensiveness. I then develop discrepancy by contrasting her negative perceptions with any positive interactions she recalls. This encourages self-reflection and may prompt Mia to consider the validity of her judgments. Concurrently, I employ CBT techniques to guide her in identifying automatic thoughts and challenging them through evidence-based questioning, exploring alternative explanations, and reframing her thoughts to foster a more balanced perspective. This integrated approach allows Mia to engage with her feelings without pressure to change, aligning with her current resistance profile while fostering curiosity about her emotional experiences.",
+        "progress_marker": "Mia expresses a willingness to explore her thoughts and emotions more deeply without feeling pressured to change her behavior."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to just get through this conversation without having to face my feelings directly.",
+        "client_objective": "I want to feel understood without having to dive deep into my feelings just yet.",
         "client_state": {
-          "awareness": "I know something is wrong but I’m not ready to admit it or talk about it.",
-          "motivation": "I don’t really want to change; I just want things to go back to normal.",
-          "openness": "I feel uncomfortable sharing my true feelings; it’s easier to keep things to myself.",
-          "resistance": "I find myself pushing back against any talk of my problems; it feels overwhelming."
+          "awareness": "I know things are difficult, but I don't want to think about changing anything right now.",
+          "motivation": "I don't really see the point in trying to change; it feels too overwhelming.",
+          "openness": "I'm not ready to share much about how I feel; it's easier to keep things to myself.",
+          "resistance": "I feel a strong urge to avoid discussing my problems; it feels safer that way."
         },
-        "client_reasoning": "I feel like I’m in a fog, and it’s hard to see the way out. I know my marriage is over and that I should be feeling something about that, but instead, I just feel stuck. Talking about it seems like opening a door to all this pain, and I don’t want to go there. I keep telling myself it’s easier to focus on the good things, like my son and my hobbies, instead of facing the reality of my situation. I worry that if I start discussing my feelings, I’ll fall apart, and people will see how vulnerable I really am. I already feel judged by others, especially when they mention my divorce. I think if I can just keep pretending that I’m okay, maybe I can avoid dealing with the truth. Therapy feels like a spotlight on my issues, and right now, I just want to hide."
+        "client_reasoning": "I feel like I'm in a whirlwind, and I just want to hold on until it stops. Yes, the divorce and money issues are hard, but talking about them makes me feel even more exposed. I hear people mention my situation, and it's like everyone knows I'm struggling, which just adds to my shame. I think maybe if I keep quiet, things will get better on their own. I don't want to admit that I need help because that would mean I have to confront how weak I feel inside. I worry that if I open up, I’ll just be judged or dismissed, and I can't handle that right now. Therapy feels like this place where I'm supposed to lay everything bare, but I don't even know where to start, and the thought just makes me want to retreat further into myself."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Mia is still avoiding deeper feelings. Client's objective was not met because Mia is still focusing on superficial topics.",
-          "client_utterance": "I guess I just want to talk about anything but my divorce. It's like I can focus on the little things that make me happy, like Brady's smile or my recent trip. But when I think about my marriage, I just freeze up.",
-          "therapist_utterance": "It sounds like focusing on Brady and your hobbies provides you with some comfort amidst everything else that's going on. You seem to feel safe in those moments. What do you think it would take for you to feel even a little bit more comfortable talking about your marriage?",
-          "therapist_use": "Reflective listening: used to validate Mia's coping strategies and encourage her to consider her feelings."
+          "reason_for_ending": "KEEP - The therapist's objective of building rapport and increasing awareness of feelings was not fully met as Mia is still hesitant to share her experiences. The client's objective of feeling understood without diving deep into feelings was not met as she remains guarded.",
+          "client_utterance": "I guess I've been feeling really lost since the separation. It was hard going to that birthday party; I felt like everyone was looking at me, judging me for being alone. But I don’t want to dwell on it too much; it just feels overwhelming.",
+          "therapist_utterance": "It sounds like you felt really judged and exposed during the party. That must have been incredibly difficult for you, especially when you're already feeling lost. It's understandable to feel that way in such a challenging time.",
+          "therapist_use": "Reflective Listening: used to acknowledge Mia's feelings and create a safe space for her to express herself."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Mia still deflects from discussing her marriage. Client's objective was not met because Mia is struggling to confront her feelings.",
-          "client_utterance": "I honestly don't know. It feels like opening a box of emotions that I’m not ready to deal with. I keep thinking maybe it’s just a phase, and I will get over it without having to face it.",
-          "therapist_utterance": "It’s understandable to want to avoid that emotional discomfort, especially when it feels overwhelming. Many people wish to bypass the pain, but sometimes those feelings linger until we acknowledge them. What would it mean for you to take a small step towards understanding those emotions?",
-          "therapist_use": "Expressing empathy: used to acknowledge the difficulty in facing emotions while encouraging exploration."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because while Mia shared her feelings, she still avoided deeper exploration of her thoughts. The client's objective was not met as she continues to hold back from discussing her emotions in detail.",
+          "client_utterance": "Yeah, it was. I just kept thinking that if I could blend into the background, no one would notice how I was feeling. I don't want to talk about it too much; it feels too raw and exposing.",
+          "therapist_utterance": "It's understandable to want to blend in and avoid feeling exposed, especially when you're navigating so much change. Can you tell me more about what you think others might be judging you for? Exploring those thoughts might help you find some clarity.",
+          "therapist_use": "Express Empathy: used to validate Mia's feelings of being overwhelmed while encouraging her to explore her thoughts."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Mia continues to resist talking about her emotions. Client's objective was not met as she is still trying to avoid the issue.",
-          "client_utterance": "I guess it would mean admitting that I'm not okay, and I really hate that feeling. It’s like if I say it out loud, it becomes real, and then I can't pretend anymore. But I do feel lost, and I worry that people can see it.",
-          "therapist_utterance": "Admitting that you’re not okay can feel like a heavy burden. It’s brave to acknowledge those feelings, even if it feels vulnerable. What do you think your friends might see if you let go of that facade, or what do you fear they might think?",
-          "therapist_use": "Developing discrepancy: used to help Mia explore the gap between her feelings and her desire for acceptance."
+          "reason_for_ending": "KEEP - The therapist's objective of developing awareness around Mia's feelings about judgment was not fully met as she is still reluctant to reflect deeply. The client's objective was not met as she continues to resist delving into her emotions.",
+          "client_utterance": "I don't know... maybe they think I'm a mess because of the divorce. It's just hard to shake that feeling. I keep telling myself that I should be fine, but I feel anything but that.",
+          "therapist_utterance": "It sounds like there's a big disconnect between how you see yourself and what you think others might see. How do you think your friends view you versus how you view yourself in this situation? It might be helpful to explore those contrasting perspectives.",
+          "therapist_use": "Develop Discrepancy: used to encourage Mia to reflect on her feelings and perceptions about judgment."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Mia is still grappling with her fears of judgment. Client's objective was not met because she is still not ready to confront her feelings.",
-          "client_utterance": "I think they would see me as weak or that I failed. It’s hard enough to think about my divorce without feeling judged for it. I sometimes wish I could just be accepted as I am, without the baggage.",
-          "therapist_utterance": "That fear of judgment is so real and understandable, especially during such a difficult time. It sounds like you want to be seen for who you truly are, not just your circumstances. If you could reframe those judgments into something more supportive, what would that look like for you?",
-          "therapist_use": "Changing rules to wishes: used to help Mia reframe her perceptions of judgment and explore a more supportive view."
+          "reason_for_ending": "KEEP - The therapist's objective of raising awareness was not fully met as Mia is struggling to engage with her thoughts. The client's objective was not met as she is still holding back from deeper exploration.",
+          "client_utterance": "I guess I feel like I’m letting everyone down, including myself. Sometimes I wonder if they even care enough to judge. I just want to keep things together for Brady, and I don’t want to seem weak.",
+          "therapist_utterance": "It's understandable to want to appear strong for Brady, but that doesn't mean you have to carry everything alone. What if others weren't judging you at all? That might open up some space for you to feel more comfortable.",
+          "therapist_use": "Explore Alternative Explanations: used to encourage Mia to consider different perspectives on her feelings of judgment."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Mia is still hesitant to reshape her thoughts. Client's objective was not met because she hasn't shifted her perspective yet.",
-          "client_utterance": "I guess it would be nice if people could understand that this isn’t who I am. But it’s hard to challenge those thoughts when they feel so real. I keep telling myself that it’s just my life now, and I should just deal with it.",
-          "therapist_utterance": "It’s tough to challenge those thoughts, especially when they feel like they define you. Recognizing that your situation does not define your worth is an important step. What if you rated your feelings of shame and loneliness on a scale of 1 to 10? Where do you think you fall right now?",
-          "therapist_use": "Continuum technique: used to encourage Mia to reflect on her feelings in a manageable way."
+          "reason_for_ending": "KEEP - The therapist's objective of challenging Mia's automatic thoughts was not met as she is still hesitant to fully engage. The client's objective was not met as she continues to resist deeper emotional exploration.",
+          "client_utterance": "I don’t know... I just feel like I’m in a bubble of shame. Talking about it makes it feel more real, and I’m not sure if I can handle that right now. Maybe it’s easier to think nobody cares.",
+          "therapist_utterance": "It makes sense that confronting those feelings feels overwhelming. What evidence do you have that everyone is judging you? Sometimes examining those thoughts can help lighten their hold on you.",
+          "therapist_use": "Identify Automatic Thoughts: used to guide Mia in articulating her thoughts and consider their validity."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Mia is still not fully engaging with her emotions. Client's objective was not met because she hasn't explored her feelings in depth.",
-          "client_utterance": "I think I’m at a 7. I feel pretty lonely and ashamed, but then I have moments of joy with Brady that make me feel better. It’s like a constant battle between these two feelings.",
-          "therapist_utterance": "Acknowledging that battle is a significant insight, Mia. It shows that even in your loneliness, there are moments that bring you joy. If you could shift that loneliness by just one point, what would that look like for you in your day-to-day life?",
-          "therapist_use": "Continuum technique: used to help Mia envision small shifts in her feelings of loneliness."
+          "reason_for_ending": "KEEP - The therapist's objective of guiding Mia to challenge her thoughts was not met as she is still resistant to exploring her feelings. The client's objective was not met as she continues to avoid discussing her emotions.",
+          "client_utterance": "I guess I just assume they think I'm a failure. If I could just get through this, maybe things would feel normal again. But for now, I just want to keep my head down.",
+          "therapist_utterance": "It sounds like you're carrying a heavy burden of self-judgment. What if you could reframe that thought? Instead of thinking of yourself as a failure, you could remind yourself that you're navigating a difficult time, and that doesn't define you.",
+          "therapist_use": "Reframe the Thought: used to help Mia create a more balanced perspective on her situation."
         },
         {
-          "reason_for_ending": "MOVE - Therapist's objective was met as Mia has begun to articulate her feelings openly and reflect on her values. Client's objective was met because she engaged in the conversation and explored her emotions.",
-          "client_utterance": "I think if I could just find more things that make me happy, it might help a little. Like reconnecting with friends or focusing on fun activities with Brady. Maybe facing my feelings isn’t as scary as I thought.",
-          "therapist_utterance": "That sounds like a wonderful realization, Mia! It seems like you’re starting to see the potential for small changes that could improve how you feel. Exploring those connections and activities could be a great step towards embracing your emotions.",
-          "therapist_use": "Reflective listening: used to validate Mia's emerging insights and encourage her forward movement."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Mia engaged with her feelings and explored alternative thoughts without pressure to change. The client's objective was met as she felt understood and acknowledged while beginning to consider her thoughts more deeply.",
+          "client_utterance": "That does make sense. I can see how thinking of it that way could help me feel less overwhelmed. I’m still not sure about everything, but talking about it feels a bit lighter.",
+          "therapist_utterance": "I'm glad to hear that it feels a bit lighter. It's a step toward understanding your feelings without the weight of judgment. Remember, it's okay to take your time as you navigate through this.",
+          "therapist_use": "Reflective Listening: used to validate Mia's progress and reinforce a positive experience in the conversation."
         }
       ]
     },
@@ -131,27 +141,29 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Mia's ambivalence about change and strengthen her motivation.",
+          "objective": "To explore and resolve Mia's ambivalence about her current situation and motivate her towards change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Mia to articulate both her desire to change and her fears regarding the change.",
-                "Encourage her to reflect on how her current situation aligns or conflicts with her personal values and goals."
+                "Begin by asking Mia how she feels about her current situation, emphasizing her conflicting feelings.",
+                "Encourage her to express both sides of her ambivalence regarding her divorce and feelings of loneliness.",
+                "Use reflective listening to validate her feelings and demonstrate understanding."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Mia to express any positive feelings or thoughts she may have about making changes.",
-                "Use open-ended questions to invite her to discuss the benefits she envisions from changing her current behaviors."
+                "Prompt Mia to discuss any positive changes she has considered despite her fears.",
+                "Ask open-ended questions that encourage her to articulate her desires for change, like 'What would your life look like if you felt less judged?'",
+                "Affirm any expressions of hope or motivation she shares to reinforce them."
               ]
             },
             {
               "strategy_name": "Decisional Balance",
               "instructions_for_therapist": [
-                "Facilitate a discussion where Mia can weigh the pros and cons of her current behaviors versus potential changes.",
-                "Encourage her to consider how her choices align with her long-term goals and values."
+                "Guide Mia in discussing the pros and cons of her current coping strategies versus potential changes.",
+                "Help her to weigh the benefits of maintaining her current behaviors against the costs they incur, particularly regarding her emotional well-being."
               ]
             }
           ]
@@ -159,85 +171,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Help Mia identify her catastrophic thoughts about being judged and exposed in social situations.",
-                "Guide her to reframe these thoughts by considering evidence that contradicts them."
+                "Ask Mia to describe her thoughts during the birthday party, particularly her belief that 'Everyone is judging me.'",
+                "Guide her through the evidence-based questioning process to challenge this thought.",
+                "Encourage her to articulate alternative explanations and gather evidence against her automatic thoughts."
               ]
             },
             {
-              "technique_name": "Pros and Cons Analysis",
+              "technique_name": "Reframing",
               "instructions_for_therapist": [
-                "Assist Mia in making a list of the benefits she perceives from maintaining her current coping strategies versus how they may hinder her growth.",
-                "Discuss the implications of each side to enhance her awareness of the need for change."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Encourage Mia to examine the validity of her beliefs about being unlovable or helpless.",
-                "Prompt her to gather evidence from her life experiences that challenge these beliefs."
+                "Work collaboratively with Mia to create a balanced thought that reflects a more realistic perspective.",
+                "Practice this reframing technique in session, providing examples to illustrate how to apply it in social situations.",
+                "Set a goal for her to engage more authentically in future social interactions and reflect on the outcomes."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To effectively support Mia during the contemplation phase, I will first utilize Motivational Interviewing strategies to explore and address her ambivalence. By encouraging her to articulate her desires and fears regarding change, I can facilitate a deeper self-reflection. This will be complemented by eliciting change talk to strengthen her motivation, focusing on the benefits of potential changes. The decisional balance discussions will enable her to weigh the pros and cons of her current behaviors, making discrepancies between her values and actions clearer. In parallel, I will apply CBT techniques such as decatastrophizing to help her challenge her catastrophic thoughts about social judgments, promoting cognitive flexibility. The pros and cons analysis will further aid her in understanding the implications of her coping strategies, while evidence-based questioning will help her reassess her core beliefs of helplessness and unlovability. Throughout the process, I will maintain a collaborative and non-confrontational stance, respecting her resistance and fostering insight.",
-        "progress_marker": "Mia begins to articulate her feelings about change and reflects on her values, showing increased insight into her ambivalence."
+        "therapist_reasoning": "In addressing Mia's ambivalence, I first employed Motivational Interviewing strategies to explore her feelings about her situation, aiming to facilitate a safe space for her to express her inner conflict. By using reflective listening, I validated her emotions to foster trust. Next, I elicited change talk by prompting her to envision potential positive outcomes from change, which helps build intrinsic motivation. I facilitated a decisional balance discussion to help her weigh the costs and benefits of her current behaviors, deepening her insight into the need for change. Concurrently, I utilized CBT techniques to challenge her automatic thoughts stemming from the birthday party experience. By guiding her through cognitive restructuring, I aimed to dismantle her belief that she was being judged, fostering a more balanced outlook. Reframing served as a practical strategy for her to practice authenticity in social settings while reducing the pressure to maintain an image of competence. This dual approach of MI and CBT is designed to enhance her readiness for change while respecting her current ambivalence and resistance.",
+        "progress_marker": "Mia engages in reflecting on her ambivalence and begins to express a desire for change, indicating readiness to challenge her automatic thoughts."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to better understand my feelings about my divorce and explore my fears around making changes in my life.",
+        "client_objective": "I want to explore my feelings about my divorce and my loneliness without feeling judged.",
         "client_state": {
-          "awareness": "I am starting to see that my feelings of loneliness and shame are connected to my recent divorce and the changes in my life, but I'm still unsure about how to navigate them.",
-          "motivation": "Part of me wants to change and find a way to be okay on my own, yet I feel conflicted because I fear being alone and unlovable.",
-          "openness": "I am somewhat willing to talk about my experiences in therapy, but I still hesitate to fully express my deeper fears and insecurities.",
-          "resistance": "I often feel overwhelmed by my emotions and find myself withdrawing from the idea of change, fearing that I might fail or that I won’t be able to handle it."
+          "awareness": "I can see that my feelings of loneliness and shame are affecting my happiness, and I'm starting to recognize patterns in my need for social validation.",
+          "motivation": "I feel a small desire to change my situation, but I'm also scared that I won't be able to handle being alone or that I'll lose more connections.",
+          "openness": "I am somewhat willing to share my experiences and emotions with my therapist, but I still hold back due to fear of being judged or misunderstood.",
+          "resistance": "I find myself withdrawing when thinking about making changes, as I feel overwhelmed and uncertain about whether it's worth the effort."
         },
-        "client_reasoning": "I'm beginning to realize that my situation isn’t working for me, especially now that I’m going through a divorce. I notice that I often feel ashamed and embarrassed when people mention it, and it makes me withdraw even more. I see that I need to connect with my feelings and understand why I feel so helpless and unlovable. But there’s a part of me that worries about what change would mean. What if I try to make things better and still feel alone? The thought of being truly independent scares me because I’ve relied on others for so long. Therapy helps me reflect on these feelings, but I still find it hard to fully open up and explore the fear of being judged or abandoned. I guess I’m caught between wanting to change and being scared of what that change could look like.",
-        "progress_marker": "The client is starting to articulate their feelings and concerns, indicating a growing awareness of their need for change."
+        "client_reasoning": "Lately, I’ve been realizing that my life is not how I want it to be. My divorce has left me feeling really alone, and I’m starting to see how much I relied on my partner for support. I’ve noticed I often feel ashamed at social events, worried that people are judging me or pitying me because of my situation. I want to change, but there’s a part of me that feels terrified—what if I can’t be happy alone, or what if I push people away even more? Sometimes I think I should just keep things to myself; it feels easier than explaining how lost I feel. Therapy is helping me reflect more on these feelings and recognize the patterns in my thoughts, but I still have this nagging doubt about whether I can really change or if I should just accept my loneliness as my new reality."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't fully articulated her fears regarding change. Client objective not met: Mia is still hesitant to explore her feelings about her divorce.",
-          "client_utterance": "I know I should try to reconnect with friends, but I keep thinking they'll just see me as this divorced person, not the Mia I used to be. I feel like I'm losing my identity, and that scares me. What if they judge me for not handling this situation better?",
-          "therapist_utterance": "It sounds like you're worried that reconnecting could expose you to judgment and make you feel even more vulnerable. What aspects of your identity do you fear losing in this process, and how might reconnecting with friends help you preserve that identity?",
-          "therapist_use": "Exploring ambivalence: invited Mia to reflect on her fears and identity during her divorce."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because the ambivalence around loneliness was not fully explored. The client's objective was not met as she hasn't fully articulated her feelings about her divorce and loneliness.",
+          "client_utterance": "I keep thinking about how alone I feel, especially when I see my friends posting about their lives. I wonder if they even miss me or if they think I'm just a burden now. It's hard to shake off that feeling of being judged, you know?",
+          "therapist_utterance": "It sounds like you're feeling a deep sense of loneliness and questioning your connections. That must be really tough to navigate, especially when you're seeing others seemingly moving on. What do you think your friends might actually feel about your situation?",
+          "therapist_use": "Exploring ambivalence: used to help Mia articulate her feelings about loneliness and her perception of her friends."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't yet expressed any positive feelings about potential changes. Client objective not met: Mia is still conflicted about her identity and friends.",
-          "client_utterance": "I guess I miss the person I was before all of this. I used to be so confident, and now I feel like I'm just a shadow of myself. But what if I reach out and it just makes things worse?",
-          "therapist_utterance": "It's understandable to feel that way, especially when you're in a vulnerable state. What if we explore what being that confident person means to you, and how reaching out could help you begin to reclaim that part of yourself?",
-          "therapist_use": "Eliciting change talk: encouraged Mia to reflect on her past confidence and potential benefits of change."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as the conversation did not lead to a clear expression of change. The client’s objective was not fully met because she is still struggling to voice her feelings about judgment.",
+          "client_utterance": "I guess I feel like they probably think I made a mess of my life. It's like I can't escape that thought. I want to believe that they're supportive, but then I feel like I’m just a burden who’s dragging everyone down.",
+          "therapist_utterance": "It’s understandable to feel that way, especially when you’re in such a vulnerable position. Can we explore the idea that perhaps your friends are more supportive than you believe? What evidence do you have that they see you as a burden?",
+          "therapist_use": "Decisional balance: guiding Mia to weigh her beliefs about her friends' perceptions against the possibility of their support."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't weighed the pros and cons of her current behaviors versus potential changes. Client objective not met: Mia is still reluctant to think positively about reaching out.",
-          "client_utterance": "It feels safer to stay in my comfort zone, even if it's not working for me. I know I should want more, but I can’t help thinking that trying to change could lead to more pain. What if I fail to connect or they don't want to be around me anymore?",
-          "therapist_utterance": "That fear of failure is a strong barrier, and it's okay to feel that way. Let's take a moment to look at the pros and cons of staying where you are versus reaching out. What do you think you gain by maintaining your current situation, and what might you lose?",
-          "therapist_use": "Decisional balance: facilitated a discussion to help Mia weigh the impacts of her current behaviors against potential changes."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as the discussion did not lead to positive reflections on change. The client’s objective was not met since she still feels overwhelmed by judgment.",
+          "client_utterance": "I don’t know... I keep thinking that if I reach out, it’ll just confirm what I fear—that they think I'm a failure. Sometimes I think it’s just easier to avoid them altogether. But then I feel even more alone.",
+          "therapist_utterance": "It seems you're caught in a cycle of avoidance, which might be intensifying your feelings of isolation. What if you considered reaching out to someone you trust? How might that change your feelings about the situation?",
+          "therapist_use": "Eliciting change talk: encouraging Mia to think about the potential benefits of reaching out, despite her fears."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't fully explored how her choices align with her long-term goals. Client objective not met: Mia is still struggling to envision the benefits of change.",
-          "client_utterance": "I guess staying comfortable means not having to face my loneliness, but I know it’s not truly fulfilling. I worry that change could mean more loneliness, and that thought makes me freeze. But I do want to feel better for Brady's sake.",
-          "therapist_utterance": "It's clear that your son is a motivating factor for you. What if we considered how making small changes could positively affect your relationship with Brady? How might you feel if you were able to model resilience and connection for him?",
-          "therapist_use": "Exploring ambivalence: connected Mia's motivation for change to her role as a mother, highlighting the benefits of resilience."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as there was no clear motivation for change expressed. The client’s objective was also not met as she hasn't fully processed her feelings.",
+          "client_utterance": "I guess I worry that if I reach out and they don’t respond the way I hope, it’ll just make things worse. But at the same time, I hate feeling this lonely. I want to be able to connect again, but it feels so daunting.",
+          "therapist_utterance": "It's completely normal to feel daunted by the prospect of reaching out. It shows that you care about your connections, which is a positive sign. What do you think could be a small step you could take to reconnect without overwhelming yourself?",
+          "therapist_use": "Exploring ambivalence: helping Mia identify manageable steps toward connection while acknowledging her fears."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't articulated the benefits she envisions from making changes. Client objective not met: Mia is still conflicted about how to navigate her feelings.",
-          "client_utterance": "I think if I could show Brady that it’s okay to be vulnerable, maybe I’d feel less alone. But it’s hard to envision that because I still feel so stuck. I want to believe I can change but fear that I’ll just disappoint him.",
-          "therapist_utterance": "It’s a powerful insight to want to model vulnerability for Brady. What if we explore what steps you can take to start demonstrating that to him, and how it might help you feel more connected to both him and yourself?",
-          "therapist_use": "Eliciting change talk: prompted Mia to explore her desire to model resilience and vulnerability for her son."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as there was no decisive movement toward change. The client’s objective was not met as she hasn't articulated a clear desire to change her situation.",
+          "client_utterance": "Maybe I could just send a message to one friend to see how they’re doing. It feels small, but I’m scared of how they might react. What if they don’t want to hear from me?",
+          "therapist_utterance": "That does sound like a small yet significant step. It's okay to feel scared; that means you're stepping out of your comfort zone. What if you framed it as just checking in rather than putting pressure on yourself?",
+          "therapist_use": "Reframing: assisting Mia in seeing the action as a casual check-in, reducing pressure and fear."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't fully reflected on how her current situation conflicts with her values. Client objective not met: Mia is still struggling to articulate her deeper feelings about change.",
-          "client_utterance": "I realize I don’t want Brady to see me as someone who gives up. I want to be strong for him, but part of me feels like I’m failing even at that. I guess I need to figure out what strong really means for me now.",
-          "therapist_utterance": "Defining strength in your current context is a significant step. What does being strong look like for you now, and how can that align with reaching out to others? How might that change your perspective on vulnerability?",
-          "therapist_use": "Pros and cons analysis: encouraged Mia to redefine her concept of strength and its alignment with her actions."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Mia hasn't committed to taking the step. The client’s objective was not fully met as she still holds back on her feelings about reaching out.",
+          "client_utterance": "I think I can try that. Maybe just saying hi won't feel as heavy. But I still worry about how it might feel afterward if they don’t respond positively.",
+          "therapist_utterance": "It's great to hear you're considering that step! It’s normal to have concerns about the aftermath, but remember that reaching out could also lead to support and connection. How would you feel if they did respond positively?",
+          "therapist_use": "Eliciting change talk: encouraging Mia to envision a positive outcome to bolster her motivation."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: Mia is articulating her feelings about change and reflecting on her values. Client objective met: Mia is beginning to understand her feelings about her divorce and exploring her fears around change.",
-          "client_utterance": "I think I’m starting to see that being strong doesn’t mean closing myself off. Maybe reaching out and being honest with my friends could help me feel less alone. I want to try to connect with them, even if it feels scary.",
-          "therapist_utterance": "That’s a wonderful realization, Mia! Acknowledging that strength can come from connection is a huge step forward. It sounds like you’re ready to explore how you can begin those connections with your friends.",
-          "therapist_use": "Double-sided reflection: validated Mia's realization about strength and the importance of connection, reinforcing her motivation for change."
+          "reason_for_ending": "MOVE: The therapist's objective was met as Mia is beginning to articulate a desire for change and take action. The client’s objective was met as she expressed her feelings about her situation and considered reaching out.",
+          "client_utterance": "If they respond positively, maybe I’ll feel less alone. I think I just need to take that leap, even if it’s scary. I can see that my loneliness is something I want to change.",
+          "therapist_utterance": "That’s a powerful realization, Mia! Acknowledging your desire for change is a significant step forward. Embracing that leap, even if it feels scary, can open up new possibilities for connection and support.",
+          "therapist_use": "Double-sided reflection: validating Mia's feelings of fear while reinforcing her desire for change."
         }
       ]
     },
@@ -246,22 +252,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "To strengthen Mia's commitment to change by exploring her motivations and building her confidence in implementing new behaviors.",
+          "objective": "Strengthen Mia's commitment to change and increase her confidence in managing her social interactions post-divorce.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Mia to articulate her reasons for wanting to change, focusing on her desire to create a positive environment for her son and herself.",
-                "Ask open-ended questions to help her express her commitment, like 'What does taking action mean for you at this stage?'",
-                "Reinforce her positive statements about change by reflecting back her commitment and emphasizing her strengths."
+                "Ask Mia how important it is for her to feel more confident in social situations, using a scale of 1-10.",
+                "Encourage her to articulate why she rated her commitment at that level.",
+                "Explore the benefits of increasing her commitment to change and what it would look like in her life."
+              ]
+            },
+            {
+              "strategy_name": "Reinforcing Motivation",
+              "instructions_for_therapist": [
+                "Ask Mia to reflect on past achievements and what motivated her during those times.",
+                "Encourage her to identify specific aspects of her current situation that she wants to change.",
+                "Highlight her strengths and past coping mechanisms that can support her in this transition."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions (1-10) to assess Mia's confidence in making changes and readiness for action.",
-                "Validate her feelings of uncertainty while highlighting past successes, such as her solo travel experience.",
-                "Discuss what steps she believes would help increase her confidence and readiness."
+                "Discuss with Mia her feelings about taking small steps towards change.",
+                "Ask her to identify any previous experiences where she felt ready to make a change.",
+                "Validate her feelings of uncertainty while emphasizing her ability to handle challenges."
               ]
             }
           ]
@@ -269,79 +283,80 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Work collaboratively with Mia to create a step-by-step action plan focusing on small, achievable changes, such as joining a local dance class or scheduling regular phone calls with supportive friends.",
-                "Identify potential barriers to these actions and brainstorm coping strategies to address them, reinforcing her autonomy and capability.",
-                "Set specific timelines for each step to promote accountability and gradual engagement."
+                "Introduce the concept of cognitive distortions, focusing on mind reading and catastrophizing.",
+                "Guide Mia to articulate her automatic thoughts from the birthday party situation.",
+                "Use evidence-based questioning to challenge those thoughts, helping her gather evidence against them."
               ]
             },
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Behavioral Experimentation",
               "instructions_for_therapist": [
-                "Have Mia identify a specific situation that makes her feel overwhelmed, such as attending a social event, and create a plan to approach it differently.",
-                "Encourage her to engage in the situation with a focus on observing her thoughts and feelings, and then reflecting on the outcome.",
-                "Discuss the results and how this experiment can inform her future interactions, reinforcing her ability to cope with discomfort."
+                "Collaborate with Mia to create a realistic action plan for engaging in social situations.",
+                "Identify potential barriers she might face during these interactions and brainstorm coping strategies.",
+                "Set specific, achievable goals for her to practice vulnerability and authenticity in her conversations."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan for Mia, I first recognized her core beliefs of feeling helpless and unlovable, which could hinder her commitment to change. To address this, I integrated Motivational Interviewing strategies to strengthen her commitment language and explore her confidence regarding behavioral changes. By encouraging her to articulate her motivations and assessing her readiness, I aimed to create a supportive environment that validates her feelings while emphasizing her strengths. Concurrently, I incorporated CBT techniques like action planning and behavior experiments to provide structured, achievable steps for her to take. The action plan focuses on small changes that build toward her larger goals, allowing her to gradually increase her self-efficacy. The behavior experiment will help her confront situations that trigger her feelings of inadequacy, promoting resilience. This combination of MI and CBT is designed to empower Mia, allowing her to navigate her current challenges while fostering a sense of agency and hope for the future.",
-        "progress_marker": "Mia identifies and begins implementing her action plan, experiencing increased confidence and reduced feelings of isolation."
+        "therapist_reasoning": "In developing this plan for Mia, I first recognized her current phase of preparation and her desire to change her social interactions and emotional responses post-divorce. Using MI strategies, I aimed to strengthen her commitment to change by asking her to rate her motivation and explore the reasons behind that rating. This approach helps reinforce her motivation by connecting her past achievements to her present aspirations. Additionally, exploring her confidence and readiness allows her to articulate her feelings, which is essential given her sense of overwhelm. I then integrated CBT techniques by introducing cognitive restructuring to address her automatic thoughts about being judged, guiding her through evidence-based questioning to challenge these distortions. This helps her build a more balanced perspective. Lastly, I included behavioral experimentation to create a collaborative action plan that is specific and achievable, acknowledging her resistance and ensuring she does not feel overwhelmed.",
+        "progress_marker": "Mia has identified at least three specific social situations to engage in over the next month, each with a clear goal of practicing vulnerability and authenticity, along with coping strategies for potential barriers."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore practical steps to improve my situation and regain my confidence.",
+        "client_objective": "I hope to explore practical steps for navigating my new life and managing my feelings of loneliness and shame.",
         "client_state": {
-          "awareness": "I recognize that my current situation is unsustainable and that I need to change my approach to life and relationships.",
-          "motivation": "I feel a growing desire to improve my life for myself and for Brady, and I want to feel more empowered.",
-          "openness": "I'm beginning to open up about my feelings and thoughts, and I am willing to consider new strategies, even though I still feel nervous.",
-          "resistance": "I still experience doubts about my ability to change and fears about being judged or abandoned, which makes me hesitant at times."
+          "awareness": "I recognize that my current situation is not sustainable, and I understand that my feelings of loneliness and shame are tied to my recent divorce.",
+          "motivation": "I feel a strong desire to make positive changes in my life for myself and for Brady, even if I'm still uncertain about the future.",
+          "openness": "I am willing to discuss my feelings and explore potential strategies with my therapist, although I sometimes hesitate to fully express my fears.",
+          "resistance": "I still experience doubts about my ability to change and often feel overwhelmed by the prospect of navigating my new reality."
         },
-        "client_reasoning": "I’ve come to realize that my current situation is not just difficult but also unhealthy for me and Brady. The divorce has been a wake-up call, showing me that I can't rely on others for my happiness anymore. I understand that change is necessary if I want to feel whole again. I’m starting to imagine what that could look like. I hope to regain my confidence and independence, but there’s still a lingering fear of failure and the judgment of others. Sometimes, I feel overwhelmed by the expectations I put on myself to appear strong and capable. Therapy has helped me see that it's okay to feel vulnerable and that taking small steps towards change is valid. I want to discuss specific strategies with my therapist to navigate this transition and find ways to be happy again, but I’m still grappling with doubts about whether I can truly maintain these changes long-term."
+        "client_reasoning": "I've come to realize that my situation is no longer working for me, especially after feeling so lonely since my divorce. I know that change is necessary for my happiness and for Brady's well-being, but I often feel stuck in my fears. I want to improve my situation, but I still worry that I might fail or that my friends will abandon me if I don't appear strong. Therapy has been a safe space for me to think about these feelings and the changes I might need to make, and I feel slightly more hopeful. I imagine taking steps, like joining a dance class or reaching out more to my family, but I still find myself griped by anxiety about being judged or misunderstood. I want to be more open about my struggles, yet I feel hesitant to let others see my vulnerability. This internal conflict is challenging, but I know I need to work through it to create a better life for myself and my son.",
+        "progress_marker": "Mia is beginning to identify specific changes she wants to explore and is expressing a willingness to confront her feelings and uncertainties."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not fully explore Mia's feelings about her past connections. Client objective was not met as Mia has not yet articulated specific steps for change.",
-          "client_utterance": "I still think about reaching out to my friends, but part of me feels like they won't see me as the same person anymore. It just makes me anxious to think about it. I don't want them to judge me, and I keep second-guessing myself.",
-          "therapist_utterance": "It's completely understandable to feel anxious about how your friends might see you. The fear of judgment can create a barrier to reconnecting. What would it look like for you to take a small step in reaching out, perhaps just to one friend who you feel most comfortable with?",
-          "therapist_use": "Open-ended questioning: to encourage Mia to explore specific steps she could take in her action plan."
+          "reason_for_ending": "KEEP: The therapist objective was not met because Mia has not yet rated her motivation for change. The client objective was not met because Mia has not explored practical steps for her feelings of loneliness.",
+          "client_utterance": "I've been thinking about how I want to feel more confident in social situations, but it's hard to shake off the anxiety. I guess I’d say my motivation to change feels like a 5 right now. I want to improve, but I still feel scared about reaching out to others.",
+          "therapist_utterance": "That's a good start, Mia, rating it a 5. What do you think makes it a 5 instead of higher? Let's explore what it would look like for you to feel more confident and how that could impact your life.",
+          "therapist_use": "Reflective listening: encouraged Mia to articulate her feelings about her motivation."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not assess Mia's confidence level about reaching out. Client objective was not met as Mia has not identified any concrete plans.",
-          "client_utterance": "I guess I could text one friend, but I keep thinking what if I don't know what to say? What if they don't respond or things feel awkward? I wish I could just skip the awkwardness and get back to how things used to be.",
-          "therapist_utterance": "Starting a conversation can indeed feel daunting, especially with those feelings of awkwardness. Maybe we can think of a simple, low-pressure way to reach out, like sharing a memory or asking how they've been. How confident do you feel on a scale of 1 to 10 about reaching out to this friend?",
-          "therapist_use": "Scaling question: to assess Mia's confidence and readiness for action."
+          "reason_for_ending": "KEEP: The therapist objective was not met because Mia has not articulated why she rated her motivation at a 5. The client objective was not met because Mia has not yet identified practical steps to manage her loneliness.",
+          "client_utterance": "I think it's a 5 because I know I need to make changes, but I still feel really overwhelmed. I'm worried about what my friends will think if I reach out, and that stops me from being more open. It feels safer just to keep to myself.",
+          "therapist_utterance": "It sounds like you're feeling the weight of that overwhelm, which makes it tough to take action. What do you think would happen if you did reach out? How might it feel to connect with others despite those worries?",
+          "therapist_use": "Open-ended questioning: aimed to help Mia explore her fears and potential outcomes of reaching out."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not reinforce Mia's positive feelings about reaching out. Client objective was not met as Mia has not yet built a specific action plan.",
-          "client_utterance": "I think I'm at a 4. I want to feel confident, but I keep imagining all the negative outcomes. It feels like a lot to deal with, and I don’t want to get hurt again.",
-          "therapist_utterance": "It's brave of you to acknowledge that 4, and it's okay to feel uncertain. Remember, you’ve taken steps in the past, like traveling with Brady, and that took courage. What might help you feel more prepared to take this step?",
-          "therapist_use": "Reflection and validation: to highlight Mia's past successes and encourage her to think of strategies to increase her confidence."
+          "reason_for_ending": "KEEP: The therapist objective was not met because Mia has not yet identified specific aspects of her current situation she wants to change. The client objective was not met because Mia still feels uncertain about how to navigate her feelings.",
+          "client_utterance": "I guess I'm scared of feeling judged, but I also hate being alone. Maybe if I could just start with one friend, it wouldn't feel as daunting. But then I keep thinking about how they might see me after everything.",
+          "therapist_utterance": "That's a valid concern, Mia. What if you thought about it as just a casual check-in rather than a big commitment? This small step could be a way to test the waters and see how it feels.",
+          "therapist_use": "Reframing: helped Mia view reaching out as a low-pressure situation to reduce her anxiety."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not guide Mia to articulate specific strategies. Client objective was not met as Mia has not yet expressed a clear plan.",
-          "client_utterance": "Maybe I could plan what to say ahead of time or even just ask them how they're doing. But I worry that even that feels too vulnerable. What if they don't respond the way I hope?",
-          "therapist_utterance": "Planning what to say is a great strategy to feel more in control. Vulnerability can feel risky, but it can also lead to deeper connections. What if we brainstorm a few different ways to phrase that initial message? This could help alleviate some of that fear.",
-          "therapist_use": "Collaborative brainstorming: to help Mia develop a concrete action plan while reinforcing her autonomy."
+          "reason_for_ending": "KEEP: The therapist objective was not met because Mia has not set specific, achievable goals for her social interactions. The client objective was not met because Mia has not yet explored practical steps to address her feelings of loneliness.",
+          "client_utterance": "That makes sense. I could try just sending a quick message to a friend, like, 'Hey, how have you been?' It feels small, but I'm still worried about how it might turn out.",
+          "therapist_utterance": "That's a great idea, Mia! It’s a manageable step, and it allows you to reconnect without too much pressure. How would you feel if your friend responded positively to that message?",
+          "therapist_use": "Affirmation: reinforced Mia's idea, encouraging her to take action while considering positive outcomes."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not discuss potential barriers. Client objective was not met as Mia has not expressed a timeline for reaching out.",
-          "client_utterance": "I think I could say something like, 'Hey, I’ve been thinking about you. How have you been?' That feels manageable. But I still don’t know when I would actually do it.",
-          "therapist_utterance": "That’s a wonderful message, and it sounds manageable for you. Let’s talk about when would be a good time for you to send it. Are there specific days or times when you feel more at ease to reach out?",
-          "therapist_use": "Action planning: to help Mia establish a specific timeline for her action step."
+          "reason_for_ending": "KEEP: The therapist objective was not met because Mia has not yet identified potential barriers she might face. The client objective was not met because Mia has not fully explored her feelings of loneliness.",
+          "client_utterance": "If they respond well, I think I’d feel less alone. But part of me is still worried that they might not care as much as I hope. It's just hard to shake off that feeling of being a burden.",
+          "therapist_utterance": "It’s understandable to have that worry, but what if you reframed it to consider that your friends might actually be supportive? Can we think about what evidence you have for that belief versus the fear of being a burden?",
+          "therapist_use": "Cognitive restructuring: invited Mia to challenge her negative beliefs by exploring evidence."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as they did not reinforce Mia's positive statements sufficiently. Client objective was not met as Mia has not solidified her commitment to reach out.",
-          "client_utterance": "I think maybe this weekend could work. But what if I just freeze and don’t send it? I really want to do this, but that fear keeps creeping in.",
-          "therapist_utterance": "It’s normal to feel that fear, especially when you’re stepping out of your comfort zone. Remember, each small step is an accomplishment, and you’ve already made a plan, which is a huge step. What could help you stay motivated to follow through this weekend?",
-          "therapist_use": "Encouragement and reinforcement: to bolster Mia's commitment and address her fears."
+          "reason_for_ending": "KEEP: The therapist objective was not met because Mia has not yet developed coping strategies for potential barriers. The client objective was not met because Mia has not yet fully articulated her feelings about loneliness.",
+          "client_utterance": "I guess I don’t really have any proof that they see me as a burden; it’s mostly how I feel. I just want to feel connected again, but it’s so scary to put myself out there after everything. I want to be brave but feel stuck.",
+          "therapist_utterance": "Feeling stuck can be really frustrating, especially when you desire connection. Let’s brainstorm some coping strategies for when those anxious thoughts come up. What are some things you could remind yourself of in those moments?",
+          "therapist_use": "Brainstorming solutions: aimed to help Mia develop coping strategies for her anxiety."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective was met as they reinforced Mia's commitment and helped her articulate steps. Client objective was met as Mia has developed a specific action plan with a timeline.",
-          "client_utterance": "I think if I remind myself that it's okay to be vulnerable, I can do it. I want to show Brady that it’s okay to reach out, too. I feel more empowered now.",
-          "therapist_utterance": "That’s an incredible shift! You’re recognizing your strength in vulnerability, and it’s inspiring to hear how you want to model that for Brady. This is a significant step toward creating a supportive environment for both of you.",
-          "therapist_use": "Reflection and affirmation: to celebrate Mia's progress and reinforce her commitment to change."
+          "reason_for_ending": "MOVE: The therapist objective was met as Mia has identified specific steps and coping strategies for social situations. The client objective was met as Mia has begun to explore practical steps for addressing her feelings of loneliness and shame. Mia is demonstrating readiness to take action.",
+          "client_utterance": "I think I could remind myself that reaching out doesn’t define my worth, and that my friends might actually want to hear from me. Just taking that small step feels a bit more doable now. I really want to try it.",
+          "therapist_utterance": "That’s a fantastic insight, Mia! Recognizing that your worth isn’t defined by others’ perceptions is a powerful step. I believe you can embrace this change and start connecting again, and I'm here to support you through it.",
+          "therapist_use": "Validation and encouragement: reinforced Mia's commitment to change and readiness to connect."
         }
       ]
     }

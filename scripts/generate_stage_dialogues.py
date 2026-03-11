@@ -131,6 +131,8 @@ def build_template_values(case: dict[str, Any]) -> dict[str, str]:
         "auto_thought": format_field(case.get("auto_thought")),
         "emotion": format_field(case.get("emotion")),
         "behavior": format_field(case.get("behavior")),
+        "cbt_technique": format_field(case.get("cbt_technique")),
+        "counseling_plan": format_field(case.get("counseling_plan")),
         "resistance_type": format_field(case.get("resistance_type")),
         "resistance_emotion": format_field(resistance_emotion),
         "resistance_emotions": format_field(resistance_emotion),
@@ -306,6 +308,8 @@ def main() -> None:
         dialogue_values = {
             "name": values.get("name", ""),
             "history": values.get("history", ""),
+            "cbt_technique": values.get("cbt_technique", ""),
+            "counseling_plan": values.get("counseling_plan", ""),
         }
         dialogue_values["therapist_plan_json"] = to_dashed_text(therapist_plan)
         dialogue_values["client_plan_json"] = to_dashed_text(client_plan)

@@ -12,29 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Issac's awareness of his thoughts and feelings regarding his family dynamics and health concerns without pushing for immediate change.",
+          "objective": "To increase Issac's awareness of his thoughts and feelings while building rapport and trust.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Issac's concerns about his father's health and family issues.",
-                "Reflect back his feelings of sadness and overwhelm to validate his emotional experience.",
-                "Use phrases like, 'It sounds like you're feeling really weighed down by everything that's happening.'"
+                "Listen attentively to Issac's concerns about his father's health and his feelings of overwhelm.",
+                "Reflect back his feelings by saying things like, 'It sounds like you feel really anxious and scared when you think about having serious conversations with your parents.'"
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Issac's grief over his family members' deaths and its impact on him.",
-                "Express understanding of how difficult it must be for him to navigate these emotions while also worrying about his father's health.",
-                "Employ empathetic statements, such as 'It's understandable that you feel anxious and worried given the circumstances.'"
+                "Validate Issac's feelings of sadness and helplessness regarding the family situation.",
+                "Use phrases like, 'It's understandable to feel overwhelmed when dealing with so much loss and uncertainty.'"
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Issac to explore the discrepancies between his feelings of powerlessness and his personal values regarding family connection and openness.",
-                "Ask open-ended questions like, 'How does it feel to think about wanting to be closer to your family while feeling like you can't?'"
+                "Encourage Issac to explore the gap between his current feelings of helplessness and his personal values of wanting to connect with his family.",
+                "Ask questions like, 'How do you feel about the kind of relationship you want with your parents compared to how it is now?'"
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Help Issac recognize the impact of his automatic thoughts on his emotions and behaviors.",
+                "Ask him to consider how his belief that his mom only calls with bad news affects his willingness to engage in conversation."
               ]
             }
           ]
@@ -42,84 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identifying Automatic Thoughts",
               "instructions_for_therapist": [
-                "Encourage Issac to identify specific instances where he felt helpless or unlovable, asking him to provide examples.",
-                "Explore the validity of these beliefs by asking, 'What evidence do you have that supports these beliefs about yourself and your family?'"
+                "Guide Issac to articulate his automatic thoughts during the recent call with his mom.",
+                "Encourage him to write down thoughts like 'I'm too scared to talk to my parents about serious matters' and 'My mom only calls me with bad news.'"
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Challenging Assumptions",
               "instructions_for_therapist": [
-                "Help Issac examine the automatic thoughts he has when he receives calls from his mother.",
-                "Ask him questions like, 'Is it true that your mom only calls with bad news, or have there been other types of calls?'"
+                "Facilitate a discussion around these automatic thoughts by asking probing questions.",
+                "Encourage Issac to think critically about the validity of his beliefs, such as, 'What evidence do you have that your father is always hiding things from you?'"
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Gathering Evidence",
               "instructions_for_therapist": [
-                "Invite Issac to consider different perspectives on his father's reluctance to share health details.",
-                "Use prompts such as, 'What might be some reasons your father has for not discussing his health openly with you?'"
+                "Assist Issac in creating a list of positive interactions he has had with his parents in the past.",
+                "Encourage him to recall times when conversations were supportive or uplifting."
+              ]
+            },
+            {
+              "technique_name": "Reframing Thoughts",
+              "instructions_for_therapist": [
+                "Work with Issac to reframe negative automatic thoughts into more balanced perspectives.",
+                "For instance, help him shift from 'I'm too scared to talk to my parents' to 'It's understandable to feel scared, but I can reach out and discuss important issues.'"
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this therapy plan for Issac, the focus is on gently increasing his awareness and understanding of his emotional landscape without pressuring him for change. I will begin with Motivational Interviewing strategies, starting with reflective listening to create a safe space where he feels validated in expressing his feelings of sadness and overwhelm regarding his family dynamics. By expressing empathy, I aim to build rapport and trust, acknowledging the weight of his grief and anxieties. Developing discrepancy will encourage him to explore the conflict between his feelings of powerlessness and his values of family connection, promoting self-reflection. Concurrently, I will implement Cognitive Behavioral Therapy techniques, beginning with evidence-based questioning to help Issac articulate his core beliefs about helplessness, thus challenging their validity. Reality testing will allow him to confront his automatic thoughts about family calls, while the alternative perspective technique will facilitate an exploration of his father's behavior, fostering curiosity and understanding. The focus will remain on awareness and engagement, adapting to Issac's intermediate resistance by not pushing for solutions or action plans.",
-        "progress_marker": "Issac begins to articulate and reflect on his feelings and thoughts regarding family dynamics, showing increased engagement in discussions about his experiences."
+        "therapist_reasoning": "In the Pre-contemplation phase, it is crucial to establish a strong therapeutic alliance by employing MI strategies such as reflective listening and expressing empathy. This helps Issac feel heard and validated, reducing defensiveness and fostering curiosity about his feelings. By developing discrepancy, I can encourage him to explore the gap between his current emotional state and his desire for healthier family connections. Simultaneously, I will incorporate CBT techniques like identifying automatic thoughts and challenging assumptions to enhance his awareness of cognitive distortions. This dual approach allows us to explore his beliefs about communication with his family without pressing for immediate change. By gathering evidence and reframing his thoughts, I aim to gently guide Issac towards recognizing his capacity for handling difficult conversations, ultimately increasing his self-efficacy and reducing feelings of helplessness. This structured exploration aligns with his current resistance level, as it respects his emotional state while promoting reflection and engagement.",
+        "progress_marker": "Issac begins to articulate his feelings and thoughts regarding family communication, showing a willingness to reflect on past positive interactions with his parents."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I just want to get through this conversation without feeling too overwhelmed.",
+        "client_objective": "I hope to understand why my family dynamics feel so heavy without having to dive into my emotions right now.",
         "client_state": {
-          "awareness": "I know something is wrong, but I don't think it's a big deal.",
-          "motivation": "I don't really feel like changing anything right now.",
-          "openness": "I'm not very willing to share my thoughts and feelings; it feels too heavy.",
-          "resistance": "I feel quite defensive about discussing my family's issues."
+          "awareness": "I know something is off in my family, but I don't really want to face it or figure it out.",
+          "motivation": "I feel like change is impossible, and I don’t really want to think about it.",
+          "openness": "I’m not ready to share what I really feel; it feels too overwhelming.",
+          "resistance": "I feel a strong urge to avoid discussing my feelings and the situation."
         },
-        "client_reasoning": "I keep thinking about how my mom only calls me with bad news, and I feel like I'm stuck in this cycle of worry about my father's health. It’s overwhelming to think about how much he hides from me; it makes me feel powerless. I know I should probably talk about these things, but it just feels too heavy, too much to handle right now. I feel like I can't rely on my family to be open, and that makes me feel even more alone. Part of me wants to avoid these conversations altogether because they just make me sad and anxious. I know I should be dealing with this, but I’m scared of what I might find out or how I might feel. Therapy feels uncomfortable; I want to say something to my therapist, but I worry that it won't help, or that I’ll just end up feeling worse. It’s easier to just watch TV and pretend everything is fine."
+        "client_reasoning": "I just feel like everything is too much right now. Losing my uncle and cousin has been heavy, and now my mom calls me only to talk about my father's health issues, which makes me anxious. I can't help but think that my dad is hiding things from me, and it scares me to think about what might happen if I try to confront it. I feel like I can't talk about this stuff; it feels too overwhelming and heavy. My beliefs tell me that I have to keep the peace in my family and that if I bring up serious topics, it will just create more distance. Talking about my feelings or even listening to my mom feels like a burden. I don't want to face my emotions or the reality of the situation, so it feels safer to just zone out and avoid it altogether."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as the client is still feeling overwhelmed and defensive. The client's objective was not met since they did not feel comfortable sharing more about their feelings.",
-          "client_utterance": "I just feel like every time I think about my dad's health or family calls, it's just more bad news. It’s like I’m bracing for something terrible every time the phone rings. I want to just block it all out because it’s too much to handle.",
-          "therapist_utterance": "It sounds like you're feeling really weighed down by everything that's happening. It makes sense that you'd want to protect yourself from that anxiety. It must be exhausting to feel like you're always waiting for the next piece of bad news.",
-          "therapist_use": "Reflective Listening: used to validate the client's feelings of overwhelm and anxiety."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Issac has not yet begun to explore his feelings in depth. The client objective was not met because Issac is still avoiding discussing his emotions and family dynamics.",
+          "client_utterance": "I just feel like I’m stuck in this heavy situation with my family. Every time I talk to my mom, it’s about my dad’s health, and it makes me anxious. I don’t even want to think about what’s really going on.",
+          "therapist_utterance": "It sounds like you feel really anxious and scared when you think about having serious conversations with your parents. That heaviness you’re feeling seems overwhelming, especially with everything that’s happened recently. It’s understandable to want to avoid those feelings right now.",
+          "therapist_use": "Reflective Listening: used to acknowledge Issac's feelings of anxiety and overwhelm."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as the client is still avoiding deeper thoughts and feelings. The client's objective was not met as they remain resistant to discussing their emotions.",
-          "client_utterance": "Yeah, and I know I should probably talk about it, but it feels pointless. I mean, what good will come from it? I feel like I'm just stuck in this cycle of worry and sadness.",
-          "therapist_utterance": "It's understandable that you feel anxious and worried given the circumstances. Sometimes, it can feel like talking about things doesn't lead to any relief. But what do you think would happen if you allowed yourself to express some of that worry?",
-          "therapist_use": "Expressing Empathy: used to acknowledge the client's anxiety and encourage exploration of their feelings."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Issac has not yet articulated specific thoughts about his family's communication. The client objective was not met because Issac continues to resist discussing his feelings more openly.",
+          "client_utterance": "Yeah, and I keep thinking my dad is just hiding things from me. It makes me feel like I can’t trust him, which adds to everything else. I just don’t know how to deal with it.",
+          "therapist_utterance": "I hear you saying that you feel a lack of trust towards your dad, which adds to your feelings of confusion and anxiety. It can be really challenging when you feel like there’s a wall between you and your parents. How do you feel about the kind of relationship you want with them compared to how it is now?",
+          "therapist_use": "Developing Discrepancy: encouraged Issac to explore the gap between his current feelings and his desired family relationships."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met since the client still feels stuck. The client's objective was not met as they are not engaging in deeper reflection.",
-          "client_utterance": "I guess I just don’t see the point in opening up about it. It’s just going to make me feel worse, right? I feel like I can't really change anything about my family or my dad.",
-          "therapist_utterance": "It must be frustrating to feel like you have no control over these situations. I wonder how it feels to think about wanting to be closer to your family while feeling like you can't. It could be worth considering what that connection means to you.",
-          "therapist_use": "Developing Discrepancy: used to encourage the client to explore the conflict between their desire for connection and their feelings of powerlessness."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Issac has not yet begun to reflect on his feelings of resentment. The client objective was not met because Issac is still hesitant to confront his emotional state.",
+          "client_utterance": "I guess I want to feel closer to them, but it’s hard when I feel like they don’t share anything with me. I don’t want to push them away, but I also feel resentful about not knowing what’s going on.",
+          "therapist_utterance": "It sounds like you're caught between wanting to connect with your family and feeling frustrated by the lack of openness. That conflict can be really tough to navigate, especially with everything else you're dealing with. What do you think might happen if you tried to talk about how you’re feeling?",
+          "therapist_use": "Expressing Empathy: validated Issac's feelings of frustration and conflict regarding family communication."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as the client is still holding back. The client's objective was not met because they continue to resist deeper engagement.",
-          "client_utterance": "It’s just hard to think about. I want to be close to them, but it feels like every time I try, they just shut down. I feel like I’m the only one who cares enough to talk about these things.",
-          "therapist_utterance": "I can see how that would make you feel alone in this situation. It sounds like there's a lot of unspoken stuff between you and your family. What do you think your dad might be feeling about his health and not sharing it with you?",
-          "therapist_use": "Alternative Perspective: used to invite the client to consider their father's perspective and feelings."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Issac is still avoiding deeper exploration of his feelings about family dynamics. The client objective was not met because Issac has not yet engaged in any steps toward confronting his family communication issues.",
+          "client_utterance": "I don’t know. I feel like it would just make things worse. My mom’s already stressed, and I don’t want to add to it. It feels easier to just keep things as they are.",
+          "therapist_utterance": "It's understandable to want to avoid adding stress to your mom, especially during such a difficult time. Keeping the peace might feel easier right now, but it sounds like there’s a part of you that wants more connection. How do you think your beliefs about keeping the peace affect your willingness to engage in these conversations?",
+          "therapist_use": "Raising Awareness: helped Issac recognize how his beliefs impact his communication with his family."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as the client remains defensive about discussing family dynamics. The client's objective was not met as they haven’t fully opened up yet.",
-          "client_utterance": "I don’t really know. Maybe he thinks he’s protecting us by not talking about it. But it just makes me feel like I can't trust him, and that hurts.",
-          "therapist_utterance": "It sounds like you're feeling a mix of hurt and confusion about your father's intentions. It must be difficult to navigate those feelings of distrust when you want to connect. What do you think would help you feel more secure in that relationship?",
-          "therapist_use": "Reflective Listening: used to validate the client's feelings of hurt and confusion regarding their father's behavior."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Issac has not yet begun to identify specific automatic thoughts about his family. The client objective was not met because Issac continues to resist discussing the situation more openly.",
+          "client_utterance": "I guess I tell myself that if I say something, it’ll just end in a fight or make them upset. I don’t want to be the one who causes more problems. I just want to make it easier for everyone.",
+          "therapist_utterance": "That makes sense; it sounds like you’re trying to protect your family from more pain. But it can be hard when you feel responsible for everyone else's emotions. What evidence do you have that talking about these things would lead to conflict?",
+          "therapist_use": "Challenging Assumptions: facilitated a discussion about Issac's fears regarding conflict in family conversations."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met since the client is still struggling with their feelings. The client's objective was not met because they are not ready to engage further.",
-          "client_utterance": "I honestly don’t know what would help. I feel like I’m just waiting for the next bad thing to happen, and it’s hard to think about what could be better.",
-          "therapist_utterance": "It's understandable to feel stuck in that cycle of anticipating the worst. It must feel overwhelming to think of possibilities beyond the bad news. How would it feel to consider even small steps towards being more open with your family?",
-          "therapist_use": "Expressing Empathy: used to acknowledge the client's feelings of being overwhelmed and invite consideration of small steps."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Issac has not yet begun to gather evidence of positive family interactions. The client objective was not met because Issac remains focused on his fears rather than exploring positive memories.",
+          "client_utterance": "I just remember my dad being distant a lot, but there were some moments when we had good times together. I guess there were times he opened up, but it feels like a long time ago.",
+          "therapist_utterance": "It’s great that you can recall some positive moments with your dad; that’s important to recognize. Those memories can serve as a reminder that there can be connection, even amidst the challenges. What do you think makes those moments stand out for you?",
+          "therapist_use": "Gathering Evidence: encouraged Issac to reflect on positive interactions with his parents."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met as the client expressed more about their feelings and thoughts regarding family dynamics. The client's objective was met as they engaged more openly in the conversation.",
-          "client_utterance": "I guess it might feel a bit lighter if I could just talk about it. I don’t know if it would change anything, but maybe it would help me feel less burdened. I might be ready to at least think about that.",
-          "therapist_utterance": "That sounds like an important realization, Issac. It’s a positive step that you're considering the possibility of talking. Just acknowledging that can be a huge relief in itself.",
-          "therapist_use": "Encouragement: used to support the client’s openness to the idea of discussing their feelings."
+          "reason_for_ending": "MOVE - The therapist objective was met as Issac has begun to articulate his feelings and thoughts regarding communication with his family. The client objective was met as Issac is starting to understand the dynamics without feeling too overwhelmed.",
+          "client_utterance": "I think those moments mean there is a possibility for more connection, even if it feels scary. Maybe I can try to reach out and have a more honest conversation with them. I just need to figure out how to approach it.",
+          "therapist_utterance": "That’s a significant realization, Issac! Recognizing the potential for connection is a big step forward. It sounds like you’re starting to feel more empowered to engage with your family, even if it feels daunting.",
+          "therapist_use": "Reframing Thoughts: helped Issac shift towards a more balanced perspective about engaging with his family."
         }
       ]
     },
@@ -128,27 +140,30 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Issac's ambivalence about addressing family health issues and strengthen his motivation for change.",
+          "objective": "Explore Issac's ambivalence regarding discussing his father's health and strengthen his motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Engage Issac in a discussion about his feelings regarding his father's health and the impact on his family dynamics.",
-                "Encourage him to express both his desire for change and his fears of change, validating these feelings."
+                "Ask Issac open-ended questions about his feelings toward initiating conversations with his parents about serious topics.",
+                "Encourage Issac to express both his fears and desires regarding these discussions.",
+                "Validate his feelings of conflict, reinforcing that it’s normal to feel torn between wanting to connect and fearing the outcome."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask open-ended questions that prompt Issac to express reasons he might want to address the issues, such as 'What do you think could be different if you felt more connected to your family?'",
-                "Listen reflectively to his responses, highlighting any positive statements he makes about change."
+                "Prompt Issac to articulate reasons why he might want to engage in family discussions about health.",
+                "Reinforce any positive statements he makes about wanting to be more connected or open with his parents.",
+                "Use reflective listening to emphasize his motivations and strengths."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Decisional Balance",
               "instructions_for_therapist": [
-                "Facilitate a discussion about Issac's values related to family relationships and how they compare to his current behaviors of disengagement.",
-                "Help him identify any discrepancies between his values and his current actions."
+                "Facilitate a discussion on the pros and cons of discussing his father's health issues.",
+                "Help Issac identify discrepancies between his values (family connection) and current behavior (disengagement).",
+                "Encourage him to weigh the emotional risks and benefits of pursuing open dialogue."
               ]
             }
           ]
@@ -156,84 +171,80 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Pros and Cons Analysis",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Guide Issac in identifying the pros and cons of discussing family health issues with his parents.",
-                "Use a visual aid to create a list that he can reflect on during and after the session."
+                "Introduce the concept of cognitive distortions and help Issac identify specific automatic thoughts during interactions with his mother.",
+                "Challenge these thoughts through evidence-based questioning, prompting him to gather evidence that contradicts his beliefs about his mother's calls.",
+                "Guide him in reframing negative thoughts into more balanced perspectives, reinforcing his capacity to handle difficult conversations."
               ]
             },
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Behavioral Activation",
               "instructions_for_therapist": [
-                "Encourage Issac to challenge his automatic thoughts about potential negative outcomes of conversations with his parents.",
-                "Ask him to consider the worst-case scenario and explore how likely that is to happen."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Issac to consider evidence for and against his belief that his father conceals health issues from him.",
-                "Encourage critical thinking about the validity of his assumptions."
+                "Encourage Issac to set small, achievable goals for initiating light conversations with his parents.",
+                "Discuss how these interactions can serve as stepping stones toward addressing more serious topics.",
+                "Reinforce the idea that gradual exposure can build confidence and strengthen family bonds."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In planning this therapy session, I first identified Issac's ambivalence regarding addressing his father's health issues, which is critical given his current resistance and emotional state. I chose Motivational Interviewing strategies to explore this ambivalence, starting with exploring his feelings about family dynamics and change. This allows him to articulate his desire for connection while voicing fears, setting the stage for eliciting change talk. By developing discrepancy between his values and current behaviors, I aim to enhance his self-awareness and motivation. For the CBT interventions, I selected Pros and Cons Analysis to visualize his thoughts about engaging with his family, promoting reflection. Decatastrophizing helps challenge his negative automatic thoughts, reducing anxiety around potential conversations. Finally, Evidence-Based Questioning fosters critical reflection on his assumptions about his father, addressing feelings of helplessness. This structured approach aligns with his contemplation phase, supporting insight without pushing him towards action planning.",
-        "progress_marker": "Issac expresses greater clarity about his feelings and begins to verbalize potential motivations for change."
+        "therapist_reasoning": "To facilitate Issac's progress in the contemplation phase, I will begin by applying Motivational Interviewing strategies to explore his ambivalence about discussing his father's health. I will ask open-ended questions to elicit his feelings and desires, validating his fears while emphasizing the normalcy of his conflict. By facilitating a decisional balance discussion, I aim to help Issac recognize discrepancies between his values and current behaviors, thus enhancing his motivation for change. Concurrently, I will incorporate CBT techniques by introducing cognitive restructuring to address his negative automatic thoughts during these family interactions. Through evidence-based questioning, I will assist him in gathering supportive evidence that challenges his beliefs, fostering a more balanced perspective. Lastly, I will employ behavioral activation by encouraging Issac to gradually initiate lighter conversations, reinforcing his self-efficacy in handling difficult topics. This dual approach aims to build his readiness to engage in meaningful family discussions while respecting his current emotional resistance.",
+        "progress_marker": "Issac expresses a willingness to explore his feelings about his father's health and articulates reasons for wanting to improve communication with his family."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my father's health and my role in the family without feeling overwhelmed.",
+        "client_objective": "I hope to understand my feelings about my family's health and my role in supporting them.",
         "client_state": {
-          "awareness": "I recognize that my father's health issues and my family's dynamics are affecting me, but I'm not sure how to deal with them.",
-          "motivation": "I want to change how I cope with my feelings, but I'm afraid of facing the reality of my family's situation.",
-          "openness": "I'm somewhat willing to share my thoughts and emotions, but I still feel hesitant to delve deep into the heavy topics.",
-          "resistance": "I feel a strong sense of sadness and reluctance to confront these issues, which makes me want to avoid them entirely."
+          "awareness": "I am starting to see that my father's health issues and my feelings of helplessness are connected, but I struggle to articulate this.",
+          "motivation": "I want to make changes, but I often doubt my ability to cope with these changes and feel overwhelmed by the situation.",
+          "openness": "I feel somewhat willing to share my thoughts with the therapist, but I still hold back due to fear of vulnerability and sadness.",
+          "resistance": "I experience significant resistance, feeling sad and overwhelmed by the prospect of change, which makes me want to disengage."
         },
-        "client_reasoning": "Lately, I've been starting to see how much my father's health and my family's communication—or lack thereof—affect me. I notice that I feel anxious and distant during conversations, especially when my mom calls with bad news about my dad. It’s like my mind is torn; part of me wants to address these issues and understand what’s really going on, but another part is terrified of what I might uncover. I feel overwhelmed by the thought of having serious talks with my parents, especially since my dad tends to keep things to himself. Therapy is helping me reflect on these feelings, but I still don’t know if I can handle the weight of these conversations. I feel sad about the idea of change, fearing that it might lead to confrontation or even more pain. I’m stuck between wanting to improve my situation and fearing that I can't cope with the reality of it all."
+        "client_reasoning": "Lately, I've been reflecting on my family's health issues, especially my father's problems, and how they affect me. I recognize that I often feel anxious and worried when my mom calls with bad news; it's like I only hear from her when something is wrong. There’s a part of me that wants to talk about these feelings and figure out how to support my parents, but I also feel this heavy weight of sadness and fear. What if I can't handle it? What if I open up and it just makes everything worse? I notice that I withdraw and distract myself with TV instead of facing these feelings, but I know this isn't a solution. Therapy is helping me to reflect more deeply, but I still feel conflicted. I want to change, yet I’m scared of what that change means for me and my family.",
+        "progress_marker": "The client is beginning to identify patterns in their emotions and thoughts but is still struggling with the fear of change."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP, therapist objective not met as no significant exploration of family health issues occurred, client objective not met as Issac still feels overwhelmed by his father's health.",
-          "client_utterance": "I guess I'm still worried about how to approach my dad about his health. I want to understand what's going on, but I just feel so anxious about it. What if he shuts down again, or it leads to an argument?",
-          "therapist_utterance": "It's understandable to feel anxious about that possibility. It sounds like you're caught between wanting to know more and fearing the potential fallout from those conversations. What do you think could be different if you felt more connected to your family during these discussions?",
-          "therapist_use": "Open-ended question: to encourage Issac to explore potential benefits of connection."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met as the exploration of ambivalence is still ongoing. The client has not yet articulated their fears and desires regarding family discussions.",
+          "client_utterance": "I’ve been thinking about how my dad’s health is really weighing on me, and I feel like I want to say something, but it’s so hard to find the right words. I worry that if I bring it up, it might just cause more strain. It feels like a risk to open that door.",
+          "therapist_utterance": "It sounds like you’re feeling the weight of your dad’s health issues, and there’s a part of you that wants to address it. It's understandable to feel hesitant about opening up that conversation, especially considering the potential emotional risks. Can you share more about what specifically worries you about bringing it up with him?",
+          "therapist_use": "Open-ended questioning: aimed to explore Issac's feelings about discussing his father's health."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met as ambivalence about connecting with family remains unexamined, client objective not met as Issac still feels stuck in his worries.",
-          "client_utterance": "I think if I felt more connected, maybe it wouldn’t be so scary to talk about these things. But right now, I just feel like I’m walking on eggshells. I don’t want to push my dad away even more.",
-          "therapist_utterance": "It sounds like maintaining that connection is really important to you, yet the fear of pushing him away is holding you back. It's a tough position to be in. What do you think would help you feel a little more comfortable starting that conversation?",
-          "therapist_use": "Reflective listening: to validate Issac's feelings and encourage him to think through actionable steps."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met as the client is still feeling conflicted about the conversation. The client has not yet expressed their desires for connection clearly.",
+          "client_utterance": "I guess I just fear that if I bring it up, he’ll shut down like he usually does, and I’ll feel even more frustrated. I don’t want to push him away, but at the same time, I want to feel like we’re in this together. It’s hard to balance those feelings.",
+          "therapist_utterance": "It’s really tough when you want to connect but also fear being met with distance. You seem to be caught between wanting to support him and worrying about how he might respond. What do you think would happen if you expressed your desire to feel more connected?",
+          "therapist_use": "Reflective listening: used to validate Issac's feelings of conflict and to encourage deeper reflection."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met as Issac hasn’t identified specific actions to take, client objective not met as he still feels hesitant to engage his father.",
-          "client_utterance": "I'm not really sure. Maybe if I could just ask him casually how he's been feeling. But what if he gets defensive or just brushes me off?",
-          "therapist_utterance": "It makes sense to worry about how he might react, especially if he tends to keep things to himself. It sounds like you want to approach him gently but are afraid of possible negative responses. What do you think might happen if that conversation goes better than you expect?",
-          "therapist_use": "Eliciting change talk: to help Issac visualize a more positive outcome and reduce fear."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met because the client hasn't articulated specific reasons for wanting to engage in conversations. The client still feels overwhelmed by the situation.",
+          "client_utterance": "I think if I could just tell him how much I care and how worried I am, maybe it would help. But then I think about how he might react and it stops me. I don’t want to make things worse for either of us.",
+          "therapist_utterance": "It sounds like you recognize the importance of expressing your care, which is a positive step. However, it’s also understandable to fear a negative reaction. How do you think your dad might respond if you shared your feelings with him?",
+          "therapist_use": "Exploring ambivalence: aimed to encourage Issac to articulate both his fears and desires regarding family discussions."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met as there is still significant fear surrounding the conversation, client objective not met as Issac has not articulated a plan to engage.",
-          "client_utterance": "I guess it could help if he opened up a little. But I just keep thinking about how he might react and that makes me want to avoid it even more. It's like I'm stuck in this loop of worry.",
-          "therapist_utterance": "It's understandable to feel stuck in that loop, especially with so much at stake. You want to connect, but the fear of confrontation holds you back. How might it feel to explore what you would want to say if you could get past that fear?",
-          "therapist_use": "Exploring ambivalence: to guide Issac in recognizing his desire for connection while addressing his fears."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met as the client has not yet weighed the pros and cons of discussing their father's health. The client is still grappling with fear and uncertainty.",
+          "client_utterance": "I guess part of me thinks that if I say something, it could either bring us closer or create more distance. But I can’t ignore that I want to feel like I’m doing something to help. It’s just so difficult to see a way forward.",
+          "therapist_utterance": "You’re really reflecting on the potential outcomes of these conversations, which is a crucial part of this process. It sounds like there are both risks and benefits to consider. What do you think are the pros and cons of initiating that conversation with your dad?",
+          "therapist_use": "Decisional balance: aimed to facilitate a discussion on the pros and cons of discussing his father's health issues."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met as Issac has not yet fully confronted his fears, client objective not met as he still feels overwhelmed by the situation.",
-          "client_utterance": "I think if I could just express my concern without it turning into a fight, that would be a start. But I still don’t know if I have the courage to do that.",
-          "therapist_utterance": "Recognizing that desire for a calm conversation is a valuable insight. It sounds like you want to express your concerns but are feeling unsure about how to approach it. What might help you feel more prepared for that conversation?",
-          "therapist_use": "Pros and cons analysis: to help Issac weigh his thoughts on engaging with his father."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met because the client has not yet fully recognized discrepancies between their values and current behavior. The client still needs encouragement to voice their feelings.",
+          "client_utterance": "The pros are that I could feel more connected and maybe help him, but the cons are that I might just end up feeling rejected. I want to be there for my family, but I also don’t want to be the one causing more pain.",
+          "therapist_utterance": "It’s clear that you value family connection, and it’s understandable to fear rejection. Recognizing those feelings is an important part of understanding your role in supporting your family. How do you think you can approach this conversation in a way that feels safe for you?",
+          "therapist_use": "Eliciting change talk: aimed to prompt Issac to articulate reasons for wanting to engage in family discussions about health."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met as there is still no clear strategy for Issac to prepare for the conversation, client objective not met as he has not articulated steps to take.",
-          "client_utterance": "Maybe if I wrote down what I wanted to say beforehand, I could feel more prepared. But then I worry that my dad won’t respond well, and I’ll just feel worse.",
-          "therapist_utterance": "Writing down your thoughts is a great strategy to feel more organized and less anxious. It's also understandable to worry about your father's reaction. Can we explore what specific concerns you might express to him that could open up the conversation?",
-          "therapist_use": "Decatastrophizing: to help Issac challenge his negative thoughts about potential outcomes."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met as the client has not yet taken action steps or set achievable goals for initiating conversations. The client still feels weighed down by fear.",
+          "client_utterance": "Maybe if I started with something small, like just asking how he’s doing, that could be a step. I realize I’ve been avoiding those small interactions. It feels less risky to ease into it.",
+          "therapist_utterance": "That’s a great realization! Starting with small, manageable conversations can help build your confidence to address more serious topics later. How do you feel about setting a goal for yourself to initiate a light conversation with your dad this week?",
+          "therapist_use": "Behavioral activation: aimed to encourage Issac to set small, achievable goals for initiating light conversations with his parents."
         },
         {
-          "reason_for_ending": "MOVE, therapist objective met as Issac has begun to articulate steps towards communication, client objective met as he feels more empowered to consider approaching his father.",
-          "client_utterance": "I think I could start by just asking how he’s doing and maybe share my own feelings about being worried. It feels less daunting to think about it that way. I really want to try to connect with him.",
-          "therapist_utterance": "That sounds like a very thoughtful approach, Issac. It’s a positive step that you’re considering starting the conversation in a gentle way. Remember, taking that first step can lead to meaningful change in your relationship with your father.",
-          "therapist_use": "Affirmation: to reinforce Issac's willingness to engage and recognize his progress."
+          "reason_for_ending": "MOVE: The therapist's objective was met as Issac is exploring his feelings about his father's health and expressing a willingness to improve communication. The client objective was met as Issac is starting to see a path towards supporting his family.",
+          "client_utterance": "I think I can try that. Just asking how he’s doing feels like a good first step. I’m starting to see that I can handle these conversations, even if they’re tough.",
+          "therapist_utterance": "That’s wonderful, Issac! Taking that first step can open up more communication and connection, and it sounds like you’re feeling more empowered. Remember, it’s okay to take your time with this process.",
+          "therapist_use": "Affirmation: used to reinforce Issac's progress and motivation for change."
         }
       ]
     },
@@ -242,30 +253,29 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Issac's commitment to change by exploring his motivations and identifying supports.",
+          "objective": "Strengthen Issac's commitment to engage in conversations about family health issues and to take actionable steps towards improving communication within the family.",
           "strategies": [
             {
-              "strategy_name": "Strengthening commitment language",
+              "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Issac to articulate why he wants to engage in conversations with his parents about health issues.",
-                "Encourage him to express the benefits he sees in taking action to improve family communication.",
-                "Reflect back his statements of commitment to highlight his desire for change."
+                "Encourage Issac to articulate his reasons for wanting to improve communication with his parents, highlighting the importance of family support.",
+                "Ask open-ended questions to explore what changes he envisions and how they align with his values.",
+                "Validate his feelings of sadness and overwhelm, reinforcing that it’s normal to feel this way, and acknowledge his desire for change."
               ]
             },
             {
-              "strategy_name": "Exploring confidence and readiness",
+              "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss with Issac his feelings about initiating conversations with his parents.",
-                "Use scaling questions to evaluate his confidence in approaching these discussions (e.g., 'On a scale from 1 to 10, how ready do you feel to talk to your dad about his health?').",
-                "Encourage him to identify past successes that can boost his confidence."
+                "Discuss Issac's feelings about initiating conversations and assess his confidence level on a scale from 1 to 10.",
+                "Explore past experiences where he successfully communicated with family, reinforcing his capability.",
+                "Help him identify specific small steps he feels ready to take towards initiating discussions."
               ]
             },
             {
-              "strategy_name": "Identifying supports and resources",
+              "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Issac identify supportive individuals in his life who can assist him in this process.",
-                "Discuss potential community resources or support groups that might be beneficial.",
-                "Reinforce the idea that he does not have to handle this alone."
+                "Encourage Issac to identify supportive individuals in his life who can help facilitate discussions or offer emotional support.",
+                "Discuss potential resources such as books on communication or family health issues that could aid his understanding and readiness."
               ]
             }
           ]
@@ -273,79 +283,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Collaboratively create a step-by-step action plan with Issac for how he will approach conversations with his parents.",
-                "Break down the steps into manageable tasks (e.g., 'Write down questions you want to ask,' 'Set a time to talk with your mom first').",
-                "Encourage Issac to set specific timelines for these tasks to enhance commitment."
+                "Initiate a discussion about the recent phone call with his mother, focusing on the feelings experienced and the cognitive distortions identified.",
+                "Guide Issac in identifying automatic thoughts linked to the call and collaboratively challenge these thoughts with evidence-based questioning.",
+                "Reframe negative thoughts into more balanced perspectives and practice these reframed thoughts in role-play scenarios."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Behavioral Activation",
               "instructions_for_therapist": [
-                "Work with Issac to identify potential barriers he may encounter when discussing health issues.",
-                "Guide him in brainstorming solutions to these barriers (e.g., if his father is unresponsive, how can he approach the topic differently?).",
-                "Role-play scenarios to practice these conversations, enhancing his comfort and skill."
+                "Set specific, achievable goals for initiating light conversations with parents, gradually increasing the depth of discussions.",
+                "Encourage Issac to prepare for these conversations by writing down topics he feels comfortable discussing.",
+                "Discuss coping strategies for managing anxiety during these conversations, reinforcing that it's okay to feel nervous."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Issac's preparation phase, I began by identifying his core beliefs and resistance patterns, recognizing his feelings of helplessness and emotional overwhelm. Using MI strategies, I emphasized strengthening his commitment to change by encouraging him to articulate his motivations for engaging with his parents about health matters. This not only reinforces his internal drive but also allows him to explore his confidence and readiness to act. I followed this by identifying supports and resources in his life, tapping into his existing social network to foster a sense of community. CBT techniques such as action planning help break down the intimidating process of initiating conversations into manageable steps, making the tasks feel less overwhelming. Problem-solving skills training will allow Issac to anticipate potential barriers and develop coping strategies, addressing his fears of failure. Overall, this structured approach aims to empower Issac, increase his self-efficacy, and prepare him for actionable change.",
-        "progress_marker": "Issac successfully initiates at least one conversation with his mother about health issues, reflecting on his feelings and thoughts afterward."
+        "therapist_reasoning": "In developing Issac's therapy plan, I first considered his emotional state and resistance profile. Given his sadness and feelings of overwhelm, I utilized Motivational Interviewing strategies to strengthen his commitment to change by exploring his motivations for better communication with his family. By validating his emotions and encouraging him to articulate his reasons for change, I aimed to bolster his intrinsic motivation. I then assessed his confidence level regarding initiating conversations, which allowed me to address his fears directly and suggest small, manageable steps forward. In the CBT plan, I incorporated cognitive restructuring to help him identify and challenge negative automatic thoughts related to his family communication. This was complemented by behavioral activation, where I set specific goals for initiating conversations, thus ensuring that the action plan remains realistic and achievable. Overall, the integration of MI and CBT techniques is designed to empower Issac, addressing both his emotional barriers and practical concerns in a collaborative manner.",
+        "progress_marker": "Issac successfully initiates at least one light conversation with his parents and reports back on his feelings and experiences during the process."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore ways to communicate better with my parents about their health and my feelings.",
+        "client_objective": "I hope to explore my feelings about my father's health and my family's situation to find a way to cope better.",
         "client_state": {
-          "awareness": "I recognize that my father's health issues are serious, and my emotional distance from him is affecting our family dynamics.",
-          "motivation": "I feel a strong desire to improve my relationship with my parents and address the underlying issues in our communication.",
-          "openness": "I am becoming more willing to discuss my feelings and thoughts about my family's situation, though I still struggle to express them.",
-          "resistance": "I experience doubts about my ability to initiate difficult conversations, and I fear that my efforts might not lead to meaningful change."
+          "awareness": "I recognize that my family's health issues, especially my father's, are affecting my emotional well-being and my ability to communicate.",
+          "motivation": "I'm starting to feel a stronger desire to improve my situation and find healthier ways to cope with my emotions.",
+          "openness": "I'm willing to discuss my thoughts and fears with my therapist, but I still find it hard to articulate my feelings about my father's health.",
+          "resistance": "I experience significant hesitation when faced with the thought of addressing my father's health issues, feeling overwhelmed by sadness and fear of the unknown."
         },
-        "client_reasoning": "I've started to see how my father's health issues have created a barrier between us, leaving me feeling helpless and unlovable. I know that if I want to maintain my family's harmony and support my parents better, I need to engage more openly with them. Therapy has helped me realize that change is not just possible, but necessary for my well-being and for the sake of my family. I want to learn how to express my concerns and feelings without feeling overwhelmed. However, I still worry that my father won't be receptive or that I might make things worse. It's a lot to process, but I'm starting to feel a sense of cautious optimism about taking these steps, even if it feels daunting."
+        "client_reasoning": "I've come to realize that my father's health problems and the recent losses in my family are deeply affecting me. I can't ignore how anxious and fearful I've been, especially when my mom calls with bad news; it feels like a weight on my chest. I know I need to address these feelings and find a way to cope better, especially since I can't keep using distractions like TV to escape. Therapy has helped me see that change is necessary, and I want to find a way to communicate more openly with my parents. However, I still feel a lot of doubt about whether I can handle these conversations without feeling overwhelmed. It's tough to shake the belief that I'm alone in dealing with this, but there's a glimmer of hope that I can learn to express my feelings and support my family better."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP, the therapist objective was not met as Issac hasn't articulated his motivations yet, and the client objective was not met because he hasn't explored ways to communicate better.",
-          "client_utterance": "I'm still feeling anxious about how to start the conversation with my dad. I want to ask about his health, but I fear it'll just lead to more tension. I want to connect with him, but I don't know how to bridge that gap.",
-          "therapist_utterance": "It's understandable to feel anxious about starting that conversation, especially with so much at stake. You want to connect, but the fear of conflict is holding you back. What do you think it would look like to approach him in a way that might feel safe for both of you?",
-          "therapist_use": "Open-ended question: to encourage Issac to think about a safe approach."
+          "reason_for_ending": "KEEP: Therapist objective not met because Issac hasn't yet articulated his reasons for wanting to improve communication. Client objective not met because Issac still feels hesitant and overwhelmed about addressing family health issues.",
+          "client_utterance": "I keep thinking about how to start a conversation with my dad, but I just feel so stuck. It’s like I want to reach out, but the fear of how he might react stops me. I don’t want to make things worse, but I also want him to know I care.",
+          "therapist_utterance": "It's understandable to feel that way, Issac. You’re caught in a tough spot between wanting to connect and fearing a negative reaction. What do you think is holding you back the most when you think about approaching him?",
+          "therapist_use": "Open-ended question: Encouraging Issac to explore his feelings about approaching his dad."
         },
         {
-          "reason_for_ending": "KEEP, the therapist objective was not met since Issac hasn't expressed the benefits he sees in improving the communication, and the client objective was not met as he hasn't identified specific strategies yet.",
-          "client_utterance": "I guess I could start by just asking how he's been feeling, but I worry it might spiral into a conflict. I want to express my concern without making him feel attacked, but it feels really hard to do that. Sometimes I think it would be easier to just let things be.",
-          "therapist_utterance": "Letting things be might feel easier in the moment, but it sounds like you really care about your dad's well-being and your relationship with him. It’s clear that you want to approach this delicately. If you could express your worries without fear of conflict, what do you think that conversation could look like?",
-          "therapist_use": "Affirmation: to validate Issac's feelings and encourage him to envision a positive outcome."
+          "reason_for_ending": "KEEP: Therapist objective not met because Issac hasn't fully explored his motivations for wanting to connect. Client objective not met because he still expresses significant hesitation about starting the conversation.",
+          "client_utterance": "I guess I worry that if I ask how he’s doing, it might just lead to a deeper conversation that I’m not ready for. I want to be supportive, but part of me feels like I’m not equipped to handle whatever comes next. It just feels overwhelming.",
+          "therapist_utterance": "That’s a valid concern. You’re recognizing that starting small might help ease the tension, but it’s also okay to feel overwhelmed by the thought of deeper discussions. How can you prepare yourself to feel more comfortable with those small interactions?",
+          "therapist_use": "Reflective listening: Validating Issac’s feelings while encouraging him to consider preparation for small conversations."
         },
         {
-          "reason_for_ending": "KEEP, the therapist objective was not met as Issac hasn't scaled his confidence in approaching his dad yet, and the client objective was not met because he hasn't identified any supports.",
-          "client_utterance": "I think if I could just share my feelings about being worried, that might help. But I still feel like I don’t know if I can really make him open up. What if he just shuts down again? It feels like a big risk.",
-          "therapist_utterance": "It makes sense to feel that way, especially given your past experiences with these conversations. Risking rejection can be daunting. On a scale from 1 to 10, how ready do you feel to take that first step and reach out to him? What could help raise that number?",
-          "therapist_use": "Scaling question: to assess Issac's readiness and encourage him to identify supports."
+          "reason_for_ending": "KEEP: Therapist objective not met because Issac has not yet identified specific steps he feels ready to take. Client objective not met because he is still struggling with clarity on how to initiate communication.",
+          "client_utterance": "Maybe if I wrote down what I want to ask him, it would help. I could plan out some light topics that feel less risky to start with. But then I think, what if he still shuts down?",
+          "therapist_utterance": "Writing down your thoughts can be a great way to prepare. It sounds like you’re trying to anticipate his reactions, which shows you care about how he feels too. What topics do you think would feel safe for you to start with?",
+          "therapist_use": "Encouragement of behavioral activation: Helping Issac identify specific, achievable goals for initiating conversations."
         },
         {
-          "reason_for_ending": "KEEP, the therapist objective was not met as Issac hasn't mentioned any supportive individuals yet, and the client objective was not met because he hasn't fully explored his feelings on readiness.",
-          "client_utterance": "I think maybe I’m at a 5. I want to talk to him, but I also feel like I might just end up frustrated. I guess I could talk to my mom first for support, but I worry she might not understand either.",
-          "therapist_utterance": "It's good to recognize that you're at a 5; that means there's room for growth. Talking to your mom could be a great first step, and it might help you feel more prepared. What do you think you could share with her that might open up the conversation about your dad?",
-          "therapist_use": "Reflective listening: to validate Issac’s feelings and encourage exploration of his support system."
+          "reason_for_ending": "KEEP: Therapist objective not met because Issac hasn't fully articulated his reasons for wanting to improve family communication. Client objective not met because he still has doubts about the effectiveness of his approach.",
+          "client_utterance": "I think I could start with something simple, like asking about his day or sharing something light. But I still worry he might just shut down like usual, and I don’t want to feel rejected.",
+          "therapist_utterance": "It’s great that you’re thinking of simple topics to start with. It shows you want to engage without overwhelming yourself or him. How do you feel about the idea of practicing this approach, even if it feels a bit scary?",
+          "therapist_use": "Empowerment through exploration: Encouraging Issac to practice his approach while validating his feelings of fear."
         },
         {
-          "reason_for_ending": "KEEP, the therapist objective was not met since Issac hasn't articulated specific steps yet, and the client objective was not met because he hasn't made a clear action plan.",
-          "client_utterance": "I could ask her about how she's feeling regarding Dad’s health and maybe share my feelings about wanting to connect better. It's just hard to know where to start, and I still feel that fear of rejection.",
-          "therapist_utterance": "That sounds like a thoughtful approach, Issac. Starting by checking in with your mom could help set a tone of openness. Let’s think about some specific questions you could ask her that might help prepare you for talking to your dad.",
-          "therapist_use": "Action Planning: to help Issac create a concrete step towards his goal."
+          "reason_for_ending": "KEEP: Therapist objective not met because Issac has not yet expressed confidence in initiating a conversation. Client objective not met because he still feels unsure about how to proceed.",
+          "client_utterance": "I guess practicing might help me feel more ready, but I still feel that weight of uncertainty. I want to believe this can work, but what if it doesn’t go as I hope? It’s hard to shake the doubts.",
+          "therapist_utterance": "It’s completely normal to have doubts, especially when it comes to family dynamics. You’re being very honest about your feelings, which is a strong step towards change. What do you think might help you manage those doubts as you prepare to reach out?",
+          "therapist_use": "Cognitive restructuring: Helping Issac identify and challenge his doubts while exploring coping strategies."
         },
         {
-          "reason_for_ending": "KEEP, the therapist objective was not met as Issac hasn't fully engaged in problem-solving potential barriers, and the client objective was not met as he hasn't identified a clear timeline for his actions.",
-          "client_utterance": "Maybe I could write down some questions before I talk to her, like asking how she feels about Dad’s health and if she’s noticed any changes. I think that would help me feel more ready, but I still worry about how she'll react.",
-          "therapist_utterance": "Writing down your questions is a great strategy, and it shows you're taking this seriously. It’s normal to feel apprehensive about her reaction, but it sounds like you really want to connect. What timeline do you think would work for you to have this conversation with your mom?",
-          "therapist_use": "Timeline setting: to help Issac commit to a specific action plan."
+          "reason_for_ending": "KEEP: Therapist objective not met because Issac has not yet committed to taking action. Client objective not met because he still expresses uncertainty about initiating conversations.",
+          "client_utterance": "I don't know, maybe just reminding myself that it’s okay to feel anxious could help. I keep thinking that if I take that first step, it might lead to something good, but I’m still scared. What if I can’t handle it?",
+          "therapist_utterance": "That’s a wise perspective, and it’s okay to feel anxious. Remember, taking one small step doesn’t mean you have to have everything figured out at once. What do you think would be a realistic first step you could commit to this week?",
+          "therapist_use": "Goal setting: Encouraging Issac to commit to a realistic first step towards having a conversation."
         },
         {
-          "reason_for_ending": "MOVE, the therapist objective was met as Issac has articulated his motivations for improving communication, and the client objective was met as he has outlined a clear plan to talk to his mom.",
-          "client_utterance": "I think I could try to talk to her this weekend. If I can just get past that initial hurdle, maybe it will be easier to talk to Dad afterward. I’m feeling a bit more hopeful about it now.",
-          "therapist_utterance": "That’s a fantastic plan, Issac! Setting a timeline makes it feel more concrete, and your optimism is a strong sign of progress. Remember, each step you take is moving you closer to the connection you desire with your family.",
-          "therapist_use": "Encouragement: to reinforce Issac's commitment and progress towards his goals."
+          "reason_for_ending": "MOVE: Therapist objective met because Issac has started to articulate a specific step towards communication. Client objective met because he feels ready to take action by committing to a conversation.",
+          "client_utterance": "I think I can commit to just asking him how he’s doing this week. It feels like a small enough step that I can handle, and it might open the door for more. I’m starting to feel like this could work.",
+          "therapist_utterance": "That’s wonderful, Issac! Committing to that first step is a significant move towards improving your connection with your dad. You’re showing a lot of courage in facing this, and I believe it will lead to more opportunities for deeper conversations.",
+          "therapist_use": "Affirmation of commitment: Validating Issac’s readiness to take action and reinforcing his progress."
         }
       ]
     }

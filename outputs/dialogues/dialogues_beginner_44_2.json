@@ -12,30 +12,35 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase awareness about the client's feelings and beliefs regarding her family dynamics and relationships.",
+          "objective": "Build awareness of feelings and thoughts regarding family dynamics and potential reconnections.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Elena's concerns and feelings without interrupting.",
-                "Reflect back her emotions and thoughts to validate her experiences, such as saying, 'It sounds like you feel really hurt and disappointed by past interactions.'",
-                "Encourage her to elaborate on her feelings and thoughts about reaching out to estranged individuals."
+                "Listen actively to Elena's concerns about her family and the estranged individual.",
+                "Reflect back her feelings of disappointment and hurt to validate her emotional experience.",
+                "Encourage her to explore her feelings about reaching out without judgment."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge the difficulty of her situation and express understanding of her feelings of helplessness and frustration.",
-                "Say statements like, 'I can see how overwhelming this must feel for you, especially with your family dynamics.'",
-                "Reassure her that it's okay to feel conflicted about reaching out."
+                "Acknowledge the complexity of her emotions and the conflict she feels about potentially reaching out.",
+                "Use empathetic statements that show understanding of her fears and hesitations."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the values that Elena holds dear and how they might contrast with her current experiences in family relationships.",
-                "Ask open-ended questions like, 'What does being treated with respect mean to you, and how does that relate to your current interactions?'",
-                "Encourage her to reflect on any discrepancies she feels between her values and current behaviors."
+                "Help Elena identify the discrepancy between her desire for connection and her fear of being hurt.",
+                "Encourage her to articulate what values or beliefs she holds about relationships and how they may conflict with her current situation."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Prompt her to reflect on past experiences with the estranged individual, focusing on both positive and negative interactions.",
+                "Encourage her to consider the possibility of change in herself and others, without pushing for a decision."
               ]
             }
           ]
@@ -43,87 +48,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identifying Automatic Thoughts",
               "instructions_for_therapist": [
-                "Encourage Elena to examine her automatic thoughts about reaching out, such as, 'What evidence do you have that this person might not be genuine?'",
-                "Guide her to consider alternative outcomes by asking, 'Have there been times when people have surprised you positively?'",
-                "Help her to weigh the pros and cons of potential interactions."
+                "Introduce the concept of automatic thoughts, specifically focusing on her thought regarding the estranged individual's potential apology.",
+                "Encourage her to express her thought and the emotions associated with it."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Challenging Cognitive Distortions",
               "instructions_for_therapist": [
-                "Ask Elena to describe a specific past interaction with the estranged individual and identify what happened.",
-                "Support her in analyzing the situation and what she can learn from it, asking questions like, 'What did you notice about how you felt during that time?'",
-                "Encourage her to consider if her belief that 'nothing will change' is truly valid."
+                "Guide Elena in examining evidence supporting and contradicting her automatic thought.",
+                "Encourage her to identify cognitive distortions such as overgeneralization and catastrophizing."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Generating Alternative Thoughts",
               "instructions_for_therapist": [
-                "Encourage her to think about the situation from the estranged individual's perspective.",
-                "Ask, 'If you were in their shoes, how might you feel about your past interactions?'",
-                "This can help her gain insight into the complexity of relationships and reduce black-and-white thinking."
+                "Facilitate a discussion where she can create alternative, more balanced thoughts about the estranged individual's potential actions.",
+                "Help her articulate these thoughts in a way that feels less threatening."
+              ]
+            },
+            {
+              "technique_name": "Evaluating Emotional Impact",
+              "instructions_for_therapist": [
+                "Discuss how the alternative thoughts affect her feelings compared to her initial thoughts.",
+                "Encourage her to reflect on how these new perspectives might lead to different emotional responses."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Elena's therapy, the primary focus is to foster a safe environment for her to explore her thoughts and emotions without feeling pressured to change. I will employ reflective listening to validate her feelings of disappointment and hurt regarding her family dynamics, thus building rapport. Expressing empathy is crucial to help her feel understood, especially as she navigates feelings of helplessness. By developing discrepancy, I aim to gently highlight any contradictions between her personal values and current relationship patterns, encouraging her to reflect on what she truly desires. The CBT interventions will complement this approach by helping her examine her automatic thoughts through evidence-based questioning, promoting self-awareness without pushing for immediate change. Reality testing will allow her to reflect on past experiences and evaluate the validity of her beliefs. Finally, introducing alternative perspectives will help her consider the complexities of human interactions, which may reduce her rigid beliefs about others taking advantage of her. This structured yet gentle approach respects her resistance while facilitating initial stages of self-reflection.",
-        "progress_marker": "Elena begins to express more curiosity about her feelings and the possibility of change, showing signs of engagement in sessions."
+        "therapist_reasoning": "In this session, my primary goal is to establish a safe and trusting environment for Elena, who is in the Pre-contemplation phase and exhibits resistance through withdrawal. I will employ reflective listening to validate her feelings of disappointment and hurt, helping her feel heard and understood. By expressing empathy, I aim to connect with her experiences, facilitating a deeper exploration of her thoughts and emotions regarding her family dynamics. Using Motivational Interviewing, I will develop discrepancy by helping her articulate her values about relationships versus her current avoidance behavior. I will also raise awareness of her past interactions with the estranged individual to prompt reflection. In conjunction with this, I will incorporate CBT techniques by guiding her to identify automatic thoughts and cognitive distortions, challenging her beliefs through evidence-based questioning. This approach allows her to generate alternative thoughts without pushing for immediate change, thereby aligning with her resistance profile and fostering curiosity about her situation.",
+        "progress_marker": "Elena begins to articulate her feelings and beliefs about her family relationships, showing increased awareness of her automatic thoughts and emotional responses."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to find a way to understand my feelings without being pressured to change.",
+        "client_objective": "I want to understand why I feel so overwhelmed without having to confront the issues directly.",
         "client_state": {
-          "awareness": "I recognize that there are issues with my family dynamics, but I'm not sure they can be changed.",
-          "motivation": "I feel a sense of hopelessness about my situation, so I don't really want to change.",
-          "openness": "I struggle to share my true feelings because I worry about being judged or misunderstood.",
-          "resistance": "I often feel defensive and withdrawn when the topic of my family or my feelings comes up."
+          "awareness": "I know there are problems with my family and relationships, but I don’t really see them as something I need to change right now.",
+          "motivation": "I don’t feel like I want to change anything; it feels like too much work and I’m not sure it would help.",
+          "openness": "I’m not very willing to share my deeper feelings; I’d rather talk about anything else.",
+          "resistance": "I feel strongly against discussing my family issues because it brings up too much pain and I’m afraid of being hurt again."
         },
-        "client_reasoning": "I know there are problems with my family, but it feels overwhelming to talk about them. It’s like I’m stuck in this cycle where I want to reach out and make things better, but I’m also terrified of getting hurt again. Every time I think about discussing my feelings in therapy, I get this knot in my stomach. I tell myself it’s safer to just keep everything inside, that way I won't have to face the possibility of disappointment or judgment. I have this belief that people will always take advantage of me, and opening up just feels like handing them a weapon to hurt me with. I wonder if change is even possible for me; it seems like I’m just destined to feel this way. Therapy feels uncomfortable, but maybe it’s the only space where I can explore these thoughts without immediate consequences, even if I’m not ready to act on them yet."
+        "client_reasoning": "I feel like everything around me is chaotic, especially with my family and their issues. Sometimes I think about reaching out to someone I've distanced myself from, but then I remember how much they've hurt me before. I want to believe they might change, but deep down, I think it'll just lead to more disappointment. Talking about these feelings with a therapist feels daunting; I’m not ready to dive into all that pain. It’s easier to stay quiet and keep my distance. I have this belief that if I open up, I’ll just end up feeling vulnerable and exposed, and I don’t want to be hurt again. I know I should probably deal with this, but right now it feels safer to just avoid the whole situation and keep my thoughts to myself."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as there was no significant exploration of family dynamics. The client's objective was not met since she remains defensive and withdrawn.",
-          "client_utterance": "I don't really want to talk about my family. It feels like every time I do, I just get overwhelmed and anxious. It seems pointless because nothing ever changes anyway.",
-          "therapist_utterance": "It sounds like discussing your family brings up a lot of anxiety for you, and I can understand why you might feel that way. You're feeling stuck and overwhelmed, which makes it hard to see a path forward. What do you think it would feel like to try and explore those feelings a bit more?",
-          "therapist_use": "Reflective listening: used to validate Elena's feelings and encourage exploration of her anxiety."
+          "reason_for_ending": "KEEP: The therapist's objective of building awareness of Elena's feelings regarding family dynamics was not fully met as she remains resistant to exploring these thoughts. The client's objective of understanding her overwhelming feelings without confronting issues directly is also unmet as she has not engaged deeply with her emotions.",
+          "client_utterance": "I just feel like my family is a mess, and I don’t know how to deal with it. Sometimes I think about reaching out to someone, but I just end up feeling hurt. It's easier to just ignore it all, you know? I don’t want to open up those old wounds.",
+          "therapist_utterance": "It sounds like you feel really stuck in this situation with your family, and reaching out feels risky because of the hurt you've experienced. It's understandable that you would want to protect yourself from that pain. What do you think might happen if you did reach out, even just to think about it?",
+          "therapist_use": "Reflective Listening: used to validate Elena's feelings of being overwhelmed and her desire to avoid pain."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as the exploration was superficial and did not evoke deeper feelings. The client's objective was not met since she is still hesitant to open up.",
-          "client_utterance": "I guess it would feel scary. I always think about how I might get hurt or judged if I say something wrong. It feels safer to keep everything to myself.",
-          "therapist_utterance": "I can see how keeping things to yourself feels like a protective measure. It’s understandable to want to avoid the risk of hurt or judgment. What do you think it would take for you to feel a bit safer opening up about your feelings?",
-          "therapist_use": "Expressing empathy: acknowledged her feelings of fear and the need for safety in sharing."
+          "reason_for_ending": "KEEP: The therapist's goal of helping Elena explore her feelings about reaching out was not fully achieved, as she still expresses significant reluctance. The client's objective of understanding her feelings remains unmet because she is not yet ready to confront these issues.",
+          "client_utterance": "I guess I just think it would lead to more disappointment. It’s hard to believe that anything could change, and I don’t want to set myself up for that again. I’d rather just keep things as they are, even if it’s not great.",
+          "therapist_utterance": "I hear you saying that the fear of disappointment keeps you from wanting to reach out. It’s tough to balance the hope for change with the fear of being hurt again. Can you tell me more about what you value in relationships that makes you think about reaching out despite your fears?",
+          "therapist_use": "Expressing Empathy: used to acknowledge Elena's fears and validate her feelings about potential disappointment."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as there was no significant exploration of safety measures. The client's objective was not met since she is still struggling to articulate her feelings.",
-          "client_utterance": "I don't know if I can even think about that right now. It just feels like too much, like I'm just stuck in this cycle of hurt. I mean, I want to figure it out, but it feels impossible.",
-          "therapist_utterance": "It sounds like you're feeling trapped in a cycle of hurt, and that can be really disheartening. It’s okay to feel like it’s too much at times. Can we take a small step back and look at one specific interaction that felt particularly hurtful, just to start?",
-          "therapist_use": "Developing discrepancy: gently encouraging Elena to reflect on her past experiences for deeper understanding."
+          "reason_for_ending": "KEEP: The therapist's aim to help Elena articulate the discrepancy between her desire for connection and her fear of being hurt is still in progress. The client objective of understanding her feelings without confrontation is still not fully met as she hasn't engaged with the deeper issue yet.",
+          "client_utterance": "I don’t know, I guess I want to feel close to people, but it feels dangerous. There’s also this part of me that thinks maybe I’m just better off alone. I wish things were different, but I can’t see how they can be.",
+          "therapist_utterance": "It's clear that you have this deep desire for closeness, yet you also feel that it could lead to more pain. Striking that balance is challenging, especially when past experiences weigh heavily on you. What if you considered some of your past interactions with that person? Were there moments that felt good or positive?",
+          "therapist_use": "Raising Awareness: used to prompt reflection on past interactions and help Elena consider both positive and negative experiences."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as there was no substantial analysis of past interactions. The client's objective was not met since she still feels overwhelmed.",
-          "client_utterance": "I guess there was that time when I tried to help my cousin, but it ended up being a disaster. I felt used and betrayed afterwards. It's hard not to feel like I just bring this upon myself.",
-          "therapist_utterance": "That sounds really painful, feeling used and betrayed after you tried to help. It's understandable to feel like you might be inviting that kind of hurt. What do you think you learned from that experience that could help you in the future?",
-          "therapist_use": "Reality testing: helping her analyze a specific past interaction to gain insight."
+          "reason_for_ending": "KEEP: The therapist's goal of raising Elena's awareness of her past experiences remains unfulfilled as she hasn't fully engaged in exploring them. The client's goal of understanding why she feels overwhelmed is still unmet since she is avoiding deeper exploration.",
+          "client_utterance": "I mean, there were some good times, but they feel so long ago. Mostly, I just remember the hurt and the chaos. It’s like trying to remember a dream that’s faded away. I don’t know if I can trust that anything could really change.",
+          "therapist_utterance": "It's understandable that the hurt overshadows the good memories, making it hard to trust that things could be different. Trust is a complex issue, especially with the history you have. How do you think those good times impact your feelings about reaching out now?",
+          "therapist_use": "Reflective Listening: used to validate Elena's feelings while encouraging her to examine the impact of past positive experiences."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as the client did not reflect on her learning from the experience. The client's objective was not met since she feels stuck in her beliefs.",
-          "client_utterance": "I don’t know, maybe I just shouldn’t trust anyone? It seems like everyone just ends up disappointing me. But at the same time, I want to believe that some people could be different.",
-          "therapist_utterance": "It’s a tough position to be in, feeling like you want to trust, but also feeling like you might be setting yourself up for disappointment. You're recognizing that there’s a conflict between your desire to connect and your experiences. What would it mean for you to find someone trustworthy?",
-          "therapist_use": "Alternative perspective: encouraging her to consider the desire for connection while acknowledging her fears."
+          "reason_for_ending": "KEEP: The therapist's objective of facilitating a deeper exploration of Elena's thoughts and feelings is still ongoing, as she has not fully articulated her feelings about trust and change. The client’s objective of understanding her feelings remains unmet as she is still resisting deeper engagement.",
+          "client_utterance": "I guess it gives me a bit of hope, but it’s buried under so much pain. I want to believe that people can change, including myself, but it feels so daunting. I just don’t want to end up feeling worse than I already do.",
+          "therapist_utterance": "That hope can be a powerful motivator, even if it feels buried right now. It's okay to feel that tension between wanting change and fearing the pain that might come with it. What would it look like for you to hold onto that hope while still being cautious?",
+          "therapist_use": "Developing Discrepancy: used to help Elena articulate her values about relationships and the conflict she feels with her current avoidance."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as there wasn't a clear exploration of what trust means to her. The client's objective was not met since she continues to feel conflicted.",
-          "client_utterance": "I think it would mean that I can be myself without fear. But it also feels like that's just a dream at this point. I don’t know if I can ever find that kind of connection.",
-          "therapist_utterance": "Your desire to be yourself without fear is so important, and it’s understandable to feel like it’s just a dream right now. It’s okay to feel conflicted about that. What small step could we think about that might help you feel a bit closer to that dream?",
-          "therapist_use": "Reflective listening: validating her feelings of conflict while inviting her to think of small steps."
+          "reason_for_ending": "KEEP: The therapist's aim to help Elena explore her feelings about potential change is still in progress, as she hasn't yet fully engaged with the idea of trust and change. The client objective of understanding her feelings remains unmet, as she is still hesitant to confront deeper issues.",
+          "client_utterance": "I guess I could try to think about it more, but it still feels like a lot. I don’t want to rush into anything, and I still feel pretty hesitant about reaching out to anyone. It’s just hard to imagine things being different.",
+          "therapist_utterance": "Taking your time to think through those feelings is perfectly valid. It’s a big step to even consider reaching out, especially when you feel uncertain. What small steps do you think you could take to explore these feelings without feeling overwhelmed?",
+          "therapist_use": "Raising Awareness: used to encourage Elena to reflect on her feelings and consider small steps toward exploring change."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met as she encouraged exploration of feelings and small steps. The client's objective was met as she expressed her desires and acknowledged her fears.",
-          "client_utterance": "I guess just talking about it here feels like a step, even if it’s just a small one. I don’t feel judged, and that helps. Maybe I can think about reaching out to someone, just to see how it feels.",
-          "therapist_utterance": "That’s a significant step, acknowledging that talking about it here is a safe space for you. It shows that you're open to the possibility of reaching out. I’m glad you’re feeling a bit more hopeful about exploring that option.",
-          "therapist_use": "Double-sided reflection: validating her progress while reinforcing her openness to consider change."
+          "reason_for_ending": "MOVE: The therapist's objective of helping Elena build awareness of her feelings and explore her thoughts regarding family dynamics has been met as she has started to articulate her feelings about potential change. The client's objective of understanding her overwhelming feelings while avoiding direct confrontation is also met, as she is engaging more deeply with her emotions and thoughts.",
+          "client_utterance": "I think I could maybe just write down my feelings instead of talking about them right away. That might help me sort things out without feeling so exposed. I don’t know if that’s a step toward reaching out, but it feels safer.",
+          "therapist_utterance": "That sounds like a great step! Writing can be a powerful way to process your feelings and thoughts at your own pace. It allows you to express yourself without the pressure of immediate confrontation, and it can help clarify what you really want moving forward.",
+          "therapist_use": "Generating Alternative Thoughts: used to help Elena articulate a safer method for exploring her feelings and thoughts."
         }
       ]
     },
@@ -132,30 +141,28 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore and resolve ambivalence about reaching out to estranged individual while strengthening motivation for change.",
+          "objective": "Explore and resolve ambivalence about reaching out to the estranged individual while increasing motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Facilitate a discussion about Elena's feelings towards reaching out, emphasizing her internal conflict.",
-                "Encourage her to express both her desire to reconnect and her fears of being hurt again.",
-                "Ask open-ended questions to help her articulate the reasons behind her ambivalence."
+                "Ask Elena open-ended questions about her feelings regarding reaching out, such as, 'What do you feel when you think about contacting him?'",
+                "Encourage her to express both her desire to reconnect and her fears about potential outcomes.",
+                "Reflect back her ambivalence to normalize it and show understanding."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Help Elena identify her core values related to relationships and connection.",
-                "Explore how her current behavior of isolation conflicts with these values.",
-                "Encourage her to reflect on how this discrepancy affects her emotional well-being."
+                "Prompt Elena to articulate reasons for wanting to reach out by asking, 'What would it mean for you to reach out?'",
+                "Encourage her to express what positive changes she hopes for by reconnecting."
               ]
             },
             {
-              "strategy_name": "Decisional Balance",
+              "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Guide Elena in creating a pros and cons list regarding reaching out to the estranged individual.",
-                "Discuss the potential benefits of reaching out versus the risks she perceives.",
-                "Encourage her to consider how each option aligns with her values and long-term goals."
+                "Facilitate a discussion about the pros and cons of reaching out versus maintaining distance.",
+                "Help her weigh the potential benefits of connection against the fears of being hurt again."
               ]
             }
           ]
@@ -163,79 +170,73 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Challenge Elena's automatic thoughts about reaching out by asking for evidence.",
-                "Explore past experiences that support or contradict her belief that reaching out will lead to hurt.",
-                "Encourage her to consider alternative outcomes that could arise from re-initiation of contact."
+                "Introduce the concept of fortune telling and relate it to Elena's automatic thought about the estranged individual.",
+                "Guide her to review past interactions, asking her to identify moments of genuine remorse.",
+                "Challenge the validity of her belief with evidence-based questions, helping her uncover cognitive distortions."
               ]
             },
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Generating Alternative Thoughts",
               "instructions_for_therapist": [
-                "Help Elena reframe her catastrophic thoughts regarding the estranged individual’s potential response.",
-                "Discuss what would happen if the worst-case scenario occurred, and how she could cope with it.",
-                "Encourage her to visualize a more positive interaction and the emotions associated with that."
+                "Assist Elena in creating balanced thoughts by reframing her negative beliefs.",
+                "Encourage her to consider alternative outcomes and how those thoughts impact her emotions.",
+                "Engage in a reflection on how these alternatives might influence her decision-making process."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, I will focus on exploring Elena's ambivalence regarding reaching out to the estranged individual. I will start with the MI strategy of exploring ambivalence, allowing her to voice both her desire to connect and her fears of being hurt, which will help her feel heard and understood. Next, I will develop discrepancy by discussing her core values around relationships and how her current behavior of isolation conflicts with these values. This will encourage reflection and insight. I will also implement a decisional balance to help her weigh the pros and cons of reconnecting. Simultaneously, I will utilize CBT techniques, starting with evidence-based questioning to challenge her automatic thoughts about the estranged individual and encourage her to consider alternative outcomes. This will be complemented by decatastrophizing her catastrophic thinking, helping her to visualize a positive interaction. By maintaining a collaborative and non-confrontational stance, I will support her in strengthening her motivation and readiness for change while respecting her current ambivalence.",
-        "progress_marker": "Elena articulates specific pros and cons regarding reaching out and begins to identify her core values related to relationships."
+        "therapist_reasoning": "In this session, I begin by addressing Elena's ambivalence towards reaching out to the estranged individual. Using MI strategies, I explore her conflicting feelings by prompting her to articulate both her desires and fears, which helps normalize her experience of ambivalence. This exploration allows me to elicit change talk, encouraging her to express positive motivations for reconnection. I facilitate a decisional balance discussion, prompting her to weigh the pros and cons of contacting him, which highlights the discrepancy between her values and current behavior. Simultaneously, I integrate CBT techniques by introducing cognitive restructuring to challenge her automatic thoughts about the estranged individual. By guiding her through evidence-based questions, I help her identify cognitive distortions and generate alternative, more balanced thoughts. This dual approach fosters insight while respecting her resistance, empowering her to reflect on the possibility of change without pushing her into action planning prematurely. Overall, the session aims to deepen her understanding of her emotions and enhance her self-efficacy regarding potential reconnection.",
+        "progress_marker": "Client expresses a clearer understanding of her ambivalence and begins to articulate both fears and motivations for reaching out."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about reaching out to someone who has hurt me and understand whether change is possible for me.",
+        "client_objective": "I hope to explore my feelings about reconnecting with someone who has hurt me.",
         "client_state": {
-          "awareness": "I'm starting to see that my relationships often leave me feeling hurt and disappointed, and I recognize that I have a pattern of avoiding confrontation to protect myself.",
-          "motivation": "I feel a desire to change my situation because I'm tired of feeling lonely and frustrated, but I also wonder if it's worth the risk of getting hurt again.",
-          "openness": "I'm willing to share my thoughts and feelings with my therapist, but I still hold back some of the deeper fears I have about trust and vulnerability.",
-          "resistance": "I find myself resisting the idea of reconnecting with people because I'm scared of repeating past mistakes, which makes me want to withdraw and stay safe."
+          "awareness": "I am starting to see how my past experiences with my family and relationships have shaped my feelings of helplessness and unlovability.",
+          "motivation": "I want to change my relationships for the better, but I am scared of being hurt again.",
+          "openness": "I feel somewhat willing to talk about my feelings and experiences in therapy, but I still hold back at times.",
+          "resistance": "I have strong doubts about whether reaching out is worth the risk, and I find myself withdrawing from the idea."
         },
-        "client_reasoning": "Lately, I've been reflecting on my relationships, especially the one with that estranged person who hurt me. Part of me thinks about reaching out, hoping for an apology, but another part of me fears it will just lead to more disappointment. I notice that I tend to isolate myself, thinking it’s safer that way, but I also feel so alone and frustrated with my situation. I realize that my past experiences have shaped how I see others; I’ve always believed they’ll take advantage of me if I let them in. Therapy is helping me see these patterns more clearly, but I still feel conflicted. What if I reach out and it hurts me again? It’s a tough decision, and I’m unsure of what to do next. I know I want something to change, but I feel stuck between wanting to protect myself and yearning for connection."
+        "client_reasoning": "I’m beginning to understand that my situation is more complicated than I thought. I realize that I’ve been avoiding dealing with people who have hurt me in the past, especially this one person. I know I want to reach out, but I can't shake the feeling that it might just lead to more disappointment. It’s frustrating because part of me craves connection, but another part is terrified of being hurt again. I see patterns in my life where I’ve been overly generous to others while neglecting my own needs, and it leaves me feeling vulnerable. Talking about this in therapy makes me reflect more deeply, but I still feel hesitant, like I’m caught between wanting to change and fearing the potential pain that comes with it. I’m not sure if I can trust that things will be different this time around."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because they haven't fully explored Elena's ambivalence about reaching out. Client objective not met as Elena hasn't articulated specific pros and cons yet.",
-          "client_utterance": "I've been thinking more about reaching out to my cousin, but I'm still afraid. Part of me wants to reconnect, maybe just to see if things could be different, but I can't shake the fear of getting hurt again. It feels like I'm stuck between wanting to reach out and wanting to protect myself.",
-          "therapist_utterance": "It's understandable to feel both a desire to reconnect and a fear of potential hurt. Can you share more about what you think you might gain from reaching out, as well as what concerns you the most about it?",
-          "therapist_use": "Exploring Ambivalence: encouraged Elena to express both her desire to reconnect and her fears."
+          "reason_for_ending": "KEEP, the therapist objective was not met as the exploration of ambivalence is still ongoing, and the client objective was not met since Elena hasn't fully articulated her feelings about reaching out yet.",
+          "client_utterance": "I've been thinking about those good times we shared, and while they do give me a bit of hope, I still feel like they’re overshadowed by the bad experiences. It’s hard to shake off the fear of rejection or disappointment. I wonder if reaching out would just lead to more chaos in my life.",
+          "therapist_utterance": "It's understandable to feel that the good memories are clouded by the bad ones. You’re caught between hope and fear, which is a tough space to be in. If you were to imagine reaching out, what would be the worst part of that experience for you?",
+          "therapist_use": "Open-ended questioning: used to deepen exploration of fears surrounding potential reconnection."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met since Elena hasn't fully articulated her core values related to relationships. Client objective not met as she hasn't identified specific pros and cons.",
-          "client_utterance": "I think if I reached out, I might feel less lonely, but I worry it could just bring back all the old pain. I really want to believe that some connections could be different, but I feel like I keep getting hurt. It’s like I want to trust, but my experiences make it hard.",
-          "therapist_utterance": "It sounds like you value connection and reducing loneliness, but you also have significant fears rooted in past experiences. How do these feelings of wanting to connect and fearing hurt align with what you believe about relationships?",
-          "therapist_use": "Developing Discrepancy: helped Elena identify her core values related to relationships and how her current behavior conflicts with them."
+          "reason_for_ending": "KEEP, the therapist objective was not met as there hasn't been a thorough discussion of Elena's fears, and the client objective was not met as she hasn't fully unpacked her feelings about reaching out yet.",
+          "client_utterance": "The worst part would probably be feeling like I’m trying too hard and getting nothing back in return. I guess I’m scared of putting myself out there only to be hurt again. It’s like, what if I reach out and it just confirms that nothing has changed?",
+          "therapist_utterance": "That fear of confirmation can be really powerful and discouraging. It sounds like you've been through a lot, and the idea of vulnerability feels risky. What would it mean for you if you were to take that step and reach out, despite these fears?",
+          "therapist_use": "Eliciting change talk: encouraged Elena to express her motivations for potentially reconnecting."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as they haven't yet facilitated a decisional balance for Elena. Client objective not met since she has not weighed pros and cons.",
-          "client_utterance": "I think I want to reach out because it might help me feel less isolated, but the thought of being let down again is really daunting. I wish I could just know that it would be a positive experience. Sometimes I wonder if I’m just setting myself up for disappointment again.",
-          "therapist_utterance": "You're grappling with a real tension between the potential for connection and the fear of disappointment. Let’s explore what the pros and cons would look like if you decided to reach out. What do you think might be some benefits of reconnecting, and what are the risks you see?",
-          "therapist_use": "Decisional Balance: guided Elena in creating a pros and cons list regarding reaching out."
+          "reason_for_ending": "KEEP, the therapist objective was not met since there hasn't been a clear articulation of potential motivations, and the client objective was not met as Elena hasn't fully explored what reaching out would mean to her.",
+          "client_utterance": "I guess reaching out would mean I’m willing to give things another chance, but it also feels like I’d be exposing myself to more pain. There’s a part of me that wants to believe things can be different, but it’s hard to shake the past. I just don’t know if it’s worth the risk.",
+          "therapist_utterance": "It’s really insightful that you recognize both the desire for change and the fear of vulnerability. Weighing those feelings is important. Can we talk about what you think the benefits of reaching out might be, even if they feel distant right now?",
+          "therapist_use": "Decisional balance discussion: facilitated a conversation about the pros of reaching out."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as they haven't challenged Elena's automatic thoughts about reaching out sufficiently. Client objective not met because she hasn't fully explored her fears.",
-          "client_utterance": "If I think about it, the benefit of reaching out could be having someone to talk to again, but I'm also scared that it would just lead to more hurt and disappointment. I feel like I always end up in these situations where I feel worse afterwards. Sometimes I just want to shut everyone out to avoid that pain.",
-          "therapist_utterance": "It’s completely valid to protect yourself when you anticipate pain. Let's talk about your thoughts—what evidence do you have that reaching out would lead to hurt? Have there been times when reaching out has led to a more positive experience?",
-          "therapist_use": "Evidence-Based Questioning: challenged Elena's automatic thoughts by asking for evidence supporting her fears."
+          "reason_for_ending": "KEEP, the therapist objective was not met as the pros of reaching out haven't been fully articulated, and the client objective was not met since Elena is still grappling with her fears.",
+          "client_utterance": "If I reached out, maybe it would show that I’m trying to mend things, and that could feel empowering in a way. But I still worry it won’t change anything, and the disappointment would hurt even more. I want to feel strong, but I don't know if I can handle the potential fallout.",
+          "therapist_utterance": "You’ve highlighted a really important aspect—the empowerment that can come with trying to mend relationships. It’s a brave thought, yet it’s understandable to be concerned about the fallout. How do you think you could prepare yourself emotionally if you chose to reach out?",
+          "therapist_use": "Generating alternative thoughts: encouraged Elena to think of ways to emotionally prepare for the potential outcomes."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met since they haven't fully helped Elena visualize a positive outcome. Client objective not met as she hasn't reframed her catastrophic thoughts.",
-          "client_utterance": "I guess there have been times where reaching out didn’t end as badly as I expected. But I can’t help but think the worst will happen, and that makes me hesitate. I really don’t want to feel disappointed again.",
-          "therapist_utterance": "It’s understandable to think about the worst-case scenario, especially when you've been hurt before. What do you think might happen if the interaction went better than expected? How would that feel for you?",
-          "therapist_use": "Decatastrophizing: helped Elena reframe her catastrophic thoughts about the estranged individual’s potential response."
+          "reason_for_ending": "KEEP, the therapist objective was not met as there is still no clear plan for emotional preparation, and the client objective was not met as Elena hasn't yet fully explored her feelings about reaching out.",
+          "client_utterance": "Maybe I could write down my feelings again, like I did before, to sort through what I want to say without feeling overwhelmed. It might help me clarify my intentions and prepare for whatever happens. But even that feels like a lot right now.",
+          "therapist_utterance": "That sounds like a thoughtful approach! Writing can help you gain clarity and feel more in control of the situation. It’s okay to take small steps; this process doesn’t have to happen all at once. What do you think you’d want to express in that writing?",
+          "therapist_use": "Cognitive restructuring: helped Elena identify a manageable step toward emotional preparation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as they haven't fully explored Elena's feelings about coping with potential disappointment. Client objective not met since she hasn't visualized a positive interaction.",
-          "client_utterance": "If I reached out and it went well, I think I would feel relieved and maybe even hopeful. But the fear of it not going well is still so strong. I guess I need to think about how I would cope if things didn’t turn out the way I hope.",
-          "therapist_utterance": "It's great that you can imagine a positive outcome and recognize the relief that could come with it. How might you prepare yourself emotionally for that possibility, and what coping strategies could you use if things don’t go as planned?",
-          "therapist_use": "Visualizing Positive Interaction: encouraged Elena to consider how she would cope with various outcomes."
-        },
-        {
-          "reason_for_ending": "MOVE: Therapist objective met as they explored Elena's ambivalence and facilitated a decisional balance, helping her articulate pros and cons of reaching out. Client objective met as Elena expressed her feelings about reaching out and identified potential outcomes.",
-          "client_utterance": "I think I’m starting to see that reaching out could be worth it, even if there’s a risk. I want to believe there could be a chance for something better. It feels like I'm gradually getting more comfortable with the idea.",
-          "therapist_utterance": "That’s a significant shift, Elena! It sounds like you are finding a balance between your fears and your desire for connection. What do you think your next steps might be as you move forward with this new perspective?",
-          "therapist_use": "Reflection: validated Elena’s progress and encouraged her to consider her next steps."
+          "reason_for_ending": "MOVE, the therapist objective was met as Elena has begun to articulate her feelings and consider emotional preparation, and the client objective was met as she is exploring her feelings about reconnecting more deeply.",
+          "client_utterance": "I think I’d want to express how I feel hurt but also how I still care. I want to make it clear that I’m open to change but also need to protect myself. This feels like a step toward understanding what I really want.",
+          "therapist_utterance": "That’s a powerful way to express your feelings, balancing vulnerability with self-protection. It shows growth and a willingness to explore what you truly want from this situation. You’re taking important steps toward clarity and connection.",
+          "therapist_use": "Double-sided reflection: validated Elena's growth while reinforcing her intentions and feelings."
         }
       ]
     },
@@ -244,22 +245,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Elena's commitment to reach out and establish boundaries with her estranged individual.",
+          "objective": "Strengthen Elena's commitment to change and increase her readiness to take action regarding her estranged relationship.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Elena to articulate her reasons for wanting to reach out and what she hopes to achieve.",
-                "Encourage her to express her commitment to taking action, even if it's gradual.",
-                "Reinforce her motivations by highlighting her strengths and past successes in managing difficult relationships."
+                "Ask Elena to articulate her reasons for wanting to reach out to the estranged individual.",
+                "Encourage her to express her feelings about taking this step and the potential benefits she sees.",
+                "Reinforce her commitment by reflecting back her stated reasons and emphasizing her strengths."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions (1-10) to assess her confidence in reaching out and readiness to handle potential outcomes.",
-                "Discuss what would make her feel more prepared or supported in this process.",
-                "Validate her feelings of fear and uncertainty while encouraging exploration of manageable steps."
+                "Use scaling questions to assess her confidence level in reaching out (e.g., 'On a scale of 1-10, how confident do you feel about reaching out?').",
+                "Discuss what would increase her confidence or make her feel more prepared.",
+                "Collaborate with her to identify small, manageable steps that could lead to increased confidence."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Help Elena identify supportive individuals in her life who can provide encouragement.",
+                "Discuss resources such as coping strategies or self-care techniques that she can use during this process.",
+                "Encourage her to reflect on past successes and how those experiences can serve as a resource now."
               ]
             }
           ]
@@ -267,79 +276,80 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Collaborate with Elena to design a small, low-risk interaction scenario (e.g., sending a text instead of a call).",
-                "Identify potential outcomes and discuss how she would cope with each one.",
-                "Encourage her to reflect on the experience, regardless of the outcome, to gather evidence on her beliefs about vulnerability."
+                "Introduce the concept of fortune telling and guide Elena to identify her automatic thoughts about the estranged individual.",
+                "Encourage her to explore the history of their relationship, focusing on moments of sincerity or regret.",
+                "Help her challenge her automatic thoughts by asking for evidence supporting her beliefs and identifying cognitive distortions."
               ]
             },
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Alternative Thought Generation",
               "instructions_for_therapist": [
-                "Help Elena create a step-by-step action plan that includes specific dates and times for reaching out and what she will say.",
-                "Incorporate check-in points to assess her feelings and readiness before each step.",
-                "Discuss coping strategies she can employ if she feels overwhelmed or anxious during the process."
+                "Facilitate a discussion where Elena can generate balanced thoughts that counter her automatic negative beliefs.",
+                "Encourage her to consider the possibility of a positive outcome and how it impacts her emotions.",
+                "Assist her in formulating an action plan that includes setting boundaries while preparing for various outcomes."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan, I recognized Elena's readiness for change, focusing on her commitment to reach out while managing her fears. I employed MI strategies to strengthen her motivation, emphasizing her strengths and validating her feelings of uncertainty to enhance her self-efficacy. The use of scaling questions facilitated exploration of her confidence and readiness, allowing her to articulate her desires for change. For the CBT component, I introduced a behavior experiment that allows her to take a gradual approach to contact, reinforcing the idea that she can cope with various outcomes. This aligns with her resistance profile, as I aimed to provide her with achievable steps without overwhelming her. The action planning technique further supports her by breaking down the process into manageable parts, ensuring she feels supported and less isolated. Overall, this structured plan balances encouragement and practical steps, fostering a collaborative environment for Elena's progress.",
-        "progress_marker": "Elena will aim to complete her first small interaction by the end of the week and reflect on the experience in the next session."
+        "therapist_reasoning": "In this session, the therapist begins by implementing Motivational Interviewing (MI) strategies to boost Elena's commitment to change. The therapist first encourages her to articulate her reasons for wanting to reconnect with the estranged individual, fostering a sense of ownership over her decision. By employing scaling questions, the therapist assesses Elena's confidence in taking this step, exploring ways to enhance her readiness. Identifying supportive resources in her life further empowers Elena, reinforcing her motivation. Concurrently, the therapist integrates Cognitive Behavioral Therapy (CBT) techniques, starting with cognitive restructuring to challenge Elena's automatic thoughts, particularly her belief that any apology would be insincere. By examining the history of their relationship, the therapist helps Elena uncover moments of genuine remorse that can challenge her negative beliefs. Finally, the therapist guides her in generating alternative thoughts, which serve to enhance her self-efficacy and prepare her for action by developing a specific plan that includes setting boundaries in her interactions.",
+        "progress_marker": "Elena articulates her reasons for change and expresses a specific action plan to reach out to the estranged individual, demonstrating increased confidence and readiness."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings about reconnecting with my estranged relative and find ways to protect myself while considering change.",
+        "client_objective": "I want to explore how I can reach out to those who have hurt me without putting myself in a vulnerable position again.",
         "client_state": {
-          "awareness": "I realize that my current situation with my family is unhealthy and that my avoidance isn't helping me heal or grow.",
-          "motivation": "I feel a strong desire to improve my relationships and break free from the cycle of anger and isolation.",
-          "openness": "I'm starting to open up about my feelings and thoughts, even if it's scary, and I'm willing to discuss potential changes.",
-          "resistance": "Despite my motivation, I still feel a lot of doubt and fear about reaching out to others, worried that it might just lead to more pain."
+          "awareness": "I recognize that my current situation is unhealthy and that my relationships are causing me more pain than joy. I understand that my past experiences with family and friends have shaped my beliefs and reactions.",
+          "motivation": "I feel a growing desire to improve my relationships and my emotional state. I want to break the cycle of hurt and isolation, but I’m still unsure about how to do it.",
+          "openness": "I am more willing to discuss my thoughts and feelings in therapy. I want to explore different strategies for coping and communicating, but I still hesitate to fully express my fears.",
+          "resistance": "I experience a lot of doubt and fear about making changes. I want to reach out, but I worry that it will only lead to more disappointment and hurt."
         },
-        "client_reasoning": "I've come to understand that my family dynamic is damaging and that my tendency to isolate myself only perpetuates my feelings of helplessness and loneliness. Change feels necessary because I can't continue living this way, feeling angry and disconnected. I hope that by exploring my feelings about reaching out to my estranged relative, I can find a way to express my needs without compromising my well-being. However, I can't shake off the fear that reconnecting might lead to more hurt, just like before. Therapy has helped me see that I do have some control over my life and that I can take steps to protect myself while still being open to change. I’m cautiously optimistic, but those lingering doubts still hold me back from fully committing to this new path."
+        "client_reasoning": "I've come to realize that my family dynamics and the way I've been treated have left me feeling helpless and unlovable. My past encounters with certain individuals have taught me that reaching out can often lead to more pain, but I know deep down that I can't keep isolating myself. I feel motivated to change this pattern, as I want to experience healthier relationships. Therapy has helped me see that I have the strength to set boundaries and navigate these tricky interactions. However, I still fear that if I open up again, I might just end up hurt once more. I want to explore how I can connect with others without losing myself in the process, but I can't shake the doubts that linger in my mind.",
+        "progress_marker": "Identifying specific relationships to address and contemplating proactive steps to improve them."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Elena hasn't articulated her reasons for wanting to reach out yet. The client objective was not met as Elena still hasn't defined her next steps for reconnecting.",
-          "client_utterance": "I've been thinking more about reaching out, but I'm still not sure how to do it. I want to protect myself, but I also feel this urge to try. It’s just really hard to figure out what I want to say without feeling overwhelmed.",
-          "therapist_utterance": "It sounds like you're feeling a mix of desire and apprehension about reaching out. What do you think is holding you back from figuring out what you want to say? If you could outline your main feelings about this, what would they be?",
-          "therapist_use": "Open-ended question: Encouraging Elena to explore her feelings further."
+          "reason_for_ending": "KEEP - The therapist's objective to strengthen Elena's commitment to change is not fully met as she hasn't articulated specific reasons for reaching out yet. The client objective to explore how to reach out without vulnerability is not fully met as she still feels uncertain.",
+          "client_utterance": "I’ve been thinking more about reaching out, but I still feel so conflicted. Part of me wants to try and see if things could be different, but I’m scared that it will just lead to more disappointment. I don't know how to navigate that without getting hurt again.",
+          "therapist_utterance": "It's completely normal to feel conflicted, especially when you're considering such a significant step. What do you think might motivate you to reach out despite the fear of disappointment? Can you identify any potential positives that could come from taking that risk?",
+          "therapist_use": "Exploring motivation: encouraged Elena to identify positive outcomes that could arise from reaching out."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Elena hasn't yet articulated her reasons for reaching out. The client objective was not met as she still struggles to find clarity in her feelings about the process.",
-          "client_utterance": "I think I want to feel less isolated, but I’m also scared that it’s just going to lead to more pain. Maybe I need to think about how I’d even start that conversation without it feeling too heavy.",
-          "therapist_utterance": "You’re recognizing that your desire for connection is strong, yet the fear of pain looms large. How might you frame that first conversation in a way that feels manageable for you? What if you could start small, just to test the waters?",
-          "therapist_use": "Scaling question: Helping her assess what a manageable first step might look like."
+          "reason_for_ending": "KEEP - The therapist's objective to increase Elena's readiness is not fully met as she hasn't yet articulated concrete steps to take. The client objective to explore her approach to reaching out without vulnerability is still in progress.",
+          "client_utterance": "I guess if I reached out, one positive could be that I feel empowered to take control of my relationships. But then I think about how it could end up making me feel worse. It’s hard to weigh those feelings against each other.",
+          "therapist_utterance": "That sense of empowerment is a significant factor to consider. Balancing the potential for empowerment with the fear of pain is challenging, but it's important. What specific steps do you think you could take that would help you feel more protected while reaching out?",
+          "therapist_use": "Identifying small steps: assisted Elena in considering actions that help her feel secure while reaching out."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met as Elena hasn't yet expressed her commitment to any specific action. The client objective was not met since she still hasn't outlined her next steps.",
-          "client_utterance": "I guess starting small could work, like sending a message instead of calling. It feels less intimidating, but I still worry about what could happen after that.",
-          "therapist_utterance": "That's a great idea, starting with a message could help reduce some of the pressure. What would you want to say in that message? And how would you feel if you received a positive response?",
-          "therapist_use": "Behavior Experiment: Collaborating with Elena on a low-risk interaction scenario."
+          "reason_for_ending": "KEEP - The therapist's objective to reinforce Elena's commitment is not fully met as she has not yet expressed a clear plan for reaching out. The client objective to explore reaching out without vulnerability remains unfulfilled.",
+          "client_utterance": "I think writing down my feelings again could help me clarify what I want to say. It feels like a safer way to express my thoughts without the immediate pressure of a conversation. But I still worry about what happens next after that.",
+          "therapist_utterance": "Writing can indeed be a powerful tool for processing your emotions and intentions. It's great that you're thinking about how to express yourself in a way that feels safe. What do you hope to convey in that writing, and how might it help you prepare for a conversation?",
+          "therapist_use": "Exploring intentions: encouraged Elena to consider what she wants to express in her writing to prepare for future conversations."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Elena hasn't yet created a concrete plan for what she will say. The client objective was not met as she still feels uncertain about her next steps.",
-          "client_utterance": "If I think about it, I might just say something like, 'Hey, I've been thinking about you.' But then I get anxious thinking about how they might respond.",
-          "therapist_utterance": "That's a simple yet effective way to open the door. It's understandable to feel anxious about their response. What might you do to prepare yourself emotionally for any kind of reply, especially if it’s not what you hope for?",
-          "therapist_use": "Exploring Confidence and Readiness: Encouraging her to prepare for various outcomes."
+          "reason_for_ending": "KEEP - The therapist's objective to strengthen commitment language is not fully met as Elena hasn't detailed her intentions yet. The client objective to explore her approach to reaching out still needs more clarity.",
+          "client_utterance": "I think I want to express both my hurt and my willingness to see if things can change. I need to make it clear that while I care, I also need to set boundaries to protect myself. But I still feel uncertain about how to do that.",
+          "therapist_utterance": "It's really insightful that you're recognizing the importance of both expressing your feelings and setting boundaries. That balance can help you protect yourself while also being open to connection. How do you envision setting those boundaries while still being honest?",
+          "therapist_use": "Balancing vulnerability and boundaries: supported Elena in considering how to express her needs while being open."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met as Elena hasn't yet defined coping strategies. The client objective was not met since she still feels overwhelmed by potential responses.",
-          "client_utterance": "I suppose I could remind myself that no matter the outcome, it’s a step I’m taking. But it still feels scary to think about how to cope if things don’t go well.",
-          "therapist_utterance": "It’s wise to remind yourself that taking the step is invaluable, regardless of the outcome. What specific coping strategies could you use if you find yourself feeling anxious after reaching out? How can you ensure you have support?",
-          "therapist_use": "Action Planning: Helping her create a step-by-step action plan and coping strategies."
+          "reason_for_ending": "KEEP - The therapist's objective to identify supports and resources is not fully met as Elena hasn't discussed specific supports yet. The client objective to explore a safe approach to reaching out remains unfulfilled.",
+          "client_utterance": "I think I could talk to a friend about this before reaching out. Having someone to support me would make it feel less overwhelming. I just need to find the right person who understands my situation.",
+          "therapist_utterance": "That's an excellent idea! Having a supportive friend can provide you with the encouragement and perspective you need. What qualities would you look for in someone to share this process with, and how could they help you feel more confident?",
+          "therapist_use": "Identifying support: helped Elena think about the qualities in a supportive person that could boost her confidence."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met since Elena hasn't set specific dates or times for her action steps. The client objective was not met as she still hasn't fully committed to reaching out.",
-          "client_utterance": "Maybe I could plan to send that message by the end of the week. I just need to figure out how to work up to it without feeling overwhelmed.",
-          "therapist_utterance": "Setting a timeline is a great step forward! How about we outline what you’ll do leading up to that message? This could include when you'll write it and how you'll check in with yourself beforehand.",
-          "therapist_use": "Action Planning: Collaborating on a timeline and check-in points for her action steps."
+          "reason_for_ending": "KEEP - The therapist's objective to explore confidence and readiness is not fully met as Elena hasn't rated her confidence yet. The client objective to explore a safe approach to reaching out is still developing.",
+          "client_utterance": "I think I feel a bit more confident knowing I have someone to talk to. On a scale of 1 to 10, maybe I'm at a 5 right now. It’s a start, but I still have my doubts.",
+          "therapist_utterance": "That's a solid starting point! A confidence level of 5 shows that you're making progress, even if it feels uncertain. What do you think would help you move from a 5 to a higher level of confidence as you prepare to reach out?",
+          "therapist_use": "Scaling confidence: assessed Elena's confidence level and explored ways to increase it."
         },
         {
-          "reason_for_ending": "MOVE: The therapist objective was met as Elena has outlined a specific action plan with a timeline. The client objective was met as she expressed commitment to reaching out.",
-          "client_utterance": "I think I can commit to sending that message by Friday. It feels good to have a plan and know I’m taking a step forward.",
-          "therapist_utterance": "That’s fantastic, Elena! I’m proud of you for committing to that step. Remember, regardless of the outcome, you’re taking control of your situation, and that’s a huge accomplishment.",
-          "therapist_use": "Strengthening Commitment Language: Reinforcing her motivations and commitment to action."
+          "reason_for_ending": "MOVE - The therapist's objective to reinforce commitment is met as Elena has articulated her reasons and identified a supportive resource. The client objective to explore reaching out without vulnerability is met as she has developed a specific action plan.",
+          "client_utterance": "I feel like I’m ready to try reaching out. I know I want to express my feelings and be honest about my boundaries. With my friend's support, I think I can take this step.",
+          "therapist_utterance": "That's a significant step forward, Elena! You've articulated your reasons for reaching out and identified a supportive friend to help you through this process. It sounds like you’re truly ready to take action, and I believe in your ability to navigate this.",
+          "therapist_use": "Reinforcing commitment: acknowledged Elena's readiness to take action and solidified her plan."
         }
       ]
     }

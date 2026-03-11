@@ -12,36 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Quinn's awareness of their thoughts and feelings related to their role in relationships without pushing for immediate change.",
+          "objective": "Build rapport, enhance awareness of thoughts and emotions, and reduce defensiveness.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen carefully to Quinn's concerns and emotions.",
-                "Reflect back what Quinn expresses to validate their feelings.",
-                "Use statements like, 'It sounds like you feel overwhelmed by your responsibilities.'"
+                "Listen attentively to Quinn's concerns and feelings about being late and keeping friends waiting.",
+                "Reflect back Quinn's feelings and thoughts to show understanding, such as, 'It sounds like you feel anxious about being late and worry that your friends might think you're rude.'"
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Communicate understanding of Quinn's feelings of anxiety and helplessness.",
-                "Acknowledge the difficulty of their situation with Cricket and their friends.",
-                "Use empathetic statements to reinforce that their feelings are valid."
+                "Acknowledge Quinn's feelings of anxiety and guilt without judgment.",
+                "Say things like, 'It’s understandable to feel overwhelmed when you’re trying to balance work and your friendships.'"
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Quinn to explore the gap between their current feelings of helplessness and their personal values of support and care for others.",
-                "Ask questions like, 'How do you feel about the role you take on for your friends?'"
+                "Help Quinn explore the discrepancy between their values of friendship and the behaviors that lead to anxiety.",
+                "Ask questions like, 'How do you feel when you think about what your friends value in your relationship with them, compared to your feelings about being late?'"
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Prompt Quinn to reflect on their automatic thoughts and emotions when they feel anxious.",
-                "Encourage them to consider how these thoughts align with their values."
+                "Encourage Quinn to reflect on their automatic thoughts about being late and the impact of avoiding these situations.",
+                "Use questions such as, 'What thoughts come up when you think about your friends waiting for you?' to facilitate self-exploration."
               ]
             }
           ]
@@ -49,91 +47,85 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identify Automatic Thoughts",
               "instructions_for_therapist": [
-                "Ask Quinn to provide evidence for their beliefs about being incompetent or unlovable.",
-                "Encourage them to identify times when they felt capable or valued."
+                "Ask Quinn to describe specific thoughts that arise when they think about being late.",
+                "Encourage Quinn to express thoughts like, 'I should be better organized' and explore the origins of these beliefs."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Challenge the Thoughts",
               "instructions_for_therapist": [
-                "Help Quinn examine the reality of their procrastination and its impact on their life.",
-                "Ask questions that challenge their negative self-assessment, such as, 'What would happen if you were just slightly late?'"
+                "Guide Quinn to evaluate these thoughts by asking evidence-based questions.",
+                "Use prompts like, 'What evidence do you have that being a few minutes late makes you rude?' to encourage critical thinking."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Gather Counter-Evidence",
               "instructions_for_therapist": [
-                "Encourage Quinn to consider other ways to view their situation with Cricket and their friends.",
-                "Ask them how someone they admire might handle similar circumstances."
+                "Collaborate with Quinn to list instances where their friends have been understanding about lateness.",
+                "Facilitate a discussion on situations where being late did not lead to negative outcomes."
               ]
             },
             {
-              "technique_name": "Continuum Technique",
+              "technique_name": "Reframe the Thoughts",
               "instructions_for_therapist": [
-                "Ask Quinn to rate their feelings of helplessness on a scale from 1 to 10.",
-                "Discuss what a 5 feels like as opposed to a 10, promoting exploration of nuances in their feelings."
+                "Assist Quinn in creating more balanced thoughts based on the evidence gathered.",
+                "Help them replace 'I should be better organized' with 'I am doing my best, and sometimes delays happen.'"
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Quinn, I began with the understanding that they are in the Pre-contemplation phase, characterized by defensiveness and a lack of readiness to change. I utilized MI strategies such as reflective listening and expressing empathy to build rapport and validate Quinn's feelings. This was crucial in reducing their resistance, as they often feel overwhelmed and anxious. By developing discrepancies, I aimed to help Quinn explore the gap between their current state and their values without pushing for immediate change. The CBT components focused on awareness—using techniques like evidence-based questioning and reality testing to challenge Quinn's beliefs about their incompetence and helplessness. I sought to encourage Quinn to reflect on their thoughts and emotions without judgment, promoting curiosity about their experiences. Each intervention was chosen to align with Quinn's resistance profile, allowing for a safe exploration of their feelings and fostering a therapeutic environment conducive to eventual change.",
-        "progress_marker": "Quinn begins to articulate their feelings about their relationships and starts to recognize discrepancies between their values and current behaviors."
+        "therapist_reasoning": "In this session, the therapist begins by employing reflective listening to build rapport with Quinn, acknowledging their feelings of anxiety about being late. This establishes a safe environment, which is crucial in the pre-contemplation phase. The therapist then expresses empathy, reinforcing Quinn's experiences without judgment. Next, they focus on developing discrepancy by exploring the conflict between Quinn's values regarding friendship and their behaviors that lead to guilt. This awareness-raising facilitates self-reflection without demanding change. The therapist employs CBT techniques by first identifying Quinn's automatic thoughts related to punctuality and then challenging those thoughts through evidence-based questions. By gathering counter-evidence that contradicts their negative beliefs, Quinn can begin to reframe their thoughts, fostering a more balanced perspective. This approach respects Quinn's resistance profile, as it does not push for immediate behavioral changes but encourages exploration, awareness, and curiosity about their feelings and thought patterns.",
+        "progress_marker": "Increased openness to discussing thoughts and feelings without defensiveness, evidenced by Quinn sharing more about their experiences and reflecting on their automatic thoughts."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I just want to get through this conversation without feeling judged or pressured to change.",
+        "client_objective": "I hope to understand why I feel so overwhelmed and anxious about my life and relationships.",
         "client_state": {
-          "awareness": "I recognize that my friends have issues, but I don’t see how my involvement is a problem.",
-          "motivation": "I don’t really want to change; I feel like this is just how life is for me.",
-          "openness": "I’m not very willing to share my feelings because I doubt they will help.",
-          "resistance": "I feel defensive about discussing my role and the situation with Cricket."
+          "awareness": "I don't really think there is a problem that needs fixing; things are just how they are.",
+          "motivation": "I don't feel a strong desire to change; it seems pointless since nothing I do makes a difference.",
+          "openness": "I’m hesitant to share my feelings because I believe they won’t be understood or valued.",
+          "resistance": "I often feel defensive when discussing my issues, as if I need to protect myself from judgment."
         },
-        "client_reasoning": "I know things aren’t perfect with my friends or my life, but I just think that’s how it is for everyone. I feel overwhelmed when I think about my relationship with Cricket, and it’s easier to focus on helping Lucy than to deal with my own feelings. I worry that if I talk about my issues, I’ll only be met with skepticism or pressure to change, which feels really uncomfortable. What’s the point of discussing how I feel when nothing seems to help? I feel anxious just thinking about it. I don’t want to be judged for not being good enough or for keeping people waiting. I keep telling myself that I should be better organized, but I can’t seem to get there. It feels safer to avoid these discussions and pretend everything is fine, even when it’s not."
+        "client_reasoning": "I look at my life and see chaos, but I don't think it's a problem worth addressing. It feels like I've been dealt a bad hand with Cricket and my friends, especially Lucy, who always need me. I wonder if I’m just a caretaker, but that’s all I know how to be. Talking about my feelings seems useless; I fear what’s the point if nothing will change. I feel anxious about sharing my thoughts, thinking maybe they’ll just sound silly or overdramatic. I often tell myself I'm just being rude for being late or that I should be better, but I can't shake this feeling of being overwhelmed. Therapy feels uncomfortable because I’m not sure what I’d say, and I feel like I’m just going to get pushed to change when I don’t even know if I want to. For now, avoiding the discussion feels safer."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Quinn is still feeling defensive about discussing their role. Client objective was not met as Quinn expressed reluctance to share deeper feelings.",
-          "client_utterance": "I guess I just feel like I have to keep helping Lucy and everyone else. If I stop, then things might fall apart. But it can be really exhausting, and I don’t know if I’m doing the right thing.",
-          "therapist_utterance": "It sounds like you feel overwhelmed by your responsibilities to help others, and yet there’s a sense of exhaustion that’s creeping in. I can understand how that would make you question whether it's the right thing to do. What do you think would happen if you took a step back for a moment?",
-          "therapist_use": "Reflective Listening: used to validate Quinn's feelings of overwhelm and exhaustion."
+          "reason_for_ending": "KEEP, therapist objective not met: the therapist has not yet built sufficient rapport and reduced defensiveness. client objective not met: Quinn is still hesitant to explore feelings deeply.",
+          "client_utterance": "I guess I feel anxious about being late sometimes, but I think that's just how life is. I don't want to make a big deal out of it, you know? It feels like everyone has their own issues, and I'm just trying to keep things together for Lucy and the others.",
+          "therapist_utterance": "It sounds like you feel overwhelmed by the responsibilities you take on for your friends, especially Lucy. It’s understandable to feel anxious about being late when you’re juggling so much. Can you tell me more about what thoughts come to mind when you think about your friendships and being late?",
+          "therapist_use": "Reflective Listening: used to acknowledge Quinn's feelings of overwhelm and encourage further sharing."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Quinn did not explore the potential consequences of stepping back. Client objective was not met because Quinn is still hesitant to reflect on their feelings.",
-          "client_utterance": "I don’t really want to think about what would happen if I took a step back. It feels like I’m the only one keeping everything together. I guess I just don’t see how my feelings matter in all of this.",
-          "therapist_utterance": "It seems like you carry a lot of weight on your shoulders, feeling responsible for keeping everything together. I hear that your feelings feel insignificant in comparison to your role. What would it mean for you to acknowledge those feelings?",
-          "therapist_use": "Expressing Empathy: used to communicate understanding of Quinn's feelings of responsibility."
+          "reason_for_ending": "KEEP, therapist objective not met: the therapist has not yet helped Quinn explore the impact of these feelings. client objective not met: Quinn is still not fully engaging with their emotions and thoughts.",
+          "client_utterance": "I don't know, I guess I just feel guilty sometimes. Like, if I'm late, maybe they think I'm rude or that I don't care. But I don't want to let them down, especially Lucy since she needs me.",
+          "therapist_utterance": "It seems like you’re worried your friends might misinterpret your lateness as a lack of care. It’s tough to balance your feelings of responsibility toward them with your own anxiety. How do you think your friends would really feel about you being late?",
+          "therapist_use": "Developing Discrepancy: used to highlight the difference between Quinn's values and their behaviors regarding friends."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Quinn did not engage in exploring their feelings. Client objective was not met as Quinn is still reluctant to share their emotions.",
-          "client_utterance": "Honestly, I’m not sure it would change anything. I just feel like I should be strong for everyone else, and maybe my feelings don’t matter. It’s just easier to push through.",
-          "therapist_utterance": "It's understandable to want to be strong for others, but it sounds like this comes at a personal cost to you. Can you think of a time when you felt valued or strong in your own right? What did that feel like?",
-          "therapist_use": "Evidence-Based Questioning: used to encourage Quinn to reflect on times they felt capable."
+          "reason_for_ending": "KEEP, therapist objective not met: the therapist is still working on enhancing Quinn's self-reflection. client objective not met: Quinn is not fully recognizing the complexity of their feelings.",
+          "client_utterance": "Honestly, I don't think they'd be upset. They’ve been late too, and we’ve laughed it off. But in my head, I just keep telling myself that I should manage my time better.",
+          "therapist_utterance": "It’s interesting that you can see your friends' understanding, yet you’re still hard on yourself for being late. What evidence do you have that being a few minutes late makes you rude or irresponsible?",
+          "therapist_use": "Challenge the Thoughts: used to prompt Quinn to evaluate their automatic negative thoughts about being late."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Quinn did not provide specific examples. Client objective was not met because Quinn is still avoiding deeper reflections.",
-          "client_utterance": "I suppose there have been moments, but they feel rare. Most of the time, I just feel like I’m barely keeping up. It’s hard to think of those times when I’m so focused on everyone else.",
-          "therapist_utterance": "It sounds like those moments of feeling valued are overshadowed by the pressure you feel to support others. What if you took a moment to think about what those rare times meant to you? How do they align with the values you hold about support and care?",
-          "therapist_use": "Developing Discrepancy: used to prompt Quinn to explore the gap between their feelings and personal values."
+          "reason_for_ending": "KEEP, therapist objective not met: the therapist is still assisting Quinn in gathering evidence and counter-evidence. client objective not met: Quinn has not fully explored their beliefs yet.",
+          "client_utterance": "Well, I guess there have been times when we’ve all been late, and we just joked about it. But I still feel like I should be better organized. I wonder if it’s just my responsibility to keep things running smoothly.",
+          "therapist_utterance": "You’ve identified that your friends are understanding, which is a good insight. It’s okay to want to be organized, but it sounds like it might be adding more pressure on you. How does it feel to think about the times your friends were supportive instead?",
+          "therapist_use": "Gather Counter-Evidence: used to help Quinn reflect on positive past experiences with friends regarding lateness."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Quinn did not reflect on their values. Client objective was not met because the conversation is still not prompting deeper self-exploration.",
-          "client_utterance": "I guess I value being there for my friends, but it’s hard to see how it connects to my own needs. I just feel caught in this cycle where I can’t really think about myself. It’s like I have to keep going.",
-          "therapist_utterance": "It sounds like you recognize the importance of being there for your friends, but you also feel trapped in that cycle. What do you think would happen if you allowed yourself to take a step back and consider your own needs for a moment? How might that change things for you?",
-          "therapist_use": "Raising Awareness: used to prompt Quinn to reflect on their needs and feelings."
+          "reason_for_ending": "KEEP, therapist objective not met: the therapist has not yet guided Quinn toward reframing their thoughts. client objective not met: Quinn is still grappling with their beliefs about responsibility.",
+          "client_utterance": "It feels kind of relieving to see that, but I still think I should be doing more. I just don’t want to let anyone down, especially Lucy. But maybe it’s okay to not be perfect all the time?",
+          "therapist_utterance": "It’s a step forward to realize that perfection isn’t necessary. You’re doing your best in a challenging situation. What might it look like for you to accept that sometimes delays happen and that it doesn’t define your care for your friends?",
+          "therapist_use": "Reframe the Thoughts: used to assist Quinn in developing a more balanced perspective on their feelings of responsibility."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Quinn did not engage with the idea of stepping back. Client objective was not met because Quinn is still feeling defensive and overwhelmed.",
-          "client_utterance": "I don’t even know where to start with that. It feels risky to think about myself when everyone else needs me. I guess I just don’t want to let anyone down.",
-          "therapist_utterance": "It's completely understandable to worry about letting others down when you’re used to being their support. But it's also important to consider your own well-being. What small step do you think you could take toward acknowledging your own feelings, even just a little?",
-          "therapist_use": "Alternative Perspective: used to encourage Quinn to view their situation from a new angle."
-        },
-        {
-          "reason_for_ending": "MOVE - Therapist objective was met as Quinn began to acknowledge their feelings and the need for self-care. Client objective was met because Quinn expressed a slight willingness to explore their own needs.",
-          "client_utterance": "Maybe I could start by just talking about how I feel, even if it’s just a little bit. It’s hard, but I think it might be worth exploring. I’m just scared of what that might lead to.",
-          "therapist_utterance": "I’m glad to hear you’re considering that. Exploring your feelings can be a powerful step, and it’s okay to feel scared about it. Remember, you don’t have to do it all at once; we can take it at your pace.",
-          "therapist_use": "Continuum Technique: used to encourage Quinn to rate their feelings and acknowledge the fear of exploration."
+          "reason_for_ending": "MOVE, therapist objective met: the therapist has built rapport and facilitated deeper awareness. client objective met: Quinn has begun to reflect on their feelings and the complexity of their relationships.",
+          "client_utterance": "I think it would be nice to just let things flow sometimes instead of stressing about being on time. I guess I can try to remind myself that it’s okay to be late sometimes and that my friends will understand.",
+          "therapist_utterance": "That sounds like a positive shift in your thinking! Allowing yourself that grace can relieve some of the pressure you feel. It’s great to hear you’re considering a more flexible perspective on your friendships.",
+          "therapist_use": "Double-sided reflection: used to validate Quinn's emerging acceptance while reinforcing their insight about flexibility."
         }
       ]
     },
@@ -142,27 +134,30 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Quinn's ambivalence about changing their behavior regarding their punctuality and caretaking role while enhancing their motivation for change.",
+          "objective": "To explore Quinn's ambivalence about punctuality and the impact of interpersonal relationships on their self-perception.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Facilitate a discussion about Quinn's conflicting feelings about being late and their desire to be more organized.",
-                "Encourage Quinn to express both the pros and cons of their current behavior and the potential changes they are considering."
+                "Ask Quinn to reflect on their feelings about being late and the beliefs surrounding it.",
+                "Encourage them to express both sides of their ambivalence: the desire to be punctual versus the fear of judgment.",
+                "Use reflective listening to validate their feelings and reinforce the complexity of their situation."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask open-ended questions to help Quinn articulate their desire for change and the benefits they see in being more punctual.",
-                "Reflect back any statements that indicate a desire for change to reinforce their motivation."
+                "Prompt Quinn to discuss any past instances where they felt more relaxed about punctuality.",
+                "Encourage them to articulate the benefits they see in potentially changing their approach to time management.",
+                "Highlight any statements that suggest a desire for change, reinforcing these insights."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussions",
+              "strategy_name": "Decisional Balance Discussion",
               "instructions_for_therapist": [
-                "Guide Quinn through a pros and cons analysis of their current caretaking behavior versus the implications of reducing their involvement.",
-                "Help Quinn identify discrepancies between their values (e.g., being reliable) and their current behaviors."
+                "Facilitate a discussion about the pros and cons of their current behavior regarding punctuality.",
+                "Help Quinn identify how their current behaviors align or conflict with their personal values and goals.",
+                "Encourage them to consider how their behavior impacts their relationships with friends, particularly Lucy."
               ]
             }
           ]
@@ -170,85 +165,80 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Challenge Automatic Thoughts",
               "instructions_for_therapist": [
-                "Encourage Quinn to challenge their automatic thoughts about being rude for keeping people waiting.",
-                "Help them to identify evidence that contradicts the belief that they are incompetent or unlovable when they are late."
+                "Guide Quinn to identify specific automatic thoughts related to being late.",
+                "Ask open-ended questions to challenge the validity of these thoughts, such as 'What evidence do you have that being late is rude?'",
+                "Encourage them to gather counter-evidence and reframe negative thoughts into more balanced perspectives."
               ]
             },
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Practice New Thinking",
               "instructions_for_therapist": [
-                "Ask Quinn to evaluate the validity of their beliefs about organization and punctuality by seeking evidence from past experiences.",
-                "Guide them to identify times when they were organized and on time, reinforcing their capability."
-              ]
-            },
-            {
-              "technique_name": "Efficiency Evaluation",
-              "instructions_for_therapist": [
-                "Collaborate with Quinn to assess the time spent on unnecessary tasks that lead to their lateness.",
-                "Explore alternative strategies that could enhance their efficiency while maintaining their commitment to helping others."
+                "Encourage Quinn to use the reframed thoughts in real-life scenarios, especially when they feel anxious about being late.",
+                "Discuss how practicing these new thoughts can gradually influence their behavior and emotional response.",
+                "Support them in developing small, achievable goals that align with their new perspectives."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, I will first focus on exploring Quinn's ambivalence about their current behaviors through motivational interviewing strategies. By using open-ended questions and reflections, I aim to elicit change talk, allowing them to express their desire for change and the perceived benefits. This will help highlight discrepancies between their values and actions. Following this, I plan to employ CBT techniques such as decatastrophizing and evidence-based questioning to challenge Quinn's negative self-beliefs. This dual approach will allow us to examine their automatic thoughts and restructure unhelpful beliefs. By facilitating discussions about the pros and cons of their current behavior and exploring their efficiency, I aim to bolster Quinn's self-efficacy and confidence in their ability to change. This collaborative, non-confrontational stance aligns with their resistance profile, allowing them to feel safe in voicing concerns and exploring their feelings without pressure to take immediate action.",
-        "progress_marker": "Quinn articulates specific reasons for wanting to change and recognizes at least one belief that contributes to their ambivalence."
+        "therapist_reasoning": "First, I focused on exploring Quinn's ambivalence by facilitating a discussion about their feelings regarding punctuality and the judgments they perceive from others. This aligns with MI strategies that encourage reflection and validation of their emotional conflicts. Next, I elicited change talk by prompting Quinn to recall instances where they felt more at ease about being late, reinforcing the positives of flexibility in social settings. This approach aims to strengthen their motivation for change. Additionally, engaging in a decisional balance discussion will help Quinn recognize discrepancies between their values and current behaviors, further enhancing their readiness for change. In the CBT plan, I will address automatic thoughts by guiding Quinn to articulate and challenge their negative beliefs about being late, using evidence-based questioning. By encouraging them to reframe these thoughts, we will work on developing a more balanced self-view. Finally, practicing new thinking in real situations will help reinforce their self-efficacy and confidence, allowing for gradual behavioral changes without overwhelming pressure.",
+        "progress_marker": "Client demonstrates increased insight into the impact of beliefs on their behavior, articulates both sides of their ambivalence, and begins practicing reframed thoughts in real-life situations."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my relationships and understand my role in them better.",
+        "client_objective": "I want to explore my feelings about my relationships and my role in them without feeling judged.",
         "client_state": {
-          "awareness": "I'm beginning to notice that my tendency to overcommit to helping others might be a way to avoid my own feelings of helplessness and grief.",
-          "motivation": "I want to change because I see how my behaviors affect my relationships, but I'm also scared of what that change might mean for me.",
-          "openness": "I'm willing to talk about my thoughts and emotions, but I still hesitate because I don't know if it will lead to anything useful.",
-          "resistance": "I feel a strong urge to stay in my comfort zone, even though I know that my current situation is not working for me."
+          "awareness": "I'm starting to recognize that my procrastination and caretaking behaviors might be affecting my well-being and relationships.",
+          "motivation": "I feel a pull towards change because I see the negative impact of my actions, but I'm scared of what that change might mean.",
+          "openness": "I'm somewhat willing to share my thoughts and emotions, but I still hold back due to fear of being misunderstood or invalidated.",
+          "resistance": "I experience a strong sense of doubt about whether change is possible for me, often feeling anxious about taking the first steps."
         },
-        "client_reasoning": "Lately, I’ve started to realize that something isn’t quite right in my life. I keep waiting for things to get better on their own, but they don’t. I notice that I often feel overwhelmed when my friends come to me with their problems, especially with Lucy’s issues. It’s like I'm trying to fix everyone else while my own feelings are just sitting there unresolved. I want to change, but I’m scared. What if I start focusing on myself and lose my friends? What if I can’t handle my own grief? Therapy helps me see these patterns, but there’s still a part of me that doubts whether I can truly change or if it’s even worth it. I feel stuck between wanting to support my friends and needing to take care of myself, and I just don’t know how to bridge that gap.",
-        "progress_marker": "The client has begun to articulate their feelings about their relationships and the impact of their behaviors more clearly."
+        "client_reasoning": "I'm beginning to see that my relationship with Cricket and my friends isn't as healthy as I thought. I often feel overwhelmed by the need to help Lucy and others, but I also see how this takes away from my own needs. It’s like I’m stuck in this cycle where I feel guilty if I prioritize myself. I know I should be more organized and manage my time better, yet I keep finding excuses to avoid leaving work on time. I want to change, but I worry that I won't be able to stick with it or that it won't make a difference. Sometimes, I wonder if my feelings of being unlovable and helpless will always hold me back. Talking about this in therapy is helping me think more deeply, but I still feel anxious about what change might bring.",
+        "progress_marker": "Client expresses awareness of the need for change and discusses specific patterns in their behavior and emotions."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective of exploring ambivalence about change was not fully met as Quinn did not articulate specific reasons for wanting to change. The client's objective of understanding their role in relationships was not sufficiently met as they still feel conflicted.",
-          "client_utterance": "I keep thinking about how overwhelmed I feel when my friends come to me with their problems. I want to support them, but it feels like I’m drowning in their issues. I wonder if stepping back would even make a difference.",
-          "therapist_utterance": "It sounds like you're caught between your desire to be there for your friends and the weight of their problems. What do you think would happen if you allowed yourself to step back and focus on how you're feeling?",
-          "therapist_use": "Open-ended question: encourages exploration of feelings and ambivalence."
+          "reason_for_ending": "KEEP: Therapist's objective not met as Quinn hasn't fully explored their feelings about punctuality. Client's objective not met as Quinn still feels judged and hasn't fully articulated their ambivalence.",
+          "client_utterance": "I've been thinking about how I feel when I'm late. I realize I sometimes feel like I'm letting Lucy down, but I also know she wouldn't actually think less of me for it. It's just hard to shake that feeling of guilt.",
+          "therapist_utterance": "It's completely understandable to feel guilt when you care about someone. It seems like you’re caught between wanting to be there for Lucy and the pressure of punctuality. Can you share more about how being late really impacts your relationship with her?",
+          "therapist_use": "Exploring ambivalence: encouraged Quinn to reflect on the emotional conflict between caring for Lucy and their feelings about punctuality."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of eliciting change talk was not fully met as Quinn did not express a clear desire for change. The client's objective of exploring their feelings about their relationships was not completely fulfilled as they still feel uncertain.",
-          "client_utterance": "I honestly have no idea. I’m scared that if I stop helping, things will fall apart. But I also feel like I’m losing myself in the process.",
-          "therapist_utterance": "It's understandable to fear the consequences of taking a step back, but it seems like you're also recognizing the toll it's taking on you. What would it mean for you to take care of yourself a bit more, even if it feels risky?",
-          "therapist_use": "Reflective listening: helps Quinn articulate the emotional conflict they are experiencing."
+          "reason_for_ending": "KEEP: Therapist's objective not met as Quinn is still struggling to articulate the benefits of being more flexible. Client's objective not met as Quinn hasn't fully expressed their fears about judgment.",
+          "client_utterance": "Well, I guess if I was more relaxed about being late, I wouldn’t feel so anxious all the time. But part of me worries that if I let myself be late, it means I don’t care enough about my friends. It's like I'm stuck in this loop.",
+          "therapist_utterance": "It sounds like you see some potential benefits in being more flexible, yet you also fear it might signal a lack of care. This loop you mentioned seems quite heavy. How do you think your friends would react if you expressed this fear to them?",
+          "therapist_use": "Eliciting change talk: prompted Quinn to consider the benefits of flexibility while validating their fears."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of guiding Quinn through a pros and cons analysis was not fully met as they did not clearly identify benefits of taking a step back. The client's objective of understanding their role in relationships was not sufficiently met as they remain conflicted.",
-          "client_utterance": "I guess it would mean I’d have some time to think about what I really want. But I'm worried that my friends might not understand why I need that time. It's just hard to imagine what that would look like.",
-          "therapist_utterance": "Imagining that time for yourself sounds important, but I can see how the fear of misunderstanding from your friends holds you back. What are some potential benefits you see if you were to prioritize your own needs?",
-          "therapist_use": "Decisional balance discussion: encourages Quinn to weigh the pros and cons of focusing on themselves."
+          "reason_for_ending": "KEEP: Therapist's objective not met as Quinn hasn't yet articulated how their behavior aligns with their values. Client's objective not met as Quinn continues to hold back on sharing deeper thoughts.",
+          "client_utterance": "I think my friends would probably understand, but I still worry about what they might think. I’m starting to see that I prioritize their needs over mine, and that doesn’t feel right. I just don’t know how to change that mindset.",
+          "therapist_utterance": "It's a significant insight to recognize the imbalance between your needs and those of your friends. You seem to care deeply about them, and yet it’s essential to take care of yourself too. What do you think would happen if you allowed yourself to prioritize your own needs sometimes?",
+          "therapist_use": "Decisional balance discussion: facilitated Quinn's exploration of the implications of prioritizing their own needs."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of helping Quinn identify discrepancies between their values and actions was not fully met as they did not articulate clear reasons for change. The client's objective of exploring their feelings about their relationships remained unfulfilled as they still feel stuck.",
-          "client_utterance": "I think if I took time for myself, I could be more present for my friends when I’m with them. But I still feel guilty. I don’t want to let them down.",
-          "therapist_utterance": "It's great to hear that you see the potential benefit of being more present for your friends. The guilt is understandable, but it sounds like you’re also recognizing that taking care of yourself could enhance your relationships. How might you begin to communicate this to your friends?",
-          "therapist_use": "Eliciting change talk: encourages Quinn to express potential changes and their positive outcomes."
+          "reason_for_ending": "KEEP: Therapist's objective not met as Quinn hasn't identified specific automatic thoughts about being late. Client's objective not met as Quinn still feels overwhelmed by their emotions.",
+          "client_utterance": "I guess I feel like if I put myself first, it means I’m not being a good friend. I’ve always thought that being there for others was my role. But it’s exhausting, and sometimes I just want to be free of that pressure.",
+          "therapist_utterance": "It’s powerful to acknowledge that feeling of exhaustion. You’re juggling a lot of responsibilities, and it’s okay to want a break from that pressure. Can we explore some of those thoughts that make you feel like you must always prioritize others?",
+          "therapist_use": "Challenging automatic thoughts: guided Quinn to articulate thoughts that make them feel pressured to prioritize others."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of reinforcing Quinn's motivation for change was not fully met as they did not express a strong desire to act. The client's objective of exploring their feelings was not sufficiently met as they still feel hesitant.",
-          "client_utterance": "I guess I could try to explain that I need some space, but I worry they won't understand. What if it just makes everything worse?",
-          "therapist_utterance": "It's completely natural to have those fears about how your friends might react. But it might also be worth exploring what evidence you have that suggests they won't understand. Have they been supportive of your needs in the past?",
-          "therapist_use": "Evidence-based questioning: helps Quinn evaluate their beliefs about their friends' reactions."
+          "reason_for_ending": "KEEP: Therapist's objective not met as Quinn hasn't begun to reframe their negative thoughts about being late. Client's objective not met as Quinn continues to feel stuck in their beliefs.",
+          "client_utterance": "Sometimes I think that if I’m late, it shows I’m careless. But then I remember that my friends are often late too, and we laugh about it. It’s just hard to shake that feeling that I should always be on time.",
+          "therapist_utterance": "It’s great that you can recognize the humor in those moments with your friends. It suggests they don’t judge you as harshly as you might judge yourself. What if you could remind yourself that being late doesn’t define your worth or care for them?",
+          "therapist_use": "Reframing negative thoughts: supported Quinn in recognizing that being late doesn’t equate to being uncaring."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of helping Quinn challenge negative self-beliefs was not fully met as they did not articulate a clear belief to challenge. The client's objective of understanding their role in their relationships remained unfulfilled as they still feel conflicted.",
-          "client_utterance": "I think they have been supportive, but I’m just scared that if I need too much, they’ll see me as weak. It's like I'm stuck in this loop of feeling like I have to be strong.",
-          "therapist_utterance": "That loop can be really tough to break, especially when you equate strength with not needing help. What would it mean for you to embrace vulnerability as a form of strength instead? How might that change your relationships?",
-          "therapist_use": "Reflections on values: helps Quinn consider the strength in vulnerability."
+          "reason_for_ending": "KEEP: Therapist's objective not met as Quinn hasn't practiced any reframed thoughts in real-life scenarios yet. Client's objective not met as Quinn still feels anxious about their next steps.",
+          "client_utterance": "I think it would be easier to let go of that judgment if I had some practice with it. I just don’t know where to start. Maybe I could try being a bit late next time but still communicate with my friends?",
+          "therapist_utterance": "Practicing that kind of communication sounds like a wonderful step forward. It allows you to test the waters while still being mindful of your friends’ feelings. How might it feel to approach your friends with that openness about your struggles?",
+          "therapist_use": "Encouraging practice: invited Quinn to consider implementing small steps to communicate their feelings about punctuality."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective of exploring Quinn's ambivalence and reinforcing motivation for change was met as Quinn articulated specific reasons for wanting to change. The client's objective of exploring their feelings about their relationships was met as they began to understand their fears and values.",
-          "client_utterance": "I guess I’m starting to see that taking care of myself doesn’t mean I’m weak. Maybe I can talk to my friends about needing some time without losing them. I just need to figure out how.",
-          "therapist_utterance": "That realization is a significant step forward, Quinn. Recognizing that self-care can coexist with your role as a supporter is vital. How do you feel about setting a small goal to start that conversation with your friends?",
-          "therapist_use": "Reinforcing change talk: validates Quinn's emerging motivations and encourages actionable steps."
+          "reason_for_ending": "MOVE: Therapist's objective met as Quinn has explored ambivalence and articulated benefits of change. Client's objective met as Quinn has expressed willingness to explore their feelings without fear of judgment.",
+          "client_utterance": "I feel a bit more hopeful about it now. I think I can try to communicate with my friends about this and see how it goes. Maybe I can be a bit more flexible and not judge myself so harshly.",
+          "therapist_utterance": "That’s an excellent realization, Quinn! It sounds like you’re ready to take some meaningful steps toward feeling more in control of your time and your relationships. I’m here to support you as you explore this new perspective.",
+          "therapist_use": "Reflection and reinforcement: validated Quinn's insights and readiness for change, supporting their commitment to a more flexible approach."
         }
       ]
     },
@@ -257,27 +247,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Quinn's commitment to change and enhance self-efficacy.",
+          "objective": "Strengthen Quinn's commitment to change and explore their confidence in implementing new behaviors.",
           "strategies": [
             {
-              "strategy_name": "Commitment Language",
+              "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Quinn to articulate their reasons for wanting to change, focusing on personal values and goals.",
-                "Encourage Quinn to express their commitment to taking specific actions in the near future."
+                "Ask Quinn to articulate their reasons for wanting to change, emphasizing their motivations to manage time better and reduce feelings of guilt.",
+                "Encourage Quinn to express specific actions they are willing to take in the upcoming week to address their punctuality and caregiving roles."
               ]
             },
             {
-              "strategy_name": "Exploring Confidence",
+              "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Facilitate a discussion around past successes in managing similar situations to reinforce Quinn's belief in their ability to change.",
-                "Use scaling questions to assess Quinn's confidence in their ability to implement the action plan."
+                "Use scaling questions to gauge Quinn's confidence in making changes, such as on a scale of 1 to 10, how confident do they feel about leaving work on time?",
+                "Discuss what steps they believe will help increase their confidence and readiness to implement these changes."
               ]
             },
             {
-              "strategy_name": "Identifying Supports",
+              "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Encourage Quinn to identify individuals in their support network who can assist during the change process.",
-                "Discuss potential resources available to Quinn, such as community support or professional help."
+                "Facilitate a discussion to help Quinn identify support systems, such as friends who understand their situation and can assist in accountability.",
+                "Encourage Quinn to think about resources they can utilize, like time management tools."
               ]
             }
           ]
@@ -285,79 +275,84 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Challenging Automatic Thoughts",
               "instructions_for_therapist": [
-                "Collaborate with Quinn to create a detailed action plan outlining specific steps they wish to take.",
-                "Ensure each step is realistic, achievable, and gradually introduces change."
+                "Guide Quinn through identifying specific automatic thoughts related to their lateness and feelings of guilt.",
+                "Encourage Quinn to examine the evidence for and against their beliefs about being rude and unorganized."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Reframing Thoughts",
               "instructions_for_therapist": [
-                "Help Quinn identify potential barriers to their action plan and brainstorm practical solutions.",
-                "Encourage Quinn to focus on manageable changes rather than overwhelming themselves."
+                "Help Quinn to create balanced thoughts that reflect a more realistic view of their punctuality, emphasizing that delays can happen.",
+                "Assist Quinn in practicing these reframed thoughts in potential future scenarios."
               ]
             },
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Setting Specific Goals",
               "instructions_for_therapist": [
-                "Design a small, low-risk behavior experiment related to time management for Quinn to try before the next session.",
-                "Discuss the expected outcomes and how they will reflect on their feelings and beliefs afterward."
+                "Collaborate with Quinn to establish small, specific, and achievable goals for leaving work on time, such as setting reminders.",
+                "Discuss how Quinn can gradually implement these goals while addressing potential barriers."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan, I aimed to engage Quinn in a collaborative process that bolsters their motivation and readiness for change while addressing their resistance. By employing MI strategies such as commitment language, I will help Quinn articulate their reasons for change and foster a sense of ownership over the process. Exploring confidence and readiness will assist in identifying their belief in successfully implementing changes, thus enhancing self-efficacy. The identification of supports will create a safety net for Quinn as they navigate this transition. In tandem, CBT interventions like action planning will enable Quinn to outline specific, achievable steps, which are crucial given their anxiety and feelings of helplessness. Problem-solving skills training is vital to address their avoidance and overcommitment tendencies, ensuring they feel equipped to handle barriers. A behavior experiment will provide practical experience, allowing Quinn to confront their fears in a controlled manner. This structured approach aims to build momentum for change without overwhelming them, respecting their current phase of preparation.",
-        "progress_marker": "Quinn has successfully articulated specific actions they will take in the coming week and has identified at least one support person to assist them."
+        "therapist_reasoning": "The primary focus is to foster Quinn's readiness for change while addressing their feelings of anxiety and guilt regarding punctuality. By employing Motivational Interviewing strategies, I aim to strengthen their commitment language, encouraging Quinn to articulate their motivations clearly. This will reinforce their internal drive for change. Additionally, exploring confidence and readiness will allow us to pinpoint specific areas where Quinn feels uncertain, enabling me to tailor our interventions appropriately. Identifying support systems is essential since Quinn often feels overwhelmed, and having a network can bolster their efforts. In parallel, the CBT interventions will help Quinn challenge and reframe automatic thoughts that contribute to their anxiety about being late. By guiding them through a thought-challenging process, I can help them recognize the irrationality of their self-criticism. Finally, setting specific and achievable goals will provide a structured framework for Quinn, making the process less overwhelming and more manageable. This collaborative approach ensures that Quinn feels empowered and supported throughout their journey of change.",
+        "progress_marker": "Quinn will demonstrate increased confidence in their ability to implement behavioral changes by reporting successful attempts to leave work on time and reduced feelings of guilt in social situations."
       },
       "client_plan": {
-        "awareness": "I recognize that my current patterns, especially around my relationship with Cricket and my role as a caretaker, are unsustainable and negatively impacting my well-being.",
-        "motivation": "I feel a stronger desire to create change in my life, especially to alleviate the stress and anxiety that my current dynamics bring.",
-        "openness": "I am becoming more open to discussing my feelings and thoughts about my situation with my therapist, as I know I need support to navigate these changes.",
-        "resistance": "I still feel a lot of anxiety and fear about whether I can really make these changes stick, and sometimes I doubt that my efforts will matter."
+        "phase_of_change": "preparation",
+        "client_objective": "I hope to gain clarity on my coping strategies and how to manage my relationships better.",
+        "client_state": {
+          "awareness": "I realize that my current situation, especially my relationship with Cricket and my role with my friends, is affecting my well-being more than I acknowledged before.",
+          "motivation": "I feel a strong desire to improve my life and stop feeling overwhelmed by others' issues, especially as I see how it impacts my mental health.",
+          "openness": "I'm more willing to discuss my feelings and the complexity of my relationships with my therapist, recognizing that talking about these issues could lead to positive change.",
+          "resistance": "Despite my motivation, I still feel anxious about whether I can actually change and fear that my efforts might not lead to anything meaningful."
+        },
+        "client_reasoning": "I've started to understand how much my relationship with Cricket and my tendency to care for my friends has taken a toll on me. I know I need to make some changes because the way I’m currently living isn’t sustainable or healthy. I want to feel more in control and less anxious, which is why I'm talking about my feelings and thoughts in therapy. I have hope that by exploring new coping strategies, I can create a better balance in my life. However, I still worry about whether I can stick to these changes, and there's a part of me that doubts my ability to follow through. Therapy has helped me see the patterns in my behavior and how they affect my emotions, which gives me a little more confidence to take the first steps toward change, even if I still feel scared about what that might look like."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Quinn hasn't yet articulated specific actions they will take. Client objective not met: Quinn is still unsure about starting the conversation with friends.",
-          "client_utterance": "I think I’m getting closer to understanding how I can talk to my friends about needing time for myself, but I still feel really uncertain. What if they don’t take me seriously? I guess I don’t want to come off as selfish.",
-          "therapist_utterance": "It's understandable to feel uncertain about how your friends might react. It's also important to remember that expressing your needs doesn't mean you're being selfish; it's about being honest. What do you think would help you feel more confident in that conversation?",
-          "therapist_use": "Open-ended question: Encouraging Quinn to explore their feelings about the conversation."
+          "reason_for_ending": "KEEP: The therapist objective was not met because they did not explore Quinn's specific actions for the upcoming week. The client objective was not met as Quinn has not yet articulated a clear plan for managing their time better.",
+          "client_utterance": "I've been thinking about how I can start managing my time better, but I'm still unsure what specific actions I can take. I know I want to leave work on time, but it feels overwhelming to think about that change. Sometimes I feel guilty even considering it when Lucy needs my support.",
+          "therapist_utterance": "It's great that you're considering how to manage your time better, Quinn. Can you think about one or two specific actions you might take this week to help with your punctuality? This could help ease some of that overwhelm you're feeling.",
+          "therapist_use": "Strengthening Commitment Language: encouraged Quinn to articulate specific actions they could take."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet reinforced Quinn's commitment to take action. Client objective not met: Quinn still has doubts about their friends' reactions.",
-          "client_utterance": "Maybe if I think about what I want to say first, it would help. I just keep worrying about how they’ll view me if I need this time. I don’t want them to think I’m abandoning them.",
-          "therapist_utterance": "That sounds like a good strategy, preparing your thoughts can help you feel more in control. It might also be worth considering what you value in your friendships and how that relates to taking care of yourself. How do you think your friends would respond if they understood how important this is for you?",
-          "therapist_use": "Values exploration: Used to connect Quinn's self-care needs with their friendship values."
+          "reason_for_ending": "KEEP: The therapist objective was not met because they did not gauge Quinn's confidence in making changes. The client objective was not met as Quinn did not express clear intentions for the upcoming week.",
+          "client_utterance": "I think I could try setting a reminder on my phone to leave work on time. I just worry that I won't follow through, and then I'll feel even worse about it. I don’t want to disappoint Lucy or my other friends.",
+          "therapist_utterance": "Setting a reminder sounds like a practical step! On a scale of 1 to 10, how confident do you feel about sticking to that reminder this week? Understanding your confidence level can help us identify any barriers you might face.",
+          "therapist_use": "Exploring Confidence and Readiness: used a scaling question to gauge Quinn's confidence in implementing changes."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Quinn hasn't identified specific support people yet. Client objective not met: Quinn still feels anxious about their friends' potential reactions.",
-          "client_utterance": "I think they might be supportive if I explain it well, but I’m still scared. I can see how taking care of myself could help me be there for them, but I worry they won’t see it that way. It’s hard to imagine how to start that conversation.",
-          "therapist_utterance": "It's completely natural to feel scared about starting that conversation, especially when it feels so important. Perhaps you could think of one person who you believe would be understanding and supportive? Starting with just one person might make it feel less daunting.",
-          "therapist_use": "Identifying supports: Encouraging Quinn to find a specific person for support during this process."
+          "reason_for_ending": "KEEP: The therapist objective was not met because they did not discuss steps to increase Quinn's confidence. The client objective was not met as Quinn did not feel fully ready to commit to the changes.",
+          "client_utterance": "I’d say I’m around a 5. I know I want to leave on time, but I feel anxious about whether I really can. It’s hard to shake the feeling that I might fail.",
+          "therapist_utterance": "It's completely normal to feel anxious at a 5, especially with the pressure you feel. What do you think might help you feel more confident about this reminder? Identifying small steps could make a big difference.",
+          "therapist_use": "Exploring Confidence and Readiness: facilitated a discussion to identify specific steps that could bolster Quinn's confidence."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't helped Quinn create a detailed action plan. Client objective not met: Quinn still needs to identify a support person.",
-          "client_utterance": "I guess I could try talking to Lucy since she’s been supportive in the past. I just don’t want her to think I’m not there for her. But I know I can’t keep going like this.",
-          "therapist_utterance": "Talking to Lucy sounds like a positive step, especially since you feel she’s been supportive. You can frame the conversation in a way that emphasizes your care for her while also expressing your need for space. How do you feel about planning a time to have that discussion?",
-          "therapist_use": "Action planning: Collaborating with Quinn to create a plan for their conversation with Lucy."
+          "reason_for_ending": "KEEP: The therapist objective was not met because they did not help Quinn identify potential support systems. The client objective was not met as Quinn did not express a clear understanding of available supports.",
+          "client_utterance": "I suppose I could talk to my friends about this and see if they can help keep me accountable. It’s just that I feel like I’m burdening them with my issues, and I don’t want to add to their stress.",
+          "therapist_utterance": "Reaching out to your friends could actually be a great support for you, not a burden. They might appreciate knowing what you’re trying to achieve and how they can help. How do you think they would respond to your request for support?",
+          "therapist_use": "Identifying Supports and Resources: encouraged Quinn to consider reaching out to friends for accountability."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Therapist hasn't reinforced Quinn's self-efficacy. Client objective not met: Quinn still feels anxiety about the conversation.",
-          "client_utterance": "I think I could set a time this week to talk to her. It feels a bit less overwhelming when I think about it that way. But I still worry about what she might say.",
-          "therapist_utterance": "Setting a time this week is a great step, and it's completely normal to have some worries. What if you prepared some key points you want to share? Focusing on your feelings and needs can help steer the conversation in a positive direction.",
-          "therapist_use": "Preparation support: Helping Quinn focus on key points for the conversation."
+          "reason_for_ending": "KEEP: The therapist objective was not met because they did not explore Quinn's thoughts on potential barriers to reaching out. The client objective was not met as Quinn did not express confidence in seeking support.",
+          "client_utterance": "I think they’d be understanding, but I still feel hesitant. I don't want them to think I'm just complaining or that I can't handle things myself. It's hard to let them in on my struggles.",
+          "therapist_utterance": "It's understandable to feel hesitant about sharing your struggles. Remember, vulnerability can strengthen relationships. What if you approached the conversation by focusing on how their support could really help you?",
+          "therapist_use": "Double-sided reflection: validated Quinn's hesitance while encouraging them to consider the benefits of vulnerability."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Therapist hasn't ensured Quinn feels equipped to handle potential barriers. Client objective not met: Quinn still feels anxious about the conversation.",
-          "client_utterance": "I can see how preparing could help, and maybe I’ll feel more confident. I just hope it goes well. If it doesn’t, I’m not sure how I’d handle it.",
-          "therapist_utterance": "It's good that you're recognizing the importance of preparation for your confidence. Let’s also think about how you might handle the conversation if it doesn't go as planned. What are some ways you could respond if Lucy has a strong reaction?",
-          "therapist_use": "Problem-solving skills training: Encouraging Quinn to prepare for potential barriers."
+          "reason_for_ending": "KEEP: The therapist objective was not met because they did not help Quinn create balanced thoughts about their self-criticism. The client objective was not met as Quinn did not express a clear plan for communication.",
+          "client_utterance": "I guess if I frame it as asking for support rather than complaining, it might feel a bit easier. I just need to remind myself that it’s okay to ask for help. I want to feel more in control of my life.",
+          "therapist_utterance": "That's a great perspective, Quinn! Framing it as asking for support shows strength, not weakness. What steps can you take this week to communicate with your friends about your needs in a way that feels comfortable for you?",
+          "therapist_use": "Strengthening Commitment Language: encouraged Quinn to articulate their needs and plans for communication."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: Quinn has articulated specific actions and identified Lucy as a support person. Client objective met: Quinn is ready to take steps toward self-care and feels more confident.",
-          "client_utterance": "I think I’m ready to have that conversation with Lucy. I can prepare what I want to say and take it one step at a time. It feels good to have a plan.",
-          "therapist_utterance": "That’s wonderful to hear, Quinn! Having a plan is a significant step toward taking care of yourself. Remember, it’s okay to take this at your own pace, and I’m here to support you through the process.",
-          "therapist_use": "Commitment language: Reinforcing Quinn's readiness and commitment to change."
+          "reason_for_ending": "MOVE: The therapist objective was met as Quinn expressed a clear plan for asking friends for support. The client objective was met as Quinn demonstrated increased confidence and a willingness to communicate their needs.",
+          "client_utterance": "I think I can send a message to my friends, just letting them know I’m working on managing my time better and would appreciate their support. It feels good to have a plan! I’m hopeful that this will help me feel less overwhelmed.",
+          "therapist_utterance": "That’s fantastic, Quinn! It sounds like you have a solid plan in place, and it’s wonderful to hear that you’re feeling hopeful. I’m here to support you as you take these next steps, and I’m excited to see how this change unfolds for you.",
+          "therapist_use": "Identifying Supports and Resources: reinforced Quinn's commitment to reach out for support and acknowledged their progress."
         }
       ]
     }

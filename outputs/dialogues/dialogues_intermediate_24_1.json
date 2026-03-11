@@ -12,132 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Evan's awareness of his thoughts and feelings while building a trusting therapeutic relationship.",
+          "objective": "Increase Evan's awareness of his feelings and thoughts regarding his financial situation and family relationships without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen carefully to Evan's concerns and feelings.",
-                "Reflect back what he expresses to demonstrate understanding.",
-                "Use phrases like 'It sounds like you're feeling overwhelmed by your financial situation and worried about how it might affect your relationships.'"
+                "Listen actively to Evan's concerns about attending his sister's invitation and reflect back his feelings of anxiety and fear.",
+                "Validate his emotions by acknowledging how difficult this situation is for him."
+              ]
+            },
+            {
+              "strategy_name": "Expressing Empathy",
+              "instructions_for_therapist": [
+                "Express understanding of Evan's feelings of inadequacy and helplessness regarding his financial situation.",
+                "Reassure him that many people struggle with similar feelings and that it’s okay to feel overwhelmed."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Evan to discuss his values and what he wants in life.",
-                "Ask open-ended questions like 'What would it look like if you felt more at ease with your current situation?'",
-                "Help him explore the gap between his current feelings of inadequacy and his values of connection and honesty."
-              ]
-            }
-          ]
-        },
-        "cbt_plan": {
-          "interventions": [
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Encourage Evan to examine the validity of his automatic thoughts, such as 'I can't afford it' and 'I would be showing weakness.'",
-                "Ask questions like 'What evidence do you have that going to visit your sister would be too stressful?'"
+                "Encourage Evan to explore the differences between his current feelings about his financial state and his values about family support.",
+                "Ask open-ended questions about how he wants to feel about his relationships, prompting him to articulate his values."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Guide Evan to consider how he might view the situation differently.",
-                "Prompt with questions such as 'How might your sister feel if she knew you were struggling financially?'"
-              ]
-            }
-          ]
-        },
-        "therapist_reasoning": "In this session, the primary focus is on building rapport with Evan, who is currently in the pre-contemplation phase. Using motivational interviewing strategies, I will prioritize reflective listening to validate his feelings and develop a sense of trust. This approach is crucial given Evan's resistance and feelings of sadness about vulnerability. By employing developing discrepancy, I aim to help him recognize the contrast between his feelings of inadequacy and his deeper values of connection and authenticity. In parallel, the use of CBT techniques such as evidence-based questioning will encourage him to critically examine his automatic thoughts regarding his financial situation. This technique aims to foster awareness without prompting immediate behavior change. Additionally, the alternative perspective technique will facilitate Evan's exploration of different viewpoints regarding his circumstances, helping him to engage more deeply with his emotions and thoughts. By avoiding direct suggestions for change, I maintain a supportive environment that nurtures his self-exploration.",
-        "progress_marker": "Evan expresses willingness to share more about his feelings and begins to articulate the disconnect between his current situation and his values."
-      },
-      "client_plan": {
-        "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to find a way to talk about my struggles without feeling judged or weak.",
-        "client_state": {
-          "awareness": "I don't really see my financial issues as a problem that needs changing; it's just how things are.",
-          "motivation": "I don't have much desire to change; it feels overwhelming and pointless.",
-          "openness": "I feel reluctant to share my thoughts and feelings because I'm afraid of being seen as weak.",
-          "resistance": "I defend against discussing my situation because it brings up too many uncomfortable feelings."
-        },
-        "client_reasoning": "I look at my current situation and just feel defeated; my business failed, and now I can't afford to visit my sister. I want to tell her the truth, but what if she sees me as weak? I’ve always been taught that showing vulnerability is a sign of failure, and I can’t bear the thought of being judged. It’s easier to lie and avoid the conversation altogether. I know I should feel something about this, but I just want to push it away. Discussing it feels pointless because it won't change anything. Therapy seems scary; what if I end up feeling even more exposed? I think about how everyone else seems to have their life together, and here I am, struggling. It makes me want to hide even more, to put on a facade, rather than confront how I really feel. I guess that’s why I’m sitting here, feeling like I want to talk, but also wishing I could just disappear."
-      },
-      "dialogue": [
-        {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Evan still feels overwhelmed and reluctant to share fully. The client objective was not met because Evan is still defending against discussing his feelings.",
-          "client_utterance": "I guess I feel like I’m just stuck in this situation. It’s hard to see how I could talk to my sister about my financial issues when I’m worried she might think less of me. I don’t even know if I want to face that conversation, it just feels too heavy.",
-          "therapist_utterance": "It sounds like you're feeling really weighed down by the thought of talking to your sister. You're concerned that sharing your struggles might lead to judgment, and that makes it hard to even consider reaching out to her. What do you think might happen if you did share your feelings with her?",
-          "therapist_use": "Reflective Listening: used to validate Evan's feelings and encourage exploration of his thoughts."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Evan is still resisting discussing his situation. The client objective was not met because Evan is still feeling overwhelmed and defensive.",
-          "client_utterance": "I don’t know, maybe she would be supportive, but I can't shake the feeling that she’d see me as weak. I’ve always felt like I needed to put on a brave face, and admitting I have issues just feels like I’m failing. It’s easier to keep it all to myself.",
-          "therapist_utterance": "It sounds like there's a real conflict for you between wanting support and fearing vulnerability. You seem to really value strength and self-sufficiency, but it’s hard when you feel you might have to choose between those and being open about your struggles. What do you think would be the worst part of being honest with her?",
-          "therapist_use": "Developing Discrepancy: encouraged Evan to explore the gap between his values and his feelings."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Evan is still entrenched in his fears. The client objective was not met because Evan is still avoiding the conversation about his feelings.",
-          "client_utterance": "I guess the worst part would be feeling like I’m disappointing her or making her worry. It’s just so complicated. I don’t want pity; I just want things to be normal again, but they aren’t.",
-          "therapist_utterance": "It seems like you really want to maintain a sense of normalcy and avoid causing worry for your sister. Yet at the same time, you’re carrying a heavy load alone, which can be exhausting. What would it look like for you to find a balance between sharing and protecting her from worry?",
-          "therapist_use": "Reflective Listening: used to acknowledge Evan's concern for his sister while prompting him to consider balance."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Evan is still feeling trapped by his fears. The client objective was not met because Evan continues to resist sharing his thoughts.",
-          "client_utterance": "I honestly don’t know. I just feel like if I start talking about it, it’ll open up all these feelings I’ve been trying to avoid. It’s easier to just pretend everything is fine.",
-          "therapist_utterance": "It sounds like you're really trying to protect yourself from those overwhelming feelings. I can see how that avoidance feels safer, but it also leaves you feeling isolated. What would it take for you to feel safe enough to express even a little bit of how you’re feeling?",
-          "therapist_use": "Developing Discrepancy: helped Evan reflect on the cost of avoiding his feelings versus the potential benefit of expressing them."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Evan remains hesitant to explore feelings. The client objective was not met because Evan continues to feel overwhelmed and resistant.",
-          "client_utterance": "Maybe I could try to talk to her about something small first, but I just don’t know if I can really go there. I feel trapped between wanting support and fearing judgment.",
-          "therapist_utterance": "It sounds like you're considering taking a small step, which is a positive sign. Acknowledging that tension between wanting support and fearing judgment shows you’re beginning to see the complexity of your feelings. What small thing do you think you could share that might ease you into a deeper conversation?",
-          "therapist_use": "Reflective Listening: validated Evan's consideration of a small step while fostering exploration of his feelings."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Evan still holds back from expressing deeper feelings. The client objective was not met because Evan remains conflicted about sharing.",
-          "client_utterance": "Maybe I could just tell her that I’ve been struggling a bit without going into details. I don’t know if that’s enough, but it’s something.",
-          "therapist_utterance": "That sounds like a valuable step, and it’s great that you’re thinking about starting with something manageable. It allows for honesty while still protecting you from feeling too exposed. How do you feel about taking that step?",
-          "therapist_use": "Developing Discrepancy: encouraged Evan to consider a small, manageable step toward honesty with his sister."
-        },
-        {
-          "reason_for_ending": "MOVE - The therapist's objective was met as Evan is willing to consider sharing his struggles. The client objective was met as Evan expressed a desire to talk about his difficulties without feeling judged.",
-          "client_utterance": "I think I can try that. It feels a bit scary but also kind of relieving to think about being honest, even if just a little. Maybe I don’t have to carry this alone all the time.",
-          "therapist_utterance": "That’s a significant realization, Evan. It’s brave to consider being honest, and it sounds like you’re starting to see how sharing could lighten your load. Remember, reaching out to someone can be a step toward connection, which is important to you.",
-          "therapist_use": "Reflective Listening: reinforced Evan's willingness to share and recognized his desire for connection."
-        }
-      ]
-    },
-    {
-      "phase": "contemplation",
-      "therapist_plan": {
-        "phase_of_therapy": "contemplation",
-        "motivational_interviewing_plan": {
-          "objective": "Explore Evan's ambivalence about change while strengthening his motivation and readiness to address his feelings of inadequacy and financial concerns.",
-          "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Ask Evan to share his thoughts about the potential benefits and drawbacks of attending his sister's gathering.",
-                "Encourage him to express both his desire to support his sister and his fears of being judged or exposed financially.",
-                "Reflect on his mixed feelings to validate his experience and reduce resistance."
-              ]
-            },
-            {
-              "strategy_name": "Eliciting Change Talk",
-              "instructions_for_therapist": [
-                "Encourage Evan to verbalize any thoughts he has about wanting to change his current situation, focusing on the values that drive him.",
-                "Use open-ended questions to prompt him to discuss what he envisions as a more fulfilling life.",
-                "Reflect and affirm any statements that indicate a desire for change or acknowledgment of his feelings."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance Discussions",
-              "instructions_for_therapist": [
-                "Facilitate a discussion where Evan can weigh the pros and cons of remaining in his current behavior versus exploring vulnerability.",
-                "Help him recognize the discrepancy between his values (supporting family) and his current actions (avoidance).",
-                "Encourage him to articulate how he feels about each side of the decision."
+                "Gently prompt Evan to consider the impact of his avoidance on his relationships and emotional well-being.",
+                "Encourage him to reflect on what he might be missing out on by not attending social gatherings."
               ]
             }
           ]
@@ -147,80 +49,176 @@
             {
               "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Guide Evan to identify his automatic thoughts regarding attending his sister's gathering.",
-                "Challenge these thoughts by asking what the worst-case scenario would be and how likely it is to happen.",
-                "Help him reframe this thought to see it as less catastrophic and more manageable."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Assist Evan in creating a list of pros and cons regarding expressing his financial situation to his family.",
-                "Discuss how each item affects his feelings of self-worth and relationships.",
-                "Encourage him to reflect on whether the benefits of honesty outweigh the perceived risks."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Encourage Evan to examine the evidence behind his beliefs about needing to maintain a facade of control.",
-                "Ask guiding questions such as 'What evidence do you have that being vulnerable will lead to abandonment?'",
-                "Support him in finding counter-evidence that challenges his core beliefs."
+                "Introduce the concept of decatastrophizing by discussing the recent situation with his sister's invitation.",
+                "Help Evan articulate his worst-case scenario regarding attending the gathering and his financial situation.",
+                "Facilitate a reality check by discussing the likelihood of that worst-case scenario occurring and what evidence exists for and against it.",
+                "Encourage him to consider how he might cope if his fears were realized, emphasizing available support.",
+                "Guide him to reframe his perspective on attending the gathering, focusing on the positives of connecting with family.",
+                "Discuss self-compassion and how being honest about challenges does not diminish his worth."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan for Evan, I started by focusing on his ambivalence about change, which is characteristic of the contemplation phase. I utilized Motivational Interviewing strategies to explore his conflicting desires to support his sister while fearing exposure of his financial issues. Encouraging him to articulate change talk is crucial for enhancing his intrinsic motivation. Additionally, I included decisional balance discussions to help him recognize discrepancies between his values and current behaviors, fostering insight into his situation. For the CBT components, I chose decatastrophizing to help Evan challenge his catastrophic thinking about vulnerability, alongside a pros and cons analysis to weigh the emotional and relational impacts of his choices. Evidence-based questioning was included to help him critically evaluate his beliefs around performance and acceptance. This structured approach aims to empower Evan while maintaining a non-confrontational stance that respects his resistance and encourages gradual reflection on his feelings.",
-        "progress_marker": "Evan expresses increased understanding of his ambivalence and begins to articulate feelings about vulnerability and change."
+        "therapist_reasoning": "In this therapy plan for Evan, the primary focus is to build rapport and increase awareness without pressuring him toward change, aligning with his pre-contemplation phase. The MI strategies of reflective listening and expressing empathy are crucial for creating a safe space for Evan to articulate his feelings. By validating his emotions, I can reduce his defensiveness and foster a more open dialogue. Developing discrepancy will help Evan recognize the gap between his values and current behavior, which may prompt internal reflection. The CBT technique of decatastrophizing will allow Evan to confront his catastrophic thoughts about his financial situation and family relationships in a structured way. By helping him evaluate his fears and engage in self-compassion, I can guide him toward a more balanced perspective without pushing for immediate action. This approach respects his resistance and internal monologue while promoting engagement with his feelings and thoughts.",
+        "progress_marker": "Evan begins to articulate his feelings about his financial situation and family relationships more openly, showing signs of reduced defensiveness."
       },
       "client_plan": {
-        "awareness": "I am starting to see how my need to perform and hide my vulnerabilities affects my relationships and well-being.",
-        "motivation": "There is a part of me that wants to change and be more open, but I also fear the consequences of showing my true self.",
-        "openness": "I feel somewhat willing to share my experiences, but I worry that expressing my weaknesses will lead to judgment or rejection.",
-        "resistance": "I still hold back from fully embracing change, feeling a mix of sadness and doubt about whether I can truly change my patterns."
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I want to feel understood without being judged or pressured to change.",
+        "client_state": {
+          "awareness": "I think I have problems, but they don't seem that serious. Everyone has issues.",
+          "motivation": "I don't really want to change anything; I just want things to go back to normal.",
+          "openness": "I'm hesitant to share my feelings because I worry about being seen as weak.",
+          "resistance": "I feel defensive and want to avoid talking about my problems."
+        },
+        "client_reasoning": "I know I have issues, but I'm not sure they're worth discussing. It feels like everyone else is managing fine, and I just need to figure things out on my own. Talking about my financial struggles feels embarrassing and admitting that I can't handle things makes me feel weak. I worry that if I open up, people will see me as a failure, and I can't stand that. I think about how I've always had to put on a facade to fit in, and if I show vulnerability, it might lead to rejection. Therapy feels intimidating; it’s like shining a light on my weaknesses, which I’ve always tried to hide. I guess I just feel stuck and don't see how any conversation could help, so why bother? It seems safer to keep things to myself and avoid the risk of judgment or disappointment from others."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to further explore the ambivalence about sharing feelings. Client objective not met: Evan is still hesitant and hasn't fully articulated his feelings about vulnerability.",
-          "client_utterance": "I think I could start by telling her I’ve been feeling a bit overwhelmed, but I’m still scared. What if she asks too many questions or thinks I’m not handling things well? It’s hard to find the right words without feeling like I’m exposing too much.",
-          "therapist_utterance": "It sounds like you’re grappling with the fear of being questioned or judged, which makes the idea of opening up feel daunting. You want to protect yourself while also wanting to share a bit of your experience. What do you think would help you feel more comfortable if she does ask questions?",
-          "therapist_use": "Exploring Ambivalence: Helped Evan examine his fears about being questioned, validating his feelings."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Evan did not fully articulate his feelings about his financial situation. The client objective was not met because Evan still feels misunderstood and defensive about sharing his thoughts.",
+          "client_utterance": "I guess I just feel overwhelmed thinking about my sister's invitation. It's like, what if I show up and everyone sees how messed up my life is? I don't want to be the one who brings the mood down.",
+          "therapist_utterance": "It sounds like you're really anxious about how others might perceive you at that gathering. You worry that if you go, it might expose your current struggles, and that feels really heavy. It's understandable to want to avoid situations where you feel vulnerable.",
+          "therapist_use": "Reflective Listening: validated Evan's feelings of anxiety and fear regarding the gathering."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to facilitate more decisional balance discussions. Client objective not met: Evan hasn't fully explored his motivations for wanting to change.",
-          "client_utterance": "I guess if I tell her I’m feeling overwhelmed, she might just see me as weak, and that’s what I really want to avoid. I want her to see me as strong, but I also want to share something real. It’s just tough to balance those feelings.",
-          "therapist_utterance": "You’re caught in a push and pull between wanting to be seen as strong and the desire to be honest about your struggles. It’s understandable to want to protect that image, but it also seems like there's a part of you that wants connection. How do you think sharing a little could affect how you see yourself in relation to your sister?",
-          "therapist_use": "Decisional Balance Discussions: Encouraged Evan to weigh the benefits of sharing against his fears of vulnerability."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Evan didn't explore the impact of his avoidance on relationships. The client objective was not met because Evan still feels judged and doesn't fully express his emotions.",
+          "client_utterance": "Yeah, but I don't really think it matters if I go or not. I mean, everyone's got their problems, right? I don't want to burden them with mine.",
+          "therapist_utterance": "It's clear you feel like your problems are something you have to handle alone, and that can be really isolating. Many people do struggle with similar feelings, and it’s okay to feel that way. What do you think you might miss out on by not attending?",
+          "therapist_use": "Expressing Empathy: communicated understanding of Evan's feelings of inadequacy and the weight of his struggles."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to help Evan articulate the values driving his desire for connection. Client objective not met: Evan hasn't fully recognized the potential benefits of being open.",
-          "client_utterance": "If I share just a bit, maybe she’d understand I’m not perfect, but I still don’t want to be seen as failing. It’s like I want her to know I struggle, but I don’t want to be the one who needs fixing. I guess I just want to be accepted as I am.",
-          "therapist_utterance": "It’s clear that acceptance is very important to you, and it’s natural to want to feel valued for who you are rather than just what you achieve. By being open, you might find that your sister values your honesty even more than the facade of perfection. What do you think could happen if you allowed yourself to express that need for acceptance?",
-          "therapist_use": "Eliciting Change Talk: Encouraged Evan to articulate his values around acceptance and vulnerability."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Evan didn't articulate his values regarding family support. The client objective was not met because Evan still feels hesitant to open up.",
+          "client_utterance": "I don’t know. I mean, I care about my family, but I just feel like I can't show up without having everything figured out. It’s embarrassing to be around them when I feel like such a failure.",
+          "therapist_utterance": "It sounds like you value your family and want to connect with them but feel that your current situation makes it hard to do so. That conflict must be really challenging. How do you want to feel about your relationships with them?",
+          "therapist_use": "Developing Discrepancy: encouraged Evan to explore the gap between his current feelings and his values about family support."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to assist Evan in examining the evidence behind his fears. Client objective not met: Evan still holds back on fully embracing vulnerability.",
-          "client_utterance": "I worry that if I show her my struggles, she’ll feel sorry for me, and I don’t want pity. It feels like a slippery slope where I might lose control of how she sees me. I just don't know if I can risk that.",
-          "therapist_utterance": "It sounds like you’re really concerned about how your sister might perceive you, and that’s completely valid. Let’s take a moment to explore that fear: what evidence do you have that being open would lead to pity or judgment? Are there times when vulnerability actually brought you closer to someone?",
-          "therapist_use": "Evidence-Based Questioning: Helped Evan challenge his beliefs about vulnerability leading to negative outcomes."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Evan didn't reflect on the impact of his avoidance. The client objective was not met because Evan still feels defensive and isn't fully expressing himself.",
+          "client_utterance": "I guess I want to feel connected, but I just can't shake this feeling of being judged. It’s like I’m stuck in this cycle of thinking I should just keep my distance until I’m better.",
+          "therapist_utterance": "That feeling of being judged can be really paralyzing, especially when you want to connect. It seems like you might be missing out on valuable moments with your family by staying away. What do you think it would look like to let them in a little bit?",
+          "therapist_use": "Raising Awareness: gently prompted Evan to consider the impact of his avoidance on his relationships."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist should further facilitate Evan's exploration of the pros and cons of sharing. Client objective not met: Evan has not fully articulated a plan for how to approach the conversation.",
-          "client_utterance": "I guess I’ve seen times when being honest helped others feel less alone, but I still can’t shake the fear. I want to be strong, but I also want to connect. It’s just hard to see a clear path forward.",
-          "therapist_utterance": "You’re recognizing that vulnerability can foster connection, which is a significant insight. Balancing those desires is tricky, but it sounds like there’s a part of you that knows sharing could be beneficial. What would be the first step for you in transforming that fear into something more manageable?",
-          "therapist_use": "Decisional Balance Discussions: Facilitated a discussion on the pros and cons of vulnerability versus avoidance."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Evan didn't fully articulate his worst-case scenario. The client objective was not met because Evan still feels uncomfortable sharing his fears.",
+          "client_utterance": "I mean, the worst-case scenario is that I go, and everyone sees how messed up my life is and feels sorry for me. I just can't handle that kind of pity.",
+          "therapist_utterance": "It sounds like you're really fearful of being pitied, which can feel like a heavy burden to carry. Let’s think about the likelihood of that scenario happening and what evidence you have for and against it. How would you cope if that were to happen?",
+          "therapist_use": "Decatastrophizing: introduced the concept by discussing Evan's fears about attending the gathering."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist should help Evan solidify a small step toward sharing. Client objective not met: Evan still feels hesitant about taking any concrete action.",
-          "client_utterance": "Maybe I could just start with telling her that I’m feeling off lately, without going into too much detail. It feels like a step, but I still worry about how she’ll take it. Can I really do that?",
-          "therapist_utterance": "That sounds like a thoughtful approach, and it’s a great way to ease into a deeper conversation. Starting with something manageable can help you gauge her reaction without feeling overwhelmed. How are you feeling about this step now that you’re considering it?",
-          "therapist_use": "Eliciting Change Talk: Supported Evan in articulating a manageable step towards vulnerability."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Evan didn't engage in reality checking about his fears. The client objective was not met because Evan still feels defensive about his vulnerabilities.",
+          "client_utterance": "I don't know. I just think it would be really awkward. What if they ask about my business? I can’t just say I failed.",
+          "therapist_utterance": "It's understandable to worry about those kinds of questions, especially when you're feeling vulnerable. But what if they don’t ask? And even if they do, how might you respond in a way that feels honest but also comfortable for you?",
+          "therapist_use": "Decatastrophizing: facilitated a discussion about the likelihood of his worst-case scenario occurring."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: Evan has articulated a small step towards being open. Client objective met: Evan feels more empowered and ready to take action.",
-          "client_utterance": "I feel a bit more relieved thinking about just starting small. I don’t want to carry this alone anymore, and maybe this is a way to begin. I’m nervous, but I think I can do it.",
-          "therapist_utterance": "That’s a wonderful realization, Evan! Taking small steps can lead to meaningful changes, and it’s brave of you to consider sharing even a little. Remember, this journey is about finding what feels right for you, and I’m here to support you through it.",
-          "therapist_use": "Double-sided reflection: Validated Evan’s readiness for small steps while reinforcing the importance of support."
+          "reason_for_ending": "MOVE: The therapist objective was met as Evan began to articulate his feelings more openly. The client objective was met as Evan expressed a desire to feel understood without judgment.",
+          "client_utterance": "I guess if I could just be honest about where I’m at without worrying about judgment, that would help. I want to feel like I belong, even if I’m not perfect.",
+          "therapist_utterance": "It’s great to hear you express that desire for honesty and connection. Everyone has their struggles, and being genuine can often bring people closer together. Maybe exploring that with your family could lead to a deeper understanding.",
+          "therapist_use": "Reflective Listening: validated Evan's feelings of wanting connection and understanding despite his imperfections."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Evan's ambivalence about attending social gatherings and increase his motivation to consider change.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Ask Evan to share his feelings about the invitation from his sister and explore both his desire to attend and his fears about financial instability.",
+                "Facilitate a discussion about the pros and cons of attending the gathering, encouraging him to articulate both sides to create awareness of his ambivalence."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Encourage Evan to express any thoughts he has about the benefits of attending the gathering, focusing on connection with family and support.",
+                "Ask open-ended questions that prompt him to reflect on what change might look like and how it aligns with his values."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussion",
+              "instructions_for_therapist": [
+                "Guide Evan in creating a list of reasons for and against attending the gathering, emphasizing the emotional and relational impacts."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Decatastrophizing",
+              "instructions_for_therapist": [
+                "Introduce the concept of Decatastrophizing and explain how it can help him evaluate fears related to attending his sister's gathering.",
+                "Help Evan identify his catastrophic thought about the worst-case scenario regarding his financial situation and self-worth.",
+                "Facilitate a reality check by discussing the likelihood of this scenario occurring and identify evidence that contradicts his fear.",
+                "Encourage Evan to prepare for the worst by discussing strategies for coping if his fears come true, promoting a sense of agency.",
+                "Reframe the situation by exploring more balanced thoughts about attending, focusing on family connections.",
+                "Discuss self-compassion and normalize the experience of financial struggles, reinforcing his self-worth and value to family."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "To begin, I will explore Evan's ambivalence about attending his sister's gathering by understanding both his desire to connect and his fears about financial instability. I will use Motivational Interviewing (MI) strategies such as exploring ambivalence to help him articulate the pros and cons of attending, thus creating a space for self-reflection. I will elicit change talk by encouraging him to express potential benefits of attending, which aligns with his values of family connection. The decisional balance discussion will aid in highlighting discrepancies between his current avoidance behavior and his deeper values. Concurrently, I will implement CBT techniques like Decatastrophizing, where I will help him challenge his catastrophic thoughts surrounding financial strain and social interaction. This will involve reality checking his fears and reframing the situation to focus on positive family interactions. Furthermore, I will emphasize self-compassion to help him understand that vulnerability does not equate to weakness. This integrated approach will maintain a collaborative stance, respecting his ambivalence while gently guiding him toward potential insight and motivation for change.",
+        "progress_marker": "Evan begins to articulate both his fears and desires regarding social connections, showing increased awareness of the impact of his financial concerns on his relationships."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to explore my feelings about my financial situation and how it affects my relationships.",
+        "client_state": {
+          "awareness": "I am starting to see that my avoidance of social situations and my need to put on a facade may be linked to my feelings of inadequacy and fear of being judged.",
+          "motivation": "I feel an urge to change because I know my current behaviors are not helping me, but I also worry about the effort it will take and whether it will be worth it.",
+          "openness": "I am somewhat willing to share my thoughts and feelings, but I still hesitate because I'm afraid of being perceived as weak or vulnerable.",
+          "resistance": "I often doubt the possibility of change and find myself defending my current way of coping, even if I know it isn't effective."
+        },
+        "client_reasoning": "I'm beginning to realize that my financial struggles are affecting my relationships, especially with my sister. I notice how I avoid social gatherings because I can't afford to participate, and instead of being honest, I lie about my reasons. It’s frustrating because I want to support her, but the thought of admitting my struggles feels too vulnerable and scary. I feel conflicted; part of me wants to change and be open, but another part fears that if I show my weaknesses, people will see me as a failure. Therapy is helping me reflect on these patterns, but I still feel sad and doubtful about whether I can really change. What if I try and it doesn't work? Or what if people still see me as inadequate? It feels like an uphill battle, and I'm scared of what that might mean for me.",
+        "progress_marker": "The client begins to acknowledge the impact of avoidance on relationships and expresses a desire to explore these feelings further."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - The therapist did not fully explore Evan's feelings about his desire to attend the gathering. The client did not express specific fears or motivations clearly.",
+          "client_utterance": "I keep thinking about how much I want to see my family, but then I get stuck on the fear of what they'll think if they see me struggling. It's like I want to go, but I feel this weight of shame holding me back.",
+          "therapist_utterance": "It sounds like you really want to connect with your family, but the fear of judgment is creating a barrier for you. What do you think they would actually feel if they saw you there? Would it be more about concern or pity?",
+          "therapist_use": "Open-ended questioning: Encouraged exploration of Evan's fears and hopes regarding family connections."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist did not facilitate a discussion about the pros and cons of attending. The client did not articulate the benefits he might experience from attending.",
+          "client_utterance": "I guess I just worry that they'll look at me and think, 'Oh, there's Evan, the one who couldn't make it work.' I don’t want to be the topic of conversation.",
+          "therapist_utterance": "It's understandable to feel that way, and it can be tough to shake off those thoughts. What if we explored what might happen if you did go? What could be some positive outcomes of attending that gathering?",
+          "therapist_use": "Decisional balance discussion: Aimed to highlight the potential benefits of attending and counterbalance fears."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist did not adequately help Evan articulate his values and motivations for connection. The client did not express clear thoughts about the benefits he sees in attending.",
+          "client_utterance": "I mean, part of me knows it would feel good to be around them, to share some laughs or just be together. But then I think, what if they ask about my business and I don’t have a good answer?",
+          "therapist_utterance": "You seem to recognize the joy that could come from being with your family, which is a positive step. How might you answer if they do ask about your business? Could there be a way to frame it that feels authentic but not too heavy?",
+          "therapist_use": "Eliciting change talk: Encouraged Evan to articulate possible positive interactions and self-disclosure."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist did not fully explore Evan's catastrophic thoughts about being judged. The client did not demonstrate a clear understanding of how to cope with such judgments.",
+          "client_utterance": "I guess I could say something like, 'I’ve had a rough time, but I'm working on it.' Still, I just hate the thought of them looking at me with pity.",
+          "therapist_utterance": "That sounds like a balanced way to address your situation. It's important to remember that everyone has struggles, and your honesty might actually resonate with them. How would it feel to share that without fearing their pity?",
+          "therapist_use": "Decatastrophizing: Helped Evan challenge his fears about judgment and explore more balanced thoughts."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist did not help Evan process the emotional impact of his financial situation on family connections. The client did not express a strong desire to attend.",
+          "client_utterance": "I know that being honest might help, but I still feel so ashamed about where I am financially. It’s hard to let go of that fear of being seen as a failure.",
+          "therapist_utterance": "That shame can be a heavy burden to carry, especially when you want to connect. It sounds like you're caught between wanting to be genuine and fearing how that might be perceived. What if you allowed yourself to be vulnerable, just a little?",
+          "therapist_use": "Exploring ambivalence: Validated Evan's feelings while encouraging reflection on vulnerability and connection."
+        },
+        {
+          "reason_for_ending": "KEEP - The therapist did not guide Evan in developing strategies for coping with potential questions. The client did not express confidence in attending the gathering.",
+          "client_utterance": "I guess if I can just remind myself that everyone has their issues, it might help. But still, I can't shake off the feeling that I should just stay away until I’m better.",
+          "therapist_utterance": "It's great that you're recognizing that everyone has their struggles. Staying away might feel safer, but it could also lead to more isolation. What if we brainstormed some ways you could handle questions or comments if they come up?",
+          "therapist_use": "Reality checking: Encouraged Evan to think of practical ways to cope with social interactions."
+        },
+        {
+          "reason_for_ending": "MOVE - The therapist effectively explored Evan's fears and motivations while guiding him toward potential coping strategies. The client showed increased awareness of the impact of his avoidance and expressed a desire to connect with his family.",
+          "client_utterance": "I think if I can prepare myself for what to say, it might make it easier to go. I really do want to try connecting with them, even if it feels scary.",
+          "therapist_utterance": "That's a significant step, Evan. Preparing and planning can help ease those fears, and your desire to connect is really powerful. How would you feel about making a plan for how to approach the gathering?",
+          "therapist_use": "Eliciting change talk: Supported Evan's desire for connection and readiness to explore a plan for attending."
         }
       ]
     },
@@ -229,29 +227,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Evan's commitment to change by reinforcing his motivation and exploring his confidence in making necessary behavioral changes.",
+          "objective": "Strengthen Evan's commitment to change and enhance his motivation for attending social gatherings despite financial concerns.",
           "strategies": [
             {
-              "strategy_name": "Commitment Strengthening",
+              "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Evan to verbalize his reasons for wanting to change, focusing on personal values and goals.",
-                "Encourage him to express how he would feel if he successfully implemented changes.",
-                "Use reflective listening to affirm his motivations and aspirations."
+                "Encourage Evan to articulate his reasons for wanting to attend the gathering, emphasizing support for his sister and family connections.",
+                "Reinforce his commitment by asking open-ended questions about how attending might positively impact his emotional well-being and relationships."
               ]
             },
             {
-              "strategy_name": "Exploring Confidence",
+              "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Facilitate a discussion about his past successes in overcoming challenges.",
-                "Identify specific skills or resources he has that can support his change.",
-                "Use scaling questions to gauge his confidence in taking the first steps."
+                "Discuss Evan's feelings of anxiety and uncertainty about attending the gathering.",
+                "Explore his confidence in handling potential negative outcomes and reinforce his abilities to cope with challenges."
               ]
             },
             {
-              "strategy_name": "Identifying Supports",
+              "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Evan identify supportive individuals in his life who can assist him during this transition.",
-                "Discuss potential barriers he might face and brainstorm realistic solutions."
+                "Help Evan identify supportive individuals in his life who can encourage him during this transition.",
+                "Discuss resources he could draw on for emotional and practical support if he decides to attend."
               ]
             }
           ]
@@ -259,82 +255,72 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Collaborate with Evan to create a step-by-step action plan for visiting his sister, considering his financial concerns.",
-                "Break down the visit into smaller, manageable steps, such as discussing his feelings with her or planning a more affordable outing.",
-                "Encourage him to set a date for the visit and plan how he can communicate honestly about his situation."
-              ]
-            },
-            {
-              "technique_name": "Behavior Experiment",
-              "instructions_for_therapist": [
-                "Design a behavior experiment where Evan can express a small vulnerability to a trusted friend or family member.",
-                "Set clear expectations for this experiment, including what he hopes to learn about himself and others' responses.",
-                "Debrief after the experiment to discuss feelings and insights gained."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Guide Evan through identifying specific problems related to his financial situation and emotional struggles.",
-                "Use structured problem-solving methods to brainstorm solutions and evaluate their effectiveness.",
-                "Encourage him to assess the feasibility of each solution and select a plan to implement."
+                "Begin by discussing Evan's thoughts about attending his sister's invitation and the associated feelings of financial instability.",
+                "Guide him to articulate the worst-case scenario he envisions and evaluate its likelihood with evidence.",
+                "Help him prepare a coping plan for dealing with that worst-case scenario and encourage him to consider the positives of attending, reinforcing balanced thoughts.",
+                "Facilitate a discussion on self-compassion, emphasizing that being open about his financial struggles does not diminish his worth."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this plan, I first recognized Evan's core beliefs of inadequacy and fear of vulnerability, which hinder his readiness for change. Utilizing MI strategies, I aimed to strengthen his commitment by encouraging him to articulate his motivations and past successes, thereby enhancing his self-efficacy. The exploration of confidence is crucial, given his resistance to vulnerability; it allows him to see his strengths in overcoming challenges. By identifying supports, I can help him feel less isolated and more empowered. In the CBT component, action planning is key, allowing Evan to create a realistic and gradual approach to visiting his sister while addressing his financial concerns. The behavior experiment serves to challenge his belief that expressing vulnerability will lead to rejection, promoting emotional resilience. Lastly, problem-solving skills training provides practical tools to manage barriers he faces, helping him to build confidence in his ability to navigate his challenges. This structured approach addresses both his emotional resistance and practical concerns, facilitating his commitment to change.",
-        "progress_marker": "Evan successfully discusses his motivations for change and creates a feasible action plan for visiting his sister, demonstrating increased willingness to express vulnerability."
+        "therapist_reasoning": "In this session, I will first focus on enhancing Evan's motivation to change by using Motivational Interviewing strategies. I will encourage him to articulate his commitment to attending his sister's gathering, emphasizing the emotional benefits of reconnecting with family. This will help him recognize the importance of these relationships, which may counterbalance his fears about financial inadequacies. I'll also explore his confidence in handling potential negative outcomes, reinforcing his coping abilities. By identifying supports and resources, I aim to create a safety net for him, making the prospect of attending less daunting. In conjunction, I will implement the Decatastrophizing technique from CBT to address his catastrophic thoughts about the gathering. This involves challenging his worst-case scenario and helping him reframe his situation to see the potential positives. By fostering self-compassion, I hope to reduce his fear of showing vulnerability, thereby increasing his readiness to take action. Overall, the combination of MI and CBT will help Evan prepare for change in a realistic and supportive manner.",
+        "progress_marker": "Evan articulates specific reasons for wanting to attend the gathering and identifies at least one support system he can rely on."
       },
       "client_plan": {
-        "awareness": "I recognize that my financial struggles and avoidance of social interactions are negatively impacting my life and relationships.",
-        "motivation": "I feel a strong desire to change my situation and be more honest with myself and others.",
-        "openness": "I am becoming more willing to discuss my feelings and thoughts about my struggles, despite my fears of being seen as weak.",
-        "resistance": "I still feel significant doubt about whether I can change and fear that opening up might lead to rejection."
+        "phase_of_change": "preparation",
+        "client_objective": "I want to explore my feelings about my financial situation and how to handle social interactions more authentically.",
+        "client_state": {
+          "awareness": "I realize that my financial struggles are affecting my relationships and self-esteem, and I know I need to change my approach to these situations.",
+          "motivation": "I feel a growing desire to improve my life and connect more genuinely with others, even if it's scary.",
+          "openness": "I'm starting to feel more willing to discuss my feelings and fears, though I still worry about being judged or seen as weak.",
+          "resistance": "I still experience significant doubt about my ability to change and fear that revealing my struggles will lead to rejection or loss."
+        },
+        "client_reasoning": "I've begun to understand that my financial difficulties aren't just about money; they're affecting how I feel about myself and how I interact with my family. I know I can't keep pretending everything is fine or that I'm okay when I'm really not. Change feels necessary because I can't keep living in fear of being found out. I hope that by being more honest, I can build better relationships and feel less lonely. But there's still a part of me that fears rejection if I show my vulnerabilities. What if my family sees me as weak? Talking about this in therapy has helped me realize that these feelings are valid and that I have the potential to change, but I'm still scared. I want to believe that being open can lead to genuine connections, but I worry about how it will be received."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met due to insufficient exploration of Evan's motivations. Client objective not met as Evan hasn't fully articulated his feelings about sharing with his sister.",
-          "client_utterance": "I'm still feeling uncertain about how to approach this conversation with my sister. I want to be open, but the fear of being judged or seen as weak is still really strong. It's hard to shake the thought that she might worry or think less of me.",
-          "therapist_utterance": "It's completely understandable to feel that way, Evan. You’re caught between wanting to share and the fear of being judged. What would it mean for you to find a way to express your feelings while still feeling strong?",
-          "therapist_use": "Open-ended questioning: to encourage Evan to explore his feelings about strength and vulnerability."
+          "reason_for_ending": "KEEP - The therapist objective of enhancing Evan's motivation was not fully met. The client did not articulate specific reasons for wanting to attend the gathering.",
+          "client_utterance": "I guess I still feel a bit torn. I want to be there for my sister, but the thought of facing everyone makes me anxious. I just worry they’ll see my struggles and think less of me.",
+          "therapist_utterance": "It’s completely normal to feel torn, especially when you care about your sister. Let's focus on the reasons you want to go. What do you think you could gain emotionally from being there with your family?",
+          "therapist_use": "Open-ended question: used to encourage exploration of motivations for attending the gathering."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the discussion around Evan's past successes wasn't fully explored. Client objective not met since Evan hasn't yet acknowledged any past experiences that could bolster his confidence.",
-          "client_utterance": "I guess part of me thinks that if I can show her I'm handling things, maybe she won't worry too much. But then I think about times when I've shared, and it felt good to be honest, even if it was scary.",
-          "therapist_utterance": "It seems like you recognize that honesty can lead to positive outcomes, even if it feels risky. Can you think of a specific time when sharing something personal helped strengthen your relationship with someone? What was that experience like for you?",
-          "therapist_use": "Exploring past successes: to help Evan recognize his ability to connect through vulnerability."
+          "reason_for_ending": "KEEP - The therapist objective of strengthening commitment language was not fully met. The client still hesitated to articulate specific emotional gains.",
+          "client_utterance": "I mean, I know family is important, and I would love to see them. But then I just think about how awkward it might be if they ask about my financial situation.",
+          "therapist_utterance": "Seeing your family can be a wonderful opportunity to reconnect and share positive moments. Even if the conversation turns to your finances, you can frame it in a way that feels manageable. What do you think could be a way to communicate your current situation without feeling overwhelmed?",
+          "therapist_use": "Reframing: used to help Evan see a positive aspect of the gathering despite his fears."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Evan hasn't yet articulated how he would feel after sharing with his sister. Client objective not met since Evan is still grappling with fears.",
-          "client_utterance": "I remember a time when I opened up to a friend about my struggles, and it actually brought us closer. But I still worry that this situation is different, and she might see me as weak.",
-          "therapist_utterance": "That's a powerful realization, Evan. It shows you that openness can lead to connection, but I understand your concern about how your sister might perceive you. If you were to share a little, how do you think it might change your relationship with her?",
-          "therapist_use": "Reflective listening: to affirm Evan's past experiences and encourage him to envision potential positive outcomes."
+          "reason_for_ending": "KEEP - The therapist objective of exploring confidence and readiness was not fully met. The client has not yet identified any methods to cope with questions about his financial situation.",
+          "client_utterance": "I suppose I could just say something like, 'I'm going through a tough time.' But even that feels hard to say out loud. What if they react badly?",
+          "therapist_utterance": "It's understandable to fear a negative reaction, but opening up could also lead to support and understanding. You might be surprised by how they respond. Could you think of a couple of supportive responses you could give if someone does ask?",
+          "therapist_use": "Exploring coping strategies: aimed at helping Evan prepare for potential questions and reactions."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the action plan for the conversation with his sister hasn't been established yet. Client objective not met as Evan has not yet expressed a clear plan for moving forward.",
-          "client_utterance": "I think if I could tell her I've been overwhelmed, it could open the door for more honest conversations. But I still feel nervous about how she'll react. What if she doesn't understand?",
-          "therapist_utterance": "It's great that you're thinking about a way to start the conversation. That could be a manageable first step. What do you think you could say to her to help frame it in a way that feels safe for you?",
-          "therapist_use": "Action planning: to collaboratively develop a step-by-step approach for Evan to communicate with his sister."
+          "reason_for_ending": "KEEP - The therapist objective of identifying supports and resources was not fully met. The client has not yet recognized any supportive individuals he can rely on.",
+          "client_utterance": "I guess I haven’t really thought about who could support me through this. It just feels like I’m in this alone, and I don’t want to burden anyone.",
+          "therapist_utterance": "It can feel really isolating to think you have to handle everything by yourself. But there might be people in your life who would be more than willing to support you. Can you think of anyone who might understand what you’re going through?",
+          "therapist_use": "Support identification: used to help Evan recognize potential sources of support in his life."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Evan hasn't detailed his action plan yet. Client objective not met because he still feels unsure about the next steps.",
-          "client_utterance": "Maybe I could say something like, 'I've been feeling a bit off lately, but I'm okay.' It feels like a way to share without going too deep right away, but I still worry it won't be enough.",
-          "therapist_utterance": "That sounds like a solid approach, Evan. It allows you to share your feelings without feeling overwhelmed. How do you feel about setting a specific date to have that conversation?",
-          "therapist_use": "Commitment strengthening: to encourage Evan to take a concrete step towards his goal."
+          "reason_for_ending": "KEEP - The therapist objective of enhancing motivation was not fully met. The client has not yet expressed a commitment to attend the gathering.",
+          "client_utterance": "I can think of a couple of friends who might be there for me, but I still feel uncertain about going. It’s hard to shake the feeling that I should wait until things are better.",
+          "therapist_utterance": "It’s perfectly okay to feel uncertain, but waiting can sometimes prolong feelings of isolation. Attending the gathering could be a step toward feeling more connected and supported. What would it mean for you to take that step?",
+          "therapist_use": "Encouraging commitment: aimed at helping Evan consider the importance of taking action despite his fears."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as they haven't yet discussed Evan's feelings about committing to the action plan. Client objective not met since Evan has not fully expressed confidence in taking the next step.",
-          "client_utterance": "Setting a date sounds good, but I’m still nervous. What if I can't go through with it or if it doesn't go well? I’m worried about how I’ll feel afterward.",
-          "therapist_utterance": "Your concerns are really valid, and it’s okay to feel nervous. Remember, you’re taking a step that feels manageable, and you can always adjust if it feels too much. What do you think would help you feel more confident about taking that step?",
-          "therapist_use": "Exploring confidence: to help Evan identify resources or strategies that might bolster his confidence in moving forward."
+          "reason_for_ending": "KEEP - The therapist objective of reinforcing commitment was not fully met. The client did not articulate specific benefits of attending the gathering.",
+          "client_utterance": "I think it would be nice to just have some laughs and feel less alone. But I still can’t shake the worry that everyone will see my struggles.",
+          "therapist_utterance": "The joy of laughter and connection can be powerful, especially when feeling alone. Maybe focusing on those positive outcomes can help outweigh your fears. How might you remind yourself of those potential joys as the gathering approaches?",
+          "therapist_use": "Positive reinforcement: used to emphasize the potential emotional benefits of attending the gathering."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Evan has articulated a clear plan for the conversation with his sister. Client objective met as Evan has expressed a willingness to take steps towards opening up.",
-          "client_utterance": "I think I can do this. If I stick to saying that I'm feeling off, it feels like a manageable way to start. I just hope that it will lead to a better understanding between us.",
-          "therapist_utterance": "That's a significant step forward, Evan! It shows your willingness to be honest and connect with your sister. Trust in this process, and remember, I'm here to support you along the way.",
-          "therapist_use": "Affirmation: to reinforce Evan's commitment to change and validate his feelings about the upcoming conversation."
+          "reason_for_ending": "MOVE - The therapist objective was met as Evan articulated reasons for attending the gathering and recognized potential support. The client objective was also met as he explored his feelings and prepared for social interactions authentically.",
+          "client_utterance": "I think if I focus on the positives, like reconnecting with my family, it might help ease my fears. I also like the idea of having some friends around for support if I need it.",
+          "therapist_utterance": "That sounds like a wonderful plan, Evan. Focusing on the positives while having supportive friends nearby can make a big difference. It seems like you're ready to take this step toward connecting more authentically with your family.",
+          "therapist_use": "Affirming progress: used to validate Evan's readiness for change and commitment to attending the gathering."
         }
       ]
     }

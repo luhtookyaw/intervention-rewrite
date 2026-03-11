@@ -12,27 +12,22 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase awareness of personal feelings and experiences to foster curiosity about change.",
+          "objective": "Build awareness of the client's feelings of responsibility and its impact on their well-being.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Violet's concerns about her friends and her feelings of responsibility.",
-                "Reflect back her statements to validate her emotions and show understanding, such as 'It sounds like you feel really overwhelmed by your friends' struggles and feel a sense of obligation to support them.'"
-              ]
-            },
-            {
-              "strategy_name": "Expressing Empathy",
-              "instructions_for_therapist": [
-                "Acknowledge Violet's feelings of guilt and sadness regarding her friends' situations.",
-                "Use empathetic statements like 'It's understandable to feel conflicted when those you care about are in distress, and it’s difficult to think of your own needs in those moments.'"
+                "Begin by acknowledging Violet's feelings of responsibility for her friends' unhappiness.",
+                "Use reflective statements to validate her emotional involvement, such as, 'It sounds like you feel a strong sense of duty to support your friends, even when it weighs heavily on you.'",
+                "Encourage her to share more about her emotions without pushing for solutions."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Violet to explore the contrast between her current feelings of obligation and her personal values.",
-                "Ask open-ended questions such as 'What do you value most in your life, and how do you feel about how your current situation aligns with those values?'"
+                "Help Violet explore the contrast between her values of caring for friends and her own emotional well-being.",
+                "Ask open-ended questions like, 'What do you think happens to you when you focus entirely on your friends' issues?'",
+                "Encourage her to express any feelings of conflict she experiences regarding her responsibilities and her own needs."
               ]
             }
           ]
@@ -40,84 +35,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identify and Challenge Automatic Thoughts",
               "instructions_for_therapist": [
-                "Guide Violet in examining the evidence for her belief that she must always support her friends.",
-                "Ask questions like 'What evidence do you have that you are the only one who can help them?' to help her reflect on this belief."
+                "Facilitate a discussion about Violet's automatic thoughts regarding her friends' happiness, especially the thought, 'None of my efforts matter.'",
+                "Use evidence-based questioning to challenge this thought: 'What evidence do you have that your efforts do not matter?'",
+                "Guide her in recalling instances where her support positively impacted her friends."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Explore Alternative Perspectives",
               "instructions_for_therapist": [
-                "Encourage Violet to consider how her friends might feel about her well-being.",
-                "Ask her to reflect on statements like 'What do you think your friends would say if they knew how much their problems are affecting you?'"
-              ]
-            },
-            {
-              "technique_name": "Reality Testing",
-              "instructions_for_therapist": [
-                "Help Violet assess the impact of her emotional involvement with her friends on her own mental health.",
-                "Prompt her with questions such as 'How do you feel when you spend time focusing on your friends’ problems? What impact does that have on you?'"
+                "Discuss with Violet that while she feels responsible, her friends have their own support systems.",
+                "Encourage her to consider how her friends might seek help from others, not just her.",
+                "Reframe her belief about responsibility to include self-care, such as, 'While I care about my friends, I am not solely responsible for their happiness.'"
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, the aim is to build rapport with Violet while increasing her awareness of her emotional state and cognitive patterns. I will utilize motivational interviewing (MI) strategies, starting with reflective listening to establish a connection and validate her feelings of obligation and guilt. This approach will reduce her defensiveness and create a safe space for exploration. By expressing empathy, I will help her feel understood, which is crucial in the pre-contemplation phase. Then, I will develop discrepancy by guiding her to explore her values and how they align with her current situation, fostering curiosity about her own needs. Concurrently, I will employ cognitive behavioral therapy (CBT) techniques, such as evidence-based questioning, to challenge her belief that she must always be available to her friends. This will encourage her to think critically about the validity of her beliefs. Alternative perspective tasks will help her see how her friends might perceive her struggles, fostering reflection. Lastly, reality testing will bring awareness to the emotional toll her situation is taking on her, while keeping the focus on awareness rather than immediate change.",
-        "progress_marker": "Violet demonstrates increased reflection on her feelings and begins to articulate her values and needs."
+        "therapist_reasoning": "In this session, the therapist begins by using reflective listening to validate Violet's feelings of responsibility towards her friends, acknowledging her emotional involvement. This approach is essential to build rapport and trust, which are critical at this early stage of therapy. The therapist then employs the MI strategy of developing discrepancy by exploring the conflict between Violet's caregiving values and her own emotional needs. This helps to raise her awareness of the impact of her current behavior. Concurrently, the CBT interventions focus on identifying and challenging her automatic thoughts about her effectiveness in supporting her friends. By prompting her to recall positive instances, the therapist encourages Violet to reframe her beliefs about responsibility. This dual approach allows the therapist to engage Violet in a gentle exploration of her thoughts and feelings without pushing for immediate change, respecting her pre-contemplation status while fostering curiosity and awareness.",
+        "progress_marker": "Violet demonstrates increased awareness of her thoughts and feelings about her friends' unhappiness and begins to articulate the emotional toll it takes on her."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I want to understand why my friends are struggling and how I can help them better.",
+        "client_objective": "I want to talk about my friends' issues and how I feel overwhelmed by them.",
         "client_state": {
-          "awareness": "I don't really see my own struggles as a problem; my friends need me more than I need to focus on myself.",
-          "motivation": "I feel like I should want to change, but helping my friends feels more important right now.",
-          "openness": "I'm hesitant to share my feelings because I don't want to seem selfish when my friends are suffering.",
-          "resistance": "I often defend against discussing my own feelings because it feels overwhelming and I worry about what it might mean for my friendships."
+          "awareness": "I don't really see my own struggles as a problem; my friends are the priority.",
+          "motivation": "I don't feel like I need to change because I believe my friends need me more.",
+          "openness": "I'm not very willing to share my own feelings; I just want to focus on my friends.",
+          "resistance": "I feel very defensive about discussing my own needs and emotions."
         },
-        "client_reasoning": "I know my friends are facing a lot right now, and I feel this overwhelming need to be there for them. It's like if I even think about my own feelings, I would be abandoning them, which makes me feel guilty. I keep telling myself that my own unhappiness doesn't matter compared to their struggles. I feel stuck because part of me knows I should be focusing on my own needs, but another part feels like I have to support them. Therapy feels uncomfortable because I worry that discussing my own issues might make me seem unloving or weak. I avoid talking about my own feelings, thinking it would be selfish when others are in crisis. It's hard to even entertain the thought that I could change my situation when I feel so helpless and overwhelmed by everything around me."
+        "client_reasoning": "I find myself constantly thinking about my friends and their problems. It feels like I have to be there for them; if I don't, who will? I know I should probably focus on my own feelings, but it just seems selfish when they’re struggling so much. I feel guilty even thinking about my own needs. I guess part of me feels overwhelmed, but I can't bring myself to admit that. It's easier to keep talking about their issues instead. When I think about discussing my feelings in therapy, it makes me uncomfortable. I worry that I’ll be seen as needy or weak if I express how I’m feeling. So, I avoid those thoughts and stick to what’s familiar, even if it’s draining. I just don’t know how to approach my own unhappiness when I feel like I’m so tied to their struggles. Change feels impossible right now, and it’s safer to just keep pushing my feelings aside."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; therapist objective not met: did not sufficiently explore client's feelings; client objective not met: did not address her own struggles.",
-          "client_utterance": "I just keep thinking that my friends really need me right now. Yvonne is so stressed with her job and her child, and I feel like if I focus on myself, I’m being selfish. It’s hard to even think about my own feelings when they’re going through so much.",
-          "therapist_utterance": "It sounds like you feel really overwhelmed by your friends' struggles and feel a sense of obligation to support them. It’s understandable to prioritize their needs, but I wonder how that impacts your own emotional state. What do you feel when you think about your own needs in this situation?",
-          "therapist_use": "Reflective Listening: used to validate feelings of obligation and open a space for exploring personal needs."
+          "reason_for_ending": "KEEP: Therapist objective not met—did not sufficiently explore Violet's feelings of responsibility. Client objective not met—Violet did not articulate her feelings of overwhelm.",
+          "client_utterance": "I just feel like I have to be there for Yvonne, especially with everything she's going through. If I don't support her, who will? It's hard to even think about my own feelings when she's struggling so much.",
+          "therapist_utterance": "It sounds like you feel a strong sense of duty to support Yvonne, which is really commendable. I wonder, though, how that responsibility weighs on you personally. What do you notice about your own feelings when you focus so much on her issues?",
+          "therapist_use": "Reflective Listening: acknowledged Violet's sense of duty and invited her to consider her own feelings."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: did not develop sufficient discrepancy; client objective not met: did not explore her values related to her feelings.",
-          "client_utterance": "I feel guilty even thinking about my own needs. Like, if I take a break to focus on myself, I’m worried my friends will think I don’t care about them. It’s just that I want to be there for them, but sometimes it feels like too much.",
-          "therapist_utterance": "It's understandable to feel conflicted when those you care about are in distress. You mentioned feeling guilty; I wonder, what do you value most in your life, and how do you see those values aligning with your current situation? What would it mean for you to take care of yourself?",
-          "therapist_use": "Expressing Empathy: acknowledged feelings of guilt and encouraged reflection on personal values."
+          "reason_for_ending": "KEEP: Therapist objective not met—did not deepen exploration of the emotional toll on Violet. Client objective not met—Violet is still focused primarily on her friend's issues.",
+          "client_utterance": "I guess I feel a bit drained, but I can't help it. Yvonne needs me, and I don't want to let her down. It feels selfish to even think about my own needs right now.",
+          "therapist_utterance": "It's understandable to feel drained when you're so focused on someone else's struggles. You mentioned feeling selfish for thinking of your own needs; what do you think happens to you when you prioritize Yvonne's issues over your own well-being?",
+          "therapist_use": "Developing Discrepancy: encouraged Violet to explore the impact of prioritizing her friend’s issues."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: did not sufficiently challenge client’s beliefs; client objective not met: did not articulate her needs.",
-          "client_utterance": "I guess I value being a supportive friend above everything else. But then I think, if I’m not there for them, who will be? It’s like I can’t let them down, even if it costs me my own peace.",
-          "therapist_utterance": "You’re expressing a deep commitment to your friends, which is admirable. However, I wonder, what evidence do you have that you are the only one who can help them? Could there be other ways for you to support them while also taking care of yourself?",
-          "therapist_use": "Evidence-Based Questioning: guided client to examine the belief of sole responsibility for her friends' well-being."
+          "reason_for_ending": "KEEP: Therapist objective not met—did not sufficiently challenge Violet's beliefs about her support. Client objective not met—Violet still avoids discussing her own emotions.",
+          "client_utterance": "I just believe that I have to be there for her; she doesn't have many people to lean on. If I don't do it, who else will? I can't shake the guilt because I feel like I should be doing more.",
+          "therapist_utterance": "It seems like you have a lot of responsibility on your shoulders, and that can be really heavy. I wonder, have there been times when your support has made a positive difference for Yvonne? What would it mean to you if you could allow yourself to step back a bit?",
+          "therapist_use": "Reflective Listening: validated Violet's feelings of responsibility while prompting her to reflect on the impact of her support."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: did not promote alternative perspectives; client objective not met: did not explore her own well-being.",
-          "client_utterance": "I just feel like if I take a step back, everything will fall apart for them. I know that sounds dramatic, but it’s how I feel. I can't shake off this feeling of responsibility.",
-          "therapist_utterance": "It sounds really heavy to carry that burden. What do you think your friends would say if they knew how much their problems are affecting you? Would they want you to sacrifice your own well-being for their struggles?",
-          "therapist_use": "Alternative Perspective: encouraged client to consider her friends' views on her well-being."
+          "reason_for_ending": "KEEP: Therapist objective not met—did not effectively help Violet see her own support limits. Client objective not met—Violet remains focused on guilt and responsibility.",
+          "client_utterance": "I mean, I hope my support helps, but it’s hard to see if it really does. I just feel like if I step back, things might get worse for her, and that's a scary thought. It's easier to just keep pushing through.",
+          "therapist_utterance": "It’s understandable to worry about the consequences of stepping back, especially when you care so deeply. However, have you considered that Yvonne might have other sources of support too? What might it look like for you to share some of that responsibility?",
+          "therapist_use": "Exploring Alternative Perspectives: encouraged Violet to think about her friend’s support systems."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: did not sufficiently address emotional impact; client objective not met: did not recognize her own distress.",
-          "client_utterance": "I don't know, maybe they would want me to be happy, but I just can’t help feeling like I need to be there for them all the time. I’m just so exhausted, but I don’t want to seem weak or uncaring.",
-          "therapist_utterance": "It's understandable to feel exhausted when you're so emotionally involved in your friends' lives. How do you feel when you spend time focusing on their problems? What impact does that have on your own mental health?",
-          "therapist_use": "Reality Testing: prompted reflection on the emotional toll of focusing on friends' issues."
+          "reason_for_ending": "KEEP: Therapist objective not met—did not sufficiently challenge Violet's automatic thoughts regarding her support. Client objective not met—Violet is still not discussing her feelings.",
+          "client_utterance": "I know she has other support, but I still feel like I’m the only one who can really help her. I just think if I fail to help, then it means I’m not doing enough. It's hard to change that thinking.",
+          "therapist_utterance": "It sounds like you feel a lot of pressure to be the one who makes a difference for her. What evidence do you have that suggests your efforts are the only ones that matter? It might be helpful to reflect on instances where things have worked out well when you weren't solely responsible.",
+          "therapist_use": "Identify and Challenge Automatic Thoughts: prompted Violet to consider the validity of her belief about her unique role."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: did not promote sufficient self-reflection; client objective not met: did not identify her own needs.",
-          "client_utterance": "I feel drained all the time, but when I think about stepping back, I panic. I guess I’m scared of what that means for them and for me. It’s like I feel trapped in this role.",
-          "therapist_utterance": "Feeling trapped can be really challenging. It's clear that you care deeply about your friends, but I wonder if there’s a way you can find a balance that honors both their needs and your own. What would it look like for you to take a small step towards prioritizing your own well-being?",
-          "therapist_use": "Developing Discrepancy: encouraged exploration of balance between supporting friends and prioritizing self."
+          "reason_for_ending": "KEEP: Therapist objective not met—still needs to guide Violet towards recognizing her emotional needs. Client objective not met—Violet continues to avoid discussing her own feelings.",
+          "client_utterance": "I guess I just always feel like I need to be there for her, no matter what. Even thinking about my own feelings feels wrong when she’s going through so much. It’s just easier to focus on her problems.",
+          "therapist_utterance": "I hear you saying that it's easier to focus on her problems, and that makes sense given how much you care. But what might happen if you allowed yourself to express your own feelings too? How do you think that could affect your ability to support her?",
+          "therapist_use": "Developing Discrepancy: helped Violet consider the possibility of expressing her own feelings alongside supporting her friend."
         },
         {
-          "reason_for_ending": "MOVE; therapist objective met: facilitated awareness of emotional toll and self-reflection; client objective met: began to recognize her own needs.",
-          "client_utterance": "I think maybe I can try to take a little time for myself without feeling guilty. It's hard to imagine, but I realize I can't help them if I'm completely drained. Maybe I need to find a way to be there for them while also caring for myself.",
-          "therapist_utterance": "That sounds like a significant realization, and a positive step forward. Finding that balance is important for your well-being and could also allow you to be there for your friends in a healthier way. What’s the first small step you think you could take towards that?",
-          "therapist_use": "Reflective Listening: validated client's insight into the importance of self-care while supporting her friends."
+          "reason_for_ending": "MOVE: Therapist objective met—facilitated awareness of the impact of responsibility on Violet's well-being. Client objective met—Violet articulated her feelings of overwhelm and began to consider her needs.",
+          "client_utterance": "I suppose if I don't take care of myself, I might not be able to help her at all. It feels like a conflict between my responsibility and my own needs. Maybe I need to think about how to balance both.",
+          "therapist_utterance": "It's a significant realization that taking care of yourself can enhance your ability to support Yvonne. Balancing your needs with your responsibilities is important, and it sounds like you're starting to see that. How do you feel about exploring this balance further in our sessions?",
+          "therapist_use": "Reflective Listening: validated Violet's awareness of the need for balance and invited further exploration."
         }
       ]
     },
@@ -126,27 +116,29 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Violet's ambivalence about prioritizing her own needs while supporting her friends.",
+          "objective": "Explore ambivalence about supporting friends while recognizing the need to prioritize personal well-being.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Violet to express her feelings about helping her friends versus focusing on her own well-being.",
-                "Encourage her to discuss the emotional toll of her current role in her friends' lives."
+                "Begin by acknowledging Violet's feelings of responsibility for her friends' unhappiness and validate her concerns.",
+                "Encourage her to express both her desire to help her friends and her feelings about neglecting her own needs.",
+                "Use reflective listening to demonstrate understanding and to highlight the conflict between her values and current behaviors."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Guide Violet in identifying her core values, such as self-care and personal happiness.",
-                "Facilitate a conversation about how her current behavior conflicts with these values."
+                "Ask open-ended questions to elicit Violet's thoughts on the possibility of setting boundaries.",
+                "Encourage her to articulate how prioritizing her own needs could potentially help her friends indirectly.",
+                "Reinforce any expressions of motivation or desire for change by reflecting back her statements."
               ]
             },
             {
-              "strategy_name": "Decisional Balance",
+              "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Assist Violet in creating a list of pros and cons related to her current support role.",
-                "Encourage her to reflect on the impact of these pros and cons on her emotional health."
+                "Facilitate a discussion that weighs the pros and cons of her current behaviors versus the benefits of considering her own needs.",
+                "Encourage Violet to consider the impact of her current involvement on her emotional well-being and on her friends' dependency."
               ]
             }
           ]
@@ -154,85 +146,87 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Help Violet reframe her thoughts on the consequences of setting boundaries with her friends.",
-                "Encourage her to consider less extreme outcomes of taking time for herself."
+                "Help Violet articulate her automatic thoughts regarding her efforts and their impact on her friends.",
+                "Utilize evidence-based questioning to challenge the thought that 'none of my efforts matter.'",
+                "Guide her to identify specific instances where her support has been beneficial, thereby reframing her belief about her role."
               ]
             },
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Boundary Setting Discussion",
               "instructions_for_therapist": [
-                "Prompt Violet to challenge her belief that she must always be available to help others.",
-                "Ask her to provide evidence supporting and contradicting this belief."
+                "Discuss the importance of setting healthy boundaries to support her well-being.",
+                "Explore the feelings of guilt that arise when considering boundaries and provide strategies to manage these feelings.",
+                "Encourage her to practice self-compassion and affirm that it’s okay to prioritize her own needs."
               ]
             },
             {
-              "technique_name": "Pros and Cons Analysis",
+              "technique_name": "Journaling Assignments",
               "instructions_for_therapist": [
-                "Guide Violet in identifying the pros and cons of her current coping strategies.",
-                "Encourage her to reflect on how these strategies align with her well-being."
+                "Assign Violet journal tasks to reflect on situations where she feels responsible for others' emotions.",
+                "Encourage her to explore the evidence supporting or contradicting her feelings of responsibility.",
+                "Remind her to practice evidence-based questioning in her daily life."
               ]
             }
           ]
         },
-        "therapist_reasoning": "First, I will focus on exploring Violet's ambivalence by inviting her to express her conflicting feelings about prioritizing her own needs versus supporting her friends. This aligns with MI's strategy of exploring ambivalence. Next, I will help her develop a discrepancy by identifying her core values, guiding her to recognize how her current behaviors conflict with her values. This will facilitate insight into her motivations. I will then implement a decisional balance exercise, prompting her to articulate the pros and cons of her current role, providing her clarity on her emotional well-being. In parallel, I will employ CBT techniques such as decatastrophizing to help her reframe her thoughts about setting boundaries, encouraging her to consider less catastrophic outcomes. Evidence-based questioning will be used to challenge her belief that she must always be available for her friends, fostering cognitive flexibility. Lastly, a pros and cons analysis will further support her reflection on the effectiveness of her coping strategies, ultimately aiming to strengthen her motivation and willingness to consider change.",
-        "progress_marker": "Violet expresses increased clarity about her ambivalence and begins to verbalize her own needs alongside her friends' needs."
+        "therapist_reasoning": "In this session, the therapist will begin by exploring Violet's ambivalence toward her role in her friends' lives using Motivational Interviewing strategies. This involves validating her feelings and encouraging her to express both her desire to support her friends and the conflict she feels about her own needs. The therapist will utilize open-ended questions to elicit change talk, prompting Violet to consider how prioritizing her well-being might benefit both herself and her friends. Decisional balance discussions will further help her weigh the pros and cons of her current behaviors, enabling her to develop insight into the impact of her emotional involvement. Simultaneously, using CBT interventions, the therapist will guide Violet in articulating and challenging her automatic thoughts, specifically around the belief that her efforts do not matter. By employing cognitive restructuring, the therapist will help her reframe her beliefs about responsibility, and through boundary-setting discussions, the therapist will assist Violet in recognizing the importance of self-care. Journaling assignments will be given to reinforce her insights and promote self-reflection outside therapy sessions.",
+        "progress_marker": "Violet begins to articulate her feelings of ambivalence and recognizes the need to balance her responsibilities towards friends with her own emotional needs."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to understand my feelings better and explore the possibility of prioritizing my own needs.",
+        "client_objective": "I hope to explore my feelings about my friends and my own needs without feeling guilty.",
         "client_state": {
-          "awareness": "I am starting to recognize that my constant need to support my friends may be affecting my own happiness and well-being.",
-          "motivation": "I do want to change and find a balance, but I feel torn between my responsibility towards my friends and my own needs.",
-          "openness": "I feel somewhat willing to share my thoughts and feelings with my therapist, but I still hesitate because I worry about my friends' situations.",
-          "resistance": "I often feel conflicted and resistant to the idea of focusing on myself, fearing that it might let my friends down."
+          "awareness": "I am beginning to see that my emotional involvement with my friends' struggles is affecting my own wellbeing.",
+          "motivation": "I want to change my situation and take care of myself, but I feel torn about leaving my friends unsupported.",
+          "openness": "I am starting to share my thoughts about my feelings and my conflicts, though I still hesitate at times.",
+          "resistance": "I feel a strong pull to stay in my current role, fearing that focusing on myself might mean I am abandoning my friends."
         },
-        "client_reasoning": "I'm beginning to see that my situation isn't just about helping my friends; it's about my own feelings and needs too. I notice how much I ruminate over their unhappiness, and it’s draining me. There's this realization that I can't make everyone happy, and that leaves me feeling helpless and guilty. I know I should be focusing on myself more, but the thought of pulling away from my friends feels selfish. I’m afraid of what might happen if I prioritize my own well-being—will they think I don’t care? Therapy is helping me to reflect on these conflicting emotions, but I still feel unsure about how to navigate this tension between supporting my friends and taking care of myself.",
-        "progress_marker": "Client begins to identify and articulate their own needs and feelings during sessions."
+        "client_reasoning": "I’ve started to realize that my constant need to support my friends is draining me, but it feels selfish to think about my own needs. I see how their struggles affect me—I've been feeling sad and lonely, yet I can't shake the thought that if I don't help them, who will? It's hard to admit that I might need to step back, which makes me feel guilty. I know I should prioritize my own feelings, but there's this nagging fear that my friends will suffer more without me. Talking in therapy helps me reflect, and though I’m opening up, I still feel conflicted about making changes. I wonder if it's even possible for me to change without feeling like I'm letting everyone down. It’s like I’m stuck between wanting to take care of myself and the fear of being seen as unlovable or uncaring."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because there wasn't enough exploration of Violet's feelings about her needs versus her friends'. The client objective was not met as Violet has not yet fully articulated her feelings about prioritizing her own needs.",
-          "client_utterance": "I've been thinking about what you said regarding finding a balance. I know I need time for myself, but I still feel so guilty about it. It's hard to shake this sense of responsibility, especially when Yvonne is struggling with her job and her child.",
-          "therapist_utterance": "It's understandable to feel guilty, especially when you care so much for your friends. However, I wonder if taking some time for yourself could actually help you support them better in the long run. What do you think your friends would say about you needing a break?",
-          "therapist_use": "Open-ended question: encourages Violet to reflect on her friends' potential support for her self-care."
+          "reason_for_ending": "KEEP: The therapist's objective of exploring ambivalence was not sufficiently met as Violet still feels torn. The client's objective to explore her feelings without guilt is not fully achieved yet.",
+          "client_utterance": "I feel like if I start to prioritize myself, it might mean I’m abandoning Yvonne. I know it’s not true, but it feels like that sometimes. I can’t shake the thought that I have to be there for her, otherwise, she’ll be lost.",
+          "therapist_utterance": "It sounds like you’re really caught between your desire to help Yvonne and the fear of letting her down. It’s understandable to feel that way given how much you care. What do you think it would mean for you to begin prioritizing your own needs, even a little?",
+          "therapist_use": "Open-ended question: to elicit Violet's thoughts about prioritizing her own needs."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as the exploration of Violet's ambivalence about her needs hasn't progressed sufficiently. The client objective was not met because Violet still struggles to articulate her feelings clearly.",
-          "client_utterance": "I guess they might say they want me to be happy, but I can’t help but feel like I should always be there for them. It’s like I’m stuck in this cycle of putting them first. I feel torn, like I can't let them down.",
-          "therapist_utterance": "It sounds like you’re caught in a cycle of obligation and care. What would it look like to take that obligation into account while still honoring your own needs? Can you think of a situation where you might set a boundary without feeling like you’re abandoning them?",
-          "therapist_use": "Exploring ambivalence: helps Violet visualize a scenario where she can respect her own needs while considering her friends."
+          "reason_for_ending": "KEEP: The therapist's objective to encourage Violet to express her feelings about neglecting her own needs is not fully met. The client's objective to explore her feelings without guilt remains unfulfilled.",
+          "client_utterance": "I suppose if I take a step back, it might help me feel better, but I can’t help but worry about Yvonne. It’s hard to imagine her coping without my support. I feel like I’d be letting her down, and that guilt is overwhelming.",
+          "therapist_utterance": "That guilt is a heavy burden to carry, and it’s completely understandable to feel that way. Have you thought about how your support might still be valuable even if you take some time for yourself? Sometimes, stepping back can actually empower our friends to find their own strength.",
+          "therapist_use": "Reflective listening: to validate Violet's feelings while introducing the idea of empowerment."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met since Violet hasn't yet identified her core values clearly. The client objective was not met as Violet is still struggling to articulate a plan for prioritizing herself.",
-          "client_utterance": "Maybe I could tell them I need some time, but I fear they would think I’m being selfish. It’s just hard to imagine stepping back when they need me so much. I worry about what that might mean for our relationships.",
-          "therapist_utterance": "It's completely normal to worry about how your friends might perceive your need for self-care. What if you framed it as a way to recharge so you can be more present for them? How could you communicate that to them in a way that feels authentic to you?",
-          "therapist_use": "Decisional balance: encourages Violet to weigh the potential outcomes of expressing her needs."
+          "reason_for_ending": "KEEP: The therapist's goal to reinforce motivations for change is still in progress since Violet remains conflicted. The client's objective to explore feelings without guilt is not yet fully realized.",
+          "client_utterance": "I see your point, but it still feels selfish to think about my own needs when Yvonne is struggling. I don't want to be the reason she feels worse. It’s just hard to navigate these feelings.",
+          "therapist_utterance": "It’s not selfish at all to consider your own needs; in fact, it can be a healthy step. You mentioned feeling torn—what do you think are the pros and cons of continuing to support her the way you are now? How might those affect both of you in the long run?",
+          "therapist_use": "Decisional balance discussion: to help Violet weigh her current behaviors against the benefits of considering her own needs."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as there isn't enough clarity about Violet's values and how they conflict with her current behaviors. The client objective was not met since Violet hasn't made any actionable steps.",
-          "client_utterance": "I like the idea of framing it that way, but I still feel this weight of responsibility. What if they don't understand? I know I need a break, but the thought of them being upset is daunting.",
-          "therapist_utterance": "It’s understandable to feel that weight, but consider how your well-being directly affects your ability to help them. If you were to take a break, what could be the worst-case scenario, and how likely is that to happen? Could there be a way to reassure them while also caring for yourself?",
-          "therapist_use": "Decatastrophizing: helps Violet reframe her fears about the consequences of setting boundaries."
+          "reason_for_ending": "KEEP: The therapist's objective of facilitating a discussion about the impact of her involvement is not yet fully met as Violet still feels guilty. The client's objective of exploring her feelings about friends and her needs is still in progress.",
+          "client_utterance": "When I think about it, I realize that my emotional involvement is draining me. I don’t want to feel this way, but I think about Yvonne all the time. I guess there’s a part of me that wonders if she’d be okay without me.",
+          "therapist_utterance": "Recognizing that your involvement is draining is an important insight. It sounds like you’re beginning to see the impact it has on you. What if you allowed yourself to explore ways to support Yvonne without sacrificing your own well-being?",
+          "therapist_use": "Exploring ambivalence: to help Violet articulate her feelings about her emotional involvement and its effects."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as the exploration of Violet's fears has not led to any actionable insights. The client objective was not met as Violet still struggles to visualize a path forward.",
-          "client_utterance": "I suppose if I explained my feelings honestly, they might understand. But I still feel this deep-rooted fear of letting them down. It’s hard to think of any scenario where everything turns out okay.",
-          "therapist_utterance": "It's good that you're considering honesty as a way to communicate. Let’s think about the pros and cons of continuing in the same way versus making a change. What do you believe would change in your life if you prioritized your needs a bit more?",
-          "therapist_use": "Pros and cons analysis: encourages Violet to reflect on the impact of her current coping strategies."
+          "reason_for_ending": "KEEP: The therapist's objective to encourage Violet to articulate her automatic thoughts is still being developed. The client's objective to explore feelings without guilt is in progress but not fully met.",
+          "client_utterance": "I think that could work, but I still feel like I’m somehow responsible for her happiness. It feels like if I'm not there for her, I’m failing. I really want to find a balance, but it’s overwhelming.",
+          "therapist_utterance": "It’s understandable to feel responsible for her happiness, especially when you care so much. What if you reframed that responsibility? How might your own happiness actually contribute to a better connection with Yvonne?",
+          "therapist_use": "Cognitive restructuring: to challenge the belief of sole responsibility for Yvonne’s happiness."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as there hasn't been a sufficient articulation of the consequences of her behaviors. The client objective was not met since Violet hasn't yet expressed a clear commitment to change.",
-          "client_utterance": "If I prioritized my needs, I think I would feel less drained and more myself. It could help me be a better friend, but I still find it hard to let go of the guilt. I know it’s not healthy, but it’s a part of my identity now.",
-          "therapist_utterance": "Recognizing that your identity includes both being a supportive friend and taking care of yourself is a powerful insight. You don’t have to lose one to have the other. What would be a small, manageable step you could take this week to start prioritizing yourself?",
-          "therapist_use": "Exploring ambivalence: encourages Violet to identify specific actions that honor both her identity and her needs."
+          "reason_for_ending": "KEEP: The therapist's objective of exploring the importance of self-care is not fully realized yet. The client's objective of exploring her feelings without guilt remains unmet.",
+          "client_utterance": "I know that if I’m not doing well, it could affect how I support Yvonne, but it feels so wrong to focus on me. I can’t shake the feeling that I’m being selfish. What if I really do step back and she struggles more?",
+          "therapist_utterance": "Those feelings of guilt are tough to navigate, but it’s important to recognize that taking care of yourself doesn’t mean abandoning her. In fact, it could lead to a healthier relationship where both of you can thrive. How do you think Yvonne would react if you shared your feelings about wanting to take a step back?",
+          "therapist_use": "Open-ended question: to encourage Violet to consider the potential positive outcomes of sharing her feelings."
         },
         {
-          "reason_for_ending": "MOVE - The therapist objective was met as Violet has begun to articulate her needs and realize the importance of self-care. The client objective was met as Violet has identified a manageable step towards prioritizing her well-being, showing readiness for change.",
-          "client_utterance": "I think I can start by setting aside just a little time for myself each week, maybe an hour or two. I know it won't solve everything, but I need to try. Even just thinking about it feels a bit freeing.",
-          "therapist_utterance": "That sounds like a fantastic first step, Violet! Taking time for yourself is essential, and it’s great that you’re feeling a sense of freedom from it. I believe this could help you create more balance and better support your friends as well.",
-          "therapist_use": "Affirmation: reinforces Violet's progress and encourages her new commitment to self-care."
+          "reason_for_ending": "MOVE: The therapist’s objective of exploring ambivalence has been met as Violet is articulating her feelings. The client’s objective to explore her feelings without guilt has also been achieved, as she is engaging in reflection on her needs.",
+          "client_utterance": "I suppose if I shared my feelings, it might help her understand where I’m coming from. It’s scary to think about, but it could also open a door for both of us. Maybe I can start to explore this balance.",
+          "therapist_utterance": "That’s a significant realization, Violet! Opening up about your feelings could strengthen your relationship with Yvonne while also allowing you to prioritize yourself. It seems like you’re taking the first steps towards finding that balance, which is really hopeful.",
+          "therapist_use": "Reflective listening: to reinforce Violet's insights and acknowledge her progress towards finding balance."
         }
       ]
     },
@@ -241,27 +235,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "To strengthen Violet's commitment to change and prepare her for actionable steps.",
+          "objective": "Strengthen Violet's commitment to change and explore her feelings of responsibility towards her friends while emphasizing her own needs.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Violet to articulate her reasons for wanting to change, reinforcing her motivations by reflecting back her statements.",
-                "Encourage her to express how her change can positively impact her own life and those around her."
+                "Ask Violet to articulate her reasons for wanting to make changes in her life.",
+                "Encourage her to express what her life would look like if she prioritized her own needs.",
+                "Reinforce her plans by reflecting her statements of commitment and emphasizing their significance."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions (1-10 scale) to assess her confidence in making changes and readiness to implement action plans.",
-                "Explore the factors that would raise her confidence levels and readiness to act."
+                "Inquire about any small steps she feels ready to take towards prioritizing her own well-being.",
+                "Encourage her to identify and verbalize any successes in managing her commitments to friends.",
+                "Reflect her confidence and readiness, reinforcing positive self-talk."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Guide Violet in identifying individuals or resources that can support her during this transition.",
-                "Discuss potential coping strategies to manage her feelings of guilt and responsibility towards her friends."
+                "Discuss the social support she has outside her friends, such as family or other relationships.",
+                "Help her brainstorm resources that could assist in her journey of self-care.",
+                "Encourage her to consider how she can lean on these supports when feeling overwhelmed."
               ]
             }
           ]
@@ -269,84 +266,77 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Collaborate with Violet to create a specific and realistic action plan that includes small, gradual steps.",
-                "Incorporate her identified supports and resources into this plan to foster accountability."
+                "Begin by validating Violet's feelings of responsibility.",
+                "Guide her in articulating automatic thoughts regarding her efforts to help friends.",
+                "Challenge these thoughts using evidence-based questioning to highlight instances of positive impact.",
+                "Discuss alternative perspectives to help her realize that her friends have other support systems.",
+                "Collaboratively reframe her beliefs about her role, focusing on prioritizing her own needs.",
+                "Discuss the importance of setting boundaries and how to manage the associated guilt."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Journaling and Reflection",
               "instructions_for_therapist": [
-                "Work with Violet to identify practical barriers to her self-care and develop problem-solving strategies to address them.",
-                "Encourage her to brainstorm alternative ways to support her friends without compromising her own well-being."
-              ]
-            },
-            {
-              "technique_name": "Behavior Experiment",
-              "instructions_for_therapist": [
-                "Design a behavior experiment where Violet tries setting a small boundary with her friends and observes the outcomes.",
-                "Encourage her to reflect on her feelings and the reactions from her friends to evaluate the effectiveness of her boundary-setting."
+                "Assign Violet the task of journaling her feelings of responsibility.",
+                "Encourage her to reflect on evidence that supports or contradicts her beliefs.",
+                "Instruct her to practice evidence-based questioning in her daily life."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In crafting this therapy plan, I first identified Violet's core beliefs and emotional patterns that lead to her resistance in focusing on her own needs. By employing Motivational Interviewing strategies, I aim to strengthen her commitment to change by encouraging her to verbalize her motivations and readiness. This involves using scaling questions to help her assess her confidence and readiness levels, which will facilitate her engagement in the process. Additionally, I will help her identify supportive resources that can aid her while managing her guilt. In parallel, CBT interventions such as action planning and problem-solving skills training will enable her to create a practical, achievable plan to enact change gradually. By suggesting a behavior experiment to set boundaries, I can provide her with a safe space to explore her limits without overwhelming her. This combined approach addresses her ambivalence and empowers her to take small steps towards her goals while reinforcing her self-efficacy.",
-        "progress_marker": "Violet has successfully articulated her motivations for change and identified potential barriers and supports, leading to the development of a realistic action plan."
+        "therapist_reasoning": "To support Violet effectively in her preparation phase, I will combine Motivational Interviewing (MI) strategies with Cognitive Behavioral Therapy (CBT) techniques. First, I will focus on strengthening her commitment to change by encouraging her to articulate her reasons for wanting to prioritize her own needs. This will involve reinforcing her commitment language to enhance her motivation. Next, I will explore her confidence and readiness by prompting her to identify small steps she can take, reinforcing her successes to build self-efficacy. To address her feelings of responsibility, I will utilize CBT by validating her emotions and guiding her through cognitive restructuring, challenging her automatic thoughts about her role in her friends' happiness. I will collaboratively work with her to reframe her beliefs, emphasizing the importance of setting boundaries to protect her well-being. Journaling will serve as a reflective exercise to help her recognize her patterns and challenge her thoughts in real-time, ultimately fostering a more balanced view of her responsibilities while preparing her for actionable steps towards self-care.",
+        "progress_marker": "Violet has identified at least one small actionable step she is willing to take towards prioritizing her own needs and has begun journaling her feelings about her responsibilities."
       },
       "client_plan": {
-        "phase_of_change": "preparation",
-        "client_objective": "I hope to explore how I can prioritize my own needs while still being supportive of my friends.",
-        "client_state": {
-          "awareness": "I recognize that my friends' struggles are affecting my own well-being, and I need to focus on myself too.",
-          "motivation": "I feel a strong desire to improve my situation and find a balance between helping others and caring for myself.",
-          "openness": "I'm willing to discuss my feelings and potential changes, though I still feel conflicted about prioritizing myself.",
-          "resistance": "I experience doubt about whether I can change my behavior without letting my friends down, which holds me back."
-        },
-        "client_reasoning": "I’ve come to understand that my friends’ issues are impacting my happiness and mental health. I realize that change is necessary, not just for me but also to better support them in a healthier way. I hope to learn how to set boundaries and not feel guilty about taking care of myself. I know that I can’t pour from an empty cup, but there’s still a part of me that fears I will be letting them down if I step back. Therapy has helped me identify these feelings and has encouraged me to think about practical steps I can take. I feel motivated to improve my situation, yet I still grapple with the fear that my efforts to change will lead to conflict or disappointment within my friendships."
+        "awareness": "I realize that my friends' struggles are affecting my own well-being, and I can't keep neglecting myself.",
+        "motivation": "I feel a stronger desire to improve my situation and think about how I can help both myself and my friends.",
+        "openness": "I'm willing to talk about my feelings and explore potential changes, even though it's difficult to prioritize myself.",
+        "resistance": "I still feel a lot of doubt about whether I can change my patterns, especially when I think about letting my friends down."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Violet hasn't fully articulated her motivations for change. Client objective not met: Violet is still feeling conflicted about prioritizing herself.",
-          "client_utterance": "I've been thinking more about the time I want to set aside for myself. It feels both exciting and terrifying, especially because I worry about how my friends will react. I want to be there for them but also need to recharge. I just don’t want them to think I’m abandoning them.",
-          "therapist_utterance": "It’s completely normal to feel that mix of excitement and fear. Your desire to support your friends is strong, but it's important to remember that taking time for yourself can actually enhance your ability to be there for them. What do you think might happen if you communicated your need for a little time alone?",
-          "therapist_use": "Exploring confidence and readiness: addressing her fears about communication while reinforcing the value of self-care."
+          "reason_for_ending": "KEEP: Therapist objective was not met because Violet hasn't articulated her reasons for prioritizing her own needs yet. Client objective was not met as she is still feeling overwhelmed by guilt about stepping back.",
+          "client_utterance": "I think it would be really hard for me to share my feelings with Yvonne, even if it might help. I still feel like I should be doing everything for her, and the thought of her struggling without me is just overwhelming. I want to find that balance, but it's like I'm stuck.",
+          "therapist_utterance": "It's completely understandable to feel stuck, especially when your heart is so invested in supporting Yvonne. What would it look like for you to express your feelings to her in a way that also honors your own needs? How might that open up a conversation about balance?",
+          "therapist_use": "Open-ended question: Encouraging Violet to explore the potential benefits of communicating her feelings."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Violet has not yet fully explored how her change can positively impact her life. Client objective not met: Violet is still conflicted about setting boundaries.",
-          "client_utterance": "I guess if I explain it that way, they might understand. But I still feel this heavy responsibility. What if they depend on me too much? It’s hard to imagine how to balance that without feeling guilty.",
-          "therapist_utterance": "Your concern for your friends is admirable, and it’s clear you care deeply about their well-being. However, what if your friends actually want you to feel fulfilled too? Imagine how your well-being could serve as a model for them to prioritize their own needs as well. What do you think would change if you framed your break in that way?",
-          "therapist_use": "Strengthening commitment language: encouraged Violet to consider the positive impact of her self-care on her friends."
+          "reason_for_ending": "KEEP: Therapist objective was not met because Violet hasn't yet identified small steps she feels ready to take. Client objective was not met as she continues to struggle with the idea of prioritizing her needs.",
+          "client_utterance": "I guess if I could just be honest about how I feel, it might help. But I still worry that if I do that, I’ll seem like I'm abandoning her. I want to help both of us, but it feels impossible sometimes.",
+          "therapist_utterance": "You’re expressing a lot of concern about how Yvonne might perceive your honesty, which shows how much you care. What if you started with a small step, like sharing just one of your feelings with her? How do you think she might respond to that?",
+          "therapist_use": "Encouragement of small steps: Helping Violet conceptualize a manageable action to share her feelings."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Violet still has not voiced her reasons for change clearly. Client objective not met: Violet continues to struggle with feelings of guilt.",
-          "client_utterance": "I want to believe they would want me to be happy, but I can’t shake the feeling that I need to be there for them. It’s like I’m stuck in this guilt loop. Maybe I need to reassess what support looks like, but that feels scary. What if they need me and I’m not there?",
-          "therapist_utterance": "It’s understandable to feel scared about stepping back, especially when you’re used to being there for them. But if you think about it, being happy yourself could ultimately help you be a better friend. How would you feel if you reframed your support to include your own happiness? What would a balance look like for you?",
-          "therapist_use": "Identifying supports and resources: prompting Violet to visualize a healthier balance in her support system."
+          "reason_for_ending": "KEEP: Therapist objective was not met because Violet still hasn't identified any specific supports she can lean on. Client objective was not met as she is still feeling overwhelmed with the idea of taking action.",
+          "client_utterance": "I suppose starting with something small could be easier, but I just don’t know if I have the energy right now. I feel like I’m constantly pulled in so many directions that it’s hard to find a moment for myself. I wish I could just feel more confident about this.",
+          "therapist_utterance": "It sounds like you're feeling really stretched thin, which is completely valid. Let's think about who else is in your life that you can lean on when things get tough. How might those connections provide you with some space to focus on your own needs?",
+          "therapist_use": "Identifying supports: Encouraging Violet to think about her social support outside of her current commitments."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Therapist has not yet helped Violet develop a concrete action plan. Client objective not met: Violet is still grappling with the idea of support without guilt.",
-          "client_utterance": "I suppose I could try to set some boundaries, but even thinking about it feels overwhelming. I know I need to take care of myself, but what if my friends think I’m being selfish? It’s hard to imagine how to communicate that without feeling like I’m letting them down. I feel like I need a plan.",
-          "therapist_utterance": "Creating a plan is a great idea, and it could help alleviate some of that overwhelm. What if you started with a small, specific boundary, like designating one hour a week just for yourself? How might you communicate that to your friends in a way that reassures them of your support while still prioritizing your needs?",
-          "therapist_use": "Action Planning: collaborating with Violet to create a specific action plan that includes small steps for her self-care."
+          "reason_for_ending": "KEEP: Therapist objective was not met because Violet hasn’t reflected on any successes in managing her commitments. Client objective was not met as she is still feeling overwhelmed and lacking confidence.",
+          "client_utterance": "I do have family and friends who care about me, but I always feel like I have to put Yvonne first. It’s hard to remember that I can lean on them when I'm feeling this way. I guess I just need to feel like I’m not letting anyone down.",
+          "therapist_utterance": "It's really important to recognize that you have a support network, and it doesn't mean you are letting anyone down by reaching out. Can you think of a time when you successfully balanced your commitments while still taking care of yourself? What did that look like for you?",
+          "therapist_use": "Reflecting on successes: Helping Violet recognize past instances where she managed to balance her commitments."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Therapist has not yet addressed Violet's feelings of guilt directly. Client objective not met: Violet is still unsure about setting boundaries.",
-          "client_utterance": "I think it would be easier to try that, but I still feel so guilty about taking that time. It’s like I have to fight against this instinct to always be there for them. What if they really need me and I’m not there? I just don’t want to feel like I’m being selfish.",
-          "therapist_utterance": "It’s completely normal to feel that guilt; it shows how much you care. However, it’s crucial to remember that you can’t support others if you’re running on empty. If you were to take that hour for yourself, how could you reassure your friends that you’re still there for them, just in a different way?",
-          "therapist_use": "Exploring confidence and readiness: addressing her guilt while reinforcing the value of setting boundaries."
+          "reason_for_ending": "KEEP: Therapist objective was not met because Violet hasn't started journaling her feelings about responsibility yet. Client objective was not met as she continues to struggle to see the potential benefits of prioritizing herself.",
+          "client_utterance": "I remember feeling better when I took some time for myself a while back, but it feels like such a distant memory. I wish I could just tap into that feeling again. The idea of journaling feels daunting, though; I’m not sure where to start.",
+          "therapist_utterance": "It's great that you can recall a time when self-care had a positive impact! Journaling doesn't have to be overwhelming; it can be as simple as writing down a few thoughts or feelings each day. Would you be open to trying that as a way to explore your feelings of responsibility?",
+          "therapist_use": "Encouragement for journaling: Suggesting a manageable approach to journaling as a reflection exercise."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Therapist has not yet helped Violet identify practical barriers. Client objective not met: Violet still feels conflicted about her need for self-care.",
-          "client_utterance": "I guess I could reassure them that I’m just taking time to recharge, but it’s still difficult to let go of that guilt. I want to be there for them, but I also want to feel like myself again. Setting those boundaries feels like such a huge step. I worry about how it will affect our friendships.",
-          "therapist_utterance": "It’s understandable to worry about the potential impact on your friendships, but sometimes taking a step back can actually strengthen those bonds. What if you wrote down some benefits of taking time for yourself, both for you and for your friends? How could you use those benefits to help ease your feelings of guilt?",
-          "therapist_use": "Problem-solving skills training: encouraging Violet to brainstorm potential benefits of self-care to manage her guilt."
+          "reason_for_ending": "KEEP: Therapist objective was not met because Violet still hasn't articulated her commitment to prioritize her own needs. Client objective was not met as she remains hesitant about taking actionable steps.",
+          "client_utterance": "I think if I started journaling, it could help me sort out my feelings, but I’m still scared. What if writing down my feelings makes it all feel too real? I guess I need to remind myself that it’s okay to focus on me.",
+          "therapist_utterance": "It’s completely normal to feel scared about confronting your feelings, but journaling can be a safe space to express them. It’s an important step towards acknowledging your own needs. How might you remind yourself that it’s okay to prioritize your well-being?",
+          "therapist_use": "Exploring fears: Validating Violet’s fears while encouraging her to think about the importance of self-prioritization."
         },
         {
-          "reason_for_ending": "MOVE; therapist objective met: Violet has articulated her motivations for change and identified potential coping strategies. Client objective met: Violet is now considering practical steps to prioritize her needs.",
-          "client_utterance": "I can see how taking time for myself could actually help me be a better friend. Maybe if I communicate my needs clearly, they will understand. Setting those boundaries feels less daunting now. I think this could really work if I just start small.",
-          "therapist_utterance": "That’s a wonderful realization, Violet! Starting small is the perfect approach, and it sounds like you’re ready to take the next step in prioritizing your well-being. I'm really proud of you for considering this change, and I believe it could lead to a healthier balance in your relationships. What’s your first step going to be?",
-          "therapist_use": "Strengthening Commitment Language: reinforcing Violet's motivations while encouraging her commitment to change."
+          "reason_for_ending": "MOVE: Therapist objective was met because Violet has begun to consider journaling and reflecting on her feelings. Client objective was met as she is recognizing the importance of focusing on herself.",
+          "client_utterance": "I think I’m ready to give journaling a try. It feels like a small step, but it could be a good way for me to start sorting through my feelings. I really want to find a way to balance my needs with my responsibilities.",
+          "therapist_utterance": "That’s fantastic to hear, Violet! Starting with journaling is a wonderful first step towards prioritizing yourself. It’s a way to explore your feelings without pressure, and I'm here to support you as you navigate this path.",
+          "therapist_use": "Affirmation and encouragement: Reinforcing Violet's commitment to take actionable steps toward self-care."
         }
       ]
     }

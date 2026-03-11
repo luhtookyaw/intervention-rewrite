@@ -12,30 +12,35 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and raise awareness of emotions and thoughts without pushing for change.",
+          "objective": "To build rapport and increase Ryan's awareness of his emotions and beliefs regarding vulnerability within his family dynamics.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Ryan's concerns about family dynamics and feelings of isolation.",
-                "Paraphrase his statements to show understanding and validate his feelings.",
-                "Encourage him to elaborate on his experiences by reflecting back his emotions."
-              ]
-            },
-            {
-              "strategy_name": "Expressing Empathy",
-              "instructions_for_therapist": [
-                "Acknowledge Ryan's feelings of being overwhelmed and unsupported.",
-                "Use empathetic statements to convey understanding of his internal struggles.",
-                "Reinforce the idea that his emotions are valid and worth exploring."
+                "Listen attentively to Ryan's concerns about expressing his emotions.",
+                "Reflect back his feelings of shame and hurt to validate his experiences.",
+                "Use statements like 'It sounds like you feel judged when you show your emotions, and that makes you hesitant to express them.'"
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Ryan to discuss his values and how they may differ from his current situation.",
-                "Ask open-ended questions about what he hopes for in terms of relationships and emotional expression.",
-                "Help him identify any discrepancies between his feelings of isolation and his desire for connection."
+                "Encourage Ryan to explore the gap between his desire to express emotions and his fear of negative outcomes.",
+                "Ask open-ended questions such as 'What do you think might happen if you express yourself, and how does that align with your values of being understood?'"
+              ]
+            },
+            {
+              "strategy_name": "Expressing Empathy",
+              "instructions_for_therapist": [
+                "Acknowledge Ryan's feelings of inadequacy and isolation due to his family dynamics.",
+                "Use empathetic statements to communicate understanding, like 'It seems really challenging to feel unsupported by your family during this stressful time.'"
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Help Ryan recognize how avoiding emotions affects his relationships and well-being.",
+                "Prompt him to think about past experiences where he felt supported, asking questions like 'Can you recall a time when you expressed your feelings and felt heard?'"
               ]
             }
           ]
@@ -43,85 +48,85 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Ask Ryan to provide evidence for his beliefs about showing emotions leading to negative outcomes.",
-                "Encourage him to think critically about the validity of these beliefs and explore alternative views."
+                "Guide Ryan in identifying and articulating his core beliefs about expressing emotions.",
+                "Ask him to describe the emotions he feels when he thinks about showing vulnerability.",
+                "Facilitate a discussion on the evidence for and against his belief that expressing emotions will lead to conflict."
               ]
             },
             {
-              "technique_name": "Continuum Technique",
+              "technique_name": "Challenging Cognitive Distortions",
               "instructions_for_therapist": [
-                "Guide Ryan to rate his feelings about expressing emotions on a continuum from 'very negative' to 'very positive'.",
-                "Facilitate a discussion on where he falls on this scale and explore what influences his position."
+                "Assist Ryan in recognizing cognitive distortions in his thoughts, such as catastrophizing or black-and-white thinking.",
+                "Encourage him to think of alternative perspectives, asking 'What would you say to a friend who feels the same way about expressing emotions?'"
               ]
             },
             {
-              "technique_name": "Changing Rules to Wishes",
+              "technique_name": "Reframing Beliefs",
               "instructions_for_therapist": [
-                "Help Ryan identify the 'rules' he believes govern emotional expression in his family.",
-                "Encourage him to reframe these rules into wishes, such as wishing for more open conversations about feelings."
+                "Work with Ryan to reframe his negative beliefs about expressing emotions to more balanced views.",
+                "Collaborate on creating a new belief statement, such as 'While expressing emotions can be difficult, it can also lead to understanding and support.'"
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this therapy plan, the primary focus is to engage Ryan in a supportive and non-confrontational manner due to his pre-contemplation phase. The motivational interviewing strategies emphasize reflective listening and expressing empathy to build rapport and make Ryan feel heard. This is essential, as his ambivalence and feelings of isolation could lead to resistance if he feels pressured. By developing discrepancy, I aim to gently guide him to reflect on the gap between his current emotional state and his values, promoting awareness without pushing for change. In parallel, the CBT interventions will help Ryan observe his thinking patterns through evidence-based questioning, allowing him to critically assess his beliefs about emotional expression. The continuum technique will visually demonstrate his feelings, fostering self-exploration, while changing rules to wishes can help him envision more supportive family dynamics. This combination of MI and CBT will create a safe space for Ryan to explore his thoughts and emotions, leading to increased awareness and reduced defensiveness.",
-        "progress_marker": "Ryan begins to articulate his feelings more openly and reflects on discrepancies between his values and actions."
+        "therapist_reasoning": "In this session, my first decision is to establish a trusting relationship with Ryan through reflective listening, which allows him to feel heard and validated. I will focus on expressing empathy regarding his feelings of isolation and judgment, thus reducing his defensiveness. Next, I will employ the strategy of developing discrepancy to help him recognize the conflict between his desire for connection and his fear of vulnerability. This will encourage self-reflection without pushing for immediate change. Simultaneously, I will incorporate CBT techniques like cognitive restructuring and challenging cognitive distortions to help Ryan articulate and evaluate his beliefs about expressing emotions. By guiding him to gather evidence for and against these beliefs, I aim to foster awareness without imposing pressure. The reframing process will help him create a more balanced perspective on vulnerability. Throughout this process, I will remain sensitive to his ambivalence and resistance, ensuring that he feels empowered to explore his thoughts and feelings at his own pace.",
+        "progress_marker": "Ryan demonstrates increased awareness of his emotions and beliefs, engages in discussions about his family dynamics without defensiveness, and begins to articulate his feelings."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I feel so overwhelmed without actually having to confront my problems directly.",
+        "client_objective": "I hope to just talk about my life without diving too deep into my feelings.",
         "client_state": {
-          "awareness": "I realize something feels off, but I'm not sure what the real problem is or if it even matters.",
-          "motivation": "I don't really want to change anything because it feels hopeless and exhausting.",
-          "openness": "I'm hesitant to share my thoughts and feelings; it seems safer to keep them to myself.",
-          "resistance": "I strongly defend against discussing my emotions because I fear it will just create more conflict and pain."
+          "awareness": "I know things are tough, but I don't really see a problem that needs fixing.",
+          "motivation": "I'm not really interested in changing anything right now; it feels overwhelming.",
+          "openness": "I feel hesitant to share my feelings because I'm worried about judgment.",
+          "resistance": "I often feel defensive and want to avoid discussing my emotions."
         },
-        "client_reasoning": "I know I should probably talk about my family and how I feel, but it feels like a huge risk. If I start sharing, what if it just leads to more problems? I can’t help but think that if I show my emotions, people will see me as unstable or overreacting, and I really don’t want to be dismissed or judged. It’s easier to just avoid the conversation altogether. Sometimes it feels like I am trapped in a cycle of feeling unlovable and incompetent, and the more I think about it, the more I withdraw from others. I don’t even know if therapy can help me with this. It feels uncomfortable to open up, but I also feel this nagging sense of wanting to express myself. I guess I'm just not sure if it’s worth the trouble, so I keep everything bottled up.",
-        "progress_marker": "The client begins to acknowledge feelings of isolation and recognizes a pattern of avoidance without committing to change."
+        "client_reasoning": "I find it hard to admit that there’s something wrong with me; I mean, life is just stressful, right? Moving and all this packing is just a lot to handle. My parents never really get me, especially my mom, who always seems to judge me. I feel like if I start talking about my feelings, it will just lead to conflict or make things worse, so it's easier to keep it all inside. I want to express how I feel, but what if it just leads to more problems? It’s safer to avoid those conversations. Therapy feels like it might just open up old wounds, and I’m not sure I’m ready for that. I guess I’m just not convinced that anything can really change, so why bother? I’d rather talk about anything else, like my new place or how my friends didn’t support me; those feel less risky than diving into my emotions."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; therapist objective was not met because rapport is still being built; client objective was not met as Ryan is still hesitant to share deeply.",
-          "client_utterance": "I just feel like there's so much to unpack, literally and emotionally. Sometimes I think about reaching out to friends, but it just feels exhausting. And then there's my mom, who always has something to say about how I'm handling things, which makes me want to keep everything to myself.",
-          "therapist_utterance": "It sounds like you're feeling overwhelmed not just by your new space but also by the expectations from your mom and the pressure to reach out. It's understandable to want to retreat when you feel judged. Can you share more about how those expectations from your mom affect your feelings?",
-          "therapist_use": "Reflective Listening: used to validate Ryan's feelings of overwhelm and encourage elaboration."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Ryan is still hesitant to explore his emotions, and the client objective was not met because Ryan prefers to discuss surface-level topics rather than his feelings.",
+          "client_utterance": "I just feel overwhelmed with unpacking and getting settled. It’s a lot easier to talk about that than my feelings, honestly. My parents just don’t get it, and I don’t want to dive into any emotional stuff right now.",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure with the move and that discussing your emotions feels like an extra burden. You mentioned that your parents don’t understand you; that must be really isolating. I'm here to support you in whatever you feel comfortable discussing, even if it's just about getting settled.",
+          "therapist_use": "Reflective listening: used to validate Ryan's feelings of overwhelm and to show support."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective was not met as Ryan hasn't fully explored his feelings about family dynamics; client objective was not met because he is still holding back.",
-          "client_utterance": "Well, I guess I just feel like no matter what I do, it's never enough for her. It’s like I’m always walking on eggshells. I want her to be proud of me, but I feel so judged that I don’t even know how to talk to her without worrying about her reaction.",
-          "therapist_utterance": "It seems like you're caught between wanting her approval and feeling judged, which makes it really hard to communicate openly. That fear of her reaction must be pretty heavy. What do you think would happen if you were able to express your feelings more freely?",
-          "therapist_use": "Expressing Empathy: used to acknowledge Ryan's internal struggle and encourage reflection on the impact of his fears."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Ryan is still avoiding deeper emotional discussions, and the client objective was not met because Ryan remains focused on superficial topics.",
+          "client_utterance": "Yeah, I guess it is isolating. My friends weren’t really there for me during the move either, which made things worse. I just feel like sharing anything deeper will just lead to conflict or make me look weak.",
+          "therapist_utterance": "It sounds really tough to feel unsupported by both your friends and family during this transition. I can see why you’d want to avoid sharing deeper feelings if you fear it could lead to conflict. What do you think might happen if you did express those feelings to someone close to you?",
+          "therapist_use": "Developing discrepancy: encouraging Ryan to explore the gap between his desire for connection and his fear of vulnerability."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective was not met as Ryan has not yet articulated specific emotions; client objective was not met since he remains unsure about expressing himself.",
-          "client_utterance": "I don't know... It just feels like it would lead to conflict, and I really don’t want that. I keep thinking that maybe I’d just be better off keeping quiet. But then I feel this loneliness that I can't shake off.",
-          "therapist_utterance": "Loneliness can be really difficult to deal with, especially when you're already feeling overwhelmed. It sounds like there's a part of you that longs for connection but feels trapped by the fear of conflict. What do you think keeps you from reaching out to others when you feel this way?",
-          "therapist_use": "Developing Discrepancy: used to help Ryan identify the gap between his desire for connection and his fears."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Ryan is still hesitant to consider the outcomes of expressing his emotions, and the client objective was not met because Ryan is not reflecting on the implications of his emotional avoidance.",
+          "client_utterance": "I don’t know; I just feel like it would probably end up with me feeling judged or misunderstood. It’s easier to just keep things to myself. I mean, how could they really understand what I’m going through?",
+          "therapist_utterance": "It seems like you’re worried that opening up might lead to more misunderstanding or judgment, which makes perfect sense given your experiences. It must be hard to feel like your emotions might not be accepted. Can you think of a time when you were able to express your feelings and felt heard?",
+          "therapist_use": "Raising awareness: helping Ryan recognize how avoiding emotions affects his relationships and well-being."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective was not met because Ryan has not yet identified the discrepancy clearly; client objective was not met as he still feels too conflicted.",
-          "client_utterance": "I don’t really know. I just think if I let someone in, they might judge me or think I’m weak. I mean, I want to feel supported, but I worry that showing my emotions will just push people away.",
-          "therapist_utterance": "It sounds like you're struggling with the belief that showing vulnerability could push people away, even though you desire support. That’s a tough position to be in. Would you be open to exploring where that belief comes from and how it affects your relationships?",
-          "therapist_use": "Evidence-Based Questioning: used to challenge Ryan's beliefs about emotional expression and encourage exploration."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Ryan has not yet identified any positive past experiences related to expressing emotions, and the client objective was not met because Ryan is still focused on avoiding deeper discussions.",
+          "client_utterance": "I honestly can’t remember a time like that. It feels like every time I try, it just ends up bad. I guess I just don’t see the point in risking that again.",
+          "therapist_utterance": "That sounds really discouraging, and it’s understandable to feel that way after having negative experiences. It can be tough to take that risk when past attempts haven't gone well. If you think about it, what do you believe could be some benefits of expressing yourself, even if it feels risky?",
+          "therapist_use": "Challenging cognitive distortions: assisting Ryan in recognizing his thoughts and considering alternative perspectives."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective was not met since Ryan hasn’t fully explored the origins of his beliefs; client objective was not met as he remains hesitant to share more.",
-          "client_utterance": "I guess I've always felt like I had to be strong and not show weakness, especially in my family. It’s like I learned that emotions are a burden. But I often end up feeling even more alone when I don’t express how I feel.",
-          "therapist_utterance": "It’s insightful that you’ve recognized that lesson from your family about strength and emotions. It seems like that belief has led to feelings of isolation, which is the opposite of what you really want. What might it look like for you to change that 'rule' about expressing your feelings?",
-          "therapist_use": "Changing Rules to Wishes: used to help Ryan reframe his beliefs about emotional expression and explore possibilities."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Ryan is still entrenched in his negative beliefs about expressing emotions, and the client objective was not met because Ryan is not yet open to discussing potential benefits.",
+          "client_utterance": "I guess maybe I’d feel a little better, but I’m still scared of how people would react. What if they just make things worse for me? It feels safer to just avoid it all.",
+          "therapist_utterance": "It's completely valid to feel scared about potential reactions, and it seems like avoiding those feelings feels like a protective measure for you. It’s a tough balance between wanting to feel better and fearing judgment. What if we could reframe how you view expressing emotions? Instead of seeing it as a risk, could it be a pathway to understanding?",
+          "therapist_use": "Reframing beliefs: working with Ryan to create a more balanced perspective on vulnerability."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective was not met as Ryan has not yet articulated a clear wish or vision for change; client objective was not met since he is still contemplating rather than committing.",
-          "client_utterance": "I don’t really know. Maybe I wish that I could just talk about things without feeling judged or like I’m being a burden. It would be nice to have open conversations, but it feels so risky.",
-          "therapist_utterance": "Wishing for open conversations is a good start, and it shows that you recognize the value in expressing yourself. It’s okay to feel that it’s risky; change often comes with uncertainty. What small step do you think you could take toward that wish, even if it feels uncomfortable?",
-          "therapist_use": "Continuum Technique: used to gauge Ryan's feelings about expressing emotions and facilitate discussion on potential steps."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Ryan is not yet ready to adopt a more balanced view on expressing emotions, and the client objective was not met because Ryan is still resistant to exploring deeper emotional topics.",
+          "client_utterance": "I mean, I guess that could make sense, but it still feels scary. I’m not convinced that it would actually lead to anything good. What if it just opens up old wounds?",
+          "therapist_utterance": "It’s normal to feel apprehensive about reopening old wounds, especially when the past has been painful. You’re being cautious, which is understandable. But maybe we could look at ways that expressing your feelings could lead to healing instead of conflict? What do you think about that?",
+          "therapist_use": "Expressing empathy: acknowledging Ryan's feelings of inadequacy and isolation to help him feel understood."
         },
         {
-          "reason_for_ending": "MOVE; therapist objective was met as Ryan is starting to articulate wishes for change; client objective was met since he is beginning to acknowledge the desire for connection.",
-          "client_utterance": "I guess I could try talking to a friend about how I’ve been feeling. It might feel awkward, but I want to see if it helps. I just have to remind myself that it’s okay to be vulnerable sometimes.",
-          "therapist_utterance": "That sounds like a meaningful step, Ryan. Acknowledging the discomfort while also wanting to connect is a great balance. It's a positive movement toward exploring your feelings and potentially finding support.",
-          "therapist_use": "Double-sided reflection: used to validate Ryan's ambivalence while encouraging movement toward wanting to connect."
+          "reason_for_ending": "MOVE; the therapist objective was met as Ryan has shown increased awareness of his feelings and is engaging in discussions about vulnerability, and the client objective was met because Ryan is starting to consider the implications of expressing his emotions rather than solely avoiding them.",
+          "client_utterance": "You know, I hadn’t thought about it like that before. Maybe there’s a chance that talking could help rather than hurt. I just need to find a way to do it safely.",
+          "therapist_utterance": "That’s a significant realization, Ryan. It seems like you’re starting to see that there may be a benefit to expressing your feelings, even if it’s scary. We can work together to find safe ways for you to express yourself and build that understanding.",
+          "therapist_use": "Reflective listening: validating Ryan's emerging awareness and encouraging his openness to exploring expression."
         }
       ]
     },
@@ -130,27 +135,28 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Ryan's ambivalence towards expressing emotions and increase his motivation to address underlying family dynamics.",
+          "objective": "Explore Ryan's ambivalence about expressing emotions and strengthen his motivation to engage in healthier communication patterns.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Encourage Ryan to discuss his feelings about wanting to express emotions versus fears of conflict.",
-                "Use open-ended questions to facilitate deeper exploration of his thoughts on the potential consequences of expressing himself."
+                "Begin the session by asking Ryan how he feels about expressing emotions to his family.",
+                "Encourage him to share both the positive and negative aspects of this expression.",
+                "Use reflective listening to validate his feelings and help him articulate his ambivalence."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask Ryan about times he felt relief or satisfaction after expressing emotions, even in small ways.",
-                "Prompt him to articulate what change would mean for him personally and how it aligns with his values."
+                "Ask open-ended questions that prompt Ryan to consider the benefits of expressing emotions, such as 'What do you think might happen if you were able to express how you feel?'",
+                "Encourage him to identify his values and how they align with his desire for genuine connections."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussions",
+              "strategy_name": "Decisional Balance",
               "instructions_for_therapist": [
-                "Guide Ryan in identifying the pros and cons of continuing to suppress emotions versus expressing them.",
-                "Help him weigh these factors in relation to his values and the importance of emotional authenticity."
+                "Facilitate a discussion on the pros and cons of continuing to suppress emotions versus expressing them.",
+                "Help Ryan weigh the potential benefits of change against his fears to strengthen motivation for change."
               ]
             }
           ]
@@ -158,85 +164,71 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Assist Ryan in identifying catastrophic thoughts about expressing emotions.",
-                "Challenge these thoughts by evaluating the actual worst-case scenario and discussing its likelihood and impact."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Facilitate a session where Ryan lists the benefits and drawbacks of expressing his feelings to his mother.",
-                "Encourage him to reflect on how these align with his core beliefs and desired outcomes."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Ryan to provide evidence for his belief that expressing emotions will lead to conflict.",
-                "Explore alternative interpretations of past experiences where he successfully communicated his feelings."
+                "Introduce the concept of cognitive distortions and work with Ryan to identify his automatic thoughts regarding emotional expression.",
+                "Guide him through the evidence-gathering process to assess the validity of his beliefs about expressing emotions leading to conflict.",
+                "Encourage him to reframe his thoughts to a more balanced perspective."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this case, the therapist first identifies Ryan's ambivalence towards expressing emotions, which is critical given his conflict between wanting to share and fearing negative outcomes. The therapist employs MI strategies, starting with exploring ambivalence, using open-ended questions to facilitate Ryan's self-reflection on his conflicting feelings. This is followed by eliciting change talk, where the therapist encourages Ryan to recall past positive experiences of emotional expression, thereby enhancing his motivation. The decisional balance discussion helps Ryan articulate the pros and cons of his current behavior, further illuminating the discrepancies between his values and actions. Next, in the CBT component, decatastrophizing is used to challenge catastrophic thoughts about emotional expression, helping Ryan assess the realism of his fears. The pros and cons analysis aligns with the MI strategies, allowing Ryan to visually and cognitively weigh his options. Finally, evidence-based questioning promotes a reevaluation of his beliefs about emotional expression, fostering self-efficacy and gradually shifting his mindset. This balanced approach respects Ryan's ambivalence while gently guiding him towards insight and motivation for change.",
-        "progress_marker": "Ryan expresses increased awareness of his conflicting feelings and begins to articulate potential benefits of expressing emotions."
+        "therapist_reasoning": "To effectively support Ryan in the contemplation phase, the therapist will begin by exploring his ambivalence toward expressing emotions. This involves utilizing Motivational Interviewing (MI) strategies such as exploring ambivalence and eliciting change talk. By validating Ryan's feelings and encouraging him to articulate both sides of his conflict, the therapist can foster a safe space for reflection. The decisional balance discussion will further help Ryan weigh the pros and cons of expressing emotions, aligning with his values for connections while acknowledging his fears. Concurrently, the therapist will integrate Cognitive Behavioral Therapy (CBT) techniques to challenge Ryan's cognitive distortions. This dual approach allows for a comprehensive understanding of his beliefs and emotions while guiding him toward cognitive restructuring. The therapist's reasoning is to maintain a collaborative stance, respecting Ryan's resistance while gently prompting insight and motivation for change, ultimately paving the way for him to explore healthier communication strategies.",
+        "progress_marker": "Ryan begins to articulate his feelings regarding emotional expression and recognizes the conflicting beliefs he holds, indicating an increased awareness of his ambivalence."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings and thoughts about my family dynamics and how they affect my emotional well-being.",
+        "client_objective": "I hope to explore my feelings about my family dynamics and how they affect my emotional well-being.",
         "client_state": {
-          "awareness": "I'm starting to see that my avoidance of my mother and my friends might be linked to deeper issues with expressing my emotions.",
-          "motivation": "I know that change could lead to a healthier way of interacting with my family, but I'm scared of what that might mean.",
-          "openness": "I'm somewhat willing to share my thoughts with my therapist, but I still hold back because I'm afraid of judgment.",
-          "resistance": "I feel a strong urge to keep my feelings to myself because I'm worried that expressing them will create more problems."
+          "awareness": "I am starting to see how my relationship with my parents impacts my emotions and behaviors, especially my tendency to avoid conflicts.",
+          "motivation": "I feel a desire to change my patterns of avoidance but am unsure if it's worth the potential conflict it might cause.",
+          "openness": "I am willing to discuss my feelings with the therapist, but I still hold back due to fear of being judged or misunderstood.",
+          "resistance": "I often find myself doubting whether expressing my emotions will lead to anything positive, and I feel a strong urge to protect myself from further hurt."
         },
-        "client_reasoning": "Lately, I've been reflecting on my family dynamics, especially my relationship with my mother. I recognize that my tendency to avoid her stems from a fear that if I express my emotions, I'll be seen as unstable or offensive. There's a part of me that wants to open up and share my feelings, but I'm scared it will just lead to conflict or dismissal. I feel conflicted because while I acknowledge that something isn’t working in my life, the thought of change is intimidating. Therapy has helped me start to see these patterns, but I still feel overwhelmed by doubts about whether I can truly change or if it’s even worth the effort. It’s like I’m stuck between wanting to be heard and fearing the consequences of being vulnerable.",
-        "progress_marker": "The client is beginning to connect their emotional experiences with their avoidance behaviors, showing signs of deeper self-reflection."
+        "client_reasoning": "Lately, I've been reflecting on my family dynamics, particularly my relationship with my mother. I recognize that avoiding her when I'm feeling low seems to be a way to protect myself, but it also leaves me feeling isolated and unfulfilled. I understand that my feelings of unlovability and helplessness stem from these interactions. Part of me wants to express how I'm feeling, but another part fears that this will just lead to more problems, or that I will just be dismissed or judged. I worry that if I show my emotions, I might be seen as unstable or overly sensitive, which is really scary for me. Talking through this in therapy helps me see these patterns more clearly, but I still feel conflicted about whether I truly want to change or if I should just keep everything bottled up to avoid confrontation."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Ryan has not fully explored his feelings about expressing emotions. The client's objective was not met as Ryan is still hesitant and has not articulated the potential benefits of change.",
-          "client_utterance": "I've been thinking about what you said regarding talking to a friend. It feels daunting, though, because I keep picturing them reacting negatively. I want to believe it could help, but I also can't shake the fear that they'll see me differently or think I'm overreacting.",
-          "therapist_utterance": "It's understandable to feel that way, especially when you've been holding back for so long. What do you think would be the worst thing that could happen if your friend didn't react as you fear? Sometimes considering the worst-case scenario can help us see it from a different angle.",
-          "therapist_use": "Decatastrophizing: used to help Ryan assess his fears about negative reactions and explore the likelihood of those scenarios."
+          "reason_for_ending": "KEEP: Therapist objective not met - Ryan has not yet fully explored his ambivalence about expressing emotions. Client objective not met - Ryan still feels uncertain about the benefits of expressing emotions.",
+          "client_utterance": "I guess I’m still worried that even if I try to express how I feel, it might just end up making things worse. I want to be honest, but the fear of judgment is really strong. It feels like I’ve built these walls to protect myself, and I’m not sure how to let them down.",
+          "therapist_utterance": "It’s understandable to feel that way, Ryan. Those walls have served a purpose for you in protecting against hurt. What would it look like for you to explore those fears a bit more? What do you think might help you feel safer in expressing your feelings?",
+          "therapist_use": "Exploring ambivalence: Encouraged Ryan to delve deeper into his fears and explore the possibility of feeling safer."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Ryan is still caught up in his fears and hasn't fully addressed his ambivalence. The client's objective was not met since Ryan has not yet articulated specific feelings about his family dynamics.",
-          "client_utterance": "I guess the worst case is that they wouldn't understand or would feel uncomfortable, which could make me feel even more isolated. But I also wonder if maybe they'd actually appreciate my honesty. It's just hard to imagine that right now.",
-          "therapist_utterance": "It sounds like you're recognizing that there might be more than one possible outcome to expressing yourself. What would it mean for you if your friend responded positively instead? How might that help you with your feelings about your mom and the dynamics there?",
-          "therapist_use": "Eliciting Change Talk: used to encourage Ryan to reflect on potential positive outcomes of expressing emotions."
+          "reason_for_ending": "KEEP: Therapist objective not met - Ryan has not yet identified potential benefits of expressing emotions. Client objective not met - Ryan is still unclear about how to manage his fears.",
+          "client_utterance": "I can’t really picture it right now. I keep thinking about how my mom might react, and I feel like I would just be setting myself up for disappointment again. Maybe I need to think about what I want to gain from this before I decide to open up.",
+          "therapist_utterance": "That’s a great insight, Ryan. Considering what you want to gain can help clarify your intentions and motivations. What are some potential outcomes you hope to achieve if you were to express your feelings? Even small ones count.",
+          "therapist_use": "Eliciting change talk: Helped Ryan to articulate what he hopes to gain from expressing emotions to clarify his motivations."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Ryan is still focused on fear rather than the potential benefits of emotional expression. The client's objective was not met since Ryan hasn't linked his feelings about family dynamics to his emotional well-being.",
-          "client_utterance": "If they responded positively, it might help me feel less alone and maybe even give me the courage to talk to my mom. But then I start thinking about how she might react, and that makes me want to retreat again. It’s like I’m in this tug-of-war with myself.",
-          "therapist_utterance": "That internal conflict is completely valid, and it shows how much you care about both your relationships and your emotional well-being. Can you think of any past experiences where you felt relief after expressing your feelings, even in small ways? What did that experience teach you?",
-          "therapist_use": "Exploring Ambivalence: used to facilitate deeper exploration of Ryan's past experiences with emotional expression and the lessons learned."
+          "reason_for_ending": "KEEP: Therapist objective not met - Ryan has not yet weighed the pros and cons of expressing emotions. Client objective not met - Ryan has not fully explored his feelings about family dynamics.",
+          "client_utterance": "I suppose if I could express myself, I might feel more connected to my family, but I’m still afraid of the negativity that might come back. It would be nice to feel understood, but what if it just opens up more conflict? I need to think about whether the risk is worth the potential reward.",
+          "therapist_utterance": "You’re really starting to weigh the risks and rewards, which is important. Let’s take a moment to list out some pros and cons of expressing your emotions versus keeping them bottled up. How do you think each option impacts your connection with your family?",
+          "therapist_use": "Decisional balance: Facilitated discussion on pros and cons to help Ryan consider the impact of his choices regarding emotional expression."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Ryan hasn't fully articulated any positive experiences from expressing emotions. The client's objective was not met as Ryan is still grappling with his fears and hasn't linked them to his family dynamics.",
-          "client_utterance": "I remember a time when I opened up to a friend during a tough moment, and it felt like a weight lifted off my shoulders. But it was also scary because I feared their judgment. I guess it taught me that sharing can lead to connection, but I still struggle with the fear of being dismissed.",
-          "therapist_utterance": "That’s a powerful realization, Ryan. It sounds like you've experienced the relief and connection that can come from being vulnerable, even if it felt scary at the time. How might that memory of relief influence your thoughts about speaking with your mom or friends now?",
-          "therapist_use": "Eliciting Change Talk: used to reinforce Ryan's acknowledgment of positive experiences with emotional expression, fostering motivation for change."
+          "reason_for_ending": "KEEP: Therapist objective not met - Ryan has not yet articulated a clear vision for expressing emotions. Client objective not met - Ryan needs to further explore how his family dynamics affect him.",
+          "client_utterance": "If I keep everything to myself, I guess I’ll just feel alone, but expressing myself could lead to more understanding. I want to feel closer to my family, but I’m still worried about being dismissed. It’s hard to imagine a positive outcome, even if I want one.",
+          "therapist_utterance": "It’s a tough place to be in, wanting to connect but fearing rejection. You’re recognizing that keeping things bottled up leads to isolation, which is a huge step. How can we work together to help you feel more confident in addressing your feelings with your family?",
+          "therapist_use": "Reflective listening: Validated Ryan's feelings about isolation and encouraged exploration of strategies for confidence in expressing emotions."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Ryan hasn't yet connected his past experiences to a desire for change regarding family dynamics. The client's objective was not met since Ryan is still struggling with the fear of judgment.",
-          "client_utterance": "I think if I could remember that relief, it might give me a push to try opening up again. But I'm still scared that it won't go well, especially with my mom. I have this image in my head that if I do, she'll just judge me or dismiss my feelings.",
-          "therapist_utterance": "That fear of judgment from your mom is significant and understandable, given your history. What would it take for you to feel safe enough to express yourself to her, even if it’s just a small part of how you feel? What do you think you might gain from that experience?",
-          "therapist_use": "Decisional Balance Discussions: used to guide Ryan in weighing the pros and cons of expressing emotions to his mother."
+          "reason_for_ending": "KEEP: Therapist objective not met - Ryan has not yet developed a plan to express emotions safely. Client objective not met - Ryan has not fully committed to exploring his feelings.",
+          "client_utterance": "I think maybe I could write a letter or something to start. That way, I could express how I feel without the immediate pressure of a face-to-face conversation. But I’m still unsure if I really want to go through with it.",
+          "therapist_utterance": "That’s a creative approach, Ryan! Writing can be a powerful tool to express your emotions while allowing you to take your time. What would it take for you to feel ready to write that letter and maybe share it with someone who you trust?",
+          "therapist_use": "Eliciting change talk: Encouraged Ryan to consider actionable steps to express his emotions in a manageable way."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Ryan has not yet articulated a clear plan for addressing his feelings with his mother. The client's objective was not met as Ryan is still hesitant and has not fully connected his emotions with potential change.",
-          "client_utterance": "I guess if I could find a safe way to start, like maybe just sharing a small feeling, it might make it easier. I want to believe that if I take that step, it could open up some honesty between us. But I still worry that she won't understand.",
-          "therapist_utterance": "Starting small sounds like a great approach, and it’s encouraging that you’re thinking about honesty as a goal. It might help to consider what specific small feeling you’d want to share with her. How do you think she might respond if you took that step?",
-          "therapist_use": "Pros and Cons Analysis: used to help Ryan reflect on the potential benefits of starting small in expressing his feelings to his mother."
+          "reason_for_ending": "KEEP: Therapist objective not met - Ryan has not yet made a commitment to express his emotions. Client objective not met - Ryan is still hesitant to follow through with his plan.",
+          "client_utterance": "I guess if I write it down, I could see it more clearly, and then decide if I want to share it. But what if my family doesn’t react well? I’m still scared of their responses, and I don’t want to get hurt again.",
+          "therapist_utterance": "Your fears are completely valid, and it’s wise to think about how your family might react. Writing it down first can give you the space to process your emotions without immediate pressure. What support do you think you would need in this process to feel more secure?",
+          "therapist_use": "Exploring ambivalence: Validated Ryan’s fears while encouraging him to identify support needed for his writing process."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective was met as Ryan is beginning to identify a small step toward emotional expression. The client's objective was met because Ryan is articulating thoughts about his family dynamics and connecting them to his emotional well-being.",
-          "client_utterance": "I think if I can share just one small feeling, it might not feel so overwhelming. I realize that even if her response isn't what I hope for, it could still lead to a better understanding between us. I'm starting to see that maybe it’s worth the risk.",
-          "therapist_utterance": "That’s a significant insight, Ryan. Acknowledging that even a small step could lead to better understanding shows growth in your perspective. It sounds like you're beginning to see the potential for positive change in your relationship with your mom as well as within yourself.",
-          "therapist_use": "Change Talk: used to validate Ryan's emerging motivation for change and acknowledge the potential for positive outcomes."
+          "reason_for_ending": "MOVE: Therapist objective met - Ryan has articulated a plan to express emotions. Client objective met - Ryan is beginning to explore his feelings and potential actions.",
+          "client_utterance": "I think I’ll give it a try. Writing a letter feels like a good first step, and it might help me figure out how I really feel. I just have to remind myself that it’s okay to feel vulnerable.",
+          "therapist_utterance": "That’s a fantastic decision, Ryan! Taking that first step can be very empowering, and it’s great that you’re recognizing the value of vulnerability. I believe this will help you move towards understanding your feelings more deeply and improve your connections. We can discuss how it went in our next session.",
+          "therapist_use": "Change talk: Affirmed Ryan’s decision to write a letter, reinforcing his movement towards expressing his emotions."
         }
       ]
     },
@@ -245,27 +237,29 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Ryan's commitment to making emotional changes and engaging with supportive relationships.",
+          "objective": "Strengthen Ryan's commitment to expressing emotions and develop a realistic action plan.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Ryan to articulate why he wants to make changes in his emotional expression.",
-                "Encourage him to express his commitment to making these changes by using 'I will' statements."
+                "Ask Ryan what specific changes he is willing to commit to regarding emotional expression.",
+                "Encourage him to articulate his reasons for wanting to make these changes.",
+                "Reinforce his statements by reflecting his commitment back to him."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions (0-10) to assess Ryan's confidence in expressing emotions.",
-                "Discuss what support he needs to feel more prepared and confident."
+                "Inquire about any previous experiences where Ryan felt he successfully expressed emotions.",
+                "Ask him to rate his confidence on a scale of 1-10 in expressing emotions to family.",
+                "Explore what might help increase that confidence and readiness for action."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Ryan identify specific friends or groups he can reach out to for support.",
-                "Discuss potential safe spaces or activities where he can practice emotional expression."
+                "Discuss with Ryan who in his life could offer support during this process.",
+                "Help him identify any resources or coping strategies he can use to manage anxiety about emotional expression."
               ]
             }
           ]
@@ -273,85 +267,80 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Collaborate with Ryan to create a step-by-step action plan for expressing emotions.",
-                "Start with small, manageable goals, such as writing a letter to his mother that he doesn't send."
+                "Introduce the concept of cognitive restructuring to Ryan, focusing on his beliefs about expressing emotions.",
+                "Guide him through the process of articulating his emotions regarding vulnerability.",
+                "Encourage him to gather evidence for and against his belief that showing emotions leads to negative outcomes.",
+                "Help him identify cognitive distortions and reframe his thoughts to a more balanced perspective."
               ]
             },
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Behavioral Experimentation",
               "instructions_for_therapist": [
-                "Design a behavioral experiment where Ryan practices expressing one feeling to a trusted friend.",
-                "Debrief after the exercise to discuss outcomes and any emotions that arise."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Teach Ryan to identify specific triggers that lead to emotional suppression.",
-                "Work together to brainstorm potential solutions for these triggers."
+                "Encourage Ryan to practice expressing a small feeling to a trusted friend or in a journal.",
+                "Discuss the responses he receives and how it affects his beliefs.",
+                "Reinforce any positive outcomes from this practice to build his confidence."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan, I first recognized Ryan's core beliefs of feeling incompetent and unlovable, which contribute to his emotional avoidance. This understanding guided me to employ Motivational Interviewing strategies to enhance his commitment to change by reinforcing his motivation and exploring his confidence in expressing emotions. I chose to facilitate discussions around his readiness, encouraging him to articulate his goals and potential support systems. For the CBT interventions, I focused on actionable and gradual steps to prevent overwhelming him, incorporating techniques like Action Planning to create a manageable roadmap for change. The Behavioral Experiment allows Ryan to test his beliefs about emotional expression in a supportive environment, while Problem-Solving Skills Training equips him with tools to navigate emotional triggers. This combination of MI and CBT aligns with his resistance profile, addressing ambivalence while gradually fostering self-efficacy and confidence in emotional expression.",
-        "progress_marker": "Ryan will report his feelings of confidence and readiness to express his emotions in a safe setting by the next session."
+        "therapist_reasoning": "In this preparation phase, the therapist focuses on building Ryan's commitment to change using MI strategies. The therapist begins by strengthening commitment language, helping Ryan articulate his intentions to express emotions. This is followed by exploring his confidence and readiness, where the therapist encourages Ryan to reflect on past successes in emotional expression, thus increasing his self-efficacy. Identifying supports and resources is crucial; the therapist facilitates discussions about who can help Ryan during this transition, reinforcing a support network. Concurrently, CBT techniques are employed, starting with cognitive restructuring to address Ryan's core beliefs about vulnerability. The therapist guides him through identifying emotions and gathering evidence against his negative beliefs, fostering a balanced perspective. Behavioral experimentation is introduced to allow Ryan to practice expressing emotions in a controlled manner, reinforcing newly acquired beliefs through real-world experience. This combined approach addresses Ryan's ambivalence and resistance while collaboratively developing a gradual action plan.",
+        "progress_marker": "Ryan has articulated specific changes he is willing to commit to and has identified at least one support person he can reach out to during his emotional expression journey."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to find ways to express my emotions and build healthier connections with my family and friends.",
+        "client_objective": "I hope to explore my feelings and find constructive ways to cope with my family dynamics.",
         "client_state": {
-          "awareness": "I recognize that my family dynamics and my tendency to suppress emotions are negatively affecting my well-being and relationships.",
-          "motivation": "I feel a strong desire to improve my situation and find healthier ways to cope with my feelings.",
-          "openness": "I am becoming more willing to discuss my thoughts and emotions with my therapist, although I still hesitate at times.",
-          "resistance": "I experience significant doubt and fear about expressing my feelings, worried it may lead to conflict or rejection."
+          "awareness": "I recognize that my current situation with my family and feelings of isolation are affecting my emotional well-being and daily life.",
+          "motivation": "I feel a stronger desire to improve my situation and am starting to believe that I can find healthier ways to express my emotions.",
+          "openness": "I am becoming more willing to discuss my thoughts and emotions with my therapist, though I still feel hesitant about fully opening up.",
+          "resistance": "I still experience significant doubts about whether expressing my feelings will lead to conflict or further isolation, which makes me cautious."
         },
-        "client_reasoning": "I've started to understand that my tendency to avoid expressing emotions, particularly with my parents, is holding me back. I feel trapped in this cycle of suppression, and it's impacting my mental health. I realize that if I want to feel more connected and supported, I need to find ways to express myself, even if it feels uncomfortable. Therapy has been a helpful space for me, allowing me to explore these feelings without judgment. While I am motivated to change, I still worry about how my family will react. I fear that sharing my emotions could lead to even more misunderstandings or conflict. Despite these fears, I hope that by opening up, I might start to build healthier relationships, not only with my family but also within myself. I want to break free from this feeling of being unlovable and incompetent, and I believe that taking small steps could lead to significant growth.",
-        "progress_marker": "Client has begun to identify specific areas for potential change and acknowledges the need for coping strategies."
+        "client_reasoning": "I've come to realize that my relationship with my family, especially with my mother, is not just a minor issue but a significant factor affecting my happiness. I feel trapped by the fear of showing my emotions, worried that if I open up, it might lead to conflict or dismissal. However, I know that keeping everything bottled up is not helping me either. I want to find better ways to cope, and I believe that discussing my feelings in therapy can help me uncover new strategies. While I'm feeling more motivated to make changes, I can't shake the doubt that maybe expressing myself will only make things worse. Still, I have hope that with guidance, I can learn to navigate these tough conversations and feel more connected to those around me, rather than isolated."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as they haven't fully explored Ryan's supports. Client objective not met as Ryan hasn't committed to any specific steps yet.",
-          "client_utterance": "I've been reflecting on the idea of sharing a small feeling with my mom, but I still don't know how to start. It feels risky to even think about it. I wonder if I could write something down first, maybe a letter that I don't send, just to get my thoughts clear.",
-          "therapist_utterance": "Writing a letter sounds like a constructive way to clarify your feelings without the pressure of an immediate conversation. It could help you express what you want to communicate to your mom and ease some of the anxiety around it. What do you think you might include in that letter?",
-          "therapist_use": "Exploring Supports: Encouraged Ryan to think about writing as a way to express feelings safely."
+          "reason_for_ending": "KEEP - Therapist objective not met: Ryan has not yet articulated specific changes he is willing to commit to regarding emotional expression. Client objective not met: Ryan has not fully explored his feelings and how to cope with family dynamics.",
+          "client_utterance": "I've been thinking more about my letter, but I'm still feeling hesitant. What if my mom reads it and reacts poorly? I want to express myself, but I keep worrying about the fallout.",
+          "therapist_utterance": "It's completely understandable to feel hesitant about how your mom might react. That fear of potential conflict can be really strong, especially when you're trying to be vulnerable. Can you think of what would make you feel more secure in sharing your feelings, even in a letter?",
+          "therapist_use": "Exploring confidence and readiness: encouraging Ryan to reflect on his fears."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met since Ryan hasn't identified specific friends for support yet. Client objective not met as Ryan hasn't committed to any actionable steps toward emotional expression.",
-          "client_utterance": "I think I could write about how overwhelmed I've been feeling since moving. But I’m still worried about how she would react if I ever actually shared it with her. Maybe I should also think about who I could talk to about this before approaching her.",
-          "therapist_utterance": "That makes a lot of sense. Identifying someone you trust to talk to before reaching out to your mom could give you the confidence boost you need. Who comes to mind as a potential support for you?",
-          "therapist_use": "Identifying Supports: Encouraged Ryan to consider trusted friends who could provide emotional support."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet reinforced Ryan's statements about his commitment to expressing emotions. Client objective not met: Ryan has not identified any specific changes he is willing to commit to.",
+          "client_utterance": "I guess if I could set some boundaries in the letter, that might help. I want to be honest but also protect myself from too much vulnerability. It just feels like a tightrope walk.",
+          "therapist_utterance": "Setting boundaries is a great idea, Ryan. It shows that you're thinking about your emotional safety while trying to connect with your family. What specific boundaries do you think could help you feel more comfortable expressing your feelings?",
+          "therapist_use": "Strengthening commitment language: encouraging Ryan to articulate his intentions related to emotional expression."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as they haven't engaged Ryan in a commitment statement yet. Client objective not met since Ryan hasn't set specific goals.",
-          "client_utterance": "I have a friend from college who I think would be understanding. I guess I could start by talking to them about how I'm feeling first. But I still feel a bit hesitant to actually say anything out loud.",
-          "therapist_utterance": "It's great that you've identified someone you trust. Remember, starting with small conversations can gradually build your comfort level. What would be a realistic and manageable way for you to approach your friend this week?",
-          "therapist_use": "Action Planning: Facilitated Ryan's thinking about a small step to express his feelings."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet helped Ryan identify supports he can reach out to during this process. Client objective not met: Ryan has not found constructive ways to cope with his family dynamics.",
+          "client_utterance": "Maybe I could talk to a friend about it after I write the letter. At least I’d have someone to bounce my thoughts off of before I send it. But I'm still worried about my family's reaction.",
+          "therapist_utterance": "That's a really smart approach, Ryan. Having a friend to discuss your feelings can provide you with additional support and perspective. Who do you think would be a good person to share this with once you feel ready?",
+          "therapist_use": "Identifying supports and resources: facilitating discussion about supportive individuals in Ryan's life."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Ryan hasn't expressed commitment language yet. Client objective not met since Ryan is still hesitant about taking action.",
-          "client_utterance": "I think I could just send a text to my friend asking if they want to grab coffee and talk. But I’m still scared they might judge me when I open up. I really want to, but it's hard to push past that fear.",
-          "therapist_utterance": "It's completely normal to feel scared, but reaching out for support is a brave step. You might be surprised by how your friend responds. Can you try to think of a commitment statement that reflects your intention to reach out to them?",
-          "therapist_use": "Strengthening Commitment Language: Encouraged Ryan to articulate an intention to reach out to his friend."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet reinforced Ryan's commitment to expressing his emotions. Client objective not met: Ryan has not yet committed to a specific plan for emotional expression.",
+          "client_utterance": "I think I might reach out to Sarah. She always listens without judging me. But I still feel nervous about opening up to her about my family stuff.",
+          "therapist_utterance": "It's great that you're considering Sarah; having someone supportive can make a big difference. It's okay to feel nervous about discussing family issues; that shows you're being thoughtful about your feelings. What do you think you could share with her that feels manageable?",
+          "therapist_use": "Exploring confidence and readiness: encouraging Ryan to reflect on manageable steps for sharing his feelings."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Ryan hasn't verbalized a clear commitment statement. Client objective not met since Ryan is still not fully convinced about reaching out.",
-          "client_utterance": "Okay, I think I can say something like, 'I will ask my friend to talk this week.' It feels like a step, but I still have this knot in my stomach. I really hope it goes well.",
-          "therapist_utterance": "That’s a solid commitment, Ryan! Acknowledging that knot in your stomach is important. It's a sign that you're stepping out of your comfort zone, which is a crucial part of this process. How confident do you feel about following through with that commitment on a scale from 0 to 10?",
-          "therapist_use": "Exploring Confidence and Readiness: Used scaling to assess Ryan's confidence in reaching out."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet helped Ryan articulate specific changes he is willing to commit to regarding emotional expression. Client objective not met: Ryan has not fully explored his feelings and coping strategies.",
+          "client_utterance": "I guess I could start by telling Sarah about how the move has been stressful. That feels easier than diving into family dynamics right away. But I still worry about her response.",
+          "therapist_utterance": "That sounds like a good starting point, Ryan. Sharing your stress about the move can open the door to deeper conversations later on. It's important to remember that you're taking a step towards expressing yourself, which is valuable, regardless of the outcome.",
+          "therapist_use": "Strengthening commitment language: reinforcing Ryan's small steps toward emotional expression."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Ryan hasn't identified specific supports yet. Client objective not met since Ryan is still uncertain about reaching out.",
-          "client_utterance": "I’d say I’m at a 7. I feel a bit anxious, but I really want to do this. If I can just remember that it’s okay to be vulnerable, I think I could manage it.",
-          "therapist_utterance": "A 7 shows that you're in a good place to move forward! It sounds like you’re recognizing the importance of vulnerability, which is a significant insight. What resources or reminders could help you maintain that mindset as you prepare to reach out?",
-          "therapist_use": "Identifying Supports: Encouraged Ryan to think about resources that could reinforce his courage."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet guided Ryan through cognitive restructuring to challenge his beliefs about vulnerability. Client objective not met: Ryan has not yet committed to understanding his emotional needs.",
+          "client_utterance": "You’re right; I need to take it one step at a time. I just hope that opening up won’t lead to more hurt. I want to believe it can lead to something positive.",
+          "therapist_utterance": "It's completely normal to feel that way, and it's good that you recognize the potential for positive outcomes. What could help you reframe your thoughts about expressing emotions so that you feel more optimistic about the process?",
+          "therapist_use": "Cognitive restructuring: guiding Ryan to reframe his beliefs about the outcomes of emotional expression."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Ryan has articulated a commitment statement. Client objective met as Ryan has identified a plan to reach out for support.",
-          "client_utterance": "I think I could write down some notes or reminders about why this is important to me. I want to remember that it's okay to feel scared, but that I can still reach out. I feel like this is a real step forward for me.",
-          "therapist_utterance": "That's a fantastic strategy, Ryan! Writing down your thoughts can help ground you as you take this step. It’s encouraging to see you recognize this as a real moment of progress, and I'm here to support you through it.",
-          "therapist_use": "Encouraging Self-Reflection: Reinforced Ryan's commitment and progress towards emotional expression."
+          "reason_for_ending": "MOVE - Therapist objective met: Ryan has articulated specific changes he is willing to commit to regarding emotional expression. Client objective met: Ryan has explored his feelings and identified a support person.",
+          "client_utterance": "I think I’m ready to write that letter and share it with Sarah first. I realize that expressing myself could help me feel less alone, and I want to give it a try.",
+          "therapist_utterance": "That’s a significant step forward, Ryan! I’m proud of you for committing to write the letter and share it with Sarah. This is a positive move towards understanding your emotions and improving your connections.",
+          "therapist_use": "Strengthening commitment language: reinforcing Ryan's commitment to writing the letter and acknowledging his progress."
         }
       ]
     }

@@ -12,160 +12,36 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To enhance Ashley's awareness of her thoughts and feelings regarding her family interactions and increase her willingness to explore her experiences without feeling pressured to change.",
+          "objective": "Build rapport and increase Ashley's awareness of her emotional responses and family dynamics.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen carefully to Ashley's concerns and feelings.",
-                "Reflect back her emotions and thoughts to validate her experiences.",
-                "Use phrases like, 'It sounds like you feel overwhelmed by your interactions with your parents.'"
+                "Listen actively to Ashley's concerns about her family interactions without judgment.",
+                "Reflect back her feelings of being overwhelmed and powerless to validate her experiences.",
+                "Encourage her to elaborate on her thoughts and feelings, demonstrating empathy."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Ashley's feelings of helplessness and anxiety.",
-                "Convey understanding of her situation and the emotional weight it carries.",
-                "Use statements like, 'It’s understandable to feel scared in such a controlling environment.'"
+                "Communicate understanding of Ashley's feelings of helplessness and the stress caused by her family dynamics.",
+                "Normalize her emotional responses to help reduce defensiveness.",
+                "Acknowledge her struggles while affirming that her feelings are valid."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Ashley to explore the gap between her current feelings and her values regarding family relationships.",
-                "Ask open-ended questions like, 'What do you think is important to you in your relationships with your family?'"
+                "Gently explore the discrepancy between Ashley's current feelings of helplessness and her personal values of wanting to feel empowered.",
+                "Ask open-ended questions to guide her in reflecting on how her current situation aligns or misaligns with her values."
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Gently encourage Ashley to notice her avoidance patterns and how they affect her.",
-                "Use prompts such as, 'What do you notice about how you respond in these family situations?'"
-              ]
-            }
-          ]
-        },
-        "cbt_plan": {
-          "interventions": [
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Ashley to identify evidence supporting her belief of being helpless.",
-                "Challenge her to think about instances where she has felt more in control, using questions like, 'Can you recall a time when you felt empowered in a conversation?'"
-              ]
-            },
-            {
-              "technique_name": "Reality Testing",
-              "instructions_for_therapist": [
-                "Encourage Ashley to examine the validity of her automatic thoughts, such as 'I'm losing control.'",
-                "Ask her to consider alternative explanations for her emotions and behaviors."
-              ]
-            },
-            {
-              "technique_name": "Alternative Perspective",
-              "instructions_for_therapist": [
-                "Invite Ashley to think about how she might view her situation differently.",
-                "Use hypothetical questions like, 'What would you tell a friend in your situation?'"
-              ]
-            },
-            {
-              "technique_name": "Continuum Technique",
-              "instructions_for_therapist": [
-                "Help Ashley to visualize her feelings on a continuum from complete helplessness to empowerment.",
-                "Ask her to place her current feelings on that scale to facilitate discussion."
-              ]
-            }
-          ]
-        },
-        "therapist_reasoning": "In developing the therapy plan for Ashley in the Pre-contemplation phase, the focus is on building rapport and increasing her awareness of her thoughts and emotions. The MI strategies of reflective listening and expressing empathy are crucial in creating a safe space for Ashley to share her feelings without feeling pressured. By validating her experiences, I can reduce her defensiveness and help her feel understood. The strategy of developing discrepancy will encourage her to explore the contrast between her current feelings and her values, fostering self-reflection. In conjunction, I will employ CBT techniques like evidence-based questioning and reality testing to challenge her core beliefs of helplessness. By asking her to recall moments of empowerment and examining the validity of her negative thoughts, we can begin to shift her perspective. The continuum technique allows Ashley to recognize that her feelings are not absolute, helping in reducing her sense of being trapped. Together, these approaches aim to engage Ashley in a process of awareness and curiosity without pushing her towards immediate change.",
-        "progress_marker": "Increased self-awareness of thoughts and emotions, reduced defensiveness in sessions, and a willingness to explore feelings related to family dynamics."
-      },
-      "client_plan": {
-        "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to find some comfort in talking, but I don't really know what to say.",
-        "client_state": {
-          "awareness": "I don't fully recognize how my family dynamic affects me.",
-          "motivation": "I feel like change is impossible for me right now.",
-          "openness": "I'm reluctant to share my real feelings about my family.",
-          "resistance": "I often feel defensive and withdrawn when discussing my emotions."
-        },
-        "client_reasoning": "I often feel overwhelmed just thinking about my family dynamics. It’s like I’m stuck in this cycle of feeling powerless and unlovable, but I don’t even know how to begin to express that. Talking about my feelings makes me feel exposed and vulnerable, which is terrifying. I keep coming to therapy because I think I might find some answers, but honestly, I feel more lost after sharing. It’s hard to believe that anything could change; I’ve felt this way for so long. When I try to speak up, it seems like my emotions don’t matter, and I worry that I’ll just be dismissed or worse, abandoned. Therapy feels uncomfortable, like I’m unwrapping a wound that I’m not ready to face. It’s safer to just avoid confronting my feelings and pretend everything is okay, even when it’s not.",
-        "progress_marker": "Client begins to recognize patterns in their family interactions."
-      },
-      "dialogue": [
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet fully enhanced Ashley's awareness of her emotions and thoughts. Client objective not met: Ashley still feels overwhelmed and is reluctant to share her feelings.",
-          "client_utterance": "I don't even know where to start. It’s like every time I think about my family, I just feel this weight on my chest. I guess I feel like I'm not really allowed to express what I’m feeling. It’s just easier to keep it all inside, you know?",
-          "therapist_utterance": "It sounds like you feel a heavy burden when you think about your family. It’s understandable to want to keep your feelings inside, especially if expressing them feels unsafe. Can you tell me more about what you feel when you're around them?",
-          "therapist_use": "Reflective Listening: used to validate Ashley's feelings of heaviness and encourage her to explore her experiences."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet fostered sufficient self-awareness in Ashley. Client objective not met: Ashley remains defensive and hesitant to delve deeper.",
-          "client_utterance": "When I'm with them, I just feel so small and like my voice doesn’t matter. I think that’s why I just shut down. I don’t want to argue or make things worse. I feel like if I say something, it’ll just be ignored.",
-          "therapist_utterance": "It seems that you feel diminished and unheard during those interactions, which is really tough. It’s normal to want to avoid conflict when you feel that way. What do you think is important to you in your relationships with your family?",
-          "therapist_use": "Developing Discrepancy: used to encourage Ashley to reflect on her values in family relationships."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet fully explored Ashley's values and how they relate to her family dynamics. Client objective not met: Ashley is still hesitant and not fully engaging with her feelings.",
-          "client_utterance": "I guess I want to feel loved and accepted, but it feels like that’s impossible. I don’t think they see me for who I really am. It’s frustrating. Sometimes I just feel like I can’t win no matter what I do.",
-          "therapist_utterance": "It sounds like you have a deep desire for love and acceptance, which is completely valid. Feeling like you can’t win can be disheartening. What would it look like for you to feel more accepted in those situations?",
-          "therapist_use": "Expressing Empathy: used to acknowledge Ashley's desire for love and acceptance while encouraging exploration."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet prompted Ashley to recognize her avoidance patterns. Client objective not met: Ashley remains reluctant to explore her feelings further.",
-          "client_utterance": "I don’t know how to change things. I feel like I just keep repeating the same patterns. It’s like I want to get out of this cycle, but it’s so hard to break free. Talking about it just makes me feel more anxious.",
-          "therapist_utterance": "It’s understandable to feel stuck in a cycle, especially when it’s been a long time. Acknowledging those patterns can be the first step toward exploring alternatives. What do you notice about how you respond when those feelings come up?",
-          "therapist_use": "Raising Awareness: used to gently encourage Ashley to notice her avoidance patterns in family situations."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet helped Ashley visualize her feelings. Client objective not met: Ashley continues to feel overwhelmed and defensive.",
-          "client_utterance": "I just feel like I’m on a rollercoaster of emotions. Sometimes I feel a bit empowered, but then it crashes down, and I’m back to feeling helpless. I don’t know how to hold onto those moments. It’s exhausting.",
-          "therapist_utterance": "It’s really exhausting to feel like you’re on an emotional rollercoaster. Those moments of empowerment must feel fleeting and frustrating. What if we tried to visualize those feelings on a continuum from helplessness to empowerment? Where do you think you are right now?",
-          "therapist_use": "Continuum Technique: used to help Ashley visualize her feelings and facilitate discussion about her emotional state."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet fully explored Ashley's positioning on the continuum. Client objective not met: Ashley still feels overwhelmed and is hesitant to engage.",
-          "client_utterance": "I guess I would put myself toward the helpless end. There are moments I feel a bit better, but overall, it’s like I’m stuck. Maybe I don’t really believe I can change. It’s hard to see a way out.",
-          "therapist_utterance": "It’s a significant step for you to identify where you feel on that continuum. Acknowledging that feeling of being stuck is the first part of exploring change. What would it take for you to feel even a little more towards the empowered side?",
-          "therapist_use": "Evidence-Based Questioning: used to challenge Ashley's feelings of helplessness and encourage her to think about possibilities for change."
-        },
-        {
-          "reason_for_ending": "MOVE - Therapist objective met: The therapist has increased Ashley's awareness of her thoughts and emotions. Client objective met: Ashley is beginning to articulate her feelings and recognize patterns.",
-          "client_utterance": "I think it might start with just being honest about how I feel when I’m with them. I need to try to express myself even if it’s hard. Maybe talking about it more here will help me find the words. I just want to feel less trapped.",
-          "therapist_utterance": "That’s a powerful realization, Ashley. Recognizing the need to express your feelings is a significant step toward feeling less trapped. I’m here to support you as you work through those emotions. Let’s continue to explore how you can begin to share those feelings.",
-          "therapist_use": "Reflective Listening: used to validate Ashley's realization and support her in moving toward expression."
-        }
-      ]
-    },
-    {
-      "phase": "contemplation",
-      "therapist_plan": {
-        "phase_of_therapy": "contemplation",
-        "motivational_interviewing_plan": {
-          "objective": "Explore Ashley's ambivalence towards changing her family dynamics and strengthen her motivation for change.",
-          "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Ask open-ended questions about her feelings regarding her interactions with her mother.",
-                "Encourage Ashley to express both her desire to change and her fears associated with it.",
-                "Validate her feelings and acknowledge the complexity of her situation."
-              ]
-            },
-            {
-              "strategy_name": "Eliciting Change Talk",
-              "instructions_for_therapist": [
-                "Prompt Ashley to discuss any instances where she felt empowered or seen in her family dynamic.",
-                "Use reflective listening to highlight her strengths and desires for change.",
-                "Encourage her to articulate what a meaningful change would look like for her."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance Discussions",
-              "instructions_for_therapist": [
-                "Facilitate a discussion about the pros and cons of maintaining the current family dynamic versus making changes.",
-                "Help Ashley weigh the emotional costs of her current behaviors against potential benefits of change."
+                "Facilitate discussions that help Ashley connect her current emotional responses with past experiences.",
+                "Encourage her to reflect on any patterns in her relationships that contribute to her feelings of powerlessness."
               ]
             }
           ]
@@ -175,84 +51,184 @@
             {
               "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Guide Ashley to identify her catastrophic thoughts about expressing her feelings to her parents.",
-                "Help her assess the likelihood and impact of these catastrophic outcomes.",
-                "Encourage her to develop more balanced thoughts about potential conversations."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Have Ashley create a list of pros and cons regarding her current coping strategies versus potential changes.",
-                "Discuss her insights from this analysis and how they relate to her feelings of helplessness."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Encourage Ashley to examine the evidence for her core beliefs of helplessness and unlovability.",
-                "Ask questions that promote reflection on past experiences that contradict these beliefs."
+                "Introduce the concept of Decatastrophizing to Ashley, focusing on her recent experiences with her parents.",
+                "Encourage her to articulate the worst-case scenario she fears when expressing her emotions.",
+                "Guide her in examining the evidence for and against these catastrophic beliefs.",
+                "Facilitate a discussion on alternative outcomes that could arise from expressing feelings."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Ashley's ambivalence, the therapist first employs MI strategies to create a safe space for exploration. By exploring ambivalence, the therapist uses open-ended questions to elicit her feelings surrounding her family dynamics, allowing her to articulate both desires and fears. This process is crucial in amplifying change talk, where the therapist reflects on her strengths to foster self-efficacy. The decisional balance discussions help Ashley weigh the pros and cons of her current situation, highlighting discrepancies between her values and behaviors. Following this, CBT techniques such as decatastrophizing target her catastrophic thinking, helping her to reframe her fears about expressing herself. The pros and cons analysis allows for deeper insight into her coping strategies, while evidence-based questioning challenges her core beliefs and promotes cognitive restructuring. This integrated approach of MI and CBT supports Ashley’s exploration of her ambivalence and strengthens her motivation for potential change, while respecting her current readiness to act.",
-        "progress_marker": "Ashley expresses a clearer understanding of her ambivalence and identifies specific fears and desires regarding her family interactions."
+        "therapist_reasoning": "In this session, I will employ Motivational Interviewing (MI) strategies to engage Ashley, who is currently in the Pre-contemplation phase. Starting with reflective listening, I will create a safe space for her to express feelings of helplessness regarding family dynamics, which helps build rapport and reduces defensiveness. By expressing empathy, I can validate her emotional experiences, making her feel understood and less alone in her struggles. As I gently help her explore the discrepancies between her current feelings and her values, I will encourage her to reflect on her situation without feeling pressured to change. The Decatastrophizing technique from CBT will be introduced to help Ashley identify and challenge her catastrophic thoughts regarding emotional expression. By guiding her to articulate fears and evaluate evidence, I will support her in recognizing that her emotional responses may not lead to the worst outcomes she anticipates. This combined approach aims to enhance her self-awareness and understanding of her emotional patterns while avoiding any pressure for immediate behavioral change.",
+        "progress_marker": "Ashley begins to articulate her feelings and fears more openly, showing signs of increased awareness without feeling pressured to change her behaviors."
       },
       "client_plan": {
-        "phase_of_change": "contemplation",
-        "client_objective": "I hope to better understand my feelings and the dynamics with my parents.",
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I want to understand why I feel so upset during family interactions without having to confront my feelings directly.",
         "client_state": {
-          "awareness": "I am starting to see that my interactions with my parents create a lot of stress and make me feel powerless.",
-          "motivation": "I can see that if I change how I communicate, things might get better, but I'm scared of the consequences.",
-          "openness": "I'm willing to talk about my feelings, but I still hesitate because I fear being judged or misunderstood.",
-          "resistance": "I often feel like shutting down during these conversations because they're overwhelming and confusing."
+          "awareness": "I have a vague sense that my family dynamics are problematic, but I don't fully recognize how they affect me.",
+          "motivation": "I feel overwhelmed by the idea of change and believe it's unlikely to improve my situation.",
+          "openness": "I struggle to share my thoughts and feelings, often feeling it's safer to keep them to myself.",
+          "resistance": "I strongly defend against discussing my emotions, feeling that it only complicates things further."
         },
-        "client_reasoning": "I'm beginning to realize that my relationship with my parents is affecting my self-esteem and emotional well-being. I notice patterns like avoiding conflict and feeling helpless when my mother is controlling. Sometimes I think about how I might feel more empowered if I could express my needs, yet I fear it might lead to conflict or even abandonment. I feel stuck between wanting to change and being scared of what that change might mean for me. Therapy helps me reflect, but I often leave feeling more confused. I wonder if I can ever really change my situation or if I'm just destined to feel this way forever. It feels safer to keep my thoughts and feelings to myself, even though I know that’s not helping me in the long run.",
-        "progress_marker": "Client shows increased awareness of emotional patterns and begins to articulate feelings about family dynamics."
+        "client_reasoning": "I often feel like I'm stuck in this cycle with my family, especially my mom, who always seems to overpower me. It’s like I’m walking on eggshells, trying to avoid conflict, but it only leaves me feeling more helpless and disconnected. When I try to talk about my feelings, it just makes me feel more lost; I don't think anyone really understands me or cares. It’s easier to just say I’m fine and brush it off, even though I know that’s not true. I feel like my emotions don’t matter, and discussing them would just lead to more fighting or disappointment. There’s this part of me that wants to change, but I also believe that nothing will ever really improve. So why bother? Therapy feels uncomfortable because it forces me to confront things I’d rather ignore, and it makes me feel vulnerable, which I really don’t like. I just want to figure out how to cope without having to dig deep into all of this.",
+        "progress_marker": "Client begins to identify and articulate feelings related to family interactions, even if indirectly."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist objective of exploring Ashley's ambivalence towards changing her family dynamics is not yet fully met. The client objective of better understanding her feelings and the dynamics with her parents is still in progress.",
-          "client_utterance": "I’ve been thinking more about how I react when my mom is controlling. Part of me wants to stand up for myself, but I just freeze. I hate that feeling of being powerless and not knowing how to express what I need. It's like I can see the change I want, but I'm terrified of how to get there.",
-          "therapist_utterance": "It sounds like you're really grappling with that conflict between wanting to assert yourself and feeling paralyzed by fear. Acknowledging that you want to change is a huge step. What do you think would happen if you tried to voice your feelings, even just a little?",
-          "therapist_use": "Open-ended questioning: used to encourage Ashley to explore her feelings about voicing her needs."
+          "reason_for_ending": "KEEP - The therapist's objective of building rapport and awareness was not fully met as Ashley remains hesitant to explore her feelings. The client's objective of understanding her emotional responses without confronting them directly has not been achieved yet.",
+          "client_utterance": "I don’t know, it’s just hard to think about why I feel so upset when I’m with my family. It’s like I can feel the tension, but talking about it just makes everything worse. I don’t really want to dive into those feelings because I worry it’ll just lead to more conflict.",
+          "therapist_utterance": "It sounds like you're feeling really caught in a tough spot, where acknowledging your feelings might bring more tension. It’s understandable to feel that way, especially when past experiences have led to conflict. Can you share a bit more about what it feels like in those moments when your family is around?",
+          "therapist_use": "Reflective Listening: used to validate Ashley's feelings of tension while encouraging her to elaborate."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective of eliciting change talk is still in progress. The client objective of understanding her feelings and dynamics is ongoing.",
-          "client_utterance": "I think if I tried to say something, it might just lead to a bigger argument. I worry that my mom will dismiss my feelings or get angry. But then again, I feel like I’m just letting things happen to me without any say in my own life. It’s frustrating to feel stuck between wanting to speak up and fearing the fallout.",
-          "therapist_utterance": "It’s completely understandable to have those fears, especially considering your past experiences. It sounds like you feel caught between wanting to be heard and the risk of conflict. Can we talk about what some of those potential arguments might look like and how you might handle them?",
-          "therapist_use": "Decisional balance discussion: encouraged Ashley to weigh the pros and cons of expressing her feelings."
+          "reason_for_ending": "KEEP - The therapist's objective of enhancing Ashley's awareness of her emotional responses was not fully met as she still struggles to articulate her feelings. The client's objective of understanding her feelings without confrontation remains unaddressed.",
+          "client_utterance": "I guess it just feels overwhelming. Like, I’m there, but I don’t feel like I can really express what’s going on inside me. I just try to keep things calm, even if it means ignoring my own feelings.",
+          "therapist_utterance": "That sounds really difficult, feeling like you have to suppress your feelings to maintain the peace. It makes sense that you would want to avoid conflict, but I wonder if there are times when you feel like your feelings are too important to ignore. What do you think would happen if you tried to express them?",
+          "therapist_use": "Expressing Empathy: used to acknowledge Ashley's struggle while encouraging her to reflect on the importance of her feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective of facilitating a discussion about pros and cons is not fully met yet. The client objective of understanding her feelings is still developing.",
-          "client_utterance": "If I expressed my feelings, I guess it could either lead to a fight or maybe it would help clear the air. I just can’t shake the thought that it could ruin our relationship. But then, keeping everything inside feels like it’s ruining me. It’s like I’m stuck in this loop of fear and frustration.",
-          "therapist_utterance": "Recognizing that loop is important, Ashley. It sounds like you see both the potential for conflict and the possibility of relief. What benefits do you think could come from starting to express your feelings, even just a little?",
-          "therapist_use": "Eliciting change talk: aimed to help Ashley articulate the benefits of expressing her emotions."
+          "reason_for_ending": "KEEP - The therapist's objective of developing awareness of family dynamics was not met as Ashley still feels overwhelmed. The client's objective of understanding her emotional responses has not progressed enough.",
+          "client_utterance": "I’m not sure what would happen. I guess I fear that if I said something, they wouldn’t understand or would just dismiss me. It’s like I’m invisible in those moments, and expressing myself feels pointless.",
+          "therapist_utterance": "It sounds like you feel a deep sense of invisibility when it comes to sharing your feelings with your family. That fear of being dismissed must be really tough to carry. Can you think of a time when you felt heard, even if it was outside of your family?",
+          "therapist_use": "Developing Discrepancy: used to explore the contrast between Ashley's current feelings and her desire to be heard."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective of promoting change talk is still in progress. The client objective of understanding her feelings and dynamics is ongoing.",
-          "client_utterance": "I guess if I could express myself, I might feel a little lighter, like I’m not carrying all of this alone. I could finally be honest about how their behavior affects me. But then I circle back to the fear of being rejected or not being understood. It’s hard to picture that relief when the fear feels so real.",
-          "therapist_utterance": "It’s great that you can see how expressing yourself might lighten your emotional load. The fear of rejection is a significant barrier, yet it’s important to explore it. What evidence do you have that your parents would dismiss your feelings? Have there been times when they’ve surprised you?",
-          "therapist_use": "Evidence-based questioning: encouraged Ashley to reflect on past experiences that contradict her fears."
+          "reason_for_ending": "KEEP - The therapist's objective of raising awareness of past experiences was not fully realized as Ashley still feels stuck in her situation. The client's objective of understanding her feelings without direct confrontation is still unmet.",
+          "client_utterance": "I can think of a few times, but it’s rare. Mostly, I feel like I’m just trying to survive these interactions. It’s like I know something is off, but I can’t pinpoint how it affects me.",
+          "therapist_utterance": "It's good that you can recognize those rare moments of feeling heard, even if they are few. It seems like there's a part of you that knows something isn't right in these interactions, but it's hard to put your finger on it. What do you think might help you gain clarity about what’s affecting you?",
+          "therapist_use": "Raising Awareness: used to encourage Ashley to connect her feelings with her past experiences."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective of challenging Ashley's core beliefs is still being developed. The client objective of understanding her feelings remains ongoing.",
-          "client_utterance": "There have been moments when they’ve listened, but those times feel overshadowed by the negative experiences. It’s like I can’t remember the good when I’m in the moment. I feel like they don’t love me if I express myself, like I’m being too dramatic. But I also know I can’t keep feeling this way forever.",
-          "therapist_utterance": "It’s understandable to focus on the negative when it feels overwhelming. Acknowledging those few positive moments can help, even if they feel small. What would it look like to hold onto those experiences as a reminder that not all interactions have to be negative?",
-          "therapist_use": "Reflective listening: validated Ashley’s feelings while encouraging her to recognize positive experiences."
+          "reason_for_ending": "KEEP - The therapist's objective of helping Ashley articulate her feelings was not fully met as she still struggles with clarity. The client's objective of understanding her emotional responses remains partially addressed.",
+          "client_utterance": "Maybe just talking about it more could help, but it feels daunting. I’m afraid I’ll just get lost in my thoughts and it won’t make sense. I really don’t want to feel overwhelmed or hurt more than I already do.",
+          "therapist_utterance": "It's completely valid to feel daunted by the idea of opening up more. Sometimes, just taking small steps in expressing those thoughts can help make things clearer. What if we started with just one small feeling or thought you have about your family interactions?",
+          "therapist_use": "Decatastrophizing: introduced to help Ashley challenge her fears about expressing feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective of reinforcing positive change talk is not quite met yet. The client objective of understanding her dynamics is still in progress.",
-          "client_utterance": "Maybe I could try to remember those moments when they have listened and felt a connection. It’s just so hard to think about changing my approach when I’m so used to shutting down. I want to believe that I can change this, but I’m still scared. What if I can’t handle the fallout?",
-          "therapist_utterance": "It’s completely valid to feel scared about the potential fallout. Believing that change is possible is a big step, and it’s okay to take it slowly. What are some small steps you could take to practice expressing yourself, even if it’s just in a safe space first?",
-          "therapist_use": "Exploring ambivalence: encouraged Ashley to consider small steps toward expressing herself."
+          "reason_for_ending": "KEEP - The therapist's objective of facilitating discussions on emotional expression was not fully met as Ashley still feels overwhelmed. The client's objective of understanding her feelings without confrontation remains unfulfilled.",
+          "client_utterance": "I suppose I can try that. Maybe if I think about one small thing, it won’t feel so scary. But I still worry that it’ll lead to more complications.",
+          "therapist_utterance": "It's a step in the right direction that you're open to trying. Focusing on just one small feeling might lessen the pressure you feel. What do you think that one small feeling might be?",
+          "therapist_use": "Encouraging Exploration: used to promote Ashley’s willingness to identify and articulate a specific feeling."
         },
         {
-          "reason_for_ending": "MOVE - The therapist objective of exploring ambivalence and strengthening motivation for change has been met. The client objective of better understanding her feelings and dynamics has also been achieved, with Ashley articulating both fears and desires.",
-          "client_utterance": "I think maybe I could start by writing down how I feel before talking to them. That way, I can organize my thoughts and feel more prepared. I still have a long way to go, but I can see a little light at the end of the tunnel now. I just hope I can keep moving forward.",
-          "therapist_utterance": "That sounds like a wonderful first step, Ashley! Writing down your feelings can help you find clarity and confidence. It's great to hear that you're starting to see a way forward; that’s a significant shift. I’m here to support you as you take these steps.",
-          "therapist_use": "Affirmation: reinforced Ashley's progress and commitment to moving forward."
+          "reason_for_ending": "MOVE - The therapist's objective of building rapport and increasing awareness was met as Ashley is willing to explore her feelings. The client's objective of understanding her emotional responses without direct confrontation has been partially achieved by her openness.",
+          "client_utterance": "I think I feel frustrated when I’m with them, especially when my mom tries to control the conversation. It’s like no one really listens to me. Maybe that’s worth talking about.",
+          "therapist_utterance": "That’s a huge insight, Ashley! Recognizing your frustration is a significant step. It’s important to feel that your voice matters, especially in family dynamics. How do you feel about exploring that frustration further?",
+          "therapist_use": "Validation: used to affirm Ashley’s feelings and encourage further exploration."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Ashley's ambivalence towards change and strengthen her motivation to address her feelings about her family dynamics.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Ask open-ended questions to help Ashley articulate her feelings about the family dynamics and her desire for change.",
+                "Reflect back her thoughts to show understanding and validate her feelings of conflict.",
+                "Encourage her to express both her desire to change and her fears about the consequences."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Use reflective listening to draw out Ashley's reasons for wanting to change her interaction with her parents.",
+                "Ask questions like, 'What would be different in your life if you felt more in control during family interactions?'",
+                "Reinforce any statements she makes that indicate motivation or desire for change."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance",
+              "instructions_for_therapist": [
+                "Facilitate a discussion about the pros and cons of remaining passive versus expressing her feelings.",
+                "Help her identify values that may be at odds with her current behavior, such as the importance of self-expression and emotional authenticity.",
+                "Encourage her to weigh both sides and reflect on how her current behaviors align with her values."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Decatastrophizing",
+              "instructions_for_therapist": [
+                "Guide Ashley through identifying the catastrophic thoughts associated with expressing her emotions.",
+                "Facilitate a discussion on the evidence for and against these thoughts, focusing on past experiences.",
+                "Encourage the generation of alternative outcomes and coping strategies for expressing her feelings safely."
+              ]
+            },
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Assist Ashley in reframing her thoughts around expressing her emotions, focusing on empowerment and safety.",
+                "Practice reframing scenarios where she might feel overwhelmed, helping her to develop a more balanced perspective.",
+                "Link her cognitive restructuring efforts to future interactions with her family."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In this session, I will begin by employing MI strategies to explore Ashley's ambivalence about expressing her feelings to her parents. By asking open-ended questions, I aim to elicit her conflicting desires and fears regarding change. This allows her to articulate her thoughts, while reflective listening validates her emotional experiences. Next, I will facilitate a decisional balance discussion to highlight the discrepancies between her values and current behaviors, encouraging her to weigh the pros and cons of remaining passive versus expressing herself. In parallel, I will introduce CBT interventions, specifically decatastrophizing, to help her challenge the catastrophic beliefs surrounding her emotional expression. By guiding her to assess past outcomes and generate alternative scenarios, I can assist her in reframing her thoughts, reinforcing her self-efficacy. This dual approach of MI and CBT will create a collaborative environment, addressing her resistance by validating her feelings while promoting insight into her ambivalence.",
+        "progress_marker": "Ashley articulates at least one reason for change and expresses a desire to explore her feelings further in future sessions."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to explore my feelings about my family dynamics and understand my emotional responses better.",
+        "client_state": {
+          "awareness": "I am starting to recognize that my interactions with my parents are causing me significant distress, and I see how my emotions connect to this.",
+          "motivation": "I feel a mix of wanting things to change but also fearing the unknown that comes with change.",
+          "openness": "I am somewhat willing to share my thoughts and feelings, but I still hold back due to fear of being misunderstood or rejected.",
+          "resistance": "I often feel withdrawn and uncertain about whether discussing my feelings will lead to any positive outcomes."
+        },
+        "client_reasoning": "Lately, I've been reflecting on how my relationship with my parents makes me feel powerless and anxious. I can see that my emotions are valid, yet I still doubt whether I can change the way I react. It’s confusing because part of me wants to stand up for myself, but I also worry about how my parents will respond. I think about how often I suppress my feelings to keep the peace, and while I know that’s not healthy, it feels like the only way to cope. Sometimes, I wonder if coming to therapy is even helping; it brings up so much, and I leave feeling more lost. I realize I need to address these feelings, but I’m scared of what that might mean for my family dynamics and for me. I hope discussing this can help me find clarity and understand what I really want.",
+        "progress_marker": "The client shows signs of recognizing the impact of family dynamics on their emotional state, indicating a willingness to explore their feelings further."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: Therapist's objective of exploring ambivalence was not fully met as Ashley hasn't fully articulated her feelings yet. Client's objective to explore feelings about family dynamics has not been fully addressed.",
+          "client_utterance": "I do feel frustrated, especially with my mom's controlling nature. But part of me worries that if I express this frustration, it could create more conflict. It’s almost like I’m stuck between wanting to be heard and fearing the fallout.",
+          "therapist_utterance": "It sounds like you’re really caught in a struggle between wanting to express your feelings and fearing the potential consequences. It's understandable to feel that way, especially if past experiences have led to conflict. Can you think of a specific moment when you felt this frustration most strongly?",
+          "therapist_use": "Open-ended questioning: encouraged Ashley to delve deeper into her feelings to facilitate exploration."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective to elicit change talk was not fully met as Ashley hasn't identified a clear reason for change. Client's objective to understand emotional responses better remains unfulfilled.",
+          "client_utterance": "I remember a time during dinner when my mom wouldn't let me speak about my own life. I felt really ignored, and it made me even more frustrated. I wanted to share something important, but I just stayed quiet instead.",
+          "therapist_utterance": "That sounds really painful, feeling ignored at such an important moment. It seems like there was a real desire to share your life, but the environment made it difficult. How do you think that experience impacts your feelings during future interactions with your family?",
+          "therapist_use": "Reflective listening: validated Ashley's feelings of frustration while guiding her to connect past experiences to current dynamics."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective to facilitate a decisional balance discussion was not fully met as Ashley hasn't weighed the pros and cons yet. Client's objective to explore feelings is still in progress.",
+          "client_utterance": "I think it makes me more anxious to even think about sharing my feelings. I feel like if I don’t keep things calm, it could lead to fights, and I really just want to avoid that. But at the same time, keeping quiet feels unhealthy for me.",
+          "therapist_utterance": "You’re recognizing a real conflict between your desire to keep the peace and your need for emotional expression. It’s a tough balance to strike. What do you think might happen if you started to express yourself more, even in small ways?",
+          "therapist_use": "Decisional balance: helped Ashley weigh the consequences of remaining passive versus expressing her feelings."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective of reinforcing motivation for change was not fully met as Ashley hasn't expressed a clear desire to change yet. Client's objective to articulate her feelings is still ongoing.",
+          "client_utterance": "I guess if I expressed myself, it could feel empowering, but I'm also afraid of being dismissed again. I wonder if I would feel more in control, but what if it just leads to more arguments? It’s hard to see a positive outcome.",
+          "therapist_utterance": "It’s completely normal to have those fears about being dismissed and the potential for conflict. But it also sounds like there’s a part of you that craves that sense of control. How might you prepare for a situation where you want to express your feelings, so you feel safer doing so?",
+          "therapist_use": "Eliciting change talk: invited Ashley to explore the potential for empowerment in expressing her emotions."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective to challenge catastrophic thoughts was not fully met as Ashley hasn't identified specific thoughts yet. Client's objective to understand emotional responses has not reached clarity.",
+          "client_utterance": "I can’t shake the feeling that if I say something, it’ll just blow up. I think about how my parents react to conflict, and it makes me hesitant to even try to express myself. It feels like a lose-lose situation.",
+          "therapist_utterance": "That sounds really heavy, feeling like it's a lose-lose situation. It’s understandable to feel that way given your past experiences. Can we look at some past interactions and see if there were times when expressing yourself didn’t lead to conflict?",
+          "therapist_use": "Decatastrophizing: encouraged Ashley to reflect on past experiences to challenge her catastrophic thoughts."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective of cognitive restructuring was not fully met as Ashley hasn't reframed her thoughts yet. Client's objective to explore feelings further is still ongoing.",
+          "client_utterance": "I can see that sometimes it doesn’t blow up, but it’s hard to let go of that fear. I guess if I think of it as just sharing my feelings rather than making a big confrontation, it might feel less daunting. But I still don’t know how to start.",
+          "therapist_utterance": "That’s a great insight, Ashley! Reframing it as sharing rather than confronting can definitely help ease the pressure. What do you think would be a small step you could take to start sharing those feelings with your family?",
+          "therapist_use": "Cognitive restructuring: assisted Ashley in reframing her thoughts around expressing her emotions."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist's objective of exploring ambivalence was met as Ashley articulated her feelings about wanting to express herself. Client's objective to explore feelings has progressed significantly.",
+          "client_utterance": "I think I could try bringing up a small feeling next time I’m with them, maybe just to test the waters. It feels like a small step, but it could help me see if I can be more honest with them. I want to feel more in control of my interactions.",
+          "therapist_utterance": "That sounds like a really positive step forward, Ashley! Testing the waters with a small feeling can help you gauge the response while building your confidence. It’s great to see you feeling more in control of how you want to approach your family interactions.",
+          "therapist_use": "Reinforcing motivation: validated Ashley's small step towards expressing her feelings and recognized her desire for control."
         }
       ]
     },
@@ -261,27 +237,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Ashley's commitment to change by reinforcing her motivation and exploring her confidence in making changes.",
+          "objective": "Strengthen Ashley's commitment to change by exploring her motivations and readiness, while identifying supportive resources.",
           "strategies": [
             {
-              "strategy_name": "Commitment Language",
+              "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Ashley to articulate her reasons for wanting to change, focusing on her feelings of helplessness and desire for control.",
-                "Ask open-ended questions to help her express her commitment to making behavioral changes, such as 'What would it look like for you to express your feelings more openly with your parents?'"
+                "Ask Ashley to articulate her reasons for wanting to change her interactions with her parents, focusing on her feelings of helplessness and the desire for more autonomy.",
+                "Encourage Ashley to express her commitment level on a scale from 1 to 10, discussing what would help her move from her current number to a higher one."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to help Ashley rate her confidence in making changes on a scale of 1-10.",
-                "Discuss what factors would increase her confidence and readiness, helping her visualize successful interactions."
+                "Facilitate a discussion about her confidence in expressing her feelings, probing into past experiences where she felt less helpless.",
+                "Identify and validate any small steps she has taken toward change, reinforcing her capability and readiness to take action."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Facilitate a discussion about potential support systems, including friends or community resources.",
-                "Help Ashley identify specific individuals she can reach out to when she feels overwhelmed."
+                "Help Ashley brainstorm potential supports within her social network, such as friends or trusted family members, that she can reach out to for encouragement.",
+                "Discuss resources such as books or workshops on effective communication that may help her feel more equipped."
               ]
             }
           ]
@@ -289,77 +265,78 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Collaborate with Ashley to create a step-by-step action plan for upcoming family interactions, including specific goals for expressing her needs.",
-                "Ensure that the plan includes small, manageable steps, such as practicing assertive communication techniques in low-stakes environments."
+                "Guide Ashley to articulate her catastrophic thoughts about expressing her emotions, beginning with the most recent incident with her parents.",
+                "Help her examine the evidence for these thoughts by discussing past experiences where she expressed herself, focusing on the outcomes.",
+                "Encourage her to generate alternative, less catastrophic outcomes, and practice reframing her thoughts to empower her self-expression."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Coping Strategies Development",
               "instructions_for_therapist": [
-                "Guide Ashley through identifying potential barriers she may face in family interactions and brainstorm practical solutions.",
-                "Practice role-playing scenarios where she can express her feelings with her parents, focusing on using 'I' statements."
+                "Work with Ashley to develop specific coping strategies, such as grounding techniques or phrases for assertive communication.",
+                "Role-play scenarios where she can practice these strategies to increase her comfort level before family interactions."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Ashley's therapy, I first recognized her feelings of helplessness and lack of control as core beliefs impeding her readiness for change. Applying MI strategies, I focused on strengthening her commitment language by encouraging her to articulate her motivations for change, which helps in building a sense of agency. To further enhance her confidence, I employed scaling questions to gauge and discuss her readiness, allowing her to visualize success. Identifying support systems is crucial given her resistance profile, as it provides her with external resources to mitigate feelings of isolation. For CBT, I introduced action planning to help her set clear, achievable goals for expressing herself during family interactions. This collaborative approach is essential given her intermediate resistance level, ensuring that she feels ownership of the change process. Additionally, problem-solving skills training allows her to proactively address barriers, reinforcing a sense of competence and self-efficacy. Overall, this integrated plan aims to empower Ashley while respecting her current emotional state and readiness to engage in change.",
-        "progress_marker": "Ashley reports increased confidence in expressing her feelings and has successfully articulated her action plan for the next family interaction."
+        "therapist_reasoning": "In the preparation phase, the focus is on empowering Ashley to commit to change while addressing her feelings of helplessness. By using MI strategies, I first aim to strengthen her commitment language to solidify her desire for change. This involves asking her to articulate her motivations and evaluate her readiness, which should help in reinforcing her autonomy. Following this, I will explore her confidence levels and identify supportive resources, which is crucial for building her self-efficacy. In parallel, applying CBT techniques like Decatastrophizing will help her challenge her catastrophic thoughts about expressing emotions, allowing for a clearer examination of her past experiences. This dual approach should reduce her anxiety and provide her with alternative outcomes to consider. Additionally, developing coping strategies tailored to her needs will prepare her for future interactions, ensuring she feels equipped and confident. Overall, this structured plan respects her readiness for change while addressing her resistance and fostering a collaborative environment.",
+        "progress_marker": "Ashley will rate her confidence in expressing her feelings in future interactions and identify at least one supportive resource by the next session."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to find practical steps to assert myself and improve my relationship with my parents.",
+        "client_objective": "I want to explore practical steps to improve my relationship with my parents and reduce my feelings of helplessness.",
         "client_state": {
-          "awareness": "I recognize that my relationship with my parents is causing me significant distress and that my feelings are valid, even if I struggle to express them.",
-          "motivation": "I feel a strong desire to change my situation and improve my emotional well-being, but I'm still afraid of the potential fallout from confronting my parents.",
-          "openness": "I'm beginning to feel more willing to share my thoughts and feelings in therapy, even if it's challenging for me, as I want to explore new ways of coping.",
-          "resistance": "I still experience doubts about my ability to change and fear that I might fail, which makes me hesitant to fully embrace the changes I want to make."
+          "awareness": "I recognize that my interactions with my parents are unhealthy and that my feelings of passivity are affecting my well-being.",
+          "motivation": "I feel a strong urge to change my situation and regain control over my emotions and responses.",
+          "openness": "I'm starting to be more open to discussing my feelings and considering new strategies, despite feeling hesitant.",
+          "resistance": "I still struggle with doubts about my ability to change and fear that I might fail or be rejected."
         },
-        "client_reasoning": "I've started to understand that my ongoing struggles with my parents are affecting my mental health more than I realized. It’s clear to me now that I feel trapped and helpless, which isn’t how I want to live anymore. I believe that making changes could help me regain some control over my life and improve my interactions with them. However, I still carry this fear that if I express my feelings, it might lead to conflict or even rejection. Therapy has helped me see that my emotions are valid, and I have a desire to learn how to communicate better. I want to find ways to assert myself without feeling overwhelmed or ashamed, but I can't shake the doubt that I might not succeed. I know I need to take small steps, but I'm still figuring out what those are."
+        "client_reasoning": "Lately, I've started to see just how much my relationship with my parents impacts my emotional state. I feel trapped in a cycle of feeling helpless and unlovable, and I realize that I can't keep living like this. Change feels necessary; I want to be able to express my emotions and stand up for myself without feeling ashamed. The idea of having a healthier relationship with my parents gives me hope, but I still worry about how they will react. Sometimes I doubt whether I have the strength to make these changes. However, talking about my feelings in therapy has helped me understand that my needs are valid, and I’m beginning to feel a bit more motivated to take action, even if it feels scary. I know I need to figure out how to express myself and set boundaries, but I’m still hesitant about stepping out of my comfort zone."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the client has not yet fully explored her motivations for change. Client objective not met as Ashley is still hesitant about taking actionable steps.",
-          "client_utterance": "I've been thinking about writing down my feelings, but I still feel nervous about actually sharing them with my parents. What if they don’t understand or just dismiss what I say? I want to feel empowered, but that fear keeps creeping back in.",
-          "therapist_utterance": "It's completely normal to feel nervous about sharing your feelings, especially when there's a fear of being dismissed. What do you think could help you feel more prepared to share your written thoughts? It might be useful to focus on why expressing yourself is important to you.",
-          "therapist_use": "Open-ended question: to encourage Ashley to articulate her motivations for change."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as they haven't fully explored Ashley's motivations and commitment to change. The client's objective was not met because Ashley hasn't articulated her reasons for wanting to change yet.",
+          "client_utterance": "I keep thinking about that small feeling I want to share with my parents. But part of me still worries that even a small expression could lead to misunderstandings or conflict. I want to feel more in control, but I don't know if I can manage it.",
+          "therapist_utterance": "It’s understandable to feel apprehensive about even small expressions, especially given your past experiences. Can you reflect on what it is about expressing that small feeling that feels challenging for you? What do you hope to achieve by sharing it, even if it feels daunting?",
+          "therapist_use": "Exploring motivations: aimed to understand Ashley's feelings about sharing her emotions."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the client has not yet rated her confidence in sharing her feelings. Client objective not met as Ashley is still uncertain about her next steps.",
-          "client_utterance": "I guess if I think about it, writing things down might help. But I still feel like I'm at a 5 out of 10 in terms of confidence. I want to believe I can do this, but then I get stuck in my head about it.",
-          "therapist_utterance": "Acknowledging that you're at a 5 is a good start. What would it take to raise that confidence to a 6 or 7? Let’s explore what small steps or support would help you feel more ready.",
-          "therapist_use": "Scaling question: to help Ashley evaluate her confidence and identify factors that could improve it."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as they need to strengthen Ashley's commitment to change further. The client's objective was not met because Ashley hasn't yet rated her commitment level.",
+          "client_utterance": "I guess I hope to feel heard and not just ignored. But I still fear that my parents might react negatively or dismiss my feelings again. It feels like I’m stuck between wanting to express myself and fearing rejection.",
+          "therapist_utterance": "That’s a significant insight, Ashley. It sounds like there’s a real desire for validation, but the fear of dismissal is holding you back. On a scale from 1 to 10, how committed do you feel to taking that small step of sharing your feeling with them?",
+          "therapist_use": "Strengthening Commitment Language: encouraged Ashley to articulate her commitment level."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the client has not yet identified specific supports or resources. Client objective not met as Ashley is still feeling ambivalent about taking action.",
-          "client_utterance": "I think having someone to talk to before I approach my parents could really help. Maybe I could reach out to a friend who understands my family dynamics. But I still worry that even with support, I might falter.",
-          "therapist_utterance": "That's a great idea! Having a supportive friend can make a big difference as you prepare to share your feelings. Can you think of specific ways that friend could help you feel more confident or less anxious before that conversation?",
-          "therapist_use": "Identifying supports: to help Ashley consider external resources that can provide her confidence."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as they haven't explored what would help Ashley increase her commitment level. The client's objective was not met because Ashley hasn't identified any supportive resources yet.",
+          "client_utterance": "I think I’m at about a 5. I want to do this, but I still have doubts about my ability to express myself without causing issues. I guess I need to feel more confident before I can move higher on that scale.",
+          "therapist_utterance": "A 5 shows that you’re halfway there, which is a great starting point! What do you think would help you feel more confident in expressing yourself? Are there any supportive people in your life you could talk to about this?",
+          "therapist_use": "Identifying Supports: aimed to help Ashley brainstorm potential supportive resources."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the client has not yet created an action plan for her family interactions. Client objective not met as Ashley has not yet established concrete steps to assert herself.",
-          "client_utterance": "I could ask my friend to help me practice what I want to say. That might make it feel less overwhelming. But I still feel anxious about how my parents will react, no matter how much I prepare.",
-          "therapist_utterance": "Practicing with your friend sounds like a solid action step. It’s understandable to feel anxious, but practicing can build your confidence. What do you think are some specific things you’d like to practice saying to your parents?",
-          "therapist_use": "Action planning: to collaborate with Ashley on creating specific steps for her upcoming interactions."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as they still need to validate Ashley's feelings about her ability to express herself. The client's objective was not met because Ashley has not yet identified any coping strategies to prepare for future interactions.",
+          "client_utterance": "I do have a couple of friends I could talk to who might understand my struggles, but I feel hesitant to involve them. I guess I’m worried they might not get it, or that it would just make me feel more vulnerable. I need to figure out what to say to them first.",
+          "therapist_utterance": "It’s completely valid to feel hesitant about reaching out to friends. Sometimes, just thinking about what you want to say can make it easier to open up. What if we brainstormed some phrases you could use to express your feelings to them?",
+          "therapist_use": "Coping Strategies Development: focused on developing specific phrases for Ashley to use in conversations."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the client has not yet articulated clear goals for her interactions. Client objective not met as Ashley is still unsure about her communication goals.",
-          "client_utterance": "Maybe I should focus on expressing my needs clearly, like saying 'I feel overwhelmed when you…' or 'I need space to think.' That feels manageable, but I still fear they won’t listen.",
-          "therapist_utterance": "Those 'I' statements are a great way to express your feelings without sounding accusatory. It helps to frame your needs in a way that opens up dialogue. What do you think could happen if they do listen to you?",
-          "therapist_use": "Exploring potential outcomes: to help Ashley visualize positive scenarios from her communication."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as they need to help Ashley practice expressing herself. The client's objective was not met because Ashley hasn't practiced coping strategies yet.",
+          "client_utterance": "That could help! If I had some phrases ready, it might feel less intimidating to reach out. I think I’d like to try practicing with you first, to see how it feels.",
+          "therapist_utterance": "That sounds like a wonderful idea! Let’s role-play a scenario where you share your small feeling with a friend. How about we start with that frustration you mentioned about your mom controlling the conversation?",
+          "therapist_use": "Role-playing: used to help Ashley practice expressing herself in a safe environment."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the client is still struggling with her fears about expressing herself. Client objective not met as Ashley has not fully committed to her action plan.",
-          "client_utterance": "I just keep thinking about how they might react. What if they get defensive or upset? I really want to try, but the fear of conflict is holding me back.",
-          "therapist_utterance": "It's completely valid to have those fears, especially when you care so much about your relationship with them. What if we considered the possibility that they might be more receptive than you expect? How would that change your approach?",
-          "therapist_use": "Reframing: to help Ashley challenge her fears and consider more positive outcomes."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as they still need to explore Ashley's confidence in sharing her feelings. The client's objective was not met because Ashley hasn't yet rated her confidence in expressing feelings.",
+          "client_utterance": "Okay, I can try saying something like, 'I felt frustrated when you didn’t let me speak at dinner.' But I’m worried about how they might react to that. I just want to be able to express it without it turning into a fight.",
+          "therapist_utterance": "That’s a great start! It’s important to express how you feel, and it’s understandable to have concerns about their reaction. On a scale from 1 to 10, how confident do you feel about saying that to your parents?",
+          "therapist_use": "Exploring Confidence and Readiness: aimed to assess Ashley's confidence in expressing her feelings."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Ashley has articulated her action plan and expressed increased confidence. Client objective met as Ashley has identified steps to assert herself and feels more empowered.",
-          "client_utterance": "I think if I can practice those statements with my friend and focus on the possibility of a positive outcome, I could feel ready. It’s still scary, but I see how it could help me feel less trapped. I want to try expressing myself more.",
-          "therapist_utterance": "That's a fantastic realization, Ashley! It sounds like you're ready to take meaningful steps toward expressing yourself. Remember, change takes time, and I'm here to support you through this process.",
-          "therapist_use": "Affirmation: to reinforce Ashley's commitment to change and her action plan."
+          "reason_for_ending": "MOVE: The therapist's objective was met as they have helped Ashley articulate her feelings and explored her confidence level. The client's objective was met as Ashley has practiced expressing her feelings and identified her resources.",
+          "client_utterance": "I think I’m at a 7 now. Practicing this with you makes me feel more empowered to express that frustration. I feel like I can take this step, especially knowing I have friends to support me.",
+          "therapist_utterance": "That’s fantastic to hear, Ashley! A 7 shows a significant boost in your confidence, and it's great that you recognize your support system. It sounds like you’re ready to take the next step in expressing yourself with your parents.",
+          "therapist_use": "Validation and Encouragement: reinforced Ashley's progress and readiness for change."
         }
       ]
     }

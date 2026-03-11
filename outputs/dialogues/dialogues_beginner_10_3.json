@@ -12,30 +12,38 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build awareness of Grace's feelings and experiences regarding her divorce and relationships while fostering a safe and supportive environment.",
+          "objective": "Enhance Grace's awareness of her feelings, beliefs, and the discrepancies between her current situation and personal values without pushing for immediate change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Grace's concerns about her divorce and family dynamics.",
-                "Paraphrase her statements to show understanding and validate her feelings.",
-                "Encourage her to explore her emotions further by reflecting back her feelings of being overwhelmed and unlovable."
+                "Acknowledge Grace's feelings of anxiety and sadness regarding her divorce and her parents' mixed messages.",
+                "Use reflective statements to validate her experience, such as, 'It sounds like you're feeling really alone in this situation.'",
+                "Encourage her to elaborate on her feelings, reinforcing that it's okay to feel overwhelmed."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Grace's anxiety and defensiveness regarding her family relationships.",
-                "Use empathetic statements to convey understanding of her feelings of isolation and fear of judgment.",
-                "Create a non-judgmental space where Grace feels safe to express her emotions."
+                "Demonstrate understanding of her challenges and emotional state, particularly her feelings of abandonment and the impact of her parents' reactions.",
+                "Use empathetic statements like, 'It must be really tough to feel unsupported by those who are supposed to be there for you.'",
+                "Create a safe space for her to express her thoughts without fear of judgment."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently help Grace identify the gap between her current emotional state and her personal values regarding support and connection.",
-                "Encourage her to reflect on how her current avoidance strategies may not align with her desire for strong relationships.",
-                "Use questions that prompt her to think about her need for understanding and support from loved ones."
+                "Encourage Grace to reflect on her personal values and how they differ from her current feelings of helplessness.",
+                "Ask questions like, 'What do you believe about support and connection with others?' to help her explore her values.",
+                "Facilitate a discussion about how her current beliefs may not align with her values, fostering self-awareness."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Help Grace articulate her automatic thoughts regarding her parents and how these thoughts affect her emotions.",
+                "Prompt her to consider whether her interpretations of her parents' actions are accurate.",
+                "Encourage her to explore alternative perspectives without pushing her toward action."
               ]
             }
           ]
@@ -43,82 +51,95 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identify and Challenge Thoughts",
               "instructions_for_therapist": [
-                "Ask Grace to provide evidence for her beliefs that her parents are critical and unsupportive.",
-                "Encourage her to consider alternative explanations for their behavior and her interpretations.",
-                "Foster a discussion about how her feelings of helplessness may influence her view of her relationships."
+                "Begin the session by asking Grace to share specific thoughts she has regarding her parents' lack of support.",
+                "Guide her in examining the evidence for and against her beliefs about her parents being critical.",
+                "Encourage her to reflect on instances when she may have felt supported, countering her belief that she is always alone."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Explore Emotional Reasoning",
               "instructions_for_therapist": [
-                "Help Grace examine her automatic thoughts about being unlovable and abandoned.",
-                "Encourage her to reflect on times when she has felt supported or loved, despite her current beliefs.",
-                "Guide her to recognize instances where her perceptions may not accurately reflect reality."
+                "Discuss with Grace how her feelings of anxiety may not fully represent the reality of her situation.",
+                "Ask her to consider if her feelings of being unsupported are based on facts or emotions.",
+                "Support her in recognizing that emotions can sometimes distort perceptions of reality."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Address Catastrophizing",
               "instructions_for_therapist": [
-                "Invite Grace to consider how her friends or family might perceive her situation differently.",
-                "Ask her to think about what she would say to a friend in a similar situation, promoting self-compassion.",
-                "Encourage her to explore the possibility that others may want to support her despite her fears."
+                "Help Grace identify instances where she may be assuming the worst about her relationships.",
+                "Prompt her to recall times when she felt alone but received unexpected support.",
+                "Encourage her to articulate more balanced thoughts about her relationships."
+              ]
+            },
+            {
+              "technique_name": "Develop Counter-Thoughts",
+              "instructions_for_therapist": [
+                "Assist Grace in creating realistic counter-statements to her negative thoughts about her parents.",
+                "Encourage her to think about potential positive interactions with her parents.",
+                "Foster a balanced view that acknowledges her feelings but also opens the door to potential support."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this therapy plan, I have focused on using Motivational Interviewing (MI) and Cognitive Behavioral Therapy (CBT) strategies to engage Grace, who is currently resistant and in the pre-contemplation phase. First, I aim to build rapport and trust through reflective listening, allowing her to feel heard while expressing empathy for her anxiety regarding her support system. By developing discrepancy, I will gently guide her to reflect on the disconnect between her feelings and her values, helping her recognize the importance of connection. In terms of CBT, I will utilize evidence-based questioning to challenge her core beliefs about being unlovable, encouraging her to provide evidence for these thoughts. Reality testing will help her assess the accuracy of her automatic thoughts about her relationships, while an alternative perspective will promote self-compassion and broaden her viewpoint on her circumstances. This structured approach aligns with her resistance profile by fostering awareness and curiosity without directly pushing for change, which is critical at this stage.",
-        "progress_marker": "Grace expresses curiosity about her emotions and begins to reflect on her beliefs regarding relationships without feeling defensive."
+        "therapist_reasoning": "The primary goal in this Pre-contemplation phase is to build rapport and enhance Grace's awareness of her thoughts and emotions while respecting her current resistance. I will employ Motivational Interviewing strategies such as reflective listening to validate her feelings about her divorce and her relationship with her parents, thereby fostering an empathetic environment. By expressing empathy, I aim to help her feel understood and safe to discuss her experiences. Developing discrepancy will allow her to explore the differences between her current emotional state and her personal values regarding support and connection, promoting self-reflection. Additionally, I will raise awareness by assisting her in articulating her automatic thoughts, which may lead to insights about her emotional reasoning. Meanwhile, the CBT interventions will focus on identifying and challenging her thoughts, exploring emotional reasoning, addressing catastrophizing, and developing counter-thoughts, all tailored to her indirect resistance and anxiety. This structured approach will encourage Grace to engage without feeling pressured to change immediately.",
+        "progress_marker": "Grace begins to articulate her feelings and thoughts about her parents' support and recognizes discrepancies between her beliefs and her values."
       },
       "client_plan": {
-        "awareness": "I know things are tough, but I don't really see them as a problem that needs fixing right now.",
-        "motivation": "I don't feel like changing anything; it feels pointless given how overwhelmed I am.",
-        "openness": "I'm not really open to sharing my deeper feelings; I just want to avoid the topic.",
-        "resistance": "I'm quite defensive about discussing my feelings and tend to shut down when it gets too personal."
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I hope to find a way to talk about my feelings without feeling judged or overwhelmed.",
+        "client_state": {
+          "awareness": "I have some sense that my situation is difficult, but I don't really see it as something that needs to change right now.",
+          "motivation": "I don't feel motivated to change because I think nothing will really help me.",
+          "openness": "I'm not very open to sharing my feelings; it feels safer to keep things to myself.",
+          "resistance": "I feel a strong urge to avoid talking about my problems because I'm afraid of being misunderstood or judged."
+        },
+        "client_reasoning": "I feel like I’m in a really tough spot right now after the divorce. It’s hard to even think about opening up about my feelings because I worry that people, even my parents, just won’t get it. I mean, they seem to think I should just be over it by now, and that makes me anxious every time I think about visiting them or talking to them. I know I should probably express what I’m going through, but what if they criticize me more or don’t support me at all? It’s easier to just avoid those conversations altogether. Honestly, therapy feels kind of uncomfortable; I don’t want to share my struggles when I’m still figuring them out myself. I keep thinking that if I just stay busy and don’t dwell on things, maybe they’ll get better on their own. But deep down, I feel so lonely and sad, and I’m not sure how to change that."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Grace has not yet expressed curiosity about her emotions. The client’s objective was not met as she remains resistant to discussing her feelings.",
-          "client_utterance": "I mean, I know things are really tough right now, but I just don't see how talking about my feelings is going to help. It feels pointless, and honestly, I just want to avoid all of it.",
-          "therapist_utterance": "It sounds like you're feeling overwhelmed and find it hard to see the value in discussing your feelings. It’s understandable to want to avoid what feels heavy. Can you tell me more about what makes you feel talking would be pointless?",
-          "therapist_use": "Reflective listening: to validate Grace’s feelings of overwhelm and encourage exploration."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Grace has not yet fully articulated her feelings about her parents' support. The client's objective was not met as she still feels resistant and hesitant to share her feelings.",
+          "client_utterance": "I guess I just feel like my parents think I should be moving on by now. It's hard to talk to them because I worry they'll just dismiss my feelings. I sometimes feel really alone in this, but I don't want to burden them with more problems.",
+          "therapist_utterance": "It sounds like you're feeling really alone in this situation, and there's a fear of being dismissed by your parents. It must be really tough to feel unsupported by those who are supposed to be there for you. Can you tell me more about what that feels like?",
+          "therapist_use": "Reflective Listening: used to acknowledge Grace's feelings of isolation and fear."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Grace did not provide insight into her feelings. The client’s objective was not met as she remains closed off about deeper emotions.",
-          "client_utterance": "I guess I just don't see the point in digging into all that. It feels like a lot of effort for nothing, and I’m already so exhausted from everything going on.",
-          "therapist_utterance": "I hear you saying that digging into your feelings seems like more effort than it’s worth, especially with everything else you’re dealing with. It seems like you’re carrying a heavy load. What would you say is the hardest part for you right now?",
-          "therapist_use": "Expressing empathy: to acknowledge Grace's exhaustion and encourage her to reflect on her burdens."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Grace hasn't fully explored her feelings yet. The client's objective was not met because she remains hesitant to open up about her emotions.",
+          "client_utterance": "I just feel like they won't understand what I'm going through. It feels safer to keep things to myself because what if they criticize me more? I wish I could just feel okay without having to talk about it.",
+          "therapist_utterance": "I can see how that fear of criticism makes it really difficult to share your thoughts. You're in a tough spot, wanting to feel okay but also feeling the weight of these emotions. What thoughts do you have about support and connection with others?",
+          "therapist_use": "Expressing Empathy: used to create a safe space for Grace's feelings and encourage exploration."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Grace did not identify specific burdens. The client’s objective was not met as she continues to resist discussing her feelings.",
-          "client_utterance": "Honestly, everything feels like a burden right now. The divorce, money issues, and even trying to co-parent—it’s just too much.",
-          "therapist_utterance": "That sounds incredibly overwhelming, Grace. Balancing the challenges of co-parenting and financial stress on top of your divorce can take a toll. What are some of the emotions that come up for you when you think about all of this?",
-          "therapist_use": "Developing discrepancy: to encourage Grace to explore her emotions surrounding her current situation."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Grace is not yet reflecting on her values. The client's objective was not met because she still feels resistant to sharing her feelings.",
+          "client_utterance": "I think I value support, but right now, it just feels like I have to deal with everything alone. I don’t want to open up and get hurt again. I keep thinking that if I just push through, things will get better.",
+          "therapist_utterance": "It sounds like there's a real conflict between your values of support and the loneliness you're experiencing. It must be frustrating to feel like pushing through is the only option. What do you believe about how support should look in your life?",
+          "therapist_use": "Developing Discrepancy: used to help Grace reflect on the differences between her current feelings and her values."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Grace did not articulate her emotions. The client’s objective was not met as she still seems hesitant to delve deeper.",
-          "client_utterance": "I don’t know. I just feel a mix of sadness and anger, but I don’t want to dwell on it. It just feels easier to push it aside.",
-          "therapist_utterance": "It makes sense that you want to push those feelings aside; they can be really intense. Acknowledging sadness and anger is tough, but it sounds like they are part of your experience right now. If you were to sit with those feelings for a moment, what do you think they might be trying to tell you?",
-          "therapist_use": "Reflective listening: to validate Grace's feelings and encourage deeper exploration of her emotions."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Grace has not yet articulated specific thoughts about her parents. The client's objective was not met because she still feels uncertain and resistant to expressing deeper feelings.",
+          "client_utterance": "I guess I think they should be more understanding, but I also feel like they don't see how hard this is for me. I worry they’ll just tell me to get over it, and that makes me want to avoid them even more. I know I shouldn't feel this way, but it's hard to change my mind.",
+          "therapist_utterance": "It's understandable to feel a mix of expectations and fears when it comes to your parents. You're grappling with the belief that they should be more supportive, yet you're also protecting yourself from potential hurt. What would it look like for you to express your feelings to them?",
+          "therapist_use": "Raising Awareness: used to help Grace articulate her automatic thoughts about her parents."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Grace has not yet considered the implications of her feelings. The client’s objective was not met as she remains resistant to deeper self-exploration.",
-          "client_utterance": "I don’t know. It seems like if I think about them too much, I’ll just get stuck in a rut. I really don’t want to feel that way.",
-          "therapist_utterance": "It sounds like you’re worried that dwelling on these feelings could lead to feeling stuck, which is completely understandable. It might feel safer to avoid them altogether. What if, instead, you could explore them just a little bit at a time?",
-          "therapist_use": "Expressing empathy: to acknowledge Grace's concern about feeling stuck while fostering a gentle exploration of her feelings."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Grace hasn't fully challenged her beliefs yet. The client's objective was not met because she continues to feel overwhelmed and reluctant to share.",
+          "client_utterance": "I just don’t know if I can do that. What if they just get angry or think I’m being dramatic? I feel like I’m always stuck in this cycle of thinking that I’m alone.",
+          "therapist_utterance": "It sounds like you're caught in a cycle of fear and feeling alone, which is really tough. Recognizing that feeling alone can sometimes distort the reality of your support network is an important step. Have there been times when you felt supported in unexpected ways?",
+          "therapist_use": "Explore Emotional Reasoning: used to help Grace differentiate between feelings and reality."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because Grace did not explore her feelings further. The client’s objective was not met as she shows ongoing defensiveness towards discussing her emotions.",
-          "client_utterance": "I guess I could try that, but I’m still not sure how much I want to dig in. I just feel like everything is so raw right now.",
-          "therapist_utterance": "You’re recognizing that it’s raw and that there might be value in gently approaching those feelings. It’s okay to take small steps. What do you think might be one small thing you could do to start exploring how you feel?",
-          "therapist_use": "Developing discrepancy: to encourage Grace to find a small step towards exploring her feelings."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Grace has not yet developed counter-thoughts about her situation. The client's objective was not met because she still feels resistant and unsure about expressing her feelings.",
+          "client_utterance": "I mean, there have been times when my friends have reached out, but I tend to push them away. I think I just assume they won’t understand what I’m going through either. I wish I could just stop feeling this way.",
+          "therapist_utterance": "It's great that you're recognizing those moments of support, even if they feel few and far between. It must be exhausting to feel like you have to push people away, especially when you might need them. What would it take for you to allow yourself to reach out when you're feeling this way?",
+          "therapist_use": "Address Catastrophizing: used to help Grace recognize the possibility of support from others."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective was met as Grace expressed curiosity about exploring her feelings. The client’s objective was met as she showed openness to considering small steps forward.",
-          "client_utterance": "Maybe I could write down a few things about how I’m feeling. It doesn’t feel too overwhelming to think about doing that.",
-          "therapist_utterance": "That sounds like a great start, Grace! Writing can be a powerful tool to help you process your feelings without feeling too overwhelmed. How do you feel about setting a time to do that this week?",
-          "therapist_use": "Encouraging exploration: used to support Grace in taking a small actionable step toward her feelings."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Grace is beginning to recognize her thoughts and feelings toward her parents. The client's objective was met because she is starting to articulate her feelings without feeling judged.",
+          "client_utterance": "I guess I just need to remind myself that not everyone will react negatively. Maybe I can try reaching out to a friend next time I feel overwhelmed. I still feel scared about it, but I think I can at least think about it.",
+          "therapist_utterance": "That's a really positive realization, Grace! It sounds like you're starting to see that there are chances for support if you allow yourself to reach out. It's okay to feel scared; acknowledging it is a significant first step.",
+          "therapist_use": "Developing Discrepancy: used to reinforce Grace's growing awareness of her feelings and potential for support."
         }
       ]
     },
@@ -127,28 +148,30 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Grace's ambivalence towards change and strengthen her motivation to address her feelings and relationships.",
+          "objective": "Explore Grace's ambivalence regarding her relationship with her parents and increase her motivation to engage in open communication.",
           "strategies": [
             {
-              "strategy_name": "Explore Ambivalence",
+              "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Grace to share both sides of her feelings regarding her relationships with her parents and friends.",
-                "Encourage her to articulate what she values in these relationships versus her current experiences.",
-                "Use reflective listening to validate her feelings and acknowledge the complexity of her situation."
+                "Ask Grace to articulate her conflicting feelings about her parents' support.",
+                "Encourage her to express both her desire for connection and her fears of being misunderstood.",
+                "Use reflective listening to validate her feelings and enhance her self-awareness."
               ]
             },
             {
-              "strategy_name": "Elicit Change Talk",
+              "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Grace with open-ended questions that encourage her to express any desire or reasons she might have for wanting to improve her relationships.",
-                "Summarize her change talk and highlight her expressed desires for connection and support."
+                "Prompt Grace with questions like, 'What would it look like if your parents were supportive?'",
+                "Encourage her to discuss what changes she hopes to see in her relationships.",
+                "Highlight any statements she makes about wanting connection or understanding."
               ]
             },
             {
-              "strategy_name": "Decisional Balance",
+              "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Facilitate a discussion where Grace lists the pros and cons of initiating conversations with her parents.",
-                "Guide her in weighing the potential benefits against her fears and anxieties."
+                "Facilitate a discussion where Grace weighs the pros and cons of reaching out to her parents.",
+                "Help her articulate how her values align with being open and vulnerable with her family.",
+                "Guide her towards recognizing the discrepancy between her current behavior and her values."
               ]
             }
           ]
@@ -156,85 +179,87 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Help Grace identify her catastrophic thoughts about her parents' reactions to her feelings.",
-                "Challenge these thoughts by asking what evidence supports or contradicts her fears."
+                "Guide Grace in identifying and discussing her automatic thoughts about her parents' lack of support.",
+                "Challenge her mind-reading assumptions by asking for specific examples of her parents' behavior.",
+                "Encourage her to develop balanced counter-thoughts that recognize possible support from her parents."
               ]
             },
             {
-              "technique_name": "Pros and Cons Analysis",
+              "technique_name": "Emotional Reasoning Exploration",
               "instructions_for_therapist": [
-                "Assist Grace in creating a table to analyze the positive and negative aspects of reaching out to her friends and parents.",
-                "Encourage her to reflect on how these factors relate to her core beliefs of being unlovable or defective."
+                "Discuss the distinction between her emotional experiences and the reality of her parents' actions.",
+                "Ask Grace to reflect on times when she felt unsupported but received support unexpectedly.",
+                "Help her recognize that her feelings may not accurately reflect her parents' intentions."
               ]
             },
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Role-Playing Communication",
               "instructions_for_therapist": [
-                "Ask Grace questions that prompt her to consider times when she was supported or accepted by others.",
-                "Encourage her to reflect on past experiences that contradict her belief of being unlovable."
+                "Facilitate role-play scenarios where Grace practices expressing her feelings to her parents.",
+                "Focus on reducing her defensiveness and improving her communication skills.",
+                "Provide constructive feedback and encouragement to build her confidence."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In formulating this therapy plan, I began by recognizing that Grace is in the Contemplation phase of change, indicating her awareness of issues but ambivalence towards addressing them. I selected MI strategies such as exploring ambivalence and eliciting change talk to facilitate her self-exploration without confrontation. This aligns with her resistance profile, as she exhibits indirect resistance and anxiety about discussing her feelings. By using decisional balance discussions, I aim to help her weigh the pros and cons of potential changes in her relationships. For CBT interventions, I focused on decatastrophizing her catastrophic thoughts, allowing Grace to challenge her fears about her parents' reactions. Additionally, I incorporated pros and cons analysis and evidence-based questioning to help her assess her core beliefs and recognize moments of support in her life, which could enhance her self-efficacy. This approach maintains a collaborative stance, fostering Grace's insight and motivation without pushing her prematurely into action planning.",
-        "progress_marker": "Increased willingness to discuss feelings with close friends or family members and greater recognition of supportive relationships."
+        "therapist_reasoning": "To address Grace's ambivalence, I will first explore her conflicting feelings regarding her parents through motivational interviewing. This will involve eliciting change talk by asking her to share her hopes for a supportive relationship, which can enhance her motivation to engage. I will then introduce decisional balance discussions to help her weigh the pros and cons of reaching out to her parents, emphasizing the discrepancy between her values and current behaviors. Concurrently, I will utilize CBT techniques by guiding her in cognitive restructuring to challenge her automatic thoughts about her parents' criticism, encouraging her to develop balanced counter-thoughts. I will also address emotional reasoning by helping her distinguish between her feelings of anxiety and the objective reality of her parents' actions. Lastly, I will incorporate role-playing to practice communication, aiming to reduce her defensiveness and build her confidence. By integrating these approaches, I can create a supportive and collaborative environment that allows Grace to reflect, gain insight, and explore her readiness for change.",
+        "progress_marker": "Grace articulates her feelings about her parents and begins to recognize the potential for support, demonstrating increased openness to communication."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my divorce and the impact it has on my relationships and self-worth.",
+        "client_objective": "I hope to explore my feelings about my divorce and the impact it has on my life and relationships.",
         "client_state": {
-          "awareness": "I am starting to see that my feelings of loneliness and anxiety are connected to my divorce and my relationships with my parents.",
-          "motivation": "I want to change my situation, but I am unsure if it’s possible or if it’s worth the effort.",
-          "openness": "I feel somewhat willing to talk about my emotions, but I’m also scared of being judged or misunderstood.",
-          "resistance": "I often find myself avoiding discussions about my feelings, fearing that I won’t be supported."
+          "awareness": "I'm starting to see that my feelings of loneliness and anxiety are linked to my recent divorce and the lack of support from my parents.",
+          "motivation": "I want to change my situation and feel better, but I'm scared of what that change might mean for my relationships.",
+          "openness": "I'm willing to talk about my feelings, but I still hesitate because I'm afraid of being judged or misunderstood.",
+          "resistance": "I feel a strong urge to avoid discussing my true feelings, fearing that it will lead to more pain or conflict."
         },
-        "client_reasoning": "I’ve been reflecting on my life since the divorce, and I’m beginning to see how much it has affected me. I notice that I often feel anxious and down, especially when I think about my parents’ reactions to my situation. It’s hard for me to accept that I might need to change how I relate to them, but part of me knows that holding onto these feelings isn’t helping. I feel conflicted because while I want to open up, I fear they won’t understand or will judge me. Therapy has been a space where I can explore these feelings, but I still find myself hesitating, thinking, 'What if they don’t get it?' I’m caught between wanting to seek support and worrying that I’ll end up feeling more alone. This ambivalence is challenging, but I’m starting to recognize that I have to confront these issues if I want to feel better.",
-        "progress_marker": "Increased self-reflection and acknowledgment of emotions related to the divorce."
+        "client_reasoning": "I'm beginning to understand that my divorce has left me feeling abandoned and unlovable, and it's affecting how I interact with others. I notice that I often feel anxious and defensive, especially when I think about talking to my parents. They don't seem to understand what I'm going through, and that makes it hard for me to open up. I know I should express my feelings, but I fear their reactions might just reinforce my feelings of being alone. Therapy is helping me reflect on these patterns, but I'm still conflicted. I want to feel better and connect with others, yet I worry that if I reveal my true self, I will be rejected. This ambivalence leaves me feeling stuck between wanting to change and fearing the unknown that comes with it."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Grace has not fully explored her feelings regarding her relationships. The client's objective was not met as she is still hesitant to delve deeper into her emotions.",
-          "client_utterance": "I’ve been thinking about how my relationships with my parents have changed since the divorce, but I’m still not sure how to approach those feelings. Sometimes I feel like they don’t really understand what I’m going through, and it makes me reluctant to talk to them.",
-          "therapist_utterance": "It sounds like you’re feeling uncertain about how to express your feelings to your parents, especially because you worry they might not understand your experience. What do you think are the positives and negatives of reaching out to them right now?",
-          "therapist_use": "Exploring Ambivalence: encouraged Grace to articulate her feelings about her parents and the impact of her divorce on their relationship."
+          "reason_for_ending": "KEEP: Therapist objective not met - Grace has not fully articulated her feelings about her parents. Client objective not met - Grace has not explored her feelings about her divorce in relation to her parents.",
+          "client_utterance": "I've been thinking about how my parents always seem to have their own expectations of me. I feel like they want me to just move on, but they don’t see how painful this is for me. It makes me hesitant to reach out because I worry they won't understand.",
+          "therapist_utterance": "It sounds like there's a real sense of pressure from your parents to move past your divorce. You seem to feel that their expectations don’t align with the reality of what you’re experiencing. Can you share more about what you hope for from them as you navigate these feelings?",
+          "therapist_use": "Exploring Ambivalence: encouraged Grace to articulate her conflicting feelings about her parents’ expectations."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't fully facilitated a discussion around Grace's ambivalence. The client's objective was not met as she is still grappling with her feelings.",
-          "client_utterance": "I can see that I want them to be supportive, but I’m scared they’ll judge me. The thought of talking to them brings up a lot of anxiety, and I wonder if it would even help at all.",
-          "therapist_utterance": "It makes sense that you're feeling anxious about their potential judgment, and that can make reaching out feel daunting. What do you think you might gain from having that conversation with them?",
-          "therapist_use": "Elicit Change Talk: prompted Grace to express her desires for connection and support in her relationships."
+          "reason_for_ending": "KEEP: Therapist objective not met - Grace is still not fully expressing her desires for connection. Client objective not met - Grace has not yet explored how her divorce impacts her relationships with her parents.",
+          "client_utterance": "I guess I just want them to acknowledge that I'm struggling. I want to feel understood, but I fear they’ll just dismiss my feelings again. It’s hard to open up when I think they might not be able to relate.",
+          "therapist_utterance": "It’s understandable to want that acknowledgment and understanding from your parents, especially during such a tough time. You’re feeling vulnerable, and that fear of dismissal makes it hard to reach out. What do you think would happen if you expressed your struggles to them?",
+          "therapist_use": "Eliciting Change Talk: prompted Grace to think about the potential positive outcomes of reaching out to her parents."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Grace hasn't fully articulated her motivations for improving her relationships. The client's objective was not met as she remains uncertain about the benefits of change.",
-          "client_utterance": "I guess if they understood what I’m feeling, it could help us connect better. But I’m still worried they won’t see it that way and it could just make things worse.",
-          "therapist_utterance": "You’re recognizing that opening up could potentially deepen your connection, which is a positive step. At the same time, it’s understandable to fear that things might not go as you hope. What are some possible benefits you see in reaching out to them?",
-          "therapist_use": "Decisional Balance: facilitated a discussion on the pros and cons of reaching out to her parents."
+          "reason_for_ending": "KEEP: Therapist objective not met - Grace has not yet weighed the pros and cons of reaching out. Client objective not met - Grace still hesitates about discussing her feelings.",
+          "client_utterance": "I just can’t shake the feeling that they’ll respond negatively. I worry they’ll tell me to toughen up or that I need to get over it. It’s hard to imagine them being supportive when I’m feeling so fragile.",
+          "therapist_utterance": "That fear of a negative response is really significant for you. It sounds like you’re stuck between wanting support and fearing how they might react. What do you think might be some benefits of reaching out, even if it feels risky?",
+          "therapist_use": "Decisional Balance Discussions: facilitated a discussion to help Grace weigh the pros and cons of reaching out to her parents."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Grace has not yet weighed her fears against potential benefits. The client's objective was not met as she is still wrestling with her fears.",
-          "client_utterance": "I think if I reached out, it could relieve some of the tension in our relationship. But I can't shake the feeling that they might just dismiss my feelings.",
-          "therapist_utterance": "It's insightful that you see the potential for relieving tension, yet your fear of dismissal holds you back. Let’s explore those fears a bit more—what evidence do you have that they might dismiss your feelings?",
-          "therapist_use": "Evidence-Based Questioning: encouraged Grace to consider the evidence supporting her fears regarding her parents' reactions."
+          "reason_for_ending": "KEEP: Therapist objective not met - Grace has not fully recognized the discrepancy between her current behavior and her values. Client objective not met - Grace still feels stuck in her current situation.",
+          "client_utterance": "I guess if they were supportive, it would feel like a weight lifted off my shoulders. But I still think they might not really get it. I want to feel connected, but I feel this wall between us.",
+          "therapist_utterance": "It’s insightful that you see how support could relieve some of your burden. That wall you're feeling is likely a barrier to connecting with them. What would it take for you to start breaking down that wall and reaching out?",
+          "therapist_use": "Exploring Ambivalence: encouraged Grace to reflect on her desire for connection versus her fear of misunderstanding."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Grace has not yet fully challenged her fears. The client's objective was not met as she remains focused on her anxieties.",
-          "client_utterance": "I remember a time when they really listened to me when I was struggling with school. But lately, it just feels like they’re too caught up in their own issues to care about mine.",
-          "therapist_utterance": "It’s important that you recall times when they were supportive, as that can contradict your belief that they won’t listen. What do you think could happen if you shared your feelings with them, based on those positive experiences?",
-          "therapist_use": "Decatastrophizing: helped Grace identify and challenge her catastrophic thoughts about her parents' potential reactions."
+          "reason_for_ending": "KEEP: Therapist objective not met - Grace has not fully articulated a plan for reaching out. Client objective not met - Grace has not yet explored her feelings about her divorce's impact on her relationships.",
+          "client_utterance": "Maybe I could just start with a small message, but I’m scared of how they will react. I want to be honest about my feelings, but what if they don’t respond well? I know I should try, but it’s hard to take that first step.",
+          "therapist_utterance": "Starting with a small message sounds like a manageable step. It’s completely normal to feel scared about how they might respond, but it shows that you’re willing to open that door. What would you want to say in that message to express your feelings?",
+          "therapist_use": "Role-Playing Communication: facilitated Grace's practice in expressing her feelings to her parents."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Grace has not fully engaged in a reflective process about her past experiences. The client's objective was not met as she is still conflicted about reaching out.",
-          "client_utterance": "I suppose I could try to remind myself of those moments when they were there for me. It’s just hard to shake the anxiety that comes with thinking about it.",
-          "therapist_utterance": "It sounds like you’re starting to see a glimmer of hope through those past experiences, even amidst the anxiety. What might help you feel a little more prepared to reach out?",
-          "therapist_use": "Elicit Change Talk: encouraged Grace to express any strategies that could help her feel more prepared to engage with her parents."
+          "reason_for_ending": "KEEP: Therapist objective not met - Grace is still hesitant about reaching out to her parents. Client objective not met - Grace has not fully explored the impact of her divorce on her relationships.",
+          "client_utterance": "I think I’d want to say that I’m struggling and could use their support. But I’m still worried about them misunderstanding me. It's frustrating because I know I want to connect, but my fears hold me back.",
+          "therapist_utterance": "It’s a positive step that you’re considering expressing your struggles to them. Acknowledging those fears is crucial, but it’s also important to recognize your desire for connection. How can you remind yourself of that desire when you feel the urge to hold back?",
+          "therapist_use": "Cognitive Restructuring: encouraged Grace to challenge her fears by recognizing her desire for connection."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met as Grace has begun to reflect on her feelings and consider reaching out to her parents. The client's objective was met as she is recognizing the complexities of her relationships and is more open to change.",
-          "client_utterance": "I guess I could write down what I want to say to them. It might help me feel less anxious about actually talking to them.",
-          "therapist_utterance": "That sounds like a constructive approach, Grace! Writing your thoughts can really help you clarify what you want to communicate and reduce anxiety. How does that feel as a step forward for you?",
-          "therapist_use": "Pros and Cons Analysis: guided Grace to identify practical steps she could take to prepare for conversations with her parents."
+          "reason_for_ending": "MOVE: Therapist objective met - Grace has begun to articulate her feelings and recognize potential support. Client objective met - Grace has explored her feelings about her divorce and its impact on her relationships.",
+          "client_utterance": "I think I can try to reach out to them, maybe even just to share how I've been feeling. It’s still scary, but I want to feel connected and supported. I know it’s worth a shot, even if it’s hard.",
+          "therapist_utterance": "That’s a significant realization, Grace! You’re taking a brave step toward connection, and it’s okay to feel scared. Remember, reaching out could open up a new path for support that you’ve been longing for.",
+          "therapist_use": "Eliciting Change Talk: reinforced Grace's motivation to reach out and connect with her parents."
         }
       ]
     },
@@ -243,27 +268,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Grace's commitment to change and enhance her motivation for action.",
+          "objective": "Strengthen Grace's commitment to change and explore her readiness for action.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Grace to articulate her reasons for wanting to change, focusing on personal values and goals.",
-                "Reflect on her statements to affirm her commitment, reinforcing her motivations and readiness to act."
+                "Ask Grace what specific changes she is considering and how she feels about them.",
+                "Use reflective listening to affirm her intentions and highlight her motivations for making these changes.",
+                "Encourage her to articulate her reasons for wanting to improve her relationships and coping mechanisms."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Ask Grace scaling questions (e.g., 'On a scale of 1 to 10, how confident do you feel about making changes?') to gauge her self-efficacy.",
-                "Discuss what would help her feel more confident, emphasizing small, incremental steps toward her goals."
+                "Ask Grace to rate her confidence level on a scale of 1-10 regarding her ability to communicate with her parents.",
+                "Explore the reasons behind her rating and what would increase her confidence.",
+                "Discuss past experiences where she successfully overcame challenges to reinforce her self-efficacy."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Facilitate a discussion about potential supports, including friends, family, or community resources.",
-                "Help Grace identify specific individuals she can reach out to for support during her transition."
+                "Help Grace identify individuals in her support network who can provide encouragement.",
+                "Discuss how she can utilize these supports in her plan for communication with her parents.",
+                "Encourage her to seek out resources, such as community groups or online support, to bolster her confidence."
               ]
             }
           ]
@@ -271,78 +299,87 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Guide Grace in creating a specific action plan that includes short-term, achievable goals related to her emotional well-being and social connections.",
-                "Ensure the action plan includes steps she can take to communicate with her parents, such as preparing key points or practicing conversation."
+                "Guide Grace in identifying her automatic thoughts about her parents' lack of support.",
+                "Challenge these thoughts by asking her to provide evidence for and against her beliefs.",
+                "Help her formulate balanced counter-thoughts that reflect a more realistic view of her parents' potential support."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Role-Playing Communication",
               "instructions_for_therapist": [
-                "Teach Grace to identify potential barriers to her action plan and brainstorm practical solutions.",
-                "Use role-playing to practice responses to anticipated challenges, such as how to handle difficult conversations."
+                "Facilitate role-playing exercises where Grace practices expressing her feelings and needs to her parents.",
+                "Provide feedback and support during the role-play to build her confidence.",
+                "Discuss how she felt during the role-play to identify any lingering fears or concerns."
+              ]
+            },
+            {
+              "technique_name": "Goal Setting",
+              "instructions_for_therapist": [
+                "Work collaboratively with Grace to set small, achievable goals for her communication with her parents.",
+                "Ensure these goals are specific, measurable, and realistic to avoid overwhelming her.",
+                "Review progress on these goals in future sessions to reinforce her commitment and celebrate successes."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To effectively support Grace in the Preparation phase, I first focus on strengthening her commitment to change by using Motivational Interviewing (MI) strategies. I encourage her to articulate her reasons for change, which helps to reinforce her motivation. Scaling questions allow me to explore her confidence levels, and discussing supports helps her identify resources available to her. These strategies address her anxiety about seeking support and her fear of rejection. Simultaneously, I implement Cognitive Behavioral Therapy (CBT) techniques to develop a clear action plan that is specific and achievable. Action planning will empower Grace to outline actionable steps she can take toward improving her social connections and coping with her emotions. Problem-solving skills training will address practical barriers she may encounter, helping her to develop confidence in her ability to navigate challenges. This combined approach ensures that we address her resistance in a collaborative manner, reinforcing her sense of agency while minimizing overwhelm.",
-        "progress_marker": "Grace will have created a specific action plan with at least three actionable steps and identified two individuals for support by the next session."
+        "therapist_reasoning": "In developing this therapy plan for Grace, I first recognized her core beliefs of feeling helpless and unlovable, which contribute to her anxiety and hesitance in communicating with her parents. By employing MI strategies, I aimed to strengthen her commitment to change by exploring her motivations for improving her relationships and clarifying her readiness to act. I included specific questions to invite her to articulate her intentions and confidence levels while reinforcing her sense of self-efficacy through past successes. The CBT interventions focus on cognitive restructuring, where I will help her challenge her automatic thoughts and replace them with more balanced perspectives. The role-playing technique will enable her to practice communication in a safe environment, gradually reducing her defensiveness. Lastly, by collaboratively setting small, achievable goals, I aim to provide her with a clear action plan that feels manageable, thereby helping her to overcome practical barriers and increase her confidence in making these changes.",
+        "progress_marker": "Grace successfully articulates her feelings and needs during role-play scenarios and sets a specific communication goal with her parents."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I want to explore my feelings about my parents and find a way to communicate better with them.",
+        "client_objective": "I hope to gain clarity on how to communicate with my parents and build a support system.",
         "client_state": {
-          "awareness": "I realize that my current situation, especially my interactions with my parents, is not healthy and is affecting my emotional well-being.",
-          "motivation": "I feel a strong desire to improve my relationships and to find support, as I understand that I can't navigate this alone.",
-          "openness": "I'm starting to be more willing to talk about my feelings and the challenges I face, but I still hesitate when it comes to discussing my parents.",
-          "resistance": "I experience a lot of anxiety about how my parents will react, which makes me doubt whether I should even try to open up."
+          "awareness": "I understand that my situation post-divorce is affecting my emotional well-being and relationships, especially with my parents.",
+          "motivation": "I feel a strong desire to improve my life and find ways to cope better with my circumstances.",
+          "openness": "I am willing to explore my feelings and discuss potential changes, but I still feel hesitant.",
+          "resistance": "I experience significant doubts about whether my parents will understand me, and I fear rejection."
         },
-        "client_reasoning": "I've been reflecting on my life since the divorce, and I can see how my relationships, particularly with my parents, are strained. I know that I need to change my communication style and express my feelings instead of avoiding them. Therapy has helped me recognize that I don't have to face this alone and that seeking support is a step in the right direction. I hope that by talking about my feelings, I can find a way to connect with my parents more positively. However, I still worry that they won't understand my perspective or that I'll just end up feeling more isolated. It's scary to think about opening up when I'm not sure how they'll react, but I also feel a glimmer of hope that change is possible if I take these steps.",
-        "progress_marker": "Client begins to articulate specific areas for change and shows willingness to engage in conversations about feelings."
+        "client_reasoning": "I've come to realize that my current situation is not sustainable. The divorce has left me feeling isolated and unsupported, particularly by my parents, who seem to misunderstand my struggles. I know I need to make changes because I can't keep living in this state of anxiety and loneliness. Therapy has helped me see that I deserve support and that there are ways to navigate my feelings, even if it's scary. I hope to find a way to communicate my needs to my parents and rebuild some connections. However, I can’t shake off the fear that they won't understand or will judge me for my situation. It feels safer to avoid these conversations, but deep down, I know I need to take that risk to move forward."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective to strengthen Grace's commitment to change is not fully met as she hasn't articulated her reasons for change clearly. The client objective of exploring feelings about her parents is not fully met because she hasn't committed to any specific action yet.",
-          "client_utterance": "I’ve been thinking about writing down what I want to say to my parents, but I still feel unsure about how to actually start that conversation. It feels daunting to think about their possible reactions.",
-          "therapist_utterance": "It's completely understandable to feel daunted by the prospect of starting that conversation. Can you share what specific thoughts or feelings you have about their potential reactions? This might help us figure out how to approach it together.",
-          "therapist_use": "Exploring confidence and readiness: used to encourage Grace to articulate her feelings and fears."
+          "reason_for_ending": "KEEP: Therapist objective not met as Grace hasn't articulated her specific plans for communication yet. Client objective not met as she is still hesitant about reaching out to her parents.",
+          "client_utterance": "I've been thinking about how to reach out, but I still feel a bit lost. I want to express my feelings to my parents, but I worry about how they might react. I guess I just need to find the right words to say.",
+          "therapist_utterance": "It’s understandable to feel lost when trying to find the right words. What specific thoughts do you have about how you could start that conversation with them? Let’s explore what you want to communicate.",
+          "therapist_use": "Exploring communication: aimed at helping Grace clarify her specific thoughts for reaching out."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of helping Grace articulate her reasons for change is not met, as she still expresses uncertainty about the conversation. The client objective is also not met, as she has not yet identified any specific steps to take.",
-          "client_utterance": "I worry they might dismiss me or not really understand what I’m going through. I want to share my feelings, but it’s hard to shake off the anxiety.",
-          "therapist_utterance": "It sounds like you’re caught between wanting to express yourself and the fear of not being understood. What do you think might help you feel more confident in sharing your feelings with them? Perhaps we can break it down into smaller steps.",
-          "therapist_use": "Strengthening commitment language: used to affirm Grace's feelings while encouraging her to think about confidence-building steps."
+          "reason_for_ending": "KEEP: Therapist objective not met as Grace is still unsure about her specific message. Client objective not met because she hasn’t made progress in her communication plan.",
+          "client_utterance": "I think I could start by telling them that I’ve been feeling overwhelmed since the divorce. But I fear they might just say I need to be stronger or something. It's hard to imagine them being supportive.",
+          "therapist_utterance": "It sounds like you want to express your feelings, which is an important step. What would it mean for you if they responded positively to your message? Let’s delve into how their potential support could impact you.",
+          "therapist_use": "Affirming intentions: used to reinforce Grace’s desire to communicate and explore the potential positive outcomes."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to enhance Grace's motivation for action is not fully met, as she has not yet identified a specific plan. The client objective is not met either, as she still struggles with translating her thoughts into actionable steps.",
-          "client_utterance": "Maybe if I wrote a draft of what I want to say, it could help me clarify my thoughts. But even then, I still dread how they might react.",
-          "therapist_utterance": "Writing a draft sounds like a productive way to organize your thoughts, Grace. It could also help you prepare for their reactions by anticipating what they might say. What if we brainstormed some key points to include in that draft?",
-          "therapist_use": "Action planning: used to guide Grace in creating a specific action plan that addresses her feelings."
+          "reason_for_ending": "KEEP: Therapist objective not met as Grace hasn't fully explored her feelings about possible outcomes. Client objective not met as she still feels uncertain about taking action.",
+          "client_utterance": "If they were supportive, it would feel like a relief, but I can't shake the fear of them dismissing me. I want to believe they could understand, but my past experiences keep holding me back.",
+          "therapist_utterance": "It’s completely valid to feel that way, especially given your past experiences. Let’s focus on those feelings of relief you mentioned; how can that motivate you to take the first step? What could help ease your fears about their potential reaction?",
+          "therapist_use": "Exploring fears: aimed at helping Grace confront her fears while identifying motivating factors for action."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's goal of helping Grace create a clear action plan is not fully met, as she hasn't yet created key points. The client objective remains unmet, as she has not yet committed to any specific steps.",
-          "client_utterance": "I could start by writing down how I feel about the divorce and how it has affected my relationship with them. It would be a way to express my feelings without directly confronting them.",
-          "therapist_utterance": "That sounds like a thoughtful approach, Grace. Writing about your feelings could help you articulate them more clearly when you do have that conversation. How about we explore some feelings you might want to express in that letter?",
-          "therapist_use": "Identifying supports and resources: used to facilitate Grace's exploration of her feelings in a supportive manner."
+          "reason_for_ending": "KEEP: Therapist objective not met as Grace hasn't identified specific support strategies. Client objective not met as she is still struggling with her fears.",
+          "client_utterance": "Maybe I could write down my feelings first before I reach out. It might help me organize my thoughts and make me feel a bit more prepared. But I’m still scared about how they will react.",
+          "therapist_utterance": "Writing down your feelings sounds like a helpful strategy to prepare yourself. It can provide clarity and boost your confidence. How do you think you can use this approach to express your needs more clearly?",
+          "therapist_use": "Identifying supports: encouraged Grace to use writing as a tool for clarity and preparation."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to strengthen Grace's commitment is not fully met, as she hasn't yet established a timeline for her actions. The client objective is still not met, as she is still in the process of developing her communication strategy.",
-          "client_utterance": "I think I would want to express how hurt I am about our relationship lately and how I wish we could communicate better. But I’m still hesitant about how they’ll take it.",
-          "therapist_utterance": "It’s great that you’re identifying those feelings, Grace. Expressing hurt can be powerful, and it opens the door for a deeper conversation. What do you think would help you approach that conversation with more confidence?",
-          "therapist_use": "Exploring confidence and readiness: used to encourage Grace to think about confidence-building techniques."
+          "reason_for_ending": "KEEP: Therapist objective not met as Grace hasn't committed to a specific plan for writing. Client objective not met as she still feels uncertain about reaching out.",
+          "client_utterance": "I think if I write it down, I might be able to send it to them. But what if they still don't understand or think I'm being dramatic? It's frustrating to feel like I'm caught between wanting to reach out and fearing rejection.",
+          "therapist_utterance": "That frustration is understandable, and it reflects the complexity of your emotions. Let’s explore how you can frame your message to minimize misunderstandings. What key points do you feel are essential to include?",
+          "therapist_use": "Exploring message framing: helped Grace focus on essential elements to communicate effectively."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's goal of reinforcing Grace's motivation for change isn't fully met, as she still has some uncertainty about her approach. The client objective remains unmet because she hasn't fully committed to a communication plan.",
-          "client_utterance": "I guess if I could practice what I want to say, it might help reduce some of my anxiety. But it still feels really intimidating.",
-          "therapist_utterance": "Practicing can definitely help! It allows you to rehearse your thoughts and feel more prepared. Would you like to role-play how that conversation might go?",
-          "therapist_use": "Problem-solving skills training: used to help Grace practice responses to anticipated challenges."
+          "reason_for_ending": "KEEP: Therapist objective not met as Grace hasn't clarified her key points for communication. Client objective not met as she continues to feel uncertain about how to express herself.",
+          "client_utterance": "I think I want to tell them I’m struggling and that I need their support. But I still worry they won’t take it seriously. I want to believe this could help, but it's tough.",
+          "therapist_utterance": "Communicating your need for support is a crucial step. Acknowledging your struggle is valid, and it’s okay to express that to them. How can you remind yourself of the potential benefits of sharing your feelings when fear tries to hold you back?",
+          "therapist_use": "Reinforcing potential benefits: aimed at encouraging Grace to focus on the positives of reaching out."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective to strengthen Grace's commitment to change is met as she has articulated specific feelings she aims to express. The client objective is also met, as she has developed a clearer idea of how to communicate her feelings.",
-          "client_utterance": "I think practicing what I want to say will definitely help. I’m feeling a bit more prepared to approach them about my feelings.",
-          "therapist_utterance": "That’s a significant step forward, Grace! Feeling prepared can make a huge difference. Let’s outline those feelings and practice a few key phrases together so that you can feel confident when the time comes.",
-          "therapist_use": "Action planning: used to affirm Grace's progress and help her finalize her communication strategy."
+          "reason_for_ending": "MOVE: Therapist objective met as Grace has articulated her key points for communication. Client objective met as she feels ready to express her feelings and needs.",
+          "client_utterance": "I guess I can try to send them a message expressing my struggles. I still feel scared, but I realize that it's worth the risk for the sake of connection. I want to take this step.",
+          "therapist_utterance": "That’s a powerful decision, Grace! Taking this step toward communication shows your strength and desire for connection. Remember, no matter the outcome, reaching out is a brave act that opens the door for support.",
+          "therapist_use": "Affirming commitment: reinforced Grace's decision to reach out and highlighted her strength."
         }
       ]
     }

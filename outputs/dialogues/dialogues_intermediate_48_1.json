@@ -12,29 +12,38 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Hannah's awareness of her feelings and thoughts regarding her relationship with Ivan and her current stressors without pushing for immediate change.",
+          "objective": "Build rapport and increase awareness of Hannah's thoughts and feelings regarding her situation with Ivan.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Hannah's concerns and feelings.",
-                "Reflect back her emotions and thoughts to validate her experiences.",
-                "Encourage her to elaborate on her feelings of being overwhelmed and alone."
+                "Listen actively to Hannah's concerns about Ivan's lack of responsibility.",
+                "Reflect back her feelings of overwhelm and loneliness to validate her experience.",
+                "Encourage her to elaborate on her thoughts without pushing for solutions."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge the difficulties she faces and the emotions tied to her experiences.",
-                "Use empathetic statements to convey understanding of her situation.",
-                "Reinforce that it's okay to feel hurt and overwhelmed."
+                "Acknowledge the emotional burden Hannah feels due to financial pressures and Ivan's behavior.",
+                "Use empathetic statements to show understanding of her feelings and the complexity of her situation.",
+                "Reinforce that her feelings are important and worthy of exploration."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Help Hannah explore the contrast between her current feelings and her personal values regarding support and partnership in her marriage.",
-                "Ask open-ended questions that prompt her to think about what she values in her relationship."
+                "Gently highlight the contrast between Hannah's values (wanting a supportive partnership) and her current experience with Ivan.",
+                "Ask open-ended questions that prompt Hannah to reflect on how her situation aligns with her values.",
+                "Encourage her to explore any ambivalence she feels about the current state of her relationship."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Facilitate a discussion about the impact of her automatic thoughts on her feelings and behaviors.",
+                "Encourage Hannah to consider how her beliefs about responsibility and control may be affecting her relationship with Ivan.",
+                "Support her in identifying patterns of avoidance and defensiveness in her responses."
               ]
             }
           ]
@@ -42,84 +51,95 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Introduce Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Hannah to identify her automatic thoughts about Ivan's behavior.",
-                "Ask her to consider evidence that supports or contradicts her thoughts about Ivan's lack of care."
+                "Start the session by discussing Hannah's feelings of frustration and sadness regarding Ivan's responsibilities.",
+                "Explain how examining her thoughts can help her understand her automatic beliefs.",
+                "Guide her to articulate her specific automatic thoughts about Ivan's behavior."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Gather Evidence",
               "instructions_for_therapist": [
-                "Encourage Hannah to evaluate the reality of her situation and the assumptions she makes about Ivan.",
-                "Discuss alternative explanations for Ivan's behavior that do not align with her negative automatic thoughts."
+                "Encourage Hannah to consider evidence for and against her automatic thoughts about Ivan.",
+                "Pose questions that lead her to reflect on his feelings and actions that may contradict her thoughts.",
+                "Help her identify moments when Ivan has shown care or support."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Reframe Negative Thoughts",
               "instructions_for_therapist": [
-                "Invite Hannah to consider how she might view her situation differently.",
-                "Prompt her to think about Ivan’s perspective and any external factors that may be influencing his behavior."
+                "Collaboratively develop alternative explanations for Ivan's behavior with Hannah.",
+                "Support her in reframing thoughts from 'Ivan doesn't care' to 'Ivan may be struggling with his own issues.'",
+                "Encourage her to practice this reframing in her journaling."
+              ]
+            },
+            {
+              "technique_name": "Practice Mindfulness",
+              "instructions_for_therapist": [
+                "Introduce mindfulness techniques to help Hannah manage her emotions during overwhelming moments.",
+                "Guide her through deep breathing or grounding exercises.",
+                "Encourage her to use these techniques when negative thoughts arise."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Hannah, the focus will be on employing Motivational Interviewing strategies to build rapport and increase her awareness of her feelings without pushing for immediate change. Reflective listening will help her feel heard, while expressing empathy will validate her experiences, fostering a safe therapeutic environment. Developing discrepancy will encourage her to reflect on the incongruence between her current situation and her values regarding support in her marriage. In parallel, CBT techniques like evidence-based questioning will enable her to challenge her automatic thoughts about Ivan, while reality testing will help her evaluate the validity of those thoughts. Additionally, exploring alternative perspectives will encourage her to consider Ivan's situation, reducing her feelings of isolation. This combined approach aims to reduce her defensiveness and promote exploration of her thoughts and emotions without the pressure of immediate behavioral change.",
-        "progress_marker": "Hannah demonstrates increased willingness to discuss her feelings and thoughts, showing signs of reflection and curiosity about her situation and relationship dynamics."
+        "therapist_reasoning": "Given that Hannah is in the pre-contemplation phase, the focus is on building rapport and facilitating awareness without pushing for behavioral change. I will utilize reflective listening to validate her feelings of overwhelm and loneliness, which can help reduce her defensiveness. By expressing empathy, I aim to create a safe space where she feels understood. Developing discrepancy will be essential in helping her recognize the gap between her values of wanting a supportive partnership and her current dissatisfaction with Ivan. This can be achieved through open-ended questions that prompt reflection. In parallel, the CBT interventions will focus on examining her automatic thoughts regarding Ivan's behavior by introducing evidence-based questioning. This will help Hannah articulate and challenge her beliefs while gathering evidence for and against her thoughts. The reframing technique will encourage her to consider alternative perspectives, reducing the negativity surrounding Ivan's actions. Lastly, mindfulness practices will help her manage overwhelming emotions, fostering a more balanced approach to her thoughts and feelings.",
+        "progress_marker": "Hannah begins to articulate her automatic thoughts and feels more comfortable discussing her feelings about Ivan without defensiveness."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I feel this way without being pushed to change.",
+        "client_objective": "I hope to feel understood without having to confront my problems directly.",
         "client_state": {
-          "awareness": "I recognize that there are issues, but I don't see them as problems that need fixing.",
-          "motivation": "I'm not really interested in changing things; they seem too overwhelming to tackle.",
-          "openness": "I feel hesitant to share my true feelings because I doubt it will help.",
-          "resistance": "I feel a strong urge to avoid discussing the issues because it makes me feel vulnerable."
+          "awareness": "I recognize that things are difficult, but I don't see them as a problem that needs changing.",
+          "motivation": "I feel overwhelmed and unsure if change is even possible, so I don't really want to pursue it.",
+          "openness": "I am hesitant to share my true feelings because I doubt it would help and worry about being judged.",
+          "resistance": "I strongly defend against discussing my situation, feeling that it's too painful and complicated."
         },
-        "client_reasoning": "I often think about how hard things are right now with Ivan and the financial stress, but I don't feel ready to dig deeper into it. It's like I'm stuck in this cycle of feeling overwhelmed and alone, and I really don’t see how talking about it would change anything. I doubt that sharing my feelings will help, and part of me feels like it’s pointless. I believe I should be able to handle my own problems and that I’m responsible for keeping everything together. This makes me defensive; I don't want to admit that I can't do it all. Therapy feels uncomfortable because it pushes me to confront things I’d rather avoid, but sometimes I wish it could just be a safe space to vent without any expectations to change. I just want to get through each day without more pressure on myself."
+        "client_reasoning": "I feel like I'm stuck in this never-ending cycle of managing everything on my own, especially with Ivan not stepping up. It’s hard to talk about it because I doubt it would make any difference. I keep thinking that if I just try harder, things might get better, but deep down, I feel so helpless and alone. Sharing these feelings feels like opening a can of worms, and I worry about being vulnerable. Sometimes, I think maybe it’s just how life is for me, and I should accept that. Therapy feels uncomfortable because I fear it might lead to more pain, and I don’t want to face the reality that things might not change. I just want to be heard without having to confront the truth about my situation, which feels too heavy to bear right now."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Hannah is still hesitant to share her feelings deeply. The client objective was not met as she continues to feel overwhelmed and doubts the effectiveness of discussing her feelings.",
-          "client_utterance": "I guess I feel really stuck right now. There are so many things to think about with Ivan and the money issues, but I just don’t know if talking about it will really help. It feels like there’s no point in bringing it all up.",
-          "therapist_utterance": "It sounds like you’re feeling really overwhelmed by everything going on, and it makes sense that talking about it feels daunting. I hear you saying that you’re unsure if sharing your feelings will lead to any change. Can you tell me more about what makes you feel that way?",
-          "therapist_use": "Reflective Listening: to validate Hannah's feelings of being overwhelmed and encourage her to explore those feelings further."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because they did not sufficiently explore Hannah's feelings of overwhelm. The client's objective was not met as Hannah still feels misunderstood and hesitant to share her true feelings.",
+          "client_utterance": "I guess I just feel like I'm carrying everything myself. Ivan doesn't seem to care about what's going on, and I don't know how to talk about it without feeling judged. I keep thinking that maybe if I just try harder, things will change, but it feels so heavy.",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure to manage everything on your own, and that can be really overwhelming. It's understandable to feel that way, especially when it seems like Ivan isn't stepping up to support you. Can you tell me more about how this affects your feelings toward him?",
+          "therapist_use": "Reflective Listening: used to validate Hannah's feelings of pressure and overwhelm, encouraging further exploration."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met since Hannah hasn’t elaborated on her feelings yet. The client objective was not met as she remains resistant to discussing her emotions in depth.",
-          "client_utterance": "I just think I should be able to handle my own problems, you know? It feels embarrassing to admit that I’m struggling, especially since there are so many people who have it worse. I don’t want to burden anyone with my issues.",
-          "therapist_utterance": "I appreciate your honesty, and it’s understandable to feel that way. It sounds like there's a lot of pressure on you to manage everything on your own. What do you think would happen if you allowed yourself to share some of these burdens?",
-          "therapist_use": "Expressing Empathy: to acknowledge Hannah's feelings of embarrassment and pressure while encouraging her to consider sharing her burdens."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because they did not help Hannah identify specific automatic thoughts about Ivan's behavior. The client's objective was not met since Hannah still feels that her feelings are unacknowledged and remains hesitant to delve deeper.",
+          "client_utterance": "I just feel ignored, like I'm the only one trying to make things better. When I think about how little he contributes, it just makes me sad and frustrated. I don’t want to feel this way, but it’s hard to see anything changing.",
+          "therapist_utterance": "It’s clear that you’re feeling a mix of sadness and frustration about Ivan's lack of involvement. I wonder if there are specific moments or thoughts that come up when you feel this way? Exploring those could help clarify what you’re experiencing.",
+          "therapist_use": "Open-ended questioning: encouraged Hannah to identify specific moments or thoughts related to her feelings about Ivan."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Hannah is still holding back her feelings. The client objective was not met as she continues to feel like discussing her struggles is burdensome.",
-          "client_utterance": "I just don’t know if I can share that with you. It feels like a lot, and I’m not sure it would change anything even if I did. I feel like I should be strong enough to deal with this on my own.",
-          "therapist_utterance": "It’s completely okay to feel unsure about sharing your struggles. It sounds like there’s a part of you that feels you should be strong enough to manage everything. What if sharing some of those thoughts and feelings could lighten the load, even just a little?",
-          "therapist_use": "Developing Discrepancy: to help Hannah explore the contrast between her thoughts on strength and the potential relief from sharing her feelings."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because they did not sufficiently highlight the discrepancy between Hannah's values and her current experience. The client's objective was not met as Hannah continues to feel overwhelmed and is not fully articulating her feelings.",
+          "client_utterance": "I really want a partnership where we support each other, but I just don’t see that happening with Ivan. Sometimes, I think maybe I’m asking too much of him, or maybe it’s just how things are. I don’t know if it’s worth bringing up because I don’t want to create more conflict.",
+          "therapist_utterance": "It sounds like you value a supportive partnership, which makes the current situation with Ivan particularly painful. It's understandable to feel conflicted about bringing this up with him. What would it look like for you to communicate your needs without fearing conflict?",
+          "therapist_use": "Developing Discrepancy: highlighted the contrast between Hannah’s values of support and her current dissatisfaction, prompting reflection."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met as Hannah is still resisting deeper exploration of her feelings. The client objective was not met because she is not fully engaging in discussing her emotions.",
-          "client_utterance": "I suppose it could help a little, but I still feel like I shouldn’t need to do that. I just don’t want to feel weak or like I’m failing. It’s hard to even think about what I’d say.",
-          "therapist_utterance": "I can hear that you’re feeling conflicted about expressing your emotions. It’s tough to feel like you might be perceived as weak when you’re actually just dealing with so much. What do you think is holding you back from sharing even a small part of what you're experiencing?",
-          "therapist_use": "Reflective Listening: to validate her feelings of conflict and encourage her to think about what is preventing her from sharing."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because they did not help Hannah gather evidence for her automatic thoughts. The client's objective was not met as Hannah remains resistant to sharing deeper feelings about her relationship.",
+          "client_utterance": "I guess there have been times when he has shown he cares, but it's hard to remember those moments when I'm feeling this way. I tend to focus on the negatives, like how stressed I am with everything going on. I just feel like I'm stuck in this cycle.",
+          "therapist_utterance": "It’s great that you can recognize those moments when Ivan has shown he cares. Acknowledging both sides of the situation might help you feel less stuck. Can you think of specific instances where Ivan has been supportive, even if they're small?",
+          "therapist_use": "Gather Evidence: encouraged Hannah to think of specific instances that contradict her negative thoughts about Ivan."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met since Hannah is still hesitant to open up. The client objective was not met as she continues to struggle with the idea of vulnerability.",
-          "client_utterance": "I guess I’m just scared of what it would mean to really put my feelings out there. It feels like if I do that, then I’m admitting that things are bad and that I can’t handle it. I don’t know if I’m ready for that.",
-          "therapist_utterance": "It’s understandable to feel scared about being vulnerable. Acknowledging that things are tough doesn’t mean you’re failing; it could be a step towards feeling supported. What do you think would change for you if you took that step?",
-          "therapist_use": "Expressing Empathy: to acknowledge her fear of vulnerability and help her see it as a potential strength rather than a weakness."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because they did not sufficiently support Hannah in reframing her negative thoughts. The client's objective was not met as Hannah still feels overwhelmed and uncertain about her feelings.",
+          "client_utterance": "I can think of a few moments, but it feels like they don’t outweigh the bad ones. I don't want to feel this way, but it's like I'm stuck in this thought pattern. Every time I try to see the positives, I get overwhelmed by the negatives.",
+          "therapist_utterance": "That sounds really challenging, and it's understandable to feel overwhelmed by those negative thoughts. It's okay to acknowledge both the positives and the negatives. What if we tried to reframe some of those thoughts you have about Ivan, just to see if it changes how you feel?",
+          "therapist_use": "Reframe Negative Thoughts: suggested reframing her perspective on Ivan's behavior to help alleviate some negativity."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Hannah is still resisting the idea of vulnerability. The client objective was not met as she remains hesitant to delve deeper into her feelings.",
-          "client_utterance": "I don't know, maybe it would lighten things a bit, but it just feels like too much pressure. I really don’t want to feel like I have to change anything right now. It’s overwhelming just thinking about it.",
-          "therapist_utterance": "It sounds like you’re feeling a lot of pressure, and it’s okay to feel that way. You don’t have to change anything right now; this space is just for you to express what you’re feeling. What if we just took this one step at a time, starting with what feels comfortable for you?",
-          "therapist_use": "Developing Discrepancy: to highlight the difference between her feelings of pressure and the idea of taking small, manageable steps."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because they did not help Hannah articulate and challenge her beliefs effectively. The client's objective was not met as Hannah continues to feel stuck and resistant to exploring her feelings further.",
+          "client_utterance": "I don't know, it's just hard to shake off the feeling that he doesn't care. I want to believe that he might be struggling too, but it feels like an excuse sometimes. I wish I could just focus on the good without feeling so weighed down.",
+          "therapist_utterance": "It's understandable to feel that way, especially when you're in a difficult place. Recognizing that both you and Ivan might be struggling can be a compassionate way to approach this. Would you like to explore some mindfulness techniques to help you manage these overwhelming emotions when they come up?",
+          "therapist_use": "Practice Mindfulness: introduced mindfulness techniques to help Hannah manage her emotions during overwhelming moments."
         },
         {
-          "reason_for_ending": "MOVE: The therapist objective was met as Hannah is beginning to consider sharing her feelings without the pressure to change. The client objective was met because she is showing signs of willingness to explore her feelings more openly.",
-          "client_utterance": "Okay, I think I could try sharing a little bit, even if it’s just about how overwhelmed I feel. I guess that’s a start, right? I just need to take it slow.",
-          "therapist_utterance": "That’s a wonderful step, Hannah! Taking it slow is perfectly fine, and I’m here to support you as you begin to share. What’s one small thing that’s been on your mind that you feel comfortable talking about?",
-          "therapist_use": "Reflective Listening: to validate her willingness to share and encourage her to take small steps in expressing her feelings."
+          "reason_for_ending": "MOVE - The therapist's objective was met as they successfully facilitated a discussion about managing overwhelming emotions and supporting Hannah's self-awareness. The client's objective was met as Hannah expressed a desire to explore techniques to help her feel understood and less overwhelmed, indicating progress.",
+          "client_utterance": "I think that might help. I could use some strategies to deal with my feelings when they get too intense. I want to feel more in control of my emotions instead of letting them overwhelm me.",
+          "therapist_utterance": "I'm glad to hear that you're open to exploring strategies for managing your emotions. It sounds like you're ready to take some steps toward feeling more in control. Let's work together on some techniques that can help you navigate these feelings more effectively.",
+          "therapist_use": "Encouragement: affirmed Hannah's readiness to explore strategies for managing her emotions, indicating progress."
         }
       ]
     },
@@ -128,30 +148,27 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Hannah's ambivalence about change while enhancing her motivation and readiness.",
+          "objective": "Explore Hannah's ambivalent feelings about change and strengthen her motivation to address the issues in her relationship with Ivan.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Use open-ended questions to invite Hannah to discuss her feelings about change.",
-                "Reflect back her ambivalence to validate her feelings and emphasize that it's normal to feel conflicted.",
-                "Encourage her to articulate both sides of her desire to change and her fears about it."
+                "Facilitate a discussion about both the pros and cons of addressing her feelings about Ivan's contributions to their household.",
+                "Encourage Hannah to articulate her conflicting feelings about change, helping her recognize the value in her current situation and the potential benefits of change."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask Hannah what she hopes to achieve if things were to change, focusing on her values and goals.",
-                "Encourage her to express any positive thoughts she has about making changes in her life.",
-                "Use reflective listening to reinforce any statements that suggest a desire or intention to change."
+                "Ask open-ended questions that invite Hannah to express her desires for change, such as 'What would it look like if things were different with Ivan?'",
+                "Reflect on her responses to reinforce her motivation and aspirations for a more balanced partnership."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussion",
+              "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Introduce the pros and cons of changing versus remaining in her current situation.",
-                "Help her create a list of pros and cons to visualize her thoughts, emphasizing self-discovery.",
-                "Discuss how her values align or conflict with her current behavior."
+                "Guide Hannah through a decisional balance exercise where she lists the advantages and disadvantages of maintaining the status quo versus making changes in her relationship.",
+                "This can help her visualize the potential outcomes and discrepancies between her current behaviors and her values."
               ]
             }
           ]
@@ -159,88 +176,85 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Guide Hannah to list the advantages and disadvantages of her current coping strategies.",
-                "Facilitate a discussion about how her beliefs about being responsible for others' problems contribute to her stress.",
-                "Encourage her to consider alternative perspectives on her situation."
-              ]
-            },
-            {
-              "technique_name": "Decatastrophizing",
-              "instructions_for_therapist": [
-                "Help Hannah identify her automatic thoughts regarding Ivan's lack of contribution.",
-                "Challenge her catastrophic thinking by asking what evidence supports or contradicts these thoughts.",
-                "Encourage her to consider less extreme outcomes and the possibility of Ivan's different intentions."
-              ]
-            },
-            {
               "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Ask Hannah to identify any evidence that contradicts her belief that she is unlovable or unworthy.",
-                "Encourage her to gather positive feedback or experiences that challenge her negative self-perceptions.",
-                "Facilitate a discussion around her strengths and areas where she feels valued."
+                "Introduce the concept of evidence-based questioning to help Hannah challenge her automatic thoughts about Ivan's lack of care.",
+                "Guide her to articulate her specific automatic thoughts and gather evidence both for and against these beliefs."
+              ]
+            },
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Assist Hannah in examining the quality of her evidence regarding Ivan's behavior and help her develop a balanced thought.",
+                "Encourage her to reframe negative thoughts and consider alternative explanations for Ivan's actions."
+              ]
+            },
+            {
+              "technique_name": "Mindfulness Techniques",
+              "instructions_for_therapist": [
+                "Introduce mindfulness exercises such as deep breathing or grounding techniques to help Hannah manage overwhelming emotions.",
+                "Teach her to apply these techniques when she notices negative thoughts arising."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Hannah's therapy, the primary goal is to help her explore her ambivalence about changing her situation. First, I will employ Motivational Interviewing strategies, beginning with exploring her ambivalence through open-ended questions and reflective listening, allowing her to articulate her mixed feelings regarding change. This will help her feel validated and understood. Next, I will elicit change talk by encouraging her to express her hopes and positive outcomes she envisions if she were to change her current behaviors. This aligns with her values and aspirations. I will then conduct a decisional balance discussion to visualize the pros and cons of her current situation versus potential changes. Concurrently, I will introduce Cognitive Behavioral Therapy interventions, such as Pros and Cons Analysis, to facilitate her reflection on her coping strategies and the beliefs driving her behavior. Decatastrophizing will assist her in challenging the catastrophic thoughts about Ivan's contributions, and Evidence-Based Questioning will help her counteract her core belief of being unlovable. This structured approach promotes self-discovery while respecting her pace and readiness for change.",
-        "progress_marker": "Hannah begins to identify and articulate her feelings about change and starts recognizing the discrepancy between her values and current behaviors."
+        "therapist_reasoning": "The initial approach involves exploring Hannah's ambivalence using Motivational Interviewing strategies. I will facilitate discussions around the pros and cons of change, allowing her to articulate her desires while reflecting on the emotional conflicts she experiences. This aligns with her resistance profile, as she feels overwhelmed and alone; thus, a non-confrontational approach is crucial. In conjunction with MI, I will utilize CBT interventions to challenge her automatic thoughts about Ivan’s lack of contribution. By employing evidence-based questioning, I can help her gather and evaluate evidence regarding her beliefs. Cognitive restructuring will aid in reframing her negativity towards Ivan, promoting a more collaborative perspective. I will also incorporate mindfulness techniques to empower her in managing her emotions. This combination is designed to enhance her motivation and readiness for change while maintaining a supportive environment.",
+        "progress_marker": "Client demonstrates increased insight into her ambivalence and expresses a willingness to explore her feelings with Ivan, showing signs of motivation to address their relationship dynamics."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity on my feelings and the dynamics in my relationship with Ivan.",
+        "client_objective": "I hope to explore my feelings about my relationship with Ivan and gain clarity on whether I want to pursue changes.",
         "client_state": {
-          "awareness": "I am starting to see that my feelings of overwhelm and loneliness are connected to Ivan's lack of support and my own tendency to take on too much responsibility.",
-          "motivation": "I want to change my situation, but I am unsure if I can do it or if it will really make a difference.",
-          "openness": "I feel somewhat willing to discuss my feelings in therapy, but I often hesitate, fearing it won’t lead to anything helpful.",
-          "resistance": "I am still holding back because I feel hurt and overwhelmed, and I doubt that talking about it will lead to real change."
+          "awareness": "I am starting to recognize that my feelings of overwhelm and sadness are linked to Ivan's lack of support and my tendency to take on too much responsibility.",
+          "motivation": "I feel a pull towards making changes in my life, but I also worry about the implications of those changes and whether they will truly help.",
+          "openness": "I am somewhat willing to share my thoughts and feelings with my therapist, but I still hesitate, fearing it may not lead to anything positive.",
+          "resistance": "I often feel hurt and overwhelmed, which makes me doubt whether discussing my concerns will lead to real change."
         },
-        "client_reasoning": "I've been reflecting on my relationship with Ivan and how his lack of support makes me feel. I realize that I often take on responsibilities that should be shared, and this is wearing me down. I can see that this isn't working for me, but I also feel scared about what change might mean. What if Ivan doesn't respond positively? What if I lose what we have? Therapy is helping me to think through these feelings, but I still worry that sharing too much will only make things worse. I feel caught between the desire for things to improve and a deep-seated fear of the unknown. It’s frustrating to feel so conflicted; I want to believe that change is possible, but doubt creeps in and makes me hesitate.",
-        "progress_marker": "The client expresses a willingness to explore their feelings and acknowledges the impact of their experiences, indicating readiness for deeper reflection."
+        "client_reasoning": "Lately, I've been reflecting on my relationship with Ivan and how his lack of support often leaves me feeling sad and alone. I see that my tendency to take on all the responsibilities is not healthy, but I also feel scared about what that means for us. I worry that if I push for change, it might create more conflict or lead to a bigger fallout. I want to be understood and supported, but I also feel like I shouldn’t have to ask for help. Sometimes, I wonder if sharing these thoughts in therapy will help, but then I think, what if it doesn’t change anything? It’s confusing because part of me wants to break free from this feeling of being trapped, yet another part holds me back with doubt and fear about what change could really look like.",
+        "progress_marker": "Increased recognition of the impact of Ivan's actions on her emotional state."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they haven't fully explored Hannah's ambivalence. The client's objective was not met as she hasn't articulated her feelings about change in depth.",
-          "client_utterance": "I've been thinking about how I feel really overwhelmed with everything, especially with Ivan. Sometimes I wonder if I should just let things go and not worry about changing anything. But then I think that maybe I could feel better if things were different, you know?",
-          "therapist_utterance": "It sounds like you're caught between wanting to ease your overwhelm and also considering the possibility of change. What do you think it would look like for you if things were to change? I hear you expressing both sides of that desire.",
-          "therapist_use": "Open-ended questioning: invited Hannah to explore her feelings about change."
+          "reason_for_ending": "KEEP: Therapist objective not met as they haven't fully explored ambivalence. Client objective not met as Hannah is still unsure about pursuing change.",
+          "client_utterance": "I've been thinking about those moments when Ivan has been supportive, but they feel overshadowed by the times I feel alone in this. I want to bring it up, but I don't know how to start without making things worse between us.",
+          "therapist_utterance": "It's understandable to feel apprehensive about starting that conversation with Ivan. It could be helpful to reflect on what support looks like to you and how you might express that to him. What would it mean for you to communicate your needs without the fear of conflict?",
+          "therapist_use": "Exploring Ambivalence: Encouraging Hannah to articulate her feelings and fears about change."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they haven't yet elicited clear change talk. The client's objective was not met as she hasn't fully articulated her hopes for change.",
-          "client_utterance": "I guess if things changed, I'd hope Ivan would be more supportive and that I wouldn't feel so alone in everything. But what if he doesn't change? That thought really scares me.",
-          "therapist_utterance": "It's understandable to feel scared about whether Ivan will respond positively to change. You're expressing a real hope for more support, which is valuable to acknowledge. What are some specific changes you think could help you feel less alone?",
-          "therapist_use": "Eliciting change talk: encouraged Hannah to express her hopes and positive outcomes."
+          "reason_for_ending": "KEEP: Therapist objective not met as further exploration of her feelings is needed. Client objective not met as she remains conflicted about discussing her needs.",
+          "client_utterance": "I think it would be good to express my feelings, but I'm scared it will lead to a fight or that Ivan won't understand. I keep wondering if I'm just overreacting and if it really matters.",
+          "therapist_utterance": "It's natural to worry about how your feelings might be received, but recognizing that your needs matter is important. What if you thought about the potential benefits of having that conversation with Ivan? How might it change things for you both?",
+          "therapist_use": "Eliciting Change Talk: Inviting Hannah to consider the benefits of expressing her needs."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they haven't discussed the pros and cons of her current situation. The client's objective was not met as she hasn't fully explored her mixed feelings.",
-          "client_utterance": "I suppose the pros of things changing would be feeling supported and maybe less stressed. But then the cons could be that if I push for change, it might lead to conflict, and I really don’t want to upset Ivan.",
-          "therapist_utterance": "You’re highlighting some important points about the balance between wanting support and fearing conflict. It’s a tough place to be in, and it sounds like you’re weighing the potential benefits against the risks. How do you feel about creating a list of pros and cons to visualize these thoughts?",
-          "therapist_use": "Decisional balance discussion: helped Hannah visualize her thoughts on change."
+          "reason_for_ending": "KEEP: Therapist objective not met as a decisional balance has not been fully explored. Client objective not met as she is still hesitant about the conversation.",
+          "client_utterance": "I guess if I could talk to him, it might help us understand each other better. But I also fear it could make everything worse, and I’m not sure if the risk is worth it.",
+          "therapist_utterance": "It sounds like you're weighing the potential risks and rewards carefully. Let’s create a list together of the pros and cons of addressing this issue with Ivan. This might help clarify your feelings and reveal what’s most important to you.",
+          "therapist_use": "Decisional Balance Discussions: Guiding Hannah to visualize the potential outcomes of her choices."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they haven't fully assisted Hannah in recognizing her coping strategies. The client's objective was not met as she hasn't fully expressed her feelings about her current situation.",
-          "client_utterance": "I think I often take on too much responsibility, and that definitely adds to my stress. I feel like if I don't handle everything, then things will fall apart. But I also know it's exhausting.",
-          "therapist_utterance": "It sounds like you’re recognizing how your tendency to take on too much can lead to feeling overwhelmed. It’s okay to want to support others, but it’s also important to take care of yourself. What might it look like to share some of those responsibilities with Ivan?",
-          "therapist_use": "Pros and cons analysis: guided Hannah to reflect on her current coping strategies."
+          "reason_for_ending": "KEEP: Therapist objective not met as the decisional balance is still incomplete. Client objective not met as she hasn't fully articulated her feelings.",
+          "client_utterance": "If I talk to him, I might feel more supported, but what if he reacts negatively and pulls away? It’s just so hard to see a clear path forward with all these doubts.",
+          "therapist_utterance": "Doubts can create a lot of noise in your mind, which makes it harder to see the possibilities. It might help to reflect on instances where you felt supported and how those moments changed your relationship. What would be the best outcome for you if you approached him?",
+          "therapist_use": "Exploring Ambivalence: Encouraging Hannah to envision positive outcomes and clarify her desires."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they haven't yet challenged Hannah's automatic thoughts. The client's objective was not met as she hasn't fully articulated her fears about change.",
-          "client_utterance": "I often worry that if I say something to Ivan about how I feel, he might take it the wrong way or think I'm blaming him. What if he just shuts down instead of being supportive?",
-          "therapist_utterance": "It's understandable to fear that your feelings might be misinterpreted. Your concerns about Ivan's reaction are valid, and it’s important to acknowledge that. What evidence do you have that he might react negatively, and could there be other possibilities?",
-          "therapist_use": "Decatastrophizing: helped Hannah challenge her catastrophic thoughts about Ivan's reactions."
+          "reason_for_ending": "KEEP: Therapist objective not met as Hannah hasn't fully explored her emotions. Client objective not met as she remains uncertain about her next steps.",
+          "client_utterance": "I think if I could get him to understand how I feel, it could really change things for us. But I'm still scared that it won’t go well and I’ll end up feeling even more alone.",
+          "therapist_utterance": "Your desire for understanding and connection is clear, and it's valid to feel scared about potential outcomes. Let’s look at the evidence for and against your fears about Ivan's reaction. This could help you feel more prepared for that conversation.",
+          "therapist_use": "Evidence-Based Questioning: Helping Hannah challenge her automatic thoughts regarding Ivan's potential reactions."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they haven't yet encouraged Hannah to identify her strengths. The client's objective was not met as she hasn't fully recognized her self-worth.",
-          "client_utterance": "I guess I do have some moments where I feel appreciated, but those often feel overshadowed by my doubts. I just keep thinking I'm not good enough, and that holds me back from really talking to Ivan.",
-          "therapist_utterance": "It’s tough to feel overshadowed by those doubts, and it’s great that you’re recognizing the moments you feel appreciated. Let’s explore what strengths you have that could help you approach this conversation with Ivan. What are some things you like about yourself that might help you feel more confident?",
-          "therapist_use": "Evidence-based questioning: encouraged Hannah to identify strengths that challenge her negative self-perceptions."
+          "reason_for_ending": "KEEP: Therapist objective not met as they need to help her gather evidence. Client objective not met as she still feels uncertain about discussing her feelings.",
+          "client_utterance": "I guess I can think of times when he has reacted positively, but there are also times when he shuts down. I don't want to bring this up and end up back where we started, feeling stuck.",
+          "therapist_utterance": "It’s understandable to feel hesitant given those past experiences. Reflecting on those positive moments might help you frame your conversation in a way that invites his support. What if you focused on how much you value his support rather than the negatives?",
+          "therapist_use": "Cognitive Restructuring: Assisting Hannah in reframing her fears about Ivan's behavior."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective was met as they explored Hannah's ambivalence and elicited her thoughts on change. The client's objective was met as she articulated her feelings and recognized the impact of her experiences.",
-          "client_utterance": "I think I can see how talking to Ivan could help, even if it feels scary. Maybe the change I need is to start being honest about how I feel, even if it's just a little at a time.",
-          "therapist_utterance": "That’s a significant realization, Hannah! Acknowledging that being honest about your feelings could lead to change is a powerful step forward. It sounds like you’re beginning to see a path that feels both hopeful and manageable.",
-          "therapist_use": "Reflective listening: reinforced Hannah's insights and encouraged her to embrace potential change."
+          "reason_for_ending": "MOVE: Therapist objective met as they have explored ambivalence and evidence. Client objective met as Hannah has articulated her feelings and is considering change.",
+          "client_utterance": "I think I can see a way to talk to him that emphasizes my need for support rather than just focusing on the negatives. It feels a bit less overwhelming now, like maybe it’s worth a shot.",
+          "therapist_utterance": "That's a significant step forward, Hannah. Your willingness to communicate your needs could open up a path for deeper understanding between you and Ivan. It sounds like you’re ready to take action in a way that feels more manageable.",
+          "therapist_use": "Double-sided reflection: validating her progress while reinforcing her desire for a positive change."
         }
       ]
     },
@@ -249,22 +263,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Hannah's commitment to change and explore her motivations to enhance her readiness for action.",
+          "objective": "Strengthen Hannah's commitment to change and enhance her motivation by collaboratively identifying achievable goals.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Hannah to articulate her reasons for wanting to change and the benefits she sees in making these changes.",
-                "Ask open-ended questions to facilitate her expression of commitment, such as, 'What does making these changes mean for you?'",
-                "Reflect back her statements to reinforce her commitment and enhance her motivation."
+                "Ask Hannah to articulate her reasons for wanting to change her current situation with Ivan, focusing on the benefits of sharing responsibilities.",
+                "Encourage her to express her thoughts in terms of commitment, using phrases like 'I intend to' or 'I plan to' when discussing her goals."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions (1-10) to assess Hannah's confidence in her ability to make changes and her readiness to begin.",
-                "Explore any discrepancies in her self-assessment and reinforce her strengths and past successes.",
-                "Collaboratively identify small steps that feel manageable to her."
+                "Use scaling questions to assess Hannah's confidence in discussing her feelings with Ivan, asking her to rate her readiness on a scale of 1 to 10.",
+                "Explore any discrepancies in her responses to identify areas of concern that may need addressing to foster her confidence."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Help Hannah identify supportive figures in her life who can assist her during this transition, such as friends or family.",
+                "Discuss any resources she may use, such as budgeting tools or community programs that could alleviate financial stress."
               ]
             }
           ]
@@ -272,79 +291,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Hannah to develop a specific action plan that outlines short-term, realistic goals related to her responsibilities and Ivan's participation.",
-                "Encourage her to identify potential barriers and brainstorm coping strategies, emphasizing gradual implementation to prevent overwhelm.",
-                "Schedule regular check-ins to review her progress and adjust the plan as needed."
+                "Begin the session by inviting Hannah to discuss specific incidents that trigger her feelings of frustration regarding Ivan's lack of responsibility.",
+                "Guide her in identifying her automatic thoughts related to these situations and collecting evidence for and against them."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Teach Hannah to apply problem-solving techniques when she feels overwhelmed by household and financial responsibilities.",
-                "Help her break down larger issues into smaller, manageable parts, and encourage her to seek Ivan's support in this process.",
-                "Introduce journaling as a tool to reflect on her problem-solving efforts and track her emotional responses."
+                "Facilitate a discussion on the quality of the evidence she has gathered, encouraging her to explore alternative explanations for Ivan's behavior.",
+                "Collaborate to reframe her negative thoughts into more balanced perspectives that consider Ivan's potential struggles."
+              ]
+            },
+            {
+              "technique_name": "Mindfulness Practice",
+              "instructions_for_therapist": [
+                "Introduce mindfulness techniques, such as deep breathing exercises, to help Hannah manage overwhelming emotions.",
+                "Encourage her to practice these techniques when she feels her thoughts becoming negative, reinforcing the importance of emotional regulation."
+              ]
+            },
+            {
+              "technique_name": "Goal Setting",
+              "instructions_for_therapist": [
+                "Conclude the session by collaboratively setting specific goals for Hannah to address responsibilities with Ivan, ensuring they are achievable and realistic.",
+                "Encourage her to express her needs clearly during these discussions, fostering open communication without blame."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan, I first identified Hannah's key beliefs, emotions, and behavioral patterns that contribute to her current feelings of being overwhelmed and alone. Recognizing her resistance, I chose MI strategies to enhance her intrinsic motivation by reinforcing her commitment to change and exploring her confidence. By asking open-ended questions and using scaling techniques, I aim to facilitate her expression of readiness while validating her feelings. For the CBT component, I selected action planning to help her create a structured, achievable framework for change, allowing her to visualize her path forward without feeling overwhelmed. Additionally, I incorporated problem-solving skills training to empower Hannah to tackle her responsibilities collaboratively with Ivan, fostering a sense of agency and reducing her sense of helplessness. This approach aligns with her intermediate resistance profile, as it emphasizes small steps and gradual changes, helping to build her self-efficacy and confidence in managing her situation.",
-        "progress_marker": "Hannah successfully identifies and begins implementing at least two specific action steps from her plan, and reports a slight increase in confidence on her readiness scale."
+        "therapist_reasoning": "To effectively support Hannah in the Preparation phase, I first employed Motivational Interviewing strategies by strengthening her commitment language. By encouraging her to articulate her intentions to change, I aimed to enhance her motivation and clarify her reasons for pursuing shared responsibilities with Ivan. I then explored her confidence and readiness using scaling questions, which helped identify ambivalence and areas requiring further reassurance. Identifying supports and resources was crucial for Hannah, given her feelings of being overwhelmed; thus, I facilitated a discussion on potential support systems. Concurrently, CBT interventions were integrated to address her cognitive patterns. I initiated Evidence-Based Questioning to help Hannah articulate her automatic thoughts and collect evidence against these beliefs. Cognitive Restructuring followed, allowing her to reframe negative thoughts into more balanced perspectives. Finally, I introduced mindfulness techniques to help her manage overwhelming emotions, linking it to her ability to cope with stress. By collaboratively setting specific goals, I ensured that the action plan was realistic and achievable, ultimately boosting her self-efficacy and readiness for change.",
+        "progress_marker": "Hannah expresses a clear commitment to open communication with Ivan and demonstrates an increased sense of readiness by identifying specific steps she plans to take."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore practical steps to improve my relationship and manage my stress better.",
+        "client_objective": "I hope to explore practical steps to improve my relationship with Ivan and manage my responsibilities more effectively.",
         "client_state": {
-          "awareness": "I recognize that my current situation with Ivan and our financial stress isn't sustainable and is affecting my mental health.",
-          "motivation": "I feel a strong desire to make changes because I want to feel happier and more in control of my life.",
-          "openness": "I'm willing to discuss my feelings and potential changes, though I still worry about how effective these discussions will be.",
-          "resistance": "I experience doubts about my ability to change and fear that my efforts might not lead to a lasting improvement."
+          "awareness": "I understand that my current situation with Ivan and our financial pressures is causing me significant stress and unhappiness.",
+          "motivation": "I feel a strong desire to improve my situation and find ways to feel more supported and less overwhelmed.",
+          "openness": "I am willing to discuss my feelings and thoughts with my therapist, although I still carry some hesitation about whether it will lead to real change.",
+          "resistance": "I feel a mix of hope and doubt, often questioning if I can truly change things or if I will just end up disappointed."
         },
-        "client_reasoning": "I’ve come to realize that my relationship with Ivan and the financial pressures we face are taking a toll on my well-being. I can't keep feeling overwhelmed and alone, and I know that something has to change. I want to improve our communication and find ways to share responsibilities better. Despite feeling motivated to take action, I still have some fears. What if my attempts to talk to Ivan don’t lead to anything? Or what if he doesn’t take my feelings seriously? Therapy has helped me see that I’m not alone in this struggle and that it’s okay to seek support. I have a small spark of hope that if I can articulate my feelings and needs more clearly, we might find a way forward together, but I still wonder if I’ll be able to maintain any changes we make."
+        "client_reasoning": "I've come to realize that my relationship with Ivan and the stress from our finances can't continue as it is. I feel trapped and alone when I take on all the responsibilities, especially when he seems indifferent to our needs. I see now that change is necessary, not just for me but for our relationship. Therapy has helped me recognize my feelings of helplessness, and while I feel motivated to improve things, I still worry about whether I can succeed. I want to explore ways to communicate better with Ivan and set boundaries for my own well-being. But there's this nagging fear that even if I try, it might not work out, or he won't respond the way I need him to. I hope discussing these thoughts can guide me toward practical steps forward."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't fully explored Hannah's motivations. Client objective not met: Hannah hasn't identified specific action steps yet.",
-          "client_utterance": "I think I'm starting to see that being honest with Ivan could help, but I still feel scared about how he might react. What if he dismisses my feelings or gets defensive? I really want to feel safe sharing my thoughts, but I worry it might just make things worse.",
-          "therapist_utterance": "It's completely understandable to feel scared about how Ivan might react. You're expressing a real concern about wanting to feel safe while still needing to share your feelings. What do you think could help you feel more secure in that conversation with him?",
-          "therapist_use": "Open-ended question: Encouraging exploration of Hannah's feelings of safety in communication."
+          "reason_for_ending": "KEEP - Therapist's objective to strengthen commitment language was not fully met as Hannah has not yet articulated specific intentions. Client's objective to explore practical steps is still in process, as she needs more clarity on the actions she can take.",
+          "client_utterance": "I've been thinking more about what I need from Ivan, but I still feel hesitant to bring it up. I want him to understand how much I need his support, but I'm not sure how to start that conversation without it turning into a fight.",
+          "therapist_utterance": "It's understandable to feel hesitant about starting that conversation with Ivan. What if you expressed how much you value his support and framed it in a way that emphasizes partnership? That might help create a more open dialogue.",
+          "therapist_use": "Strengthening Commitment Language: encouraged Hannah to articulate her intentions for discussing support."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet reinforced Hannah's strengths. Client objective not met: Hannah hasn't articulated specific action steps.",
-          "client_utterance": "I guess if I think about it, there are times when Ivan has been supportive, like when I was stressed about school. Maybe I could remind myself of those moments to help build my confidence. But I still wonder if those moments are enough to change his response now.",
-          "therapist_utterance": "It sounds like you have some positive memories to draw on, which could help strengthen your confidence. It’s important to acknowledge that past support can serve as a foundation for future conversations. What if you shared those positive moments with him as part of the conversation?",
-          "therapist_use": "Reflective listening: Reinforcing Hannah's strengths and past positive experiences."
+          "reason_for_ending": "KEEP - Therapist's objective to explore confidence and readiness was not fully met, as Hannah has not yet rated her readiness. Client's objective of exploring practical steps remains unfulfilled, needing more clarity on her confidence in communication.",
+          "client_utterance": "I like the idea of framing it positively, but I still have this fear that he won't react well. I guess I should really think about how I’d feel if he does respond positively, but it’s hard to let go of the fear.",
+          "therapist_utterance": "It's completely normal to have fears about how he might react. Let’s take a moment to scale your confidence on a scale from 1 to 10 about bringing this up with him. Understanding your readiness can help us identify the next steps.",
+          "therapist_use": "Exploring Confidence and Readiness: engaged Hannah in scaling her confidence to discuss her feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't facilitated the development of a specific action plan. Client objective not met: Hannah hasn't expressed practical steps yet.",
-          "client_utterance": "That could be a good approach, sharing those moments. I think I could start by telling him how much I appreciated his support during finals. But what if I still feel overwhelmed about everything else we're facing?",
-          "therapist_utterance": "It’s great to hear that you’re considering starting with appreciation. Acknowledging the positives can create a more open environment for discussion. What if you also identified one small thing you want to address with him, alongside the appreciation?",
-          "therapist_use": "Action planning: Guiding Hannah to consider manageable steps to take in the conversation."
+          "reason_for_ending": "KEEP - Therapist's objective to identify supports and resources was not fully met, as Hannah hasn't identified specific support figures. Client's objective remains unmet since she needs to clarify her readiness to approach Ivan.",
+          "client_utterance": "I think I would rate my confidence around a 4. I really want to talk to him, but I still feel uncertain about whether he'll understand my perspective or if I’ll just end up feeling frustrated.",
+          "therapist_utterance": "A score of 4 shows that you have some willingness to engage, but there’s also significant uncertainty. What do you think would help increase that confidence? Perhaps identifying someone who can support you through this could make a difference.",
+          "therapist_use": "Identifying Supports and Resources: facilitated discussion to help Hannah consider support systems."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to further explore barriers Hannah anticipates. Client objective not met: Hannah hasn't stated specific goals yet.",
-          "client_utterance": "I suppose I could say I want him to know that I need his support more, but I fear he might think I'm blaming him. It’s hard to balance expressing my needs without making it sound like I’m criticizing him. I really want to avoid conflict.",
-          "therapist_utterance": "Your awareness of wanting to avoid conflict is significant, and it's normal to feel that way. It might help to frame your needs in a way that emphasizes partnership rather than blame. How might you communicate your feelings without implying that he's at fault?",
-          "therapist_use": "Reflective listening: Validating Hannah's fears while encouraging constructive communication."
+          "reason_for_ending": "KEEP - Therapist's objective to strengthen commitment language was not fully met, as Hannah hasn't yet articulated her specific next steps. Client's objective of exploring practical steps is still in progress, needing more clarity on her action plan.",
+          "client_utterance": "I suppose if I talk to my sister about this, she might give me a boost. She always listens and understands where I’m coming from, which could help me feel more prepared.",
+          "therapist_utterance": "That's a great idea! Talking to someone who understands you can provide the encouragement you need. How might you express your feelings to Ivan after having that conversation with your sister?",
+          "therapist_use": "Strengthening Commitment Language: encouraged Hannah to articulate her intentions for discussing support with Ivan."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet helped Hannah brainstorm coping strategies. Client objective not met: Hannah hasn't identified any barriers or solutions.",
-          "client_utterance": "I guess I could focus on how we can tackle things together instead of making it just about me. But I still feel like I need a plan for when I get overwhelmed. What if I forget to communicate when things get tough?",
-          "therapist_utterance": "It's a positive shift to think about tackling challenges together. Developing a plan can help you feel more prepared for those tough moments. What coping strategies could you put in place to remind yourself to communicate when you feel overwhelmed?",
-          "therapist_use": "Problem-solving skills training: Helping Hannah identify coping strategies for communication."
+          "reason_for_ending": "KEEP - Therapist's objective to explore confidence and readiness was not fully met, as Hannah still seems uncertain about her next steps. Client's objective remains unmet as she hasn't committed to a specific plan for discussing her needs with Ivan.",
+          "client_utterance": "I think I could tell Ivan that I feel overwhelmed and need us to share responsibilities more fairly. But I'm still worried about how he might react, and I want to make sure I express it in a way that gets through to him.",
+          "therapist_utterance": "It's good to hear that you're thinking about a specific way to express your needs. Maybe we can work on the wording together so that it feels less daunting. What key points do you think are essential to communicate to him?",
+          "therapist_use": "Goal Setting: collaborated on specific communication points for discussing responsibilities with Ivan."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist still needs to reinforce Hannah's feelings of hope. Client objective not met: Hannah hasn't confirmed her readiness for action yet.",
-          "client_utterance": "I think I could write down some thoughts for Ivan in advance. That might help me feel more organized and ready to talk. But I still worry that even with a plan, things might not change.",
-          "therapist_utterance": "Writing down your thoughts is a great strategy to help organize your feelings! It shows that you're taking proactive steps toward communication. How confident do you feel about implementing this plan, on a scale from 1 to 10?",
-          "therapist_use": "Scaling question: Assessing Hannah's confidence in implementing her action plan."
+          "reason_for_ending": "KEEP - Therapist's objective to identify supports and resources was not fully met, as Hannah hasn't yet solidified her plan. Client's objective is still in process, needing to define clear steps for her conversation with Ivan.",
+          "client_utterance": "I want to communicate that I need more support and that we're in this together, but I also need to be clear that it's not just about me. I guess I need to make that distinction when I talk to him.",
+          "therapist_utterance": "That distinction is crucial, as it emphasizes partnership rather than blame. How do you feel about practicing that message? It might help you feel more confident going into the conversation.",
+          "therapist_use": "Cognitive Restructuring: facilitated a discussion to help Hannah articulate her needs in a partnership context."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: The therapist has reinforced Hannah's commitment and explored her readiness. Client objective met: Hannah has identified specific action steps and feels more confident.",
-          "client_utterance": "I feel like I'm at a 7 right now. I really want to try this, and I think I can do it. It feels good to have a plan and acknowledge my feelings.",
-          "therapist_utterance": "That's fantastic to hear, Hannah! A 7 shows that you have a solid sense of readiness to take these steps. It’s great that you’re feeling more empowered and that you have a plan to communicate your needs with Ivan.",
-          "therapist_use": "Affirmation and reinforcement: Validating Hannah's progress and commitment to her action plan."
+          "reason_for_ending": "MOVE - Therapist's objective to strengthen commitment language was met, as Hannah expressed her intentions clearly. Client's objective was met as she articulated specific steps to improve her relationship with Ivan.",
+          "client_utterance": "I feel more prepared now. I plan to talk to Ivan about sharing responsibilities and making sure he knows how much I value his support. It feels good to have a clearer idea of how to approach this.",
+          "therapist_utterance": "That's fantastic to hear, Hannah! Your willingness to approach the conversation with clarity and intention is a significant step forward. It sounds like you’re ready to create the change you’ve been seeking in your relationship.",
+          "therapist_use": "Goal Setting: collaborated with Hannah on specific steps to address responsibilities with Ivan."
         }
       ]
     }

@@ -12,30 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and enhance awareness of Linda's feelings and thoughts regarding her financial situation and family dynamics.",
+          "objective": "Build rapport, increase self-awareness, and explore discrepancies in Linda's beliefs and current situation.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Linda's concerns without judgment.",
-                "Paraphrase her feelings and thoughts to show understanding.",
-                "Encourage her to express her emotions related to her financial situation."
+                "Reflect Linda's feelings about her financial loss and the associated emotions without judgment.",
+                "Validate her feelings of frustration and anxiety, demonstrating understanding of her situation."
               ]
             },
             {
-              "strategy_name": "Expressing Empathy",
+              "strategy_name": "Express Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Linda's feelings of helplessness and frustration.",
-                "Validate her experiences and emotions regarding financial difficulties.",
-                "Use empathetic statements to create a safe space for her to share."
+                "Acknowledge the difficulty of her circumstances and the emotional weight of relying on family.",
+                "Normalize her feelings of helplessness and frustration, reinforcing that it is okay to feel this way."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Develop Discrepancy",
               "instructions_for_therapist": [
-                "Help Linda explore the gap between her current situation and her personal values.",
-                "Gently ask questions that encourage her to reflect on her hopes for the future.",
-                "Facilitate a discussion about how her current reliance on family aligns with her values."
+                "Encourage Linda to reflect on how her current situation aligns with her personal values and goals.",
+                "Ask questions that help her recognize the gap between her current feelings of helplessness and her potential for independence."
+              ]
+            },
+            {
+              "strategy_name": "Raise Awareness",
+              "instructions_for_therapist": [
+                "Prompt her to think about how her avoidance and reliance on others may affect her long-term happiness.",
+                "Encourage her to explore her own abilities and past successes subtly."
               ]
             }
           ]
@@ -43,87 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identify Negative Thoughts",
               "instructions_for_therapist": [
-                "Encourage Linda to identify specific situations that trigger her feelings of helplessness.",
-                "Ask her to examine evidence supporting or contradicting her beliefs about her incompetence.",
-                "Facilitate a discussion about alternative interpretations of her past financial decisions."
+                "Help Linda articulate her automatic thoughts related to her financial situation.",
+                "Ask her to express specific beliefs, such as feeling incapable of supporting herself or feeling let down by her family."
               ]
             },
             {
-              "technique_name": "Changing Rules to Wishes",
+              "technique_name": "Challenge Negative Thoughts",
               "instructions_for_therapist": [
-                "Explore with Linda how she views her need for support from family.",
-                "Ask her to reframe her beliefs about needing help as a desired wish rather than a strict rule.",
-                "Encourage her to think about what support could look like without feeling overwhelmed."
+                "Utilize evidence-based questioning to explore the validity of her negative beliefs.",
+                "Prompt her with questions like 'What evidence do you have that you cannot support yourself?' to encourage reflection."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Gather Evidence",
               "instructions_for_therapist": [
-                "Guide Linda to consider how others might view her situation.",
-                "Discuss how different perspectives might offer new insights into her financial circumstances.",
-                "Encourage her to think about ways she could view her family dynamics differently."
+                "Assist Linda in recalling instances where she has been independent or managed challenges successfully.",
+                "Guide her to list her strengths and past successes to counter her negative self-assessment."
+              ]
+            },
+            {
+              "technique_name": "Reframe Negative Thoughts",
+              "instructions_for_therapist": [
+                "Collaborate with Linda to create balanced thoughts that recognize her capabilities.",
+                "Encourage her to consider supportive statements, such as 'It's okay to ask for help without feeling like a failure.'"
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Linda, it is essential to first establish a strong therapeutic rapport due to her advanced resistance and feelings of frustration. I will begin by employing reflective listening to create a safe environment where she feels heard. By expressing empathy, I can validate her feelings of helplessness and frustration, which may reduce her defensiveness. The goal here is to gently develop discrepancy by exploring the gap between her current reliance on family and her personal values, encouraging curiosity about her future. Using CBT techniques like evidence-based questioning, I will help her identify triggers for her feelings of incompetence, promoting awareness without pushing for change. Additionally, changing rules to wishes will allow her to reframe her need for support as a choice rather than a mandate. Finally, exploring alternative perspectives will help her to see her situation from a different angle, fostering engagement and reflection. This structured yet non-directive approach aligns with her current stage of change, respecting her autonomy while guiding her toward greater self-awareness.",
-        "progress_marker": "Increased engagement during sessions and willingness to explore thoughts and feelings without resistance."
+        "therapist_reasoning": "In the initial phase with Linda, I will prioritize building a trusting therapeutic relationship through reflective listening and expressing empathy. This approach will help her feel validated and understood, reducing her defensiveness. By using MI strategies, I will develop discrepancies between her current feelings of helplessness and her personal values, which may encourage self-reflection. Concurrently, I will incorporate CBT techniques by helping her identify and articulate her negative thoughts about her financial situation. This will be followed by challenging these thoughts using evidence-based questioning, allowing her to examine the validity of her beliefs. I will assist her in gathering evidence of her past successes to empower her and facilitate a re-evaluation of her self-perception. This sequential approach, combining MI and CBT, aims to engage Linda in a non-threatening manner, fostering awareness and curiosity without pushing for immediate change, thus respecting her current resistance level.",
+        "progress_marker": "Increased articulation of negative thoughts and feelings, reduced defensiveness, and an emerging sense of self-awareness regarding her beliefs and values."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I want to understand why I feel so overwhelmed without having to confront my problems head-on.",
+        "client_objective": "I hope to just talk about my life without being pushed to change anything right now.",
         "client_state": {
-          "awareness": "I know something is wrong, but I don’t really want to dig into it or talk about it.",
-          "motivation": "I’m not sure I want to change anything because it feels too hard and scary.",
-          "openness": "I feel reluctant to share my true feelings, especially about my family and finances.",
-          "resistance": "I feel very defensive and frustrated whenever the topic of change comes up."
+          "awareness": "I know I have financial problems, but I don't think it's a big deal that needs to change right now.",
+          "motivation": "I don't really want to change anything; I just want to cope with what I'm dealing with.",
+          "openness": "I'm not very open to sharing my feelings; I feel uncomfortable and defensive when I try.",
+          "resistance": "I feel very resistant to discussing my situation; it makes me frustrated and upset."
         },
-        "client_reasoning": "Sometimes I think about my financial situation and just feel this weight on my chest; it’s like I can’t breathe. I know I messed up with my retirement funds, but it’s hard to face that reality. I don’t really want to talk about it because it feels like I’m just going to open a can of worms that I can’t close again. My family says they’re here to help, but I still feel unworthy and scared of relying on them. It’s frustrating when people suggest I should do something differently, like I’m failing at life. I sometimes feel like I’m stuck in this loop of regret and anger, and discussing it with someone feels like it would just pile on more pressure. Therapy seems like it wants me to change everything when I can barely keep my head above water, so I don’t see how it could help me right now."
+        "client_reasoning": "I just don’t see how any of this therapy stuff is going to help me. I know I have financial problems, but honestly, it feels overwhelming to think about changing anything. I keep telling myself that I can handle it, but deep down, I feel like I'm just a failure for letting things get this far. My family's support is always there, but I feel angry that I have to rely on them and that they don’t help me as much as I think they should. I want to avoid this issue because talking about it makes me feel more anxious and scared about the future. I guess I feel like if I discuss my feelings, it just opens up a can of worms that I’m not ready to deal with. Being in therapy feels uncomfortable; I worry that it’s going to force me to confront all these issues when I can barely manage my daily life as it is."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as rapport and awareness are still developing. Client objective not met as she still feels overwhelmed and reluctant to share.",
-          "client_utterance": "I just feel like everything is too much right now. When I think about my finances, I just shut down because I’m scared of what I’ll find. I don’t want to dig into all of this and make it worse, you know?",
-          "therapist_utterance": "I can hear how heavy this feels for you, Linda. It's understandable to want to avoid digging deeper when it feels overwhelming. What if we took a small step back and just explored how these feelings show up in your daily life?",
-          "therapist_use": "Reflective Listening: used to acknowledge Linda's feelings while encouraging her to share more about her daily experiences."
+          "reason_for_ending": "KEEP: Therapist objective not met because rapport building is still in progress. Client objective not met as Linda remains resistant to sharing deeper feelings.",
+          "client_utterance": "I guess I just feel stuck. I know I should be doing something about my finances, but it feels too overwhelming to even think about it. I try to tell myself that I can manage, but then I feel like I’m just failing at everything.",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure and frustration about your situation. It's understandable to feel stuck when everything seems overwhelming. Can you share more about what specifically feels like a failure to you?",
+          "therapist_use": "Reflective listening: validated Linda's feelings of pressure and frustration, encouraging her to explore her thoughts."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Linda hasn't fully explored her feelings. Client objective not met as she remains defensive about discussing her situation.",
-          "client_utterance": "I guess it’s just this constant worry about money. I feel like I can’t even talk to my family about it because I don’t want them to judge me. I just keep thinking that if I admit how bad it is, it’ll make it real.",
-          "therapist_utterance": "It sounds really tough to feel that way, especially with your family. It’s like there’s this fear of judgment that keeps you from opening up. What if we looked at how your worries about money and family are connected?",
-          "therapist_use": "Expressing Empathy: used to validate her fears and encourage exploration of family dynamics."
+          "reason_for_ending": "KEEP: Therapist objective not met as deeper self-awareness is still lacking. Client objective not met; Linda is hesitant to delve into her feelings.",
+          "client_utterance": "I just feel like I should have done better, you know? My parents have always been there for me, but I hate that I have to depend on them now. It makes me feel weak and angry.",
+          "therapist_utterance": "Relying on your parents can feel really conflicting, especially when you value independence. It’s okay to have those feelings of weakness and anger; they’re valid given your circumstances. What do you think it means for you to rely on them right now?",
+          "therapist_use": "Express empathy: acknowledged the difficulty of relying on family, normalizing Linda's feelings of anger and weakness."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as there is still a lack of exploration into Linda's values. Client objective not met as she is still hesitant to confront her issues.",
-          "client_utterance": "I think about how I used to feel secure about my future, and now it’s just anxiety. I don’t want to burden my family, but I also feel like I can’t do it alone. I just don’t know how to reconcile that.",
-          "therapist_utterance": "That’s a really important realization, Linda. You’re caught between wanting independence and needing support, which can be quite conflicting. How do you think your current situation aligns with the values that once made you feel secure?",
-          "therapist_use": "Developing Discrepancy: used to help Linda reflect on her current situation versus her values."
+          "reason_for_ending": "KEEP: Therapist objective not met as Linda hasn't fully articulated her beliefs. Client objective not met as she still feels defensive about discussing her situation.",
+          "client_utterance": "I guess it makes me feel like I’m not capable of handling my own life. I keep thinking that if I just avoid the topic, it’ll go away or get better. But then I feel guilty, like I’m letting my parents down.",
+          "therapist_utterance": "It's tough feeling guilty about relying on others, especially when you want to be self-sufficient. Avoiding the topic might feel easier in the short term, but it sounds like it's adding to your stress. What do you think would happen if you faced these feelings head-on?",
+          "therapist_use": "Develop discrepancy: encouraged Linda to reflect on how avoidance might be impacting her stress levels and sense of self."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Linda is still struggling with her feelings of helplessness. Client objective not met as she hasn't yet unpacked her emotions.",
-          "client_utterance": "I don’t know; it just feels like I’m failing all the time. When I think about my decisions, it's like I can only see the mistakes. I wish I could just shake off this feeling of being stuck.",
-          "therapist_utterance": "It’s understandable to feel that way when you’re looking back at past decisions. It’s like those mistakes overshadow everything else. What if we tried to look at those decisions from a different angle? What might you say to a friend in your position?",
-          "therapist_use": "Alternative Perspective: used to encourage Linda to view her situation through a different lens."
+          "reason_for_ending": "KEEP: Therapist objective not met, as Linda's self-awareness is still growing. Client objective not met, as she hasn't fully opened up about her coping strategies.",
+          "client_utterance": "I don’t know, maybe it would just make everything worse. I always tell myself that I can get through this, that I just need to keep going. But I’m starting to wonder if that’s actually true or just a way to cope.",
+          "therapist_utterance": "It’s completely valid to question your coping strategies, especially when they feel heavy. It’s okay to wonder if the way you’re handling things is truly working for you. Can you think of a time when you felt more in control of your situation?",
+          "therapist_use": "Raise awareness: prompted Linda to consider her coping strategies and past experiences of feeling in control."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as there is still a need to further explore Linda's emotions. Client objective not met as she is still resistant to confront deeper feelings.",
-          "client_utterance": "I guess I’d tell them that it’s okay to ask for help, but I don’t feel that way about myself. I feel like I should be able to handle this on my own. But then I look at my family and feel guilty for needing them.",
-          "therapist_utterance": "It’s interesting that you can extend that understanding to a friend, yet struggle to give yourself the same compassion. Feeling guilty for needing support is a heavy burden. How do you think your perspective on needing help might change if you viewed it as a strength rather than a weakness?",
-          "therapist_use": "Changing Rules to Wishes: used to help Linda reframe her beliefs about needing support."
+          "reason_for_ending": "KEEP: Therapist objective not met as Linda is still hesitant to explore her strengths. Client objective not met, as she remains resistant to discussing her feelings further.",
+          "client_utterance": "There have been times, I guess, when I've managed on my own, but they feel so far away. Right now, I just feel like I’m not that person anymore. I’m not sure how to reconnect with that part of myself.",
+          "therapist_utterance": "Reconnecting with that part of yourself can be challenging, especially when you're feeling overwhelmed. It’s important to acknowledge that you’ve handled things before, and those strengths are still within you. What do you think helped you in those past situations?",
+          "therapist_use": "Gather evidence: encouraged Linda to recall her past successes to empower her current situation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Linda hasn't yet voiced any willingness to change her perspective. Client objective not met as she remains defensive about her situation.",
-          "client_utterance": "I don’t know if I can see it that way. It feels like relying on family is a sign of failure. I want to be strong and independent, but I also know I’m struggling.",
-          "therapist_utterance": "It’s completely valid to want to be strong and independent, Linda. You’re navigating a complex situation where those feelings can coexist. What if we explored what independence looks like for you right now, even with the support of your family?",
-          "therapist_use": "Reflective Listening: used to validate her feelings of wanting independence while encouraging exploration."
+          "reason_for_ending": "KEEP: Therapist objective not met, as Linda hasn't yet reframed her self-perception. Client objective not met; she still feels uncomfortable discussing her past strengths.",
+          "client_utterance": "I guess I used to be more confident, but now it just feels like a distant memory. I don’t want to feel like I’m constantly relying on others. It’s just frustrating.",
+          "therapist_utterance": "It's definitely frustrating to feel like you're not the person you once were. Remembering your confidence can be an important step towards rebuilding it. What would it look like for you to start reclaiming that confidence, even in small ways?",
+          "therapist_use": "Reframe negative thoughts: invited Linda to envision a pathway to regain her confidence, fostering a sense of agency."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as rapport and awareness have been established. Client objective met as Linda has explored her feelings and is beginning to reflect on her situation.",
-          "client_utterance": "Maybe I could think of needing help as something that doesn’t define my worth. I guess it’s a step to acknowledge that things aren’t perfect. I just need to take it one day at a time.",
-          "therapist_utterance": "That sounds like a positive shift, Linda. Recognizing that needing help doesn't define your worth is a significant step. Taking it one day at a time can help alleviate some of that pressure you feel. What are some small steps you might consider moving forward?",
-          "therapist_use": "Reflective Listening: used to reinforce her positive realization and encourage further contemplation."
+          "reason_for_ending": "MOVE: Therapist objective met as Linda is recognizing her strengths and re-evaluating her self-perception. Client objective met since she is engaging more openly about her feelings and thoughts.",
+          "client_utterance": "Maybe I can start by just acknowledging that it’s okay to ask for help sometimes. I guess I don’t have to feel like a failure for needing support. It’s a start, at least.",
+          "therapist_utterance": "That sounds like a significant breakthrough, Linda. Recognizing that asking for help is not a sign of failure can open up new ways to cope with your situation. How do you feel about taking that first step?",
+          "therapist_use": "Double-sided reflection: validated Linda's emerging realization while reinforcing her progress towards self-acceptance."
         }
       ]
     },
@@ -132,34 +140,30 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Linda's ambivalence about her financial situation and dependence on her family, while increasing her motivation to consider change.",
+          "objective": "Explore Linda's ambivalence toward change and strengthen her motivation for making positive decisions.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Linda to express her thoughts and feelings about her financial situation and reliance on her family.",
-                "Encourage her to identify both the pros and cons of changing her financial behavior and seeking independence."
+                "Begin the session by validating Linda's feelings about her financial loss and acknowledge her fears regarding change.",
+                "Ask open-ended questions about her feelings towards her current situation and the possibility of change, such as, 'What do you feel are the positive aspects of your current situation, and what are the negatives?'",
+                "Encourage her to articulate both sides of her ambivalence, helping her identify the reasons she might want to change and the reasons she might resist it."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Use open-ended questions to help Linda articulate any desire or reasons she has for wanting to change her current situation.",
-                "Reflect back her statements to reinforce her motivations and acknowledge her feelings."
-              ]
-            },
-            {
-              "strategy_name": "Developing Discrepancy",
-              "instructions_for_therapist": [
-                "Help Linda explore the differences between her current situation and her values regarding independence and self-sufficiency.",
-                "Facilitate a discussion on how her current behaviors align or conflict with her long-term goals."
+                "Prompt Linda to discuss any past experiences where she successfully overcame challenges.",
+                "Use reflective listening to reinforce her expressions of desire and ability to change.",
+                "Encourage her to explore how her values relate to her desire for financial independence and how her current behavior aligns or conflicts with these values."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Guide Linda in a pros and cons analysis, focusing on her reliance on family versus the potential benefits of financial independence.",
-                "Encourage her to weigh her current feelings against her aspirations for the future."
+                "Facilitate a discussion about the pros and cons of remaining in her current situation versus pursuing change.",
+                "Ask questions like, 'What might be the benefits of making changes in your financial situation?' and 'What might be the costs of staying as you are?'",
+                "Help her visualize the potential positive outcomes of change while also acknowledging her fears."
               ]
             }
           ]
@@ -167,84 +171,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
-              "instructions_for_therapist": [
-                "Work with Linda to challenge her automatic thoughts about financial security and her perceived helplessness.",
-                "Encourage her to reframe negative thoughts by identifying evidence for and against these beliefs."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Facilitate a session where Linda lists the advantages and disadvantages of her current financial reliance on family.",
-                "Help her understand how these factors contribute to her feelings of anxiety and frustration."
-              ]
-            },
-            {
               "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Encourage Linda to examine her core beliefs about incompetence and failure, questioning their validity.",
-                "Guide her in identifying instances where she has successfully managed challenges, reinforcing her self-efficacy."
+                "Start by inviting Linda to share her automatic thoughts about her financial situation.",
+                "For each negative thought, gently challenge its validity with questions like, 'What evidence do you have for this thought?' or 'Can you recall a time when you successfully managed a difficult situation?'",
+                "Encourage her to gather evidence of her strengths and past successes to counter her negative beliefs."
+              ]
+            },
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Once evidence is gathered, guide Linda to analyze this information critically.",
+                "Help her reformulate negative thoughts into balanced statements that reflect her capabilities, such as, 'I have faced challenges before and managed them.'",
+                "Encourage her to practice these new thoughts and reinforce the idea that seeking support does not equate to failure."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Linda, I first focused on exploring her ambivalence regarding her financial situation, recognizing her feelings of frustration and helplessness. Using motivational interviewing strategies, particularly exploring ambivalence and eliciting change talk, allows Linda to articulate her desires for change while also acknowledging her fears. I emphasized developing discrepancy to help her see the conflict between her values of independence and her current reliance on family. CBT interventions, such as decatastrophizing and evidence-based questioning, will be instrumental in reframing her negative thoughts about her competence and ability to manage her life. By creating a safe, collaborative space and addressing her resistance through gentle inquiry and supportive reflection, I aim to strengthen her motivation and self-efficacy, guiding her towards a clearer perspective on her situation without pushing her into immediate action planning. This approach respects her current state while fostering insight and readiness for potential change.",
-        "progress_marker": "Linda articulates at least one personal reason for wanting to change her financial behavior and identifies some beliefs that contribute to her ambivalence."
+        "therapist_reasoning": "In working with Linda, the therapist's first step is to validate her feelings of ambivalence towards change, which is critical given her current emotional state and resistance level. By employing MI strategies like exploring ambivalence, the therapist can create a safe space for Linda to express her mixed feelings about her financial situation. This is complemented by eliciting change talk to help her identify any desire or ability to change, fostering motivation. The decisional balance discussions will further clarify her values in relation to her current behaviors, helping her see the discrepancies that exist. Concurrently, CBT techniques such as evidence-based questioning allow the therapist to gently challenge Linda's negative automatic thoughts, prompting her to reflect on her past successes and capabilities. By analyzing this evidence, Linda can begin cognitive restructuring, leading to more balanced and empowering beliefs. This dual approach of MI and CBT encourages insight without overwhelming Linda, honoring her resistance while promoting a gradual exploration of her potential for change.",
+        "progress_marker": "Linda has begun to articulate her ambivalence and identify both the positive and negative aspects of her current situation, demonstrating increased self-reflection and a willingness to explore change."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my financial situation and the possibility of making changes.",
+        "client_objective": "I hope to gain clarity on my financial situation and explore my feelings about relying on my family for support.",
         "client_state": {
-          "awareness": "I am beginning to recognize that my financial decisions have led to my current struggles, and I see that I might need to make some changes.",
-          "motivation": "I feel a mix of wanting to change my situation but also fearing what that might entail.",
-          "openness": "I’m somewhat willing to share my thoughts and feelings with my therapist, but I still hold back at times.",
-          "resistance": "I feel frustrated and resistant, believing that change is overwhelming and wondering if it’s even possible for me."
+          "awareness": "I am starting to recognize that my financial choices have led me to a difficult place, and I can see how my reliance on my family might not be the best long-term solution.",
+          "motivation": "I want to change my financial situation and my feelings of helplessness, but I’m unsure if I can do it and if it’s worth the effort.",
+          "openness": "I feel somewhat willing to talk about my experiences and emotions, but I still hold back out of fear of judgment and vulnerability.",
+          "resistance": "I feel frustrated and resistant, doubting whether therapy can really help me when I am struggling to manage my life as it is."
         },
-        "client_reasoning": "I’ve started to realize that my financial situation is not sustainable, and I can’t rely on my family forever. It feels unfair that I can’t retire comfortably, and I often find myself ruminating on past decisions that have led me here. I know something needs to change, but I’m scared. Change seems so daunting, and I worry I won’t be able to handle it. I want to feel more secure and independent, but there’s this nagging doubt in my mind that I’m just not capable of making those changes. Sometimes, I feel like my family should be helping me more, which makes me feel even more frustrated and angry at myself for needing that support. Therapy is making me think deeper about these issues, yet part of me resists fully committing to the idea of change, fearing it will be too much for me to handle right now."
+        "client_reasoning": "I’ve been reflecting a lot lately about my financial situation and how my past decisions have led me to rely heavily on my family. I know deep down that something isn’t working, but every time I think about making changes, I feel this surge of fear. What if I try and fail again? I’ve been thinking about how I often blame my family for not helping me more, but maybe I should also consider how I can start taking responsibility for my own life. Therapy is making me question my beliefs about needing support from others, but it’s hard to shake off the feeling that I’m just not capable of handling this on my own. I want to feel empowered, yet I can’t help but feel stuck, and I’m afraid of what it would mean to truly step out of my comfort zone."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Linda has not yet articulated a personal reason for wanting to change her financial behavior. Client's objective was not met because Linda is still grappling with her feelings and has not fully explored the possibility of change.",
-          "client_utterance": "I guess I’m starting to see that relying on my family isn't sustainable, but I feel so anxious about how to change it. The thought of looking for a new job or managing finances better just feels overwhelming. I know I should be doing something, but I get stuck in my head.",
-          "therapist_utterance": "It’s completely understandable to feel overwhelmed, especially when thinking about the changes you could make. What if you took a moment to consider what small step might feel manageable right now? Even just thinking about potential jobs or ways to increase your income could help you feel a bit more in control.",
-          "therapist_use": "Open-ended questioning: encouraged Linda to consider manageable steps towards change."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Linda hasn't fully explored her ambivalence about seeking help. The client's objective was not met as she is still unsure about her feelings towards relying on her family.",
+          "client_utterance": "I guess I’m still really torn about relying on my parents. Part of me feels grateful for their support, but another part feels like I should be doing better on my own. It's just hard to reconcile those feelings.",
+          "therapist_utterance": "It's completely normal to feel torn, Linda. Gratitude and frustration can coexist, especially in challenging times. What do you think would help you balance those feelings?",
+          "therapist_use": "Exploring ambivalence: Helped Linda articulate her conflicting emotions regarding her family's support."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Linda has not yet identified any specific reasons for wanting to change. Client's objective was not met because she is still expressing resistance and anxiety about taking steps forward.",
-          "client_utterance": "I want to feel secure and independent, but I keep thinking about all the things that could go wrong. What if I fail again? It’s just hard to see myself succeeding when I’ve made such poor choices in the past.",
-          "therapist_utterance": "That fear of failure is really powerful, Linda, and it makes sense that it’s holding you back. Can we explore what those poor choices mean to you and how they shape your current view of yourself? It might be helpful to look at some times when you successfully navigated challenges in your life.",
-          "therapist_use": "Exploring ambivalence: helped Linda articulate her fears while acknowledging her past experiences."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Linda hasn't clearly articulated her reasons for change yet. The client's objective was not met because she is still struggling with her feelings about her current situation.",
+          "client_utterance": "I think I just need to feel more in control, but I also worry that if I try to change, I might fail again. What if I can't improve my situation? That thought scares me.",
+          "therapist_utterance": "It's understandable to fear failure, especially when you've faced setbacks before. Can you think of a time when you overcame a challenge and felt a sense of control? How did that feel?",
+          "therapist_use": "Eliciting change talk: Encouraged Linda to recall past successes to foster motivation and self-efficacy."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met because Linda has not yet recognized any strengths or reasons for change. Client's objective was not met as Linda continues to express feelings of inadequacy.",
-          "client_utterance": "I just don’t see anything I’ve done that qualifies as a success. I keep feeling like I’m going to let everyone down, and that makes it hard to think about changing my situation.",
-          "therapist_utterance": "It’s tough to carry that burden of expectation, especially when you feel like you’re failing. Have you had moments in the past where you overcame something difficult? Reflecting on those times might help you see that you do have the capability to manage challenges.",
-          "therapist_use": "Evidence-based questioning: encouraged Linda to examine her past successes to build her self-efficacy."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Linda hasn't yet identified the benefits of change. The client's objective was not met as she still holds fears that impede her clarity.",
+          "client_utterance": "I remember a time when I handled my finances better, but it feels so far removed from where I am now. It’s hard to believe I could get back to that. What if I can’t find a way to make things better?",
+          "therapist_utterance": "That past experience is a valuable part of your journey, Linda. It shows you have the capability to manage your finances effectively. What would it mean for you to start working towards that again?",
+          "therapist_use": "Reflective listening: Reinforced Linda's feelings about her past success to build her motivation for change."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Linda has not yet articulated any desire for change. Client's objective was not met because she is still feeling overwhelmed and stuck.",
-          "client_utterance": "I can think of a few things, but they feel so insignificant compared to the mess I’m in now. I mean, I used to handle my finances responsibly, but it feels like that was a different person. Now I’m just scared of making the same mistakes.",
-          "therapist_utterance": "It’s great that you can recall those responsible moments; they’re not insignificant at all. They show that you have the ability to manage your finances, even if it feels daunting now. What if you thought about what you learned from those past experiences and how they could inform your next steps?",
-          "therapist_use": "Developing discrepancy: helped Linda recognize her past capabilities to encourage reflection on future possibilities."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Linda has not yet engaged in a decisional balance discussion. The client's objective was not met because she is still feeling overwhelmed and uncertain about change.",
+          "client_utterance": "I think it would mean a lot, but I just don’t know where to start. The idea of changing my financial habits feels so daunting. What if I end up failing again?",
+          "therapist_utterance": "Starting can feel daunting, especially with those fears in mind. Let’s explore what you see as the benefits of taking small steps towards change versus the costs of staying where you are. What do you think would be the pros and cons?",
+          "therapist_use": "Decisional balance discussions: Encouraged Linda to weigh the benefits and costs of her current situation against potential changes."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Linda has not yet recognized any pros of changing her current situation. Client's objective was not met because she is still struggling to envision a positive outcome.",
-          "client_utterance": "I guess I could try to see my past decisions as learning experiences. But it’s hard to feel optimistic when I think about how much I’ve lost and what I still need to figure out.",
-          "therapist_utterance": "Acknowledging those losses is significant, and it’s okay to feel that way. However, seeing your past as a learning experience is a step towards change. Let’s take a moment to think about what financial independence would look like for you and the benefits it could bring.",
-          "therapist_use": "Decisional balance discussions: encouraged Linda to envision the benefits of financial independence."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Linda has not clearly articulated the pros and cons yet. The client's objective was not met as she remains uncertain about the value of change.",
+          "client_utterance": "I guess if I change, I could potentially have more independence and feel better about myself. But then I’m terrified of making the wrong choice and regretting it. It’s just so risky.",
+          "therapist_utterance": "Those potential benefits sound significant, Linda. It's normal to fear risk, especially when you've been hurt before. What do you think might help you feel more secure about making these changes?",
+          "therapist_use": "Exploring ambivalence: Validated Linda's fears while encouraging her to consider the potential benefits of change."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Linda has not yet articulated a clear desire to change her financial habits. Client's objective was not met because she is still feeling conflicted about her situation.",
-          "client_utterance": "It would feel great to not have to rely on my family, but then I wonder if I’m really capable of making that happen. I mean, what if I try and fail? That thought keeps holding me back.",
-          "therapist_utterance": "It’s understandable to feel that way, and recognizing that fear is an important part of the process. What if we explored what failure means to you? Sometimes reframing that fear can help you see it as an opportunity for growth rather than a stopping point.",
-          "therapist_use": "Eliciting change talk: prompted Linda to reflect on her fears and consider the potential for growth."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Linda has not yet expressed a clear desire to take steps toward change. The client's objective was not met because she is still battling with her fears and uncertainties.",
+          "client_utterance": "I don't know if I can find that security. Sometimes I feel like I'm just going in circles, and the idea of change feels like a massive leap. What if I can’t do it?",
+          "therapist_utterance": "Feeling like you're going in circles can be really frustrating. It's okay to feel unsure about taking a leap, but what small step could you take that feels manageable? Sometimes even small changes can lead to bigger shifts.",
+          "therapist_use": "Cognitive restructuring: Encouraged Linda to think about manageable steps to ease her fear of taking larger actions."
         },
         {
-          "reason_for_ending": "MOVE: Therapist's objective was met as Linda articulated her desire to explore financial independence and recognized pros and cons. Client's objective was met because she expressed a clearer understanding of her feelings and the possibility of change.",
-          "client_utterance": "I can see that being financially independent could give me peace of mind, and maybe even help me feel more confident. I still have doubts, but I think it’s worth exploring how I can start changing my financial habits.",
-          "therapist_utterance": "That’s a significant realization, Linda! Recognizing the benefits of financial independence is a big step, and I’m glad you’re open to exploring how to initiate that change. Let’s talk about some small, practical steps you might consider taking to move towards that goal.",
-          "therapist_use": "Eliciting change talk: helped Linda articulate her desire for financial independence and potential steps forward."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Linda began to articulate her fears and explore actionable steps for change. The client's objective was met as she demonstrated a willingness to consider small steps toward her financial independence.",
+          "client_utterance": "Maybe I can start by creating a budget or talking to someone about my options. It feels less overwhelming when I think about it that way. I think I’m ready to try something.",
+          "therapist_utterance": "That sounds like a fantastic plan, Linda! Taking those initial steps can help you regain a sense of control over your finances. How do you feel about setting a specific goal for this week to get started?",
+          "therapist_use": "Eliciting change talk: Supported Linda in identifying actionable steps, reinforcing her desire for change."
         }
       ]
     },
@@ -253,30 +252,28 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Linda's commitment to change and enhance her motivation.",
+          "objective": "Strengthen Linda's commitment to change and enhance her motivation to implement an action plan.",
           "strategies": [
             {
-              "strategy_name": "Commitment Language",
+              "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Linda to express her reasons for wanting to change her financial situation.",
-                "Ask open-ended questions to help her articulate her commitment, such as 'What would it mean for you to feel more secure about your finances?'",
-                "Reflect on her responses to reinforce her motivation and commitment."
+                "Encourage Linda to verbalize her reasons for wanting to change, emphasizing her financial independence.",
+                "Ask open-ended questions that prompt her to express her commitment, such as, 'What would achieving financial stability mean for you?'",
+                "Reflect back her statements of commitment to reinforce her motivation."
               ]
             },
             {
-              "strategy_name": "Exploring Confidence",
+              "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss Linda's past successes, even small ones, to highlight her capability.",
-                "Use scaling questions (e.g., 'On a scale from 1 to 10, how confident do you feel about finding a new job?') to assess her confidence.",
-                "Collaboratively identify steps that could increase her confidence in making financial decisions."
+                "Use scaling questions to assess her confidence in making changes, asking, 'On a scale from 1 to 10, how confident do you feel about finding a new job that pays more?'",
+                "Discuss what could help her move from her current confidence level to a higher one, reinforcing any small steps she is willing to take."
               ]
             },
             {
-              "strategy_name": "Identifying Supports",
+              "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Linda identify people in her life who can support her during this transition.",
-                "Discuss resources she can access, such as job training programs or financial counseling.",
-                "Encourage her to think about how she can reach out to these supports."
+                "Help Linda identify potential support systems, such as family, friends, or community resources.",
+                "Discuss how she might ask for help without feeling like a burden, reinforcing that seeking support is a strength."
               ]
             }
           ]
@@ -284,79 +281,86 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Linda in creating a step-by-step action plan for improving her financial situation.",
-                "Ensure that goals are specific, realistic, and time-bound (e.g., 'Apply for three jobs by the end of the month').",
-                "Discuss potential barriers to achieving these goals and collaboratively develop coping strategies."
+                "Begin sessions by acknowledging Linda's feelings about her financial loss and the emotions tied to it.",
+                "Prompt her to articulate specific negative thoughts and challenge these by asking for evidence against them.",
+                "Guide her to gather evidence of past successes and capabilities, helping her analyze this positively."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Reframing Negative Thoughts",
               "instructions_for_therapist": [
-                "Teach Linda effective problem-solving techniques to handle her financial decisions.",
-                "Use real-life examples from her situation to practice identifying problems, generating solutions, and weighing pros and cons.",
-                "Encourage her to implement one small solution in the coming week and reflect on the outcome."
+                "Collaborate with Linda to create balanced thoughts that counteract her negative beliefs.",
+                "Encourage her to articulate these new thoughts in her daily life, reinforcing her ability to manage challenges."
+              ]
+            },
+            {
+              "technique_name": "Developing Action Steps",
+              "instructions_for_therapist": [
+                "Discuss practical steps Linda can take to regain a sense of control, like improving financial literacy or job searching.",
+                "Set specific, measurable goals for each step, ensuring they are realistic and manageable."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In facing Linda's advanced resistance, I prioritized MI strategies to engage her motivation and commitment to change. I initiated with commitment language, prompting her to articulate her aspirations and reasons for change, thus strengthening her resolve. I then explored her confidence by discussing her past successes, employing scaling questions to assess her feelings about job searching. This approach not only validated her feelings but also set the stage for constructive discussions about increasing her confidence. Identifying supports was crucial, given her reliance on family; this strategy aimed to empower her to reach out for needed resources. I paired these strategies with CBT interventions focused on action planning, where I guided her in creating a specific, realistic action plan that included potential barriers and coping strategies, addressing her feelings of helplessness. Additionally, introducing problem-solving skills training provided her with practical tools to navigate her financial decisions. This combined approach aimed to alleviate her frustration and foster a sense of agency in her circumstances.",
-        "progress_marker": "Linda will create an action plan and identify at least one person she can reach out to for support by the next session."
+        "therapist_reasoning": "In addressing Linda's preparation for change, I first focus on her expressed frustrations and beliefs about her financial situation. By employing Motivational Interviewing strategies, I aim to strengthen her commitment to change by encouraging her to articulate her motivations and identify what achieving financial stability would mean for her. Scaling questions will help assess her confidence and readiness, allowing us to explore ways to enhance her self-efficacy. Additionally, identifying her support systems will provide her with resources to navigate her challenges without feeling dependent. Moving into CBT interventions, I will help her articulate and challenge her negative thoughts using evidence-based questioning, guiding her through examples of past successes to reframe her beliefs about competence. Collaboratively creating balanced thoughts will empower her to shift her internal dialogue, while developing specific action steps will provide her with a clear, achievable plan. This structured approach respects her current resistance level by ensuring the plan is gradual and manageable, ultimately fostering her growth and readiness for change.",
+        "progress_marker": "Linda expresses increased confidence in her ability to take concrete steps toward her financial goals, articulates her motivations for change, and demonstrates a willingness to seek support from her family."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore practical steps to improve my financial situation and regain independence.",
+        "client_objective": "I want to explore practical steps to improve my financial situation and gain more independence.",
         "client_state": {
-          "awareness": "I have a clearer understanding of how my poor financial decisions have impacted my life and my dependence on my family.",
-          "motivation": "I feel motivated to make changes, as I realize I can't rely on my family forever and want to secure my future.",
-          "openness": "I am starting to be more open about discussing my thoughts and feelings with my therapist, although I still struggle with vulnerability.",
-          "resistance": "I experience significant resistance, feeling frustrated and overwhelmed by the thought of changing my life when I'm already struggling."
+          "awareness": "I understand that my financial losses have put me in a difficult position, and I can't keep relying on my family forever.",
+          "motivation": "I feel a growing desire to take control of my life and find ways to support myself financially.",
+          "openness": "I am willing to talk about my feelings and thoughts with my therapist, even if it feels uncomfortable at times.",
+          "resistance": "I still feel frustrated and doubtful about whether I can truly make the changes I need."
         },
-        "client_reasoning": "I’ve come to realize that my financial situation is dire, and it's not fair to expect my family to support me indefinitely. I understand that I need to take responsibility for my life and make changes, even if it feels daunting. The thought of finding a new job or improving my financial literacy excites me, but I worry about failing again. I keep questioning whether I can actually change my circumstances or if I'm destined to feel helpless. In therapy, I've started to see that change is possible, but I still feel overwhelmed by the steps ahead. I want to regain my independence and not rely on my parents, but I'm scared of making the wrong choices again. I hope that by discussing this with my therapist, I can find a clearer path forward and feel more confident about my abilities to create a better future for myself."
+        "client_reasoning": "I've been reflecting a lot on my situation lately. I realize that the financial decisions I made have seriously impacted my life, and I can't keep blaming others for my circumstances. I know I need to change, especially since relying on my family isn't a sustainable solution. The idea of being able to support myself feels empowering, and I've started to imagine what that might look like. Yet, I still feel scared, worried that I won't succeed or that I'll make the same mistakes again. Therapy has helped me see that change is possible, but I can't shake the doubt that lingers in my mind. I want to work towards a better future, but part of me wonders if I can really do it without help.",
+        "progress_marker": "Client begins to identify specific areas for change and expresses a desire for independence."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because they haven't yet sufficiently explored Linda's motivations for change. The client's objective was not met as Linda has not yet articulated her commitment to practical steps.",
-          "client_utterance": "I appreciate that you want to help me figure this out, but I still feel stuck. I want to make changes, but every time I think about taking a step, I just get overwhelmed again. I guess I need to dig deeper into why I want to change my financial situation.",
-          "therapist_utterance": "It's completely normal to feel overwhelmed, especially when you’re trying to process so much at once. I’d like to help you explore what it would mean for you to feel more secure about your finances. Can you share what that sense of security looks like for you?",
-          "therapist_use": "Open-ended question: encouraged Linda to express her reasons for wanting to change."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Linda has not yet articulated her motivations for change clearly. The client objective was not met because Linda still feels overwhelmed and hasn't committed to specific action steps.",
+          "client_utterance": "I’ve been thinking about what it would mean to be financially stable. I guess it would really help me feel like I’m not a burden on my parents anymore, and that I could actually enjoy life again. But I still feel so far from that place, and it’s hard to imagine how to get there.",
+          "therapist_utterance": "It sounds like achieving financial stability would really empower you and change your relationship with your parents. What specific aspects of being financially stable feel most important to you? Can you share how that might impact your life in a practical way?",
+          "therapist_use": "Open-ended question: Encouraged Linda to express her motivations and envision the impact of financial stability."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they have yet to strengthen Linda's commitment to change fully. The client's objective was not met since Linda has not clearly articulated her commitment or specific steps.",
-          "client_utterance": "Feeling secure would mean I could finally take control of my life again. It would mean not having to rely on my family, which is something I really want. But I still fear I might fail in the process of trying to achieve that.",
-          "therapist_utterance": "That desire for control is a strong motivator, Linda. Acknowledging your fears is also important, as they can help us understand what might hold you back. What are some past successes you've had, no matter how small, that could give you confidence in this journey?",
-          "therapist_use": "Exploring past successes: aimed to highlight Linda's capabilities and build her confidence."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Linda hasn't yet expressed her commitment to making changes. The client objective was not met because Linda is still feeling scared about her ability to improve her financial situation.",
+          "client_utterance": "I think being independent would mean I could finally make my own choices without feeling guilty. But then I worry about how to handle everything on my own, especially with my past mistakes. What if I fail again?",
+          "therapist_utterance": "Those feelings of fear are completely understandable, especially given your past experiences. Let's focus on what feels manageable right now; what small first step do you think you could take that feels less daunting? It might be helpful to think about past successes when you felt more in control.",
+          "therapist_use": "Scaling question: Used to assess Linda's readiness to take a small step toward financial independence."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because they haven't fully assessed Linda's confidence about finding a new job. The client's objective was not met as Linda has not yet identified specific actions to take.",
-          "client_utterance": "I remember a time when I found a job I really loved, and I worked hard to get it. That felt like a success, but it also seems so distant now. I just don’t know if I can replicate that kind of success again.",
-          "therapist_utterance": "It's great that you can recall that success; it shows you have the capability within you. Let’s explore how you felt during that time and what steps you took to achieve that goal. On a scale from 1 to 10, how confident do you feel about finding a new job now?",
-          "therapist_use": "Scaling question: assessed Linda's confidence and opened the door for discussing her past successes."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Linda has not yet identified specific supports or resources she could utilize. The client objective was not met because Linda is still unsure about what small steps she can take.",
+          "client_utterance": "I guess I could maybe start by making a budget or talking to someone about my options. But I still feel hesitant to reach out for support. It’s hard to shake that feeling of being a burden.",
+          "therapist_utterance": "It’s great that you’re considering making a budget; that’s a solid first step. Remember, reaching out for support is a strength, not a weakness. Who in your life could you talk to about your options that would make you feel comfortable?",
+          "therapist_use": "Identifying supports: Helped Linda think about potential support systems and reduce the burden feeling."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't collaboratively identified steps to increase Linda's confidence. The client's objective was not met because Linda has not yet formulated a plan for change.",
-          "client_utterance": "I’d say I’m around a 4 right now. I want to feel more confident, but I keep doubting myself. I think I need to remind myself of what I did right in the past.",
-          "therapist_utterance": "A 4 is a starting point, and it shows there’s room for growth, which is encouraging. Let’s discuss specific steps that could help you feel more confident, like updating your resume or practicing for interviews. What do you think would be manageable for you to start with?",
-          "therapist_use": "Action planning: guided Linda in creating specific, realistic steps to boost her confidence."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Linda hasn't fully reflected on the benefits of seeking support. The client objective was not met because Linda still struggles with the idea of asking for help.",
+          "client_utterance": "I think my parents could help me with budgeting, but I just feel guilty asking them. I want to be independent and not rely on them, but they might understand my situation. It’s just hard to admit I need help.",
+          "therapist_utterance": "It’s understandable to feel guilty, but asking for help shows strength and self-awareness. Your parents might appreciate being involved in your journey towards independence. How do you think you might frame this conversation with them to help ease your guilt?",
+          "therapist_use": "Exploring confidence and readiness: Encouraged Linda to think about how to approach her parents for support."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met since they haven't yet identified any supports that Linda can reach out to. The client's objective was not met as Linda hasn't yet committed to specific steps.",
-          "client_utterance": "I could start by updating my resume, but I feel a bit lost about the next steps beyond that. Maybe I could ask a friend for help with it? I just need to find a way to be more proactive.",
-          "therapist_utterance": "That sounds like a great idea, reaching out to a friend can be a valuable support. Who else do you think could help you during this transition? Identifying these supports might make the process feel less daunting.",
-          "therapist_use": "Identifying supports: encouraged Linda to think of people who can help her during her transition."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Linda has not verbalized any actionable steps to take. The client objective was not met because Linda still feels unready to take action.",
+          "client_utterance": "Maybe I could write down my thoughts before I talk to them, but I’m still really nervous. I want to make changes, but I worry I won't follow through once the conversation is over. What if I end up feeling worse?",
+          "therapist_utterance": "Writing down your thoughts is a great idea; it can help organize what you want to say and reduce anxiety. Change can be challenging, but what if you viewed this conversation as an opportunity for growth rather than a risk? How might you feel if it goes as you hope?",
+          "therapist_use": "Reframing negative thoughts: Helped Linda see the potential positive outcomes of the conversation."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't fully explored potential barriers and coping strategies. The client's objective was not met since Linda hasn't yet solidified her action plan.",
-          "client_utterance": "I think my parents would be supportive, but I still feel guilty about asking them for help. I want to prove to myself that I can do this without relying on them. I guess I worry about what happens if I fall short.",
-          "therapist_utterance": "It's understandable to feel that guilt, especially when it comes to family. Remember, asking for help doesn’t diminish your independence; it's a step towards achieving it. What barriers do you think you might face as you start this process, and how could we address them together?",
-          "therapist_use": "Problem-solving skills training: guided Linda in identifying barriers and developing coping strategies."
+          "reason_for_ending": "KEEP: The therapist objective was not met as Linda has not yet expressed a concrete goal to work towards. The client objective was not met because Linda still has doubts about taking action.",
+          "client_utterance": "I guess if I can just get through this conversation, it might lead to something positive. But it’s still hard to imagine feeling confident afterward. I want to believe I can do this.",
+          "therapist_utterance": "Believing in yourself is a crucial part of this journey, Linda. What would it look like for you to set a small, achievable goal related to your finances this week? Even a tiny step can build confidence as you move forward.",
+          "therapist_use": "Developing action steps: Encouraged Linda to set a small, measurable goal to foster confidence."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met as they effectively identified potential barriers and coping strategies with Linda. The client's objective was met because Linda has articulated specific steps and identified her support system.",
-          "client_utterance": "I realize that asking for help is part of my journey toward independence, and I’m starting to feel a bit more confident. I’ll update my resume and reach out to my friend this week. I think I can also talk to my parents about my plans.",
-          "therapist_utterance": "That’s a fantastic plan, Linda! Taking these steps shows your commitment to change and your desire for independence. I’m excited to see how this progresses for you, and we can discuss your experiences in our next session.",
-          "therapist_use": "Commitment language: reinforced Linda's motivation and commitment to her action plan."
+          "reason_for_ending": "MOVE: The therapist objective was met as Linda articulated her motivations and expressed a willingness to take steps. The client objective was met as Linda identified a specific goal to work on and showed commitment to change.",
+          "client_utterance": "I think I’ll try to create a budget by the end of the week. It feels like a good first step, and I’ll talk to my parents about it when I’m ready. I really want to shift things in my life.",
+          "therapist_utterance": "That’s an excellent step, Linda! Setting a goal to create a budget this week is a powerful way to take control of your financial situation. I’m proud of you for committing to this change; it’s a significant move toward your independence.",
+          "therapist_use": "Strengthening commitment language: Reinforced Linda's motivation and commitment to her goal."
         }
       ]
     }

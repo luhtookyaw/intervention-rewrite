@@ -12,30 +12,38 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase awareness of Daisy's current feelings and beliefs regarding her financial independence.",
+          "objective": "Increase Daisy's awareness of her cognitive patterns and emotional responses surrounding financial independence and management.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Daisy's concerns about her financial situation.",
-                "Reflect back her feelings of anxiety and guilt to validate her emotions.",
-                "Encourage her to express more about what these feelings mean to her."
+                "Listen attentively to Daisy's concerns about her financial situation.",
+                "Reflect back her feelings of guilt and anxiety, validating her emotions.",
+                "Encourage her to express more about her worries without pushing her toward solutions."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Daisy's struggles with taking on new responsibilities.",
-                "Validate her feelings of being overwhelmed and her desire to assert independence.",
-                "Convey understanding of her context and how it affects her current emotional state."
+                "Acknowledge Daisy's struggle with the pressure of financial independence.",
+                "Reassure her that it is okay to feel overwhelmed and that many people share similar experiences.",
+                "Create a safe space for her to explore her feelings without judgment."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the difference between her current struggles and her values of independence.",
-                "Ask open-ended questions that help her reflect on what being independent means to her.",
-                "Encourage her to think about how her current approach aligns or misaligns with her values."
+                "Guide Daisy to explore the gap between her current feelings of inadequacy and her values of independence and self-sufficiency.",
+                "Ask open-ended questions to help her articulate what independence means to her.",
+                "Encourage her to think about how her current strategies align or misalign with her personal values."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Encourage Daisy to reflect on her past successes in financial management.",
+                "Ask questions that invite her to consider her strengths and capabilities.",
+                "Help her see that seeking assistance can be a sign of strength, not weakness."
               ]
             }
           ]
@@ -43,87 +51,99 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Introducing the Situation",
               "instructions_for_therapist": [
-                "Ask Daisy to identify specific instances where she felt she failed in managing her finances.",
-                "Encourage her to examine evidence for and against her belief of being incompetent.",
-                "Help her to differentiate between feelings of failure and the reality of her situation."
+                "Start the session by discussing the recent insurance claim and its emotional impact on Daisy.",
+                "Help her articulate her thoughts and feelings regarding financial management."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Identifying Cognitive Distortions",
               "instructions_for_therapist": [
-                "Guide Daisy to explore what she perceives as evidence of her incompetence.",
-                "Challenge her automatic thoughts by asking what others might say about her abilities.",
-                "Encourage her to assess the situation from a more balanced perspective."
+                "Guide Daisy in recognizing her 'should statements' and 'all-or-nothing thinking' related to financial independence.",
+                "Encourage her to articulate these thoughts to foster awareness."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Gathering Evidence",
               "instructions_for_therapist": [
-                "Invite Daisy to consider how she would view a friend in a similar situation.",
-                "Encourage her to identify strengths and successes in her efforts to manage her finances.",
-                "Help her explore alternative interpretations of her experiences."
+                "Facilitate a discussion where Daisy reflects on her financial management experiences.",
+                "Pose questions that challenge her negative self-assessments, prompting her to identify evidence of past successes."
+              ]
+            },
+            {
+              "technique_name": "Examining Beliefs",
+              "instructions_for_therapist": [
+                "Explore Daisy's intermediate beliefs about independence and competence.",
+                "Discuss the pressures these beliefs create and their impact on her emotional state."
+              ]
+            },
+            {
+              "technique_name": "Reframing Thoughts",
+              "instructions_for_therapist": [
+                "Collaborate with Daisy to create balanced thoughts based on the evidence gathered.",
+                "Encourage her to replace negative self-talk with more constructive statements."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, the therapist aims to build rapport and trust with Daisy, who is currently in the Pre-contemplation phase. The therapist employs Motivational Interviewing strategies, starting with reflective listening to validate Daisy's feelings of anxiety and guilt regarding her financial situation. By expressing empathy, the therapist acknowledges her struggles and encourages her to share more about her experiences, fostering a safe environment. Developing discrepancy is crucial, as it gently prompts Daisy to reflect on her values of independence versus her current feelings of helplessness, promoting self-awareness without pushing for immediate change. The therapist also incorporates CBT techniques such as evidence-based questioning to help Daisy scrutinize her beliefs about incompetence. Reality testing allows Daisy to challenge her automatic thoughts by considering alternative viewpoints. Finally, the therapist encourages an alternative perspective, which helps Daisy recognize her strengths and successes, ultimately aiming to reduce defensiveness and promote curiosity about her situation.",
-        "progress_marker": "Daisy expresses willingness to explore her feelings and thoughts more openly, showing signs of reduced defensiveness and increased self-reflection."
+        "therapist_reasoning": "In this phase, the primary focus is on building rapport and increasing Daisy's awareness of her thoughts and feelings related to her financial management challenges. By utilizing reflective listening, I aim to validate her emotions, allowing her to feel understood without being pressured to change. Expressing empathy will help create a supportive environment where she feels comfortable exploring her anxieties. Developing discrepancy will encourage Daisy to reflect on the gap between her values of independence and her current feelings of incompetence, facilitating a deeper understanding of her situation. By raising awareness of her past successes, I can help her recognize her capabilities and strengths. In conjunction with CBT techniques, I will guide her in introducing the situation to discuss her feelings about the insurance claim and identify cognitive distortions in her thinking. By gathering evidence, examining beliefs, and reframing her thoughts, I will help her foster a more balanced perspective without pushing for immediate change, thus respecting her current stage of readiness.",
+        "progress_marker": "Daisy expresses a willingness to explore her thoughts and feelings more openly and begins to identify instances of successful financial management."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I feel so overwhelmed with my financial situation.",
+        "client_objective": "I hope to figure out why I'm feeling so overwhelmed without having to change anything right now.",
         "client_state": {
-          "awareness": "I know there is a problem with my finances, but I don't really want to face it head-on.",
-          "motivation": "I feel stuck and uncertain about wanting to change anything right now.",
-          "openness": "I'm hesitant to share my deeper feelings because I'm afraid of what that might mean.",
-          "resistance": "I find myself avoiding the core issues because they feel too heavy to deal with."
+          "awareness": "I know something feels off, but I can't pinpoint it.",
+          "motivation": "I'm not sure I want to change; it feels too hard.",
+          "openness": "I want to share, but I'm scared of what it means.",
+          "resistance": "I feel anxious about discussing my finances and want to avoid the topic."
         },
-        "client_reasoning": "I feel like I'm drowning in my responsibilities, especially with this insurance claim. I know I should be handling my finances, but every time I try, I just feel more anxious and scared. It's like I'm stuck in this loop of feeling like a failure, particularly when I compare myself to my brother. I want to talk about my worries, but what if it just makes things worse? I often think maybe I should just figure it out on my own, but then I feel guilty for not being more proactive. Therapy feels like a safe space, yet I can't shake the feeling that I might not be able to handle what comes up. I guess I'm just trying to avoid facing the reality that I might need help, even if I know deep down that I can't keep pretending everything is okay."
+        "client_reasoning": "I keep thinking about this insurance claim and how I messed it up. It just makes me feel like I’m a failure, and I don’t want to talk about it because what if I can’t handle the feelings that come up? It’s easier to just think about it on my own and try to figure it out. Maybe I should just keep everything to myself, like my brother does. I feel like I have to prove I can manage everything independently, and that makes it really hard to admit that I’m struggling. I’m afraid that if I talk about it, it will only show everyone, including myself, that I’m not capable. Therapy feels intimidating sometimes, but maybe if I can just express a little of how I feel, it won't be so overwhelming. Still, I really don’t want to dive too deep into this; it just feels too risky.",
+        "progress_marker": "The client acknowledges feeling overwhelmed but avoids discussing specific issues related to finances."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Daisy hasn't fully shared her feelings about financial responsibilities. Client objective not met: Daisy is still avoiding deeper exploration of her anxiety.",
-          "client_utterance": "I just feel so overwhelmed all the time. It’s like I want to be independent, but every time I try to tackle something, I feel paralyzed. I keep thinking about how my brother is still relying on our parents, and I don't want to end up like that. But facing my finances feels like opening a can of worms.",
-          "therapist_utterance": "It sounds like you’re caught in a tough spot, wanting to be independent but feeling overwhelmed by the responsibilities that come with it. It’s understandable to feel anxious when you think about tackling your finances, especially when comparing yourself to your brother. Can you tell me more about what specifically makes you feel paralyzed? What are the thoughts that come up for you?",
-          "therapist_use": "Reflective Listening: used to validate Daisy's feelings of overwhelm and encourage deeper exploration."
+          "reason_for_ending": "KEEP; the therapist's objective was not met as Daisy has not yet explored her feelings in depth, and the client objective was not met because she remains hesitant to discuss her financial struggles.",
+          "client_utterance": "I've been thinking about that insurance claim a lot, and I just feel like I messed it up. It's hard to accept that I might need help, but I also feel so lost trying to figure it all out on my own.",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure about the claim and how it reflects on your ability to handle things. It's understandable to feel overwhelmed when you're trying to manage everything by yourself. Many people feel this way when they’re taking on new responsibilities for the first time.",
+          "therapist_use": "Reflective Listening: used to validate Daisy's feelings of pressure and overwhelm."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet explored specific instances of anxiety. Client objective not met: Daisy still hesitates to share specific thoughts.",
-          "client_utterance": "I guess I just keep thinking that if I mess up, it will mean I'm not good enough. I remember when I tried to handle my health insurance, and it was just a disaster. I felt so ashamed afterwards, and that feeling just lingers. But then, I don’t want to admit that I need help.",
-          "therapist_utterance": "It seems like that experience really weighed heavily on you, and it's understandable to feel ashamed after a tough situation. You’re not alone in feeling that way; many people struggle with finances and their self-worth. What would it mean for you to acknowledge that you might need some support? How do you think your feelings of shame impact how you handle your finances now?",
-          "therapist_use": "Expressing Empathy: acknowledged Daisy's shame and invited her to reflect on how it affects her actions."
+          "reason_for_ending": "KEEP; the therapist's objective was not met because Daisy hasn't yet articulated her thoughts on independence, and the client objective was not met since she still feels anxious about exploring her feelings.",
+          "client_utterance": "Yeah, I guess it just feels like everyone expects me to have it all together, and I'm scared of disappointing them. I want to be independent, but sometimes I feel like I'm just pretending.",
+          "therapist_utterance": "It’s okay to feel like you're pretending; that’s something a lot of people experience when they’re trying to be independent. You’re not alone in this struggle. What does independence mean to you, and how do you feel you’re measuring up to that idea?",
+          "therapist_use": "Developing Discrepancy: used to help Daisy reflect on her values of independence."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: More exploration is needed about Daisy's feelings of shame. Client objective not met: Daisy is still avoiding discussing her deeper feelings about needing help.",
-          "client_utterance": "I don’t know... I feel like if I admit I need help, it’s like a failure. But at the same time, I can’t keep feeling this way. I want to be stronger and feel capable, not like I’m drowning. Maybe I just need to figure it out on my own, but then I feel guilty.",
-          "therapist_utterance": "It's completely normal to feel conflicted; wanting to be strong while also feeling guilty about needing help. It sounds like you value independence a lot, yet those feelings of guilt are holding you back from reaching out. Can you think of a time when asking for help actually led to a positive outcome? What would you tell a friend in your situation?",
-          "therapist_use": "Developing Discrepancy: gently prompting Daisy to reflect on her values of independence versus her feelings of guilt."
+          "reason_for_ending": "KEEP; the therapist's objective was not met because Daisy hasn't connected her feelings of inadequacy with her values yet, and the client objective was not met as she remains reluctant to share more about her thoughts.",
+          "client_utterance": "I think independence means being able to handle my finances without asking for help. But sometimes I feel like I'll never get there, and that just makes me want to shut down.",
+          "therapist_utterance": "It sounds like there's a significant gap between where you are now and where you want to be. Feeling like you can't reach your goals can be really discouraging. Can you think of any times in the past when you've managed to handle things well, even if they were small?",
+          "therapist_use": "Raising Awareness: used to encourage Daisy to reflect on her past successes."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to guide Daisy further into recognizing her strengths. Client objective not met: Daisy is still resistant to discussing help.",
-          "client_utterance": "I guess I’d tell them it’s okay to ask for help, but I don’t feel that way for myself. I keep thinking about how I managed to pay my rent on time last month, but then I remember the times I messed up. I just feel like I’m not good enough, and it’s hard to see anything positive.",
-          "therapist_utterance": "It’s great to hear that you managed to pay your rent on time; that’s a significant achievement. It’s easy to focus on the negative experiences, but it’s important to recognize the successes you’ve had too. What if we looked at those moments of success and explored how they might reflect your capabilities? How could those experiences help you feel stronger moving forward?",
-          "therapist_use": "Alternative Perspective: encouraging Daisy to recognize her successes and strengths in managing her finances."
+          "reason_for_ending": "KEEP; the therapist's objective was not met since Daisy has not yet recognized her past successes, and the client objective was not met as she is still hesitant to share specific experiences.",
+          "client_utterance": "I mean, there have been small things like budgeting for my trips or managing my school expenses, but they feel so trivial compared to what I’m facing now.",
+          "therapist_utterance": "Those experiences are not trivial at all; they show that you have the capability to manage your finances. It’s important to acknowledge those moments of success, even if they seem small. How did those situations make you feel about your ability to be independent?",
+          "therapist_use": "Gathering Evidence: used to help Daisy reflect on her financial management experiences."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: More validation of Daisy's feelings is necessary. Client objective not met: Daisy still feels stuck and has not fully explored her feelings.",
-          "client_utterance": "I suppose I just need to remind myself that not everything is a disaster. But it’s still hard to shake off that feeling of being stuck. I want to feel more in control, but it seems like every time I try, I just end up feeling worse.",
-          "therapist_utterance": "It’s understandable to feel stuck, especially when trying to take control of something that feels overwhelming. Recognizing that not everything is a disaster is a good step, and it’s okay to have those feelings of doubt. What do you think would happen if you allowed yourself the chance to explore these feelings a bit more? What might that look like for you?",
-          "therapist_use": "Reflective Listening: validating Daisy's feelings of being stuck and promoting exploration of her emotions."
+          "reason_for_ending": "KEEP; the therapist's objective was not met as Daisy has not yet fully examined her feelings about independence, and the client objective was not met because she still feels like discussing her feelings is daunting.",
+          "client_utterance": "I guess they made me feel a bit more confident, but it’s hard to connect that to what I’m facing now. I just keep thinking about how I need to be perfect at this.",
+          "therapist_utterance": "Feeling like you need to be perfect can create a lot of pressure and anxiety. It's okay to acknowledge that you’re still learning how to manage your independence. What would it look like for you to be more compassionate with yourself in this process?",
+          "therapist_use": "Examining Beliefs: used to explore Daisy's beliefs about independence and competence."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Still needs to explore the difference between feelings and reality. Client objective not met: Daisy hasn't fully embraced the exploration of her feelings.",
-          "client_utterance": "Honestly, I think I just keep avoiding it because it feels safer. But I know that deep down, I can't keep pretending everything is okay. I want to work through this, but I’m scared of what it might mean. What if I don’t like what I find?",
-          "therapist_utterance": "It makes sense to feel scared; facing our fears can be daunting, especially when it involves our sense of self. But it’s important to remember that exploring these feelings doesn’t have to lead to negative outcomes. What if we approached this together, step by step? How can I support you in this exploration?",
-          "therapist_use": "Expressing Empathy: acknowledging Daisy's fear of facing her feelings and offering support."
+          "reason_for_ending": "KEEP; the therapist's objective was not met as Daisy has not yet reframed her thoughts, and the client objective was not met as she remains resistant to discussing her feelings more openly.",
+          "client_utterance": "I’m not sure. I just feel like if I allow any failure, it means I'm not capable at all. But maybe I can try to think of it as a learning experience.",
+          "therapist_utterance": "That sounds like a healthy way to begin reframing your thoughts. Viewing challenges as learning experiences can help reduce the pressure you feel. What would it take for you to see your current situation as part of your growth rather than a failure?",
+          "therapist_use": "Reframing Thoughts: used to help Daisy consider a more constructive perspective on her challenges."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: Daisy has begun to openly express her feelings and fears. Client objective met: Daisy is showing willingness to explore her situation more deeply and is contemplating her next steps.",
-          "client_utterance": "I think I’m starting to realize that avoiding these feelings isn’t helping me. Maybe I do need to talk about it more, even if it’s scary. I want to feel more in control and not just avoid the problem. Thank you for helping me feel safe to explore this.",
-          "therapist_utterance": "I’m really glad to hear that you’re feeling more open to explore these feelings. It’s a big step to admit that avoidance isn’t the answer, and it shows strength. Let’s take this exploration at your pace and focus on what feels right for you. I’m here to support you every step of the way.",
-          "therapist_use": "Reflective Listening: validating Daisy's realization and reinforcing her openness to exploration."
+          "reason_for_ending": "MOVE; the therapist's objective was met as Daisy has begun to acknowledge her feelings and cognitive patterns, and the client objective was met as she expressed a willingness to explore her feelings further without the fear of immediate change.",
+          "client_utterance": "I think I can try to view things differently. Maybe it's okay to not have it all figured out right now. I just need to take it one step at a time.",
+          "therapist_utterance": "That’s a wonderful realization, Daisy! Taking things one step at a time can alleviate some of the pressure you feel. It sounds like you're starting to embrace the process instead of focusing solely on the outcome.",
+          "therapist_use": "Expressing Empathy: used to validate Daisy’s emerging willingness to explore her feelings."
         }
       ]
     },
@@ -132,28 +152,27 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Daisy's ambivalence towards financial independence and enhance her motivation for change.",
+          "objective": "To explore Daisy's ambivalence about financial independence and enhance her motivation to accept support when needed.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Use open-ended questions to invite Daisy to express her feelings about managing finances independently.",
-                "Encourage her to identify both the pros and cons of her current behavior and her desired changes.",
-                "Validate her feelings of anxiety and fear while emphasizing that ambivalence is a normal part of the change process."
+                "Begin by inviting Daisy to share her feelings about managing her finances independently. Acknowledge her fears and concerns while validating her desire for independence.",
+                "Ask open-ended questions such as, 'What do you enjoy about managing your finances alone?' and 'What worries you most about asking for help?' to elicit her ambivalence."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Daisy to articulate her reasons for wanting to manage her finances independently.",
-                "Ask questions like 'What would it mean for you to feel confident in managing your finances?' to help her voice her motivations."
+                "Encourage Daisy to articulate her reasons for wanting to change her approach to financial management, such as the desire to avoid being burdened like her brother.",
+                "Use reflective listening to reinforce her statements about independence, prompting her to explore the benefits of balancing independence with seeking support."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Decisional Balance",
               "instructions_for_therapist": [
-                "Help Daisy identify her values related to independence and self-sufficiency.",
-                "Discuss how her current behavior (relying solely on herself) may conflict with her value of being a capable adult."
+                "Facilitate a discussion on the pros and cons of her current approach to handling finances independently versus seeking help.",
+                "Use a visual aid, such as a pros and cons list, to help her see the discrepancies between her values of independence and the emotional toll of her current behavior."
               ]
             }
           ]
@@ -161,85 +180,85 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Guide Daisy in reframing her automatic thoughts regarding financial mishaps.",
-                "Ask her to list the worst-case scenarios and then challenge these with evidence to reduce her anxiety."
+                "Introduce the recent insurance claim situation, prompting Daisy to share her automatic thoughts and feelings of guilt.",
+                "Guide her to identify cognitive distortions, such as 'should statements' and 'all-or-nothing thinking,' surrounding her financial responsibilities.",
+                "Encourage her to gather evidence for and against her automatic thoughts, asking questions like, 'What evidence do you have that you have completely failed?' and 'What positive experiences have you had?'"
               ]
             },
             {
-              "technique_name": "Pros and Cons Analysis",
+              "technique_name": "Reframing Thoughts",
               "instructions_for_therapist": [
-                "Facilitate a discussion where Daisy lists the pros and cons of her current approach to finances versus seeking help.",
-                "Encourage her to weigh both sides to gain clarity on her ambivalence."
+                "Assist Daisy in reframing her negative thoughts into balanced perspectives, for example, changing 'I should have checked' to 'I can learn from this experience.'",
+                "Discuss the concept that asking for help does not diminish her independence, reinforcing the idea that interdependence is part of adulthood."
               ]
             },
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Behavioral Reflection",
               "instructions_for_therapist": [
-                "Encourage Daisy to examine the evidence for her belief that she is incompetent.",
-                "Ask her to recall past successes in managing tasks independently and how she can apply those experiences to her current situation."
+                "Assign Daisy to reflect on situations where she feels the need to manage everything alone and write down her thoughts.",
+                "Encourage her to consider how reaching out for support could positively impact her emotional well-being and financial management."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, the therapist will first focus on exploring Daisy's ambivalence regarding her financial independence, utilizing MI strategies such as open-ended questions to facilitate dialogue about her feelings, which will help her articulate her motivations and fears. By discussing the pros and cons of her current behavior, the therapist aims to highlight discrepancies between her values of independence and her reliance on herself. Following this, CBT techniques like decatastrophizing will help Daisy challenge her negative automatic thoughts about financial management, while evidence-based questioning will support her in recognizing her past successes. This structured approach is designed to validate Daisy's feelings of anxiety while guiding her toward a more balanced perspective on her capabilities. The therapist will maintain a collaborative stance, allowing Daisy to reflect on her thoughts without feeling pressured to take immediate action, which aligns with her resistance profile.",
-        "progress_marker": "Daisy expresses increased clarity about her motivations and ambivalence, leading to a willingness to explore her beliefs further."
+        "therapist_reasoning": "The first step is to explore Daisy's ambivalence regarding her financial independence. Using MI strategies, I will facilitate a discussion about her feelings towards managing finances alone while acknowledging her fears. This allows her to articulate her conflicting desires, which can enhance her motivation. I will use open-ended questions to elicit change talk, encouraging her to recognize the benefits of seeking support. The decisional balance technique will help her visually assess the pros and cons of her current approach, promoting insight into the discrepancy between her values and behaviors. Concurrently, CBT interventions will focus on cognitive restructuring, assisting Daisy in identifying and challenging her cognitive distortions related to financial management. I will guide her in reframing her thoughts to foster a more balanced perspective, thereby reducing guilt and anxiety. Lastly, by assigning reflective homework, I will encourage her to consider how reaching out for help aligns with her goal of independence, ultimately reinforcing her self-efficacy and readiness for change.",
+        "progress_marker": "Daisy begins to articulate her reasons for wanting to balance independence with seeking support and starts to identify cognitive distortions affecting her self-view."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings around financial independence and identify the barriers to my change.",
+        "client_objective": "I hope to explore my feelings about managing my finances independently and understand my fears around it.",
         "client_state": {
-          "awareness": "I am starting to recognize that my attempts to manage everything on my own may not be working as well as I thought.",
-          "motivation": "I want to be independent and capable, but I also feel scared about making mistakes and facing the consequences.",
-          "openness": "I feel somewhat willing to share my feelings of guilt and anxiety with my therapist, but I worry about being judged.",
-          "resistance": "I still find myself wanting to avoid discussing my struggles, fearing that I might not be able to handle the truth."
+          "awareness": "I am starting to realize that my struggle with financial independence might be linked to my feelings of failure and incompetence.",
+          "motivation": "I want to change my relationship with money and independence, but I'm afraid of failing or burdening others.",
+          "openness": "I feel somewhat willing to share my thoughts and feelings with my therapist, but I still hesitate because I worry about being judged.",
+          "resistance": "I often feel anxious about discussing my financial issues, doubting whether I can handle the challenges of change."
         },
-        "client_reasoning": "I'm beginning to see that managing my finances independently isn't as straightforward as I hoped. I recognize that I might be pushing myself too hard to prove I'm not like my brother, who still relies on our parents. This pressure makes me anxious, and when I received that unexpected balance from the insurance company, it really hit me. I started to think, 'Maybe I am failing at this.' I want to change and learn how to manage my life better, but I'm terrified of making mistakes or feeling like a burden. Talking about this in therapy helps me reflect, but a part of me still wants to just figure it all out alone. What if I can't handle the support? I feel conflicted between wanting help and fearing that I might be giving in to weakness.",
-        "progress_marker": "Client acknowledges feelings of guilt and anxiety related to financial management."
+        "client_reasoning": "I’m beginning to see that my financial struggles are more than just numbers; they connect to deeper feelings of inadequacy. It’s hard to admit that I might need help or guidance, especially since I want to prove I can be self-sufficient like my peers. I notice that I often think I’ve failed at managing my finances whenever something goes wrong, like receiving an unexpected insurance bill. This makes me feel guilty and anxious, and I sometimes wonder if I should just keep trying to figure things out alone. Yet, I also recognize that talking about it in therapy helps me reflect and feel less alone in this process. I’m conflicted because part of me wants to change, but another part fears that I’ll end up just like my brother, dependent and helpless, which scares me. I want to explore these feelings more, but I’m still worried about what change really means for me."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Daisy hasn't fully explored her feelings about financial independence yet. Client's objective was not met because she still holds back on discussing her barriers to change.",
-          "client_utterance": "I’ve been thinking about how I want to be independent, but sometimes I feel like I’m just not cut out for it. When I tried to handle my health insurance, it didn't go well, and it makes me doubt my ability to manage my finances independently. I guess I’m still scared of failing and that keeps me from really tackling these issues.",
-          "therapist_utterance": "It sounds like that experience with your health insurance really impacted your confidence. It’s normal to feel scared after a setback, especially when it’s tied to something as important as your finances. What do you think might help you feel more confident moving forward, despite those fears?",
-          "therapist_use": "Open-ended question: encouraged exploration of feelings and potential solutions."
+          "reason_for_ending": "KEEP - The therapist's objective was not fully met as Daisy hasn't explored her fears around financial help yet. The client objective was not met because Daisy hasn't articulated her ambivalence about asking for support.",
+          "client_utterance": "I've been reflecting on how I feel guilty when I think about asking for help. Part of me wants to prove I can handle everything, but I also feel overwhelmed sometimes. It’s like I’m caught between wanting to be independent and needing support.",
+          "therapist_utterance": "It sounds like you're experiencing a real tug-of-war between your desire for independence and the reality that seeking help might be necessary. What do you think your fears about asking for help say about your ideas of independence?",
+          "therapist_use": "Open-ended question: to encourage Daisy to explore her fears and articulate her feelings about independence."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Daisy did not articulate her motivations clearly. Client's objective was not met since she is still hesitant to explore her feelings and fears.",
-          "client_utterance": "I think I just want to feel capable and not like I’m relying on anyone else. But then I remember how hard it was with the insurance, and I worry that I might end up needing help anyway. It’s frustrating because I want to be strong, but I also feel really anxious about what could go wrong.",
-          "therapist_utterance": "Your desire to be capable and independent is very strong, and it's understandable to feel anxious about potential setbacks. It seems like you’re caught between wanting to assert your independence and fearing the consequences of mistakes. What do you think are the pros and cons of trying to do this all by yourself?",
-          "therapist_use": "Pros and cons analysis: to help Daisy clarify her ambivalence about her approach to financial independence."
+          "reason_for_ending": "KEEP - The therapist's objective was not fully met as Daisy has not yet fully articulated her reasons for seeking balance. The client objective was not met because Daisy hasn't clearly identified her ambivalence.",
+          "client_utterance": "I think I worry that if I ask for help, it means I'm not capable. I don't want to end up like my brother, who still relies on our parents. But I also feel like I can't keep everything together on my own.",
+          "therapist_utterance": "That makes a lot of sense; it seems like you're worried about being perceived as dependent. What are some ways you think asking for help could actually be a sign of strength rather than weakness?",
+          "therapist_use": "Eliciting Change Talk: to encourage Daisy to recognize the potential benefits of seeking support."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Daisy hasn’t yet acknowledged her values related to independence. Client's objective was not met since she is still ambivalent about discussing her barriers.",
-          "client_utterance": "I suppose the pro is that I feel like I’m being responsible by managing things on my own. But the con is that I’m constantly stressed and worried about messing up. I just want to find a balance where I can feel responsible without the anxiety of failing.",
-          "therapist_utterance": "Finding that balance sounds really important to you, and it’s great that you’re recognizing both sides of your situation. How do you think your values around independence influence the way you approach your finances? Are there ways to align your actions more closely with those values?",
-          "therapist_use": "Exploring ambivalence: to help Daisy connect her values with her financial management approach."
+          "reason_for_ending": "KEEP - The therapist's objective was not fully met as Daisy hasn’t yet evaluated the pros and cons of her current approach. The client objective was not met because Daisy hasn't fully examined her feelings about financial independence.",
+          "client_utterance": "I guess asking for help could mean I’m being proactive about my finances instead of just struggling. But I still feel afraid of what people will think. It’s hard to imagine balancing independence with support.",
+          "therapist_utterance": "It's great that you're starting to see the potential positives in seeking help. Let's explore the balance between independence and support together: what do you think are the pros and cons of managing everything on your own?",
+          "therapist_use": "Decisional Balance: to facilitate a discussion on the pros and cons of independence versus seeking help."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Daisy still hasn't fully identified her feelings of anxiety. Client's objective was not met because she hasn’t fully explored what might help her feel more secure in her independence.",
-          "client_utterance": "I think my value of independence is pushing me to do everything myself, but it’s also making me feel overwhelmed. I want to be seen as capable, but I’m realizing that this pressure is not helping me. Maybe I need to consider what asking for help would look like without feeling like I’m failing.",
-          "therapist_utterance": "It’s insightful that you see how your value of independence is both motivating and overwhelming. Recognizing that asking for help doesn’t equate to failure is a significant step. What do you think would happen if you allowed yourself to explore that possibility a bit more?",
-          "therapist_use": "Eliciting change talk: encouraged Daisy to articulate her motivations for considering support."
+          "reason_for_ending": "KEEP - The therapist's objective was not fully met as Daisy hasn't yet fully recognized her successes. The client objective was not met because Daisy still struggles with the concept of asking for help.",
+          "client_utterance": "Well, I guess I have managed some things well, like budgeting for school, but I still feel like I’m failing when bigger issues arise. I often think I should just be able to handle it all. Sometimes, it feels like I’m just not cut out for this.",
+          "therapist_utterance": "It’s important to remember that everyone has strengths and weaknesses, and managing finances can be complex. How might you reframe your thoughts about your financial challenges to see them as opportunities for growth rather than signs of failure?",
+          "therapist_use": "Cognitive Restructuring: to help Daisy identify cognitive distortions and reframe her thoughts about financial management."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Daisy has not fully examined her fears about seeking help. Client's objective was not met since she still needs to clarify her thoughts on independence.",
-          "client_utterance": "I fear that if I ask for help, I’ll end up feeling weak or dependent, like my brother. But at the same time, I can’t keep feeling this anxious about finances. Maybe opening up about this could help me see it differently, but I’m still scared.",
-          "therapist_utterance": "It's completely normal to feel scared about opening up, especially when it involves such personal matters. Your feelings of fear and anxiety are valid, and it shows that you care deeply about your independence. What would it mean for you to face that fear and explore the option of asking for help?",
-          "therapist_use": "Developing discrepancy: encouraged Daisy to reflect on her fears about asking for help."
+          "reason_for_ending": "KEEP - The therapist's objective was not fully met as Daisy hasn't yet embraced the idea of learning from her experiences. The client objective was not met because Daisy hasn’t yet connected her experiences to her growth.",
+          "client_utterance": "I suppose viewing challenges as learning experiences could help. I just need to remind myself that it’s okay to not have everything figured out immediately. I want to learn and grow, but it’s so hard to let go of that pressure.",
+          "therapist_utterance": "It sounds like you're starting to shift your perspective, which is a big step! What would it look like for you to approach your financial journey with more compassion and patience for yourself?",
+          "therapist_use": "Reframing Thoughts: to assist Daisy in adopting a more balanced perspective toward her financial challenges."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Daisy hasn't fully recognized her past successes in managing tasks independently. Client's objective was not met because she is still grappling with her feelings of guilt and anxiety.",
-          "client_utterance": "I guess I can see that I’ve handled certain things well, like paying my rent. But my mind keeps drifting back to the mistakes I’ve made, and it’s hard to focus on the positives. I want to feel proud of my efforts, but guilt always seems to overshadow that.",
-          "therapist_utterance": "It's great that you recognize your ability to manage your rent; that’s a sign of your capability! Reflecting on your successes can be a powerful way to counter those feelings of guilt. What would it look like for you to celebrate those achievements instead of letting the mistakes overshadow them?",
-          "therapist_use": "Evidence-based questioning: helped Daisy recall her past successes to challenge negative thoughts."
+          "reason_for_ending": "KEEP - The therapist's objective was not fully met as Daisy hasn't yet fully articulated how seeking help aligns with her independence goals. The client objective was not met because Daisy hasn't yet connected reaching out for support to her self-sufficiency.",
+          "client_utterance": "I think I can try to remind myself that asking for help doesn’t mean I’m failing. I just need to work on feeling comfortable reaching out when I need it. It’s just so ingrained in me to do everything alone.",
+          "therapist_utterance": "That's a promising realization! Being able to reach out for help could actually strengthen your independence. How might you start to practice asking for help in small ways that feel manageable?",
+          "therapist_use": "Behavioral Reflection: to encourage Daisy to consider practical steps for reaching out for support."
         },
         {
-          "reason_for_ending": "MOVE - Therapist's objective was met as Daisy expressed increased clarity about her motivations and ambivalence. Client's objective was met as she acknowledged her barriers and showed willingness to explore further.",
-          "client_utterance": "I think I’m starting to see that I don’t have to be perfect to be independent. Acknowledging my challenges is part of the process, and maybe reaching out for support doesn’t mean I’m failing. It’s just a step toward feeling more in control.",
-          "therapist_utterance": "That’s a wonderful realization, Daisy! Understanding that independence doesn’t require perfection is a huge step forward. It sounds like you’re ready to explore what this support could look like for you and how you can embrace both independence and assistance.",
-          "therapist_use": "Affirmation: reinforced Daisy's insights and readiness to explore support options."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Daisy has started to articulate her need for balance between independence and seeking help. The client objective was met as Daisy has begun to explore her feelings about managing finances and her fears around asking for help. This dialogue has facilitated a deeper understanding of her situation.",
+          "client_utterance": "I think I could start by maybe talking to a friend about my financial concerns. It feels less intimidating than asking for help from family. This might be a good first step toward balancing what I can do on my own and where I might need support.",
+          "therapist_utterance": "That sounds like a fantastic first step, Daisy! Talking to a friend can be a safe way to ease into seeking support, and it shows that you’re taking proactive steps for your independence. I'm really proud of you for considering this approach.",
+          "therapist_use": "Encouragement: to reinforce Daisy's decision to take a proactive step toward balancing independence with support."
         }
       ]
     },
@@ -248,30 +267,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "To strengthen Daisy's commitment to managing her finances independently while addressing her anxieties about failure.",
+          "objective": "Strengthen Daisy's commitment to change and enhance her motivation while preparing to take actionable steps towards financial independence.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Daisy to articulate her reasons for wanting to manage finances independently.",
-                "Ask open-ended questions that prompt her to express her commitment to change.",
-                "Reflect back her statements of commitment to reinforce her motivation."
+                "Encourage Daisy to verbalize her commitment to becoming financially independent.",
+                "Ask open-ended questions like 'What does being financially independent mean to you?' to elicit her intrinsic motivations.",
+                "Reinforce positive statements she makes about her readiness to take action."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss Daisy's past successes in managing small tasks independently.",
-                "Assess her readiness to take specific actions regarding her finances.",
-                "Use scaling questions to help her identify her confidence level in managing financial tasks."
+                "Use scaling questions to assess her confidence on a scale of 1-10 regarding managing her finances.",
+                "Discuss what would help her move from her current confidence level to a higher one.",
+                "Acknowledge and validate her feelings of anxiety while emphasizing her potential for growth."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Daisy identify potential sources of support, such as friends or financial advisors.",
-                "Discuss the role of her parents in her decision-making and how she might seek guidance without feeling dependent.",
-                "Explore community resources that could assist her in financial management."
+                "Help Daisy identify people in her life who can support her in this transition.",
+                "Discuss potential resources such as financial literacy workshops or counseling.",
+                "Encourage her to think about how she can utilize these supports."
               ]
             }
           ]
@@ -279,79 +298,86 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Collaborate with Daisy to create a step-by-step action plan for managing her finances, including budgeting and understanding her insurance.",
-                "Ensure the plan includes small, manageable tasks that can be accomplished weekly.",
-                "Address any potential barriers she may foresee and brainstorm coping strategies."
+                "Begin with discussing Daisy's recent feelings of guilt and concern over her financial situation.",
+                "Guide her through identifying cognitive distortions in her thoughts, particularly 'should statements.'",
+                "Facilitate a discussion around gathering evidence to challenge her beliefs about failure in managing finances.",
+                "Assist her in reframing her automatic thoughts to develop a balanced perspective on financial management."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Teach Daisy problem-solving techniques to address financial discrepancies, such as breaking down the problem and identifying possible solutions.",
-                "Role-play scenarios where she might need to contact her insurance company or budget effectively.",
-                "Encourage her to reflect on past problem-solving successes to build confidence."
+                "Work collaboratively with Daisy to create a step-by-step plan for managing her finances.",
+                "Encourage her to include specific, achievable tasks, such as setting a budget or scheduling a financial consultation.",
+                "Discuss potential barriers she might face and develop coping strategies together, reinforcing that asking for help is acceptable."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To support Daisy in the Preparation phase, I first focused on strengthening her commitment to managing her finances independently, which aligns with her desire to assert her independence. By using MI strategies, I encouraged her to articulate her motivations and reflect on past successes, which helps build her self-efficacy. Additionally, I addressed her resistance by exploring her anxiety around failure and assessing her readiness to engage in specific tasks. Next, I introduced CBT interventions, particularly action planning, to create a structured and realistic approach for her to manage her finances, ensuring the tasks are not overwhelming. I also incorporated problem-solving skills training to equip her with practical tools to handle financial discrepancies, reinforcing her confidence to seek help when needed. This combination of MI and CBT allows me to collaboratively guide Daisy toward manageable changes while addressing her fears and reinforcing her commitment to independence.",
-        "progress_marker": "Daisy successfully identifies and completes at least one financial task from her action plan each week, reflecting on her feelings and confidence levels during therapy sessions."
+        "therapist_reasoning": "In this session, I will start by acknowledging Daisy's feelings of anxiety over her recent financial situation, which will help build rapport and validate her emotions. Using motivational interviewing strategies, I will strengthen her commitment to financial independence by encouraging her to articulate what this means to her personally. I’ll use scaling questions to assess her confidence and readiness, gently exploring areas where she feels she could improve. This will help her recognize her inherent motivation and strengths. Then, moving into cognitive-behavioral therapy, I will guide her through cognitive restructuring, helping her identify and challenge her cognitive distortions, particularly the 'should statements' that contribute to her feelings of guilt and helplessness. I will work with her to reframe these thoughts, promoting a more positive self-dialogue. Finally, we will collaboratively develop an action plan that includes achievable steps and coping strategies to navigate potential barriers, emphasizing that seeking support does not equate to failure.",
+        "progress_marker": "Daisy expresses a clear commitment to take specific action steps toward financial independence and identifies at least one source of support."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I want to find ways to manage my finances better and build my confidence in handling adult responsibilities.",
+        "client_objective": "I hope to gain clarity on my financial management and explore ways to handle challenges without feeling overwhelmed.",
         "client_state": {
-          "awareness": "I realize that my current financial situation is overwhelming and that I need to change my approach to managing it effectively.",
-          "motivation": "I feel a strong desire to improve my independence and prove to myself that I can handle adult responsibilities without depending on my parents.",
-          "openness": "I am willing to discuss my feelings of anxiety and fear with my therapist, and I'm open to exploring new strategies for financial management.",
-          "resistance": "Despite my motivation, I still feel anxious about whether I can truly change and manage my finances successfully, which makes me hesitant to fully commit to a plan."
+          "awareness": "I recognize that my financial situation is causing me stress and that I need to take responsibility for managing it more effectively.",
+          "motivation": "I'm feeling a strong desire to improve my financial independence and assert my capability as an adult.",
+          "openness": "I'm willing to discuss my fears and uncertainties with my therapist, even though I still feel hesitant about fully opening up.",
+          "resistance": "I still experience significant doubt about my ability to manage these challenges and fear that I might fail if I rely on others."
         },
-        "client_reasoning": "I've started to understand that my current financial struggles are not just a personal failure but a signal that I need to change my approach. I see that managing my finances independently is necessary for my growth and self-sufficiency, especially since I want to avoid feeling like a burden, like my brother. I hope that by discussing this with my therapist, I can uncover practical strategies to tackle my financial issues and build my confidence. However, I still fear that I might not be capable of making these changes or that I will revert to my old habits. Despite these doubts, I've noticed that opening up about my struggles is helping me feel slightly more prepared to take action and find solutions. I know this is a process, but I'm starting to believe that with the right support, I can make meaningful changes in my life."
+        "client_reasoning": "I’ve come to realize that my financial situation is more challenging than I anticipated, especially after getting that unexpected insurance claim. It feels like a wake-up call, making me understand that I can’t keep avoiding these responsibilities. I know I need to change and be more proactive about my finances. I really want to be independent and not rely on my parents like my brother does. However, I still feel anxious about whether I can handle everything on my own, and I worry that I might fail. Talking about it in therapy has helped me see that I can seek support without being a burden. I’m beginning to feel more motivated to take practical steps, but I still have doubts about my abilities and fear of failure that linger in my mind."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective to strengthen Daisy's commitment to financial independence was not fully met as she hasn't yet articulated her motivations clearly. The client's objective to find ways to manage finances better was not met as she still feels overwhelmed.",
-          "client_utterance": "I've been thinking about what you said regarding celebrating my achievements. I managed to budget my groceries for the month, but I still feel this nagging fear that I’ll mess up again. It’s like I’m proud of that small win, but then I quickly shift back to thinking about what went wrong in the past.",
-          "therapist_utterance": "That’s a significant step, and it’s great that you budgeted your groceries! It’s natural to feel proud but also have fears linger from past experiences. What do you think could help you focus more on your recent successes instead of the mistakes?",
-          "therapist_use": "Open-ended question: Encouraging exploration of her focus on successes to strengthen commitment."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not strengthen commitment language adequately. Client objective not met: Client has not yet identified specific action steps.",
+          "client_utterance": "I've been thinking more about what independence means to me, and I realize it’s about feeling secure and confident handling my finances. But I still feel like I’m struggling to believe I can achieve that.",
+          "therapist_utterance": "That’s a significant insight, Daisy. Recognizing that independence is tied to security and confidence is a big step. What does feeling secure in your finances look like for you, and how do you envision getting there?",
+          "therapist_use": "Open-ended question: encouraged exploration of financial independence meaning."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to explore Daisy's confidence and readiness was not fully met as she hasn’t yet identified specific actions to take. The client's objective to build confidence in handling adult responsibilities was not met as she still feels overwhelmed by past failures.",
-          "client_utterance": "I guess I could start by tracking my expenses more closely. But I worry that I might slip back into old habits and not stick to it. It feels like every time I try to change something, I get hit with this anxiety about failing.",
-          "therapist_utterance": "Tracking your expenses sounds like a solid first step, and it’s understandable to feel anxious about slipping back. What if we broke that down into smaller, more manageable tasks? How could you set yourself up for success with this new habit?",
-          "therapist_use": "Action planning: Collaborating on manageable tasks to help Daisy feel more prepared."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not explore confidence and readiness sufficiently. Client objective not met: Client has not yet articulated any specific support systems.",
+          "client_utterance": "I think it would mean budgeting effectively and knowing I can handle emergencies without panicking. But I still worry about making mistakes and not being able to manage everything.",
+          "therapist_utterance": "It's completely normal to worry about mistakes, especially when it comes to finances. On a scale of 1 to 10, how confident do you feel about managing your budget right now? And what do you think would help you feel more confident?",
+          "therapist_use": "Scaling question: assessed confidence regarding financial management."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to identify supports and resources was not fully met as Daisy hasn't mentioned any potential support systems. The client's objective to build confidence was not met as she still struggles with anxiety about her capabilities.",
-          "client_utterance": "I think I could ask a friend for help with budgeting, but I worry they’ll think I’m not capable. It’s hard to shake off the feeling that needing help means I’m failing. I want to be independent but I also want to feel supported.",
-          "therapist_utterance": "It’s great that you’re considering asking a friend for help; that shows your willingness to reach out. Remember, seeking support doesn’t diminish your independence; it can actually enhance it. How do you think you could approach your friend about this?",
-          "therapist_use": "Strengthening Commitment Language: Encouraging her to articulate her reasons for seeking support."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not identify supports and resources thoroughly. Client objective not met: Client has not yet mentioned any support systems.",
+          "client_utterance": "I’d say I’m at a 5 right now. I know I can do some things well, but I feel overwhelmed by everything else, like unexpected expenses or understanding insurance.",
+          "therapist_utterance": "That’s a good starting point, and it's okay to feel overwhelmed. What specific types of support do you think could help you move from that 5 to feeling more confident about your finances?",
+          "therapist_use": "Exploring support: encouraged identification of potential support systems."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to reinforce Daisy's motivations was not fully met as she hasn't expressed a clear commitment to asking for help. The client's objective to manage her finances better was not met as she still feels hesitant about reaching out.",
-          "client_utterance": "I don’t know how to bring it up without feeling embarrassed. I want to be seen as someone who has their life together. But at the same time, I know I can’t do this alone forever.",
-          "therapist_utterance": "It’s understandable to feel embarrassed, but remember that we all need help sometimes. Your desire to be independent is strong, but acknowledging that you can’t do it all alone is a sign of strength. What would it mean for you to share that struggle with your friend?",
-          "therapist_use": "Double-sided reflection: Validating her feelings while encouraging openness to support."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not enhance commitment language enough. Client objective not met: Client has not mentioned any specific action steps yet.",
+          "client_utterance": "I think talking to a friend about budgeting could help. I just need to remind myself that seeking help doesn’t mean I’m failing.",
+          "therapist_utterance": "That sounds like a positive step, Daisy! Talking to a friend can provide a different perspective and might ease some of your anxiety. What other actions do you think you could take to support your financial goals?",
+          "therapist_use": "Encouragement of action planning: supported exploration of specific action steps."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to explore confidence and readiness was not fully met as Daisy hasn't expressed readiness to take action. The client's objective to build her confidence was not met as she still feels stuck in her fears.",
-          "client_utterance": "I think it would feel relieving to talk about it, but the fear of judgment is still there. I don’t want them to think I’m not capable of managing my own life. I guess I just really need to find a way to balance feelings of independence and needing support.",
-          "therapist_utterance": "That’s a very honest reflection, and finding that balance is key. It’s okay to feel both independent and in need of support – they can coexist. How can we create a plan that allows you to reach out while still feeling empowered in your independence?",
-          "therapist_use": "Exploring Confidence and Readiness: Discussing a balanced approach between independence and support."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not sufficiently reinforce positive statements. Client objective not met: Client has not clearly articulated how they will implement their action steps.",
+          "client_utterance": "I guess I could also look into a financial literacy workshop. I want to feel more prepared for these responsibilities.",
+          "therapist_utterance": "That's a fantastic idea! Seeking out resources like workshops shows your commitment to learning and growth. How do you plan to find a workshop, and what do you hope to gain from it?",
+          "therapist_use": "Reinforcement of commitment: validated client’s initiative towards learning."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to reinforce commitment was not fully met as Daisy hasn't articulated a clear plan for reaching out. The client's objective to feel capable was not met as she continues to grapple with her self-image.",
-          "client_utterance": "Maybe I could write down what I want to say to my friend before I talk to them. That way, I can prepare myself and feel more confident. But I still worry that I’ll just end up backing out.",
-          "therapist_utterance": "Writing down your thoughts sounds like a great approach to prepare yourself. It can help you feel more in control of the conversation. What steps could you take to ensure you follow through with reaching out?",
-          "therapist_use": "Action Planning: Collaborating on strategies to help her feel prepared and confident."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not fully discuss barriers and coping strategies. Client objective not met: Client has not yet expressed a clear action plan.",
+          "client_utterance": "I think I could start by researching local workshops and maybe ask my friend if they know any good ones. I just hope I can stay motivated.",
+          "therapist_utterance": "That’s a great start! Researching options and reaching out to your friend can help keep you accountable. What do you think might get in the way of staying motivated, and how can you prepare for that?",
+          "therapist_use": "Identifying barriers: encouraged discussion of potential challenges in motivation."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective to strengthen Daisy's commitment was met as she has articulated a clear intention to reach out for support. The client's objective to manage finances better was met as she is actively planning to take steps towards that.",
-          "client_utterance": "I feel like I’m starting to see a path forward. If I write down my thoughts and set a time to talk to my friend, it could really help me. I realize I don’t have to do this all alone, and that’s a relief.",
-          "therapist_utterance": "That’s a fantastic realization, Daisy! It sounds like you’re ready to take those steps towards managing your finances with support in place. I’m proud of you for recognizing that seeking help is a part of your independence journey.",
-          "therapist_use": "Strengthening Commitment Language: Reinforcing her belief in her ability to manage finances while seeking support."
+          "reason_for_ending": "KEEP - Therapist objective not met: Did not adequately reinforce growth and learning. Client objective not met: Client has not yet articulated how they will overcome barriers.",
+          "client_utterance": "I guess I worry that if I miss a workshop or don’t follow through, it’ll mean I’m not capable. But maybe I can remind myself that it’s all part of the learning process.",
+          "therapist_utterance": "Absolutely, reminding yourself that learning includes setbacks is key. Every step you take, even if it’s small, is a part of your growth. How might you plan to keep that perspective if you face challenges?",
+          "therapist_use": "Cognitive reframing: facilitated discussion on viewing challenges as learning opportunities."
+        },
+        {
+          "reason_for_ending": "MOVE - Therapist objective met: Client expressed commitment to action steps and identified support. Client objective met: Client has articulated a clear action plan and is open to seeking support.",
+          "client_utterance": "I think I’m ready to commit to finding those workshops and talking to my friend. I really want to take charge of my finances and feel more independent.",
+          "therapist_utterance": "That’s a wonderful commitment, Daisy! Taking these steps shows your dedication to your financial independence. I’m excited to see how you grow through this process!",
+          "therapist_use": "Strengthening commitment language: reinforced client’s readiness to take action."
         }
       ]
     }

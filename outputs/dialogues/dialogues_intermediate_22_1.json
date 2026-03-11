@@ -12,149 +12,38 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Wendy's awareness of her feelings and thoughts regarding her relationship with Ivan, while building trust and rapport.",
+          "objective": "Increase Wendy's awareness of her thoughts and feelings regarding her relationship with Ivan, while building rapport and reducing defensiveness.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Wendy's concerns without interrupting.",
-                "Paraphrase her feelings and thoughts to show understanding, e.g., 'It sounds like you feel really hurt and betrayed by Ivan's actions.'",
-                "Validate her emotions to reduce defensiveness and encourage her to express more."
+                "Listen actively to Wendy's concerns about Ivan and his family.",
+                "Paraphrase her feelings to show understanding, e.g., 'It sounds like you're feeling really hurt and angry about what happened with Ivan.'",
+                "Encourage her to express her thoughts without interruption."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Wendy's feelings of anger and frustration regarding the situation.",
-                "Use empathetic statements like, 'It makes sense that you would feel suspicious and hurt after what happened.'",
-                "Reinforce that her feelings are valid as a way to deepen trust."
+                "Acknowledge the difficulty of her situation, validating her feelings of betrayal and anger.",
+                "Use statements like, 'I can see why you'd feel distrustful after what you've experienced.'",
+                "Reassure her that it's okay to have mixed feelings about her relationship."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the gap between Wendy's current feelings and her values regarding trust and relationships.",
-                "Ask open-ended questions like, 'What does trust mean to you in a relationship?' to facilitate reflection.",
-                "Encourage her to consider how her current experience aligns or misaligns with her values."
-              ]
-            }
-          ]
-        },
-        "cbt_plan": {
-          "interventions": [
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Encourage Wendy to examine her automatic thoughts about Ivan and the relationship.",
-                "Ask her questions like, 'What evidence do you have that he is hiding something?' to promote critical thinking.",
-                "Help her identify any cognitive distortions present in her thought patterns."
+                "Gently guide Wendy to reflect on the discrepancies between her current feelings and her values surrounding trust and love.",
+                "Ask open-ended questions like, 'How do you feel about trust in relationships, and how does that align with what's happening now?'",
+                "Encourage her to articulate her own perspective on what she values in relationships."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Guide Wendy to evaluate the reality of her beliefs about being unlovable or trapped.",
-                "Ask her to consider past experiences where she felt loved or supported.",
-                "Encourage her to challenge the absoluteness of her current beliefs."
-              ]
-            },
-            {
-              "technique_name": "Alternative Perspective",
-              "instructions_for_therapist": [
-                "Invite Wendy to explore different perspectives on Ivan's actions.",
-                "Ask questions like, 'What might be another explanation for why Ivan booked the trip without telling you?'",
-                "Encourage her to think about his intentions rather than focusing solely on her feelings of betrayal."
-              ]
-            }
-          ]
-        },
-        "therapist_reasoning": "In this session, I will focus on engaging Wendy through reflective listening to ensure she feels heard and understood, which is critical given her resistance and emotional state. By expressing empathy, I aim to validate her feelings of anger and betrayal, which may help reduce her defensive stance. Developing discrepancy will be particularly important as it encourages her to explore how her current experiences conflict with her values around trust, fostering self-reflection without pressuring her to change behavior. In conjunction, I will utilize evidence-based questioning to help her critically assess her automatic thoughts, aiming to address her feelings of helplessness and victimhood. Additionally, reality testing will provide her with a structured way to challenge her beliefs about being unlovable, while the alternative perspective technique will encourage her to reconsider the motivations behind Ivan's actions, moving her toward a more nuanced understanding of the situation. This multi-faceted approach aims to create a safe space for Wendy to explore her thoughts and feelings without feeling pushed to change immediately.",
-        "progress_marker": "Wendy begins to articulate her feelings and thoughts more openly, demonstrating increased self-awareness and a willingness to explore her beliefs about trust and relationships."
-      },
-      "client_plan": {
-        "phase_of_change": "pre-contemplation",
-        "client_objective": "I just want to understand why Ivan keeps doing this and how to deal with it.",
-        "client_state": {
-          "awareness": "I know there's a problem with Ivan, but I don't see how talking about it will help.",
-          "motivation": "I don't really want to change; I feel stuck and helpless.",
-          "openness": "I'm not comfortable sharing my feelings; it feels pointless.",
-          "resistance": "I'm very defensive about discussing Ivan's actions and my feelings."
-        },
-        "client_reasoning": "I feel like I'm in this never-ending loop with Ivan and his betrayals. Every time I think we're moving forward, he does something like booking a trip without telling me, and it brings back all the pain from the past. I can't seem to shake this feeling of being a victim, and I keep thinking that no matter how much I try to communicate, nothing changes. Talking about my feelings feels pointless; it's just going to lead to more arguments. I want to believe that things can get better, but deep down, I think I'm just going to get hurt again. It's hard to open up when I feel so angry and betrayed. Therapy feels uncomfortable because I don't want to revisit those feelings, but I also know I can't keep living like this. I wish I could just figure out how to protect myself without having to expose myself to more pain.",
-        "progress_marker": "The client recognizes the emotional pain but remains skeptical about discussing it."
-      },
-      "dialogue": [
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met as Wendy did not fully articulate her feelings. The client objective was not met because Wendy still feels stuck and does not see how discussing her feelings will help.",
-          "client_utterance": "I just don’t understand why he keeps hurting me. It’s like every time I think we’re okay, he does something that brings all the pain back. I feel like I’m just going in circles, and talking about it seems pointless.",
-          "therapist_utterance": "It sounds like you feel really hurt and betrayed by Ivan's actions, and it's understandable to feel stuck in this cycle. Your frustration is valid, and it’s okay to question whether talking about it will lead to any change. What do you think would help you feel more in control in this situation?",
-          "therapist_use": "Reflective Listening: used to validate Wendy's feelings and encourage her to express more."
-        },
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Wendy did not engage with the idea of feeling more in control. The client objective was not met since Wendy still feels that discussing her feelings might not lead to any resolution.",
-          "client_utterance": "I don’t know. I guess I just want to protect myself from getting hurt again, but it feels impossible. I keep thinking if I don’t say anything, maybe he’ll change on his own.",
-          "therapist_utterance": "It makes sense that you’d want to protect yourself after feeling hurt. Not saying anything might seem like a way to avoid more pain, but it can also leave you feeling powerless. How do you see your current approach impacting your feelings of trust in the relationship?",
-          "therapist_use": "Expressing Empathy: used to acknowledge Wendy's desire for self-protection and encourage self-reflection."
-        },
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met as Wendy did not reflect on her approach to trust in the relationship. The client objective was not met because Wendy remains uncertain about how to deal with her feelings.",
-          "client_utterance": "I think it just makes me feel more trapped. I want to trust him, but then he does things that make me doubt everything. It’s like I’m stuck between wanting to believe him and knowing I’ve been hurt before.",
-          "therapist_utterance": "It sounds like there’s a real conflict between your desire to trust and the hurt you’ve experienced. Trust is a fundamental part of relationships, and it must feel very unsettling when that’s put into question. Can you share what trust means to you and how Ivan's actions are affecting that definition?",
-          "therapist_use": "Developing Discrepancy: used to explore the gap between Wendy's feelings and her values regarding trust."
-        },
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Wendy did not fully engage with the concept of trust. The client objective was not met as Wendy continues to feel trapped between her feelings and her desire for trust.",
-          "client_utterance": "Honestly, I don’t know what trust means anymore. I want to believe that he cares, but his actions feel like they contradict that. It’s just really confusing, and I’m tired of feeling this way.",
-          "therapist_utterance": "It’s completely understandable to feel confused when actions don’t match intentions. Your feelings of exhaustion are valid, and it’s important to acknowledge how heavy this burden is for you. Have you thought about what evidence you have regarding Ivan’s intentions and how that aligns with your feelings?",
-          "therapist_use": "Evidence-Based Questioning: used to encourage Wendy to assess her thoughts critically."
-        },
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met because Wendy did not critically assess her thoughts about Ivan. The client objective was not met since Wendy still feels overwhelmed by her feelings.",
-          "client_utterance": "I keep thinking he must be hiding something, but I don’t have any proof. It’s just this gut feeling that won’t go away, and it makes me feel so helpless. But then again, I don’t want to jump to conclusions either.",
-          "therapist_utterance": "It’s good that you’re acknowledging that feeling, and questioning those gut feelings is an important step. It can help to look at what past experiences might be influencing your current thoughts. What are some moments where you felt loved or supported, and how do those memories contrast with what you’re feeling now?",
-          "therapist_use": "Reality Testing: used to guide Wendy in evaluating her beliefs about her feelings of helplessness."
-        },
-        {
-          "reason_for_ending": "KEEP: The therapist objective was not met as Wendy did not reflect on her past experiences of feeling loved. The client objective was not met because Wendy still feels trapped in her negative feelings.",
-          "client_utterance": "I remember times where I felt loved, but they feel so distant now. It’s like those moments get overshadowed by everything that’s happened recently. I wish I could just hold onto those memories and let go of the pain.",
-          "therapist_utterance": "It’s completely normal to feel that way, especially when past pain overshadows positive memories. Holding onto those moments can be a source of strength, and it might help to focus on what made those experiences special. What do you think it would take for you to start feeling those positive feelings again in your relationship with Ivan?",
-          "therapist_use": "Alternative Perspective: used to invite Wendy to explore different perspectives on her relationship."
-        },
-        {
-          "reason_for_ending": "MOVE: The therapist objective was met as Wendy began to articulate her feelings and reflect on positive experiences. The client objective was met as Wendy expressed a desire to feel positive feelings again in her relationship.",
-          "client_utterance": "I think if I could just communicate openly with him about how I feel without fearing his reaction, it might help. I want to believe that we can work through this, but I need to feel safe expressing my feelings.",
-          "therapist_utterance": "That sounds like a significant realization, Wendy. Feeling safe to express your emotions is crucial for rebuilding trust. It’s encouraging that you’re considering ways to communicate openly, as that can be a big step forward.",
-          "therapist_use": "Reflective Listening: used to validate Wendy's desire for open communication and support her progress."
-        }
-      ]
-    },
-    {
-      "phase": "contemplation",
-      "therapist_plan": {
-        "phase_of_therapy": "contemplation",
-        "motivational_interviewing_plan": {
-          "objective": "Explore Wendy's ambivalence regarding her relationship with Ivan and enhance her motivation to consider change.",
-          "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Engage Wendy in a discussion about her feelings towards Ivan and the recent betrayals.",
-                "Encourage her to express both her desire for the relationship and her concerns about trust issues.",
-                "Normalize her feelings of ambivalence, reinforcing that it's common to feel conflicted."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance Discussion",
-              "instructions_for_therapist": [
-                "Ask Wendy to articulate the pros and cons of remaining in her current situation versus considering change.",
-                "Facilitate a conversation that helps her identify how her values align or conflict with her current behaviors."
-              ]
-            },
-            {
-              "strategy_name": "Eliciting Change Talk",
-              "instructions_for_therapist": [
-                "Prompt Wendy to reflect on what a healthier relationship might look like and what changes she envisions.",
-                "Encourage her to articulate what she values in a relationship and how current behaviors may not align with these values."
+                "Encourage Wendy to explore her automatic thoughts regarding Ivan's actions.",
+                "Facilitate a discussion on how these thoughts affect her emotions and behaviors.",
+                "Help her recognize patterns without pushing for immediate change."
               ]
             }
           ]
@@ -164,83 +53,177 @@
             {
               "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Guide Wendy in reframing her automatic thoughts about Ivan's behavior, focusing on evidence for and against her conclusions.",
-                "Help her recognize that while there may be valid concerns, not all situations will lead to betrayal."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Collaboratively fill out a pros and cons list regarding her current coping strategies, such as checking Ivan's phone.",
-                "Encourage her to consider alternative strategies that could be less distressing and explore their potential benefits."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Wendy to identify specific instances where her fears of betrayal were not realized, reinforcing her ability to trust.",
-                "Challenge her beliefs about being trapped by guiding her to find examples of choices she has made that reflect her agency."
+                "Introduce the concept of decatastrophizing by discussing the recent incident with Ivan.",
+                "Help Wendy identify her catastrophic thoughts related to this situation.",
+                "Guide her through examining the evidence for and against these thoughts.",
+                "Encourage her to consider alternative outcomes and reframe her thoughts into more balanced perspectives."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this phase, Wendy is experiencing ambivalence regarding her relationship with Ivan, and she feels angry and conflicted. The first step is to explore this ambivalence using MI strategies. I will encourage her to express both her desire to maintain the relationship and her concerns about trust breaches, normalizing her feelings. By employing a decisional balance discussion, we can identify the pros and cons of her current situation, helping her clarify her values and how they align with her behaviors. Meanwhile, I will introduce CBT techniques such as decatastrophizing to help her reframe her automatic thoughts about betrayal, and conduct a pros and cons analysis of her current coping strategies. This will provide her with insight into the effectiveness of her behaviors. Lastly, I will utilize evidence-based questioning to challenge her beliefs about helplessness and being trapped, promoting her self-efficacy. This collaborative approach will help Wendy reflect on her situation without feeling overwhelmed or pressured, while also gently guiding her toward recognizing the possibility of change.",
-        "progress_marker": "Wendy articulates both her desires and fears regarding her relationship, begins to identify misaligned beliefs, and shows signs of increased self-efficacy."
+        "therapist_reasoning": "To support Wendy in the pre-contemplation phase, I will first utilize Motivational Interviewing (MI) strategies to build rapport and reduce her defensiveness. Reflective listening will allow her to feel heard and understood, while expressing empathy will validate her feelings of betrayal. Additionally, developing discrepancy will help her recognize the contrast between her values around trust and her current experiences without pushing for change, fostering curiosity instead. Raising awareness of her automatic thoughts will create a space for exploration without pressure. I will also incorporate CBT techniques, specifically decatastrophizing, to help Wendy identify catastrophic thoughts related to Ivan’s actions. By evaluating the evidence for these thoughts, we can work together to challenge her predictions and reframe them into more realistic beliefs. This approach respects her current resistance, allowing her to engage in self-reflection at her own pace, which is essential given her anger and feelings of helplessness.",
+        "progress_marker": "Wendy articulates her feelings of anger and betrayal more clearly and begins to explore her thoughts about trust without resistance."
       },
       "client_plan": {
-        "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity about my feelings towards Ivan and our relationship.",
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I want to express my frustrations without feeling judged or pressured to change.",
         "client_state": {
-          "awareness": "I am starting to recognize that my feelings of anger and betrayal are connected to past experiences and my core beliefs about being unlovable.",
-          "motivation": "I want to change, but I feel scared about what that means and whether it will actually help me feel better.",
-          "openness": "I am willing to share my thoughts and feelings, but I still find it hard to believe that talking will lead to any real change.",
-          "resistance": "I feel angry and doubtful about the process; part of me thinks it won’t make a difference."
+          "awareness": "I know something is wrong, but I don't really want to dig into it.",
+          "motivation": "I don't believe change is possible; it feels overwhelming.",
+          "openness": "I'm not very comfortable sharing my true feelings; I tend to avoid the core issues.",
+          "resistance": "I feel very defensive about discussing Ivan and my feelings; it feels pointless."
         },
-        "client_reasoning": "I’ve been thinking a lot about my situation with Ivan and how his recent actions, like booking a trip without telling me, trigger memories of past betrayals. I know that I feel angry and hurt, and I can see that these feelings are linked to my belief that I am unlovable and that I will always be abandoned. It's frustrating because I want to change and feel better, but I’m scared that no matter what I do, I’ll still end up feeling the same way. Therapy feels like a safe space to explore these feelings, but I often wonder if talking about them will really lead to any change. I feel conflicted; part of me wants to confront these issues, but another part doesn’t see the point in revisiting past hurts. I’m caught in this cycle of wanting to trust Ivan but also feeling like I can never let my guard down again.",
-        "progress_marker": "Client begins to articulate feelings of anger and betrayal, linking them to past experiences and recognizing the desire for change despite fears."
+        "client_reasoning": "I keep thinking about how Ivan booked that trip without telling me, and it just makes me feel trapped and helpless. I know I should probably talk about my feelings, but honestly, it feels pointless. Every time I try to share what's bothering me, it just leads to fights or makes me feel even worse. I can't shake the belief that my partner should never betray me, and yet here I am, feeling like a victim. It’s hard to believe that anything could change. I feel overwhelmed by my emotions—anger, disappointment, suspicion—and it’s exhausting. Therapy feels uncomfortable because I’m scared of what might come out if I really dig deep. Part of me wants to be open, but I’m holding back because I don’t know if it will make a difference. I just want to vent without feeling like I have to change anything right now."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective of exploring ambivalence was not fully met as Wendy is still grappling with her desire for trust and her fears of betrayal. The client's objective of gaining clarity about her feelings toward Ivan was also not fully achieved, as she remains conflicted.",
-          "client_utterance": "I keep thinking about how I want to trust Ivan, but every time he does something that feels like a betrayal, it just brings back all those past hurts. It's like I'm caught in this loop of wanting to believe in him but being too scared to let myself. I know I need to confront these feelings, but I feel stuck.",
-          "therapist_utterance": "It’s understandable to feel caught in that loop, Wendy. Trust is so vital in a relationship, yet it can feel so fragile, especially after being hurt. What do you think would happen if you let yourself explore those feelings of wanting to trust without immediately pushing them away?",
-          "therapist_use": "Exploring ambivalence: encouraged Wendy to articulate her conflicting feelings about trust and her relationship."
+          "reason_for_ending": "KEEP - Therapist objective not met: Wendy hasn’t expressed her feelings in depth yet. Client objective not met: Wendy is still holding back and feels judged.",
+          "client_utterance": "I just feel like everything Ivan does just makes me angrier. Like, he booked that trip without even telling me. It’s like he’s not even considering my feelings, and it just adds to this feeling of betrayal.",
+          "therapist_utterance": "It sounds like you're feeling really hurt and angry about what happened with Ivan. That must be incredibly frustrating, especially when you feel ignored in such important decisions. Can you tell me more about how that makes you feel?",
+          "therapist_use": "Reflective Listening: used to show understanding and encourage deeper expression of feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of facilitating a decisional balance discussion was not met, as Wendy hasn't articulated her pros and cons yet. The client's objective to gain clarity about her feelings is still pending, as she is expressing confusion.",
-          "client_utterance": "I guess if I think about it, trusting him again feels risky, but at the same time, I really want to believe that he can change. The thought of leaving feels overwhelming, too, because I’ve invested so much in this relationship. But then I wonder if staying is just going to lead to more heartbreak.",
-          "therapist_utterance": "You’re weighing some heavy thoughts, and it’s okay to feel torn. Let’s talk about what staying in this relationship means for you versus the idea of considering a change. What are some positive aspects of being with Ivan that you value, and what are some concerns that come to mind?",
-          "therapist_use": "Decisional balance discussion: aimed to identify the pros and cons of Wendy’s current situation to foster clarity."
+          "reason_for_ending": "KEEP - Therapist objective not met: Wendy hasn’t fully explored her feelings about trust yet. Client objective not met: Wendy is still defensive and hesitant to delve deeper.",
+          "client_utterance": "I just don’t get it. I thought we had an understanding about being open with each other. Now I’m left feeling like I can’t trust him, and that scares me because I don’t want to feel this way.",
+          "therapist_utterance": "I can see why you'd feel distrustful after what you've experienced. It’s completely understandable to feel scared about trust, especially when it feels violated. What do you think trust means to you in a relationship?",
+          "therapist_use": "Expressing Empathy: used to validate her feelings and encourage exploration of her values."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of eliciting change talk was not fully met since Wendy hasn't begun to articulate possible changes. The client's objective to gain clarity about her feelings is still not achieved, as she is still feeling conflicted.",
-          "client_utterance": "I think some parts of me want to believe that we can work through this, but then I have moments where I feel like I’m just setting myself up for more pain. I know I want my feelings to matter to him, but I also don’t want to be hurt again. It’s frustrating because I feel like I should be able to just let go of this fear.",
-          "therapist_utterance": "I hear you, and it’s completely normal to feel that way. Let’s explore what working through this might look like for you. If you could envision a healthier relationship with Ivan, what would that involve, and how could you communicate your feelings to him?",
-          "therapist_use": "Eliciting change talk: prompted Wendy to reflect on her vision of a healthier relationship and how she might express her feelings."
+          "reason_for_ending": "KEEP - Therapist objective not met: Wendy hasn't articulated her values regarding trust yet. Client objective not met: Wendy is still avoiding the core issues.",
+          "client_utterance": "I guess trust means being honest and open, but I feel like Ivan isn’t doing that. It’s like I’m always waiting for the next betrayal, and that’s exhausting. I don’t want to keep feeling this way, but I don’t know how to change it.",
+          "therapist_utterance": "It sounds like you're caught in a cycle of waiting for disappointment, which is deeply exhausting. You value honesty and openness, yet your current situation feels at odds with that. How do you see this affecting your feelings about your relationship with Ivan?",
+          "therapist_use": "Developing Discrepancy: used to guide her to reflect on her values versus her current feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of helping Wendy identify misaligned beliefs was not fully achieved, as she hasn't begun to challenge her fears. The client's objective remains unmet since she continues to feel conflicted about her feelings.",
-          "client_utterance": "I really want to talk to him about how I feel, but I keep worrying that he won't understand or that he’ll react badly. I think my past experiences are making it harder for me to believe that this time could be different. It’s frustrating because I know I need to address it, but I’m scared.",
-          "therapist_utterance": "It’s valid to feel scared when past experiences shape your expectations. What if we looked at some specific times when you felt heard or understood in the past? How did those moments make you feel, and can they inform how you approach this conversation with Ivan?",
-          "therapist_use": "Evidence-based questioning: encouraged Wendy to recall positive experiences to build confidence in her ability to communicate."
+          "reason_for_ending": "KEEP - Therapist objective not met: Wendy hasn’t examined her automatic thoughts about Ivan's actions yet. Client objective not met: Wendy feels overwhelmed and isn’t ready to share deeper feelings.",
+          "client_utterance": "It makes me feel like I’m stuck in this never-ending loop of anger and sadness. I can’t shake the thought that if he really cared, he wouldn’t do this. But then I think, maybe I’m just being too dramatic.",
+          "therapist_utterance": "It seems like you’re dealing with a lot of conflicting emotions right now. You wonder if your feelings are too dramatic, but it's valid to feel hurt when trust is broken. Let’s explore these thoughts a bit more—what evidence do you have that supports or challenges these feelings?",
+          "therapist_use": "Raising Awareness: used to encourage her to explore her automatic thoughts and their impact."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of reinforcing Wendy's self-efficacy was not fully met, as she still feels doubt about initiating a conversation. The client's objective of gaining clarity about her feelings remains unmet because she still expresses fear and uncertainty.",
-          "client_utterance": "I remember feeling understood before, but it feels so distant now. I don’t want to lose the potential for something good, but what if I just end up hurt again? I guess I just don’t know if it’s worth the risk.",
-          "therapist_utterance": "It’s understandable to have those fears, and recognizing them is a significant step. Let's brainstorm some ways you could express yourself to Ivan that feel safe for you. What small steps could you take to open that dialogue while also protecting your feelings?",
-          "therapist_use": "Pros and cons analysis: aimed to collaboratively explore safe communication strategies to empower Wendy."
+          "reason_for_ending": "KEEP - Therapist objective not met: Wendy hasn’t identified any catastrophic thoughts yet. Client objective not met: Wendy is still holding on to feelings of being overwhelmed.",
+          "client_utterance": "I just keep thinking that if I give him another chance, I’ll just get hurt again. What if this is just how it’s going to be? It feels like I’m just setting myself up for more pain.",
+          "therapist_utterance": "Those thoughts sound really heavy, and it’s understandable to feel trapped in that mindset. It’s important to recognize those catastrophic predictions about the future. What if we looked at some evidence for and against those beliefs?",
+          "therapist_use": "Decatastrophizing: used to help Wendy identify and challenge her catastrophic thoughts about her relationship."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of helping Wendy articulate her desires was not fully achieved, as she hasn't clearly defined what she wants in this conversation with Ivan. The client's objective to gain clarity about her feelings is still pending, as she remains uncertain.",
-          "client_utterance": "I think if I could just find a way to talk without feeling so vulnerable, it might help. I want to be honest about how I feel, but every time I think about it, I get scared that it will backfire. I don’t want to lose him, but I also don’t want to stay in this pain.",
-          "therapist_utterance": "It’s a difficult balance to strike, wanting to be honest while fearing the outcome. What if we explored what being honest means to you? How can you communicate your feelings in a way that fosters understanding rather than conflict?",
-          "therapist_use": "Exploring ambivalence: encouraged Wendy to consider the meaning of honesty in communication and its potential outcomes."
+          "reason_for_ending": "KEEP - Therapist objective not met: Wendy hasn’t fully engaged with alternative outcomes yet. Client objective not met: Wendy feels too overwhelmed to explore alternative perspectives.",
+          "client_utterance": "I guess I just don’t see how it could be different. I feel like I’m always going to be hurt. It’s hard to imagine things getting better when I’m in this state.",
+          "therapist_utterance": "It’s tough to envision a different future when the present feels so painful. That sense of hopelessness can really weigh you down. What if we tried to brainstorm some possibilities for how things could change, even just a little?",
+          "therapist_use": "Raising Awareness: used to encourage her to consider alternative outcomes and reframe her thoughts."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective of exploring Wendy's ambivalence was met as she articulated her feelings and began to define her desires for communication. The client's objective was met as she has gained some clarity about her feelings and is considering how to approach the conversation with Ivan. This dialogue has helped her reflect on her values and fears regarding the relationship.",
-          "client_utterance": "I think I’m starting to see that I need to be honest about my feelings if I want things to change. It’s still scary, but I know that if I keep holding back, nothing will improve. Maybe I can find a way to express my feelings while still protecting myself.",
-          "therapist_utterance": "That’s a powerful realization, Wendy. Acknowledging your needs while also considering your emotional safety is an important step. It sounds like you’re beginning to see the potential for change, and that’s really encouraging.",
-          "therapist_use": "Eliciting change talk: validated Wendy's growing clarity and readiness to express her feelings in pursuit of change."
+          "reason_for_ending": "MOVE - Therapist objective met: Wendy has started to articulate her feelings and thoughts more clearly. Client objective met: Wendy expressed her frustrations without feeling judged.",
+          "client_utterance": "You know, I think I’m starting to see that I can’t keep holding onto these thoughts. Maybe it is possible to talk about it without it leading to fights. I just want to feel like I have control over my own feelings again.",
+          "therapist_utterance": "That’s a significant realization, Wendy! It sounds like you’re beginning to see the potential for change, which is a huge step forward. You deserve to feel in control of your own feelings, and discussing this can lead to that.",
+          "therapist_use": "Reflective Listening: used to validate her progress and encourage her continued expression."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Wendy's ambivalence regarding her relationship with Ivan and strengthen her motivation to address her feelings.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Facilitate a discussion to help Wendy articulate both her desire to maintain the relationship and her feelings of betrayal.",
+                "Encourage her to express the pros and cons of staying in the relationship versus the potential for change.",
+                "Use reflective listening to validate her feelings while gently guiding her toward considering the consequences of her current coping strategies."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Ask open-ended questions about what a healthy relationship would look like for her.",
+                "Explore her values around trust and communication, emphasizing the importance of these aspects.",
+                "Encourage her to express any thoughts she has about how she might want to change her interactions with Ivan."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Guide Wendy in weighing the current situation against her values and the desired change.",
+                "Help her visualize the impact of her choices on her emotional well-being and relationships.",
+                "Encourage her to consider how her behaviors align with her values, fostering insight into her ambivalence."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Decatastrophizing",
+              "instructions_for_therapist": [
+                "Introduce the concept and explain its relevance to Wendy's feelings of distrust.",
+                "Work with Wendy to identify her catastrophic thoughts regarding Ivan's actions, and help her visualize them.",
+                "Guide her in examining the evidence for and against her catastrophic predictions, fostering a realistic perspective.",
+                "Encourage her to consider alternative outcomes and reframe her thoughts into balanced statements.",
+                "Develop a gentle action plan for approaching Ivan, emphasizing communication and expression of feelings."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In this session, the therapist first focuses on exploring Wendy's ambivalence regarding her relationship with Ivan through Motivational Interviewing (MI) strategies. By facilitating a discussion about her conflicting feelings, the therapist aims to help Wendy articulate her desires and fears, thereby increasing her motivation to address these issues. The therapist employs reflective listening to validate her experience while guiding her to explore the pros and cons of her current behaviors. By eliciting change talk, the therapist encourages Wendy to envision a healthier relationship and articulate the values that matter to her, ultimately fostering insight. The decisional balance discussions further aid in highlighting the discrepancies between her values and behaviors, reinforcing the need for change. Concurrently, the therapist introduces CBT techniques, specifically decatastrophizing, to challenge Wendy's negative predictions about Ivan's behavior. The therapist guides her through identifying and reframing catastrophic thoughts, promoting a more balanced perspective. This dual approach of MI and CBT helps Wendy develop a collaborative understanding of her feelings while gently encouraging exploration of her relationship dynamics.",
+        "progress_marker": "Wendy expresses a greater understanding of her ambivalence and begins to articulate her thoughts on trust in her relationship."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to explore my feelings about Ivan and our relationship more deeply.",
+        "client_state": {
+          "awareness": "I am starting to recognize that my feelings of anger and betrayal towards Ivan and his family are affecting my mental state and our relationship.",
+          "motivation": "I want to change the way I react to situations with Ivan, but I’m unsure if I can trust him enough to make that change.",
+          "openness": "I feel somewhat willing to share my thoughts and feelings with my therapist, but I still struggle to articulate my emotions fully.",
+          "resistance": "I find myself resisting the idea of change, as I believe discussing my feelings won’t fix what happened with Ivan."
+        },
+        "client_reasoning": "I’ve been reflecting on how I feel about Ivan and the betrayals that have happened recently. I notice that I often feel angry and suspicious, which leads me to check his phone and track him. It’s exhausting, and on some level, I know it’s not healthy, but I can’t help it. Part of me wants to break this cycle, but then I think, why should I trust him again? It’s like I’m stuck in this loop of feeling unlovable and helpless. I want to be able to talk about my feelings in therapy, but I also feel that it won’t change what he did. I guess I’m just scared that even if I try to change, I’ll end up hurt again. I’m starting to see these patterns, but I’m not sure how to move forward.",
+        "progress_marker": "The client is beginning to connect their emotions, thoughts, and behaviors, recognizing the impact of past experiences on their current situation."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP, the therapist's objective of facilitating a discussion about ambivalence has not been fully met, and the client is still struggling to articulate their feelings.",
+          "client_utterance": "I guess I’m just stuck between wanting to trust Ivan and feeling so betrayed. It feels like I want to give him another chance, but every time I think about it, I just feel more angry. I don't even know how to start that conversation without it turning into another fight.",
+          "therapist_utterance": "It's understandable to feel torn between those desires, Wendy. On one hand, you want to trust him and rebuild what was lost, but on the other, those feelings of betrayal are powerful. How would you describe what you need from Ivan to feel more secure in this situation?",
+          "therapist_use": "Exploring ambivalence: facilitated discussion to help Wendy articulate conflicting feelings about trust and betrayal."
+        },
+        {
+          "reason_for_ending": "KEEP, the therapist's goal of guiding Wendy to articulate her needs is not yet fully achieved, and the client still feels uncertain about her feelings.",
+          "client_utterance": "I think I need him to acknowledge how his actions have hurt me, but I'm not sure he even gets it. I've tried bringing it up before, but it just turns into him getting defensive, and then I feel worse. I guess I want him to understand that my anger isn't just about him; it's about how this affects me.",
+          "therapist_utterance": "That’s a very important need, Wendy. It sounds like you want Ivan to not only recognize your hurt but also to take responsibility for his actions. What do you think would happen if you expressed that need to him directly?",
+          "therapist_use": "Eliciting change talk: encouraged Wendy to voice her needs and explore the possibility of communicating them to Ivan."
+        },
+        {
+          "reason_for_ending": "KEEP, while the therapist is guiding Wendy to express her needs, she still feels hesitant about how to approach Ivan.",
+          "client_utterance": "I'm scared that if I try to talk to him about it, it won't go well, and I’ll just end up feeling worse. I don’t want to push him away, but I also don’t want to keep feeling this way. It’s like I’m stuck between wanting to fix things and fearing it will all fall apart.",
+          "therapist_utterance": "Those fears are completely valid and common in situations like this. It sounds like you’re worried about the potential consequences of that conversation. What if we brainstormed some ways to approach this that might feel safer for you?",
+          "therapist_use": "Decisional balance discussions: helping Wendy weigh her fears against the potential benefits of communication."
+        },
+        {
+          "reason_for_ending": "KEEP, the therapist's objective of fostering insight into Wendy's feelings is not yet achieved, and the client remains uncertain about how to proceed.",
+          "client_utterance": "I think if I could find a way to express my feelings without feeling like I'm attacking him, it might help. But I also worry that he won't really listen or understand where I’m coming from. It feels like I need to be really careful, but I don’t want to tiptoe around the issue either.",
+          "therapist_utterance": "It's insightful that you recognize the need for careful communication. Balancing honesty with sensitivity is important in these conversations. What would it look like for you to share your feelings while also inviting him to hear your perspective?",
+          "therapist_use": "Exploring ambivalence: guiding Wendy to visualize a constructive way to communicate her feelings."
+        },
+        {
+          "reason_for_ending": "KEEP, the therapist's goal of helping Wendy visualize the communication process is still in progress, as she is still uncertain.",
+          "client_utterance": "Maybe I could start by telling him how much I care about our relationship before diving into my hurt. I just don’t want him to feel attacked or become defensive again. I think if he understood how much this means to me, it could change things.",
+          "therapist_utterance": "That’s a great start, Wendy! Framing your feelings in a way that emphasizes your care for the relationship can help set a positive tone. How do you think he might respond to that approach?",
+          "therapist_use": "Decisional balance discussions: supporting Wendy in visualizing a positive communication strategy."
+        },
+        {
+          "reason_for_ending": "KEEP, while Wendy is beginning to articulate a potential communication strategy, the therapist's goal of reinforcing her motivation is not fully met.",
+          "client_utterance": "I think if I can express my feelings like that, it could lead to a better conversation. But there's still that nagging doubt in my mind about whether he’ll actually change. I just fear that I’ll be setting myself up for disappointment again.",
+          "therapist_utterance": "It's completely natural to have doubts, especially given your past experiences. Acknowledging those fears can be the first step in overcoming them. What would you say are the positives of approaching him despite these fears?",
+          "therapist_use": "Eliciting change talk: encouraging Wendy to identify the potential benefits of taking action despite her fears."
+        },
+        {
+          "reason_for_ending": "MOVE, the therapist's objectives have been met as Wendy is articulating her feelings and considering a plan, and the client feels motivated to address her relationship.",
+          "client_utterance": "I realize that if I don't try, I’ll never know if it could be different. I want to believe that we can have a healthier relationship, and maybe I can express my feelings in a way that helps us both understand each other better. It’s scary, but I think it's worth the risk.",
+          "therapist_utterance": "That’s a powerful realization, Wendy! It sounds like you’re ready to take steps towards having that important conversation with Ivan. Embracing that risk reflects your desire for a healthier relationship, and it’s a brave move.",
+          "therapist_use": "Reflective listening: validating Wendy's commitment to exploring change and encouraging her progress."
         }
       ]
     },
@@ -249,22 +232,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Wendy's commitment to change and explore her motivation for addressing her feelings about Ivan's actions.",
+          "objective": "Strengthen Wendy's commitment to change and enhance her motivation to address her relationship with Ivan.",
           "strategies": [
             {
-              "strategy_name": "Commitment Language",
+              "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Wendy to articulate her reasons for wanting to change her current coping strategies.",
-                "Ask open-ended questions to strengthen her commitment, such as 'What would it look like for you to trust Ivan again?'",
-                "Reflect back her statements of commitment to reinforce her motivation."
+                "Ask Wendy to articulate her reasons for wanting to change her approach to her relationship with Ivan.",
+                "Encourage her to express specific goals she hopes to achieve in her interactions with him.",
+                "Reflect her statements back to her, emphasizing her motivations and commitment to making positive changes."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Ask Wendy to rate her confidence in making changes on a scale from 1 to 10 and discuss why she chose that number.",
-                "Explore past successes in managing her emotions and how those experiences can support her current efforts.",
-                "Use scaling questions to help her envision steps toward change."
+                "Use open-ended questions to explore Wendy's feelings about her ability to communicate her needs to Ivan.",
+                "Discuss any past experiences where she successfully navigated difficult conversations, reinforcing her confidence.",
+                "Validate her feelings of uncertainty while encouraging her to acknowledge her readiness to implement change."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Help Wendy identify individuals in her life who support her during this transition, such as friends or family members.",
+                "Discuss potential resources, such as therapy or self-help materials, that can aid her in preparing for these changes.",
+                "Encourage her to consider how she can leverage these supports to feel more confident in her actions."
               ]
             }
           ]
@@ -272,79 +263,74 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Collaborate with Wendy to outline a step-by-step plan that includes specific actions she can take when she feels angry or suspicious.",
-                "Identify realistic behavioral changes, such as practicing calming techniques before confronting Ivan.",
-                "Set small, achievable goals that gradually lead to addressing her feelings with Ivan in a constructive manner."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Guide Wendy through identifying potential barriers to her action plan and brainstorming solutions.",
-                "Discuss coping strategies she can use in situations where she feels triggered by Ivan's actions.",
-                "Role-play scenarios to practice her responses when she feels the urge to check Ivan's phone."
+                "Introduce the concept of decatastrophizing by discussing Wendy's recent feelings of distrust and anger regarding Ivan.",
+                "Guide her in identifying specific catastrophic thoughts and listing them to visualize her negative predictions.",
+                "Facilitate an examination of evidence for and against these thoughts, focusing on reality rather than assumptions.",
+                "Encourage her to explore alternative outcomes and reframe her catastrophic thoughts into more balanced perspectives.",
+                "Collaboratively develop an action plan for approaching Ivan that fosters trust and open communication.",
+                "Discuss strategies for practicing reframing and decatastrophizing in real-life situations, particularly when emotions arise."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Wendy, the first step is to address her commitment to change by employing MI strategies that emphasize her intrinsic motivation. By using commitment language, I will help her articulate her desire to improve her relationship with Ivan, reinforcing her motivation to change. Exploring her confidence and readiness will allow me to gauge her current mindset and identify past successes that can empower her. Next, I will implement CBT interventions, focusing on action planning to collaboratively create realistic steps Wendy can take when feeling angry or suspicious. This will help her transition from reactive behaviors to more constructive responses. Additionally, introducing problem-solving skills training will allow her to anticipate and navigate barriers effectively, enhancing her coping strategies. By integrating these approaches, I aim to build her self-efficacy and prepare her for the behavioral changes she wishes to implement, all while adapting to her resistance profile and ensuring she does not feel overwhelmed. This structured plan aims to foster a supportive environment for Wendy's gradual progress.",
-        "progress_marker": "Wendy demonstrates increased engagement in discussing her feelings, articulates her commitment to change, and begins to implement small steps from the action plan."
+        "therapist_reasoning": "To effectively support Wendy during the preparation phase, I will utilize motivational interviewing (MI) strategies to enhance her commitment to change. First, I will engage her in a discussion about her reasons for wanting to address her relationship with Ivan, which reinforces her motivation. By reflecting her commitment language back to her, I’ll help solidify her intentions. Next, I will explore her confidence and readiness, using open-ended questions to highlight her past successes in navigating difficult conversations, thereby fostering self-efficacy. Additionally, I will identify supports and resources that can aid her in this process, emphasizing the importance of a support system. Simultaneously, I will implement cognitive-behavioral therapy (CBT) techniques, specifically decatastrophizing, to challenge her catastrophic thoughts about Ivan's behavior. This involves identifying her automatic thoughts, examining the evidence supporting or refuting them, and reframing these thoughts into more balanced statements. By collaboratively developing an action plan and practicing these techniques, I aim to empower Wendy and prepare her for implementing behavioral changes without overwhelming her with too many adjustments at once.",
+        "progress_marker": "Wendy articulates her reasons for change and identifies specific goals, demonstrates an understanding of her catastrophic thoughts, and develops a realistic action plan for addressing her relationship with Ivan."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore healthier ways to cope with my feelings of betrayal and improve my relationship with Ivan.",
+        "client_objective": "I hope to explore my feelings about Ivan and figure out practical steps to rebuild trust in our relationship.",
         "client_state": {
-          "awareness": "I realize that my current situation with Ivan is unhealthy and that my constant vigilance is not a sustainable solution.",
-          "motivation": "I'm feeling more motivated to find better ways to cope and improve my relationship, even though I'm scared of being hurt again.",
-          "openness": "I'm willing to discuss my feelings and thoughts with my therapist, but I still feel some resistance to fully engaging with the process.",
-          "resistance": "I still feel angry and doubt that talking will lead to any real change, making it hard for me to fully commit to the process."
+          "awareness": "I recognize that my relationship with Ivan is causing me significant distress and that his recent actions have triggered deep-seated issues of trust and betrayal.",
+          "motivation": "I feel a strong desire to improve my situation and work towards a healthier relationship, but I am unsure of how to do it.",
+          "openness": "I am willing to discuss my thoughts and feelings with my therapist, but I still feel hesitant about revealing everything due to fear of being judged.",
+          "resistance": "I experience doubt about whether discussing my feelings will lead to any real change, and I am still angry about Ivan's behavior."
         },
-        "client_reasoning": "I've come to understand that my relationship with Ivan is causing me more pain than happiness, especially with the recent betrayals I've experienced. I know I can't keep living in a state of constant suspicion and anger; it's exhausting and unproductive. I feel a growing motivation to improve not only my relationship with him but also my own emotional well-being. Therapy has helped me recognize that change is possible, but I still have doubts. I worry that if I open up too much, I might get hurt again. I often think that discussing my feelings feels pointless, especially since I believe Ivan's behavior will never really change. Yet, deep down, I hope that by exploring my feelings and potential coping strategies in therapy, I can find a path to healing and possibly rebuild trust in my relationship, even if it's a long road ahead."
+        "client_reasoning": "I've come to realize that my relationship with Ivan is not just about his actions but also about my reactions and feelings. I understand that I need to address my feelings of betrayal and anger instead of letting them control me. Change feels necessary because I don't want to keep living in this cycle of suspicion and hurt. I hope to find a way to rebuild trust, not just with Ivan but also within myself. However, I still carry doubts—what if I open up and nothing changes? What if I get hurt again? Therapy has helped me see that I have some power over my situation, but I still feel stuck between wanting to move forward and being afraid of the unknown."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as there wasn't enough exploration of Wendy's commitment. Client objective not met since Wendy is still hesitant about fully engaging in the change process.",
-          "client_utterance": "I’ve been thinking about how scared I am to trust Ivan again. It's like I want to take steps forward, but I keep getting pulled back by my fears. I know I need to approach him, but what if it just leads to more hurt?",
-          "therapist_utterance": "It's completely understandable to feel that fear, Wendy. Trusting someone after feeling betrayed is a huge challenge. What would it look like for you to take that first step towards trusting Ivan again, even if it feels small?",
-          "therapist_use": "Open-ended question: Encouraging exploration of Wendy's vision for rebuilding trust."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Wendy hasn't articulated her specific goals yet; the client objective was not met because Wendy is still uncertain about her feelings and practical steps.",
+          "client_utterance": "I’ve been thinking more about how I want to express my feelings to Ivan. I know I need to tell him how his actions hurt me, but I still feel scared about how he’ll react. What if he just gets defensive again and I end up feeling worse?",
+          "therapist_utterance": "It's completely understandable to feel that fear, especially given your past experiences. What do you think it would take for you to feel more confident in expressing those feelings to him? Maybe we can find some ways to approach it that feel safer for you.",
+          "therapist_use": "Open-ended questioning: to explore Wendy's confidence and readiness to communicate her needs."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the vision for trust isn't fully articulated. Client objective not met since Wendy is still resisting the idea of trust.",
-          "client_utterance": "I think it would mean being able to express my feelings without fear. But even thinking about that makes me anxious because I don't want to be dismissed again. I just wish I could feel more certain about his reactions.",
-          "therapist_utterance": "That desire for safety in expressing yourself is important. It’s tough when past experiences make you doubt how he might respond. What if you created a plan for how to approach that conversation, including what you’d want to say?",
-          "therapist_use": "Action planning: Collaborating with Wendy to outline steps for approaching the conversation with Ivan."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Wendy hasn't identified specific goals yet; the client objective was not met because Wendy is still grappling with her fears and hasn't created a clear action plan.",
+          "client_utterance": "I suppose if I could think of a way to start the conversation that feels less confrontational, it might help. Like, maybe I could focus on how much I value our relationship before diving into my hurt. But I'm still worried he won't really understand.",
+          "therapist_utterance": "That’s a thoughtful approach, Wendy. Starting with your values can help set a positive tone for the conversation. What specific things do you value most about your relationship with Ivan that you’d like to share with him?",
+          "therapist_use": "Strengthening commitment language: used to encourage Wendy to articulate her reasons for wanting to change her approach."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the plan for conversation needs more specificity. Client objective not met since Wendy is still unsure about how to express her feelings.",
-          "client_utterance": "I guess I could start by telling him how his actions have made me feel. But I'm still worried about how he’ll react and if he’ll really listen. It's just hard to imagine him being receptive.",
-          "therapist_utterance": "It's a valid concern, and it’s okay to feel cautious about his reaction. Let’s think about a specific moment or example you could use to express your feelings. How might that help him understand your perspective better?",
-          "therapist_use": "Scaling question: Encouraging Wendy to think of specific examples to express her feelings clearly."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Wendy has not yet fully articulated her commitment to change; the client objective was not met because Wendy is still struggling to clarify her goals.",
+          "client_utterance": "I really value our connection and the times when we communicate well. I want him to know that I’m coming from a place of wanting to improve things, not just criticize him. But I still fear he might not see it that way.",
+          "therapist_utterance": "It's great that you recognize the importance of expressing your intentions clearly. That can be a strong foundation for a more constructive conversation. How do you see yourself expressing that to him in a way that might help him understand your perspective?",
+          "therapist_use": "Reflective listening: to validate Wendy's feelings and reinforce her motivations."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as specific examples are still needed for clarity. Client objective not met since Wendy is not fully committed to the expression process.",
-          "client_utterance": "I could mention the times where I've felt really hurt by his actions, but I worry it will just lead to conflict. I want him to understand my pain without it turning into an argument. I just don't know how to balance that.",
-          "therapist_utterance": "Balancing honesty with the desire for a constructive conversation can be tricky. What if you framed it in a way that emphasizes your feelings rather than blaming him? That might help create a space for understanding instead of defensiveness.",
-          "therapist_use": "Double-sided reflection: Helping Wendy see how framing her feelings differently could facilitate understanding."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Wendy has not yet developed a full action plan; the client objective was not met because Wendy is still uncertain about how to approach the conversation.",
+          "client_utterance": "I think if I could just say something like, 'I care about us, but I’m hurt,' it might open the door. But then I wonder if he’ll really listen or just brush it off like before. It feels so risky to put myself out there.",
+          "therapist_utterance": "That’s a brave way to start the conversation, Wendy. Acknowledging your care while expressing your hurt can create space for dialogue. What support do you think you might need to feel more secure in taking that step?",
+          "therapist_use": "Identifying supports and resources: to help Wendy recognize what she might need for her transition."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Wendy's framing needs further exploration. Client objective not met since Wendy still feels conflicted about expressing herself.",
-          "client_utterance": "That makes sense. I guess I can try to focus on how his actions affect me instead of pointing fingers. But I still feel scared that he won't respond well or that it won't lead to any real change.",
-          "therapist_utterance": "It's normal to feel that fear, but recognizing that you want to approach it constructively is a step forward. Let's think about your confidence in handling this conversation. On a scale from 1 to 10, how confident do you feel about discussing your feelings with Ivan?",
-          "therapist_use": "Scaling question: Assessing Wendy's confidence to gauge her readiness to initiate the conversation."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Wendy has not articulated her needs for support; the client objective was not met because Wendy still feels insecure about the process.",
+          "client_utterance": "I think having a friend to talk to afterward might help, someone who can remind me that I’m doing my best. But I still feel this doubt that anything will actually change, and that’s hard to shake off.",
+          "therapist_utterance": "It's valuable that you’re considering having support in place. That can really help during and after the conversation. What would you say to that friend about how you’re feeling right now?",
+          "therapist_use": "Exploring confidence and readiness: to encourage Wendy to acknowledge her support system."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Wendy's confidence level needs to be explored. Client objective not met since Wendy's fear still holds her back.",
-          "client_utterance": "I’d say I'm at a 4. I want to feel more confident, but I'm just so worried about his reaction. I know I need to have this talk, but part of me thinks it might not make a difference.",
-          "therapist_utterance": "A 4 shows you’re aware of the need for conversation, which is important. Let’s explore what could help you move that confidence level up a bit. What past successes have you had in expressing your feelings that you can draw from?",
-          "therapist_use": "Exploring past successes: Encouraging Wendy to reflect on previous positive experiences to build her confidence."
+          "reason_for_ending": "KEEP; the therapist objective was not met as Wendy has not yet reflected on her catastrophic thoughts; the client objective was not met because Wendy is still battling her doubts.",
+          "client_utterance": "I think I’d tell them I’m scared but determined to try. I want them to understand how hard this is for me, but every time I think about it, I fear it’ll just lead to more hurt.",
+          "therapist_utterance": "It’s important to acknowledge those fears, and it's okay to feel scared about the unknown. Let’s take a moment to think about those catastrophic thoughts you’ve been having. What evidence do you have that things will turn out badly versus how they might turn out positively?",
+          "therapist_use": "Decatastrophizing: to challenge Wendy's negative predictions about the future."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Wendy is articulating her motivation and confidence. Client objective met as she is actively engaging in the process of change.",
-          "client_utterance": "I remember times where I have been able to express myself and felt understood, even if it was hard at first. Maybe I can channel that into this conversation. I think I’m starting to see that I can take steps toward change.",
-          "therapist_utterance": "That's a wonderful realization, Wendy. Drawing from your past experiences can empower you in this situation. It sounds like you're ready to take those steps toward creating a healthier dynamic with Ivan.",
-          "therapist_use": "Reflection: Reinforcing Wendy's insights and progress towards her goal of improving her relationship."
+          "reason_for_ending": "MOVE; the therapist objective was met as Wendy articulated her reasons for change and identified specific goals; the client objective was met as Wendy expressed clarity about her actions moving forward.",
+          "client_utterance": "I see now that if I don’t take this chance, I’ll never know if it could be different. I want to believe that we can work through this, and I need to let go of the fear of getting hurt again. I think I’m ready to try and have that conversation.",
+          "therapist_utterance": "That’s a significant step forward, Wendy! It sounds like you’re feeling more ready to take action and communicate your needs to Ivan. I’m proud of you for making this commitment to change, and remember, you’re not alone in this process.",
+          "therapist_use": "Double-sided reflection: used to validate Wendy's progress while reinforcing her commitment to change."
         }
       ]
     }

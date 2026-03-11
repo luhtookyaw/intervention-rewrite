@@ -12,35 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase awareness of Fiona's thoughts and feelings regarding her needs and relationships.",
+          "objective": "Increase Fiona's awareness of her feelings and thoughts regarding her needs and relationships without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Fiona's concerns without interrupting.",
-                "Reflect back her feelings of being overwhelmed and her perceptions of her roommate's behavior.",
-                "Validate her emotions by expressing understanding of her situation."
+                "Listen attentively as Fiona expresses her feelings about her relationship with Ashby and her role in supporting Jersey.",
+                "Reflect back what she shares to validate her feelings and show understanding, helping her feel heard."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge the difficulty of her circumstances, particularly her support role for Jersey and the conflict with Ashby.",
-                "Use empathetic statements to show that you comprehend her feelings of frustration and helplessness."
+                "Acknowledge Fiona's feelings of being overwhelmed and her experiences of conflict, creating a safe space for her to explore these emotions.",
+                "Use statements like, 'It sounds like you're feeling really frustrated and it’s understandable given everything you’re balancing.'"
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Fiona to explore the difference between her current feelings and her personal values regarding self-care and healthy relationships.",
-                "Ask open-ended questions that prompt her to think about how her current situation aligns with her values."
+                "Encourage Fiona to articulate her values around support and personal needs, exploring any discrepancies between her actions and her values.",
+                "Ask questions like, 'How do you feel when your needs are not met compared to when you help others?'"
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Gently guide Fiona to reflect on how her behaviors and coping strategies may be affecting her emotional state.",
-                "Encourage her to consider the impact of prioritizing others' needs over her own."
+                "Prompt Fiona to reflect on her current feelings and thoughts regarding her interactions with Ashby, helping her to notice patterns of avoidance.",
+                "Encourage her to think about what her feelings might be telling her about her needs."
               ]
             }
           ]
@@ -48,98 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identifying Automatic Thoughts",
               "instructions_for_therapist": [
-                "Ask Fiona to identify specific instances where her needs were neglected.",
-                "Encourage her to evaluate the evidence supporting her belief that expressing her needs will lead to disappointment."
+                "Guide Fiona to express her automatic thoughts related to her feelings about Ashby's behavior.",
+                "Encourage her to articulate thoughts such as 'Why is she keeping neglecting my needs?' to begin exploring her cognitive patterns."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Exploring Underlying Beliefs",
               "instructions_for_therapist": [
-                "Help Fiona examine her automatic thoughts about Ashby's neglect.",
-                "Discuss the likelihood of various outcomes if she were to communicate her needs more openly."
+                "Facilitate a discussion on the core beliefs and intermediate beliefs that contribute to Fiona's feelings of unlovability and her tendency to prioritize others.",
+                "Encourage her to reflect on past experiences that may have shaped these beliefs."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Challenging Automatic Thoughts",
               "instructions_for_therapist": [
-                "Invite Fiona to consider how her roommate might perceive the situation.",
-                "Encourage her to explore alternative ways to view her relationship with Ashby."
+                "Help Fiona to question the validity of her automatic thoughts by discussing evidence for and against them.",
+                "Ask her to consider positive interactions with Ashby and how they might counter her feelings of neglect."
               ]
             },
             {
-              "technique_name": "Continuum Technique",
+              "technique_name": "Reframing 'Should' Statements",
               "instructions_for_therapist": [
-                "Help Fiona visualize a continuum of her feelings and behaviors regarding her needs.",
-                "Discuss where she currently stands on this continuum and where she might like to see herself in the future."
-              ]
-            },
-            {
-              "technique_name": "Changing Rules to Wishes",
-              "instructions_for_therapist": [
-                "Guide Fiona in reframing her beliefs about asking for help or expressing her needs as wishes rather than rules.",
-                "Encourage her to think of what she truly wishes for in her relationships."
+                "Work with Fiona to identify 'should' statements in her thinking and reframe them into more balanced perspectives.",
+                "Encourage her to think about the importance of self-care alongside helping others."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Fiona, the first step is to build a strong therapeutic rapport by applying MI strategies such as reflective listening and expressing empathy. This helps in reducing defensiveness and creating a safe space for her to voice her feelings. I will utilize reflective listening to validate her experiences and emotions, particularly those related to her support for Jersey and her frustrations with Ashby. Following this, developing discrepancy will aid in highlighting the gap between her current feelings of overwhelm and her deeper values around self-care. This exploration is crucial as it increases her awareness of her situation without directly pushing for change. In parallel, CBT techniques such as evidence-based questioning will allow Fiona to scrutinize her beliefs about her needs being unworthy, while reality testing will help her assess the potential outcomes of expressing her needs. Using alternative perspectives, I can guide her to empathize with Ashby’s viewpoint, which may reduce her irritation. Utilizing these interventions will create a reflective process that encourages Fiona's curiosity without the pressure of immediate change.",
-        "progress_marker": "Fiona begins to articulate her feelings about her needs and her relationship with Ashby, showing increased engagement in the therapeutic process."
+        "therapist_reasoning": "In approaching Fiona's therapy, I recognize she is in the pre-contemplation phase, indicating a need for increased awareness and understanding without pushing for change. I will employ motivational interviewing techniques, such as reflective listening and expressing empathy, to build rapport and trust. This approach will allow her to feel validated in her emotions and experiences. Developing discrepancy will help her articulate the gap between her current behaviors and her personal values, promoting self-reflection. Using CBT techniques, I will encourage her to identify and challenge her automatic thoughts and underlying beliefs, particularly focusing on those that contribute to feelings of unlovability. This will involve exploring her thoughts about Ashby’s behavior and reframing 'should' statements, guiding her towards more balanced thinking. By focusing on awareness and self-exploration, I aim to reduce her defensiveness and resistance, allowing her to engage more openly in discussions about her needs and emotions.",
+        "progress_marker": "Fiona demonstrates increased awareness of her thoughts and feelings, articulates her needs more openly, and shows reduced defensiveness in sessions."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to feel understood without having to talk about my problems too much.",
+        "client_objective": "I hope to just get through this session without having to dive deep into my feelings.",
         "client_state": {
-          "awareness": "I know something feels off, but I can't pinpoint exactly what the problem is.",
-          "motivation": "I don't really want to change anything right now; it feels too overwhelming.",
-          "openness": "I'm reluctant to share my thoughts and feelings; it feels safer to keep them to myself.",
-          "resistance": "I feel quite defensive and want to avoid talking about it."
+          "awareness": "I know there are issues, but I don't see them as that serious or worth changing.",
+          "motivation": "I feel stuck and not really motivated to change anything right now.",
+          "openness": "I find it hard to open up about my feelings; I prefer to keep them to myself.",
+          "resistance": "I feel defensive and avoid discussing my needs, believing it won't help anyway."
         },
-        "client_reasoning": "I know I should probably be more aware of what's bothering me, but honestly, it just feels too complicated. I'm always caught up in helping Jersey and dealing with Ashby's mess, and it leaves me feeling irritated and unappreciated. Sometimes I think about how I might bring up my needs, but I doubt it would matter. I feel stuck in this cycle of prioritizing others and not getting anything in return. It's like I have this belief that if I ask for help or express my feelings, it will only lead to more disappointment. Therapy feels like a place where I'm supposed to open up, but the idea of sharing my struggles feels risky. What if it just leads to more frustration or makes me feel worse? I think I'd rather just keep things to myself, even if it feels heavy."
+        "client_reasoning": "Honestly, I just feel overwhelmed by everything. My friend Jersey has been through so much, and I’ve always been there for her, but now I’m struggling with my own problems. I think about Ashby and how she never cleans up after herself. It makes me angry, but I don't really want to dig into why that is. Talking about my needs feels pointless; they never seem to matter. I just keep trying to help others, thinking that's what I should do. I guess I feel like if I bring up my feelings, it will only lead to more disappointment. Therapy seems like an uphill battle, and I’m not sure it’s worth it right now. Maybe if I just avoid the tough conversations, I can get through this without feeling like I’m falling apart. I can’t see how any of this will change, and that makes me want to shut down even more."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as they haven't fully built rapport yet. The client objective was not met since Fiona still feels reluctant to share her feelings.",
-          "client_utterance": "I don't know, it just feels like there’s so much going on with Jersey and Ashby. I want to be supportive, but I also feel like I’m losing myself in their issues. Sometimes I wonder if I even matter in this mix.",
-          "therapist_utterance": "It sounds like you’re feeling quite overwhelmed by the demands of supporting Jersey and dealing with Ashby's behavior. It makes sense that you would feel like your own needs are taking a back seat right now. Can you share more about how this impacts your sense of self-worth?",
-          "therapist_use": "Reflective Listening: validated feelings of overwhelm and invited deeper exploration."
+          "reason_for_ending": "KEEP: Therapist objective was not met as Fiona did not express her feelings about Ashby clearly. Client objective was not met since Fiona wanted to avoid deep feelings.",
+          "client_utterance": "I just feel like I’m constantly managing Jersey’s needs, and then there’s Ashby who never helps. It’s just exhausting, but I don’t really want to dig into why I feel this way. I just want to get through this without feeling like I’m falling apart.",
+          "therapist_utterance": "It sounds like you’re feeling really overwhelmed with everything on your plate, especially with Jersey’s situation and the frustrations with Ashby. It’s understandable to want to avoid those deeper feelings when it feels so heavy. Can you tell me more about how you manage these feelings day-to-day?",
+          "therapist_use": "Reflective listening: used to validate Fiona's feelings of overwhelm and encourage her to share more."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as they need more insight into Fiona's feelings. The client objective was not met because Fiona remains defensive about discussing her needs.",
-          "client_utterance": "I guess I feel like I’m just here to help everyone else. When I think about expressing my needs, it feels like I’m asking for too much. What if they just ignore me or make me feel worse?",
-          "therapist_utterance": "It’s understandable to feel hesitant about voicing your needs, especially when you worry about the potential reaction from others. You’ve been so focused on helping everyone else that it’s hard to imagine prioritizing your own feelings. What do you think would happen if you did express what you need?",
-          "therapist_use": "Expressing Empathy: acknowledged the difficulty of expressing needs and encouraged reflection on possible outcomes."
+          "reason_for_ending": "KEEP: Therapist objective was not met, as Fiona did not articulate any specific feelings about her needs. Client objective was not met because she continues to resist discussing her emotions.",
+          "client_utterance": "I don’t know, I just keep trying to help everyone else. I guess I feel like my own needs don’t matter as much. It’s like if I start talking about them, it just makes everything worse.",
+          "therapist_utterance": "It seems like you’re caught in a pattern of prioritizing others over your own needs, which can be really draining. What do you think your feelings are telling you when you feel this way? Sometimes, it helps to acknowledge those feelings even if it seems pointless.",
+          "therapist_use": "Expressing empathy: used to create a safe space for Fiona to explore her feelings about neglecting her own needs."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as they haven't explored Fiona's values yet. The client objective was not met since Fiona continues to feel overwhelmed and reluctant.",
-          "client_utterance": "I mean, part of me thinks it might help, but another part fears it would just lead to disappointment. I keep telling myself that maybe it’s better to just deal with things on my own. It feels like I’m always stuck between wanting to be heard and being afraid of what that means.",
-          "therapist_utterance": "That internal conflict makes a lot of sense. You want to feel heard and supported, yet there’s this fear of disappointment that holds you back. How do you think this struggle aligns with what you value in your relationships?",
-          "therapist_use": "Developing Discrepancy: encouraged Fiona to connect her feelings with her values about relationships."
+          "reason_for_ending": "KEEP: Therapist objective was not met since Fiona did not reflect on her values or needs. Client objective was not met as she remains resistant to deeper discussions.",
+          "client_utterance": "I just don’t see the point in talking about my needs. I mean, I’ve always been there for Jersey, so why should I change that? I guess I just feel stuck.",
+          "therapist_utterance": "I hear you saying that being there for Jersey is important to you, but it sounds like you might be feeling a bit stuck in that role. How do you feel when your own needs go unaddressed compared to when you’re helping Jersey? It’s okay to explore how this affects you.",
+          "therapist_use": "Developing discrepancy: used to encourage Fiona to consider the impact of neglecting her own needs."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as they haven't fully raised awareness of Fiona's coping strategies. The client objective was not met because Fiona is still grappling with her feelings.",
-          "client_utterance": "I guess I value honesty and support from friends. But honestly, I feel like I’m not getting that from Ashby. It makes me question whether it’s even worth trying to express how I feel.",
-          "therapist_utterance": "You definitely deserve honesty and support in your relationships. It sounds like there’s a gap between what you value and what you’re currently experiencing with Ashby. What do you think it would take for you to feel more comfortable expressing your feelings?",
-          "therapist_use": "Raising Awareness: guided Fiona to reflect on the impact of her current feelings on her values."
+          "reason_for_ending": "KEEP: Therapist objective was not met, as Fiona avoided discussing the impact on her needs. Client objective was not met since she did not engage with her feelings.",
+          "client_utterance": "I guess I just feel angry at Ashby for not helping. But, I don’t want to go deeper into why I feel this way. It just feels pointless.",
+          "therapist_utterance": "It sounds like you’re feeling a lot of frustration towards Ashby, which is completely valid. Sometimes, these feelings can point to deeper needs that might be going unmet. What do you think would happen if you allowed yourself to express that anger?",
+          "therapist_use": "Reflective listening: used to validate Fiona's feelings and encourage her to consider the implications of expressing her anger."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as they need to help Fiona visualize her feelings. The client objective was not met since Fiona is still feeling stuck.",
-          "client_utterance": "I don't even know how to start. Sometimes I feel like I’m carrying this heavy load, but I can't see a way to lighten it. If only Ashby could understand where I’m coming from, maybe it would be easier.",
-          "therapist_utterance": "It sounds like you feel burdened by the weight of your responsibilities and the lack of understanding from Ashby. Visualizing that load might help you see what you can do to lighten it. What if we think about a continuum of your feelings regarding your needs? Where do you see yourself now?",
-          "therapist_use": "Continuum Technique: invited Fiona to visualize her feelings and identify her current position."
+          "reason_for_ending": "KEEP: Therapist objective was not met, as Fiona did not explore the implications of her feelings. Client objective was not met as she remains defensive about discussing her needs.",
+          "client_utterance": "I don’t know, maybe it would just make things worse. I keep thinking that if I just help more, it’ll be easier. I just want everyone to be okay.",
+          "therapist_utterance": "You seem to have a deep desire to help others and keep things okay, but it sounds like it’s becoming overwhelming for you. How do you think your own well-being fits into this picture? Sometimes, taking a step back can help clarify what you truly need.",
+          "therapist_use": "Raising awareness: used to prompt Fiona to reflect on her own well-being amidst her desire to help."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as they haven't fully explored alternative perspectives. The client objective was not met because Fiona continues to feel heavy and uncertain.",
-          "client_utterance": "I think I’d still be on the side of feeling unheard. I wish I could just ask for what I need without feeling guilty. But it’s hard to shake off this feeling that I’ll just be a burden.",
-          "therapist_utterance": "It’s tough to feel that way, especially when you want to protect others from feeling burdened. How do you think Ashby might perceive your needs if you were to share them? Exploring that perspective might help ease some of your worries.",
-          "therapist_use": "Alternative Perspective: encouraged Fiona to consider Ashby’s viewpoint to reduce her worries."
+          "reason_for_ending": "KEEP: Therapist objective was not met, since Fiona did not address her own well-being effectively. Client objective was not met as she remains resistant to change.",
+          "client_utterance": "I guess I just don’t feel like I deserve to think about my needs. It’s easier to focus on Jersey and Ashby. I don’t want to dive into my stuff.",
+          "therapist_utterance": "It sounds like you might have some beliefs that make it hard to prioritize your own needs. That’s completely understandable, but it’s also important to recognize your own worth. What would it mean for you to start considering your needs alongside helping others?",
+          "therapist_use": "Exploring underlying beliefs: used to facilitate discussion about Fiona's beliefs regarding her self-worth and her needs."
         },
         {
-          "reason_for_ending": "MOVE - The therapist objective was met as they facilitated exploration of alternative perspectives. The client objective was met since Fiona began articulating her fears and wishes regarding her needs.",
-          "client_utterance": "I suppose if I think about it, Ashby might not even realize how I feel. I wish I could just tell them that I need some space and support. Maybe it wouldn’t be as scary as I thought.",
-          "therapist_utterance": "It’s great to hear that you’re starting to see a potential way forward. Recognizing that Ashby might not understand your feelings is an important step. What do you think your next steps might be in expressing your needs?",
-          "therapist_use": "Changing Rules to Wishes: helped Fiona reframe her beliefs about expressing needs as wishes, facilitating openness."
+          "reason_for_ending": "MOVE: Therapist objective was met as Fiona began to reflect on her beliefs regarding her needs. Client objective was met since Fiona opened up more about her feelings.",
+          "client_utterance": "I guess it would mean I’m allowed to take care of myself too. Maybe I don’t have to do everything for everyone else all the time. It feels scary to think about, but I think I might want to try.",
+          "therapist_utterance": "That’s a significant realization, Fiona! Acknowledging that you deserve to take care of yourself is a big step. It’s okay to feel scared about this change, but it sounds like you’re starting to see the possibility of balancing your needs with your role in supporting others.",
+          "therapist_use": "Challenging automatic thoughts: used to help Fiona recognize her right to prioritize her needs."
         }
       ]
     },
@@ -148,34 +140,30 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Fiona's ambivalence about her needs and increase her motivation to address her relationship with Ashby.",
+          "objective": "Explore Fiona's ambivalence about her needs and the conflict with Ashby, fostering motivation towards considering her own self-care.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Fiona to share what she values in her friendships and how those values align with her current behavior towards Ashby.",
-                "Encourage her to express both the positives and negatives of addressing her needs with Ashby."
+                "Begin the session by inviting Fiona to share her thoughts and feelings about her relationship with Ashby and how it impacts her.",
+                "Encourage her to express both the reasons why she wants to voice her needs and why she feels hesitant.",
+                "Use open-ended questions to facilitate a discussion about the costs and benefits of making her needs known."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Fiona to articulate any desire or reasons for wanting to address the household issues.",
-                "Use open-ended questions to help her describe how a change might benefit her and improve her living situation."
+                "Ask Fiona to reflect on times when she felt her needs were met, highlighting the importance of self-care.",
+                "Encourage her to articulate her values, such as being supportive while also valuing her own well-being.",
+                "Prompt her to envision a scenario where she effectively communicates her needs to Ashby and how that might feel."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Help Fiona reflect on the contrast between her values of self-care and the reality of her current situation with Ashby.",
-                "Facilitate a discussion on how neglecting her own needs may lead to feelings of resentment."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance Discussion",
-              "instructions_for_therapist": [
-                "Guide Fiona in listing the pros and cons of continuing her current approach versus addressing her needs directly with Ashby.",
-                "Encourage her to consider how each choice aligns with her long-term goals and values."
+                "Guide Fiona in creating a list of pros and cons regarding expressing her needs to Ashby.",
+                "Discuss how her current behavior aligns or conflicts with her values and long-term goals.",
+                "Assist her in recognizing discrepancies between her desire to be supportive and the impact on her own mental health."
               ]
             }
           ]
@@ -183,85 +171,80 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Encourage Fiona to examine the validity of her automatic thoughts about Ashby neglecting her needs.",
-                "Ask her to provide evidence for and against these thoughts to promote cognitive restructuring."
+                "Start by discussing Fiona's automatic thoughts regarding Ashby's neglect of her needs.",
+                "Guide her in identifying the core beliefs contributing to these thoughts, particularly feelings of unlovability.",
+                "Encourage her to challenge these thoughts by evaluating evidence for and against them, fostering a more balanced perspective."
               ]
             },
             {
-              "technique_name": "Pros and Cons Analysis",
+              "technique_name": "Thought Diary Assignment",
               "instructions_for_therapist": [
-                "Assist Fiona in creating a list of pros and cons related to expressing her needs to Ashby.",
-                "Discuss how this analysis might impact her feelings of empowerment and self-worth."
-              ]
-            },
-            {
-              "technique_name": "Decatastrophizing",
-              "instructions_for_therapist": [
-                "Help Fiona challenge catastrophic thoughts about what might happen if she speaks up about her needs.",
-                "Encourage her to consider more realistic outcomes and the potential for positive resolution."
+                "Introduce the concept of a thought diary and explain its purpose in identifying patterns in her thoughts and feelings.",
+                "Instruct Fiona to document instances where she feels her needs are ignored, using evidence-based questioning to challenge her thoughts.",
+                "Encourage her to reflect on her entries during the next session to facilitate discussion and insight."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To support Fiona in the contemplation phase, I will initially focus on exploring her ambivalence about her needs and relationships. By employing Motivational Interviewing techniques, I will guide her to articulate her values and how they intersect with her current behavior, fostering a deeper understanding of her internal conflict. This approach will include eliciting change talk to encourage her to voice her desires for addressing the household issues with Ashby and to develop discrepancy between her values and her actions. Additionally, using decisional balance discussions will help her weigh the pros and cons of her current situation, facilitating insights into the necessity for change. Complementing this with Cognitive Behavioral Therapy interventions, such as evidence-based questioning, will assist her in challenging unhelpful thoughts, while pros and cons analysis will provide a structured way to reflect on her situation. Decatastrophizing will further help reduce her fear of negative outcomes associated with asserting her needs. This collaborative approach, sensitive to her resistance profile, will foster reflection and insight without pushing her prematurely into action planning.",
-        "progress_marker": "Fiona begins to articulate her feelings about her needs and her relationship with Ashby, showing increased motivation to explore solutions."
+        "therapist_reasoning": "To address Fiona's ambivalence, I will employ Motivational Interviewing strategies to foster an open dialogue about her feelings towards Ashby and her own needs. Exploring ambivalence is crucial given her withdrawn resistance; therefore, I will use open-ended questions to help her articulate both sides of her internal conflict. This aligns with eliciting change talk, where I will prompt her to reflect on the importance of her well-being and the benefits of asserting her needs. By guiding her through decisional balance discussions, I aim to help her recognize the discrepancies between her supportive nature and her mental health. Concurrently, I will integrate CBT techniques by addressing her cognitive patterns, particularly focusing on cognitive restructuring to challenge her automatic thoughts and core beliefs. By asking her to create a thought diary, I will empower her to actively engage with her thoughts and feelings, fostering reflection and insight. This collaborative approach respects her resistance while gently guiding her towards recognizing the necessity of self-care without pushing for immediate action planning.",
+        "progress_marker": "Fiona expresses a clearer understanding of her ambivalence and begins to articulate her needs more openly in her thoughts and reflections."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my needs and how to address them with Ashby without feeling guilty or overwhelmed.",
+        "client_objective": "I hope to gain clarity on my feelings and learn to express my needs without feeling guilty.",
         "client_state": {
-          "awareness": "I'm starting to recognize that my frustration with Ashby isn't just about the trash; it's connected to how I've been neglecting my own needs.",
-          "motivation": "Part of me really wants to assert myself and make changes, but I also worry that my efforts might not matter.",
-          "openness": "I feel somewhat willing to talk about my feelings in therapy, but I still hold back because I'm unsure if it will lead to any real change.",
-          "resistance": "I find myself resisting the idea of change because I doubt my ability to communicate effectively and fear it won't resolve anything."
+          "awareness": "I am starting to recognize that my feelings of anger and irritation towards Ashby stem from my unfulfilled needs and expectations.",
+          "motivation": "I want to change my situation, but I'm unsure if it's possible to communicate my needs without causing conflict.",
+          "openness": "I feel somewhat willing to share my experiences and emotions with my therapist, but I still hold back due to fear of judgment.",
+          "resistance": "I often doubt that discussing my needs will lead to any real change, which makes me hesitant to fully engage in the process."
         },
-        "client_reasoning": "Lately, I've been reflecting on my relationship with Ashby and how it frustrates me that she doesn't clean up after herself. I realize that my anger isn't just about the trash; it feels deeper, like I'm neglecting my own needs while prioritizing others, like Jersey. I know I should speak up, but I worry it won't make a difference. I find myself torn between wanting to change the dynamic and fearing the potential fallout. What if Ashby gets defensive or dismisses my feelings? I don’t want to create more conflict. Therapy has helped me start to see these patterns in my thoughts and emotions, but I still feel hesitant to fully embrace change. It’s like I’m standing at a crossroads, wanting to move forward but feeling stuck in the past.",
-        "progress_marker": "Client acknowledges the connection between their frustrations and their own needs, showing emerging insight into their patterns."
+        "client_reasoning": "I find myself reflecting on my relationship with Ashby and Jersey, and I realize that I've been prioritizing others' needs over my own for so long that I don't even know how to voice my own feelings anymore. It's frustrating because I can see that my anger towards Ashby is really rooted in my own unmet needs, but the thought of expressing that makes me anxious. What if she reacts negatively? What if it just leads to more arguments? I feel conflicted because I know I want to change this dynamic, but I also fear that speaking up will only cause more problems. Therapy is helping me to see these patterns, but I still feel withdrawn and uncertain about whether expressing my needs will make any difference at all in my life. I wish I could find the courage to change but doubt lingers in my mind.",
+        "progress_marker": "Increased awareness of emotional triggers and willingness to explore the impact of unexpressed needs."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist's objective of exploring ambivalence isn't fully met as Fiona hasn't articulated her values around her relationship with Ashby. Client's objective to explore feelings about her needs is not fully met as she hasn't expressed her internal conflict clearly.",
-          "client_utterance": "I'm starting to think that maybe I need to express my needs to Ashby, but I'm still really worried about how she'll react. I know I want to feel supported and understood, but I can't shake off the fear that it won't change anything. It's frustrating because I feel like I deserve that support too.",
-          "therapist_utterance": "It’s understandable to feel conflicted about wanting support while fearing Ashby’s reaction. Can you share more about what you value in friendships like the one with Ashby, and how that aligns with what you’re currently experiencing? How do you think expressing your needs might reflect those values?",
-          "therapist_use": "Exploring Ambivalence: used to help Fiona articulate her values in friendships and their alignment with her current behavior."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Fiona hasn't fully explored her feelings about expressing her needs. The client's objective was not met since she still feels hesitant and guilty about prioritizing her own needs.",
+          "client_utterance": "I keep thinking about how I feel angry at Ashby, but then I just push those feelings down because I don't want to cause any drama. It’s frustrating because I know I need to say something, but what if it just makes everything worse? I’m not sure how to find a balance between being supportive and taking care of myself.",
+          "therapist_utterance": "It sounds like you’re sitting with a lot of conflicting emotions—anger towards Ashby and guilt about voicing your needs. What do you think might happen if you did express your feelings, even just a little? Sometimes, exploring these scenarios can help clarify what you truly want.",
+          "therapist_use": "Open-ended questioning: used to encourage Fiona to articulate her fears and explore potential outcomes of expressing her needs."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective of eliciting change talk isn't fully met as Fiona hasn't voiced specific desires or reasons for addressing her needs. Client's objective remains unmet since she seems to be stuck on the fear of expressing herself.",
-          "client_utterance": "I guess I value openness and honesty, and I realize I'm not really getting that from Ashby right now. I want to feel like I can talk to her about how I feel without it leading to an argument or making things worse. But a part of me still wonders if it’s worth the risk.",
-          "therapist_utterance": "It sounds like you deeply value openness and honesty, yet you’re feeling hesitant about risking a potential conflict. What do you think would happen if you did express your feelings to Ashby? How might that conversation go, and what benefits could come from it?",
-          "therapist_use": "Eliciting Change Talk: aimed to encourage Fiona to articulate her desires and potential benefits of addressing her needs."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Fiona still hasn't articulated her needs. The client's objective was not met since she remains unsure about how to voice her feelings without conflict.",
+          "client_utterance": "I guess I worry that if I say anything, Ashby will just get defensive, and it’ll lead to an argument. It’s hard for me to imagine a situation where I can express my needs without it turning into a fight. I feel like I’m walking on eggshells all the time.",
+          "therapist_utterance": "It's understandable to feel that way, especially when you have experienced conflict before. What would it look like to approach Ashby from a place of sharing your feelings rather than blaming? Sometimes, framing it as your own experience can help reduce defensiveness.",
+          "therapist_use": "Reflective listening: used to validate Fiona's concerns and guide her towards a more constructive way of communicating."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective of developing discrepancy isn't fully met as Fiona hasn't reflected on the contrast between her values and her actions. Client's objective is not fully met since she hasn't explored the internal conflict deeply enough.",
-          "client_utterance": "I know I want to be heard, but I keep telling myself that maybe it’s easier to stay silent. When I think about it, it feels like I’m constantly putting Ashby's needs before my own, which isn’t fair to me. I want to change that, but I’m scared it won’t lead to anything positive.",
-          "therapist_utterance": "It’s important to recognize the tension between your desire for self-care and the way you're currently handling things with Ashby. This discrepancy can lead to feelings of resentment, which you mentioned before. How do you think addressing your own needs might change the way you feel about the situation with Ashby?",
-          "therapist_use": "Developing Discrepancy: used to help Fiona reflect on the contrast between her self-care values and her current situation."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Fiona hasn't yet recognized the importance of self-expression in maintaining her well-being. The client's objective was not met since she still feels unsure about communicating her needs.",
+          "client_utterance": "I see what you mean, but it's still hard for me to imagine talking to Ashby without feeling guilty. I keep thinking about how my needs have been ignored, but I don't want to make her feel bad about it. I guess I could try framing it differently, but it feels risky.",
+          "therapist_utterance": "Taking that risk can certainly feel daunting, but it's also a step towards honoring your own needs. What might be the pros and cons of keeping your feelings hidden versus expressing them? It could be helpful to weigh those options to see what resonates more with you.",
+          "therapist_use": "Decisional balance discussion: used to help Fiona evaluate the costs and benefits of expressing her needs."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective of conducting a decisional balance discussion isn't fully met as Fiona hasn't listed out the pros and cons of addressing her needs. Client's objective isn't fully met since she hasn't clearly articulated her fears and motivations.",
-          "client_utterance": "I see that if I don't say anything, I might just end up feeling resentful and unhappy. But what if Ashby reacts poorly? It feels like a gamble, and I’m not sure it’s worth it. I wish I could just know it would work out.",
-          "therapist_utterance": "You’re identifying some valid concerns about the potential fallout, but it’s also important to weigh that against the cost of not expressing your needs. Let’s try to list some pros and cons of addressing this with Ashby. What do you think could be the benefits of having this conversation?",
-          "therapist_use": "Decisional Balance Discussion: aimed to guide Fiona in listing pros and cons related to expressing her needs to Ashby."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Fiona hasn't fully articulated her thoughts on the pros and cons. The client's objective was not met since she still feels conflicted about her feelings and needs.",
+          "client_utterance": "Well, if I keep my feelings hidden, I avoid conflict with Ashby, but I also feel resentful and angry. If I express my feelings, I risk upsetting her, but I might feel lighter and more in control. It’s just hard to see how expressing myself could lead to anything positive.",
+          "therapist_utterance": "It’s insightful that you can recognize the potential lightness that might come from expressing yourself. What would it feel like to take a small step towards sharing your feelings, even if it’s just a little? Sometimes starting small can make the process feel less intimidating.",
+          "therapist_use": "Eliciting change talk: used to encourage Fiona to envision taking small steps toward expressing her needs."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective of using evidence-based questioning isn't fully met as Fiona hasn't examined her automatic thoughts regarding Ashby. Client's objective isn't fully met since she hasn't yet articulated a clear desire to move forward.",
-          "client_utterance": "I guess on one hand, I could feel more empowered and less resentful if I speak up. But on the other hand, what if I just make things worse? I think I need to challenge myself to think about the actual outcomes instead of just my fears.",
-          "therapist_utterance": "That’s a great insight! Challenging those fears is an essential step. Let’s look at the thoughts you have about Ashby not respecting your needs. What evidence do you have for and against the belief that speaking up will only lead to conflict?",
-          "therapist_use": "Evidence-Based Questioning: used to encourage Fiona to examine the validity of her thoughts about Ashby neglecting her needs."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Fiona hasn't committed to any specific actions yet. The client's objective was not met since she remains hesitant to take actionable steps.",
+          "client_utterance": "I think I could try saying something small, like mentioning how I feel overwhelmed sometimes. But I still struggle with the thought that Ashby might not understand. I guess I’m just scared of being vulnerable.",
+          "therapist_utterance": "It’s completely natural to feel scared about being vulnerable, especially when you care about the other person's feelings. Acknowledging that fear is a step towards recognizing your own needs. How do you think Ashby might respond if you shared just a bit about feeling overwhelmed?",
+          "therapist_use": "Exploring ambivalence: used to help Fiona confront her fears while considering the potential responses from Ashby."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective of decatastrophizing isn't fully met since Fiona hasn't yet considered realistic outcomes of expressing her needs. Client's objective remains unmet as she hasn't fully embraced the idea of change.",
-          "client_utterance": "I think I often jump to the worst-case scenario, which makes me hold back. But maybe if I really think about it, Ashby could surprise me. I mean, what if she actually listens and we can work through this together?",
-          "therapist_utterance": "That’s a powerful shift in perspective! Considering that Ashby might be receptive could open up new possibilities for your relationship. How would it feel to approach this conversation with that mindset? What steps could you take to initiate it?",
-          "therapist_use": "Decatastrophizing: aimed to help Fiona challenge her catastrophic thoughts about the potential outcomes of asserting her needs."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Fiona still hasn't fully committed to taking action. The client's objective was not met since she remains apprehensive about expressing her feelings.",
+          "client_utterance": "I don’t know, she might be understanding, but what if she brushes it off? I just feel so stuck in this cycle of feeling overwhelmed and not being able to voice it. I want to break free from that but don’t know how.",
+          "therapist_utterance": "Breaking that cycle can be really challenging, but it’s encouraging to hear you want to try. What’s one small thing you could do this week to start breaking that cycle? It doesn’t have to be big—sometimes even a small acknowledgment can make a difference.",
+          "therapist_use": "Encouraging commitment: used to prompt Fiona to identify a tangible step she can take towards expressing her needs."
         },
         {
-          "reason_for_ending": "MOVE - Therapist's objective is met as Fiona articulates a willingness to reconsider her fears and take steps towards expressing her needs. Client's objective is met since she expresses a desire to initiate a conversation with Ashby, indicating readiness for change.",
-          "client_utterance": "I think I’m ready to at least try talking to Ashby. I want to express how I feel without fear of it going wrong. It might not be easy, but I can’t keep ignoring my needs.",
-          "therapist_utterance": "That’s a significant step forward, Fiona! Recognizing your readiness to express your needs is crucial. How can we prepare you for this conversation with Ashby to ensure you feel confident and heard?",
-          "therapist_use": "Eliciting Change Talk: used to reinforce Fiona’s readiness to express her needs and take actionable steps towards change."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Fiona has begun to articulate her needs and consider taking action. The client's objective was met as she expressed a desire to break the cycle of feeling overwhelmed and is open to starting small.",
+          "client_utterance": "I think I could start by just telling Ashby that I’ve been feeling overwhelmed lately. It might be scary, but maybe it’s time I try to voice something. I want to see if I can change this dynamic in a positive way.",
+          "therapist_utterance": "That sounds like a powerful step, Fiona! Recognizing that you want to voice your feelings is a significant move towards caring for yourself. I believe this could lead to a healthier dynamic with Ashby and help you feel more fulfilled in your relationships.",
+          "therapist_use": "Affirmation: used to reinforce Fiona's decision and validate her willingness to take action towards her self-care."
         }
       ]
     },
@@ -270,27 +253,29 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Fiona's commitment to change and enhance her confidence in addressing her needs with Ashby.",
+          "objective": "Strengthen Fiona's commitment to change by enhancing her motivation and helping her identify support systems.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Fiona to articulate her commitment to improving her living situation and her self-care.",
-                "Encourage Fiona to express how important it is for her to feel heard and respected in her living environment."
+                "Encourage Fiona to articulate her reasons for wanting to change and the benefits she envisions.",
+                "Ask open-ended questions to explore her feelings about the changes she intends to make.",
+                "Reflect back her statements of commitment to reinforce her motivation."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use open-ended questions to help Fiona explore her feelings about making changes in her communication with Ashby.",
-                "Discuss previous successful experiences she has had advocating for herself to build her confidence."
+                "Discuss with Fiona her confidence level regarding the upcoming changes on a scale from 1 to 10.",
+                "Explore what would increase her confidence and what past successes she can draw upon.",
+                "Identify any specific resources or supports that could help her feel more prepared."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Fiona identify supportive friends or resources she can turn to when feeling overwhelmed.",
-                "Discuss potential strategies for involving Jersey in her support system, given their close relationship."
+                "Help Fiona list people in her life who can provide support, particularly regarding her conflict with Ashby.",
+                "Discuss the importance of seeking outside help if needed, such as friends or support groups."
               ]
             }
           ]
@@ -298,77 +283,80 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Thought Diary and Evidence Examination",
               "instructions_for_therapist": [
-                "Collaborate with Fiona to create a step-by-step action plan for addressing the issues with Ashby.",
-                "Encourage her to set realistic and specific goals, like having a calm conversation with Ashby about her needs."
+                "Guide Fiona in keeping a thought diary where she notes instances of feeling her needs are neglected.",
+                "Encourage her to use evidence-based questioning to challenge automatic thoughts about Ashby's neglect.",
+                "Help her reframe thoughts around her 'should' statements and balance her self-care with helping others."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Developing New Perspectives",
               "instructions_for_therapist": [
-                "Guide Fiona through identifying the specific problems she faces with Ashby and brainstorm potential solutions.",
-                "Encourage her to evaluate which solutions she feels comfortable implementing and why."
+                "Facilitate a discussion on balanced thoughts regarding her relationship with Ashby.",
+                "Encourage Fiona to express her needs while maintaining her supportive role.",
+                "Assist her in identifying moments where her needs have been met and acknowledging them."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan for Fiona, I identified her core beliefs around unworthiness and her tendency to prioritize others over herself as key factors influencing her readiness for change. Motivational Interviewing strategies were employed to strengthen her commitment language by encouraging her to express the importance of advocating for her needs in her living situation. Exploring her confidence and readiness through open-ended questions aims to empower her, while identifying supports and resources helps her recognize she is not alone in this process. The CBT interventions focus on action planning, allowing Fiona to create a specific, step-by-step approach to address her situation with Ashby, while problem-solving skills training enables her to think critically about potential solutions. These interventions are designed to be gradual and collaborative, addressing her resistance and feelings of uncertainty about change. Overall, the combination of MI and CBT techniques is intended to boost Fiona's confidence and equip her with practical tools to facilitate her desired changes.",
-        "progress_marker": "Fiona will successfully initiate a conversation with Ashby about her needs and document her feelings and outcomes in a journal."
+        "therapist_reasoning": "In developing this therapy plan, I first recognized Fiona’s readiness for change in the Preparation phase and her emotional struggles with her roommate, Ashby. By utilizing Motivational Interviewing strategies, I aim to strengthen her commitment to change through open-ended questions that explore her motivations and readiness, while also identifying support systems she can rely on. This approach will help her articulate her desires, reinforcing her motivation to express her needs effectively. Simultaneously, I incorporated CBT techniques, focusing on her automatic thoughts and core beliefs related to her feelings of unlovability. By guiding her through a thought diary, she can examine evidence for her thoughts and practice reframing them, which will enhance her self-efficacy. The interventions are designed to be gradual and manageable, accommodating her resistance by fostering a collaborative environment where she feels empowered to discuss her needs without feeling overwhelmed. This balanced approach aims to equip Fiona with the tools to implement behavioral changes confidently.",
+        "progress_marker": "Fiona will track her commitment to expressing her needs in interactions with Ashby, noting any improvements or challenges in her thought diary, and share her experiences in sessions."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore ways to communicate my needs without feeling guilty or overwhelmed.",
+        "client_objective": "I hope to explore my feelings about my roommate and find ways to express my needs more effectively.",
         "client_state": {
-          "awareness": "I realize that the ongoing issues with Ashby and my feelings of being overwhelmed are affecting my well-being and relationships.",
-          "motivation": "I feel a strong desire to improve my situation and create a more balanced environment at home.",
-          "openness": "I'm beginning to feel more willing to share my thoughts and feelings with my therapist, even though I still hesitate at times.",
-          "resistance": "I still experience doubts about whether my needs will be respected and whether it’s worth the effort to communicate them."
+          "awareness": "I recognize that my frustrations with Ashby and my own feelings of being overwhelmed are connected, and that I need to address these issues for my own well-being.",
+          "motivation": "I feel a strong desire to improve my living situation and relationships, particularly in finding a balance between supporting others and taking care of myself.",
+          "openness": "I'm willing to talk about my feelings and explore potential changes, even though I still feel a bit apprehensive about making my needs known.",
+          "resistance": "I experience some hesitation and doubt, fearing that my attempts to communicate might not lead to any change or could make things worse."
         },
-        "client_reasoning": "I've started to understand that my current situation with Ashby isn't just about the trash; it's about my needs being overlooked, which makes me feel unimportant. I know that change is necessary because I can't keep feeling this way, and I want to create a space where I can express myself without fear. I hope that by discussing this in therapy, I can find practical ways to assert my needs and foster a healthier dynamic. However, I still worry that speaking up won't make a difference or that it might lead to conflict. I often feel like I'm stuck in a cycle of prioritizing others over myself, and I fear that if I try to change that, I might lose the support I provide to others, especially to Jersey. Yet, there's a small part of me that believes I can find a way to balance both my needs and those of my friends."
+        "client_reasoning": "I've come to realize that my situation with Ashby is impacting my emotional health more than I had acknowledged before. It feels necessary to change how I communicate my needs because holding it all in is only leading to more resentment. I hope that if I can express myself better, not only will our living situation improve, but I might also feel less burdened by carrying these frustrations alone. However, part of me is still scared to speak up; I worry that it won't make a difference or that Ashby won't understand where I'm coming from. Therapy has helped me see that my needs matter too, and it’s given me a bit more courage to think about what I might say, but I still struggle with the fear of being rejected or dismissed. I'm trying to remind myself that change is possible, even if it feels daunting right now.",
+        "progress_marker": "The client has begun to articulate her feelings and acknowledge the need for change in her living situation."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Fiona hasn't fully articulated her commitment to change. Client objective was not met as Fiona still feels unsure about her ability to communicate her needs effectively.",
-          "client_utterance": "I'm feeling a bit more determined to talk to Ashby, but I'm still grappling with how to actually bring it up. What if I end up making things worse? I want to be clear about my needs, but the thought of potential conflict is still daunting.",
-          "therapist_utterance": "It's great to hear that you feel more determined, but it's understandable to have those fears. Let's explore what specific words or phrases you might use to express your needs. How can we make it feel less daunting?",
-          "therapist_use": "Exploring Confidence and Readiness: aimed to help Fiona articulate her feelings about communicating her needs."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not explore specific resources that could help Fiona communicate her needs. The client objective was not met because Fiona did not articulate her feelings about her roommate yet.",
+          "client_utterance": "I've been thinking about what you said, and I feel like I could mention my overwhelm to Ashby. But I still worry about how she might react. What if it doesn’t change anything, or she brushes me off?",
+          "therapist_utterance": "It's understandable to have those worries, Fiona. You might be surprised by Ashby's response, especially if you approach it from a place of sharing your feelings. Have you thought about any specific ways you could frame that conversation to help both of you understand each other better?",
+          "therapist_use": "Open-ended questioning: aimed at encouraging Fiona to explore how she might communicate her feelings."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because the conversation did not move toward a specific action plan. Client objective was not met as Fiona is still hesitating about how to communicate her needs.",
-          "client_utterance": "I guess if I think about it, I could start by saying that I need some time to myself. But what if Ashby doesn't take me seriously? I really want to be heard, but it's tough to shake off the fear of being dismissed.",
-          "therapist_utterance": "It's understandable to feel that way. Let's focus on how you can frame your needs in a way that emphasizes your feelings and the impact on your well-being. What’s a simple statement you might start with?",
-          "therapist_use": "Strengthening Commitment Language: encouraged Fiona to express the importance of advocating for her needs."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they didn't help Fiona list potential support systems for her conversation with Ashby. The client objective was not met because Fiona still feels apprehensive and has not fully articulated her needs.",
+          "client_utterance": "I think I could say something like, 'I've been feeling really overwhelmed lately,' but I’m not sure how she will take it. It feels risky, and I don’t want to come off as blaming her.",
+          "therapist_utterance": "That’s a great start, Fiona! Framing it as your own experience can help avoid sounding accusatory. Who else do you think might support you in expressing this to Ashby, or can you think of anyone you could talk to beforehand to help prepare?",
+          "therapist_use": "Identifying supports: focused on helping Fiona recognize potential allies in her communication process."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Fiona has not committed to a specific action plan yet. Client objective was not met because Fiona still feels uncertain about how to start the conversation.",
-          "client_utterance": "Maybe I could say something like, 'I've been feeling overwhelmed, and I need some space to recharge.' But even saying that feels scary. What if she reacts negatively?",
-          "therapist_utterance": "That’s a good start! Acknowledging your feelings and stating your needs is important. Let's also consider how you might respond if Ashby does react negatively. What might you say to keep the conversation constructive?",
-          "therapist_use": "Problem-Solving Skills Training: guided Fiona in identifying potential responses to Ashby's reaction."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because they did not reinforce Fiona's motivation to express her needs. The client objective was not met as Fiona has not yet developed a plan to communicate her feelings effectively.",
+          "client_utterance": "I guess I could talk to a friend about it first, just to get some feedback. But part of me still feels like I'm overthinking this, and what if Ashby doesn’t respond well?",
+          "therapist_utterance": "It sounds like you’re feeling a mix of apprehension and a desire for guidance, which is completely normal. Taking that step to talk to a friend could really help you gain clarity and confidence. What do you think would help you feel more prepared to talk to Ashby afterward?",
+          "therapist_use": "Exploring confidence and readiness: aiming to enhance Fiona's self-efficacy by discussing preparation strategies."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met as the action plan is not yet fully developed. Client objective was not met since Fiona still feels insecure about the conversation's outcomes.",
-          "client_utterance": "I think if she reacts poorly, I could just remind her that this is about my well-being. But I still worry that it won't lead to anything positive. It feels like a big risk to take.",
-          "therapist_utterance": "It’s valid to feel that way, and recognizing that risk is part of the process. What can you do to prepare yourself for that possibility? Maybe we can brainstorm ways to stay calm during the conversation.",
-          "therapist_use": "Identifying Supports and Resources: helped Fiona outline strategies to manage her feelings during the conversation."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not encourage Fiona to articulate specific benefits of expressing her needs. The client objective was not met because Fiona has not fully committed to a plan of action yet.",
+          "client_utterance": "If I talk to Ashby and it goes well, I think I could feel more at ease in our living situation. But I still can’t shake this fear that it could explode into conflict.",
+          "therapist_utterance": "It’s insightful that you see the potential for easing the tension. It’s also important to acknowledge the fear of conflict, as it’s a valid concern. Could you consider what a successful conversation with Ashby might look like, even if it feels a bit daunting?",
+          "therapist_use": "Visioning: used to help Fiona visualize a positive outcome of her intended conversation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met as a concrete action plan still needs to be developed. Client objective was not met because Fiona is still feeling apprehensive about the conversation.",
-          "client_utterance": "I could try to take deep breaths before talking to her, and maybe write down what I want to say. But I still don't know if that will actually help me speak up. I want to feel confident.",
-          "therapist_utterance": "Those are excellent strategies! Writing down your thoughts can help clarify them and reduce anxiety. How about we create a step-by-step action plan together to help you feel more prepared?",
-          "therapist_use": "Action Planning: collaborated with Fiona to create a step-by-step approach to address her situation."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not reinforce Fiona's commitment language regarding expressing her needs. The client objective was not met because Fiona has not yet articulated a specific plan for her conversation.",
+          "client_utterance": "I think if I could just express that I need some support too, it might help. But I still feel like I’m not sure how to say it without sounding selfish.",
+          "therapist_utterance": "It's great to hear you’re thinking of expressing your need for support, Fiona. Remember, your needs are just as important as anyone else's, and it’s okay to ask for help. What are some phrases or words you could use that feel comfortable for you?",
+          "therapist_use": "Strengthening commitment language: aimed at helping Fiona articulate her intentions and feel more committed to expressing her needs."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met as the action plan is still under development. Client objective was not met because Fiona has not yet fully embraced her commitment to change.",
-          "client_utterance": "I like the idea of having a plan. If I can visualize it, maybe I’ll feel less overwhelmed. It feels like a step in the right direction, but I still need to believe that it will work.",
-          "therapist_utterance": "Believing in the process is key. Let’s define some small, achievable goals within that plan, like setting a specific time to have the conversation. What feels like a manageable first step for you?",
-          "therapist_use": "Action Planning: helping Fiona define manageable goals to enhance her confidence."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not support Fiona in identifying concrete next steps. The client objective was not met because Fiona has not developed a specific plan yet.",
+          "client_utterance": "I guess I could say something like, 'I need to share how I've been feeling,' but I’m still hesitant. What if it doesn’t change anything? I want to be honest but not hurt Ashby.",
+          "therapist_utterance": "Acknowledging that hesitation is important, Fiona. It’s understandable to want to be honest while also being gentle in your approach. How about setting a specific time to talk to Ashby this week? That could help create some structure and reduce anxiety.",
+          "therapist_use": "Identifying supports and resources: encouraging Fiona to plan a specific action step to facilitate her conversation."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective was met as Fiona has developed a clear action plan for addressing her needs. Client objective was met as Fiona expressed a commitment to take steps toward change.",
-          "client_utterance": "I think I can set a time to talk to Ashby this week and just go over what I need calmly. I feel like this could really help improve things at home. I’m ready to try this.",
-          "therapist_utterance": "That's fantastic, Fiona! You've created a clear plan, and it sounds like you feel ready to take this step. Remember, expressing your needs is a crucial part of fostering a healthier environment, and I'm here to support you through it.",
-          "therapist_use": "Strengthening Commitment Language: reinforced Fiona's commitment to her plan and supported her readiness for change."
+          "reason_for_ending": "MOVE - The therapist's objective was met as they successfully helped Fiona articulate her needs and consider specific actions. The client objective was met because Fiona expressed a commitment to discussing her feelings with Ashby, showing readiness for change.",
+          "client_utterance": "You know, I think I can commit to talking to Ashby this week about how I’m feeling overwhelmed. I realize that I need to express that it’s not just about helping others; I need support too.",
+          "therapist_utterance": "That’s a wonderful commitment, Fiona! Recognizing your need for support is a significant step towards improving your living situation. I believe this conversation will be a positive move towards balancing your needs and maintaining your supportive role.",
+          "therapist_use": "Double-sided reflection: used to validate Fiona’s commitment while reinforcing the importance of her own needs."
         }
       ]
     }

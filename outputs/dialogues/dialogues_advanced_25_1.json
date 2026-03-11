@@ -12,148 +12,27 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To build rapport and encourage self-reflection without pushing for change.",
+          "objective": "To build rapport, increase awareness of Zac's thoughts and emotions, and help him explore discrepancies between his current feelings and personal values.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Zac's concerns and frustrations.",
-                "Paraphrase his feelings to validate his experience, e.g., 'It sounds like you feel overwhelmed by your job and uncertain about your effectiveness.'",
-                "Encourage him to elaborate on his feelings and thoughts."
+                "Listen attentively to Zac's concerns about his perceived failures and frustrations.",
+                "Summarize and reflect back what Zac shares, validating his feelings of sadness and frustration without pushing for change."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Zac's feelings of helplessness and frustration.",
-                "Use phrases that convey understanding, such as, 'It makes sense that you feel sad and lonely given the challenges you're facing.'",
-                "Create a safe space for Zac to share his thoughts without fear of judgment."
+                "Acknowledge the challenges Zac faces in his role, openly expressing understanding of his feelings of helplessness and disappointment.",
+                "Reassure him that it’s okay to feel overwhelmed and that these feelings are valid."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently guide Zac to explore the differences between his current situation and his values or goals.",
-                "Ask open-ended questions like, 'What do you wish were different in your work life?'",
-                "Encourage him to reflect on how his current feelings align or conflict with his personal values."
-              ]
-            }
-          ]
-        },
-        "cbt_plan": {
-          "interventions": [
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Zac to provide evidence for his belief that he is incompetent.",
-                "Encourage him to think of instances where he has succeeded or received positive feedback.",
-                "Help him identify cognitive distortions in his self-assessment."
-              ]
-            },
-            {
-              "technique_name": "Alternative Perspective",
-              "instructions_for_therapist": [
-                "Invite Zac to consider alternative explanations for his experiences at work.",
-                "Ask questions like, 'What might someone else say about your efforts with the students?'",
-                "Encourage him to think about other aspects of his job that he values."
-              ]
-            },
-            {
-              "technique_name": "Continuum Technique",
-              "instructions_for_therapist": [
-                "Guide Zac to rate his feelings of effectiveness on a scale from 1 to 10.",
-                "Discuss what a score of 5 might look like and what factors could contribute to that perception.",
-                "Encourage exploration of small shifts in thinking."
-              ]
-            }
-          ]
-        },
-        "therapist_reasoning": "To engage Zac effectively, I initiated the session using reflective listening, validating his feelings of frustration and helplessness. This approach builds rapport and promotes an environment of trust. I then employed empathy to convey understanding of his emotional struggles, which is crucial given his advanced resistance level. To develop discrepancy, I gently guided him to reflect on the gap between his current feelings and his personal values, encouraging self-exploration without pressure for change. In parallel, I incorporated CBT techniques, beginning with evidence-based questioning to challenge his core belief of incompetence. By prompting him to recall successes, we aim to shift his cognitive distortions. The alternative perspective technique allows him to see his situation through a different lens, while the continuum technique encourages incremental reflection on his feelings of effectiveness. This structured yet flexible approach aims to reduce resistance and enhance Zac's awareness, ultimately facilitating therapeutic progress without demanding immediate changes.",
-        "progress_marker": "Zac shows increased willingness to express thoughts and emotions, indicating potential readiness for deeper self-exploration."
-      },
-      "client_plan": {
-        "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to get through this session without having to confront my problems directly.",
-        "client_state": {
-          "awareness": "I don't really see my situation as a problem that needs fixing.",
-          "motivation": "I don't feel the urge to change anything about my life right now.",
-          "openness": "I'm not comfortable sharing my true feelings and thoughts.",
-          "resistance": "I feel very defensive about discussing my issues."
-        },
-        "client_reasoning": "Sometimes I wonder if I even have a problem worth talking about. My job is tough, but I just think that's how it is, and everyone has challenges. I feel overwhelmed by the idea of change, like it’s something I can’t handle. Therapy feels pointless to me because I doubt it can really help; it’s easier to just avoid the topic altogether. I know I get frustrated, but it’s hard for me to talk about those feelings openly. I often find myself ruminating about my failures, which only adds to my sense of helplessness. Honestly, it feels safer to keep my walls up and not dig deep into these emotions. If I don't acknowledge the problem, then I can pretend it doesn't exist. I just want to get through this without having to confront the messy parts of my life.",
-        "progress_marker": "Client expresses feelings of frustration and avoidance without exploring underlying issues."
-      },
-      "dialogue": [
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet fully encouraged Zac to self-reflect on his feelings of frustration. Client objective not met: Zac is still avoiding deeper exploration of his issues.",
-          "client_utterance": "I don’t know, I guess work is just hard, but that’s life, right? Everyone has their problems. I don’t really want to dig into it too much today. It just feels overwhelming to even think about.",
-          "therapist_utterance": "It sounds like you feel overwhelmed by the expectations at work, and perhaps you don’t see it as a problem that needs fixing. It makes sense that you might want to avoid thinking about it if it feels too heavy. What do you think keeps you from wanting to explore those feelings more?",
-          "therapist_use": "Reflective Listening: used to validate Zac's feelings and encourage elaboration."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to help Zac articulate his feelings more clearly. Client objective not met: Zac is still resistant and not opening up about his true feelings.",
-          "client_utterance": "I guess I just think it’s not that big of a deal. I mean, everyone has challenges, right? I don’t want to sound like I’m complaining. It’s just part of the job, I think.",
-          "therapist_utterance": "You’re right that many people face challenges, and it’s okay to feel that way. It sounds like you’re trying to make sense of your experience without labeling it as a problem. What would you like to see different in your work life, if anything?",
-          "therapist_use": "Developing Discrepancy: used to help Zac reflect on his current feelings versus his possible values."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't fully guided Zac to express any deeper feelings about his situation. Client objective not met: Zac continues to avoid addressing potential changes in his work life.",
-          "client_utterance": "I don’t know, maybe I wish I had more support or something. But I still think it’s just how things are. I don’t really feel like I deserve any special treatment. I just have to deal with it.",
-          "therapist_utterance": "It sounds like you feel somewhat isolated in your experiences, wishing for more support but not feeling entitled to it. That must be a tough place to be. How do you think that affects your feelings about your work?",
-          "therapist_use": "Expressing Empathy: used to acknowledge Zac's feelings of isolation and provide a safe space for reflection."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to facilitate deeper self-reflection on Zac's feelings of isolation. Client objective not met: Zac still shows resistance to exploring his emotions.",
-          "client_utterance": "I guess it does make me feel a bit lonely sometimes, but I deal with it. It’s not like I’m the only one going through this. I’m just trying to get by like everyone else. I don’t see how talking about it helps.",
-          "therapist_utterance": "It seems like you’re managing your feelings on your own, which can be really tough. You're right that many others might feel similarly, but what do you think makes your experience unique? Sometimes sharing can lighten the load a bit.",
-          "therapist_use": "Reflective Listening: used to validate Zac's feelings of loneliness while gently encouraging exploration of his uniqueness."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not yet guided Zac to consider the impact of his feelings on his well-being. Client objective not met: Zac remains defensive about the value of discussing his feelings.",
-          "client_utterance": "I mean, maybe it would help, but I don’t really want to think about it. It feels easier to just keep going as I am. I don’t want to dwell on it too much. There’s no point in making it worse.",
-          "therapist_utterance": "It sounds like you're concerned that delving into these feelings might make things feel worse, which is a valid concern. However, sometimes acknowledging how we feel can lead to unexpected insights. What if we rated your feelings of effectiveness at work on a scale from 1 to 10? What would that look like for you?",
-          "therapist_use": "Continuum Technique: used to encourage Zac to reflect on his feelings in a more structured way."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to explore Zac's feelings of effectiveness more deeply. Client objective not met: Zac still seems hesitant to engage fully in the discussion.",
-          "client_utterance": "I’d probably say a 4 or 5, but that’s just how it is. I don’t think it’s going to change. I just feel like I’m not doing enough, but maybe that’s normal? I don’t know.",
-          "therapist_utterance": "Rating yourself a 4 or 5 shows that you recognize some challenges, but it also suggests that there are areas where you feel you could improve. What might it look like to feel like a 6 or 7? What small changes could you consider to get there?",
-          "therapist_use": "Alternative Perspective: used to invite Zac to envision a slightly better version of his effectiveness."
-        },
-        {
-          "reason_for_ending": "MOVE - Therapist objective met: The therapist successfully encouraged Zac to reflect on his feelings and contemplate potential changes. Client objective met: Zac is now more willing to explore his feelings and consider small shifts.",
-          "client_utterance": "I guess I could try to focus on what I do well or maybe talk to someone about my challenges more. I never thought about it that way before. It might not be as bad as I think. I just need to take it one step at a time.",
-          "therapist_utterance": "That’s a great insight, Zac! It sounds like you're open to considering a different perspective on your challenges and recognizing your strengths. Taking it one step at a time is a constructive approach, and it’s okay to start small. How do you feel about possibly exploring this further in our next session?",
-          "therapist_use": "Reflective Listening: used to validate Zac's emerging willingness to explore and take small steps forward."
-        }
-      ]
-    },
-    {
-      "phase": "contemplation",
-      "therapist_plan": {
-        "phase_of_therapy": "contemplation",
-        "motivational_interviewing_plan": {
-          "objective": "Explore Zac's ambivalence and strengthen motivation for change.",
-          "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Encourage Zac to express his conflicting feelings about his job and the desire for change.",
-                "Ask open-ended questions to help him articulate both the pros and cons of staying in his current situation."
-              ]
-            },
-            {
-              "strategy_name": "Eliciting Change Talk",
-              "instructions_for_therapist": [
-                "Prompt Zac to discuss any past experiences where he felt successful and how those moments might relate to his current situation.",
-                "Encourage him to identify small changes he might be willing to consider."
-              ]
-            },
-            {
-              "strategy_name": "Developing Discrepancy",
-              "instructions_for_therapist": [
-                "Help Zac identify his core values related to his work and life satisfaction.",
-                "Facilitate a discussion on how his current feelings and actions align or conflict with these values."
+                "Gently explore Zac's values related to his work with children and how they may differ from his current experiences.",
+                "Ask open-ended questions that encourage him to discuss what he values in his role and how his current feelings align or misalign with those values."
               ]
             }
           ]
@@ -163,82 +42,173 @@
             {
               "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Guide Zac to challenge his belief that his efforts are meaningless by exploring evidence to the contrary.",
-                "Encourage him to consider alternative outcomes of his actions beyond failure."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Assist Zac in creating a list of the pros and cons of staying in his current job versus considering change.",
-                "Facilitate reflection on how each item on the list affects his feelings and motivations."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Encourage Zac to question the validity of his automatic thoughts, particularly around feelings of incompetence.",
-                "Ask guiding questions that prompt him to find evidence for and against his negative self-assessments."
+                "Introduce the concept of all-or-nothing thinking to Zac, explaining how it impacts his feelings of self-worth.",
+                "Guide him in identifying specific thoughts that contribute to his feelings of failure, such as 'I'm not being productive.'",
+                "Encourage him to evaluate these thoughts and explore alternative, more balanced perspectives, emphasizing the importance of recognizing efforts rather than just outcomes."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan for Zac, I first identified his ambivalence about change, considering his feelings of frustration and helplessness. I decided to use Motivational Interviewing strategies to explore this ambivalence, particularly focusing on eliciting change talk and developing discrepancy between his current behaviors and core values. By encouraging him to articulate his feelings and past successes, I aim to increase his motivation for change. Additionally, incorporating CBT techniques like decatastrophizing allows Zac to challenge his catastrophic thoughts about failure, while the pros and cons analysis provides a structured way for him to weigh his options thoughtfully. Given his advanced resistance, I will maintain a collaborative and non-confrontational approach, emphasizing exploration rather than directive planning. This will create a safe space for Zac to reflect on his beliefs and consider the possibility of change without feeling pressured.",
-        "progress_marker": "Zac begins to articulate his feelings about change more openly and shows signs of increased motivation when discussing past successes."
+        "therapist_reasoning": "In working with Zac, the therapist recognizes that he is in the pre-contemplation phase, indicating a need for building trust and rapport before any change can be considered. Using motivational interviewing strategies, the therapist engages in reflective listening to validate Zac's feelings of frustration and sadness, which are crucial for reducing his defensiveness. By expressing empathy, the therapist creates a safe space for Zac to explore his emotions. Developing discrepancy allows Zac to reflect on the gap between his current feelings and his values, fostering self-awareness. The CBT component focuses on decatastrophizing, where the therapist introduces cognitive distortions like all-or-nothing thinking that Zac may be experiencing. By guiding him to articulate specific negative thoughts and consider alternative perspectives, the therapist helps Zac begin to challenge his core beliefs of incompetence and helplessness. This combined approach respects Zac's resistance while gently nudging him towards awareness and engagement without imposing any pressure for change.",
+        "progress_marker": "Zac demonstrates increased willingness to express feelings and reflect on thoughts during sessions, indicating a shift in awareness."
       },
       "client_plan": {
-        "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my job and understand the patterns that lead me to feel like a failure.",
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I hope to just get through this session without feeling judged or pressured to change.",
         "client_state": {
-          "awareness": "I'm starting to recognize that my frustrations at work stem from my unrealistic expectations of myself and my students.",
-          "motivation": "I feel a desire to change my approach, but I'm unsure if I can truly make a difference or if it's worth the effort.",
-          "openness": "I'm willing to discuss my feelings and experiences, but I often hold back, fearing judgment or that my struggles won't be understood.",
-          "resistance": "I strongly doubt that therapy can bring about real change for me, which makes me hesitant to fully engage in the process."
+          "awareness": "I don't really think there's a problem that needs fixing; I'm just trying to cope.",
+          "motivation": "I don't feel motivated to change because I don't believe anything will improve.",
+          "openness": "I find it hard to share my true thoughts and feelings; I prefer to keep things to myself.",
+          "resistance": "I'm really defensive about discussing my issues; it feels pointless and frustrating."
         },
-        "client_reasoning": "I’m beginning to see that my situation at work isn’t as hopeless as I thought. I’ve noticed that my frustration often comes from comparing my performance to an ideal I set for myself, which is unrealistic given the challenges my students face. I want to believe that I can change my approach and find a way to connect better with them, but I’m scared that even if I try, I’ll just fail again, and that would be even more painful. Therapy feels like a mixed bag—sometimes it helps me reflect, but other times I feel like it’s pointless. I wonder if I’ll ever be able to shake off this feeling of being a failure. I want to open up about my struggles, but I hesitate because I fear being judged or misunderstood, which makes me question if this journey is worth it."
+        "client_reasoning": "I try to keep things together at work, but every day feels like a struggle. I see my students struggling, and I feel like I'm failing them and myself. When I think about talking about my feelings, I just feel overwhelmed and defensive. I hear myself saying, 'What’s the point? It’s not going to change anything.' Sometimes I wonder if I even deserve to complain, given how I've been babied my whole life. It’s easier to just avoid the conversation and pretend everything is fine. I don’t like feeling exposed or judged, and I worry that opening up will just lead to more pain or shame. I can’t shake this feeling that I’m incompetent and that nothing I do matters. Therapy feels intimidating, and it’s hard to see how it could help when I feel so entrenched in my failures and frustrations."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective to explore Zac's ambivalence was not fully met as Zac still holds back on his feelings. The client's objective to understand his patterns of feeling like a failure was not sufficiently met as he has not articulated his feelings deeply.",
-          "client_utterance": "I've been thinking more about what you said last time, about focusing on my strengths. I guess I’ve always felt that recognizing my strengths would just highlight how far I fall short in other areas. It feels like a double-edged sword to think about it.",
-          "therapist_utterance": "It sounds like you're feeling conflicted about acknowledging your strengths, as it might make your perceived shortcomings feel even more pronounced. Can you share more about what strengths you believe you have, and how they make you feel in your role? Sometimes, exploring those strengths can help shift our perspective.",
-          "therapist_use": "Exploring ambivalence: encouraged Zac to articulate his conflicting feelings about recognizing strengths."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not fully explore Zac's feelings of frustration. The client's objective was not met because Zac is still feeling defensive and reluctant to share more openly.",
+          "client_utterance": "I just feel like I'm going through the motions at work. My students are struggling, and I can't help but feel like I'm failing them. Sometimes I wonder if it’s even worth it to try to fix anything when everything feels so overwhelming.",
+          "therapist_utterance": "It sounds like you feel stuck in a cycle of frustration, almost like you're on a hamster wheel. It’s understandable to feel overwhelmed when you see your students struggling and feel responsible for their challenges. What do you think that sense of failure says about how you view your role?",
+          "therapist_use": "Reflective Listening: used to validate Zac's feelings of frustration and encourage deeper reflection on his role."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to strengthen Zac's motivation for change was not completely met as Zac is still hesitant. The client's objective to explore his feelings about his job wasn't fully achieved since he hasn't identified specific strengths yet.",
-          "client_utterance": "I don't know, maybe I’m good at connecting with some students, but then I feel like I'm missing the mark with others. It’s hard to celebrate small wins when I see the big picture and it looks bleak. I just wish I could feel more consistent.",
-          "therapist_utterance": "It sounds like you’re acknowledging some connection with certain students, which is a valuable insight. At the same time, it’s understandable to feel overwhelmed by the larger challenges you face. How do those feelings of inconsistency affect your motivation to try new approaches in your teaching?",
-          "therapist_use": "Developing discrepancy: facilitated a discussion on how Zac's feelings of inconsistency affect his motivation."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because they did not sufficiently help Zac explore the discrepancy between his feelings and values. The client's objective was not met as Zac still feels defensive about discussing his issues.",
+          "client_utterance": "I guess I just expect myself to be better at this job. But then I think about how I’ve always been coddled, and it feels like I’m just not cut out for this. I don’t know if I can really change how I feel about it.",
+          "therapist_utterance": "It seems like there's a part of you that holds yourself to high standards, yet feels held back by past experiences. That tension between your expectations and your reality can be really heavy to carry. How do you think those feelings of being 'not cut out for this' impact how you engage with your students?",
+          "therapist_use": "Developing Discrepancy: used to gently explore Zac's values and how they may differ from his current experiences."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's goal of helping Zac articulate his feelings was not entirely met since he still struggles with consistency. The client's objective of understanding his patterns of feeling like a failure wasn't fully achieved as he hasn't explored how to address these inconsistencies yet.",
-          "client_utterance": "I think it just makes me feel like I’m not cut out for this job sometimes. I want to believe I can make a difference, but whenever I think about trying something new, I just get this sinking feeling. It’s like I’m stuck in a loop of self-doubt.",
-          "therapist_utterance": "That loop of self-doubt can be really challenging, especially when you want to make a difference. It’s important to recognize that many people feel this way, and it doesn’t define your abilities or potential. What might help you to break that loop and take a small step forward, even if it's just exploring an idea?",
-          "therapist_use": "Eliciting change talk: prompted Zac to discuss potential small steps to break his self-doubt loop."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because they have not yet fully acknowledged Zac's feelings of helplessness. The client's objective was not met as Zac remains resistant to sharing more about his feelings.",
+          "client_utterance": "Honestly, I just feel like I’m stuck. I want to help my students, but I constantly feel like I’m failing them and myself. It’s like I can’t escape this feeling that nothing I do matters.",
+          "therapist_utterance": "That feeling of being stuck can be incredibly isolating, especially when you care so much about your students. It’s valid to feel that way, and it can be hard to see any progress when you’re in that mindset. What do you think would help you see that your efforts do matter, even if they don’t meet your expectations?",
+          "therapist_use": "Expressing Empathy: used to validate Zac's feelings and create a safe space for him to explore his emotions."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of exploring Zac's ambivalence was not fully met as Zac hasn't identified specific actions he is willing to consider. The client's objective of exploring his feelings about his job remains unmet since he hasn't articulated any specific plans for change yet.",
-          "client_utterance": "I guess maybe I could try talking to my colleagues more about what they do when they feel stuck. It feels intimidating to reach out, but I suppose it could be helpful. I just worry they might think I’m not capable.",
-          "therapist_utterance": "That sounds like a great idea, Zac! Talking to your colleagues could provide new perspectives and support, which might alleviate some of that intimidation. Remember, reaching out doesn’t mean you’re incapable; it shows strength and a willingness to learn.",
-          "therapist_use": "Eliciting change talk: encouraged Zac to consider reaching out to colleagues as a small change."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because they haven't yet prompted Zac to reflect on his thoughts about his competence. The client's objective was not met as Zac continues to express reluctance to open up further.",
+          "client_utterance": "I don’t know... it just feels pointless. Sometimes I think that just getting through the day without crashing is enough. I feel like I shouldn’t even complain when other people have it worse.",
+          "therapist_utterance": "It's understandable to feel that way, especially when it seems like others are facing bigger challenges. Your struggles are still valid, and it’s important to recognize that feeling overwhelmed is a common experience. How do you think comparing your situation to others affects your feelings about yourself?",
+          "therapist_use": "Reflective Listening: used to validate Zac's feelings of helplessness and encourage him to reflect on self-comparison."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of evoking Zac's motivation for change was not fully met as Zac still expresses doubt. The client's objective of understanding his feelings about his job hasn't been fully addressed since he still hesitates to commit to any next steps.",
-          "client_utterance": "I know it makes sense to reach out, but what if it doesn’t help? What if I can’t find any solutions, and I just feel worse? That thought really holds me back.",
-          "therapist_utterance": "It's completely valid to feel apprehensive about the potential outcomes of reaching out. What if we looked at this from a different angle? Could we explore some evidence that suggests reaching out could actually lead to positive changes, rather than focusing solely on the risks?",
-          "therapist_use": "Decatastrophizing: guided Zac to challenge his beliefs about the potential negative outcomes of reaching out."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because they haven't fully addressed Zac's cognitive distortions. The client's objective was not met as Zac still holds back from expressing deeper feelings.",
+          "client_utterance": "I guess I just feel like I’m not allowed to be frustrated. It's like I’m undermining the struggles of others if I even mention my own. I keep telling myself that I should just tough it out.",
+          "therapist_utterance": "It's important to acknowledge that your feelings are valid, and you deserve to express them. Toughing it out can often lead to more frustration and sadness. What would it look like for you to allow yourself to feel and express your frustrations without judgment?",
+          "therapist_use": "Expressing Empathy: used to reassure Zac that his feelings are valid and to encourage exploration of his emotional experiences."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to strengthen motivation for change was not met as Zac remains focused on negative outcomes. The client's objective of exploring feelings about his job isn't sufficiently met since he hasn't recognized any potential positive outcomes.",
-          "client_utterance": "I guess if I think about it, there have been times when talking to others has helped me figure things out. But it always feels like a gamble to me. I wish I could feel more certain about it.",
-          "therapist_utterance": "It's understandable to feel uncertain about reaching out, especially when it feels like a gamble. However, reflecting on those past experiences can be a powerful motivator for change. What do you think are the most significant factors that helped you in those previous conversations?",
-          "therapist_use": "Eliciting change talk: encouraged Zac to reflect on past successful experiences that could motivate him to reach out."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because they have not sufficiently helped Zac challenge his feelings of incompetence. The client's objective was not met as Zac continues to feel defensive about his struggles.",
+          "client_utterance": "I don’t know. It feels like if I really opened up, I’d just be exposing myself to more pain. I feel like I’ve been incompetent for so long that it just feels like a fact now.",
+          "therapist_utterance": "It can be really tough to challenge those long-held beliefs about oneself, especially when they've been reinforced over time. I want you to know that it’s okay to feel this way, but also that there might be another perspective worth exploring. What if we looked at your efforts and recognized them as part of your journey rather than as failures?",
+          "therapist_use": "Decatastrophizing: used to introduce the concept of exploring alternative perspectives on Zac's feelings of incompetence."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective of exploring Zac's ambivalence was met as he began to recognize past successes. The client's objective of understanding his feelings about his job was achieved, as Zac articulated potential next steps he could take to improve his situation. This indicates a shift toward contemplating actionable change.",
-          "client_utterance": "I remember a time when I reached out and got some great feedback that helped me improve. Maybe I need to remind myself of those moments and trust that not every conversation will lead to failure. I think I could try to talk to someone next week.",
-          "therapist_utterance": "That’s a fantastic realization, Zac! Recognizing your past successes can be a strong motivator to take action now. It sounds like you’re feeling more open to trying new approaches, and that’s a significant step forward. I’m proud of you for considering reaching out next week.",
-          "therapist_use": "Eliciting change talk: reinforced Zac's recognition of past successes as a motivator for future action."
+          "reason_for_ending": "MOVE: The therapist's objective was met as they successfully encouraged Zac to explore his feelings and thoughts in depth. The client's objective was met as Zac expressed more willingness to share his feelings without feeling judged, indicating a shift towards openness.",
+          "client_utterance": "I think I’m starting to see that maybe I can talk about this without it being so heavy. I still feel overwhelmed, but I might be able to work through some of these feelings. It feels a little less daunting now.",
+          "therapist_utterance": "That's a significant shift, Zac! Recognizing that you can share your feelings without them being a burden is a big step forward. I'm here to support you as you navigate through these thoughts and emotions, and it’s okay to take your time.",
+          "therapist_use": "Reflective Listening: used to validate Zac's progress and encourage continued exploration of his feelings."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "To explore and resolve Zac's ambivalence about change and increase his motivation.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Begin by inviting Zac to share his thoughts on the conflict he feels about his current situation and the possibility of change.",
+                "Use reflective listening to validate his feelings and encourage deeper exploration of both his desire to change and his fears.",
+                "Ask open-ended questions such as, 'What do you think would happen if you decided to make a change?' to elicit his thoughts on potential outcomes."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Encourage Zac to articulate reasons for wanting to change by asking, 'What are some benefits you see in making a change in your work or personal life?'",
+                "Highlight any statements of motivation or hope he expresses, reinforcing these thoughts to strengthen his commitment to explore change."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Facilitate a discussion about the pros and cons of his current behavior versus potential changes he may consider.",
+                "Utilize a scale from 1 to 10 to assess how important he feels it is to change and how confident he is in his ability to change, prompting him to reflect on the reasons behind his ratings."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Decatastrophizing",
+              "instructions_for_therapist": [
+                "Introduce the concept of all-or-nothing thinking and how it impacts Zac's self-perception and emotional state.",
+                "Help him identify specific negative thoughts related to his feelings of failure, and guide him to challenge these thoughts by seeking evidence for and against them.",
+                "Encourage him to generate alternative, balanced thoughts that emphasize effort and learning rather than solely focusing on outcomes.",
+                "Discuss the worst-case scenario and its likelihood, helping him to reframe his situation and recognize progress.",
+                "Develop coping strategies for managing frustration, such as mindfulness techniques, and assign reflective homework to reinforce positive acknowledgment of his efforts."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "The approach begins by addressing Zac's ambivalence through Motivational Interviewing (MI) strategies. First, exploring ambivalence allows him to express conflicting feelings about change, fostering a safe space for reflection. Utilizing reflective listening validates his emotions and highlights both fears and desires, enhancing his self-awareness. Next, eliciting change talk encourages him to articulate benefits he sees in making changes, reinforcing motivation. This is complemented by decisional balance discussions, enabling Zac to weigh the pros and cons of his current behavior versus potential change, deepening his contemplation phase. The CBT interventions, specifically decatastrophizing, are introduced to help him challenge his catastrophic thinking patterns. By identifying and reframing unhelpful thoughts, Zac can start to recognize his efforts as valuable, moving away from a fixed mindset. The combination of MI and CBT interventions addresses his advanced resistance by validating his frustrations while gently guiding him toward insight and motivation without pushing for immediate action.",
+        "progress_marker": "Zac expresses a clearer understanding of his ambivalence, identifies specific thoughts contributing to his feelings of failure, and begins to articulate potential benefits of change."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I want to explore my feelings about my job and whether change is really possible for me.",
+        "client_state": {
+          "awareness": "I'm starting to see that my expectations for myself and my job might be unrealistic, and I recognize that my frustration stems from my past experiences.",
+          "motivation": "Part of me wants to change and improve my situation, but another part feels stuck and questions if it's worth the effort.",
+          "openness": "I'm beginning to share my thoughts and feelings more, but I still hold back some of my deeper fears and doubts about my abilities.",
+          "resistance": "I have strong doubts about whether therapy can actually help me, and I feel frustrated that I can't just find a solution quickly."
+        },
+        "client_reasoning": "I've been reflecting on my role at work and how I feel like I'm failing. I notice that I'm often ruminating on past mistakes, which makes me feel even more sad and lonely. It's frustrating because I want to do better, but I also feel overwhelmed by the idea of making changes. I recognize that my upbringing has made me feel helpless and incapable of handling challenges. Therapy is helping me to see these patterns, but I still feel conflicted about whether I can truly change. Part of me thinks that talking about these issues might lead to some insight, but another part is skeptical and feels like it won't lead anywhere. I keep wondering if I'm just wasting my time, especially since I often erupt with frustration instead of finding productive ways to cope. It's a tough space to be in, where I want to hope for better but can't shake the feeling of doubt."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met, as ambivalence about change still exists. Client objective not met, as deeper fears and doubts remain unaddressed.",
+          "client_utterance": "I've been thinking about how I feel stuck in my job, and part of me wonders if making a change could help, but I really don’t know if I’m capable of it. It feels like a huge leap, and I’m scared of failing even more.",
+          "therapist_utterance": "It's understandable to feel both drawn to the idea of change and fearful of the potential consequences. What do you think would happen if you decided to make that leap, even if it feels daunting?",
+          "therapist_use": "Exploring Ambivalence: Invited Zac to share thoughts about the conflict he feels regarding change."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met, as Zac's fears about change still need exploration. Client objective not met, as he hasn’t articulated specific benefits of change.",
+          "client_utterance": "I guess if I changed, maybe I could feel less overwhelmed, but I worry that I might just end up feeling more frustrated if things don't work out. It’s like a part of me thinks it would be better, but another part fears I’ll just fail again.",
+          "therapist_utterance": "That tension between hope and fear is really powerful. What are some specific benefits you see in making a change, even if it feels risky?",
+          "therapist_use": "Eliciting Change Talk: Encouraged Zac to articulate reasons for wanting to change."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met, as Zac still hasn't fully explored the pros and cons of his current situation. Client objective not met, as he hasn't fully engaged with his feelings about change.",
+          "client_utterance": "I suppose if I could change how I view my job, I might feel more fulfilled, but then I think about the risks involved. It’s just hard to imagine things being different when I feel so stuck in this mindset.",
+          "therapist_utterance": "It sounds like you're weighing the possibility of feeling fulfilled against the fear of change. Let's explore what you feel are the pros and cons of staying in your current situation versus making a change.",
+          "therapist_use": "Decisional Balance Discussions: Facilitated a discussion about the pros and cons of his current behavior versus potential changes."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met, as Zac's feelings about staying versus changing need further exploration. Client objective not met, as he hasn't yet identified how important change is to him.",
+          "client_utterance": "Staying feels safe, but it also feels like I’m just settling for less. Maybe I should feel more motivated to change, but I don't know how important it really is to me.",
+          "therapist_utterance": "It’s a valid point; staying can feel comfortable, but it might not lead to the fulfillment you seek. On a scale from 1 to 10, how important is it for you to make a change, and why did you choose that number?",
+          "therapist_use": "Assessing Importance: Used a scale to gauge how important Zac feels change is and encourage reflection."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met, as Zac's confidence in his ability to change needs to be assessed. Client objective not met, as he hasn't fully explored the reasons behind his feelings of importance.",
+          "client_utterance": "I think I’d rate it a 6. I definitely want things to be better, but I’m not sure I have what it takes to make that happen. Sometimes it feels like I’m just wishing for a miracle.",
+          "therapist_utterance": "That’s a great insight, Zac. A 6 shows that there’s some motivation there, even if it feels distant. What do you think would help you feel more confident in your ability to make a change?",
+          "therapist_use": "Exploring Confidence: Encouraged Zac to reflect on what might increase his confidence in making changes."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met, as Zac still needs to identify specific steps to build confidence. Client objective not met, as he hasn't articulated deeper fears about his capabilities.",
+          "client_utterance": "I guess if I started with small steps, I might feel less overwhelmed. But then I worry that even small changes could lead to more frustration if I mess up.",
+          "therapist_utterance": "Starting with small steps sounds like a manageable approach. What specific small steps could you take that feel less intimidating but still meaningful toward making a change?",
+          "therapist_use": "Identifying Small Steps: Guided Zac to consider actionable steps that feel less overwhelming."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist objective met, as Zac has explored his ambivalence and identified potential small steps toward change. Client objective met, as he has begun to articulate his feelings about change and the importance of taking small steps.",
+          "client_utterance": "I think I could start by just reflecting on my day-to-day experiences and recognizing my efforts, rather than focusing on failures. That feels like a step I can take.",
+          "therapist_utterance": "That’s a wonderful realization, Zac! Acknowledging your efforts can really shift your perspective and help you feel more capable. I'm proud of you for recognizing that as a step forward.",
+          "therapist_use": "Reinforcing Progress: Validated Zac's commitment to recognizing his efforts, solidifying his motivation for change."
         }
       ]
     },
@@ -247,22 +217,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Zac's commitment to change by exploring his motivations and increasing his confidence in implementing new strategies.",
+          "objective": "Strengthen Zac's commitment to change and build his confidence for taking actionable steps.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Zac about specific changes he wants to make in his work and personal life.",
-                "Encourage him to articulate his reasons for wanting to change and how he envisions success.",
-                "Use reflective listening to reinforce his commitment statements."
+                "Ask Zac to express his reasons for wanting to change and encourage him to articulate these in his own words.",
+                "Reflect on his statements to reinforce his motivation, emphasizing his desire to improve his effectiveness at work.",
+                "Guide him in setting specific goals for change, ensuring they are realistic and achievable."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss Zac's past successes, no matter how small, to highlight his capability.",
-                "Prompt him to rate his confidence on a scale of 1-10 regarding making these changes.",
-                "Facilitate a discussion around what would increase his confidence level."
+                "Discuss with Zac his past successes and how they relate to his current situation to boost his self-efficacy.",
+                "Ask open-ended questions to explore what supports he might need to feel more prepared for change.",
+                "Normalize feelings of uncertainty and fear, reinforcing that these are common in the change process."
               ]
             }
           ]
@@ -270,79 +240,67 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Collaborate with Zac to draft a short-term action plan for one or two specific changes he can implement.",
-                "Ensure the action steps are realistic and manageable to avoid overwhelming Zac.",
-                "Set a timeline for each action step, and establish regular check-ins to assess progress."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Guide Zac in identifying potential barriers to his action plan and brainstorm realistic solutions.",
-                "Encourage Zac to think of past instances where he successfully navigated challenges.",
-                "Create a 'barrier and solution' list together to refer back to when he feels stuck."
+                "Begin by discussing Zac's recent work experiences and the feelings of helplessness they generated.",
+                "Guide him to articulate specific negative thoughts and challenge them by evaluating evidence for and against them.",
+                "Help him reframe his thoughts to focus on learning and growth rather than solely on outcomes.",
+                "Encourage Zac to develop practical coping strategies for managing frustration, such as mindfulness exercises or setting small goals.",
+                "Assign a homework task to reflect on daily efforts and note any positive impacts, reinforcing recognition of progress."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan for Zac, I recognized his advanced resistance level and the need to engage him meaningfully in the preparatory phase. First, I employed MI strategies to strengthen his commitment to change, focusing on his intrinsic motivations and past successes. By prompting him to articulate his reasons for change, I aimed to foster a deeper emotional connection to his goals. Next, I assessed his confidence and readiness, ensuring his feelings of self-efficacy were acknowledged, which is crucial given his feelings of helplessness. In the CBT intervention, I introduced action planning to help Zac establish specific, achievable steps that align with his readiness to act. This approach allows him to incrementally implement changes, reinforcing his belief in his capabilities. The problem-solving skills training complements this by addressing potential barriers proactively, which aligns with Zac's tendency to ruminate on failures. Together, these strategies create a supportive framework that respects his resistance while promoting engagement and commitment to change.",
-        "progress_marker": "Zac has identified at least one actionable step he is committed to taking within the next week and has expressed confidence in his ability to follow through."
+        "therapist_reasoning": "In developing this therapy plan for Zac, I recognized that he is in the Preparation phase, which requires a blend of Motivational Interviewing (MI) and Cognitive Behavioral Therapy (CBT). First, I employed MI strategies to strengthen his commitment to change by encouraging him to articulate his reasons for wanting to improve his effectiveness at work. This builds motivation while also allowing him to express his uncertainties. Simultaneously, I explored Zac's confidence and readiness by discussing past successes, reinforcing his ability to handle challenges. Moving to the CBT interventions, I implemented decatastrophizing techniques to help Zac challenge his catastrophic thinking patterns about his work performance. By assisting him in identifying and reframing negative thoughts, we can shift his focus from feelings of defeat to recognizing his efforts and learning opportunities. This approach also allows us to collaboratively develop achievable action steps that promote gradual change without overwhelming him, addressing his advanced resistance by validating his feelings and emphasizing manageable progress.",
+        "progress_marker": "Zac will track his reflections on daily efforts and positive impacts, aiming to recognize at least three instances of success or learning each week."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore potential strategies to improve my effectiveness at work and feel more confident in my role.",
+        "client_objective": "I hope to identify practical steps to improve my situation at work and feel more competent in my role.",
         "client_state": {
-          "awareness": "I recognize that my current methods are not working and that I need to change my approach to better support my students.",
-          "motivation": "I feel a stronger desire to make improvements in my work and personal life, driven by a wish to be more effective and fulfilled.",
-          "openness": "I'm willing to share my thoughts and emotions with my therapist, though I still hesitate to fully embrace change.",
-          "resistance": "I experience significant doubts about my ability to change and fear that my efforts may not be successful."
+          "awareness": "I recognize that my current approach isn't working and that I need to change to better support my students.",
+          "motivation": "I feel a strong desire to improve my effectiveness as a teacher and connect better with my students.",
+          "openness": "I'm willing to discuss my thoughts and feelings with my therapist, but I still have some reservations about whether change is truly possible.",
+          "resistance": "I experience significant doubt and frustration about my ability to implement change and worry that my efforts may fail."
         },
-        "client_reasoning": "I now realize that my current situation is not sustainable, especially in my job where I feel increasingly ineffective and frustrated. I see that I need to adopt new strategies to connect better with my students and to manage my frustrations. Change feels necessary because I want to find fulfillment in my work and stop feeling like a failure. However, I still have lingering fears about whether I can truly make these changes stick. It’s hard to shake the feeling that my efforts might not lead to the results I hope for. Therapy has helped me begin to articulate these emotions and doubts, and I feel a cautious optimism about exploring new coping strategies, even if part of me remains skeptical about their effectiveness."
+        "client_reasoning": "I’ve started to realize that my current situation at work isn’t sustainable. My frustration with my students and myself has made me acknowledge that something has to change, and I can’t keep doing things the way I have been. I feel motivated to find better ways to engage my students and help them succeed, but there’s a part of me that fears I’ll just end up disappointed again. I remember times when I’ve tried to change my approach but didn’t see the results I wanted, which makes me hesitant. Despite this, I’m beginning to see therapy as a potential source of support. I feel a glimmer of hope that maybe I can find strategies that work for me. This process of reflecting in therapy is making me more aware of my feelings and my needs, and I want to channel that into actionable steps, even though I’m still scared about failing again."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Zac hasn't fully explored specific changes he wants to make. The client objective was not met as Zac has not yet articulated his reasons for wanting to change.",
-          "client_utterance": "I think I could try talking to my colleagues next week, but I’m still not sure how I’ll feel after that. What if it doesn’t lead to anything useful? I just don’t want to set myself up for disappointment again.",
-          "therapist_utterance": "It’s understandable to feel apprehensive about the potential outcomes. Sometimes, the fear of disappointment can hold us back from taking a step forward. What would it look like for you to approach this conversation with a mindset of curiosity, rather than expectation?",
-          "therapist_use": "Exploring Confidence and Readiness: Encouraging Zac to approach the conversation with curiosity helps him reframe his fears."
+          "reason_for_ending": "KEEP; the therapist objective was not met because they didn't explore Zac's past successes in detail, and the client objective was not met as Zac hasn't articulated specific goals yet.",
+          "client_utterance": "I've been thinking about how I can start making changes at work. I want to be more effective, but I still feel unsure about what specific steps I can take. I don't want to set myself up for more disappointment, so I need to be careful.",
+          "therapist_utterance": "It’s great to hear that you’re considering how to make changes. What comes to mind when you think about specific actions you could take that feel both manageable and meaningful? Reflecting on past experiences where you felt successful could be a great starting point.",
+          "therapist_use": "Open-ended questioning: used to encourage Zac to think about actionable steps and reflect on past successes."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because the conversation did not lead to Zac articulating clear motivations for change. The client objective was not met as Zac is still expressing doubts without committing to a specific change.",
-          "client_utterance": "I guess I could try to think of it that way. If I’m just curious, maybe it won’t feel as intimidating. But part of me still worries about looking foolish or feeling like I’m not doing enough.",
-          "therapist_utterance": "It’s really brave of you to acknowledge those feelings, Zac. Remember that everyone has moments of doubt, and reaching out can actually strengthen your connections with colleagues. What motivates you to want to improve in your role despite these fears?",
-          "therapist_use": "Strengthening Commitment Language: Encouraging Zac to identify his motivations helps him connect emotionally to his goals."
+          "reason_for_ending": "KEEP; the therapist objective was not met because they didn't sufficiently reinforce Zac's motivation by reflecting on his past successes, and the client objective was not met as Zac hasn't identified any concrete goals yet.",
+          "client_utterance": "I guess I remember times when I connected well with a few students, but it feels like those moments are so rare. I really want to feel that again, but I worry that it might not happen consistently. It's just hard to picture myself being effective regularly.",
+          "therapist_utterance": "Those moments of connection with your students are important to recognize and can serve as a foundation for your growth. What do you think helped you create those connections in the past? Perhaps we can identify some strategies based on those successes.",
+          "therapist_use": "Strengthening Commitment Language: used to reinforce Zac's motivation by linking his desire for change to past successes."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Zac hasn’t yet named specific motivations for change. The client objective was not met as Zac is still grappling with conflicting feelings about his abilities.",
-          "client_utterance": "I want to feel like I’m making a difference for my students. I know I can connect with some of them, but I just wish I could do that consistently. It’s frustrating when I feel like I'm falling short.",
-          "therapist_utterance": "Feeling that disconnect can be really tough, especially when you care so much about your students. It sounds like you have a genuine desire to improve and to be more effective. How might focusing on those moments when you do connect with your students help you feel more confident going forward?",
-          "therapist_use": "Reflective Listening: Validating Zac's feelings while reinforcing his desire to improve to help him build confidence."
+          "reason_for_ending": "KEEP; the therapist objective was not met because they didn't assist Zac in setting specific, achievable goals based on his reflections, and the client objective was not met as Zac still hasn't articulated any actionable steps.",
+          "client_utterance": "I think it was just about being more patient and understanding with them. I know it’s a skill I can develop, but I still struggle to make it a habit. I want to find practical ways to apply that kind of connection more often.",
+          "therapist_utterance": "That's a valuable insight, Zac! Developing patience and understanding is definitely a skill that can be nurtured. What small, practical steps could you take to practice that daily, even in challenging situations? Setting specific goals will help you feel more competent over time.",
+          "therapist_use": "Goal-setting: used to guide Zac in identifying small, practical steps to enhance his effectiveness."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Zac has not yet developed a concrete action plan. The client objective was not met as Zac has not committed to specific strategies for change.",
-          "client_utterance": "I suppose if I remember those times when I connect, it might give me the push I need. But I still feel like I need a clear plan for how to actually improve. Just thinking about it feels overwhelming.",
-          "therapist_utterance": "It’s completely normal to feel overwhelmed when considering change. Let’s break it down into smaller steps together. What’s one specific action you could take this week that feels manageable?",
-          "therapist_use": "Action Planning: Collaborating with Zac to create a manageable step towards change to reduce feelings of overwhelm."
+          "reason_for_ending": "KEEP; the therapist objective was not met because they didn't sufficiently emphasize Zac's ability to manage frustration with practical strategies, and the client objective was not met as Zac hasn't committed to any specific goals yet.",
+          "client_utterance": "I think if I just focused on one student at a time, I might be able to connect better. But I still fear that I'll mess it up and let them down. I want to try, but it feels risky.",
+          "therapist_utterance": "It’s understandable to feel that way, but taking it one student at a time sounds like a solid approach. Remember, it's okay to make mistakes; they can lead to important learning opportunities. What would you need to feel more prepared to take that first step?",
+          "therapist_use": "Exploring Confidence and Readiness: used to discuss Zac's fears and normalize his feelings while encouraging small steps."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Zac has not yet committed to a specific action step. The client objective was not met as Zac is still feeling overwhelmed without clear steps.",
-          "client_utterance": "Maybe I could start by just asking one colleague for advice. It feels like a small step, but I’m still unsure about whether that will really help me. I guess it’s a start, but I’m not fully convinced.",
-          "therapist_utterance": "Starting small is an excellent approach, Zac! Every little step counts, and reaching out to even one colleague can open up new possibilities. What do you think would help you feel more confident about taking that step?",
-          "therapist_use": "Exploring Confidence and Readiness: Encouraging Zac to reflect on his confidence in taking a small step to support his action planning."
+          "reason_for_ending": "KEEP; the therapist objective was not met because they didn't help Zac identify coping strategies for managing his fears, and the client objective was not met as Zac hasn't made a clear commitment to change.",
+          "client_utterance": "I guess I could remind myself that it’s okay to not be perfect. Maybe I could even track my efforts and see where I do succeed. But I’m still worried about whether I’ll really stick to it.",
+          "therapist_utterance": "That’s a fantastic realization, Zac! Tracking your efforts can really help you recognize your progress and build confidence over time. What if we set a goal for you to reflect on your daily experiences and note at least three instances of success or learning each week?",
+          "therapist_use": "Goal-setting: used to establish a concrete plan for Zac to track his reflections and recognize progress."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Zac has not fully articulated his confidence levels or barriers. The client objective was not met as Zac remains uncertain about his plan.",
-          "client_utterance": "I think if I remind myself of past successes when I reached out, that might help. I still worry that it won’t go well, but I can see how taking that first step could be beneficial.",
-          "therapist_utterance": "That’s a powerful realization, Zac! Recalling your past successes can definitely build your confidence. Let’s take that a step further: what’s one potential barrier you foresee in reaching out, and how might you navigate it?",
-          "therapist_use": "Problem-Solving Skills Training: Encouraging Zac to identify barriers and brainstorm solutions to enhance his confidence."
-        },
-        {
-          "reason_for_ending": "MOVE - The therapist's objective was met as Zac has started to articulate specific steps and barriers, showing readiness to change. The client objective was met as Zac expressed a clear action plan and increased confidence.",
-          "client_utterance": "I think my main worry is just the fear of rejection. If I keep reminding myself of the positive outcomes from past conversations, I believe I can push through that. I’m feeling more ready to reach out next week.",
-          "therapist_utterance": "That’s wonderful to hear, Zac! Acknowledging that fear yet still feeling ready to take action shows a lot of growth. I’m excited for you to take this step and look forward to hearing how it goes in our next session.",
-          "therapist_use": "Strengthening Commitment Language: Reinforcing Zac's commitment to change and his readiness to take action."
+          "reason_for_ending": "MOVE; the therapist objective was met as they helped Zac set actionable goals and reinforce his motivation, and the client objective was met as Zac articulated a specific plan for tracking his efforts.",
+          "client_utterance": "I like that idea! Setting a goal to track my efforts feels doable. I think it will help me stay focused on the positive changes I’m trying to make, which is something I really want.",
+          "therapist_utterance": "I'm really glad to hear that! Tracking your efforts will not only help you recognize your successes but also keep you motivated. You’re taking an important step toward improving your effectiveness and connection with your students, and I'm here to support you through this process.",
+          "therapist_use": "Reflection and affirmation: used to validate Zac's commitment and reinforce the positive steps he is taking."
         }
       ]
     }

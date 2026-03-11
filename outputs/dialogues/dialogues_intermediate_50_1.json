@@ -12,34 +12,157 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase Lily's awareness of her thoughts and feelings regarding Ethan's situation.",
+          "objective": "To increase Lily's awareness of her feelings about Ethan's behavior without pushing for immediate change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Lily's concerns about Ethan, reflecting her emotions back to her to validate her feelings.",
-                "Encourage her to express her thoughts without judgment, allowing her to feel safe in sharing her experiences."
+                "Encourage Lily to express her feelings about Ethan and validate her emotions.",
+                "Use reflective statements to show understanding, such as 'It sounds like you're feeling overwhelmed by Ethan's actions.'"
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge the complexity of her feelings toward Ethan and the distress caused by his behavior.",
-                "Convey understanding of her helplessness and anxiety, reinforcing that these feelings are common in such situations."
+                "Acknowledge Lily's distress regarding Ethan's situation and her feelings of responsibility.",
+                "Communicate that her feelings are valid and that it's okay to feel anxious about the situation."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the disparity between Lily's values of loyalty and the reality of Ethan's harmful behavior.",
-                "Encourage her to reflect on how these discrepancies affect her emotional state and sense of self."
+                "Gently explore the difference between Lily's values regarding friendship and her feelings of helplessness.",
+                "Ask questions like 'How do you feel about the way you view your role in supporting Ethan?' to help her reflect on her beliefs."
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Prompt Lily to consider how her coping strategies, such as excessive drinking, align with her values and long-term goals.",
-                "Help her explore the impact of her current behaviors on her mental well-being without pushing for change."
+                "Encourage Lily to explore the impact of her self-blaming thoughts on her mental health.",
+                "Ask open-ended questions that prompt reflection, such as 'What do you think about the idea that you are not solely responsible for Ethan's choices?'"
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Identify Automatic Thoughts",
+              "instructions_for_therapist": [
+                "Guide Lily to articulate her specific thoughts during and after the incident with Ethan.",
+                "Write these thoughts down to enhance clarity and encourage her to engage with them."
+              ]
+            },
+            {
+              "technique_name": "Challenge the Thoughts",
+              "instructions_for_therapist": [
+                "Use Evidence-Based Questioning to help Lily examine the validity of her self-blame.",
+                "Ask questions such as 'What evidence do you have that you are responsible for Ethan's actions?' to promote critical thinking."
+              ]
+            },
+            {
+              "technique_name": "Explore Alternative Explanations",
+              "instructions_for_therapist": [
+                "Discuss alternative interpretations of Ethan's behavior, emphasizing personal responsibility.",
+                "Encourage Lily to consider that Ethan's choices may not reflect her worth or judgment."
+              ]
+            },
+            {
+              "technique_name": "Practice Self-Compassion",
+              "instructions_for_therapist": [
+                "Introduce self-compassion exercises to help Lily acknowledge her feelings without judgment.",
+                "Encourage her to recognize that feeling overwhelmed is a normal response and that it's okay to not have control over others."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In this session, I will focus on creating a safe space for Lily to explore her feelings regarding Ethan without pressuring her for change. I will use reflective listening to validate her emotions and express empathy towards her distress. This approach will help reduce her defensiveness and encourage her to share her thoughts more openly. By developing a discrepancy between her values and current feelings, I aim to raise her awareness of the impact of self-blame on her mental health. The CBT interventions will guide her in identifying and challenging her automatic thoughts, allowing her to see that her responsibility for Ethan's actions is not as absolute as she believes. Through exploring alternative explanations, she'll understand that Ethan's choices are his own. Finally, practicing self-compassion will help her acknowledge her feelings while fostering a sense of acceptance regarding her limitations in controlling others. This structured approach aligns with her resistance profile, allowing for curiosity and engagement without pushing for immediate action.",
+        "progress_marker": "Lily begins to articulate her feelings about Ethan and shows willingness to explore her thoughts and beliefs without defensiveness."
+      },
+      "client_plan": {
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I hope to find a way to talk about Ethan without feeling overwhelmed or judged.",
+        "client_state": {
+          "awareness": "I know something is wrong with Ethan, but I don’t fully understand how it affects me.",
+          "motivation": "I feel a mix of wanting to help Ethan and feeling like it’s hopeless.",
+          "openness": "I want to share my feelings, but I’m afraid of being vulnerable.",
+          "resistance": "I feel defensive about discussing Ethan because it brings up too many painful thoughts."
+        },
+        "client_reasoning": "I keep thinking about how Ethan's situation is spiraling out of control, and it makes me anxious. I want to talk about it, but I feel like I can't find the right words or that I might just end up sounding foolish. Part of me believes that if I can't help him, it means I've failed him, which is terrifying. It's easier to avoid the topic and focus on how others are reacting rather than face my own feelings. I feel overwhelmed by my emotions, like worry and fear, and I can't shake the belief that I’m unlovable and that people, including Ethan, will end up hurting me. Therapy feels like a double-edged sword; on one hand, it’s a potential relief, but on the other, it feels risky to expose my inner turmoil. I really don’t know if discussing this will lead to anything good, and that uncertainty makes me want to retreat even more."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met; not enough exploration of Lily's feelings. Client objective not met; fears of vulnerability still present.",
+          "client_utterance": "I've been thinking a lot about Ethan and how I feel like I should do something, but I just don't know what. It makes me feel anxious because I can't shake the feeling that if I don't help him, I’m failing him somehow. I don't want to look foolish by bringing it up, but it’s just weighing on me.",
+          "therapist_utterance": "It sounds like you're feeling really overwhelmed by the pressure to help Ethan and the fear of not being able to do so. It's understandable to feel anxious when you care about someone, especially when their situation is so serious. Can you share more about what specifically worries you the most?",
+          "therapist_use": "Reflective Listening: validated Lily's feelings of overwhelm and anxiety."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met; deeper exploration of feelings needed. Client objective not met; still feeling defensive about vulnerability.",
+          "client_utterance": "I guess I worry that if I reach out, it might just make things worse. I feel like I'm walking on eggshells, trying to figure out if I should say something or just stay quiet. At the same time, I feel this tug to be there for him, which is confusing.",
+          "therapist_utterance": "You're experiencing a real conflict between wanting to support Ethan and the fear of making things worse. It’s okay to feel that tension; many people feel caught between their values and their worries. What do you think it says about your friendship with him that you care so much?",
+          "therapist_use": "Expressing Empathy: acknowledged Lily's conflict and validated her feelings."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met; need to develop more discrepancy. Client objective not met; still avoiding deeper feelings.",
+          "client_utterance": "I’ve always believed that friends should support each other, no matter what. But then I think, what if my support isn't actually helping him? That makes me question if I’m really doing the right thing by being involved.",
+          "therapist_utterance": "It seems like you value loyalty in friendships, yet you’re also feeling uncertain about the impact of your support on Ethan. This discrepancy between your values and your feelings can create a lot of inner turmoil. How do you feel about your role in this situation, and what do you think friendship means to you right now?",
+          "therapist_use": "Developing Discrepancy: explored the difference between Lily's values and her feelings of helplessness."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met; need to further explore Lily's self-blame. Client objective not met; still struggling with feelings of failure.",
+          "client_utterance": "I keep thinking that if I don’t say something, I’m just as much to blame. It’s like I feel responsible for his choices, and that scares me. I wish I could just push these thoughts away and focus on the good times we had instead.",
+          "therapist_utterance": "It sounds like you're feeling a heavy weight of responsibility for Ethan's actions. Acknowledging those feelings is important, but it might help to consider that his choices are ultimately his own. What do you think about the idea that you aren't the sole one responsible for what he does?",
+          "therapist_use": "Raising Awareness: encouraged Lily to reflect on the impact of her self-blaming thoughts."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met; still need to challenge self-blame. Client objective not met; feelings of helplessness persist.",
+          "client_utterance": "I just feel like if I don’t intervene somehow, I’m not being a good friend. Maybe I should have seen this coming or done something differently in the past. It’s hard for me to accept that I can’t control what happens to him.",
+          "therapist_utterance": "Your feelings of wanting to be a good friend are very valid, and it’s hard to accept that you cannot control everything. It’s important to recognize that you can care deeply while also understanding your limits. What evidence do you have that you are responsible for the situation Ethan is in?",
+          "therapist_use": "Challenge the Thoughts: prompted Lily to examine the validity of her self-blame."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist objective not met; need to explore alternative explanations more. Client objective not met; still feeling overwhelmed by self-judgment.",
+          "client_utterance": "I guess I just keep thinking that if I was better, I could have helped him avoid this. It’s hard to shake that feeling, even though I know it’s not entirely my fault. I want to believe that I can be supportive without taking all the blame.",
+          "therapist_utterance": "It's great that you're recognizing that you want to be supportive without carrying all the blame. That’s a significant step towards understanding the situation better. Can you think of alternative explanations for why things have turned out this way, aside from your actions?",
+          "therapist_use": "Explore Alternative Explanations: encouraged Lily to consider other perspectives on the situation."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist objective met; explored Lily's feelings and alternative explanations. Client objective met; shared feelings without defensiveness and recognized her limitations.",
+          "client_utterance": "I think I can see that it’s not all on me, and that feels a bit relieving. I’ve been so hard on myself, and it’s good to talk about this without feeling judged. I still care about Ethan, but I need to find a way to support him without losing myself in the process.",
+          "therapist_utterance": "It’s wonderful to hear that you’re starting to feel some relief from the pressure you’ve been placing on yourself. Acknowledging your limits while caring for someone else can be a delicate balance, and it’s okay to prioritize your well-being too. How do you feel about taking small steps towards supporting Ethan without overwhelming yourself?",
+          "therapist_use": "Practicing Self-Compassion: supported Lily in acknowledging her feelings and setting boundaries."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "To explore Lily's ambivalence regarding her feelings about Ethan and her role in the situation while increasing her motivation for change.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Invite Lily to share her feelings about Ethan's behavior and her concerns.",
+                "Use open-ended questions to encourage her to express both her desire to help and her fears about the consequences of that help.",
+                "Reflect back her statements to highlight any contradictions in her thoughts and feelings."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Ask Lily what changes she might consider in her approach to supporting Ethan.",
+                "Encourage her to articulate the benefits of taking care of herself and setting boundaries.",
+                "Use affirmations to reinforce her expressions of motivation or readiness to change."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Facilitate a discussion about the pros and cons of continuing to feel responsible for Ethan's choices.",
+                "Help her identify how her current behaviors align or misalign with her personal values."
               ]
             }
           ]
@@ -49,207 +172,84 @@
             {
               "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Ask Lily to identify specific instances when she felt helpless or out of control regarding Ethan.",
-                "Encourage her to provide evidence that supports her beliefs about her inability to help him."
+                "Begin by discussing Lily's feelings and thoughts regarding Ethan's behavior.",
+                "Identify her automatic thoughts, particularly around feelings of responsibility.",
+                "Challenge these thoughts by exploring their validity and discussing alternative interpretations."
               ]
             },
             {
-              "technique_name": "Reality Testing",
+              "technique_name": "Practice Self-Compassion",
               "instructions_for_therapist": [
-                "Help Lily assess the accuracy of her thoughts about Ethan's situation by discussing alternative perspectives.",
-                "Encourage her to consider different explanations for his behavior, reducing the pressure she feels to 'fix' him."
+                "Introduce self-compassion exercises to help Lily acknowledge her feelings without judgment.",
+                "Encourage her to recognize that it is okay not to control others' actions."
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Reframing Thoughts",
               "instructions_for_therapist": [
-                "Invite Lily to describe how she would view a friend in a similar situation, fostering self-compassion.",
-                "Encourage her to explore how her interpretations of events could change if she viewed them through a different lens."
-              ]
-            },
-            {
-              "technique_name": "Continuum Technique",
-              "instructions_for_therapist": [
-                "Guide Lily to rate her feelings of responsibility for Ethan's actions on a scale from 1 to 10.",
-                "Discuss what influences her rating and explore the nuances of responsibility in relationships."
+                "Work with Lily to reframe her thoughts from 'I need to fix this' to 'I can support Ethan, but I am not responsible for his choices.'",
+                "Discuss how this reframing can alleviate some of her anxiety and self-blame."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Lily's situation, I first recognized her key cognitive patterns of helplessness and unlovability, alongside her emotional drivers of anxiety and fear regarding Ethan's behavior. Using Motivational Interviewing, I chose reflective listening to validate her feelings and foster a safe space for her to express herself. Expressing empathy was crucial to acknowledge the distress she feels without pushing for immediate change. Developing discrepancy allowed us to explore her values versus the reality of Ethan's actions, promoting self-reflection. I also aimed to raise her awareness of her coping strategies by linking them to her values and long-term goals. In conjunction with MI, I integrated CBT techniques like evidence-based questioning to challenge her beliefs about helplessness, reality testing to assess her perceptions of Ethan's behavior, and alternative perspectives to foster self-compassion. The continuum technique provided a framework for discussing her feelings of responsibility. This combination of strategies addresses her indirect resistance while encouraging curiosity and engagement without suggesting any behavioral changes yet.",
-        "progress_marker": "Lily begins to articulate her feelings and thoughts about Ethan's situation more openly, demonstrating increased self-awareness and reduced defensiveness."
-      },
-      "client_plan": {
-        "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand my feelings about Ethan without feeling pressured to change anything.",
-        "client_state": {
-          "awareness": "I know something is wrong with Ethan, but I don't see it as my problem to fix.",
-          "motivation": "I don't really want to change anything right now; I just want to cope with how I feel.",
-          "openness": "I'm hesitant to share my feelings because I don't know if they'll be understood or if I'm even allowed to feel this way.",
-          "resistance": "I feel anxious about discussing Ethan and my feelings; I prefer to avoid it."
-        },
-        "client_reasoning": "I can’t shake the feeling that Ethan is spiraling out of control, and it makes me anxious just thinking about it. I want to talk about how I feel, yet I’m not sure where to start, or if I should even bring it up. It’s like I’m stuck in this loop of feeling responsible for him, but deep down, I believe that if I can’t fix his problems, I’ve failed him. It’s overwhelming, and I’m scared that opening up will just lead to more pain or judgment. Part of me thinks that discussing my feelings might make things worse or force me to confront changes I’m not ready for. Therapy feels uncomfortable because it’s like shining a light on everything I’d rather keep in the dark. I’m just trying to keep my head above water, and right now, I’m not ready to dive deeper into this mess."
-      },
-      "dialogue": [
-        {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Lily is still hesitant to share deeper feelings about Ethan. The client objective was not met as Lily is still struggling with feeling allowed to express her emotions.",
-          "client_utterance": "I don't really know how to talk about Ethan. I feel like if I say something wrong, it might make things worse. Sometimes I just wish I could ignore it, but then I feel guilty for doing that.",
-          "therapist_utterance": "It's completely understandable to feel that way, Lily. Ignoring it might seem like a way to cope, but it sounds like you’re also feeling guilt about that choice. What do you think it would be like to talk about those feelings without the pressure to change anything?",
-          "therapist_use": "Reflective Listening: validated her feelings about ignoring the situation and guilt, creating a safe space."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist objective was not met because the conversation remains focused on avoidance rather than deeper exploration of feelings. The client objective was not met as Lily is still not articulating her feelings about Ethan clearly.",
-          "client_utterance": "I guess I just feel stuck. I know I should care because we’ve been friends for so long, but I'm terrified that my feelings won’t be understood. It’s like, if I say too much, I’ll have to face that I can’t help him.",
-          "therapist_utterance": "It sounds like you're in a really tough spot, feeling torn between your loyalty to Ethan and your fears about what that means for you. Those feelings of being stuck are really powerful, and it’s okay to feel scared about opening up. What if we tried to explore what it means to you to feel responsible for him?",
-          "therapist_use": "Expressing Empathy: acknowledged her fear and the complexity of her feelings toward Ethan, fostering openness."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist objective was not met as the exploration of feelings is still surface-level without deeper insight. The client objective was not met since Lily continues to express confusion and fear about addressing her feelings.",
-          "client_utterance": "I just don't want to feel like I'm abandoning him. But then, I also feel like I can’t keep carrying this weight. Sometimes it feels like I’m the one who’s drowning, and I don’t know how to let go.",
-          "therapist_utterance": "That’s a heavy burden to carry, and it’s normal to feel overwhelmed by it. It’s important to recognize that caring for someone doesn’t mean you have to take on all their struggles. What do you think it would look like to support Ethan while also taking care of yourself?",
-          "therapist_use": "Developing Discrepancy: encouraged her to reflect on the balance between her support for Ethan and her own well-being."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist objective was not met as the dialogue still lacks clarity on Lily's values versus her current emotional state. The client objective was not met since Lily hasn't fully explored her own desires and feelings yet.",
-          "client_utterance": "I don't know... I guess I just want to be a good friend, but I feel so helpless. It’s like I’m stuck in this cycle where I keep worrying about him instead of focusing on my own life.",
-          "therapist_utterance": "It’s really admirable that you want to be a good friend, but it sounds like it’s coming at a personal cost to you. What are some things that you value in your own life that might help you find that balance? It’s okay to prioritize your own well-being too.",
-          "therapist_use": "Raising Awareness: prompted Lily to consider her own values and how they relate to her current emotional state."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Lily is still not connecting deeply with her feelings in relation to her values. The client objective was not met because Lily is hesitant to fully engage with her emotions.",
-          "client_utterance": "I suppose I value feeling stable and happy, but it’s hard to think about that when I’m so consumed with worry about Ethan. I don’t want to feel selfish for wanting to take care of myself.",
-          "therapist_utterance": "It's not selfish at all to want to take care of yourself, Lily. In fact, recognizing your own needs is a crucial part of being able to support others. What if we explored how your feelings about Ethan impact your ability to pursue that stability and happiness?",
-          "therapist_use": "Alternative Perspective: invited her to see the importance of self-care in the context of her friendship with Ethan."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist objective was not met as the conversation remains focused on her feelings, lacking a deeper exploration of her coping strategies. The client objective was not met because Lily is still grappling with guilt and responsibility.",
-          "client_utterance": "I guess I feel like if I take a step back, I’m not being a good friend. It’s overwhelming to think that I could just let go of that responsibility.",
-          "therapist_utterance": "It’s understandable to feel that way, but it might help to consider that stepping back doesn’t mean you’re abandoning him. It could mean giving yourself the space to breathe and think. How might that change your perspective on your role in his life?",
-          "therapist_use": "Reality Testing: encouraged her to assess her perceptions about responsibility and friendship."
-        },
-        {
-          "reason_for_ending": "MOVE - The therapist objective was met as Lily has begun to articulate her thoughts and feelings more openly without feeling pressured to change. The client objective was met as Lily has expressed her feelings and started to reflect on her own needs.",
-          "client_utterance": "I think I’m starting to see that it’s okay to care for myself too. I don’t have to fix everything for Ethan. It feels like a weight is lifting just to say that.",
-          "therapist_utterance": "That’s a significant realization, Lily! It’s a strong step towards understanding your feelings and finding balance. Recognizing that you can care for both yourself and Ethan is a powerful insight.",
-          "therapist_use": "Reflective Listening: validated her breakthrough realization about self-care and its importance."
-        }
-      ]
-    },
-    {
-      "phase": "contemplation",
-      "therapist_plan": {
-        "phase_of_therapy": "contemplation",
-        "motivational_interviewing_plan": {
-          "objective": "Explore and resolve ambivalence about change while strengthening motivation for the client.",
-          "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Encourage Lily to express her thoughts and feelings about Ethan and the situation, emphasizing the importance of being heard.",
-                "Use open-ended questions to help her articulate both her desire to help Ethan and her fears about the consequences.",
-                "Acknowledge her mixed feelings as a natural part of the change process."
-              ]
-            },
-            {
-              "strategy_name": "Eliciting Change Talk",
-              "instructions_for_therapist": [
-                "Ask Lily about times when she felt empowered in the past, and how that relates to her feelings about Ethan.",
-                "Prompt her to identify any personal values that conflict with her current behaviors regarding the situation.",
-                "Reinforce any statements she makes that indicate a desire or readiness for change."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance",
-              "instructions_for_therapist": [
-                "Facilitate a discussion about the pros and cons of her current behaviors and the potential changes she is considering.",
-                "Help her visualize the impact of both her current situation and possible changes on her life and relationships."
-              ]
-            }
-          ]
-        },
-        "cbt_plan": {
-          "interventions": [
-            {
-              "technique_name": "Cognitive Restructuring",
-              "instructions_for_therapist": [
-                "Guide Lily in identifying her automatic thoughts related to her feelings of helplessness and responsibility for Ethan's behavior.",
-                "Use evidence-based questioning to challenge her beliefs, such as asking about specific instances that support or contradict her thoughts.",
-                "Encourage her to reframe her thoughts to reduce feelings of guilt and helplessness."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Assist Lily in creating a list of the pros and cons of helping Ethan versus focusing on her own well-being.",
-                "Discuss how each of these aspects aligns with her values and long-term goals, helping her clarify what is most important to her."
-              ]
-            },
-            {
-              "technique_name": "Decatastrophizing",
-              "instructions_for_therapist": [
-                "Help Lily explore the worst-case scenario she imagines regarding Ethan and guide her to assess its likelihood and impact.",
-                "Encourage her to consider more realistic outcomes and her capacity to cope with potential challenges."
-              ]
-            }
-          ]
-        },
-        "therapist_reasoning": "In addressing Lily's ambivalence in the contemplation phase, I initially focus on exploring her mixed feelings about Ethan and her role in his life. By employing Motivational Interviewing strategies, such as exploring ambivalence and eliciting change talk, I aim to create a safe space for her to voice her concerns and desires without judgment. This will help her articulate her values and recognize discrepancies between her current behavior and her aspirations. Furthermore, I will facilitate a decisional balance discussion to help her weigh the pros and cons of her actions, guiding her towards insight on the implications of her choices. In parallel, I will utilize CBT techniques like cognitive restructuring to challenge her automatic thoughts of helplessness and responsibility, encouraging her to reframe these beliefs to reduce guilt. The pros and cons analysis will provide clarity on her values, while decatastrophizing will assist her in addressing anxiety about worst-case scenarios. This combined approach aims to enhance her motivation for change while respecting her current ambivalence.",
-        "progress_marker": "Client has begun to articulate her feelings about Ethan and identify values that conflict with her current behaviors."
+        "therapist_reasoning": "In addressing Lily's ambivalence, I will first use Motivational Interviewing strategies to create a non-confrontational environment where she can openly explore her feelings about Ethan. By inviting her to share her thoughts, I will encourage her to recognize the conflicted nature of her desire to help versus her fear of enabling him. This will include eliciting change talk that highlights her strengths and motivations for self-care. I will also engage in decisional balance discussions to help her weigh the pros and cons of her current behaviors against her values. Concurrently, I will implement Cognitive Behavioral Therapy techniques, focusing on evidence-based questioning to challenge her automatic thoughts of responsibility and helplessness. By reframing her thoughts and introducing self-compassion practices, I aim to strengthen her self-efficacy and confidence in navigating this situation. Together, these approaches will foster insight and reflection while respecting her current stage of change.",
+        "progress_marker": "Lily expresses a clearer understanding of her feelings and begins to identify values that can guide her actions."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about Ethan and understand how his situation affects me.",
+        "client_objective": "I hope to gain clarity on my feelings about Ethan and whether I should take action to help him.",
         "client_state": {
-          "awareness": "I'm starting to see that my feelings about Ethan's behavior are connected to my own struggles and fears about being helpless.",
-          "motivation": "Part of me wants to make sense of this situation and find a way to help, but I also dread what that might mean for my own emotional well-being.",
-          "openness": "I'm willing to talk about what I'm feeling, but I'm hesitant because I fear it might lead to painful realizations that I'm not ready to face.",
-          "resistance": "I still find myself avoiding direct discussions about change, feeling anxious about the implications of what that might involve for both me and Ethan."
+          "awareness": "I recognize that my feelings about Ethan's situation are complex and tied to my past experiences, but I'm still trying to make sense of it all.",
+          "motivation": "I feel a strong desire to help Ethan, but there's a part of me that questions whether my efforts will make any difference.",
+          "openness": "I'm somewhat willing to discuss my feelings with my therapist, but I hesitate to delve too deeply into the emotional turmoil it brings up.",
+          "resistance": "I feel anxious about fully embracing the idea of change, often doubting my ability to handle the consequences of taking action."
         },
-        "client_reasoning": "I’ve been thinking a lot about Ethan and how his behavior is affecting me. I’ve realized that my feelings of helplessness are tied to my past experiences, especially with my abusive ex. It’s hard to confront the idea that I might not be able to help him, and that makes me feel like I’m failing him somehow. I want to talk about this in therapy, but I’m scared of what it might mean. I know I should probably set boundaries, but I also worry about losing our friendship. I’m caught between wanting to support him and protecting myself from getting hurt again. It’s confusing, and sometimes I feel overwhelmed by the responsibility I’ve taken on. I hope that through these conversations, I can gain clarity and find a way to navigate these feelings without feeling so lost.",
-        "progress_marker": "The client has begun to identify the emotional connections between their past experiences and current feelings regarding Ethan's behavior."
+        "client_reasoning": "I'm starting to realize that my concerns about Ethan's behavior are deeply intertwined with my own feelings of helplessness and fear of rejection. It's hard to ignore the pattern of feeling responsible for others, especially when I think about how I supported Ethan through tough times in the past. Yet, I also see how my attempts to fix things have often left me feeling overwhelmed and out of control. I want to help him, but there's this nagging doubt in my mind about whether it will actually work or if I'll just end up hurt again. Talking to my therapist helps me explore these feelings, but I still feel anxious about bringing it up—what if I uncover something I can't handle? I'm caught between wanting to take action and fearing the potential fallout from that choice.",
+        "progress_marker": "The client is starting to articulate their feelings and thoughts about Ethan's behavior and their own emotional responses."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: therapist has not yet fully explored Lily's feelings about her responsibilities. Client objective not met: Lily has not fully articulated her fears and desires regarding change.",
-          "client_utterance": "I’ve been thinking about what you said regarding caring for myself. It feels strange to consider my own needs when I’ve been so focused on Ethan. I still worry that if I take a step back, it might mean I’m not there for him when he needs me.",
-          "therapist_utterance": "It's understandable to feel that way, Lily. Your desire to be there for Ethan speaks to your loyalty and care, but it’s also okay to recognize that your needs matter too. What would it look like for you to be supportive while also ensuring you're not losing yourself in the process?",
-          "therapist_use": "Open-ended question: used to encourage Lily to explore her feelings about balance."
+          "reason_for_ending": "KEEP: Therapist objective not met because the therapist has not fully explored Lily's feelings about her responsibility for Ethan's choices. Client objective not met as Lily is still struggling to clarify her feelings.",
+          "client_utterance": "I think I’m starting to see that I can care about Ethan without feeling entirely responsible for his choices. But part of me still worries that if I don’t say something, I might regret it later. I feel stuck between wanting to help and fearing that it might just make everything worse.",
+          "therapist_utterance": "It's understandable to feel trapped in that dilemma. You want to be there for Ethan, but you're also grappling with the fear of potential consequences. What do you think might happen if you choose not to intervene, and how does that sit with you?",
+          "therapist_use": "Open-ended question: encouraged exploration of fears and consequences related to intervention."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: therapist needs to help Lily visualize potential changes. Client objective not met: Lily has not yet identified how to support herself while helping Ethan.",
-          "client_utterance": "I guess I just feel like if I don’t constantly check in on him, I’m failing him. But then again, I’m starting to realize that my own stability is important too. It’s just hard to find that line between being a good friend and taking care of myself.",
-          "therapist_utterance": "Finding that line can indeed be challenging. What if you could think about it in terms of how supporting yourself could ultimately help Ethan? How might your well-being impact your ability to be there for him?",
-          "therapist_use": "Decisional balance: encouraged Lily to consider how her well-being impacts her ability to support Ethan."
+          "reason_for_ending": "KEEP: Therapist objective not met as the therapist has not sufficiently addressed Lily's ambivalence regarding her feelings about taking action. Client objective not met since Lily is still unclear on what action to take.",
+          "client_utterance": "If I don’t intervene, I guess I worry that he’ll continue down this path and I’ll feel guilty. But I also fear that intervening might push him away or make things worse. It’s like I’m caught in this loop of what ifs.",
+          "therapist_utterance": "That loop of 'what ifs' can be really overwhelming. It sounds like you’re weighing the potential outcomes of both action and inaction, which is a tough place to be. What are some possible benefits you see if you were to take a step back?",
+          "therapist_use": "Decisional balance discussion: facilitated weighing pros and cons of intervention."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: therapist must help Lily articulate her fears about changing her role. Client objective not met: Lily has not fully expressed the potential consequences of her decisions.",
-          "client_utterance": "I think I’m scared that if I prioritize my needs, I might lose that connection with Ethan. It feels like a betrayal in some way, even if I know it’s not. I just don’t want to feel guilty about wanting to live my own life.",
-          "therapist_utterance": "It's a valid concern to feel that way, and it’s natural to worry about the impact of change on your relationship with Ethan. What do you think is the worst that could happen if you took a step back for your own well-being? Sometimes, imagining the worst can help us assess how realistic those fears really are.",
-          "therapist_use": "Decatastrophizing: guided Lily to explore her fears about change to assess their likelihood."
+          "reason_for_ending": "KEEP: Therapist objective not met as the therapist has not fully helped Lily articulate the benefits of self-care. Client objective not met as Lily has not yet identified any clear steps toward change.",
+          "client_utterance": "I suppose if I step back, I might protect my own peace and avoid feeling overwhelmed. But I worry that it could feel like I’m abandoning him, and I don’t want that. It’s hard to find a balance.",
+          "therapist_utterance": "Finding that balance is indeed challenging, especially when you care deeply. It’s important to consider how your well-being impacts your ability to support him. What would it look like for you to set some boundaries while still being there for Ethan?",
+          "therapist_use": "Exploring ambivalence: invited Lily to think about boundaries in her support for Ethan."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: therapist needs to facilitate a deeper exploration of Lily's values. Client objective not met: Lily has not yet connected her feelings to her personal values.",
-          "client_utterance": "I suppose I fear that taking care of myself could make me seem selfish, and that’s really hard to accept. It feels like I would be putting my happiness before someone I care about. But at the same time, I know I deserve to feel happy and stable.",
-          "therapist_utterance": "It's great that you're starting to recognize your right to happiness and stability. How do you think your values around friendship and self-care conflict with each other in this situation? Exploring those values could help clarify what’s most important to you.",
-          "therapist_use": "Eliciting change talk: encouraged Lily to identify her values in relation to her situation."
+          "reason_for_ending": "KEEP: Therapist objective not met as the therapist has not fully guided Lily to articulate her values. Client objective not met since Lily is still feeling conflicted about her support.",
+          "client_utterance": "I think I’d feel more comfortable if I could find a way to support him without losing myself. Maybe I could check in but not get too involved? I just need to figure out how to do that without feeling guilty.",
+          "therapist_utterance": "That sounds like a positive step toward prioritizing your own well-being while still showing you care for Ethan. It’s okay to want to help without losing yourself in the process. How might you express that support in a way that feels safe for you?",
+          "therapist_use": "Eliciting change talk: encouraged Lily to articulate potential changes in her support approach."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: therapist still needs to help Lily weigh the pros and cons of her decisions. Client objective not met: Lily has not fully articulated how her feelings about Ethan affect her decisions.",
-          "client_utterance": "It’s difficult to balance wanting to help Ethan and feeling like I need to protect my own emotional health. I know I can’t fix everything for him, but it’s hard to let that go. Sometimes I feel like I’m stuck in this cycle of worry.",
-          "therapist_utterance": "That cycle of worry can be exhausting. What if we tried to list out the pros and cons of staying involved in Ethan’s life the way you currently are versus making some changes? This might help you see which option aligns better with your values.",
-          "therapist_use": "Pros and Cons Analysis: facilitated a discussion to help Lily weigh her current situation against potential changes."
+          "reason_for_ending": "KEEP: Therapist objective not met as the therapist has not yet helped Lily fully understand her feelings about guilt and responsibility. Client objective not met as Lily is still uncertain about her next steps.",
+          "client_utterance": "I guess I can start with something small, like just reaching out to see how he's doing. But I’m still anxious about it, and I don’t want him to think I’m judging him. It’s complicated.",
+          "therapist_utterance": "It’s very understandable to feel anxious about how Ethan might perceive your intentions. Starting with a small step can help you gauge the situation without overwhelming yourself. What would be a comfortable way for you to reach out without feeling like you're overstepping?",
+          "therapist_use": "Self-compassion exercise: validated Lily's feelings while encouraging manageable steps."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: therapist has not yet fully validated Lily's ambivalence. Client objective not met: Lily has not clarified her feelings about change.",
-          "client_utterance": "I see the pros of taking care of myself, but I still feel this deep loyalty to Ethan. It’s like I’m being pulled in two directions, and I don’t know how to navigate that. I want to support him, but I also want to feel free from this burden.",
-          "therapist_utterance": "That feeling of being pulled in two directions is really common in situations like this. It’s okay to feel loyalty to Ethan while also wanting to prioritize your own needs. What would it take for you to feel comfortable exploring a change in how you relate to him?",
-          "therapist_use": "Exploring Ambivalence: validated Lily's mixed feelings while encouraging her to consider change."
+          "reason_for_ending": "KEEP: Therapist objective not met as the therapist has not yet helped Lily to reframe her thoughts about intervention and guilt. Client objective not met since Lily is not fully ready to take action.",
+          "client_utterance": "Maybe I can frame it as just checking in on a friend rather than stepping into a role of fixing things. But I still think about how he might resist that help. I don’t want to push him away.",
+          "therapist_utterance": "That reframing is a significant shift in how you approach this situation. It sounds like you’re starting to see that your role can be supportive without being responsible for his choices. How does that shift in perspective feel for you?",
+          "therapist_use": "Reframing thoughts: helped Lily shift her perspective on her role in Ethan's situation."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: therapist has explored ambivalence and supported Lily in articulating her feelings. Client objective met: Lily is beginning to clarify her feelings about change and its implications.",
-          "client_utterance": "I think I’m starting to understand that I can support Ethan while also taking care of myself. It feels empowering to think that I don’t have to fix everything. Maybe I can find a way to be there for him without losing myself.",
-          "therapist_utterance": "That’s a wonderful realization, Lily! Recognizing that you can be there for him while also caring for yourself is a powerful step. It sounds like you're beginning to find a balance that honors both your friendship and your well-being.",
-          "therapist_use": "Double-sided reflection: validated Lily's emerging insights and reinforced her motivation for change."
+          "reason_for_ending": "MOVE: Therapist objective met as Lily has reflected on her feelings and identified a way to support Ethan without overwhelming herself. Client objective met as Lily has articulated a clearer understanding of her feelings and a potential course of action.",
+          "client_utterance": "I think I feel more at ease with the idea of just reaching out casually. It’s a relief to see that I can still care for him without feeling like I have to fix everything. I’m starting to understand my limits, and that feels empowering.",
+          "therapist_utterance": "It's wonderful to hear you feeling more at ease and empowered in this situation. Recognizing your limits while still caring for Ethan is a healthy step forward. It sounds like you’re ready to take action that aligns with your values and well-being.",
+          "therapist_use": "Affirmation of progress: reinforced Lily's feelings of empowerment and readiness to take action."
         }
       ]
     },
@@ -258,22 +258,28 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Lily's commitment to change and prepare her for actionable steps regarding her feelings about Ethan and her coping mechanisms.",
+          "objective": "Strengthen Lily's commitment to change and explore her motivations while addressing her fears and uncertainties.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Lily to articulate her reasons for wanting to support Ethan while also considering her own well-being.",
-                "Ask open-ended questions to explore her feelings about helping Ethan and how it impacts her life.",
-                "Reflect on her expressed desires and fears to reinforce her commitment to change."
+                "Encourage Lily to articulate her reasons for wanting to support Ethan while maintaining her own well-being.",
+                "Ask open-ended questions like 'What changes do you envision for yourself in supporting Ethan?' to elicit her commitment to these changes.",
+                "Reflect back her statements of commitment to reinforce her motivation."
+              ]
+            },
+            {
+              "strategy_name": "Exploring Confidence and Readiness",
+              "instructions_for_therapist": [
+                "Assess Lily's confidence in making changes by asking, 'On a scale of 1 to 10, how confident do you feel about supporting Ethan without losing yourself?'",
+                "Explore her readiness to implement these changes by discussing potential barriers and how she might overcome them."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Facilitate a discussion about the support systems she currently has in place (friends, family, groups) and how they can assist her.",
-                "Explore potential new resources (e.g., counseling, support groups) that could benefit her during this transition.",
-                "Encourage Lily to identify one or two individuals she feels comfortable discussing her feelings with."
+                "Help Lily identify friends, family, or resources she can lean on for support.",
+                "Encourage her to think about how these supports can aid her in her journey to help Ethan while caring for herself."
               ]
             }
           ]
@@ -281,79 +287,85 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Challenging Automatic Thoughts",
               "instructions_for_therapist": [
-                "Guide Lily in creating a specific, achievable action plan that outlines small steps she can take to address her feelings about Ethan.",
-                "Break down her plan into manageable tasks, such as setting aside time to journal her thoughts or discussing her feelings with a trusted friend.",
-                "Ensure each task is realistic and encourages gradual progress."
+                "Guide Lily to identify her automatic thoughts related to her feelings of responsibility for Ethan's behavior.",
+                "Use Evidence-Based Questioning to help her challenge these thoughts, such as asking, 'What evidence supports the idea that you are responsible for his actions?'",
+                "Encourage her to explore alternative explanations to her thoughts, helping her to reframe her perspective."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Practicing Self-Compassion",
               "instructions_for_therapist": [
-                "Teach Lily how to identify potential barriers she might face in her action plan and brainstorm practical solutions.",
-                "Encourage her to consider possible outcomes and choose the most effective coping strategies for each scenario.",
-                "Reinforce the idea that facing challenges is part of the change process."
+                "Introduce self-compassion exercises that encourage Lily to acknowledge her feelings without judgment.",
+                "Guide her in recognizing that it is normal to not have control over others' actions and that her worth is not tied to fixing others."
+              ]
+            },
+            {
+              "technique_name": "Developing a Support Plan",
+              "instructions_for_therapist": [
+                "Collaborate with Lily to create a specific plan for how she will care for herself while supporting Ethan.",
+                "Discuss setting boundaries and the importance of seeking help for herself, including identifying specific actions she can take."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To effectively support Lily in the Preparation phase, I first aim to reinforce her commitment to change by utilizing Motivational Interviewing strategies that resonate with her current emotional state. I’ll start by strengthening her commitment language, encouraging her to articulate her desire to help Ethan while balancing her own needs. This approach fosters a sense of empowerment. Next, I will identify her support systems to help her feel less isolated, which is crucial given her anxiety and feelings of helplessness. For the CBT component, I’ll implement Action Planning to help her develop a structured plan that feels achievable and manageable, thereby increasing her self-efficacy. Additionally, I will introduce Problem-Solving Skills Training, equipping her with tools to navigate potential barriers in her journey. This two-pronged approach not only addresses her immediate emotional concerns but also lays a foundation for sustained behavioral change, accommodating her resistance by allowing her to dictate the pace of her involvement in the process.",
-        "progress_marker": "Lily has identified specific coping strategies and support resources, and has created a realistic action plan with achievable steps to address her feelings about Ethan."
+        "therapist_reasoning": "In this session, I will begin by using Motivational Interviewing strategies to strengthen Lily's commitment to change, focusing on her motivations for supporting Ethan while ensuring her well-being. I will encourage her to articulate her reasons for change and assess her confidence and readiness to implement these changes. This exploration will help her identify potential barriers and resources, reinforcing her motivation. Alongside this, I will implement CBT techniques to challenge her automatic thoughts and beliefs regarding her responsibility for Ethan's actions. I will guide her to articulate these thoughts clearly and help her challenge them using Evidence-Based Questioning, examining the validity of her beliefs. Additionally, I will introduce self-compassion exercises to promote emotional resilience and help her reframe her thoughts. Finally, we will collaboratively develop a support plan that addresses her needs and sets realistic boundaries to ensure she feels empowered and capable of making gradual changes without feeling overwhelmed.",
+        "progress_marker": "Lily reports increased clarity on her feelings towards supporting Ethan, identifies specific actions to take, and expresses greater confidence in her ability to maintain her well-being while navigating this challenging situation."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I want to explore my feelings about Ethan and find ways to cope with my fears while planning for a healthier future.",
+        "client_objective": "I want to explore my feelings about Ethan and find ways to support him while also taking care of myself.",
         "client_state": {
-          "awareness": "I realize that Ethan's behavior is a serious problem that affects my mental health and our past friendship.",
-          "motivation": "I feel a strong desire to improve my situation and find healthier ways to cope with my emotions.",
-          "openness": "I am willing to discuss my feelings and thoughts, even though I still feel unsure about how to approach the topic.",
-          "resistance": "I have doubts about my ability to support Ethan and fear that my attempts may not lead to positive changes."
+          "awareness": "I understand that Ethan's behavior is affecting both him and me, and I recognize that I can't fix everything.",
+          "motivation": "I feel a strong desire to improve my situation and help Ethan, but I also know I need to prioritize my own well-being.",
+          "openness": "I am willing to discuss my feelings and thoughts about Ethan, even though it's uncomfortable, and I want to explore potential changes.",
+          "resistance": "I still feel anxious and uncertain about whether I can truly help Ethan or if I will end up hurt again."
         },
-        "client_reasoning": "I've come to understand that Ethan's situation is deeply troubling, and it's taking a toll on me emotionally. I know that I can't fix him, but I feel responsible, and it's hard to shake off that feeling. I want to explore how I can better manage my anxiety and fears instead of resorting to unhealthy coping mechanisms like drinking. Therapy has helped me see that change is possible; I just need to figure out the right steps. I hope that by discussing my feelings about Ethan, I can gain clarity on what I truly want for myself and how to support him without losing myself in the process. However, I still worry that I might fail, or that my efforts to help will only lead to more pain for both of us."
+        "client_reasoning": "Lately, I've realized that Ethan's situation is weighing heavily on me. I've been feeling anxious and scared, especially after hearing about his erratic behavior. I understand that I can't keep trying to save him; it's draining and makes me feel helpless. I know change is necessary, not just for him, but for me too. I want to find healthier ways to cope and support him without sacrificing my own well-being. Therapy has opened my eyes to how these patterns affect me, and while I feel motivated, I also grapple with fears of failing him or being rejected. I hope that by discussing this with my therapist, I can clarify my thoughts and come up with a plan that allows me to help Ethan while also taking care of myself. It's a delicate balance, and I'm still uncertain about the best way forward, but I feel a flicker of hope that I can navigate this situation more effectively."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Lily has not yet articulated her reasons for wanting to support Ethan while considering her well-being. Client objective was not met as Lily is still unsure about how to balance her feelings for Ethan with her own needs.",
-          "client_utterance": "I’ve been thinking more about what you said last time, but I still struggle to see how I can help Ethan without feeling overwhelmed. I want to support him, but the idea of stepping back is really hard for me to grasp. I guess I'm scared that if I don’t constantly check in on him, I might be letting him down.",
-          "therapist_utterance": "It’s understandable to feel that way, Lily. Supporting Ethan doesn’t have to mean being constantly available; it could also mean being present when it truly matters. How might you envision a way to strike that balance without losing yourself in the process?",
-          "therapist_use": "Open-ended question: encouraged Lily to explore potential balance in supporting Ethan."
+          "reason_for_ending": "KEEP - Therapist objectives were not met as they need to further explore Lily's readiness for change. Client objectives were not met since Lily hasn't clearly articulated any specific actions yet.",
+          "client_utterance": "I still feel anxious about reaching out to Ethan. I want to support him, but I’m also scared of how he might react. What if he feels judged or doesn't want to talk to me at all?",
+          "therapist_utterance": "It's completely understandable to feel anxious about how Ethan might respond. It might help to think about what your intentions are when you reach out. How do you want to frame your support in a way that feels genuine to you?",
+          "therapist_use": "Open-ended question: to encourage Lily to explore her intentions in reaching out."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as the therapist has not yet helped Lily identify specific coping strategies and support resources. Client objective was not met because Lily is still grappling with the concept of balancing her needs with her desire to help Ethan.",
-          "client_utterance": "I think it would help if I had a few people I could talk to about this, but I’m not sure who. I feel like I should reach out to friends, but I worry they won't understand the depth of my feelings for Ethan. Maybe I just need to find a way to let some of this out without feeling guilty.",
-          "therapist_utterance": "It sounds like you’re recognizing the need for a support system, which is a great step. Who are some friends or family members you feel comfortable discussing this with? It’s important to have people you can lean on during this time.",
-          "therapist_use": "Identifying supports: helped Lily think about her support system to alleviate feelings of isolation."
+          "reason_for_ending": "KEEP - Therapist objectives were not met as they need to strengthen Lily's commitment to her plan. Client objectives were not met since Lily hasn't identified specific actions or resources for support.",
+          "client_utterance": "I think I want to reach out just to check in, but I'm worried he might not respond positively. I really don’t want to push him away or make things worse. I guess I just need to figure out how to express my support without overwhelming him.",
+          "therapist_utterance": "It sounds like you are trying to balance your concern for Ethan with your own feelings of anxiety. What if you approached the conversation as a simple gesture of friendship? This way, it might come off as less pressure for both of you.",
+          "therapist_use": "Reflective listening: to validate Lily's feelings while guiding her towards a less pressured approach."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because the therapist has not yet guided Lily in creating a specific action plan. Client objective was not met as Lily has not yet taken action on identifying specific steps or tasks regarding her feelings.",
-          "client_utterance": "I guess I could talk to my sister; she usually listens and tries to understand. Maybe I can also write down my feelings to sort through them better. But even thinking about these steps feels daunting.",
-          "therapist_utterance": "Those are excellent ideas, Lily! Writing down your feelings could serve as a great outlet, and having a conversation with your sister might help you gain perspective. What if we tried to break those tasks into smaller, more manageable steps so they feel less overwhelming?",
-          "therapist_use": "Action Planning: guided Lily in considering small, achievable steps to address her feelings."
+          "reason_for_ending": "KEEP - Therapist objectives were not met as they need to explore Lily's confidence in making these changes. Client objectives were not met since Lily hasn't articulated specific barriers or supports yet.",
+          "client_utterance": "I like that idea, but I still feel unsure. On a scale from 1 to 10, I’d say my confidence is around a 5 right now. I just need to feel more secure about how to support him without draining myself.",
+          "therapist_utterance": "It's a good sign that you recognize where your confidence currently stands. What do you think could help raise that number for you? Identifying specific barriers might help us find ways to overcome them together.",
+          "therapist_use": "Scaling question: to assess Lily's confidence and encourage her to explore ways to increase it."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met since the therapist has not yet reinforced Lily's commitment to these action steps. Client objective was not met as Lily still feels overwhelmed by the prospect of implementing her plans.",
-          "client_utterance": "Breaking it down sounds helpful, but I’m still worried about whether I’ll actually follow through. What if I start journaling and it just makes me feel worse? I really want to find a way to cope, but I feel stuck.",
-          "therapist_utterance": "It’s completely normal to feel stuck when considering change, and it’s great that you’re acknowledging that fear. Maybe we can explore what barriers you anticipate and brainstorm some solutions together. What do you think could help you feel more confident in following through?",
-          "therapist_use": "Problem-Solving Skills Training: encouraged Lily to identify potential barriers and solutions to her action plan."
+          "reason_for_ending": "KEEP - Therapist objectives were not met as they need to help Lily identify specific supports. Client objectives were not met since Lily hasn't identified any specific barriers or resources yet.",
+          "client_utterance": "I think I could talk to my friend Sarah about this. She’s always been really supportive, and maybe she can help me figure things out. I just need to make sure I don’t burden her with my worries.",
+          "therapist_utterance": "That's a great idea! Having someone like Sarah to talk to can provide you with the support you need without feeling overwhelmed. How do you think you might approach her about this?",
+          "therapist_use": "Identifying supports: to help Lily recognize available resources for her journey."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because the therapist has not yet reinforced Lily's commitment to her identified action steps. Client objective was not met as Lily is still feeling apprehensive about her ability to implement her plan.",
-          "client_utterance": "I think if I could remind myself that it’s okay to have these fears, I might feel less pressure. It might also help to set a schedule for when I do these things, so it feels less vague. But even that feels like it could be hard to stick to.",
-          "therapist_utterance": "Setting a schedule sounds like a fantastic way to create structure around your feelings! It can help to have dedicated time to process and reflect, making it feel more manageable. How would you feel about committing to a specific time each week to journal or check in with your sister?",
-          "therapist_use": "Strengthening Commitment Language: encouraged Lily to articulate her commitment to a structured approach for emotional processing."
+          "reason_for_ending": "KEEP - Therapist objectives were not met as they need to reinforce Lily's motivation for change. Client objectives were not met since Lily hasn't fully committed to her support plan yet.",
+          "client_utterance": "I guess I could just tell her how I'm feeling and ask for her advice. It’s just hard to open up about all this without feeling like I’m complaining. I want to be strong for Ethan too.",
+          "therapist_utterance": "It's important to remember that seeking support doesn’t mean you aren’t strong. It actually shows strength to acknowledge your feelings and seek help. How would it feel to share your thoughts with Sarah, knowing it’s part of taking care of yourself?",
+          "therapist_use": "Reframing: to help Lily see strength in seeking support rather than weakness."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because the therapist has not yet ensured Lily feels prepared to take actionable steps. Client objective was not met as Lily still has doubts about her ability to follow through with her plans.",
-          "client_utterance": "I think I could commit to journaling once a week and maybe reaching out to my sister every couple of weeks. But I still worry that I might not stick to it, and then I’ll feel like I’ve failed. How can I combat that feeling?",
-          "therapist_utterance": "It’s great to hear you’re willing to make those commitments! Remember, it’s okay to have setbacks; they don’t mean you’ve failed. We can also come up with a strategy for how to handle those moments if they arise, which might ease some of that pressure.",
-          "therapist_use": "Problem-Solving Skills Training: reinforced the idea of handling setbacks while working on her action plan."
+          "reason_for_ending": "KEEP - Therapist objectives were not met as they need to strengthen Lily's commitment to her action plan. Client objectives were not met since Lily hasn't clearly articulated her next steps yet.",
+          "client_utterance": "I think I’m ready to reach out to Sarah this week. It feels like a small step, but I’m still worried about how to do it. I just want to make sure I’m not overwhelming her with my feelings.",
+          "therapist_utterance": "That sounds like a positive step forward! You can frame the conversation in a way that feels comfortable for you. Maybe you can start by sharing just a little about your feelings without going into too much detail right away.",
+          "therapist_use": "Encouraging action: to reinforce Lily's commitment to taking a step towards her support plan."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective was met as Lily has articulated her commitment to her action plan, discussing specific steps and a willingness to address potential barriers. Client objective was met as Lily has a clearer understanding of how to cope with her feelings about Ethan while planning for her own well-being.",
-          "client_utterance": "I feel a little more confident now that I have a plan. I know it won’t be perfect, but just having some steps in mind makes it feel more doable. I’m ready to try this and see how it goes.",
-          "therapist_utterance": "That’s fantastic, Lily! Your commitment to taking these steps shows great progress. Remember, this is a journey, and it’s okay to adjust your plan as you go along.",
-          "therapist_use": "Strengthening Commitment Language: reinforced Lily's commitment to her action plan and her willingness to adapt."
+          "reason_for_ending": "MOVE - Therapist objectives were met as they successfully reinforced Lily's motivation and commitment to explore her support options. Client objectives were met as Lily articulated a clear next step towards her goal.",
+          "client_utterance": "I feel more confident about reaching out to Sarah now. It’s relieving to think I can take this step without feeling guilty. I really want to support Ethan, but I know I need to prioritize my own well-being too.",
+          "therapist_utterance": "That’s wonderful to hear! It sounds like you’re finding a balance between supporting Ethan and taking care of yourself. By reaching out to Sarah, you’re giving yourself the opportunity to grow and also support your friend.",
+          "therapist_use": "Reflective summary: to affirm Lily’s progress and reinforce her commitment to her own well-being while supporting Ethan."
         }
       ]
     }

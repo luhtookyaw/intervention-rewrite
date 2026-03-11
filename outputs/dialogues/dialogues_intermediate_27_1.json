@@ -12,148 +12,22 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To build rapport and increase awareness of Mia's feelings and thoughts regarding her situation without pushing for change.",
+          "objective": "Build rapport and increase awareness of Mia's thoughts and feelings regarding her current situation.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Mia's concerns and reflect back her feelings, such as her sense of being overwhelmed and her sadness about the divorce.",
-                "Validate her emotions and experiences, showing empathy for her situation."
+                "Begin the session by actively listening to Mia's concerns about her divorce and financial struggles.",
+                "Reflect back her emotions and thoughts to validate her experience, such as saying, 'It sounds like you're feeling overwhelmed and uncertain about the future.'",
+                "Encourage her to elaborate on her feelings without pushing her to change, showing empathy and understanding."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Mia to explore the contrast between her current feelings of helplessness and her values regarding independence and support.",
-                "Ask open-ended questions that prompt her to think about what she truly wants for herself and her son."
-              ]
-            },
-            {
-              "strategy_name": "Raising Awareness",
-              "instructions_for_therapist": [
-                "Help Mia identify and articulate her automatic thoughts and feelings related to her current challenges.",
-                "Encourage her to reflect on how these thoughts impact her feelings and actions."
-              ]
-            }
-          ]
-        },
-        "cbt_plan": {
-          "interventions": [
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Mia to provide evidence for her beliefs about being helpless and unlovable.",
-                "Encourage her to think about times when she has successfully coped or received support."
-              ]
-            },
-            {
-              "technique_name": "Reality Testing",
-              "instructions_for_therapist": [
-                "Guide Mia to examine the reality of her current situation by discussing the email from her ex-partner and its implications.",
-                "Explore alternative interpretations of her ex-partner's behavior."
-              ]
-            },
-            {
-              "technique_name": "Changing Rules to Wishes",
-              "instructions_for_therapist": [
-                "Encourage Mia to express what she wishes were true about her abilities and support systems.",
-                "Help her articulate a more compassionate view of herself and her circumstances."
-              ]
-            }
-          ]
-        },
-        "therapist_reasoning": "In this phase, the primary focus is to build rapport with Mia and help her increase her awareness of her thoughts and emotions. I chose reflective listening as a strategy to validate her experiences and reduce defensiveness, allowing her to feel heard and understood. By developing discrepancy, I aim to prompt her to explore the gap between her feelings of helplessness and her deeper values of independence and support. This will encourage self-reflection without imposing pressure for change. For the CBT interventions, I selected evidence-based questioning to challenge her automatic thoughts about her competence and self-worth, which can help her gain insight into her beliefs. Reality testing will allow Mia to examine the situation with her ex-partner more objectively, potentially reducing her anxiety. Lastly, using the technique of changing rules to wishes encourages her to shift her self-perception in a more positive direction, fostering a sense of agency. Together, these strategies aim to enhance Mia's self-awareness and engagement in therapy while respecting her current resistance.",
-        "progress_marker": "Mia begins to articulate her feelings more openly and shows signs of self-reflection regarding her beliefs and values."
-      },
-      "client_plan": {
-        "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I'm feeling so overwhelmed without having to confront my problems directly.",
-        "client_state": {
-          "awareness": "I know there's something wrong, but I don't really want to face it or talk about it.",
-          "motivation": "I don't feel ready to change, and part of me believes it's futile anyway.",
-          "openness": "I'm somewhat hesitant to share my true feelings, as I'm afraid of being judged or misunderstood.",
-          "resistance": "I often find myself pushing back against discussing my feelings and the situation."
-        },
-        "client_reasoning": "I feel like I'm in a deep hole right now, and I can't really see a way out. Every time I try to think about my situation—like the divorce or the financial stress—I just get overwhelmed. It's like my mind tells me to avoid it, that it's better to keep busy and not think about how alone I feel. I know I should be stronger and more independent, but deep down, I feel like I'm just not capable of handling all of this. Talking about my feelings makes me anxious, and I worry that if I say too much, I'll just be judged for not being able to cope. Part of me wants to share, but another part is terrified of facing the reality of my situation. I guess I just feel safer keeping everything bottled up, even though I know it’s not helping me."
-      },
-      "dialogue": [
-        {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Mia did not articulate her feelings clearly. Client objective was not met as Mia still feels overwhelmed and resistant to discussing deeper issues.",
-          "client_utterance": "I just feel like everything is piling up on me. I know I should be dealing with my feelings about the divorce, but it’s just too much right now. It’s like I’m stuck in this loop of trying to avoid thinking about it all.",
-          "therapist_utterance": "It sounds like you're feeling really overwhelmed by everything that's happening. You mentioned being stuck in a loop of avoidance, and that must be really exhausting. Can you tell me more about what you feel when you think about the divorce?",
-          "therapist_use": "Reflective Listening: used to validate Mia's feelings of overwhelm and encourage sharing."
-        },
-        {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Mia's response did not show increased self-reflection. Client objective was not met since Mia remains hesitant to share deeper feelings.",
-          "client_utterance": "When I think about the divorce, I just feel this weight on my chest. It’s like I want to scream, but then I think, what’s the point? I just keep telling myself to keep moving forward, but I don’t know how.",
-          "therapist_utterance": "That weight sounds really heavy for you, and it makes sense that you want to scream. It’s like there's a part of you that wants to express those feelings, yet another part that's telling you to keep going. What do you think would happen if you allowed yourself to feel that weight for a moment?",
-          "therapist_use": "Developing Discrepancy: encouraged Mia to explore the contrast between her desire to express feelings and her tendency to avoid them."
-        },
-        {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Mia did not engage in deeper self-reflection about her feelings. Client objective was not met since Mia continues to resist facing her emotions.",
-          "client_utterance": "I guess if I really felt it, I’d probably just crumble. I think I keep moving because it’s easier than facing the reality of what’s happening. Plus, I don’t want to bother anyone with my problems.",
-          "therapist_utterance": "It sounds like you're worried about how facing those feelings might affect you, and that you don’t want to burden others. That’s a tough place to be in, feeling like you have to carry everything alone. What would it look like for you to share some of that weight with someone, even if just a little?",
-          "therapist_use": "Raising Awareness: helped Mia consider the impact of her beliefs about sharing her burdens with others."
-        },
-        {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Mia did not articulate any thoughts about sharing her feelings. Client objective was not met due to persistent avoidance of deeper emotional content.",
-          "client_utterance": "I’m not sure. I think I would just feel judged, like people would think I’m not strong enough. It’s like I’m supposed to handle everything on my own, especially now that I have Brady to think about.",
-          "therapist_utterance": "You’re carrying a lot of pressure to be strong for Brady, and that can feel isolating. It's understandable to fear judgment when you’re sharing your vulnerabilities. What if you could reframe that belief and see reaching out as a strength instead of a weakness?",
-          "therapist_use": "Changing Rules to Wishes: encouraged Mia to reframe her beliefs about seeking support as a sign of strength."
-        },
-        {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Mia did not explore her beliefs about strength further. Client objective was not met since Mia still feels unable to confront her feelings.",
-          "client_utterance": "That sounds nice in theory, but I just can’t see it that way right now. I really feel like I’m failing at everything, and it’s hard to imagine things being different. I just want to be okay.",
-          "therapist_utterance": "It’s completely valid to want to feel okay, especially when everything feels so overwhelming. You’re not failing; you’re navigating a really challenging situation. Can we look at some times when you felt even a little bit okay despite these challenges?",
-          "therapist_use": "Evidence-Based Questioning: guided Mia to recall moments of coping or feeling supported."
-        },
-        {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Mia did not identify specific instances of feeling okay. Client objective was not met since Mia remains focused on feelings of failure.",
-          "client_utterance": "I suppose there were little moments, like when Brady smiles or when I visit my family. But those feel so fleeting, and then I’m back to feeling lost. It’s like I can’t hold onto the good feelings.",
-          "therapist_utterance": "Those moments with Brady and family are really special, and it’s understandable to want to hold onto them for longer. It seems like they provide a glimpse of hope amid everything else. What if we explored what makes those moments feel fleeting for you?",
-          "therapist_use": "Reality Testing: encouraged Mia to examine the nature of her positive moments and why they feel temporary."
-        },
-        {
-          "reason_for_ending": "MOVE: Therapist objective was met as Mia engaged in reflecting on her fleeting positive moments. Client objective was met as Mia began to articulate her feelings and experiences more openly.",
-          "client_utterance": "I think it’s because I don’t let myself enjoy them fully. I’m always waiting for the other shoe to drop, and I end up pushing those feelings away. Maybe if I started to accept those moments, it wouldn’t feel so temporary.",
-          "therapist_utterance": "That realization is a significant step, Mia. Accepting those positive moments can help you build resilience against the heavier feelings. It’s a journey, and you’re taking steps toward understanding yourself better.",
-          "therapist_use": "Double-sided reflection: validated Mia's insight while reinforcing her progress in self-awareness."
-        }
-      ]
-    },
-    {
-      "phase": "contemplation",
-      "therapist_plan": {
-        "phase_of_therapy": "contemplation",
-        "motivational_interviewing_plan": {
-          "objective": "To explore Mia's ambivalence about change and strengthen her motivation while acknowledging her fears and feelings of helplessness.",
-          "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Ask Mia about her feelings regarding the divorce and how it has impacted her life, particularly her sense of independence.",
-                "Encourage her to express both her desire for change and her fears about it, validating her feelings without judgment."
-              ]
-            },
-            {
-              "strategy_name": "Eliciting Change Talk",
-              "instructions_for_therapist": [
-                "Prompt Mia to articulate the benefits she sees in becoming more independent, focusing on her desire to provide for herself and Brady.",
-                "Use open-ended questions to help her reflect on what change would mean for her and what steps she feels comfortable considering."
-              ]
-            },
-            {
-              "strategy_name": "Developing Discrepancy",
-              "instructions_for_therapist": [
-                "Help Mia identify her core values, such as being a good mother or finding personal fulfillment, and discuss how her current situation conflicts with those values.",
-                "Facilitate a conversation about how her current behaviors may not align with her long-term goals and values."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance Discussions",
-              "instructions_for_therapist": [
-                "Guide Mia in creating a list of pros and cons about seeking support from her family versus trying to be entirely independent.",
-                "Encourage her to consider how these choices affect her well-being and her relationship with her son."
+                "Explore Mia's values related to independence and support.",
+                "Ask open-ended questions like, 'What does being independent mean to you?' to elicit her personal beliefs and potential discrepancies in her current situation.",
+                "Gently highlight the gap between her current feelings of helplessness and her values, promoting self-reflection."
               ]
             }
           ]
@@ -163,83 +37,178 @@
             {
               "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Ask Mia to describe her worst fears related to her financial situation and explore the reality of those fears.",
-                "Encourage her to identify possible outcomes and how she might cope with them, decreasing the power of her catastrophic thoughts."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Facilitate a discussion where Mia lists the advantages and disadvantages of relying on others for support versus attempting to handle everything on her own.",
-                "Help her reflect on how these factors impact her feelings of autonomy and self-worth."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Challenge Mia's automatic thoughts by asking her to provide evidence for and against her beliefs of being unlovable or helpless.",
-                "Encourage her to consider alternative explanations or outcomes that challenge her negative self-perceptions."
+                "Introduce the concept of decatastrophizing to help Mia challenge her catastrophic thoughts.",
+                "Guide her to articulate her worst-case scenarios, writing them down to visualize her fears.",
+                "Facilitate a reality check by asking her to evaluate the likelihood of these scenarios, encouraging her to explore evidence that contradicts her fears.",
+                "Encourage her to think of more balanced outcomes and help her reframe her catastrophic thoughts into manageable statements."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Mia's treatment, my primary focus is on navigating her ambivalence regarding change while fostering her motivation. I began by implementing Motivational Interviewing strategies, specifically exploring her ambivalence and eliciting change talk. This allows Mia to voice her desires for independence while acknowledging her fears. By developing discrepancy, I help her align her current behaviors with her values of being a good mother, which creates a motivating factor for change. Additionally, employing decisional balance discussions will allow her to weigh the pros and cons of different support strategies, promoting reflection. On the CBT side, I will utilize techniques such as decatastrophizing to help Mia confront her catastrophic thoughts with reality, which can reduce anxiety. Pros and cons analysis will further help her evaluate her coping strategies, while evidence-based questioning will challenge negative core beliefs about herself. This combination of MI and CBT not only respects her ambivalence but also gently encourages insight and self-efficacy, crucial elements for her journey toward change.",
-        "progress_marker": "Mia expresses a clearer understanding of her ambivalence and begins to articulate her desires for change, showing increased insight into her emotions and beliefs."
+        "therapist_reasoning": "In this session, the focus is on building rapport with Mia while increasing her awareness of her thoughts and emotions. I utilized reflective listening to validate her feelings of overwhelm and sadness, which helps reduce her defensiveness and encourages engagement. By exploring her values through developing discrepancy, I aim to help Mia reflect on how her current state diverges from her personal aspirations for independence. The CBT intervention, decatastrophizing, is introduced to challenge her automatic catastrophic thoughts related to her financial situation and feelings of helplessness. This approach is tailored to her indirect resistance, allowing her to explore these thoughts without feeling pressured to change. By encouraging her to articulate her fears and evaluate their likelihood, I aim to promote self-awareness, which is crucial at this pre-contemplation phase. This method fosters a safe environment where Mia can begin to recognize her beliefs and feelings without being pushed towards immediate solutions.",
+        "progress_marker": "Mia expresses increased awareness of her thoughts and emotions, and begins to articulate her feelings about her situation without resistance."
       },
       "client_plan": {
-        "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about independence and financial support while understanding my emotional struggles better.",
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I hope to find some understanding of my feelings without feeling pressured to change right away.",
         "client_state": {
-          "awareness": "I am starting to recognize that my feelings of helplessness and unworthiness are affecting my ability to make decisions about my future.",
-          "motivation": "I want to change my situation and become more independent, but I feel overwhelmed and unsure about how to do it.",
-          "openness": "I am willing to share my thoughts and feelings with my therapist, although I still hold back some emotions due to fear of judgment.",
-          "resistance": "I often doubt whether I can truly change and find myself clinging to my old patterns, which makes me feel sad and lost."
+          "awareness": "I know things are tough, but I don't really see them as a problem that needs changing.",
+          "motivation": "I don't feel motivated to change because I doubt anything will help my situation.",
+          "openness": "I'm not very open to sharing my true feelings; I prefer to keep things to myself.",
+          "resistance": "I feel quite defensive when discussing my issues, almost like I want to avoid them completely."
         },
-        "client_reasoning": "I've begun to realize that my constant worry about money and support is really tied to deeper feelings of inadequacy. It's like I can see the patterns in my thoughts, where I feel both a strong desire to be independent and this paralyzing fear that I can't do it alone. I want to change, but the weight of my past and my current situation makes it feel so daunting. I know I should be figuring things out for myself, especially for Brady, but there's this voice in my head that keeps telling me I'm not enough or that I’ll fail. Talking through these feelings in therapy helps me understand that acknowledging my emotions is a start, but I still feel conflicted about whether real change is achievable for me. It’s hard not to resist the idea that I need to rely on others when I’ve always seen myself as strong and capable.",
-        "progress_marker": "Client begins to articulate feelings of ambivalence and recognizes the need for support."
+        "client_reasoning": "I feel like my life has spiraled out of control since my divorce, but honestly, I don't think there's anything I can do about it. When I think about my situation—being a single mom trying to figure out child support and feeling abandoned by friends—I just feel lost. Talking about it makes me anxious, and I often divert the conversation to other things, like how Brady is doing. I keep thinking that I should be able to handle this alone, but deep down, I know I can't. It feels safer to avoid discussing my feelings because I fear I'll just end up feeling more overwhelmed or even judged. I worry that if I admit how hard this is, it will only confirm that I'm helpless. Therapy feels a bit intimidating, and I’m not sure anything can actually change, so why bother getting into it all right now?"
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective to explore Mia's feelings regarding independence was not fully met. The client still struggles to articulate her desires for change and remains ambivalent about her situation.",
-          "client_utterance": "I keep thinking about how being independent could change things for me, but it feels so daunting. I want to be a good example for Brady, but then I worry about failing him if I can't manage on my own. There's this part of me that feels like I should just ask for help, but I hate feeling like I can't do it myself.",
-          "therapist_utterance": "It sounds like you're caught between wanting to be independent for Brady and the fear of not being able to manage it all. Acknowledging that desire to ask for help is important, and it doesn't take away from your strength. What do you think it would look like if you leaned into that desire for support a little more?",
-          "therapist_use": "Exploring ambivalence: used to validate Mia's feelings about independence and her fears regarding support."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not fully explore Mia's feelings about her divorce. The client's objective was not met because she remains guarded and hasn't shared her deeper emotions.",
+          "client_utterance": "I guess I just feel like everything is spiraling out of control. I never thought I would be a single mom, and it just feels so overwhelming. Sometimes I wonder if I’m strong enough to handle this alone.",
+          "therapist_utterance": "It sounds like you're feeling overwhelmed and uncertain about your ability to cope. Being a single mom is a big change, and it's understandable to feel like things are out of control. What does being strong mean to you in this situation?",
+          "therapist_use": "Reflective Listening: used to validate Mia's feelings and encourage her to explore her thoughts."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective to elicit change talk was not fully met. The client is still struggling to identify specific steps she can take toward her independence.",
-          "client_utterance": "I guess it would mean reaching out to my family more, but I’m scared they’ll think I’m incapable. I hate feeling like I have to rely on them, even if a part of me knows they might want to help. It’s just hard for me to imagine letting go of that control.",
-          "therapist_utterance": "It's understandable to worry about how your family might perceive your need for help. It sounds like you feel a sense of responsibility to manage things on your own, which can be really heavy. What if you viewed asking for support as a way to strengthen your family ties rather than a sign of weakness?",
-          "therapist_use": "Decisional balance discussion: used to help Mia consider the implications of seeking support versus maintaining independence."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they need to encourage Mia to elaborate on her values. The client's objective was not met since she still hasn't delved into her feelings about her situation.",
+          "client_utterance": "I don't know, I guess being strong means not breaking down in front of Brady. I just want to make sure he’s okay, and I tend to push my feelings aside for that reason. I feel like if I show him I'm struggling, it will make things worse for him.",
+          "therapist_utterance": "That makes sense; you want to protect Brady and be a strong figure for him. It seems like your role as a mother is really important to you. How does that desire to be strong align with how you're feeling right now?",
+          "therapist_use": "Developing Discrepancy: explored Mia's values related to independence and support while eliciting her feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective to develop discrepancy was not fully met. The client has not yet clearly identified how her current behaviors conflict with her values.",
-          "client_utterance": "I see your point, but it’s really hard for me to shake this feeling that I should be strong enough alone. I want to provide for Brady, but I also don't want to feel like I’m dragging anyone down with my problems. It just feels like a constant battle between what I think I should do and what I actually want.",
-          "therapist_utterance": "It must be exhausting to feel that constant battle between your values and how you perceive your situation. Your desire to provide for Brady is so strong, yet it seems like you're feeling pulled in different directions. Can we explore what being a good mother means to you and how asking for help might align with that value?",
-          "therapist_use": "Developing discrepancy: used to create awareness of the conflict between Mia's current struggles and her values as a mother."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not fully help Mia articulate the gap between her feelings and values. The client's objective was not met as she continues to avoid deeper emotions.",
+          "client_utterance": "I feel like I should be able to manage everything, but I’m just... lost. I keep thinking about how life was easier before, and now I don’t even know where to start. It’s like I’m just going through the motions.",
+          "therapist_utterance": "It sounds like you're experiencing a lot of confusion and maybe even a sense of loss about how things used to be. That feeling of being stuck can be really tough. What do you think would help you feel more connected to your current life, even amid these challenges?",
+          "therapist_use": "Reflective Listening: validated Mia's feelings of loss while encouraging her to explore her current situation."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective to facilitate a discussion on pros and cons was not achieved. The client has not yet fully articulated her fears or thoughts on her financial situation.",
-          "client_utterance": "I think if I were to ask for help, it would make me feel like I'm failing, but I also know I can't keep pushing everyone away. I worry so much about money and how I’ll provide for Brady, and I feel like if I don't figure it out myself, I’ll just be seen as weak. It’s tough to balance these thoughts.",
-          "therapist_utterance": "Those thoughts sound really heavy and conflicting. It’s completely valid to fear being seen as weak, yet you also recognize that pushing people away isn't helping either of you. What if we created a list together of the pros and cons of trying to handle everything by yourself versus seeking help from others?",
-          "therapist_use": "Pros and cons analysis: used to help Mia evaluate the impact of her choices on her well-being and her relationship with Brady."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they need to promote self-reflection on Mia's thoughts. The client's objective was not met since she hasn't yet expressed her fears more clearly.",
+          "client_utterance": "I guess I just avoid thinking about it because it feels like nothing will change anyway. Sometimes I imagine the worst-case scenarios, like what if I can't provide for Brady? But I don't want to dwell on that.",
+          "therapist_utterance": "It's understandable to want to avoid those fears, especially when they feel overwhelming. What if we took a moment to write down those worst-case scenarios? It might help to see them on paper and evaluate how likely they really are.",
+          "therapist_use": "Decatastrophizing: introduced the concept to help Mia articulate her fears and evaluate their likelihood."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective to challenge negative beliefs was not fully met. The client still holds onto feelings of inadequacy which affect her motivation.",
-          "client_utterance": "I know I shouldn't feel this way, but I can't help but think that people will see me as someone who can't handle life. Sometimes I feel like I'm just not lovable or like I’m failing at being a mom. I wish I could believe that I'm enough, but it feels so far from reality.",
-          "therapist_utterance": "It's really powerful that you’re expressing those feelings of inadequacy, Mia. It sounds like you're dealing with a lot of pressure both from yourself and the world around you. What if we explored some evidence for and against those beliefs that you’re not enough?",
-          "therapist_use": "Evidence-based questioning: used to challenge Mia's negative self-perceptions and explore alternative perspectives."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't yet fully guided Mia through the evaluation of her fears. The client's objective was not met because she still feels resistant to sharing more personal feelings.",
+          "client_utterance": "I suppose I could write them down, but I worry that just thinking about them will make me feel worse. It’s like if I acknowledge them, they become more real, and that scares me. What if I can't handle that kind of reality?",
+          "therapist_utterance": "I hear you; facing those fears can feel daunting. But sometimes, putting them into words can lessen their power over us. What if we took it step by step and just focused on one fear at a time?",
+          "therapist_use": "Reflective Listening: validated Mia's apprehension while encouraging her to take small steps."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective to strengthen motivation was not fully met. The client has not yet made clear connections between her feelings and actionable steps.",
-          "client_utterance": "I guess if I really think about it, there have been times when I've felt somewhat capable, like when I managed that trip with Brady. But then I go back to feeling overwhelmed and unworthy. I want to embrace those moments, but I keep telling myself they don't count.",
-          "therapist_utterance": "Those moments of feeling capable are significant, and it's important to acknowledge them as part of your journey. It sounds like you're recognizing a pattern where you downplay your achievements. How might embracing those moments change the way you view your ability to cope moving forward?",
-          "therapist_use": "Decatastrophizing: used to help Mia confront her feelings of inadequacy and recognize her capabilities."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not fully facilitate a reality check on Mia's fears. The client's objective was not met as she remains defensive and hasn't opened up about her feelings.",
+          "client_utterance": "Maybe I can try that, but I still feel like nothing will really improve. Sometimes it feels like I'm just stuck in this cycle of worry and sadness. I don't even know if I want to change that right now.",
+          "therapist_utterance": "It's okay to feel unsure about wanting to change; that’s part of this process. You don’t have to rush into anything. Just taking the time to explore what you’re feeling can be a valuable step forward.",
+          "therapist_use": "Reflective Listening: used to validate Mia's uncertainty and reinforce that she can take her time."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective to explore ambivalence and strengthen motivation was met. The client has articulated her feelings and desires for independence, showing increased insight into her emotions. The client has begun to understand her need for support and the significance of her own accomplishments.",
-          "client_utterance": "I can see now that I need to allow myself to feel those small victories and not just focus on the negatives. Maybe reaching out for help isn’t the end of my independence but a way to build it. I want to be there for Brady and for myself, and accepting support might actually help me do that.",
-          "therapist_utterance": "That’s a beautiful realization, Mia. Embracing your victories and seeking support can coexist, and it's a step toward both independence and fulfillment as a mother. You’re opening up to new possibilities for your future, and that’s an incredible start.",
-          "therapist_use": "Eliciting change talk: used to affirm Mia's insights and highlight her motivations toward seeking independence and support."
+          "reason_for_ending": "MOVE - The therapist's objective was met as they successfully increased Mia's awareness of her thoughts and feelings. The client's objective was met as she began articulating her feelings and fears without resistance, showing some openness.",
+          "client_utterance": "I guess I’m starting to see that I have a lot of feelings I’ve been avoiding. Just talking about it feels a bit lighter, and I realize I might not have to face everything all at once. It’s a start, I suppose.",
+          "therapist_utterance": "Absolutely, Mia. Recognizing those feelings is a significant step, and it’s great to hear you’re feeling a bit lighter. This process can be gradual, and you’re doing well by allowing yourself to explore these emotions.",
+          "therapist_use": "Reflective Listening: validated Mia's progress and encouraged her continued exploration of emotions."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Mia's ambivalence about seeking help and independence while strengthening her motivation to change.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Ask Mia to describe her feelings about her current situation and her desire to be independent.",
+                "Encourage her to express both her desire for change and her fears regarding independence.",
+                "Use reflective listening to validate her feelings and acknowledge the conflict she feels."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Prompt Mia to articulate specific reasons why she would want to change her current situation.",
+                "Ask open-ended questions like 'What would being more independent mean for you and Brady?'",
+                "Reinforce any positive statements she makes about change and independence."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussion",
+              "instructions_for_therapist": [
+                "Facilitate a discussion on the pros and cons of her current situation versus the possibility of seeking help.",
+                "Encourage her to weigh the benefits of independence against her fears.",
+                "Summarize her thoughts to help her see the discrepancy between her values and current behaviors."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Decatastrophizing",
+              "instructions_for_therapist": [
+                "Begin by discussing the email from her ex-partner and the feelings it has triggered.",
+                "Guide Mia to articulate her worst-case scenarios and write these down.",
+                "Help her evaluate the likelihood of these catastrophic thoughts and identify evidence for and against them.",
+                "Encourage her to consider alternative, more balanced outcomes.",
+                "Develop a step-by-step coping plan for addressing her financial concerns.",
+                "Practice reframing her catastrophic thoughts into manageable statements.",
+                "Assign homework to track and reframe any catastrophic thoughts in a journal."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In approaching Mia's therapy, the focus is to explore her ambivalence while enhancing her motivation for change, as she is still in the Contemplation phase. I will employ Motivational Interviewing strategies, beginning with exploring her ambivalence by validating her feelings about independence and the challenges she faces, which aligns with her intermediate resistance level. Eliciting change talk will help Mia articulate her reasons for wanting change, allowing her to reflect on the positive aspects of independence while acknowledging her fears. The decisional balance discussion will further highlight the discrepancy between her values of self-sufficiency and her current reliance on others, fostering insight that could motivate her to consider change more seriously. Alongside MI, I will introduce the Decatastrophizing technique from CBT, helping her challenge catastrophic thoughts triggered by her ex-partner's email. This structured approach will offer Mia a pathway to reframe her fears and develop realistic coping strategies, all while maintaining a collaborative and non-confrontational therapeutic relationship.",
+        "progress_marker": "Mia demonstrates increased articulation of her ambivalence and begins to identify small steps towards coping with her fears and challenges."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to gain clarity on my feelings and explore my options for moving forward.",
+        "client_state": {
+          "awareness": "I am starting to see that my feelings of helplessness and loneliness are connected to my situation and my past patterns.",
+          "motivation": "I want to change and improve my life for my son and myself, but I feel unsure about how to do it.",
+          "openness": "I am willing to discuss my thoughts and feelings with my therapist, but I still hold back some of my deeper fears.",
+          "resistance": "I feel a strong pull to stay in my current situation because the thought of change overwhelms me."
+        },
+        "client_reasoning": "I’ve begun to realize that my feelings of helplessness and isolation are deeply tied to my current circumstances. I recognize that my past relationship has shaped my ability to cope with being on my own, and it’s tough to confront that. While I know I should strive for independence, I often feel lost and overwhelmed by the responsibilities I now face. The shame from my friends distancing themselves adds another layer of conflict; it makes me question my self-worth. I want to change for my son, Brady, but I’m afraid of failing or not being able to provide for him. Therapy has been helpful in allowing me to verbalize these feelings, but I still find myself resisting the idea of making significant changes. It’s like I’m stuck between wanting to break free and clinging to the familiarity of my current struggles."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't fully explored her feelings about independence. Client objective not met: Mia is still struggling to articulate her options for moving forward.",
+          "client_utterance": "I think about independence a lot, but it’s scary. I mean, I want to be strong for Brady, but what if I fail? Sometimes I wonder if I’m even capable of handling everything on my own.",
+          "therapist_utterance": "It sounds like you’re feeling a lot of pressure to be strong, and the thought of failing is weighing heavily on you. What does being independent look like for you, and what are some of the fears that come with that vision?",
+          "therapist_use": "Exploring Ambivalence: used to help Mia articulate her feelings about independence and fears surrounding it."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: The conversation hasn't yet elicited significant change talk. Client objective not met: Mia hasn't clarified her options for moving forward.",
+          "client_utterance": "Being independent feels like it would mean I can make my own choices, but then I feel guilty about leaving my past behind. What if my friends judge me more? I don’t want to lose that connection.",
+          "therapist_utterance": "It seems like you’re caught between wanting to embrace independence and fearing the judgment of others. How does that guilt impact your desire to seek help or make changes in your life?",
+          "therapist_use": "Eliciting Change Talk: aimed to help Mia articulate her reasons for wanting change and the conflicting emotions that arise."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't yet weighed the pros and cons of her current situation versus seeking help. Client objective not met: Mia still feels unsure about her options.",
+          "client_utterance": "I guess if I seek help, it might mean I can learn how to manage things better. But then I think about how much effort that will take, and what if I just end up feeling more overwhelmed?",
+          "therapist_utterance": "You’re recognizing that seeking help could provide you with tools to manage your life, but the effort feels daunting. Let’s explore what benefits you see in seeking help versus the challenges you fear. What are the pros and cons you’re weighing?",
+          "therapist_use": "Decisional Balance Discussion: focused on helping Mia weigh the benefits of seeking help against her fears."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't fully articulated her fears and benefits yet. Client objective not met: She is still uncertain about her feelings and options.",
+          "client_utterance": "The benefits seem like they could include feeling more in control and possibly being a better mom, but the idea of asking for help feels like admitting I can’t do it all myself.",
+          "therapist_utterance": "It’s understandable to feel that way; asking for help can feel like a sign of weakness when, in reality, it can be a strength. What if we considered some small steps you might take towards seeking help? What could those look like?",
+          "therapist_use": "Eliciting Change Talk: used to guide Mia to envision small steps towards seeking help, reinforcing her motivation."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't yet voiced specific steps she might take. Client objective not met: Mia still feels uncertain about actionable options.",
+          "client_utterance": "Maybe I could start by talking to a friend or looking into support groups? But then I worry they’ll think I’m a failure for needing help.",
+          "therapist_utterance": "That’s a valid concern, but reaching out for support can show strength and resilience. How might you reframe that fear of judgment into something that feels more empowering? What could that look like for you?",
+          "therapist_use": "Decatastrophizing: aimed at helping Mia reframe her fears of judgment into a more empowering perspective."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Mia hasn't explored coping strategies in detail yet. Client objective not met: She is still not fully clear on how to proceed.",
+          "client_utterance": "I guess if I focus on the idea that seeking help means I’m taking steps to improve, it could change how I feel. But I still need to figure out how to cope with my financial worries too.",
+          "therapist_utterance": "That’s a great perspective shift! Let’s explore some strategies for managing those financial worries. What are the specific concerns that keep coming to mind, and how can we address them step by step?",
+          "therapist_use": "Decatastrophizing: used to help Mia articulate her financial concerns and develop coping strategies."
+        },
+        {
+          "reason_for_ending": "MOVE - Therapist objective met: Mia has articulated some feelings and potential steps towards seeking help. Client objective met: She is beginning to clarify her feelings and options for moving forward.",
+          "client_utterance": "I think if I can take it one step at a time, I might find my footing again. Just discussing these fears has helped me see that I have options, even if they feel small right now.",
+          "therapist_utterance": "That’s a significant realization, Mia! Recognizing that you have options, no matter how small, is a powerful step towards independence. How do you feel about committing to exploring these options further in our next sessions?",
+          "therapist_use": "Summarizing Progress: used to highlight Mia's growth and encourage her commitment to exploring her options."
         }
       ]
     },
@@ -248,21 +217,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Mia's commitment to change and enhance her self-efficacy in managing her situation.",
+          "objective": "Strengthen Mia's commitment to taking actionable steps toward her goals and enhance her readiness for change.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask open-ended questions to elicit Mia’s thoughts on her readiness to implement changes.",
-                "Reflect on her statements about wanting to be independent and how she feels about taking actions toward that goal.",
-                "Encourage her to articulate specific commitments she is willing to make, such as seeking financial advice or planning activities with her son."
+                "Ask Mia to articulate her reasons for wanting to change and how these align with her values, particularly focusing on her desire to provide for Brady and regain independence.",
+                "Encourage her to express her commitment to change by stating specific actions she plans to take, reinforcing her motivation by acknowledging her past successes, such as traveling with her son."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Inquire about her past successes in overcoming challenges and how those experiences can inform her current situation.",
-                "Discuss her feelings of uncertainty and help her identify small, manageable steps she can take that would bolster her confidence."
+                "Use open-ended questions to explore Mia's feelings about her ability to face the financial challenges and child support issues.",
+                "Discuss any previous experiences that required her to be resilient and how those might inform her current situation, reinforcing her strengths."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Facilitate a discussion around potential support systems, including family and community resources, that Mia can rely on during this transition.",
+                "Encourage her to identify specific individuals she can reach out to for help, enhancing her social support network."
               ]
             }
           ]
@@ -270,79 +245,67 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Guide Mia in creating a realistic action plan that addresses her financial concerns, including reaching out for legal advice.",
-                "Break down the plan into specific, achievable tasks (e.g., contacting a financial counselor, scheduling a support group meeting).",
-                "Encourage her to set deadlines for each task to create a sense of accountability."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Teach Mia to identify potential barriers to her action plan and brainstorm practical solutions.",
-                "Role-play scenarios in which she might feel overwhelmed, helping her develop coping strategies to manage those feelings."
+                "Introduce the concept of decatastrophizing and discuss the emotional impact of the recent email from her ex-partner.",
+                "Guide Mia to identify her catastrophic thoughts about financial insecurity and evaluate the evidence for and against these thoughts.",
+                "Encourage her to explore more balanced outcomes and help her develop a coping plan that includes specific actions like seeking legal advice and budgeting.",
+                "Assist her in reframing her thoughts into more manageable statements and assign her the task of tracking these thoughts and her emotional responses in a journal."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan, I first recognized Mia's key beliefs around helplessness and unlovability, which contribute to her resistance and feelings of being overwhelmed. Using Motivational Interviewing, I aimed to strengthen her commitment to change by asking open-ended questions about her readiness and past successes, allowing her to articulate her motivations and specific intentions. This is crucial, given her intermediate resistance level and the emotional burden she feels. Next, I incorporated CBT techniques, focusing on action planning to structure her next steps towards independence. This not only provides a clear path but also boosts her self-efficacy. Problem-solving skills training allows her to address potential barriers proactively rather than reactively, fostering resilience. By ensuring these strategies are collaborative and tailored to her circumstances, I aim to empower Mia to take manageable steps while validating her feelings of uncertainty and fear.",
-        "progress_marker": "Mia successfully identifies at least two specific actions she can take within the next week to work towards her financial independence and emotional well-being."
+        "therapist_reasoning": "In developing Mia's therapy plan, I began by recognizing her current stage in the Preparation phase and her desire to make changes despite her feelings of overwhelm. Using Motivational Interviewing (MI), I focused on strengthening her commitment to change by exploring her motivations and aligning them with her values, particularly concerning her son. This involves reinforcing her past successes to build confidence. I also addressed her readiness and identified available resources to ensure she feels supported. Subsequently, I integrated Cognitive Behavioral Therapy (CBT) techniques to help her navigate her catastrophic thoughts related to financial insecurity. This approach will aid in decatastrophizing her fears by evaluating the evidence for and against her thoughts and reframing them into more manageable statements. The overall plan is collaborative, ensuring that Mia is actively involved in creating her action steps, which aligns with her current resistance and emotional state, thus fostering a sense of autonomy and confidence.",
+        "progress_marker": "Mia will track her catastrophic thoughts and reframing efforts in her journal, along with identifying at least two supportive resources she can reach out to by the next session."
       },
       "client_plan": {
-        "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings about my divorce and financial situation while identifying steps I can take to improve my life and my relationship with my son.",
-        "client_state": {
-          "awareness": "I understand that my current situation is challenging, and I need to make changes to improve my life and my son's well-being.",
-          "motivation": "I feel a growing desire to be independent and provide for myself and Brady, although I still feel overwhelmed at times.",
-          "openness": "I am willing to discuss my thoughts and feelings with my therapist and consider new strategies for coping and moving forward.",
-          "resistance": "I experience doubt and fear about my ability to change, especially regarding my financial situation and the fear of being alone."
-        },
-        "client_reasoning": "I realize that my life has changed dramatically since my separation, and it's clear I can’t continue feeling lost and overwhelmed. I believe I need to take steps to become more independent for both my sake and Brady's. I have started to think about what changes I can make, like seeking help when I need it and exploring ways to support myself. Therapy has helped me see that it’s okay to ask for support, and that I don’t have to face this alone. However, I still feel a sense of fear about not being able to manage everything on my own. I worry that I might fail or that my financial situation will keep me from achieving my goals. Yet, despite these fears, I feel a flicker of hope that with the right steps, I can create a better life for myself and my son.",
-        "progress_marker": "Client begins to articulate specific areas for change and expresses a willingness to explore support options."
+        "awareness": "I recognize that my current circumstances are unsustainable and that I need to take action to support myself and Brady.",
+        "motivation": "I feel a stronger desire to improve my life and be a better parent, even though I'm still scared of failing.",
+        "openness": "I'm willing to discuss my thoughts and feelings with my therapist, as I know I need support to navigate this change.",
+        "resistance": "I still experience doubts about my ability to change and feel overwhelmed by the fear of being alone and unsupported."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met because Mia has not yet identified specific actions to take. Client's objective was not met as she hasn't fully explored her feelings about her financial situation.",
-          "client_utterance": "I’ve been thinking more about asking for help, but I still feel so torn. I want to be independent, but I also don’t want to feel like I’m failing. It’s just hard to imagine what that support would even look like.",
-          "therapist_utterance": "It sounds like you're still wrestling with the idea of asking for help, which is completely understandable. Being independent is important to you, yet you also recognize the potential value in reaching out. What kind of support do you think could help you feel less overwhelmed?",
-          "therapist_use": "Open-ended question: encouraged Mia to articulate her thoughts on support."
+          "reason_for_ending": "KEEP - Therapist objective not met: Mia has not yet articulated specific actionable steps toward her goals. Client objective not met: Mia has not yet expressed a strong commitment to change.",
+          "client_utterance": "I feel like I'm starting to understand that I need to take action, but it’s still hard to figure out what those actions should be. I want to be a better parent and regain some independence, but the fear of failing is still there. Sometimes I think about how to provide for Brady and what that really means for me.",
+          "therapist_utterance": "It’s great that you’re recognizing the need for action. What do you think are some small steps you could take towards that independence you desire? Let’s think about what providing for Brady looks like in practical terms.",
+          "therapist_use": "Open-ended questioning: Encouraged Mia to identify actionable steps toward her goals."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Mia hasn't committed to any specific actions. Client's objective was not met because she hasn't yet identified clear steps toward improving her situation.",
-          "client_utterance": "I think reaching out to my family could help, but I still worry they might judge me. I guess I could talk to my sister about my financial fears, but I’m scared she won't understand. There’s a part of me that thinks I should just figure it out on my own.",
-          "therapist_utterance": "It’s normal to have those fears about judgment, especially from someone close to you. However, it seems like you also recognize that talking to your sister could be beneficial. What if you framed the conversation as a way to strengthen your bond rather than as a sign of weakness?",
-          "therapist_use": "Reframing: helped Mia consider a positive angle on seeking support."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to explore Mia's feelings of confidence more deeply. Client objective not met: Mia has not yet identified specific actions to take.",
+          "client_utterance": "I suppose I could start by looking into job opportunities or maybe even consider a budget to manage my finances better. But I worry that if I can't find something soon, it will just add to my stress. I don’t want to fail Brady by not being able to provide.",
+          "therapist_utterance": "Those are indeed worthwhile steps, Mia. It’s understandable to feel stressed about finding a job quickly, but let’s break it down. What would a manageable budget look like for you, and how might you start exploring job opportunities?",
+          "therapist_use": "Exploring confidence and readiness: Focused on Mia's feelings about taking practical actions."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met because Mia hasn't made a specific commitment yet. Client's objective was not met as she has not fully explored actionable steps.",
-          "client_utterance": "I can see that talking to my sister might help, but I still feel like I’m burdening her. It feels selfish to lean on anyone when I should be managing everything myself. I want to be strong for Brady, but I’m just so exhausted.",
-          "therapist_utterance": "It’s okay to feel that way, Mia. You’re carrying a lot of weight on your shoulders, and it doesn’t make you selfish to seek support. What if you allowed yourself to lean on someone just a little and see how it feels?",
-          "therapist_use": "Empathy: validated Mia's feelings of exhaustion and reluctance."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist hasn’t fully reinforced Mia's past successes to build confidence. Client objective not met: Mia hasn’t yet expressed a clear commitment to the identified actions.",
+          "client_utterance": "If I could just get a clear understanding of what my expenses are, that would help. I remember when I managed my finances in college; I was able to stick to a budget then. It feels like I need to rekindle that part of me.",
+          "therapist_utterance": "That’s a great realization, Mia! Remembering how you successfully managed your finances in college can help build your confidence. How might you apply that same mindset now as you work towards budgeting and finding a job?",
+          "therapist_use": "Strengthening commitment language: Reinforced Mia's past successes to enhance her confidence."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Mia still hasn't committed to a plan of action. Client's objective was not met as she hasn't outlined specific steps for improvement.",
-          "client_utterance": "I guess it could be helpful to try and see what happens, but I’m still scared. What if I disappoint them or they don’t know how to help me? I feel like I’m just stuck in this cycle of fear.",
-          "therapist_utterance": "Fear can be a powerful barrier, and it's understandable to worry about disappointing others. Maybe we can break that cycle by identifying small, manageable steps that don’t feel overwhelming. What would be one small action you could take this week to reach out for support?",
-          "therapist_use": "Action planning: encouraged Mia to think of small, manageable steps."
+          "reason_for_ending": "KEEP - Therapist objective not met: More support systems need to be identified for Mia. Client objective not met: Mia hasn’t yet made a commitment to reach out for support.",
+          "client_utterance": "I’ve been thinking about talking to my sister; she’s always been supportive. But I still hesitate because I feel like I’m burdening her with my problems. I guess I need to remind myself that seeking help doesn’t mean I’m weak.",
+          "therapist_utterance": "Reaching out to your sister sounds like a positive step. Remember, sharing your feelings can strengthen your bond rather than burden her. What do you think it would look like to have that conversation with her?",
+          "therapist_use": "Identifying supports and resources: Encouraged Mia to consider reaching out to her sister for support."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Mia still hasn't settled on a specific action. Client's objective was not met as she hasn't fully identified steps toward improvement.",
-          "client_utterance": "I think I could text my sister and just ask her to chat, but I’m still hesitant. Part of me wants to reach out, but another part fears the response. It’s like I’m in this tug-of-war with myself.",
-          "therapist_utterance": "That internal conflict is a common experience when considering reaching out. It might help to remind yourself of the reasons you want to connect with her and the benefits it could bring. What are some positive outcomes you envision from that conversation?",
-          "therapist_use": "Exploring outcomes: helped Mia visualize the potential benefits of reaching out."
+          "reason_for_ending": "KEEP - Therapist objective not met: Need to explore more resources in Mia's network. Client objective not met: Mia has not yet committed to taking action regarding her sister.",
+          "client_utterance": "I think I could reach out to her. But I still feel anxious about it; what if she doesn't understand? I keep thinking about how my friends have disconnected from me, and it makes me feel alone.",
+          "therapist_utterance": "It’s completely normal to feel anxious about reaching out, especially given your recent experiences with friends. However, your sister may provide a different perspective and support. How could you frame your request for help in a way that feels comfortable for you?",
+          "therapist_use": "Exploring confidence and readiness: Addressed Mia's anxieties about seeking support."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Mia hasn't yet committed to reaching out. Client's objective was not met as she still hasn't articulated her steps for improvement.",
-          "client_utterance": "I can see how talking could help me feel less isolated, but I’m still scared of being judged. Maybe if I focus on how much I need support for Brady, it might give me the push I need. I just have to remind myself that I’m not alone.",
-          "therapist_utterance": "That’s a powerful realization, Mia. Recognizing that seeking support could strengthen your ability to care for Brady is an important mindset shift. It seems like you’re starting to see the value in connection, which is a great step forward.",
-          "therapist_use": "Affirmation: validated Mia's shift in perspective towards seeking support."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist needs to help Mia articulate her action steps. Client objective not met: Mia hasn't made a clear commitment to reaching out.",
+          "client_utterance": "Maybe I could write her a message first so it doesn’t feel so daunting. I guess I just need to remind myself that I’m not alone in this, even if it feels that way sometimes. It’s hard to believe that things can change for the better.",
+          "therapist_utterance": "That’s a great idea! Writing a message can make it feel less intimidating and gives you the chance to express your feelings. What if you also considered writing down your thoughts and feelings about this change to help process it?",
+          "therapist_use": "Decatastrophizing: Encouraged Mia to express her feelings through writing, helping her to manage anxiety."
         },
         {
-          "reason_for_ending": "MOVE: Therapist's objective was met as Mia has begun to articulate potential actions she can take. Client's objective was met as she has expressed a willingness to explore her feelings and steps toward improvement.",
-          "client_utterance": "I think I’m ready to draft that text to my sister. It feels good to finally consider taking this step. I know it won’t be easy, but at least I’m moving in the right direction for Brady and me.",
-          "therapist_utterance": "That’s fantastic, Mia! Taking that step to reach out is a significant move towards your independence and well-being. You’re showing strength in your willingness to seek support, and that’s something to be proud of.",
-          "therapist_use": "Celebratory affirmation: reinforced Mia's progress and commitment to action."
+          "reason_for_ending": "MOVE - Therapist objective met: Mia has identified actionable steps and begun to explore support. Client objective met: Mia has articulated a commitment to reach out and process her feelings.",
+          "client_utterance": "I think I’m ready to reach out to my sister and maybe even start budgeting again. Just talking through these fears has helped me see that I have options, and I really want to make this work for Brady and me. It feels good to have some direction.",
+          "therapist_utterance": "That’s fantastic, Mia! I’m so proud of you for taking these steps. It sounds like you’re truly committed to making positive changes for yourself and Brady, and that’s a significant achievement.",
+          "therapist_use": "Strengthening commitment language: Reinforced Mia's progress and commitment to her goals."
         }
       ]
     }

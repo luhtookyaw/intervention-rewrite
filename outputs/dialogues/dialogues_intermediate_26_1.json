@@ -12,163 +12,36 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Olivia's awareness of her thoughts and feelings regarding her situation without pushing for immediate change.",
+          "objective": "To build rapport and increase Olivia's awareness of her thoughts and feelings related to her current situation without pushing her towards change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Olivia's concerns and emotions.",
-                "Paraphrase her statements to show understanding and validation.",
-                "Encourage her to elaborate on her feelings and thoughts about her relationship with Ivan."
+                "Listen attentively to Olivia's concerns and feelings.",
+                "Reflect back what she shares to show understanding and validation.",
+                "Use phrases like, 'It sounds like you're feeling overwhelmed by what you've heard about Ivan.'"
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Olivia's feelings of anxiety and overwhelm.",
-                "Communicate understanding of her reluctance to confront her situation.",
-                "Validate her experiences as normal reactions to her complex circumstances."
+                "Acknowledge Olivia's feelings of anxiety and uncertainty.",
+                "Convey understanding that her experiences are challenging.",
+                "Say something like, 'It's understandable to feel scared when faced with such serious terms about Ivan's behavior.'"
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Help Olivia explore the gap between her current feelings and her values regarding safety and love.",
-                "Encourage her to reflect on what she truly wants in her relationship.",
-                "Facilitate discussions about her fears versus her hopes."
+                "Gently explore the difference between Olivia's current feelings of helplessness and her deeper values regarding safety and love.",
+                "Ask open-ended questions to encourage her to reflect on what she truly values in a relationship."
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Ask open-ended questions to help Olivia examine her thoughts and emotions.",
-                "Encourage her to articulate her understanding of the situation and her feelings about Ivan's behavior.",
-                "Support her in recognizing patterns in her thoughts that may contribute to her anxiety."
-              ]
-            }
-          ]
-        },
-        "cbt_plan": {
-          "interventions": [
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Olivia to explore the evidence for her thoughts about being helpless or unlovable.",
-                "Encourage her to consider alternative perspectives on her situation.",
-                "Guide her in questioning the validity of her fears regarding Ivan's behavior."
-              ]
-            },
-            {
-              "technique_name": "Reality Testing",
-              "instructions_for_therapist": [
-                "Help Olivia reflect on past experiences where she felt helpless but managed to cope.",
-                "Encourage her to identify moments in her life where she felt in control.",
-                "Assist her in challenging the belief that she is powerless."
-              ]
-            },
-            {
-              "technique_name": "Alternative Perspective",
-              "instructions_for_therapist": [
-                "Invite Olivia to think about how a friend might view her situation.",
-                "Encourage her to consider what she would advise someone else in her position.",
-                "Facilitate a discussion about possible strengths she possesses that she may not recognize."
-              ]
-            },
-            {
-              "technique_name": "Continuum Technique",
-              "instructions_for_therapist": [
-                "Ask Olivia to rate her feelings about her relationship and her fears on a scale.",
-                "Encourage her to explore where she falls on that continuum over time.",
-                "Facilitate discussions about shifts in her perceptions as she reflects on her situation."
-              ]
-            }
-          ]
-        },
-        "therapist_reasoning": "In working with Olivia, the therapist first needs to establish a trusting rapport by employing reflective listening, which will validate her feelings and encourage her to express herself more freely. By expressing empathy, the therapist acknowledges her anxiety and overwhelming emotions, reducing her defensiveness. The therapist then focuses on developing discrepancy by helping Olivia reflect on the conflict between her current feelings and her values, fostering a sense of curiosity about her situation. Raising awareness through open-ended questions will assist her in recognizing her thoughts and emotions. In terms of CBT, the therapist will utilize evidence-based questioning to explore the validity of Olivia's core beliefs about helplessness. Reality testing will help her recognize moments of control in her past, while alternative perspectives will provide her with a different lens on her situation. Finally, the continuum technique will allow her to visualize shifts in her feelings, promoting greater self-awareness without imposing any pressure for change. This structured approach will respect her current stage of change while gently guiding her toward introspection.",
-        "progress_marker": "Increased expression of thoughts and emotions, reduced defensiveness, and greater awareness of discrepancies between values and current feelings."
-      },
-      "client_plan": {
-        "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand my situation better without feeling pressured to make changes right now.",
-        "client_state": {
-          "awareness": "I recognize there's a problem with my relationship, but I don’t see how it can change.",
-          "motivation": "I feel uncertain about wanting to change; I want things to be better, but I'm not sure how or if it's possible.",
-          "openness": "I find it hard to share my true feelings about Ivan and my situation; I mostly avoid it.",
-          "resistance": "I feel anxious about discussing deeper issues and often deflect the conversation away from my feelings."
-        },
-        "client_reasoning": "I know there are issues in my marriage, but I feel stuck and helpless. I keep thinking that if I just understand Ivan's behavior better, maybe I can find a way to make things work. Hearing clinical terms like 'delusional' makes me anxious; they sound serious and I can't help but wonder if I'm unsafe. I want to talk about these feelings, but I feel overwhelmed and want to avoid diving into the emotional mess. My beliefs tell me that I need clarity before I can think about change. Even though I’m in therapy, it feels safer to talk about work or other distractions rather than confronting the reality of my relationship. I worry about what others may think if I admit how bad it really is, and that makes me hesitant to open up completely."
-      },
-      "dialogue": [
-        {
-          "reason_for_ending": "KEEP - The therapist's objective of increasing Olivia's awareness was not fully met. Olivia still feels overwhelmed and is avoiding deeper feelings.",
-          "client_utterance": "I just keep thinking about how Ivan's behavior doesn't really add up. Sometimes I feel like I'm losing my grip on everything, and I wonder if I’m just imagining things. It's like I want to understand him better, but it makes me anxious.",
-          "therapist_utterance": "It sounds like you're feeling a lot of confusion and anxiety about Ivan's behavior. You want to make sense of it, but it's also overwhelming for you. Can you tell me more about what specific behaviors or situations are troubling you the most?",
-          "therapist_use": "Reflective Listening: used to validate Olivia's feelings of confusion and anxiety."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist's goal to develop discrepancy in Olivia's feelings and values was not fully achieved. Olivia has not yet articulated her values regarding safety and love.",
-          "client_utterance": "I guess I just feel stuck. I want to feel safe, but at the same time, I keep hoping things could change if I just understand him better. It feels like there’s so much at stake, and I don’t want to make a wrong move.",
-          "therapist_utterance": "Your desire to feel safe is really important, and it’s understandable to feel torn. You hope for change, yet you also recognize your need for safety. What would safety look like for you in this situation?",
-          "therapist_use": "Developing Discrepancy: used to help Olivia explore the tension between her hope for change and her need for safety."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist's objective of raising awareness about Olivia's thoughts and emotions wasn't completely met. Olivia is still struggling to express her deeper feelings.",
-          "client_utterance": "I think safety would mean not having to worry about when he might lash out again. But I also feel bad thinking that way because I want to believe he can change. It’s just hard to separate those feelings.",
-          "therapist_utterance": "It's okay to have those conflicting feelings; wanting to believe in change while also prioritizing your safety is a tough place to be. It’s normal to feel guilty about those thoughts, but they’re valid given what you’ve experienced. Can you explore how those fears affect your current feelings toward Ivan?",
-          "therapist_use": "Raising Awareness: used to encourage Olivia to articulate her thoughts and feelings about her fears."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist's aim to validate Olivia's feelings was not fully met. She is still hesitant to confront her emotions directly.",
-          "client_utterance": "I think my fears make me want to avoid thinking about him or our situation. I feel like if I don't confront it, maybe it won't be real. But deep down, I know that’s not how it works.",
-          "therapist_utterance": "Avoiding those feelings might seem easier, but it sounds like you’re also aware that it doesn’t help in the long run. Recognizing that conflict is a step forward. What do you think holds you back from facing those feelings directly?",
-          "therapist_use": "Expressing Empathy: used to acknowledge Olivia's conflict in facing her feelings."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist's objective of helping Olivia recognize patterns in her thoughts was not entirely achieved. She is still expressing a desire to avoid deeper issues.",
-          "client_utterance": "I guess I’m just scared of what I might find if I dive deeper. I worry that maybe I’m making excuses for him, and that scares me even more. What if I realize I’m just stuck in denial?",
-          "therapist_utterance": "It’s understandable to fear what you might uncover, especially when it comes to such complex emotions. Acknowledging that fear shows how much you care about understanding your situation. What would it mean for you to confront those thoughts, even a little bit?",
-          "therapist_use": "Raising Awareness: used to help Olivia recognize her fears around confronting deeper issues."
-        },
-        {
-          "reason_for_ending": "KEEP - The therapist's goal to help Olivia explore her coping mechanisms has not been fully met. She is still avoiding discussing her deeper thoughts.",
-          "client_utterance": "I feel like I cope by telling myself things could be worse, or by focusing on work instead. But that keeps me from really facing what's happening. I'm not sure how to break that cycle.",
-          "therapist_utterance": "It’s a common coping strategy to focus on other aspects of life, but it sounds like you’re ready to acknowledge that it’s not serving you well. Recognizing that pattern is significant. What small step could you take to start facing your feelings about Ivan?",
-          "therapist_use": "Reality Testing: used to help Olivia reflect on her coping strategies and consider alternatives."
-        },
-        {
-          "reason_for_ending": "MOVE - The therapist's objective of fostering greater awareness was met. Olivia is beginning to express her thoughts and feelings more openly. The client is also expressing a desire to explore her feelings, which aligns with her objective.",
-          "client_utterance": "Maybe I could try journaling about my feelings or talking to a friend. I know it's not going to be easy, but I want to start understanding myself better. I think that might help me figure out what I really want.",
-          "therapist_utterance": "That sounds like a meaningful step, Olivia. Journaling or reaching out to a friend can provide you with space to express those feelings without pressure. Exploring your thoughts in that way could lead to greater clarity about your relationship and your needs.",
-          "therapist_use": "Encouragement: used to support Olivia's decision to take small steps toward understanding her feelings."
-        }
-      ]
-    },
-    {
-      "phase": "contemplation",
-      "therapist_plan": {
-        "phase_of_therapy": "contemplation",
-        "motivational_interviewing_plan": {
-          "objective": "To explore Olivia's ambivalence about her relationship with Ivan and enhance her motivation to consider potential changes.",
-          "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Encourage Olivia to express her mixed feelings about her relationship with Ivan.",
-                "Ask open-ended questions that invite her to elaborate on both her desire for change and her fears associated with it."
-              ]
-            },
-            {
-              "strategy_name": "Developing Discrepancy",
-              "instructions_for_therapist": [
-                "Help Olivia identify her core values (safety, love, respect) and contrast them with her current situation.",
-                "Facilitate discussions around how her current behaviors align or misalign with her values."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance",
-              "instructions_for_therapist": [
-                "Guide Olivia through a pros and cons analysis regarding staying in her relationship versus considering other options.",
-                "Encourage her to articulate her thoughts and feelings regarding the benefits and drawbacks of each choice."
+                "Encourage Olivia to articulate her thoughts and feelings about her situation.",
+                "Ask her how she feels about her current coping strategies and their effectiveness."
               ]
             }
           ]
@@ -178,82 +51,180 @@
             {
               "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Assist Olivia in reframing her automatic thoughts about Ivan's behavior and the clinical terms she has heard.",
-                "Encourage her to evaluate the evidence for her fears and challenge catastrophic thinking."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Work with Olivia to list the advantages and disadvantages of her current coping strategies, such as using work as distraction.",
-                "Encourage her to consider whether these strategies support her long-term goals."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Prompt Olivia to explore the validity of her beliefs about being unlovable and powerless.",
-                "Facilitate a discussion on instances where she has felt empowered or loved."
+                "Introduce the concept of catastrophizing to Olivia, explaining how it relates to her fears.",
+                "Work collaboratively to identify specific catastrophic thoughts related to Ivan's behavior.",
+                "Guide her in challenging these thoughts by discussing the evidence for and against them.",
+                "Assist in generating alternative, balanced thoughts about her situation.",
+                "Discuss the creation of a personal safety plan to empower her and alleviate feelings of helplessness.",
+                "Incorporate mindfulness techniques to help her stay grounded when overwhelmed by anxiety."
               ]
             }
           ]
         },
-        "therapist_reasoning": "Initially, I will focus on exploring Olivia's ambivalence regarding her relationship with Ivan by using MI strategies, such as open-ended questions that allow her to share her mixed feelings. This will help build rapport and foster a safe environment for her to express her concerns. Next, I will help her develop discrepancy between her core values and her current situation, guiding her to identify how her current behaviors align or misalign with her values of safety and respect. Additionally, I will facilitate a decisional balance exercise to weigh the pros and cons of her current coping strategies, which can provide clarity on her situation. Simultaneously, I will employ CBT techniques like decatastrophizing to challenge her catastrophic thoughts about Ivan, encouraging her to evaluate the evidence for her fears. I will also utilize evidence-based questioning to help her explore her beliefs about being unlovable and powerless, fostering insight and empowering her to recognize instances of strength. This collaborative approach respects her resistance while promoting reflection and gradual insight into her readiness for change.",
-        "progress_marker": "Increased verbalization of ambivalence and exploration of feelings regarding change; identification of personal values and discrepancies with current behaviors."
+        "therapist_reasoning": "In this session, I will prioritize building rapport with Olivia, as she is in the pre-contemplation phase and may feel defensive and overwhelmed. Using reflective listening, I aim to validate her feelings of anxiety without pushing her towards immediate change. This aligns with Motivational Interviewing strategies, as expressing empathy will help her feel understood. I will gently develop discrepancies between her feelings of helplessness and her core values, encouraging her to reflect on what she truly desires in her relationship, which can facilitate awareness. Meanwhile, I will introduce the CBT technique of decatastrophizing by initially discussing the clinical terms that have triggered her anxiety. Together, we will identify her catastrophic thoughts and explore evidence against them, fostering a sense of safety and control. This approach respects her resistance by allowing her to explore her feelings and experiences without pressure, thereby enhancing her engagement and curiosity about her situation.",
+        "progress_marker": "Olivia shows increased willingness to articulate her thoughts and feelings about her relationship and begins to challenge her catastrophic thoughts."
       },
       "client_plan": {
-        "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity about my feelings regarding Ivan and our relationship.",
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I hope to better understand my feelings and the situation without being pushed to make any decisions right now.",
         "client_state": {
-          "awareness": "I am starting to recognize that my feelings about Ivan and our relationship are complicated. I see that there are patterns in my thoughts and emotions that I need to explore.",
-          "motivation": "I want to understand if change is possible for me and Ivan, but I'm unsure if it's worth the effort given my fears.",
-          "openness": "I feel somewhat willing to share my thoughts and feelings in therapy, but I still hold back because I'm afraid of what it might mean.",
-          "resistance": "I find myself resisting the idea of change because I feel overwhelmed and doubt my ability to cope with the unknown."
+          "awareness": "I know there are issues, but I don't fully accept how serious they are.",
+          "motivation": "I feel uncertain about wanting to change anything significant at this moment.",
+          "openness": "I find it difficult to share my true feelings and thoughts, especially about Ivan.",
+          "resistance": "I often feel defensive and overwhelmed when discussing the problems in my relationship."
         },
-        "client_reasoning": "I’ve been thinking a lot about my situation lately. I can see that my relationship with Ivan isn’t healthy, but there’s a part of me that still wants to believe he can change. I feel conflicted because I know I deserve to feel safe and loved, but I also feel a strong sense of loyalty towards him. The clinical terms I heard about his behavior scared me, and I worry about what that means for my safety. I want to understand everything before making any decisions, but I’m realizing that my need for clarity might be holding me back. Therapy has helped me reflect on my emotions and the patterns in my thoughts, but I still feel anxious about facing the reality of what change could mean for me. It’s tough to consider moving forward when I’m still processing so much uncertainty."
+        "client_reasoning": "I feel like there are so many things happening around me, and it's hard to keep track of them all. Hearing those clinical terms about Ivan makes me anxious and scared; I don't know if I should be worried about my safety or if it's just a misunderstanding. I want to make sense of everything before I can even think about making any changes. Right now, I’m just trying to cope and understand what's going on, but I often feel like I’m stuck between wanting to help Ivan and protecting myself. Discussing these feelings feels uncomfortable because I worry about being judged for my loyalty to him. It's hard to open up about my thoughts when I feel like I should be more in control, but I often just feel lost and unsure of what to do."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective of exploring Olivia's ambivalence is still in progress. Olivia's objective of gaining clarity about her feelings regarding Ivan is not fully met yet.",
-          "client_utterance": "I've been thinking about my feelings lately, and I still feel really torn. Part of me wants to believe Ivan can change, but another part fears that I'm just setting myself up for more hurt. I want to feel safe, but I feel so loyal to him that it’s hard to separate those feelings.",
-          "therapist_utterance": "It sounds like you're caught between hope and fear, which is completely understandable. Your loyalty to Ivan is making it difficult to prioritize your need for safety. Can you tell me more about how this conflict affects your thoughts on the couple's therapy?",
-          "therapist_use": "Open-ended questioning: used to encourage Olivia to elaborate on her mixed feelings about therapy."
+          "reason_for_ending": "KEEP: Therapist objective not met because rapport building is still in progress. Client objective not met because Olivia is still struggling to articulate her feelings.",
+          "client_utterance": "I feel overwhelmed by everything going on, especially with what I've heard about Ivan. Sometimes I wonder if I'm just making excuses for him, and that makes me anxious. It's hard to know if I should be worried or if I'm just overreacting.",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure to make sense of your feelings about Ivan. It's understandable to feel confused when faced with such serious issues. Can you share more about what specifically makes you feel anxious when you think of his behavior?",
+          "therapist_use": "Reflective Listening: to validate Olivia's feelings and encourage her to explore her thoughts."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to enhance exploration of ambivalence is ongoing. Olivia's objective of gaining clarity about her feelings remains unfulfilled.",
-          "client_utterance": "I guess I feel like therapy brings up these hopes, but it also makes me anxious. Sometimes I wonder if it's worth it, but I also think about how I want things to be better. It's like I’m constantly weighing the good against the bad.",
-          "therapist_utterance": "Recognizing that balance between hope and anxiety is an important step. It's natural to weigh the positives and negatives, especially when you care about the outcome so much. What specific aspects of couple's therapy give you hope, and which ones make you anxious?",
-          "therapist_use": "Decisional balance: used to help Olivia articulate the pros and cons of her couple's therapy experience."
+          "reason_for_ending": "KEEP: Therapist objective not met because deeper exploration of feelings is needed. Client objective not met because Olivia is still holding back on discussing her true emotions.",
+          "client_utterance": "I guess I worry that if I admit how serious things are, it means I have to act on it. But at the same time, I feel like I should be more supportive of Ivan. It’s just all so confusing right now.",
+          "therapist_utterance": "It's clear you're caught between wanting to support Ivan and feeling the need to protect yourself. That must be really difficult to navigate. What do you think would happen if you allowed yourself to acknowledge the seriousness of the situation?",
+          "therapist_use": "Expressing Empathy: to acknowledge Olivia's internal conflict and encourage her to reflect on her fears."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's goal of exploring ambivalence has not reached a decisive clarity yet. Olivia's goal of understanding her feelings is still being developed.",
-          "client_utterance": "I think the hope comes from seeing Ivan actually trying to change, but the anxiety is from wondering if it’s just temporary. I feel like I’m holding onto this idea that change is possible, but I’m also scared it won’t last. It’s exhausting to think about.",
-          "therapist_utterance": "It's understandable to feel exhausted when you're holding onto both hope and fear. Change can be a long process, and it’s okay to feel unsure about its permanence. How do you think your past experiences with Ivan influence your feelings about the change you see in him now?",
-          "therapist_use": "Exploring ambivalence: used to deepen understanding of Olivia's feelings about Ivan's attempts at change."
+          "reason_for_ending": "KEEP: Therapist objective not met due to insufficient exploration of Olivia's values. Client objective not met because Olivia is still hesitant to express her true feelings about the relationship.",
+          "client_utterance": "I'm not sure what would happen. Part of me feels like I should be loyal to him, but I also want to feel safe and loved. It’s like I’m stuck in this loop of wanting to help him but feeling scared at the same time.",
+          "therapist_utterance": "It sounds like you're grappling with the values of loyalty and safety, which can be really conflicting. How do those values play into your thoughts about your relationship with Ivan right now? What do you truly want to feel in a relationship?",
+          "therapist_use": "Developing Discrepancy: to gently explore Olivia's conflicting values and encourage her to reflect on what she desires."
         },
         {
-          "reason_for_ending": "KEEP: The therapist’s objective to help Olivia identify discrepancies is still in progress. Olivia's goal of gaining clarity about her feelings is not fully achieved yet.",
-          "client_utterance": "My past with him makes it hard to trust that this time is different. I want to believe in change, but I also can’t ignore what I’ve been through. I guess I need to figure out if I can align my hope with my need for safety.",
-          "therapist_utterance": "That alignment between hope and safety is crucial for you moving forward. It seems like your past experiences are creating a barrier to fully embracing the possibility of change. What would it take for you to feel more secure while still holding onto hope?",
-          "therapist_use": "Developing discrepancy: used to facilitate discussion on aligning core values with Olivia's current situation."
+          "reason_for_ending": "KEEP: Therapist objective not met as deeper reflection on values is still needed. Client objective not met because Olivia is still navigating her feelings without clear articulation.",
+          "client_utterance": "I think I just want to feel secure and loved, but I also worry that I might never have that with him. I feel like I'm walking on eggshells, and I don't know how to change that. It's just hard to see a way forward.",
+          "therapist_utterance": "It's understandable to feel that way, especially when the future feels uncertain. It sounds like you're searching for a sense of security in your life. What do you think would help you feel more secure in this situation?",
+          "therapist_use": "Raising Awareness: to encourage Olivia to articulate her thoughts on security and coping strategies."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's goal of fostering deeper exploration of values is ongoing. Olivia’s objective of understanding her feelings remains partially unmet.",
-          "client_utterance": "I think I would need clear signs that Ivan is serious about change, not just in therapy, but in everyday life. I want to see that he can respect my boundaries and that I can feel safe around him. But I also fear what that might mean for our future together if he doesn't.",
-          "therapist_utterance": "Those clear signs of commitment to change are important for your sense of safety. It's understandable to worry about what happens if those signs don’t materialize. How do you think you can communicate your need for boundaries to Ivan in a way that feels safe for you?",
-          "therapist_use": "Open-ended questioning: used to explore Olivia's thoughts on communicating her boundaries."
+          "reason_for_ending": "KEEP: Therapist objective not met as Olivia needs more time to articulate her coping strategies. Client objective not met because Olivia is still hesitant to explore effective coping mechanisms.",
+          "client_utterance": "I guess I try to distract myself, but it doesn't really help. I still feel anxious when I think about talking to Ivan or the future. Sometimes I just want to escape from it all.",
+          "therapist_utterance": "It seems like distraction isn't providing you the relief you need, and that must be frustrating. It's okay to feel the urge to escape from overwhelming feelings. Have you thought about what might be a healthier way to cope with all this anxiety?",
+          "therapist_use": "Decatastrophizing: to introduce the idea of seeking healthier coping strategies and challenge catastrophic thoughts."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of helping Olivia articulate her needs is not fully met yet. Olivia's objective of gaining clarity about her feelings regarding Ivan is still evolving.",
-          "client_utterance": "I’m not sure how to express that without feeling like I'm pushing him away. I want him to know I care, but I also need him to understand that I won’t tolerate any kind of abuse. It feels like a tightrope walk.",
-          "therapist_utterance": "It does sound like a delicate balance to strike, wanting to care for him while also standing strong for your own safety. Acknowledging that tightrope walk is a significant awareness. What steps do you think you could take to communicate your boundaries clearly while still showing that you want to support his change?",
-          "therapist_use": "Pros and cons analysis: used to evaluate the potential outcomes of communicating boundaries."
+          "reason_for_ending": "KEEP: Therapist objective not met as Olivia needs further exploration of coping strategies. Client objective not met because Olivia is still avoiding deeper discussions about her feelings.",
+          "client_utterance": "I'm not sure what a healthier way would look like. I feel like I should be able to handle this on my own, but it's just too much sometimes. I don't want to feel like a burden to others.",
+          "therapist_utterance": "It's common to feel that way, especially when dealing with so much. You deserve to have support while you navigate these feelings. What if we explored creating a personal safety plan together? It might help you feel more in control.",
+          "therapist_use": "Mindfulness Techniques: to help Olivia feel grounded and empowered while discussing safety."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective of exploring ambivalence and developing discrepancy has been met through continued dialogue. Olivia's objective of gaining clarity about her feelings regarding Ivan has progressed significantly as she's articulated her thoughts on boundaries and safety.",
-          "client_utterance": "I think I need to be honest about my feelings, even if it's uncomfortable. I realize that I can express my needs without it meaning I don't care about him. That feels like a step forward for me.",
-          "therapist_utterance": "That's a powerful realization, Olivia. Acknowledging that you can care for him while advocating for your own needs is a significant breakthrough. It sounds like you're ready to explore what action steps you can take next.",
-          "therapist_use": "Reflection: used to affirm Olivia's progress and readiness to take actionable steps."
+          "reason_for_ending": "MOVE: Therapist objective met as rapport and awareness have increased significantly. Client objective met as Olivia has begun to articulate her feelings and explore coping strategies. This shows a progression towards greater awareness.",
+          "client_utterance": "I think having a plan could help me feel a bit more in control. I want to explore that with you. It feels good to talk about these things, even if it's uncomfortable.",
+          "therapist_utterance": "I'm glad to hear that, Olivia. Taking steps towards feeling in control is important, and I'm here to support you through this. Let's work together on that safety plan so you can feel more empowered.",
+          "therapist_use": "Collaborative Planning: to engage Olivia in actively creating a safety plan, reinforcing her sense of agency."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Olivia's ambivalence about her relationship with Ivan and strengthen her motivation to consider change.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Ask open-ended questions about Olivia's feelings towards her relationship with Ivan.",
+                "Encourage her to express both the reasons she wants to stay and the reasons she feels conflicted.",
+                "Reflect back her statements to help her hear her own thoughts more clearly."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Prompt Olivia to share any thoughts about changes she might want to consider in her relationship.",
+                "Use affirmations to reinforce her positive intentions and thoughts about change.",
+                "Explore past successes where she has made positive changes in her life."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Guide Olivia to weigh the pros and cons of staying in the relationship versus leaving.",
+                "Encourage her to think about how her values align with her current behaviors regarding the relationship.",
+                "Help her identify any discrepancies between her values and her current situation."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Decatastrophizing",
+              "instructions_for_therapist": [
+                "Introduce the concept of catastrophizing in relation to Olivia's fears about Ivan's behavior.",
+                "Identify specific catastrophic thoughts she has, particularly those related to safety and control.",
+                "Challenge those thoughts by discussing evidence for and against them, focusing on patterns of behavior.",
+                "Guide her in generating alternative, more balanced thoughts about the situation.",
+                "Create a safety plan, outlining steps she can take if she ever feels unsafe.",
+                "Incorporate mindfulness techniques to help her manage overwhelming thoughts.",
+                "Conclude by discussing how to apply decatastrophizing techniques in future situations."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In this session, I will first utilize motivational interviewing strategies to explore Olivia's ambivalence about her relationship with Ivan. By asking open-ended questions, I can facilitate a deeper discussion about her conflicting feelings, allowing her to articulate both her desire for change and her fears. This exploration is critical given her resistance, as it fosters a non-confrontational environment where she feels safe to express herself. Next, I will elicit change talk by prompting her to share any thoughts on potential changes she may consider. This can increase her motivation and help her feel more empowered. Additionally, I will conduct decisional balance discussions to help her identify the pros and cons of her current situation, enhancing her insight into discrepancies between her values and behaviors. Concurrently, I will implement the decatastrophizing technique from the CBT plan to address her anxiety surrounding Ivan's behavior. By challenging her catastrophic thoughts and developing alternative perspectives, I aim to reduce her feelings of helplessness and increase her self-efficacy. The combination of these strategies aims to strengthen her motivation and readiness for change while respecting her ambivalence.",
+        "progress_marker": "Olivia begins to articulate her conflicting feelings about her relationship and expresses some desire to explore potential changes."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to gain clarity on my feelings about my relationship with Ivan and explore the possibility of change.",
+        "client_state": {
+          "awareness": "I am starting to recognize that my relationship with Ivan is complicated and that some of his behaviors are concerning, but I also feel confused about what to do next.",
+          "motivation": "I want to improve my situation and understand Ivan better, but I also feel scared about the changes that might come if I decide to leave.",
+          "openness": "I am somewhat willing to share my thoughts and feelings in therapy, especially about my fears and uncertainties, but I still hold back at times.",
+          "resistance": "I feel a strong urge to avoid fully confronting the potential need for change, which makes me anxious about the future."
+        },
+        "client_reasoning": "I've been reflecting on my situation, and it's becoming clear to me that my relationship with Ivan is not as healthy as I want it to be. I can see that there are patterns in his behavior that are alarming, especially with the labels I've heard in therapy. At the same time, I feel torn; I have this hope that things could improve if we both work on ourselves, but I’m also scared of what leaving might mean for me. I notice that I often suppress my emotions and distract myself with work rather than face these hard truths. In therapy, I’m starting to feel a bit more comfortable sharing my thoughts, but I still hesitate because I’m not sure I can handle the reality of change. It's overwhelming to think about all the uncertainties, and I just want to find a way to understand everything better before making any decisions."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met because Olivia has not yet fully articulated her conflicting feelings. Client's objective was not met as she is still feeling confused about her relationship with Ivan.",
+          "client_utterance": "I still feel like I want to support Ivan, but I also have this knot in my stomach about his behavior. I worry that by admitting how serious things are, I might have to make a decision that I'm not ready for.",
+          "therapist_utterance": "It's understandable to feel that way, Olivia. You're navigating a lot of complex emotions about Ivan, and it sounds like there's a part of you that feels conflicted about wanting to support him while also recognizing the seriousness of the situation. What do you think would happen if you allowed yourself to explore those fears more deeply?",
+          "therapist_use": "Open-ended questioning: to encourage Olivia to explore her fears and feelings more deeply."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met since Olivia hasn't expressed her thoughts on potential changes yet. Client's objective was not met as she still feels trapped in her current feelings.",
+          "client_utterance": "I think if I really confront the seriousness, it might mean I have to think about leaving, which scares me. Part of me hopes that things can change if we both try, but I'm not sure if that's realistic.",
+          "therapist_utterance": "It sounds like you're caught between hope for change and the fear of what that change might entail. That tension must be really challenging to sit with. If you could envision what a healthier relationship might look like, what would that be for you?",
+          "therapist_use": "Exploring ambivalence: to help Olivia articulate her hopes and fears regarding her relationship."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met because Olivia has not yet weighed the pros and cons of her relationship. Client's objective was not met as she has not yet gained clarity on her feelings.",
+          "client_utterance": "I guess a healthier relationship would be one where I don't feel anxious all the time and where I can trust Ivan. But I also worry that if I push for change, it might drive us further apart.",
+          "therapist_utterance": "It's understandable to feel that way, especially when trust is a significant factor in your relationship. Let's think about what it means to feel safe and secure. What are some things that would need to change for you to feel that way with Ivan?",
+          "therapist_use": "Decisional balance discussions: to guide Olivia in identifying what needs to change for her to feel safe."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met because Olivia hasn't fully articulated her values regarding safety and loyalty. Client's objective was not met as she is still wrestling with her conflicting feelings.",
+          "client_utterance": "I think I need to feel respected and valued, but I also want to be there for him. It's hard because I feel like I can't be loyal to him if I prioritize my safety.",
+          "therapist_utterance": "It sounds like you're recognizing the conflict between your values of loyalty and safety. That must be incredibly difficult to navigate. How do you think you can honor both of these values while still taking care of your own well-being?",
+          "therapist_use": "Double-sided reflection: used to validate ambivalence while evoking discrepancy."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Olivia hasn't explicitly considered any potential changes. Client's objective was not met since she hasn't gained full clarity on her feelings yet.",
+          "client_utterance": "I suppose I could think about setting some boundaries with Ivan, but I'm afraid that may push him away. It feels like a risk either way.",
+          "therapist_utterance": "It's great that you're considering setting boundaries; that could be a healthy step for you. Recognizing the risks involved shows a lot of insight. What would those boundaries look like for you, and how might they help you feel safer?",
+          "therapist_use": "Eliciting change talk: to encourage Olivia to think about potential changes she might want to consider."
+        },
+        {
+          "reason_for_ending": "KEEP: Therapist's objective was not met because Olivia has not yet expressed a commitment to any specific change. Client's objective was not met as she still feels unsure about her next steps.",
+          "client_utterance": "I think I would feel more secure if I had some boundaries in place, but I’m just not sure if that’s enough to make a difference. I feel like I'm stuck in this cycle.",
+          "therapist_utterance": "It sounds like you're beginning to see that boundaries could be a way to create a sense of security for yourself. That’s a positive realization. What could be the first small step you could take towards establishing those boundaries?",
+          "therapist_use": "Decisional balance discussions: to help Olivia identify actionable steps toward establishing boundaries."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist's objective was met as Olivia has articulated her thoughts on boundaries and safety. Client's objective was met as she has gained clarity on a potential first step forward.",
+          "client_utterance": "Maybe I could start by clearly communicating my feelings to Ivan. I think that's something I can do, even if it feels scary.",
+          "therapist_utterance": "That's a significant step, Olivia! By communicating your feelings, you're advocating for your own needs, which is crucial for your well-being. It takes courage to express yourself, and I believe this could lead to positive changes in your relationship.",
+          "therapist_use": "Eliciting change talk: to reinforce Olivia's positive intentions and thoughts about change."
         }
       ]
     },
@@ -262,22 +233,28 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Olivia's commitment to change and explore her readiness for action.",
+          "objective": "Strengthen Olivia's commitment to change and enhance her confidence in taking actionable steps.",
           "strategies": [
             {
-              "strategy_name": "Commitment Strengthening",
+              "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask open-ended questions to elicit Olivia's thoughts on the changes she wants to make in her relationship with Ivan.",
-                "Use reflective listening to validate her feelings of uncertainty and fear, while emphasizing her desire to improve her situation.",
-                "Encourage Olivia to articulate her commitment to attending couple's therapy and working on the relationship."
+                "Encourage Olivia to articulate her reasons for wanting to make changes in her relationship and personal life, emphasizing her commitment to her well-being.",
+                "Ask open-ended questions like, 'What are the key changes you want to see in your life?' to facilitate her expression of motivation.",
+                "Reflect her statements back to her to reinforce her commitment, such as, 'It sounds like you really want to feel safe and empowered in your decisions.'"
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Facilitate a discussion about her previous successful coping strategies and how they can apply to her current situation.",
-                "Explore her confidence in implementing changes by asking scaling questions (e.g., 'On a scale from 1 to 10, how confident do you feel about making these changes?').",
-                "Identify any existing support systems, such as friends, family, or therapy, that can help her in this process."
+                "Use scaling questions to assess Olivia's confidence in handling her situation, such as, 'On a scale from 1 to 10, how confident do you feel about discussing your feelings with Ivan?'",
+                "Discuss past successes to highlight her strengths and build confidence, reinforcing that she has the ability to navigate her challenges."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Help Olivia identify supportive individuals in her life who can assist her during this transition, including friends, family, or therapists.",
+                "Encourage her to think about how she can leverage these supports to facilitate her change process, creating a tangible support network."
               ]
             }
           ]
@@ -285,74 +262,73 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Collaborate with Olivia to create a step-by-step action plan for her next therapy session with Ivan, focusing on specific topics to address.",
-                "Encourage her to set small, achievable goals for the week, such as expressing her feelings during therapy or discussing specific incidents that concern her.",
-                "Discuss potential barriers she may encounter while implementing this plan and work together to develop coping strategies."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Introduce a structured approach to problem-solving, helping Olivia identify specific problems related to her relationship and explore possible solutions.",
-                "Guide her through generating options, evaluating the pros and cons of each, and selecting which solutions to pursue.",
-                "Encourage her to practice these skills in a safe environment and reflect on outcomes in subsequent sessions."
+                "Introduce the concept of catastrophizing, discussing its relevance to Olivia's anxiety regarding Ivan's behavior.",
+                "Collaboratively identify and challenge her catastrophic thoughts about safety, guiding her to explore evidence for and against her fears.",
+                "Work with her to create balanced alternative thoughts, reinforcing that concern does not equate to immediate danger.",
+                "Develop a safety plan together to empower her and reduce feelings of helplessness.",
+                "Incorporate mindfulness techniques, teaching her grounding exercises to manage anxiety."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this preparation phase, I aim to strengthen Olivia's commitment to change and enhance her readiness by employing Motivational Interviewing (MI) strategies. First, I will focus on commitment strengthening through open-ended questions that allow her to express her intentions regarding her relationship with Ivan. By validating her feelings during this process, I can help her recognize her desire for improvement despite her fears. Next, I will explore her confidence and readiness by discussing past successes, which can help her visualize her ability to implement change. Moving to Cognitive Behavioral Therapy (CBT), I will develop an action plan collaboratively with Olivia, ensuring that it is specific and manageable. This plan will focus on achievable goals for her therapy sessions with Ivan, addressing her concerns gradually. I will also incorporate problem-solving skills training to equip her with tools to tackle relationship issues effectively. By combining MI and CBT, I aim to create a supportive environment that alleviates her anxiety and builds her self-efficacy.",
-        "progress_marker": "Olivia reports increased confidence in her ability to express herself in couple's therapy and identifies specific topics to address."
+        "therapist_reasoning": "The therapy plan was developed with a focus on Olivia's preparation phase of change, where she is motivated yet uncertain. I employed Motivational Interviewing strategies to strengthen her commitment to change, starting with commitment language to reinforce her reasons for wanting to improve her situation. By exploring her confidence and readiness, we can highlight her strengths and past successes, which will bolster her self-efficacy. Identifying supports and resources is crucial for her transition, providing her with a tangible network to rely on. Utilizing CBT interventions, particularly decatastrophizing, aligns with Olivia's current emotional struggles and cognitive patterns. By addressing her catastrophic thoughts and developing a safety plan, we can empower her to feel more in control. Incorporating mindfulness techniques will also help her manage anxiety as she prepares for change. Overall, this structured yet flexible approach is designed to enhance her confidence and readiness for taking actionable steps toward her goals.",
+        "progress_marker": "Olivia identifies three actionable steps she can take in the next week, including discussing her feelings with Ivan, reaching out to a supportive friend, and practicing mindfulness exercises."
       },
       "client_plan": {
-        "awareness": "I recognize that my current situation with Ivan is unhealthy and that I need to make changes for my well-being.",
-        "motivation": "I feel a strong desire to improve my circumstances and understand what changes can help me feel safer and more in control.",
-        "openness": "I am willing to discuss my thoughts and feelings with my therapist, as well as consider different strategies for coping with my situation.",
-        "resistance": "I still feel a significant amount of anxiety about the unknowns in my relationship with Ivan, which makes me hesitant to fully embrace change."
+        "phase_of_change": "preparation",
+        "client_objective": "I hope to explore my feelings about Ivan and the possibility of change in our relationship while understanding my own needs better.",
+        "client_state": {
+          "awareness": "I am starting to see the complexities of my situation more clearly, recognizing both the need for change and the factors that contribute to my anxiety.",
+          "motivation": "I feel a growing desire to improve my circumstances, driven by the hope that Ivan and I can build a healthier relationship.",
+          "openness": "I am becoming more willing to discuss my thoughts and emotions, even if it feels uncomfortable or scary at times.",
+          "resistance": "I still feel hesitant and overwhelmed by doubts about whether I can trust the process and if Ivan can truly change."
+        },
+        "client_reasoning": "I now realize that my current situation with Ivan is not sustainable, especially after reflecting on the impact of his behavior on my well-being. I believe that change is necessary not just for me, but for our relationship to thrive. The idea of him wanting to improve gives me hope, but I still carry fears about the future, like whether I am making the right decisions or if he can genuinely control his actions. Therapy has opened my eyes to the possibility of a different reality, but I often feel stuck in my thoughts, trying to understand everything before I move forward. I want to feel more empowered and less anxious about what lies ahead, and I hope to find clarity on my own needs while navigating my feelings about Ivan."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they did not fully explore Olivia's feelings about her commitment to couple's therapy. The client's objective was not met because Olivia has not yet articulated her commitment to attending therapy with Ivan.",
-          "client_utterance": "I think I can commit to couple's therapy, but I still have these lingering doubts. Every time I think about going, I wonder if it's really going to make a difference. I want to believe it can help us, but I also fear it might just bring more pain.",
-          "therapist_utterance": "It's understandable to feel those doubts about the therapy's effectiveness, especially given your history. What aspects of couple's therapy do you find yourself questioning the most? Perhaps we can explore those concerns together.",
-          "therapist_use": "Open-ended question: used to invite Olivia to share her thoughts and concerns about therapy."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Olivia hasn't fully articulated her reasons for wanting to change. The client objective was not met as Olivia is still processing her feelings about Ivan and what changes she wants to see.",
+          "client_utterance": "I've been thinking a lot about what it would take for me to feel safe and supported in my relationship with Ivan. I want to believe that he can change, but there are still so many doubts in my mind. It feels like I'm stuck between hope and fear.",
+          "therapist_utterance": "It sounds like you're really wrestling with this hope for change while also feeling the weight of your fears. That tension is completely understandable. What specific changes do you think would help you feel more secure in your relationship?",
+          "therapist_use": "Open-ended question: to encourage Olivia to articulate her feelings about needed changes."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because they did not sufficiently strengthen Olivia's commitment to change. The client's objective was not met since she has not fully expressed her willingness to engage in the process.",
-          "client_utterance": "I guess I worry that even if I commit, I might not be strong enough to handle the emotions that come up. I want to be there for Ivan, but what if it feels too overwhelming?",
-          "therapist_utterance": "It’s okay to feel that way; handling emotions in therapy can be challenging. What past experiences have helped you cope with overwhelming feelings? Identifying those can remind you of your strength as you consider this commitment.",
-          "therapist_use": "Exploring past successes: used to reinforce Olivia's confidence in her ability to cope with difficult emotions."
+          "reason_for_ending": "KEEP - The therapist objective was not met as Olivia has not yet expressed her commitment to actionable steps. The client objective was not met because she is still uncertain about her needs and how to communicate them.",
+          "client_utterance": "I think I need to see some concrete actions from Ivan, like him showing genuine remorse and making an effort to change. But then I worry that if I ask for those things, I might push him away. It’s like I want to protect myself, but I also want to give him a chance.",
+          "therapist_utterance": "You're recognizing the balance between wanting to protect yourself and giving Ivan a chance to change. That’s an important insight. What would be a small step you could take to communicate those needs to him without feeling overwhelmed?",
+          "therapist_use": "Reflective listening: to validate her feelings and encourage her to think of actionable steps."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they need to delve deeper into Olivia's coping strategies. The client's objective was not met because Olivia has not yet articulated a clear commitment to the action plan for therapy.",
-          "client_utterance": "I remember when I faced tough situations at work, I would write everything down and talk it through with a friend. That really helped me feel more in control. I guess I could try something similar for therapy.",
-          "therapist_utterance": "That’s a fantastic strategy! Journaling your thoughts and discussing them can provide clarity and help you navigate the emotional landscape of therapy. How do you feel about incorporating that into your plan for the next session with Ivan?",
-          "therapist_use": "Reflective listening: used to validate Olivia's past coping strategies and reinforce their applicability to her current situation."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Olivia has not yet identified supportive individuals. The client objective was not met since she hasn't fully committed to expressing her needs to Ivan yet.",
+          "client_utterance": "I guess I could talk to my friend Sarah about how I’m feeling. She’s always been supportive, and maybe she can help me figure out how to express myself to Ivan. But I’m still scared that even talking to her might make me realize things I’m not ready to face.",
+          "therapist_utterance": "It's great that you're considering reaching out to Sarah; having support can really make a difference. It sounds like you're feeling some fear about what those conversations might reveal. How can you prepare yourself for that discussion with Sarah so you feel more empowered?",
+          "therapist_use": "Scaling question: to assess her confidence in reaching out for support."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they need to guide Olivia in creating a specific action plan. The client's objective was not met since she has not yet committed to specific goals for therapy.",
-          "client_utterance": "I think I could write down my feelings about what I need from Ivan before our next session. That way, I can express myself clearly without getting too overwhelmed in the moment.",
-          "therapist_utterance": "That sounds like a great plan! Writing down your feelings can help ensure you communicate effectively during therapy. What specific points do you think you want to address with Ivan?",
-          "therapist_use": "Action Planning: used to collaboratively create a step-by-step plan for Olivia to prepare for therapy."
+          "reason_for_ending": "KEEP - The therapist objective was not met as Olivia hasn't yet expressed a plan for how to approach her feelings with Ivan. The client objective was not met because she is still hesitant about taking actionable steps.",
+          "client_utterance": "Maybe I could start by just being honest about my feelings, but I’m not sure how to do that without triggering him. I think I need to practice what I want to say first. It's hard to find the right words when my emotions are all over the place.",
+          "therapist_utterance": "Practicing what you want to say is a smart approach; it can help you feel more prepared and in control. What are some of the key points you believe are essential to communicate to Ivan?",
+          "therapist_use": "Strengthening Commitment Language: to reinforce her desire to express her feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as they need to help Olivia outline her specific goals. The client's objective was not met because she has not yet fully identified the topics she wants to discuss with Ivan.",
-          "client_utterance": "I want to talk to Ivan about how his actions affect my feelings of safety. I also want to express that I need him to respect my boundaries moving forward. Those feel like the most important points.",
-          "therapist_utterance": "Those are crucial points to bring up, especially concerning your safety and boundaries. It's important to communicate those needs clearly. How confident do you feel about expressing these points in the next session?",
-          "therapist_use": "Scaling question: used to assess Olivia's confidence in implementing her action plan."
+          "reason_for_ending": "KEEP - The therapist objective was not met since Olivia has not yet identified specific boundaries. The client objective was not met as she is still struggling with her fear of expressing her needs.",
+          "client_utterance": "I think I need to establish some boundaries, but I’m worried that might push him away. I want to feel respected, yet I don’t want to lose the chance for us to work things out. It feels like a big risk.",
+          "therapist_utterance": "You're recognizing that boundaries can be both necessary and challenging, which is an important realization. What could be a first step in setting those boundaries that feels manageable for you?",
+          "therapist_use": "Exploring Confidence and Readiness: to encourage her to identify manageable steps."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met since they need to further explore Olivia's confidence in expressing her boundaries. The client's objective was not met because Olivia has not yet reflected on her readiness to implement the changes.",
-          "client_utterance": "I feel about a six out of ten in my confidence to express these things. I want to make sure I do it right, but I’m still scared of how Ivan will react.",
-          "therapist_utterance": "It's completely normal to feel nervous about how Ivan might react. A six is a solid starting point, and we can work on strategies to boost your confidence further. What support do you think you might need to prepare for that conversation?",
-          "therapist_use": "Exploring support systems: used to help Olivia identify resources that can boost her confidence."
+          "reason_for_ending": "KEEP - The therapist objective was not met because Olivia still hasn't articulated a clear plan of action. The client objective was not met since she is still hesitant about taking steps to establish boundaries.",
+          "client_utterance": "I think I could start by telling Ivan how I feel when he does certain things that make me uncomfortable. But it scares me to think about how he might react. I want to be honest, but I fear it's going to lead to conflict.",
+          "therapist_utterance": "It sounds like you're feeling the weight of potential conflict, which is completely understandable. It's courageous to want to express your feelings despite that fear. How can you prepare for the possibility of a difficult conversation while still advocating for your own needs?",
+          "therapist_use": "Decatastrophizing: to help her challenge fears about potential conflict."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met as they strengthened Olivia's commitment to change and explored her readiness for action. The client's objective was met because she articulated her action plan and expressed confidence in her ability to communicate her needs.",
-          "client_utterance": "I think I can take this step. Having a plan makes me feel more prepared, and it feels good to know what I want to express to Ivan. I’m ready to see how he responds.",
-          "therapist_utterance": "That’s an excellent place to be, Olivia! Feeling prepared and ready to express your needs is a significant step forward in your journey. I’m here to support you as you take this action.",
-          "therapist_use": "Commitment Strengthening: used to validate Olivia's readiness and reinforce her decision to move forward with her action plan."
+          "reason_for_ending": "MOVE - The therapist objective was met as Olivia has articulated several actionable steps she can take this week. The client objective was met since she has expressed her feelings, identified support, and is ready to set boundaries.",
+          "client_utterance": "I feel like I can take a few steps this week: I'll talk to Sarah, practice my feelings about Ivan, and try to communicate my boundaries. It feels good to have a plan, even if I'm still scared. I think I just need to remind myself that I deserve to feel safe.",
+          "therapist_utterance": "That's a significant breakthrough, Olivia! You've outlined clear steps that demonstrate your commitment to your well-being and to improving your relationship. It’s wonderful to see you feeling more empowered and ready to take action.",
+          "therapist_use": "Strengthening Commitment Language: to reinforce her determination and the steps she's ready to take."
         }
       ]
     }

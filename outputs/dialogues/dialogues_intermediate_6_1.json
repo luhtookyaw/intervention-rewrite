@@ -12,22 +12,38 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase awareness of feelings and beliefs regarding independence and support.",
+          "objective": "Increase Daisy's awareness of her feelings and beliefs about seeking help, and reduce her defensiveness.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Paraphrase Daisy's feelings about her financial independence.",
-                "Acknowledge her sense of shame and embarrassment when discussing her situation.",
-                "Encourage her to express more about her experiences without judgment."
+                "Listen attentively to Daisy's concerns about asking for financial help.",
+                "Reflect back her feelings of shame and embarrassment to validate her emotions.",
+                "Encourage her to explore these feelings further without judgment."
+              ]
+            },
+            {
+              "strategy_name": "Expressing Empathy",
+              "instructions_for_therapist": [
+                "Acknowledge the difficulty Daisy faces in reconciling her desire for independence with her need for support.",
+                "Use empathetic language to convey understanding of her situation.",
+                "Reassure her that many people struggle with similar feelings."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Help Daisy articulate her values around independence.",
-                "Explore how her current behaviors may conflict with her personal values.",
-                "Facilitate reflection on what being independent truly means to her."
+                "Guide Daisy to identify the conflict between her self-image as an independent adult and her current feelings of needing help.",
+                "Encourage her to articulate how this discrepancy affects her emotional well-being.",
+                "Facilitate discussions that highlight her values and how they relate to seeking support."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Encourage Daisy to reflect on past experiences where asking for help was beneficial.",
+                "Ask open-ended questions to prompt her to consider how reaching out could align with her values.",
+                "Support her in recognizing that seeking help does not equate to failure."
               ]
             }
           ]
@@ -35,79 +51,96 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identify Core Beliefs",
               "instructions_for_therapist": [
-                "Ask Daisy to provide evidence for her belief that she must handle everything independently.",
-                "Encourage her to identify past instances where seeking help was beneficial.",
-                "Facilitate a discussion about the consequences of her current coping strategy."
+                "Facilitate a discussion where Daisy articulates what independence means to her.",
+                "Help her identify the 'should' statements fueling her feelings of inadequacy.",
+                "Encourage exploration of her beliefs around needing help."
               ]
             },
             {
-              "technique_name": "Changing Rules to Wishes",
+              "technique_name": "Gather Evidence",
               "instructions_for_therapist": [
-                "Invite Daisy to reframe her belief about needing help into a more flexible perspective.",
-                "Ask her what it would look like if needing support was acceptable.",
-                "Encourage exploration of the potential positive outcomes of accepting help."
+                "Prompt Daisy with questions to challenge her belief that needing help equals incompetence.",
+                "Encourage her to think of examples where seeking assistance was positive.",
+                "Guide her to collect evidence against her automatic thoughts."
+              ]
+            },
+            {
+              "technique_name": "Examine Alternative Perspectives",
+              "instructions_for_therapist": [
+                "Discuss scenarios with Daisy where asking for help is seen as a strength.",
+                "Use examples of successful individuals who seek support.",
+                "Encourage her to think about the positive aspects of collaboration."
+              ]
+            },
+            {
+              "technique_name": "Develop a New Narrative",
+              "instructions_for_therapist": [
+                "Assist Daisy in reframing her thoughts about seeking help into a more positive narrative.",
+                "Encourage her to view reaching out as a responsible adult action.",
+                "Support her in creating affirmations that reinforce this new perspective."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this therapy plan, I am focusing on building a therapeutic alliance with Daisy while increasing her awareness of her thoughts and emotions. I begin with reflective listening to validate her feelings of shame surrounding her financial situation, thereby reducing her defensiveness. By using the strategy of developing discrepancy, I guide her to articulate her values regarding independence, which may highlight the conflict between her beliefs and her current behavior. This can lead to self-reflection without the pressure to change. Simultaneously, I employ evidence-based questioning to challenge her automatic thoughts about needing to handle everything alone, helping her explore instances where seeking support was not only acceptable but beneficial. Through the technique of changing rules to wishes, I encourage her to envision a scenario where asking for help is a strength rather than a weakness. This combination of MI and CBT strategies aims to enhance her self-awareness and reduce her resistance by fostering curiosity about her beliefs and feelings, setting the stage for potential future change.",
-        "progress_marker": "Daisy begins to articulate her feelings about asking for help and explores her values around independence."
+        "therapist_reasoning": "In working with Daisy, the therapist will begin by employing reflective listening to validate her feelings of shame and embarrassment regarding her need for financial help. This approach aligns with Motivational Interviewing's strategy of expressing empathy, which is crucial for building rapport and trust. As she articulates her beliefs about independence, the therapist will employ CBT techniques to help her identify core beliefs and challenge the validity of her automatic thoughts. By raising awareness of the discrepancy between her values and current feelings, the therapist will facilitate discussions that encourage Daisy to explore alternative perspectives. This will involve gathering evidence to counter her belief that needing help signifies failure. Ultimately, through examining and reframing her narrative, the therapist will assist her in recognizing that asking for help can be a sign of maturity rather than a weakness, fostering a sense of curiosity and engagement without pushing for immediate change.",
+        "progress_marker": "Daisy begins to articulate her feelings and beliefs about independence and seeking help, demonstrating increased self-awareness and reduced defensiveness."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I feel so overwhelmed by my situation and why asking for help feels so wrong.",
+        "client_objective": "I hope to understand why I feel stuck and overwhelmed without feeling pressured to change.",
         "client_state": {
-          "awareness": "I know I have some issues with managing my life, but I don't think it's a big deal.",
-          "motivation": "I want to be independent, but I also feel lost and don't see how change is possible.",
-          "openness": "I find it hard to talk about my feelings and would rather avoid the topic.",
-          "resistance": "I strongly defend against discussing my need for help and feel ashamed about it."
+          "awareness": "I have some sense that I struggle with handling adult responsibilities, but I don’t see it as a significant problem.",
+          "motivation": "I don’t really feel motivated to change because I believe I should be able to manage everything on my own.",
+          "openness": "I find it difficult to talk about my feelings and thoughts, as I often avoid discussing the core issues.",
+          "resistance": "I strongly resist discussing my need for help because it makes me feel ashamed and embarrassed."
         },
-        "client_reasoning": "I keep telling myself that I should be able to handle everything on my own, especially at my age. It feels embarrassing to think about asking my parents for financial support, and I don't want to be seen as needy like my brother. I feel overwhelmed by the pressure to be independent and competent, which makes it hard to even acknowledge that I'm struggling. Talking about it in therapy feels uncomfortable because I worry that I’ll have to face the fact that I can't do everything alone. I just want to prove I can be a capable adult, and admitting I need help feels like admitting failure. So, I avoid discussing it, thinking that if I ignore the problem, it will somehow go away. But deep down, I know I can't keep going like this; I just don't know how to change without feeling ashamed."
+        "client_reasoning": "I know I’m supposed to be independent at my age, and the idea of needing help just feels wrong. When I think about asking my parents for financial support, I feel this wave of embarrassment wash over me. I keep telling myself that I shouldn’t need anyone, especially not them, because I’m trying to prove I can handle things on my own. It’s like admitting I’m not capable would make me a failure, just like my brother. So, I avoid talking about it, even in therapy, because I don’t want to confront that shame. I just want to get through this and pretend everything is fine. I feel overwhelmed with all these responsibilities, but change seems impossible, and I can’t shake the feeling that discussing it will only make me feel worse. Therapy feels uncomfortable, like I’m exposing my weaknesses, but maybe it’s safer to stay quiet and avoid the hard truths about my situation.",
+        "progress_marker": "Client begins to reflect on their feelings of inadequacy and their resistance to seeking help."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as there was limited progress in building rapport. The client's objective was not met because she still feels overwhelmed and resistant to discussing her feelings about independence.",
-          "client_utterance": "I just feel like I should be able to handle everything on my own. It's embarrassing to think about needing help, especially when my brother still relies on our parents. I don't want to be seen as weak or needy.",
-          "therapist_utterance": "It sounds like you carry a lot of pressure to prove yourself, and I can sense the shame you feel about needing help. You're striving for independence, yet it feels like a heavy burden. Can you tell me more about what independence means to you?",
-          "therapist_use": "Reflective Listening: used to validate Daisy's feelings of pressure and shame while encouraging her to explore her values."
+          "reason_for_ending": "KEEP: Therapist objective not met as Daisy has not yet fully explored her feelings about seeking help. Client objective not met as she is still resisting discussing her feelings of inadequacy.",
+          "client_utterance": "I guess I just feel overwhelmed with all these responsibilities. It's like I'm supposed to handle everything, but I'm not sure how to even start. I keep thinking that asking for help would just make me look weak, and I really don't want to feel that way.",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure to manage everything by yourself. That feeling of wanting to be strong and independent is understandable, but it also seems to create a lot of stress for you. Can you tell me more about what it feels like when you think about asking for help?",
+          "therapist_use": "Reflective Listening: validated Daisy's feelings of pressure while encouraging her to explore her thoughts about asking for help."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as Daisy did not yet articulate her values around independence clearly. The client's objective was not met because she is still avoiding deeper feelings about help and independence.",
-          "client_utterance": "Independence means not relying on anyone else, especially not my parents. I want to be seen as capable and self-sufficient. But sometimes, I wonder if I'm just setting myself up for failure.",
-          "therapist_utterance": "It sounds like there's a conflict between your desire for independence and the fear of failure. You want to be seen as capable, yet there's a worry that you might not be able to achieve that on your own. What would it mean for you if needing support was okay?",
-          "therapist_use": "Developing Discrepancy: used to help Daisy reflect on the conflict between her values and her current feelings about independence."
+          "reason_for_ending": "KEEP: Therapist objective not met as there is still resistance in Daisy's expression of shame. Client objective not met as she hasn't yet articulated her feelings about independence and support.",
+          "client_utterance": "When I think about asking my parents for help, I just feel this wave of embarrassment. I really don’t want to admit I can’t do it on my own, especially since my brother still relies on them. It feels like if I reach out, I’m failing at being an adult.",
+          "therapist_utterance": "That embarrassment you're feeling is completely valid. It's tough to reconcile your desire for independence with the need for support. Many adults face similar feelings, and it doesn't mean you're failing; it could actually be a step towards being more responsible.",
+          "therapist_use": "Expressing Empathy: acknowledged Daisy's feelings of embarrassment and validated her struggle between independence and seeking support."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as there was no significant shift in Daisy's perspective about needing help. The client's objective was not met because Daisy still feels uncomfortable contemplating the idea of seeking support.",
-          "client_utterance": "I guess it would mean I’m not failing, but I still struggle to accept that. I feel like I should just be able to figure things out without anyone's help. It just feels wrong to think that asking for help could be a good thing.",
-          "therapist_utterance": "I hear you feeling that asking for help feels wrong, and that must make it difficult to even consider it as an option. It's understandable to have those feelings, but what if we looked at times in the past when reaching out actually helped you? How might that change your view?",
-          "therapist_use": "Evidence-Based Questioning: used to challenge Daisy's beliefs about needing to handle everything independently by exploring past experiences."
+          "reason_for_ending": "KEEP: Therapist objective not met since Daisy hasn't identified specific beliefs around needing help. Client objective not met as she is still struggling to confront her feelings about inadequacy.",
+          "client_utterance": "I know I should be able to manage everything, and it feels wrong to need help. I keep telling myself that I shouldn't need anyone, especially not my parents. It’s just so hard to think about changing my mindset when I feel this way.",
+          "therapist_utterance": "You're carrying a heavy burden with those 'should' statements about being independent. It's understandable to feel stuck when your beliefs conflict with your current feelings. What do you think would happen if you allowed yourself to consider that needing help might not be a failure?",
+          "therapist_use": "Developing Discrepancy: helped Daisy to articulate the conflict between her beliefs about independence and her feelings of needing help."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as Daisy did not provide specific examples from her past. The client's objective was not met because she still struggles to see the benefits of seeking help.",
-          "client_utterance": "I can think of a couple of times, like when I asked a friend for help with a project. It felt okay then, but I don't think that really counts. This is different; it's about financial independence and my future.",
-          "therapist_utterance": "You're right that this feels different, but it seems like asking for help has worked in the past. It’s not just about the project, but about how it felt to share the load. What if you could apply that same principle to your finances? What would that look like?",
-          "therapist_use": "Changing Rules to Wishes: used to invite Daisy to reframe her belief about needing help in a flexible way."
+          "reason_for_ending": "KEEP: Therapist objective not met as Daisy hasn't yet reflected on past experiences of asking for help. Client objective not met as she continues to resist exploring the possibility of changing her beliefs.",
+          "client_utterance": "I just keep thinking that I should be able to handle everything, and reaching out feels like admitting defeat. I can't help but think of my brother and how he relies on our parents. I want to be different from him, so it’s hard to even consider asking for support.",
+          "therapist_utterance": "It's understandable to want to differentiate yourself from your brother's situation. However, many people find that asking for help can lead to growth and success. Can you think of a time when reaching out for support helped you in some way?",
+          "therapist_use": "Raising Awareness: encouraged Daisy to reflect on past experiences where seeking help was beneficial, prompting her to consider alternative perspectives."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as Daisy did not explore how seeking help could apply to her financial situation. The client's objective was not met because she still feels trapped by her beliefs about independence.",
-          "client_utterance": "I suppose it could mean feeling less stressed, but I still feel like I should be handling this on my own. It's hard to imagine asking for help with something so personal. I just don't want to feel like a burden.",
-          "therapist_utterance": "It sounds like the idea of being a burden weighs heavily on you, and that’s understandable. But what if seeking help actually made you feel stronger instead? How would that change how you see your situation?",
-          "therapist_use": "Developing Discrepancy: used to facilitate Daisy's reflection on the potential positive outcomes of accepting help."
+          "reason_for_ending": "KEEP: Therapist objective not met as Daisy hasn't collected evidence against her beliefs about needing help. Client objective not met as she is still not fully engaging with her feelings of inadequacy.",
+          "client_utterance": "I can’t really think of a time when asking for help worked out for me. Mostly, I just feel like I should have everything under control. It's frustrating because I want to feel that independence, but I also feel trapped by it.",
+          "therapist_utterance": "That sense of frustration is a sign that there may be a different path available for you. What if we looked at situations where asking for help led to positive outcomes for others? Sometimes, seeing examples can help us challenge our own beliefs.",
+          "therapist_use": "Gather Evidence: prompted Daisy to think of examples where seeking assistance was positive, encouraging her to challenge her automatic thoughts."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as there was no significant shift in Daisy's view on being a burden. The client's objective was not met because she remains resistant to the idea of accepting help.",
-          "client_utterance": "I guess it could feel stronger, but I still can't shake the idea that I should be able to do this myself. It's just hard to let go of that expectation. I feel like if I can’t do it alone, then what does that say about me?",
-          "therapist_utterance": "It sounds like you are really grappling with self-expectations, and that’s a tough place to be. You want to prove yourself, but there’s also a part of you that recognizes the weight of that expectation. How might you feel if you allowed yourself to redefine what strength means?",
-          "therapist_use": "Reflective Listening: used to validate Daisy's internal struggle while encouraging her to explore alternative definitions of strength."
+          "reason_for_ending": "KEEP: Therapist objective not met since Daisy has not yet examined alternative perspectives on seeking help. Client objective not met as she continues to avoid fully confronting her feelings about support.",
+          "client_utterance": "I guess I’ve always seen asking for help as a sign of weakness. I really don’t want to feel like I’m failing. It would be easier to just keep pushing through, even if it’s tough.",
+          "therapist_utterance": "It's common to associate asking for help with weakness, but many successful people have relied on support from others. It might help to think of collaboration as a strength rather than a failure. How could reframing your view on seeking help change how you approach your responsibilities?",
+          "therapist_use": "Examine Alternative Perspectives: discussed scenarios where asking for help is seen as a strength, helping Daisy to think about positive aspects of collaboration."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective was met as Daisy began to articulate her conflicting feelings about strength and independence. The client's objective was met as she started to recognize the possibility of redefining her beliefs about seeking help.",
-          "client_utterance": "Maybe strength could mean being honest about what I can handle. If I think about it that way, it might not feel so wrong to ask for help. I just need to figure out how to take that first step.",
-          "therapist_utterance": "That sounds like a significant realization, Daisy. Redefining strength in a way that includes asking for help can be a powerful step forward. What could that first step look like for you?",
-          "therapist_use": "Developing Discrepancy: used to encourage Daisy to consider actionable steps toward changing her beliefs about independence and help."
+          "reason_for_ending": "MOVE: Therapist objective met as Daisy is beginning to reframe her thoughts about seeking help. Client objective met as she is reflecting on her beliefs and considering new perspectives.",
+          "client_utterance": "I suppose if I think about it, asking for help could actually be a responsible choice. Maybe it doesn’t mean I’m incapable but rather that I’m willing to work with others. That feels a bit better, but it’s still uncomfortable.",
+          "therapist_utterance": "That realization is a significant step, Daisy! Recognizing that seeking help can be seen as a responsible action shows growth. It's okay to feel uncomfortable; change often is. How do you feel about taking small steps towards asking for support when you need it?",
+          "therapist_use": "Develop a New Narrative: assisted Daisy in reframing her thoughts about seeking help into a more positive narrative, reinforcing her new perspective."
         }
       ]
     },
@@ -116,30 +149,27 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Daisy's ambivalence about seeking financial assistance from her parents while strengthening her motivation for change.",
+          "objective": "To explore Daisy's ambivalence towards asking for financial help from her parents and to enhance her motivation for possible change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Daisy to share her feelings about seeking help from her parents.",
-                "Encourage her to articulate both the benefits and drawbacks of asking for assistance.",
-                "Reflect on her ambivalence, highlighting her desire for independence versus the potential need for support."
+                "Encourage Daisy to express her mixed feelings about seeking help from her parents, helping her articulate both her desire for independence and her fear of inadequacy.",
+                "Use open-ended questions to facilitate discussion about her values regarding independence and the potential benefits of accepting support."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Use open-ended questions to prompt Daisy to discuss what independence means to her.",
-                "Encourage her to express any thoughts on how asking for help might align with her values of self-sufficiency.",
-                "Validate her feelings while gently prompting her to consider what change she might envision if she felt more comfortable seeking support."
+                "Prompt Daisy to reflect on times when asking for help has been beneficial in her life or the lives of others, reinforcing positive perspectives on support.",
+                "Ask questions like, 'What would asking for help from your parents say about your ability to manage responsibilities?' to elicit her thoughts on change."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Guide Daisy through a pros and cons analysis of asking for help versus remaining independent.",
-                "Encourage her to visualize the impact of each choice on her self-image and goals.",
-                "Facilitate a discussion on how these choices align with her long-term aspirations."
+                "Guide Daisy in listing the pros and cons of asking for financial help, facilitating a balanced view of her situation.",
+                "Encourage her to consider how her current behavior aligns with her values and long-term goals."
               ]
             }
           ]
@@ -147,88 +177,84 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Help Daisy identify her automatic thoughts regarding the fear of asking for help.",
-                "Challenge her catastrophic thinking by discussing the worst-case scenarios she imagines and their likelihood.",
-                "Encourage her to reframe these thoughts to see asking for help as a strength rather than a weakness."
+                "Help Daisy identify and challenge her core belief that she must be completely independent to be competent.",
+                "Encourage her to reframe her automatic thoughts about needing help, exploring evidence that supports a healthier perspective."
               ]
             },
             {
-              "technique_name": "Pros and Cons Analysis",
+              "technique_name": "Developing Alternative Perspectives",
               "instructions_for_therapist": [
-                "Assist Daisy in creating a visual list of pros and cons regarding her current coping strategies.",
-                "Encourage her to consider how her current beliefs about independence may be limiting her options.",
-                "Facilitate a discussion on how her assumptions might be re-evaluated in the context of her goals."
+                "Facilitate a discussion about positive scenarios where asking for help is viewed as a strength.",
+                "Assist Daisy in developing a new narrative that frames seeking assistance as an adult responsibility rather than a failure."
               ]
             },
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Pros and Cons List",
               "instructions_for_therapist": [
-                "Prompt Daisy to provide evidence for her belief that seeking help is a sign of failure.",
-                "Encourage her to explore instances where others have successfully sought support and maintained independence.",
-                "Guide her to question the validity of her core beliefs about herself in light of this evidence."
+                "Lead Daisy in creating a pros and cons list regarding her feelings about independence versus asking for help.",
+                "Use this list to guide her reflection on how these thoughts impact her emotional state."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan for Daisy, I first identified her ambivalence regarding seeking financial help from her parents, recognizing her desire for independence while feeling ashamed of needing assistance. By employing MI strategies, I aim to explore this ambivalence through open-ended questions and reflections, allowing her to articulate her feelings about independence and support. The decisional balance discussions will encourage her to evaluate the pros and cons of her current behaviors, thereby fostering motivation for change. In the CBT component, I will utilize decatastrophizing techniques to challenge her catastrophic thinking about seeking help, while evidence-based questioning will help her reevaluate her core beliefs about self-sufficiency. By focusing on these strategies, I maintain a supportive stance that respects Daisy's resistance and ambivalence, promoting insight and gradual cognitive restructuring without pushing her directly into an action plan.",
-        "progress_marker": "Daisy expresses increased clarity about her feelings and begins to identify specific beliefs that contribute to her ambivalence."
+        "therapist_reasoning": "The therapeutic approach begins with understanding Daisy's ambivalence surrounding financial independence and her feelings of shame related to seeking help. Utilizing MI strategies, I will first encourage her to articulate her mixed feelings about asking her parents for financial support, allowing her to explore her values of independence versus the benefits of support. This will involve eliciting change talk by having her reflect on past instances where asking for help was beneficial, promoting a more positive view of seeking assistance. Implementing decisional balance discussions will help her weigh the pros and cons of her current behavior against her values, fostering insight into her ambivalence. Alongside this, CBT techniques will be employed to challenge her core belief of needing to be completely independent, guiding her to reframe her automatic thoughts about seeking help. By developing alternative perspectives, I will assist her in crafting a narrative that positions help-seeking as a responsible act of adulthood. This sequence of interventions is designed to engage Daisy collaboratively while respecting her current resistance, ultimately enhancing her motivation for change.",
+        "progress_marker": "Daisy demonstrates increased insight into her ambivalence and begins to articulate more positive views on seeking help, indicating readiness for further exploration of support options."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about asking for help and understand the barriers that hold me back.",
+        "client_objective": "I hope to explore my feelings about asking for financial help and understand why I struggle with independence.",
         "client_state": {
-          "awareness": "I am starting to recognize that my need for independence might be limiting my ability to seek support when I truly need it.",
-          "motivation": "I want to change my relationship with my parents and accept help, but I'm afraid of appearing weak or failing.",
-          "openness": "I feel somewhat willing to discuss my feelings with my therapist, but I still hold back on fully expressing my fears about dependence.",
-          "resistance": "I often feel ashamed of needing help and find myself defending my current situation, even if it’s not working."
+          "awareness": "I am starting to see that my need for independence might be making things harder for me, and I recognize that I feel ashamed about asking for help.",
+          "motivation": "I want to be independent and not rely on my parents, but I also know that I need support sometimes, which makes me feel conflicted.",
+          "openness": "I am becoming more willing to talk about my feelings and experiences, but I still struggle to fully admit my needs.",
+          "resistance": "I feel a strong urge to defend my independence and avoid asking for help, as it feels embarrassing and makes me doubt my capabilities."
         },
-        "client_reasoning": "Lately, I've been reflecting on how I handle my finances and responsibilities. I realize that while I want to be independent, there's a part of me that feels overwhelmed and unsure. I notice thoughts like, 'I shouldn't need my parents' help at this age,' which makes me feel embarrassed. It's confusing because I see that asking for help could make things easier, yet I fear it means I’m not capable or that I’ll end up like my brother. Therapy is helping me think about these conflicting feelings, but I still struggle with admitting that I can't do everything on my own. I want to be strong and self-sufficient, but I’m beginning to see that maybe accepting help isn’t a sign of weakness after all. It’s a lot to unpack, and I’m not sure where to start.",
-        "progress_marker": "Client expresses awareness of the need for support but still feels conflicted about asking for help."
+        "client_reasoning": "As I sit here reflecting, I realize that my struggle for independence is becoming overwhelming. I’ve always believed that I must do everything on my own to prove I’m capable, but now I see that this belief may not be serving me well. I feel ashamed at the thought of asking my parents for financial help; it feels like admitting I’m not as competent as I want to be. I notice how I quickly dismiss their offers, thinking I should be able to manage on my own. But deep down, I know that sometimes I need support, and that’s where my conflict lies. Therapy has helped me start to untangle these thoughts, but I still feel hesitant to fully embrace the idea of reaching out for help. It’s scary to think I might not be able to live up to my own expectations, and I worry that if I ask for help, I’ll end up feeling even more like a failure."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met: The therapist did not fully explore Daisy's feelings about seeking help. Client objective was not met: Daisy is still holding back on expressing her fears about dependence.",
-          "client_utterance": "I've been thinking about what you said about redefining strength. It feels like a big shift, but I still worry that asking for help would mean I’m not capable. I want to feel strong, but I just can’t shake the fear that I’m letting my parents down.",
-          "therapist_utterance": "It’s understandable to feel that way, especially with the pressure of wanting to prove yourself. Let’s explore what it would mean for you to ask for help from your parents. What do you think their reaction would be, and how might that affect your sense of self?",
-          "therapist_use": "Exploring ambivalence: encouraged Daisy to articulate her feelings about her parents' potential reactions."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met as Daisy hasn't yet articulated her mixed feelings about seeking help. The client's objective was not met because she is still struggling to embrace the idea of asking for financial help.",
+          "client_utterance": "I do see that asking for help could be responsible, but it still feels daunting. I mean, what if I ask for help and then I can’t manage even with that support? It’s like I’m afraid it’ll just highlight my shortcomings more than anything else.",
+          "therapist_utterance": "It sounds like you're grappling with a lot of fear around asking for help. That concern about not being able to manage even with support is valid and shows how much pressure you feel to be independent. What do you think asking for help would say about you if you did it?",
+          "therapist_use": "Exploring Ambivalence: encouraged Daisy to express fears about asking for help, facilitating deeper understanding of her feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met: The therapist did not delve deeply enough into the potential consequences of asking for help. Client objective was not met: Daisy still feels conflicted and hasn't fully articulated her fears.",
-          "client_utterance": "I guess I fear they might see me as incapable, or worse, that they might start treating me like I need help all the time. I want to maintain my independence and not be seen as someone who can’t handle her own life. But I do feel overwhelmed by everything I’m trying to manage.",
-          "therapist_utterance": "That fear of being perceived as incapable is significant and understandable. Let’s take a closer look at the pros and cons of asking for help versus staying independent. What do you think you might gain if you did reach out for support?",
-          "therapist_use": "Decisional balance discussions: facilitating a pros and cons analysis of asking for help."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met as Daisy hasn't yet shared her thoughts on how she views herself in relation to asking for help. The client's objective was not fully met since she still feels conflicted about her independence.",
+          "client_utterance": "I guess it might say that I’m acknowledging my limits, which isn’t necessarily a bad thing. But I’m still stuck thinking that it makes me less capable. It’s frustrating because I want to be seen as competent and responsible.",
+          "therapist_utterance": "Acknowledging limits can actually be a sign of strength and maturity. It’s understandable to want to maintain a certain image, but how do you think others would view you if you reached out for support? Sometimes, those who seek help are seen as wise rather than weak.",
+          "therapist_use": "Eliciting Change Talk: prompted Daisy to reflect on how seeking help might be perceived positively, reinforcing her value of responsibility."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met: The therapist needs to further guide Daisy in visualizing the impact of her choices. Client objective was not met: Daisy has not yet identified specific beliefs that contribute to her ambivalence.",
-          "client_utterance": "If I asked for help, I suppose I could feel less stressed and have more time to focus on my studies. But I still think it might make me feel weak, like I can’t manage things by myself. It’s a tough balance, because I want to succeed but I don’t want to compromise my independence.",
-          "therapist_utterance": "It sounds like you recognize both the potential relief and the associated fears. Let’s visualize what your life could look like if you embraced asking for help. How might that change your daily stress and your view of yourself?",
-          "therapist_use": "Eliciting change talk: encouraging Daisy to visualize the benefits of seeking help."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met as Daisy has not yet created a pros and cons list regarding her feelings about asking for help. The client's objective was not met because she still feels uncertain about how to navigate her need for support.",
+          "client_utterance": "I suppose others might think it’s a good thing, but it’s hard to shake off my own judgments. I mean, I’ve always been taught to stand on my own two feet. Creating a list of pros and cons about this would probably help, but I still feel resistant.",
+          "therapist_utterance": "It’s great that you recognize that a pros and cons list could help clarify your feelings. Resistance is a natural part of this process, especially when it comes to challenging deep beliefs. What do you think would be some pros of asking for help?",
+          "therapist_use": "Decisional Balance Discussions: guided Daisy to begin weighing the pros of asking for help, facilitating a clearer understanding of her situation."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met: The therapist did not sufficiently address Daisy's fears about seeking help. Client objective was not met: Daisy hasn't fully explored her internal conflicts regarding independence and support.",
-          "client_utterance": "I can imagine feeling less overwhelmed, but then I get caught up in thoughts about how that would reflect on me. I feel like I’m in a tug-of-war between wanting relief and fearing judgment. It’s hard to break free from the idea that needing help means I’m failing.",
-          "therapist_utterance": "That internal conflict is really tough, and it's important to acknowledge those fears. Let's discuss some examples from your life where seeking help didn’t diminish your strength. Can you think of any instances where asking for assistance was actually empowering?",
-          "therapist_use": "Evidence-based questioning: prompting Daisy to provide evidence for her beliefs about seeking help."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met as Daisy has not yet fully explored the pros of asking for help. The client's objective was not met because she hasn’t fully articulated her mixed feelings about seeking assistance.",
+          "client_utterance": "Some pros could be that I wouldn’t feel so overwhelmed and maybe I could focus better on school. But then I worry about being judged or compared to my brother. It’s tough because I want to be independent but also need to manage my responsibilities.",
+          "therapist_utterance": "Those are valid pros, and it’s understandable to have concerns about judgment. Finding a balance between independence and seeking support can be tricky, but it sounds like you have valid reasons for considering help. What do you think the potential cons are?",
+          "therapist_use": "Pros and Cons List: encouraged Daisy to articulate the pros of asking for help, helping her to explore the complexity of her feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met: The therapist needs to reinforce the idea that seeking help can be a strength. Client objective was not met: Daisy still feels conflicted about her beliefs around independence.",
-          "client_utterance": "I remember when I asked a friend for advice on managing my time better, and it helped a lot. I felt good about being able to admit that I needed support then. But this feels different; it’s about something so much bigger, and I just can’t seem to let go of my pride.",
-          "therapist_utterance": "It’s great that you can recall a positive experience asking for help. That shows you have the ability to reach out when needed. What if you could view reaching out to your parents through that same lens? How could it be a sign of your strength rather than weakness?",
-          "therapist_use": "Double-sided reflection: used to validate Daisy's positive experience while challenging her belief about pride."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met as Daisy hasn’t yet identified the cons related to asking for help. The client's objective was not met because she is still feeling conflicted and hasn’t fully embraced the concept of support.",
+          "client_utterance": "The cons might include feeling embarrassed or like I’m failing at being an adult. I really don’t want to feel that way, especially with my brother’s situation in mind. It’s like I’m being pulled in two different directions.",
+          "therapist_utterance": "It's understandable to feel torn between those two perspectives, especially considering your brother's situation. Those feelings of embarrassment can be powerful, but it’s important to remember that needing help is a part of being human. Can you think of a way to reframe those cons into something that feels more manageable?",
+          "therapist_use": "Cognitive Restructuring: helped Daisy challenge her beliefs about embarrassment, fostering a more balanced view of asking for help."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met: The therapist hasn't fully facilitated a discussion on how these choices align with Daisy's long-term aspirations. Client objective was not met: Daisy hasn't yet realized the potential benefits of seeking help in her current situation.",
-          "client_utterance": "I suppose if I could see asking for help as a way to be more effective in managing my responsibilities, it might not feel so bad. I want to be independent, but I also want to be successful in my studies and life. Maybe I can start seeing support as a strategy rather than a weakness.",
-          "therapist_utterance": "That’s a powerful shift in perspective, Daisy! If you view asking for help as a strategy for success, how might that influence your decisions moving forward? What are some small steps you could take towards seeking that support?",
-          "therapist_use": "Eliciting change talk: encouraging Daisy to consider the implications of her new perspective."
+          "reason_for_ending": "KEEP: The therapist's objective was not fully met as Daisy has not yet restructured her beliefs about asking for help. The client's objective was not fully met because she is still grappling with her feelings of shame.",
+          "client_utterance": "I guess I could think of asking for help as a step towards managing my responsibilities rather than a failure. But it’s still hard to let go of that shame. I want to feel confident in my ability to handle things on my own.",
+          "therapist_utterance": "That’s a powerful reframe, and it shows growth in your thinking! It’s perfectly normal to feel some shame, but acknowledging that seeking help can be a part of being responsible is a significant step. How might you practice this new perspective in your daily life?",
+          "therapist_use": "Developing Alternative Perspectives: encouraged Daisy to practice reframing her thoughts about seeking help, helping her to build confidence."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective was met: The therapist effectively facilitated a shift in Daisy's perspective about asking for help. Client objective was met: Daisy is beginning to identify the barriers to seeking support and explore her feelings more openly.",
-          "client_utterance": "I think I’m starting to see how asking for help could actually support my independence instead of undermining it. It feels like a relief to think of it that way. I’m ready to consider reaching out for help when I really need it, even if it feels uncomfortable.",
-          "therapist_utterance": "That’s a significant breakthrough, Daisy! It sounds like you’re beginning to embrace the idea that seeking help can coexist with your independence. What do you think your next steps could be in making this a reality for you?",
-          "therapist_use": "Facilitating insight: helping Daisy envision practical steps towards seeking support."
+          "reason_for_ending": "MOVE: The therapist's objective was met as Daisy has articulated her mixed feelings and begun to see the value in asking for help. The client's objective was met as she is exploring her feelings and recognizing the need for support, indicating readiness for change.",
+          "client_utterance": "I think I could start by being more open about my feelings with my parents. Maybe I could ask them for advice first before talking about financial help. It feels scary, but I can see how it might be a good step forward.",
+          "therapist_utterance": "That sounds like a great plan, Daisy! Taking that first step to open up about your feelings can lead to a deeper understanding of your needs and your parents' willingness to support you. How do you feel about setting a time to talk with them soon?",
+          "therapist_use": "Eliciting Change Talk: supported Daisy in articulating her plan to seek help, fostering her motivation for change."
         }
       ]
     },
@@ -237,30 +263,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Daisy's commitment to change and enhance her motivation to seek support.",
+          "objective": "Strengthen Daisy's commitment to seeking help and preparing for financial independence.",
           "strategies": [
             {
-              "strategy_name": "Commitment Language",
+              "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Daisy to articulate her desire for independence and self-sufficiency.",
-                "Explore her feelings about asking for help and reinforce her autonomy.",
-                "Ask open-ended questions to help her express her commitment to her goals."
+                "Encourage Daisy to articulate her reasons for wanting to be independent, reinforcing her motivation.",
+                "Use reflective listening to validate her feelings of shame while also emphasizing her strengths and past successes.",
+                "Invite Daisy to express what being independent means to her and the benefits she sees in seeking help."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess Daisy's confidence in managing her finances independently.",
-                "Discuss her feelings about her current readiness to ask for help from her parents.",
-                "Highlight past successes to reinforce her belief in her capabilities."
-              ]
-            },
-            {
-              "strategy_name": "Identifying Supports and Resources",
-              "instructions_for_therapist": [
-                "Help Daisy identify potential sources of support, such as friends or financial advisors.",
-                "Discuss the resources available for managing finances and budgeting.",
-                "Encourage her to consider seeking help without feeling like a burden."
+                "Ask open-ended questions to assess her confidence in discussing financial issues with her parents.",
+                "Explore any previous experiences where she successfully sought help and how it made her feel.",
+                "Support her in identifying any past challenges she overcame and relate these to her current situation."
               ]
             }
           ]
@@ -268,88 +286,80 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Daisy to plan a small experiment where she asks a trusted friend or mentor for advice on a financial issue.",
-                "Discuss the potential outcomes and feelings she might experience during this process.",
-                "Review her feelings and thoughts after the experiment to address any cognitive distortions."
+                "Begin the session by discussing Daisy's feelings about asking her parents for help.",
+                "Guide her to articulate her beliefs about independence and challenge the 'should' statements.",
+                "Encourage her to gather evidence that supports the idea that asking for help is not a sign of failure."
               ]
             },
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Developing a New Narrative",
               "instructions_for_therapist": [
-                "Work collaboratively with Daisy to create a step-by-step action plan for managing her finances.",
-                "Identify specific tasks (e.g., creating a budget, setting up a savings account) and timelines.",
-                "Ensure the plan feels achievable and supports her independence while allowing for occasional support."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Teach Daisy problem-solving skills to address practical barriers she might face in her action plan.",
-                "Utilize role-playing to practice scenarios where she might seek help and manage her emotions.",
-                "Encourage her to view seeking help as a smart strategy rather than a failure."
+                "Help Daisy create a narrative that frames asking for help as a responsible action.",
+                "Collaborate with her to list the pros and cons of reaching out to her parents.",
+                "Encourage her to formulate specific conversation starters that she can use when discussing her situation with her parents."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this preparation phase, the focus is on enhancing Daisy's readiness for change while addressing her resistance rooted in feelings of shame and embarrassment. I will first utilize MI strategies, such as reinforcing commitment language, to help her articulate her desire for independence, which will solidify her motivation. Exploring her confidence and readiness through scaling questions will help identify her fears and highlight her strengths. Moreover, discussing supports available will encourage her to seek help without feeling inadequate. Next, I will implement CBT techniques like behavior experiments, allowing her to practice asking a trusted person for assistance, thereby challenging her automatic thoughts about needing help. This will help her gain insight into the experience of seeking support. Action planning will provide her with a structured approach to managing her finances while fostering her independence. Finally, problem-solving skills training will equip her with strategies to confront practical barriers, ensuring the plan remains realistic and achievable, thus increasing her self-efficacy.",
-        "progress_marker": "Daisy will successfully identify and implement at least one new financial management strategy, such as budgeting, and will express increased comfort in discussing her needs with others."
+        "therapist_reasoning": "In approaching Daisy's therapy plan, I first identified her core beliefs around independence and her feelings of shame regarding asking for help, which are influencing her readiness for change. Using MI strategies, I aimed to strengthen her commitment by encouraging her to articulate her motivations for independence while validating her feelings, thereby reinforcing her intrinsic motivation. By exploring her confidence and readiness to discuss financial matters with her parents, I aimed to build her self-efficacy. The CBT interventions focus on evidence-based questioning to challenge her negative beliefs about asking for help, helping her gather evidence to counter thoughts of inadequacy. Developing a new narrative allows Daisy to redefine her understanding of independence as inclusive of seeking support. This structured plan is designed to be specific, collaborative, and gradual, ensuring that she does not feel overwhelmed while preparing to take actionable steps towards her financial independence.",
+        "progress_marker": "Daisy successfully identifies her motivations for independence and articulates at least one specific action she can take to seek support from her parents."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings about financial independence and find ways to ask for help without feeling ashamed.",
+        "client_objective": "I hope to explore my feelings about independence and find a way to ask for help without feeling ashamed.",
         "client_state": {
-          "awareness": "I recognize that my current situation isn't sustainable, and I need to change my approach to finances and independence.",
-          "motivation": "I feel a strong desire to improve my financial independence and not rely on my parents, but I'm still unsure how to navigate this change.",
-          "openness": "I'm willing to discuss my thoughts and feelings about my situation with my therapist, but I still struggle with sharing my vulnerabilities.",
-          "resistance": "I feel hesitant about admitting that I need help, which creates anxiety and shame that I need to work through."
+          "awareness": "I recognize that I can't manage everything on my own and that asking for help is a part of being independent.",
+          "motivation": "I feel a strong desire to improve my financial situation and build a more independent life.",
+          "openness": "I am willing to discuss my thoughts and feelings with my therapist, although I still feel hesitant about certain topics.",
+          "resistance": "I experience doubts about my capability and fear of being seen as needy, which makes it difficult to fully embrace change."
         },
-        "client_reasoning": "I've come to realize that trying to handle everything on my own is not only overwhelming but also unrealistic. I understand that my fear of being seen as incompetent is holding me back from making the necessary changes in my life. I want to be independent, but I also know that asking for help doesn't mean I'm a failure like I sometimes think. Therapy has helped me see that I can still be capable while seeking support when I need it. I hope to find a way to balance my desire for independence with the courage to reach out when necessary. Yet, there's still this nagging fear that if I ask for help, I'll be viewed as weak or needy, which keeps me feeling ashamed. I want to learn how to navigate these feelings and figure out practical steps toward my goals without feeling ashamed of my needs.",
-        "progress_marker": "Client is beginning to identify potential strategies for coping with financial independence while acknowledging their need for support."
+        "client_reasoning": "I’ve started to realize that my situation isn’t sustainable, and I can’t keep avoiding help from others. I’ve been so focused on proving my independence that I’ve overlooked how asking for support can actually be a strength. It feels scary to think about reaching out to my parents for financial help, but I understand that doing so might relieve some of the pressure I’m under. I want to be able to manage my finances confidently, but I also don’t want to feel like a failure. Therapy has helped me see that it’s okay to acknowledge my limitations, and I feel a bit more hopeful that I can find a balance between independence and support. Yet, I still worry about what it means for my self-image if I need help, which makes me hesitant to take that step.",
+        "progress_marker": "Client has begun to consider the possibility of asking for help and is reflecting on their coping strategies."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Daisy hasn't yet articulated her desire for independence clearly. Client objective was not met as Daisy still struggles to see asking for help as a positive action.",
-          "client_utterance": "I've been thinking more about what you said regarding asking for help. It still feels challenging for me, especially when I think about my brother relying on our parents. I don't want to be seen as someone who can't manage her own life, but maybe I need to reconsider what it means to be truly independent.",
-          "therapist_utterance": "It’s great that you’re reflecting on your feelings about independence, Daisy. It seems like there’s still some conflict between your desire to be seen as capable and the reality of needing support. How do you think you could reframe that perspective to help you feel more comfortable with the idea of asking for assistance?",
-          "therapist_use": "Open-ended question: encouraged exploration of Daisy's perspective on independence and support."
+          "reason_for_ending": "KEEP; Therapist's objective was not met because Daisy has not yet fully articulated her motivations for independence. Client's objective was not met as she still feels uncomfortable about asking for help from her parents.",
+          "client_utterance": "I'm still feeling a bit stuck. I think I could talk to my parents about advice, but asking for financial help still feels overwhelming. I want to be independent, but it’s hard to shake off the feeling that I’m failing if I need help.",
+          "therapist_utterance": "It's completely normal to feel overwhelmed, especially when it comes to discussing finances with your parents. Maybe we can explore what independence means to you and how seeking advice could be a step towards that independence. What do you think are the benefits of asking them for guidance?",
+          "therapist_use": "Open-ended questioning: Encouraging exploration of client’s thoughts on independence and potential benefits of seeking support."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met as there is still no clear commitment to change from Daisy. Client objective was not met because Daisy hasn't fully recognized the benefits of seeking help yet.",
-          "client_utterance": "I guess if I looked at it differently, asking for help could actually make me feel less burdened. But I still worry about how it reflects on me. I want to be independent, but I don't want to feel like I'm letting anyone down by needing help.",
-          "therapist_utterance": "I understand that fear of letting others down, and it’s a common feeling when transitioning to independence. Maybe we can explore how seeking help might actually enhance your ability to manage your responsibilities. What strengths do you think you could draw on to help you take that first step?",
-          "therapist_use": "Exploring strengths: aimed to help Daisy identify her capabilities and boost her confidence."
+          "reason_for_ending": "KEEP; Therapist's objective was not met as Daisy has not yet expressed her reasons for wanting to be independent. Client's objective was not met since she still feels hesitant about asking for help.",
+          "client_utterance": "I guess if I think about it, getting advice could help me feel more prepared to manage my finances. I want to show them that I’m capable, but I still worry about how they'll react. What if they think I'm not handling things well?",
+          "therapist_utterance": "Your concern about their reaction shows how much you value their opinion. It's great that you’re thinking of ways to prepare yourself for that conversation. Remember, asking for advice can show that you're taking responsibility for your situation, not that you're failing.",
+          "therapist_use": "Reflective listening: Validating Daisy's feelings while emphasizing her strengths in seeking advice."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Daisy has not yet shared specific strategies for reaching out for help. Client objective was not met as Daisy still feels uncertain about how to balance independence with asking for assistance.",
-          "client_utterance": "I think I would feel more confident if I could plan out how to ask for help. Maybe I could start small, like talking to a friend about my financial worries before going to my parents. But I still need to work on feeling okay with that.",
-          "therapist_utterance": "Planning out a small step sounds like a great idea! It could help you practice asking for help in a way that feels manageable. What do you think your first conversation could look like, and who do you feel comfortable approaching?",
-          "therapist_use": "Action planning: supported Daisy in identifying practical steps for seeking help."
+          "reason_for_ending": "KEEP; Therapist's objective was not met because Daisy has not sufficiently articulated her motivations for financial independence. Client's objective was not met as she remains resistant to fully embracing the idea of asking for help.",
+          "client_utterance": "You're right, I hadn’t thought of it that way. But I still feel like if I ask for help, it’ll expose my weaknesses. How do I reconcile wanting to be independent with the fear of not being seen as capable?",
+          "therapist_utterance": "It’s a tough balance to strike, but recognizing that everyone has strengths and weaknesses is part of being human. Independence doesn’t mean going it alone; it can also mean knowing when to seek support. How might acknowledging your limits not diminish your independence but rather enhance it?",
+          "therapist_use": "Challenging beliefs: Helping Daisy frame her understanding of independence in a way that includes seeking help."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Daisy hasn't yet committed to a specific action plan. Client objective was not met as Daisy still feels apprehensive about reaching out.",
-          "client_utterance": "I think I could talk to my friend Sarah first. She's always been supportive, and maybe discussing my finances with her won't feel as daunting. But I still feel that nagging fear about reaching out to my parents afterward.",
-          "therapist_utterance": "That’s a solid choice, and it’s good to start with someone you trust. Talking to Sarah first might help you build confidence. After that conversation, how do you think you might feel about tackling the next step with your parents?",
-          "therapist_use": "Encouragement of support: emphasized the importance of trusted relationships in building confidence."
+          "reason_for_ending": "KEEP; Therapist's objective was not met as Daisy has not yet identified any specific action steps for seeking support. Client's objective was not met since she is still struggling with her feelings about asking for help.",
+          "client_utterance": "I can see how asking for help could enhance my independence, but it still feels like a big step. I could try talking to them about other things first, but I always worry they’ll see me as needing help. It’s just hard to imagine that conversation.",
+          "therapist_utterance": "Starting with a conversation about other topics is a great way to ease into discussing your feelings. It might help build a supportive atmosphere before bringing up financial matters. What would you like to say to them to transition into that discussion?",
+          "therapist_use": "Encouraging small steps: Supporting Daisy in finding a way to approach her parents gradually."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Daisy hasn’t explicitly committed to her plan yet. Client objective was not met because Daisy still hesitates about how to approach her parents.",
-          "client_utterance": "I can see how talking to Sarah could help, but I still feel anxious about what might happen if I need to ask my parents for help later. Part of me thinks I should just figure it out myself, but another part is realizing I can’t do everything alone.",
-          "therapist_utterance": "It sounds like you’re balancing the desire for independence with the reality of needing support. That internal dialogue is important to acknowledge. What if you allowed yourself to think about seeking help from your parents as a sign of strength rather than a failure?",
-          "therapist_use": "Reframing: aimed to help Daisy view asking for help as a positive action."
+          "reason_for_ending": "KEEP; Therapist's objective was not met because Daisy has not yet committed to a specific plan for talking with her parents. Client's objective was not met as she remains unsure about how to approach her parents.",
+          "client_utterance": "I think I could start with something simple, like asking for their advice on managing my finances. But I still feel nervous about how they might respond. What if they react negatively?",
+          "therapist_utterance": "It's natural to feel nervous about their reaction, but remember that you're taking a proactive step towards managing your responsibilities. You have a right to seek their guidance, and this could strengthen your relationship with them. How might you frame your request to encourage a positive dialogue?",
+          "therapist_use": "Building confidence: Assisting Daisy in crafting her conversation starters to foster a supportive dialogue."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Daisy still hasn't fully committed to her perspective shift. Client objective was not met since she hasn't expressed a clear plan for reaching out for help.",
-          "client_utterance": "I guess if I think of it that way, it might be easier to approach them when I need to. But I still need to work through my feelings about it. I want to be independent, but I also want to feel okay about asking for help.",
-          "therapist_utterance": "It’s a positive step that you’re starting to see seeking help as a component of independence. It’s okay to have mixed feelings about it; they’re part of the process. How might you prepare yourself emotionally for that conversation with your parents?",
-          "therapist_use": "Emotional preparation: encouraged Daisy to consider her feelings and thoughts before approaching her parents."
+          "reason_for_ending": "KEEP; Therapist's objective was not met as Daisy has not yet solidified her commitment to asking for help. Client's objective was not met as she still feels hesitant about how to initiate the conversation.",
+          "client_utterance": "I guess I could say I’m looking for advice on budgeting and managing expenses. That might make it less about needing help and more about wanting to learn. But I still worry about how they’ll see me.",
+          "therapist_utterance": "That’s a fantastic approach! Framing it as a desire to learn shows maturity and responsibility. It’s also a way to open the door for more honest conversations about your needs without feeling ashamed. How do you feel about approaching them with this plan?",
+          "therapist_use": "Reframing: Helping Daisy view her request for advice as a sign of maturity rather than a weakness."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective was met as Daisy has begun to articulate her commitment to seeking help. Client objective was met as Daisy expressed increased comfort with the idea of asking for support.",
-          "client_utterance": "I think I’m starting to realize that I can be independent and still ask for help when I need it. It feels relieving to think of it that way. I’m ready to take those first steps, starting with Sarah, and then maybe my parents.",
-          "therapist_utterance": "That’s a wonderful realization, Daisy! It sounds like you’ve made significant progress in reconciling your desire for independence with the need for support. I’m excited to see you take these steps and look forward to hearing how they go.",
-          "therapist_use": "Affirmation: reinforced Daisy's commitment and progress in balancing independence with seeking help."
+          "reason_for_ending": "MOVE; Therapist's objective was met as Daisy has articulated her motivations for seeking independence and has a specific action plan for seeking support. Client's objective was met as she feels more empowered to ask for help.",
+          "client_utterance": "I feel more confident about talking to them now. Framing it as seeking advice makes it feel less daunting. I’m ready to take that step and see how it goes.",
+          "therapist_utterance": "That's wonderful to hear, Daisy! You’ve made significant progress in understanding that seeking help is part of being responsible. I believe this conversation will be a positive step toward your financial independence.",
+          "therapist_use": "Affirmation: Reinforcing Daisy's growth and readiness to take action towards her goals."
         }
       ]
     }

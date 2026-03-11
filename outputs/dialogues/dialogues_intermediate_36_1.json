@@ -12,30 +12,35 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build awareness and explore feelings about current challenges without pushing for immediate change.",
+          "objective": "To build rapport, increase awareness of Riley's current situation, and explore the discrepancies between their feelings of helplessness and their personal values without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Riley's concerns and feelings about financial stress and social demands.",
-                "Reflect back what Riley shares to show understanding and validation.",
-                "Encourage Riley to elaborate on their feelings of being overwhelmed and their relationships with friends."
+                "Listen actively to Riley's concerns about their financial situation and relationship stress.",
+                "Reflect back their feelings of overwhelm and anxiety to validate their experiences.",
+                "Use phrases like 'It sounds like you're feeling stressed about your finances and the demands from your friends.'"
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Riley's feelings of anxiety and worry regarding their finances and social obligations.",
-                "Use empathetic language to convey understanding of their situation and emotional state.",
-                "Reinforce that it's okay to feel ambivalent about discussing these issues."
+                "Acknowledge Riley's feelings of being overwhelmed by responsibilities at work and social expectations.",
+                "Use empathetic statements to show understanding, such as 'It's understandable that you feel anxious with so much on your plate right now.'"
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the discrepancies between Riley's current feelings of helplessness and their deeper values or goals.",
-                "Encourage reflection on how their current behaviors align with or diverge from their values.",
-                "Facilitate discussions about the impact of financial strain and social pressures on their well-being."
+                "Gently guide Riley to explore how their current behaviors may not align with their values or goals.",
+                "Ask questions like, 'How do you feel when you think about your financial situation in relation to what you want for your future?'"
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Encourage Riley to reflect on their automatic thoughts regarding their financial issues and personal worth.",
+                "Ask open-ended questions to promote curiosity, such as 'What do you think might happen if you take a closer look at your finances?'"
               ]
             }
           ]
@@ -45,82 +50,65 @@
             {
               "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Ask Riley questions that prompt them to consider the evidence behind their thoughts about financial irresponsibility.",
-                "Guide them to articulate their beliefs regarding their need for financial support and the perceived consequences of these beliefs."
-              ]
-            },
-            {
-              "technique_name": "Reality Testing",
-              "instructions_for_therapist": [
-                "Encourage Riley to examine the reality of their financial situation by discussing specific details, such as their actual expenses and savings.",
-                "Help them assess whether their automatic thoughts are based on facts or assumptions."
-              ]
-            },
-            {
-              "technique_name": "Alternative Perspective",
-              "instructions_for_therapist": [
-                "Invite Riley to consider alternative viewpoints regarding their feelings of being needy or unlovable.",
-                "Discuss how these beliefs might affect their interactions and emotional well-being."
+                "Introduce the concept of Evidence-Based Questioning to help Riley challenge negative thoughts.",
+                "Guide Riley to identify negative thoughts stemming from their recent financial realization.",
+                "Encourage gathering evidence for and against these thoughts to develop a more balanced perspective.",
+                "Discuss the assumptions behind their thoughts and encourage a re-examination of what being 'irresponsible' means, fostering a more flexible understanding."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, the therapist strategically employs Motivational Interviewing (MI) and Cognitive Behavioral Therapy (CBT) techniques to effectively engage Riley, who is in the pre-contemplation phase. The therapist begins with reflective listening to validate Riley's feelings of overwhelm regarding financial and social pressures, fostering a safe space for exploration. By expressing empathy, the therapist acknowledges Riley's anxieties, reinforcing their emotional experience and reducing defensiveness. Developing discrepancy will guide Riley to reflect on their values versus their current situation, enhancing awareness without pressuring for change. The therapist then implements CBT techniques such as evidence-based questioning to challenge Riley's beliefs about their financial responsibilities and reality testing to help them confront the facts behind their emotional responses. An alternative perspective technique encourages Riley to reconsider their negative self-perceptions. This combination of MI and CBT strategies aligns with Riley's resistance profile, promoting self-exploration and awareness, while avoiding any direct push towards behavioral change.",
-        "progress_marker": "Riley expresses a willingness to reflect on their thoughts and feelings about their financial situation and social dynamics without feeling pressured to make immediate changes."
+        "therapist_reasoning": "In this session, the therapist will focus on building rapport and trust with Riley, who is in the Pre-contemplation phase. To address Riley's ambivalence, the therapist will employ Motivational Interviewing (MI) strategies such as reflective listening to validate their feelings and expressing empathy to create a safe space for discussion. By developing discrepancy, the therapist will gently guide Riley to explore how their current feelings of helplessness contrast with their personal values. This will promote self-reflection without pushing for immediate change. Simultaneously, the therapist will introduce Evidence-Based Questioning from CBT to help Riley challenge negative thoughts about their financial situation. This approach will allow Riley to gather evidence for and against their beliefs, fostering greater awareness of their thought patterns. The therapist will avoid suggesting any behavioral changes at this stage, respecting Riley's resistance while encouraging exploration of thoughts and feelings. The combination of MI and CBT will facilitate Riley's engagement with their internal experiences, laying the groundwork for future readiness for change.",
+        "progress_marker": "Increased willingness to discuss feelings about financial issues and relationship stress; greater self-awareness of cognitive patterns related to helplessness."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to feel understood without having to confront my issues directly.",
+        "client_objective": "I hope to find a way to talk about my feelings without feeling pressured to change.",
         "client_state": {
-          "awareness": "I recognize I have financial issues, but I don't see them as a significant problem.",
-          "motivation": "I don't really want to change anything right now; it feels overwhelming.",
-          "openness": "I'm not very willing to share my feelings; it's easier to talk about others.",
-          "resistance": "I feel a strong urge to avoid discussing my problems, as it makes me uncomfortable."
+          "awareness": "I recognize that my financial situation is stressful, but I don't see it as a major problem that needs addressing right now.",
+          "motivation": "I'm not really motivated to change; I feel trapped and think nothing will really improve.",
+          "openness": "I'm somewhat hesitant to share my true feelings because I worry they'll be dismissed or misunderstood.",
+          "resistance": "I feel a strong urge to avoid discussing my financial issues and instead focus on my friends' problems."
         },
-        "client_reasoning": "I know I should probably focus on my financial situation and how it’s stressing me out, but it’s just so much easier to talk about my friends' crises instead. It’s like I can put off my own issues by helping them. I feel overwhelmed with everything happening at work and in my friendships, and discussing my financial problems makes me feel vulnerable and exposed. I keep thinking that if I don’t acknowledge it, maybe it will just go away. I feel like I can’t handle the thought of change, especially since I doubt anything could actually improve. I keep telling myself that I’m just needy and out of control, which makes me defensive when I think about therapy. It feels safer to joke around or avoid the topic altogether than to face what’s really going on with me."
+        "client_reasoning": "Honestly, I’m aware that my finances are a mess, but it’s just easier to think about my friends' crises. If I start talking about my money, it feels like I’m opening up a can of worms that I’m not ready to deal with. I’ve been feeling so overwhelmed with work, Chet being gone, and now my birthday approaching—it all just feels like too much. I sometimes think maybe if I ask my parents for help, it could take some pressure off me. But even that feels uncomfortable; I don’t want to burden them. I guess I just feel like nothing I do will really change my situation. Therapy seems daunting, and I worry that if I let my guard down, I’ll have to confront things I’d rather ignore. It feels safer to joke about how stressed I am than actually face the weight of it all.",
+        "progress_marker": "Client starts to express feelings about financial stress and relationships without directly addressing the need for change."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; Therapist objective not met as they haven't fully explored Riley's feelings about financial stress. Client objective not met as Riley is still avoiding discussing their personal issues.",
-          "client_utterance": "I've been thinking about my friends a lot lately. They have so many problems, and I feel like I need to be there for them. It's just easier to focus on their crises instead of my own, you know?",
-          "therapist_utterance": "It sounds like you feel a strong sense of responsibility to support your friends during their tough times. I can see how that might feel more manageable than dealing with your own financial stress. What do you think your feelings are about putting your own needs aside for your friends?",
-          "therapist_use": "Reflective Listening: validated Riley's feelings of responsibility and encouraged exploration of their impact."
+          "reason_for_ending": "KEEP: Therapist objective not met because they did not sufficiently explore Riley's feelings about their financial situation. Client objective not met as Riley remains hesitant to discuss deeper feelings.",
+          "client_utterance": "I guess I’m just trying to focus on everything else, like my friends, instead of my money issues. It feels like if I start thinking about it, I’d just get overwhelmed, especially with my birthday coming up. I don’t want to bring my parents into this, even though I sometimes think about asking them for help.",
+          "therapist_utterance": "It sounds like you're feeling stressed about your finances and the demands from your friends. It’s understandable to want to avoid opening up about these issues, especially with your birthday approaching. What do you think might happen if you did talk about your financial situation with your parents?",
+          "therapist_use": "Reflective Listening: validated Riley's feelings of overwhelm and encouraged exploration of their situation."
         },
         {
-          "reason_for_ending": "KEEP; Therapist objective not met as they haven't sufficiently facilitated discussion about the emotional impact of Riley's avoidance. Client objective not met as Riley is still not addressing their own concerns.",
-          "client_utterance": "I guess I just don't want to feel needy or like I'm not handling things well. I keep thinking if I just help them, maybe it'll take my mind off my own problems. But sometimes I feel overwhelmed by it all.",
-          "therapist_utterance": "It's understandable that you don't want to feel needy. Helping others can sometimes be a way to distract ourselves from our own challenges. Can you tell me more about what being overwhelmed feels like for you?",
-          "therapist_use": "Expressing Empathy: acknowledged Riley's feelings of not wanting to appear needy while promoting reflection on their own feelings."
+          "reason_for_ending": "KEEP: Therapist objective not met as they did not fully develop the discrepancy between Riley's feelings of helplessness and their values. Client objective not met because Riley is still avoiding discussing their feelings in depth.",
+          "client_utterance": "I don’t know, maybe they’d just worry more. I hate feeling like a burden to them. I guess I really want to be independent, and asking for help feels like admitting I can’t handle things myself.",
+          "therapist_utterance": "It sounds like you value independence a lot, and that makes the idea of asking for help really challenging. It’s normal to feel like you should be able to manage everything on your own. How do you feel when you think about your financial situation in relation to that desire for independence?",
+          "therapist_use": "Developing Discrepancy: guided Riley to reflect on their values versus their current feelings."
         },
         {
-          "reason_for_ending": "KEEP; Therapist objective not met as they haven't explored the discrepancies in Riley's feelings about their own needs. Client objective not met as Riley continues to avoid deeper self-reflection.",
-          "client_utterance": "Overwhelmed? It's like I have this cloud of stress hanging over me, but I just think it’ll go away if I ignore it. I don’t want to face the reality of my finances or how I’m feeling about everything.",
-          "therapist_utterance": "It sounds like you're feeling a lot of pressure, almost like you're carrying this cloud around. Ignoring it might seem easier, but it seems to be affecting your overall well-being. What do you think would happen if you started to confront those feelings instead?",
-          "therapist_use": "Developing Discrepancy: encouraged Riley to reflect on the consequences of avoidance versus addressing their feelings."
+          "reason_for_ending": "KEEP: Therapist objective not met as they did not sufficiently raise awareness of Riley's cognitive patterns. Client objective not met because Riley is still resisting discussing their financial stress openly.",
+          "client_utterance": "I guess it just feels like I’m stuck in this loop. I try to be responsible, but there's always more piling up, and it’s hard to see a way out. I know I should probably do something, but it just feels pointless sometimes.",
+          "therapist_utterance": "It seems like you're feeling trapped in your current situation, and that can be really frustrating. Sometimes it helps to take a step back and look at what's going on without judgment. What do you think might happen if you take a closer look at your finances?",
+          "therapist_use": "Raising Awareness: encouraged Riley to reflect on their automatic thoughts regarding their situation."
         },
         {
-          "reason_for_ending": "KEEP; Therapist objective not met as they haven't fully validated the potential benefits of addressing Riley's feelings. Client objective not met as Riley is still reluctant to confront their issues.",
-          "client_utterance": "I don't know... confronting it just feels like it would make everything worse. I’m already dealing with so much at work, and I don't think I can handle more pressure from my own problems.",
-          "therapist_utterance": "It makes sense that facing your feelings feels daunting, especially with everything else on your plate. It's okay to feel that way. What if we took it one small step at a time? Would that feel more manageable?",
-          "therapist_use": "Expressing Empathy: acknowledged Riley's concerns about confronting their feelings while suggesting a gentler approach."
+          "reason_for_ending": "KEEP: Therapist objective not met as they didn’t provide enough support for Riley's emotional exploration. Client objective not met as Riley continues to express avoidance.",
+          "client_utterance": "I don’t know, it feels like opening up a can of worms. I mean, if I start to really think about it, I might just spiral. I’d rather focus on my friends’ issues; at least I can help them.",
+          "therapist_utterance": "It’s understandable that you want to focus on your friends; helping them might feel more manageable than facing your own concerns. Your feelings about their crises might also be a way to distract from your own stress. How do you feel when you think about putting your own needs first?",
+          "therapist_use": "Expressing Empathy: acknowledged Riley's feelings of overwhelm and their tendency to prioritize others."
         },
         {
-          "reason_for_ending": "KEEP; Therapist objective not met as they haven't sufficiently elicited Riley's thoughts on taking small steps. Client objective not met as Riley remains resistant to discussing their personal challenges.",
-          "client_utterance": "I guess taking small steps could be okay. But I still feel like I'm not ready to really face my issues. It's just so much easier to put it off.",
-          "therapist_utterance": "It's completely normal to feel that way. Sometimes, just acknowledging that you're not ready is a step in itself. How do you feel about exploring what 'small steps' might look like for you, even if you don't want to commit to them right now?",
-          "therapist_use": "Reflective Listening: validated Riley's feelings about readiness while inviting them to consider small steps without pressure."
+          "reason_for_ending": "KEEP: Therapist objective not met since they didn’t delve into the impact of Riley's avoidance on their well-being. Client objective not met as Riley remains reluctant to prioritize their own feelings.",
+          "client_utterance": "I feel guilty, to be honest. Like I shouldn't even think about my problems when everyone else is dealing with so much. I guess I just don't want to feel selfish.",
+          "therapist_utterance": "It sounds like you’re carrying a lot of guilt about your own needs in light of your friends' struggles. It's okay to acknowledge your feelings and to seek support for yourself. What would it mean for you to allow yourself to feel that way?",
+          "therapist_use": "Reflective Listening: validated Riley's guilt and encouraged them to explore their own needs."
         },
         {
-          "reason_for_ending": "KEEP; Therapist objective not met as they haven't prompted sufficient reflection on Riley's values versus their current avoidance. Client objective not met as Riley still feels uncomfortable with deeper self-exploration.",
-          "client_utterance": "Maybe thinking about small steps could help, but I still don't see my financial issues as that big of a deal. It feels more like just a part of life that I have to manage. My friends' issues seem more urgent.",
-          "therapist_utterance": "I hear you. It sounds like you see your financial situation as just another thing to manage, but your friends' crises feel more pressing. What do you think it would mean for you if you were to prioritize your own needs, even just a little?",
-          "therapist_use": "Developing Discrepancy: encouraged Riley to consider the importance of their own needs versus their perception of others' crises."
-        },
-        {
-          "reason_for_ending": "MOVE; Therapist objective met as they successfully facilitated reflection on Riley's needs and values. Client objective met as Riley expressed some willingness to consider their own feelings.",
-          "client_utterance": "I guess it would mean I care about myself and that I'm allowed to feel overwhelmed too. Maybe I can think about how I handle my finances and not just my friends' issues. It feels scary, but I can see why it might be worth it.",
-          "therapist_utterance": "That's a significant realization, Riley. Acknowledging your own needs is a strength, and it’s okay to allow yourself that space. Recognizing that you can be overwhelmed is a step towards understanding and managing your feelings more effectively.",
-          "therapist_use": "Expressing Empathy: reinforced Riley's insight about prioritizing their needs and validated their feelings of fear."
+          "reason_for_ending": "MOVE: Therapist objective met as they facilitated a deeper exploration of Riley's feelings and values. Client objective met as Riley expressed more about their emotional state.",
+          "client_utterance": "I guess it would mean letting go of some of that guilt. It’s just hard to think about putting myself first. But maybe I do need to consider what I really want for myself, even if it feels selfish.",
+          "therapist_utterance": "It’s a significant realization that you might need to prioritize your own feelings and needs. Allowing yourself to explore what you want could ultimately lead to feeling less overwhelmed. How do you envision taking a small step towards that?",
+          "therapist_use": "Developing Discrepancy: helped Riley recognize the importance of their own needs."
         }
       ]
     },
@@ -129,27 +117,30 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Riley's ambivalence about addressing financial issues while acknowledging their current emotional demands.",
+          "objective": "Explore and resolve ambivalence about change, enhance motivation and readiness for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Riley to share what they feel are the pros and cons of addressing their financial concerns.",
-                "Encourage Riley to express their fears about change, particularly regarding their financial situation and social obligations."
+                "Begin by acknowledging Riley's mixed feelings about change and validate their experience.",
+                "Ask open-ended questions to elicit Riley's thoughts on the pros and cons of addressing their financial issues.",
+                "Encourage Riley to express both sides of their ambivalence, including fears about change and desires for stability."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Riley to discuss any positive aspects of potentially addressing their financial issues.",
-                "Ask open-ended questions to help Riley articulate their values and how they may align with managing their finances more effectively."
+                "Facilitate a discussion about what change might look like for Riley and how it aligns with their values.",
+                "Use reflective listening to highlight any statements Riley makes that indicate a desire or need for change.",
+                "Encourage Riley to articulate their reasons for wanting to improve their financial situation."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussion",
               "instructions_for_therapist": [
-                "Facilitate a conversation on the differences between Riley's current behavior and their values, particularly around self-care and financial responsibility.",
-                "Use reflective listening to validate Riley's feelings while gently guiding them to consider the impact of their current choices."
+                "Guide Riley through a decisional balance exercise to weigh the benefits of changing versus staying the same.",
+                "Explore how their current behavior conflicts with their values and long-term goals, particularly regarding financial independence.",
+                "Summarize the discussion to reinforce insights gained and motivate further exploration."
               ]
             }
           ]
@@ -157,85 +148,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Guide Riley to create a list of pros and cons for asking for financial help from friends and family.",
-                "Discuss how these points reflect their core beliefs and fears."
-              ]
-            },
-            {
-              "technique_name": "Decatastrophizing",
-              "instructions_for_therapist": [
-                "Help Riley examine their automatic thoughts regarding financial irresponsibility by questioning the likelihood of catastrophic outcomes.",
-                "Encourage Riley to consider alternative scenarios that may arise from addressing their financial issues."
-              ]
-            },
-            {
               "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Encourage Riley to evaluate the evidence supporting their beliefs about being irresponsible or unlovable.",
-                "Discuss instances where they have successfully managed stress or received support from friends."
+                "Introduce the concept of Evidence-Based Questioning related to Riley's financial concerns.",
+                "Help Riley identify and articulate their negative automatic thoughts about financial responsibility.",
+                "Guide Riley to gather evidence for and against these thoughts, promoting a balanced perspective."
+              ]
+            },
+            {
+              "technique_name": "Cognitive Restructuring",
+              "instructions_for_therapist": [
+                "Assist Riley in exploring the assumptions behind their thoughts about financial irresponsibility.",
+                "Encourage Riley to reframe negative thoughts into more positive, realistic statements.",
+                "Work collaboratively with Riley to create alternative affirmations that foster self-efficacy and confidence."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To effectively support Riley in the contemplation phase, my clinical reasoning involves first addressing their ambivalence about confronting financial issues, which is crucial given their emotional resistance. I will employ Motivational Interviewing strategies, starting with exploring ambivalence to help Riley articulate their conflicting feelings about change. This aligns with their resistance profile, as they feel overwhelmed by social demands. I will elicit change talk by prompting them to discuss any positive outcomes they may envision from addressing their financial situation. Additionally, facilitating a decisional balance discussion will allow Riley to weigh their current behavior against their core values, enhancing their motivation for change. In tandem, I will integrate CBT techniques, such as Pros and Cons Analysis to help Riley systematically evaluate their thoughts about financial support and Decatastrophizing to challenge the catastrophic thinking associated with their fears. Finally, Evidence-Based Questioning will encourage them to critically assess their beliefs of being irresponsible or unlovable, ultimately fostering self-efficacy and insight into their situation.",
-        "progress_marker": "Riley begins to articulate the pros and cons of addressing financial issues and expresses some willingness to explore their beliefs about self-responsibility."
+        "therapist_reasoning": "To assist Riley in the contemplation phase, I will first validate their ambivalence about financial issues, acknowledging both their desire for change and their fears. Using Motivational Interviewing strategies, I will explore their conflicting feelings by asking open-ended questions that prompt Riley to discuss the pros and cons of confronting their financial situation. This helps to elicit change talk, reinforcing their intrinsic motivation. Additionally, I will implement decisional balance discussions to highlight the discrepancy between their current behavior and values, guiding Riley to articulate reasons for change. Concurrently, I will employ CBT techniques like Evidence-Based Questioning to help Riley challenge their negative automatic thoughts and gather evidence for and against these beliefs. This process encourages cognitive restructuring, allowing Riley to reframe their thoughts into more positive statements, thus enhancing self-efficacy. By maintaining a collaborative stance and respecting Riley's resistance, I aim to foster insight and motivation without pushing for action planning at this stage.",
+        "progress_marker": "Riley demonstrates increased willingness to explore financial issues, articulates reasons for change, and begins challenging negative beliefs about their financial situation."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my financial situation and relationships more openly.",
+        "client_objective": "I hope to better understand my feelings about financial stress and my relationships.",
         "client_state": {
-          "awareness": "I am starting to see that my financial issues and my friends' crises are connected to my feelings of being overwhelmed and unlovable.",
-          "motivation": "I want to change my situation, but I feel scared and unsure if I can really make it happen.",
-          "openness": "I am willing to share some of my thoughts and feelings, but I still find it easier to talk about my friends rather than my own problems.",
-          "resistance": "I often feel conflicted about addressing my issues, and I find myself avoiding them because it feels safer."
+          "awareness": "I'm starting to see that my financial situation and the demands from my friends are overwhelming me, but I'm not sure how to address it.",
+          "motivation": "I want to change and manage my stress better, but I feel stuck and unsure if I can actually make those changes.",
+          "openness": "I'm willing to talk about my feelings and experiences, but I often find myself avoiding the deeper issues.",
+          "resistance": "I still feel a strong urge to avoid discussing my financial troubles and prefer to focus on my friends' issues instead."
         },
-        "client_reasoning": "I’ve begun to realize that my financial situation is more serious than I wanted to admit. Looking at my bank balance and seeing it lower than expected made me feel anxious and scared. I know I should focus on my own problems rather than getting lost in my friends' issues, but it feels easier to talk about them. Part of me wants to change and take control of my finances, but I’m terrified of what that means for my relationships. Will I seem needy if I ask for help? I wonder if I’m just being irresponsible like my friend's husband, which makes me feel even more unlovable. Therapy is helping me reflect on these feelings, but I still hold back from fully committing to change because I doubt my ability to manage it all. I feel stuck between wanting to be responsible and fearing the effort it might take to change my situation.",
-        "progress_marker": "Client begins to articulate specific financial concerns and acknowledges emotional ties to relationships, indicating a shift toward deeper self-reflection."
+        "client_reasoning": "Lately, I've been starting to notice how my financial worries are really weighing me down. I realize that my bank balance being lower than I expected is just a part of a bigger issue. It feels like I'm constantly trying to keep up with my friends' needs while neglecting my own. I know I should be addressing my finances, but talking about their problems feels more comfortable. I feel conflicted because part of me wants to take charge and make some changes, but another part is scared that I'm not capable of managing everything on my own. What if I ask for help and feel even more vulnerable? Therapy is helping me reflect on these feelings, but I still have doubts about whether I can truly change my situation or if I’m just stuck in this cycle of stress and avoidance."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met because Riley hasn't fully explored the pros and cons of addressing financial issues. Client's objective not met as Riley is still avoiding discussing their own problems directly.",
-          "client_utterance": "I’ve been thinking about how asking my parents for help feels like admitting I can’t handle things. I know it would take some pressure off, but what if they think I'm just being irresponsible? I mean, my friends always seem to have their lives together, and I'm just stuck.",
-          "therapist_utterance": "It sounds like there's a lot of fear around how your parents might perceive you if you ask for help. It's understandable to worry about appearing irresponsible, especially when you see your friends managing their lives. What do you think would be the worst-case scenario if you did ask them for support?",
-          "therapist_use": "Exploring Ambivalence: encouraged Riley to articulate fears about seeking support and the potential perceptions of irresponsibility."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't fully explored Riley's ambivalence about financial issues. The client's objective was not met because Riley hasn't articulated their feelings about managing stress and relationships deeply enough.",
+          "client_utterance": "I'm starting to think that focusing on my friends might be a way to avoid my own issues. It’s like I’m trying to distract myself from the anxiety about my finances, but I know that’s not a solution. I feel overwhelmed by everything and don’t know where to start.",
+          "therapist_utterance": "It's understandable to feel overwhelmed when you're trying to manage your own issues while supporting your friends. What do you think might happen if you allow yourself to really consider your financial situation instead of avoiding it? Exploring those feelings could be a first step towards finding a solution.",
+          "therapist_use": "Open-ended question: to encourage Riley to reflect on their avoidance and consider the implications of addressing their financial situation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Riley hasn't articulated specific pros and cons yet. Client's objective not met since they are still hesitating to confront their feelings about financial support.",
-          "client_utterance": "I guess the worst-case scenario would be them thinking I'm a failure or that I’m not capable of being independent. But then again, I could really use the help to relieve some of my stress. It’s just hard to reconcile those thoughts.",
-          "therapist_utterance": "It’s really tough to balance those feelings of wanting support with the fear of judgment. What if we tried to break this down a bit? Can you think of any pros to asking for help that might outweigh those fears?",
-          "therapist_use": "Decisional Balance Discussion: facilitated conversation on weighing pros and cons of asking for help to help Riley critically assess their fears."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they need to help Riley articulate the pros and cons of addressing their financial issues. The client's objective was not met because Riley is still expressing uncertainty about confronting their feelings.",
+          "client_utterance": "I guess I worry that if I look at my finances, I’ll just feel worse. It’s easier to help my friends because I can see the impact of that. But maybe I should be worried about my own situation too, right?",
+          "therapist_utterance": "It's insightful that you're recognizing the potential impact of your financial situation on your well-being. What are some of the concerns you have about facing those financial issues? And what might be some benefits of addressing them?",
+          "therapist_use": "Exploring ambivalence: to help Riley consider both sides of confronting their financial issues."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Riley hasn’t fully articulated the pros yet. Client's objective not met since they are still conflicted and avoiding deeper self-reflection.",
-          "client_utterance": "Well, if I did ask for help, it might show that I’m taking control of my situation instead of pretending everything’s fine. That could feel empowering, but then I worry about how they'd react. I just don’t want to be seen as weak.",
-          "therapist_utterance": "Seeing asking for help as a form of empowerment is a crucial insight. It suggests that you recognize the need for support as part of being responsible, not weak. How do you think your friends might respond if you shared your struggles with them?",
-          "therapist_use": "Eliciting Change Talk: prompted Riley to discuss the potential positive aspects of addressing their financial issues and seeking support from friends."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't fully elicited change talk from Riley. The client's objective was not met as Riley has yet to express any concrete desires for managing their finances.",
+          "client_utterance": "I guess facing my financial situation could help me feel more in control. But I still have this fear that I won't be able to handle it, and I might just end up feeling worse. I really don’t want to add to my stress.",
+          "therapist_utterance": "It makes sense to fear that confronting your finances could lead to more stress, especially when you're already feeling overwhelmed. Let's consider what could happen if you took small steps to manage your finances. What would that look like for you?",
+          "therapist_use": "Decisional balance discussion: to help Riley visualize taking steps towards managing their finances and to explore potential outcomes."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Riley hasn't fully embraced the change talk yet. Client's objective not met as they are still holding back from committing to a plan.",
-          "client_utterance": "I think they would be surprised but maybe supportive. They all have their own problems, so I guess they might understand. But I still feel like I'm the one who should be strong for everyone else.",
-          "therapist_utterance": "It’s commendable that you want to be strong for others, but it's also important to acknowledge your own needs. You deserve support too, and it sounds like your friends could provide that if you let them in. What do you think would happen if you allowed yourself to show that vulnerability?",
-          "therapist_use": "Reflective Listening: validated Riley's feelings of wanting to be strong while encouraging them to consider the necessity of vulnerability."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't sufficiently reinforced Riley's intrinsic motivation to change. The client's objective was not met because Riley has still not articulated a desire for change.",
+          "client_utterance": "I think if I could manage my finances better, it might lessen my overall stress, but I just don’t know if I can do it. I feel like I’d be adding more to my plate, which is already too full. But part of me wants to feel more independent.",
+          "therapist_utterance": "It sounds like you're recognizing the potential benefits of managing your finances, which is an important step. What does independence mean to you in this context, and how might improving your financial situation contribute to that? Understanding this could help clarify your feelings.",
+          "therapist_use": "Eliciting change talk: to help Riley articulate their motivations for wanting to improve their financial situation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Riley is still hesitant to fully explore the impact of vulnerability. Client's objective not met as they are still conflicted and not fully ready to confront their issues.",
-          "client_utterance": "I guess if I showed vulnerability, it might strengthen my relationships. But what if they don't reciprocate? That thought scares me, and I end up thinking it's easier to stay quiet.",
-          "therapist_utterance": "It's understandable to fear that vulnerability might not be reciprocated, especially in a time of crisis. However, opening up could also lead to deeper connections and understanding. What would it mean for you to take that risk, even a little bit?",
-          "therapist_use": "Decatastrophizing: helped Riley examine the likelihood of negative outcomes from showing vulnerability and encouraged them to consider alternative scenarios."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they need to further guide Riley through a decisional balance discussion. The client's objective was not met because Riley has not fully committed to exploring their financial responsibilities.",
+          "client_utterance": "Independence means not having to rely on others, but it’s hard when I feel like I’m still struggling. I guess I want to be seen as capable, but I also feel like I need support. It’s just confusing.",
+          "therapist_utterance": "It’s completely normal to feel confused about needing support while also wanting to be independent. Let's weigh the pros and cons of seeking support versus trying to handle everything on your own. What are some potential benefits of reaching out for help?",
+          "therapist_use": "Decisional balance discussion: to further explore the benefits and drawbacks of Riley seeking support versus remaining independent."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Riley is still focusing on fears rather than exploring potential positive outcomes. Client's objective not met as they are still struggling to address their own issues.",
-          "client_utterance": "Taking that risk could mean I’m allowing myself to be real with them, but it still feels so daunting. I just want to make sure I don’t burden them, especially with what they’re dealing with. I don’t know if I can handle that right now.",
-          "therapist_utterance": "It's perfectly valid to feel daunted by the idea of burdening others, especially when they are struggling. However, mutual support can often lighten both parties' loads. How might you frame your feelings to your friends in a way that emphasizes openness and sharing rather than burdening?",
-          "therapist_use": "Evidence-Based Questioning: encouraged Riley to evaluate their beliefs about burdening friends and consider how sharing could foster mutual support."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't reinforced insights gained from the discussion. The client's objective was not met because Riley has not yet articulated a clear path forward.",
+          "client_utterance": "I can see that reaching out for help could relieve some pressure, but I still feel that pull towards keeping everything to myself. I want to be strong, but sometimes it feels like too much. Maybe I need to rethink what strength really looks like.",
+          "therapist_utterance": "Recognizing that strength can also mean asking for help is a significant insight. It shows you’re starting to challenge your previous beliefs about independence and vulnerability. How can we build on that realization to help you feel more empowered moving forward?",
+          "therapist_use": "Reflection and reinforcement: to validate Riley's insight about strength and vulnerability, promoting self-efficacy."
         },
         {
-          "reason_for_ending": "MOVE: Therapist's objective met as Riley is beginning to articulate fears and potential positive aspects of addressing their finances. Client's objective met as they are open to exploring their feelings more deeply and considering their relationships.",
-          "client_utterance": "I think if I expressed my feelings honestly, it might even help my friends feel less alone. I’ve been so focused on their problems that I forgot we could all support each other. Maybe I can start with small steps and see how it goes.",
-          "therapist_utterance": "That's a significant realization, Riley! It sounds like you're starting to see the potential for shared support among friends. Taking those small steps could lead to a healthier balance between your needs and theirs. What might be the first step you feel ready to take?",
-          "therapist_use": "Change Talk: Riley articulating a willingness to take small steps indicates a shift towards commitment and a deeper understanding of their relationships."
+          "reason_for_ending": "MOVE - The therapist's objective was met as they successfully helped Riley articulate their feelings and potential for change. The client's objective was met as Riley has begun to explore their feelings about financial stress and relationships more deeply.",
+          "client_utterance": "I think I’m ready to at least think about talking to my parents about my finances. It feels scary, but I also see how not addressing it is just making everything worse. I want to feel lighter and more in control.",
+          "therapist_utterance": "That’s a courageous step to consider reaching out to your parents about your finances. Acknowledging the fear but still wanting to take action shows growth in your readiness to face these challenges. How do you envision this conversation going, and what support would you need to prepare for it?",
+          "therapist_use": "Change talk elicitation: to reinforce Riley's willingness to explore change and prepare for action."
         }
       ]
     },
@@ -244,27 +229,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Riley's commitment to change and enhance self-efficacy by exploring motivations and supports.",
+          "objective": "Strengthen Riley's commitment to taking action regarding financial management and social interactions.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Riley to articulate specific reasons for wanting to improve their financial situation and manage social demands.",
-                "Encourage Riley to express how they envision their life post-change, focusing on positive outcomes."
+                "Encourage Riley to articulate their reasons for wanting to improve their financial situation.",
+                "Ask open-ended questions that prompt Riley to express their commitment, such as 'What will it mean for you to take control of your finances?'",
+                "Reflect back their statements of commitment to reinforce their motivation."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss with Riley their feelings about their ability to manage finances and social obligations.",
-                "Utilize scaling questions (e.g., 'On a scale of 1-10, how confident do you feel about addressing your financial situation?') to gauge readiness."
+                "Ask Riley to rate their confidence in managing their finances on a scale from 1 to 10.",
+                "Explore what would increase their confidence, prompting them to identify specific skills or supports they can leverage.",
+                "Discuss previous successes in managing responsibilities to enhance their belief in their abilities."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Riley identify friends or family who can provide emotional or financial support.",
-                "Explore potential community resources or financial advice services that could assist them."
+                "Help Riley identify people in their life who can support them in their journey, such as family or friends.",
+                "Discuss potential resources for financial planning, including budgeting apps or workshops.",
+                "Encourage Riley to consider how they might ask for help in a way that feels comfortable."
               ]
             }
           ]
@@ -272,85 +260,66 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Behavior Experiment",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Collaborate with Riley to design a small experiment where they review their finances for just 10 minutes.",
-                "Encourage them to record their thoughts and feelings before and after the experiment to highlight any changes or insights."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Facilitate a session where Riley identifies specific financial and social challenges they face.",
-                "Guide them in brainstorming practical, step-by-step solutions, focusing on one small change at a time."
-              ]
-            },
-            {
-              "technique_name": "Action Planning",
-              "instructions_for_therapist": [
-                "Work with Riley to outline a clear and realistic weekly action plan, incorporating one financial review and one social interaction.",
-                "Ensure the goals are specific, measurable, achievable, relevant, and time-bound (SMART)."
+                "Introduce the concept of Evidence-Based Questioning to help Riley challenge negative financial beliefs.",
+                "Guide Riley in identifying negative thoughts and gathering evidence both for and against these thoughts.",
+                "Encourage them to reframe negative thoughts into balanced statements, leading to the development of a manageable action plan."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan, I first recognized Riley's ambivalence and emotional resistance regarding their financial issues and social demands. I utilized Motivational Interviewing (MI) strategies to explore and strengthen Riley's commitment to change, focusing on their reasons for wanting to improve their situation. By employing scaling questions, I can assess their confidence and readiness, which will guide our approach. Identifying supports will also empower Riley, addressing their feelings of helplessness. For Cognitive Behavioral Therapy (CBT), I chose a Behavior Experiment to gently expose Riley to their financial situation, allowing them to confront avoidance patterns. Problem-Solving Skills Training is crucial for empowering Riley to tackle specific challenges effectively, while Action Planning ensures that we set achievable, realistic goals collaboratively. This structured approach is designed to enhance Riley's self-efficacy while respecting their current readiness for change.",
-        "progress_marker": "Riley reports feeling more confident after completing the financial review and is able to articulate specific plans for social interactions."
+        "therapist_reasoning": "The first step in addressing Riley's ambivalence was to strengthen their commitment language through MI, utilizing open-ended questions to help them articulate why financial management is important to them. By exploring their confidence, I aimed to identify specific areas where Riley feels uncertain and help enhance their self-efficacy. Additionally, by identifying supports and resources, we can create a collaborative environment that encourages Riley to seek help, making change feel less daunting. In parallel, I implemented Evidence-Based Questioning from the CBT plan to challenge negative beliefs about money. This involves guiding Riley to gather evidence against their automatic thoughts, thereby reframing their perspectives on financial responsibility. By addressing both the emotional and cognitive components of their stress, I can help prepare Riley for actionable steps toward change, while ensuring the process feels manageable and supportive.",
+        "progress_marker": "Riley will create a budget and identify at least one support resource by the next session."
       },
       "client_plan": {
-        "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my financial situation and find practical steps to improve my well-being.",
-        "client_state": {
-          "awareness": "I recognize that my financial issues are impacting my stress levels significantly, and I need to address them to feel more stable.",
-          "motivation": "I'm feeling a stronger desire to make changes and improve my situation, especially with my birthday approaching and the pressure of financial expectations.",
-          "openness": "I'm willing to discuss my feelings and thoughts about my finances, but I still find it easier to talk about my friends' problems instead.",
-          "resistance": "I feel some hesitation about confronting my financial issues head-on, fearing that I might not be able to handle the changes or that I’ll let others down."
-        },
-        "client_reasoning": "I've come to realize that my current financial situation is making me feel anxious and overwhelmed. I understand that if I don't address these issues, they will continue to affect my mental health and my relationships with others. Change seems necessary, especially with my birthday coming up and the thought of asking my parents for help. I hope that by talking through these issues in therapy, I can find some clarity and practical steps to improve my situation. Yet, I still have doubts about whether I can maintain those changes and whether I'm capable of managing the stress. Sometimes, it feels easier to focus on my friends' problems instead of facing my own, which makes me question my commitment to change. Still, I feel a growing motivation to take control of my life and make my needs a priority.",
-        "progress_marker": "Increased clarity about financial issues and a willingness to discuss solutions."
+        "awareness": "I recognize that my financial troubles and the emotional demands from my friends are overwhelming me, and I need to address these issues.",
+        "motivation": "I feel a strong desire to change my situation and am starting to believe that I can find solutions.",
+        "openness": "I am willing to discuss my feelings and thoughts with my therapist, though I still find it easier to focus on others' problems.",
+        "resistance": "I experience doubts about my ability to manage these changes and fear that I might fail, which sometimes makes me hesitant."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not fully explore Riley's motivations for wanting to improve their financial situation. The client's objective was not met because Riley has not yet articulated specific reasons for change.",
-          "client_utterance": "I keep thinking about how asking for help might ease some of my stress, especially with my birthday coming up. But it feels like a big step, and I’m not sure if I’m ready to actually do it. Sometimes, I wonder if my parents would really understand what I’m going through.",
-          "therapist_utterance": "It sounds like you're feeling a mix of anticipation and uncertainty about asking for help. Acknowledging that your birthday is coming up adds another layer of pressure. Can you share what it would mean for you if you did ask your parents for support?",
-          "therapist_use": "Open-ended question: used to encourage exploration of Riley's feelings about asking for help."
+          "reason_for_ending": "KEEP: Therapist objective not met due to insufficient exploration of supports for financial management. Client objective not met as they did not identify specific action steps.",
+          "client_utterance": "I’ve been thinking more about how overwhelming it is to handle everything on my own, especially with finances. I know I need to talk to my parents, but it's still daunting. I do want to feel more in control, but I’m not sure where to start.",
+          "therapist_utterance": "It’s great that you’re recognizing the need for support, and wanting to feel in control is a strong motivator. What specific steps do you think could help you feel more prepared to talk to your parents about your financial situation? Let’s explore any resources or supports you might have that could assist you in this process.",
+          "therapist_use": "Open-ended question: used to encourage exploration of actionable steps and supports."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met since they have not yet helped Riley articulate how they envision their life post-change. The client's objective was not met as Riley hasn't yet identified practical steps towards improving their situation.",
-          "client_utterance": "If I asked them, it could relieve some pressure, but I’m still worried they might think I'm not capable. I can see that there are some positives, but I still feel hesitant. It would be nice to feel supported, though.",
-          "therapist_utterance": "It's great that you're recognizing the potential positives of support, even amidst your hesitation. Feeling supported can indeed make a difference in navigating your challenges. What do you think life could look like if you felt less stressed about financial issues?",
-          "therapist_use": "Scaling question: used to gauge Riley's readiness and help envision a positive outcome."
+          "reason_for_ending": "KEEP: Therapist objective not met as the client did not articulate their reasons for wanting to improve their financial situation. Client objective not met because they haven't yet identified a support resource.",
+          "client_utterance": "I think maybe I could use budgeting apps to help keep track of my expenses. I’ve heard of a few, but I’m not sure if I’d use them consistently. Also, it feels like I should be able to manage this without too much help.",
+          "therapist_utterance": "That’s a good start! Budgeting apps can really help provide structure and clarity. It’s understandable to want to manage things independently, but having a little support can make a big difference. Who in your life do you think could support you while you get started with these tools?",
+          "therapist_use": "Strengthening Commitment Language: encouraged the client to explore resources while reinforcing their desire for independence."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met, as they did not yet identify specific supports that could help Riley. The client's objective was not fully met because Riley still hasn't articulated practical steps to improve their well-being.",
-          "client_utterance": "I guess if I felt less stressed, I could be more present for my friends and not feel so overwhelmed by everything. Maybe I could even enjoy my birthday without this cloud hanging over me. But I still have this nagging thought that I'm letting everyone else down.",
-          "therapist_utterance": "It's understandable to have that nagging thought, especially when you're used to being there for others. You deserve to enjoy your birthday and feel free from that cloud. Who in your life do you think might be able to help support you in this process?",
-          "therapist_use": "Identifying supports: used to empower Riley by exploring who could provide emotional or financial support."
+          "reason_for_ending": "KEEP: Therapist objective not met as the client has not fully articulated their commitment to improving their financial situation. Client objective not met because they haven’t recognized the need for consistent support.",
+          "client_utterance": "I guess I could ask a friend who is good with finances for help. But I worry about bothering them, especially since they’re also going through stuff. It’s just hard to balance asking for help and wanting to be self-sufficient.",
+          "therapist_utterance": "It’s understandable to feel hesitant about reaching out, especially when others are dealing with their own challenges. However, asking for help doesn’t diminish your independence; it can actually create a supportive network for both of you. How would it feel to approach this friend and explain your situation?",
+          "therapist_use": "Exploring Confidence and Readiness: aimed to increase the client's comfort level in reaching out for support."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because they haven't yet guided Riley in creating a clear action plan. The client's objective was not fully met as Riley has not yet outlined specific steps to improve their situation.",
-          "client_utterance": "I can think of a couple of friends who might understand what I'm going through, but I still worry about burdening them. It feels easier to keep my problems to myself, especially when they are going through their own things. But I know I need to do something.",
-          "therapist_utterance": "It's completely normal to feel hesitant about reaching out, especially when your friends have their own struggles. However, sharing your feelings could strengthen your connections. Let's brainstorm some small steps you might take to start this process.",
-          "therapist_use": "Problem-solving skills training: used to facilitate brainstorming of small, manageable steps toward reaching out for support."
+          "reason_for_ending": "KEEP: Therapist objective not met as they did not reinforce the client's commitment sufficiently. Client objective not met; the client has not yet expressed clear commitment to taking action.",
+          "client_utterance": "I think I’d feel nervous about talking to my friend. I don’t want to seem like I’m just dumping my problems on them. But maybe if I approach it as a conversation about support, it could be different.",
+          "therapist_utterance": "That's a thoughtful way to frame it. Approaching the conversation as sharing rather than dumping can help both you and your friend feel more comfortable. What might you say to invite that kind of supportive dialogue?",
+          "therapist_use": "Reflective listening: validated the client's concerns while encouraging a more positive approach to seeking support."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not yet develop a detailed action plan with Riley. The client's objective was not fully met because Riley has not yet committed to specific actions.",
-          "client_utterance": "Maybe I could text one of my friends and just say I'm having a tough time. It feels like a small step, but it still scares me. I think if I could just start with that, it might lead to more conversations.",
-          "therapist_utterance": "That sounds like a solid first step, Riley. Texting a friend can be a gentle way to open up, and it could lead to a supportive conversation. What does your action plan look like for taking that step this week?",
-          "therapist_use": "Action planning: used to help Riley outline a specific and achievable goal for reaching out to a friend."
+          "reason_for_ending": "KEEP: Therapist objective not met as they did not help the client clarify their goals for the conversation. Client objective not met since they have not yet committed to a specific action step.",
+          "client_utterance": "I could say something like, 'I've been feeling overwhelmed with finances and could really use your perspective.' But what if they can't help? I fear it might make things worse.",
+          "therapist_utterance": "That sounds like a strong opening, and it's good that you're thinking about possible outcomes. If your friend is unable to help, what other resources or options could you consider? It’s important to have a backup plan to ease any potential worries.",
+          "therapist_use": "Identifying Supports and Resources: encouraged exploration of alternatives to reduce anxiety about reaching out."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not fully confirm whether Riley feels confident in the action plan. The client's objective was not met because Riley has not yet expressed a clear commitment to the plan.",
-          "client_utterance": "I think I can commit to texting my friend. I still feel nervous, but I want to try and see how it goes. Maybe I can write down what I want to say before I send the message.",
-          "therapist_utterance": "That's a great approach! Writing down your thoughts can help clarify what you want to convey and ease some of that nervousness. How confident do you feel about following through with this plan on a scale from 1 to 10?",
-          "therapist_use": "Scaling question: used to assess Riley's confidence in executing the action plan."
+          "reason_for_ending": "KEEP: Therapist objective not met as they did not fully reinforce the client’s commitment to action. Client objective not met because the client has not yet expressed confidence in their ability to reach out for help.",
+          "client_utterance": "I suppose I could look into those budgeting apps first and maybe even write down my thoughts before talking to my friend. That might help me feel more prepared. But I still feel hesitant about everything.",
+          "therapist_utterance": "Those are excellent steps! Writing down your thoughts can help clarify your feelings and prepare you for the conversation. It’s normal to feel hesitant, but you’re making progress by considering these actions. What would make you feel more confident about reaching out for help?",
+          "therapist_use": "Exploring Confidence and Readiness: aimed to boost the client's self-efficacy by discussing preparation methods."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective was met as they effectively guided Riley toward developing a concrete action plan and eliciting confidence. The client's objective was met because Riley articulated a commitment to taking action on their financial situation and social interactions.",
-          "client_utterance": "I feel like I'm at a 7 in terms of confidence. I know it’s still scary, but I really want to do this for myself. I can see how making this connection could help me feel better.",
-          "therapist_utterance": "That's a solid level of confidence, Riley! Your desire to take action for yourself is a significant step forward. It sounds like you're ready to embrace this change and start opening up to your friends.",
-          "therapist_use": "Affirmation: used to reinforce Riley's commitment and readiness for change."
+          "reason_for_ending": "MOVE: Therapist objective met as they reinforced the client's commitment and identified steps for action. Client objective met as the client articulated their plans for budgeting and seeking support.",
+          "client_utterance": "I feel like I can take these steps, even if they’re small. Preparing beforehand makes it feel less overwhelming. I’m starting to see that asking for help doesn’t mean I’m failing; it’s just part of managing my life better.",
+          "therapist_utterance": "That’s a fantastic realization! Taking small steps can lead to significant changes, and it’s great that you’re redefining what asking for help means for you. You have a plan to start managing your finances, and that’s a huge step forward. How does it feel to think about these changes?",
+          "therapist_use": "Double-sided reflection: validated the client’s progress while reinforcing their commitment to action."
         }
       ]
     }

@@ -12,30 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and help Evan explore his feelings of inadequacy and vulnerability without pushing for immediate change.",
+          "objective": "Build rapport and increase Evan's awareness of his feelings and beliefs about vulnerability and seeking help.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Evan's concerns and feelings.",
-                "Reflect back what he shares to validate his emotions and encourage him to explore them further.",
-                "Use phrases like 'It sounds like you feel...' to help him articulate his thoughts more clearly."
+                "Use reflective statements to acknowledge Evan's feelings of inadequacy and fear of judgment.",
+                "Paraphrase his concerns to validate his emotions and create a safe space for him to express himself."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Evan's feelings of shame and embarrassment regarding his financial struggles.",
-                "Communicate understanding and compassion for his situation, emphasizing that it's common to feel overwhelmed.",
-                "Reassure him that emotions are valid and it's okay to discuss them."
+                "Convey understanding of Evan's situation by recognizing the pressure he feels to appear strong.",
+                "Reassure him that it's normal to feel overwhelmed and that discussing struggles can be beneficial."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently guide Evan to reflect on the difference between his current feelings of inadequacy and his values around honesty and vulnerability.",
-                "Encourage him to consider how his avoidance might conflict with his desire for genuine connections.",
-                "Ask open-ended questions to facilitate his exploration of these discrepancies."
+                "Gently explore the discrepancies between Evan's current behavior of avoidance and his deeper values of connection and support.",
+                "Ask open-ended questions that help Evan reflect on how his actions align with his values."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Encourage Evan to think about the potential benefits of being more open about his struggles.",
+                "Prompt him to consider how vulnerability might affect his relationships positively."
               ]
             }
           ]
@@ -43,87 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Identifying Automatic Thoughts",
               "instructions_for_therapist": [
-                "Encourage Evan to identify evidence that supports or contradicts his beliefs about being incompetent and unlovable.",
-                "Ask questions like 'What is the evidence that supports this belief?' and 'What might someone else say about this situation?'",
-                "Help him analyze the validity of his automatic thoughts related to his financial struggles."
+                "Guide Evan in recognizing specific automatic thoughts related to asking for help.",
+                "Facilitate discussion around thoughts such as 'I can't let anyone know I'm struggling financially.'"
               ]
             },
             {
-              "technique_name": "Alternative Perspective",
+              "technique_name": "Gathering Evidence",
               "instructions_for_therapist": [
-                "Invite Evan to consider how he would view a friend in a similar situation, emphasizing kindness and understanding.",
-                "Ask him to describe how he would support someone else who feels inadequate or ashamed.",
-                "Use this perspective to soften his self-criticism and foster self-compassion."
+                "Help Evan question the validity of his fears about seeking support.",
+                "Ask targeted questions to gather evidence that challenges his beliefs about vulnerability."
               ]
             },
             {
-              "technique_name": "Continuum Technique",
+              "technique_name": "Challenging Cognitive Distortions",
               "instructions_for_therapist": [
-                "Help Evan visualize his feelings and beliefs on a continuum rather than as absolutes.",
-                "Ask him to rate his feelings of inadequacy and helplessness on a scale from 0 to 10 and discuss what might represent a 5 or 6.",
-                "Facilitate a discussion on how those feelings might fluctuate and are not fixed."
+                "Encourage Evan to explore alternative perspectives on vulnerability and support.",
+                "Discuss counter-evidence to his automatic thoughts to promote cognitive flexibility."
+              ]
+            },
+            {
+              "technique_name": "Creating Reframed Thoughts",
+              "instructions_for_therapist": [
+                "Collaborate with Evan to develop more balanced thoughts regarding vulnerability.",
+                "Guide him to reframe negative thoughts into more compassionate self-statements."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this pre-contemplation phase, the focus is on building rapport and increasing Evan's awareness of his cognitive and emotional patterns. I chose MI strategies like reflective listening and expressing empathy to create a safe environment for him to share his feelings without fear of judgment. Developing discrepancy will help him explore the incongruence between his current feelings of inadequacy and his deeper values, encouraging curiosity about his situation. In terms of CBT, evidence-based questioning is essential for Evan to critically examine his core beliefs about being incompetent. By challenging these beliefs, we can open the door to alternative perspectives that foster self-compassion. The continuum technique will allow him to see that feelings of inadequacy exist on a spectrum, reducing the pressure of feeling absolute helplessness. This approach respects his resistance level and emotional withdrawal, ensuring he feels understood and not pressured to change immediately.",
-        "progress_marker": "Evan begins to articulate his feelings and thoughts more openly, showing signs of increased self-awareness and curiosity about his beliefs."
+        "therapist_reasoning": "To effectively engage Evan in the Pre-contemplation phase, I will prioritize building rapport and fostering awareness of his internal struggles. I will begin by using reflective listening to validate his feelings of inadequacy and fear of judgment, which allows him to feel heard and understood. Expressing empathy will help him feel safe in sharing his vulnerabilities. I will then gently explore discrepancies between his avoidance behaviors and his values regarding connection, encouraging him to reflect on how his actions may not align with what he truly desires. By raising awareness, I will prompt Evan to consider the benefits of vulnerability and support. In parallel, I will implement CBT techniques to identify his automatic thoughts, particularly those related to seeking help. This will involve gathering evidence to challenge these thoughts and encourage cognitive flexibility. By collaboratively creating reframed thoughts, I aim to instill a more compassionate perspective. Overall, the focus will remain on awareness and engagement without pushing for immediate behavioral changes, respecting his current resistance levels.",
+        "progress_marker": "Evan expresses a willingness to reflect on his thoughts and feelings without feeling pressured to change his behavior."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to find a way to talk about my issues without feeling judged or exposed.",
+        "client_objective": "I just want to get through this session without having to confront my issues too deeply.",
         "client_state": {
-          "awareness": "I don't really see my situation as a problem; it's just how things are.",
-          "motivation": "I don't feel a strong desire to change; it seems pointless.",
-          "openness": "I'm not comfortable sharing my thoughts and feelings; it feels risky.",
-          "resistance": "I feel a strong urge to avoid discussing my struggles."
+          "awareness": "I don't really see my situation as a problem; everyone has financial issues, right?",
+          "motivation": "I'm not really interested in changing anything; I just want to maintain my facade.",
+          "openness": "I'm not comfortable sharing my true feelings or struggles; it's safer to keep it all inside.",
+          "resistance": "I'm very defensive about discussing my situation; I feel like I have to protect myself."
         },
-        "client_reasoning": "I know I should probably be more open about what I'm going through, but every time I think about it, I feel this wave of anxiety. It's like a voice in my head telling me that if I let anyone in, they'll just see me as weak or incompetent. I don’t want to face the possibility of being judged or losing respect from others, especially after my business failed. It’s easier to mask my struggles with stories of success, even if they’re not true. Talking about my financial issues or feelings of inadequacy feels like opening a door to vulnerability, and I’ve always been taught that being vulnerable is a bad thing. I just want to keep things under control, even if it means putting up a facade. Therapy feels like a risky space for me, but I guess I’m here because part of me wonders if there’s something better out there, even if I can’t quite believe it yet."
+        "client_reasoning": "I see my financial struggles as something that everyone deals with, so why should I make a big deal out of it? If I start talking about it, people might judge me or think less of me, and I can't handle that kind of vulnerability. It feels safer to just keep pretending everything is fine and to keep up this performance I've created. I know I should probably be more open, but I can't shake this feeling that discussing my problems will only lead to more shame and embarrassment. Therapy feels uncomfortable because it forces me to confront feelings that I’ve spent so long trying to suppress. I'd rather just hide behind my stories of success, even if they're not true, than risk being seen as weak or incompetent. Change feels impossible, and I don't want to face that reality right now."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective of building rapport and exploring feelings was not fully met as Evan still feels hesitant. The client's objective of discussing issues without feeling judged has not been sufficiently addressed as he remains guarded.",
-          "client_utterance": "I don't really want to talk about my financial struggles. It feels like everyone will just see me as a failure. I guess I just try to keep it all together by pretending everything is fine.",
-          "therapist_utterance": "It sounds like you feel a lot of pressure to appear successful and that discussing your struggles feels risky. I can imagine it must be difficult to feel that way, especially after facing setbacks. It's completely okay to express those feelings here, and you won’t be judged for them.",
-          "therapist_use": "Reflective Listening: used to validate Evan's feelings and encourage him to share more."
+          "reason_for_ending": "KEEP; Therapist's objective was not met because Evan did not engage deeply with his feelings. Client's objective was not met as he still seeks to avoid confronting his issues.",
+          "client_utterance": "I mean, I guess everyone deals with financial issues at some point, right? I don’t really see what the big deal is. I just want to get through this without having to think about it too much.",
+          "therapist_utterance": "It sounds like you feel that financial struggles are quite common and not something that needs to be addressed too deeply. I understand where you're coming from, and it's okay to feel that way. But I'm here to support you in exploring these feelings if you ever feel ready.",
+          "therapist_use": "Reflective Listening: acknowledged Evan's perspective while showing willingness to explore further."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of fostering exploration of vulnerability was not met fully since Evan still avoids deeper discussion. The client's objective of feeling safe discussing his issues remains unmet as he continues to express discomfort.",
-          "client_utterance": "I just feel like if I let my guard down, people will think less of me. I’ve always been taught that showing weakness is unacceptable, so I can't help but keep everything inside.",
-          "therapist_utterance": "It seems like you’ve internalized a lot of those beliefs about vulnerability being a weakness. That must create a heavy burden for you to carry alone. What do you think it would be like to open up a bit, even just here in this space?",
-          "therapist_use": "Expressing Empathy: used to acknowledge Evan's feelings while inviting him to explore the idea of vulnerability."
+          "reason_for_ending": "KEEP; Therapist's objective was not met because Evan remains defensive and avoids deeper engagement. Client's objective was not met as he continues to resist delving into his feelings.",
+          "client_utterance": "I just feel like if I start talking about it, people will judge me or think I'm weak. It's safer to just keep pretending everything is fine. Why rock the boat when I can just keep up my performance?",
+          "therapist_utterance": "I hear you saying that keeping up appearances feels much safer than being vulnerable. It’s understandable to want to protect yourself from judgment. But what do you think could happen if you allowed yourself to be a little more open about your struggles?",
+          "therapist_use": "Expressing Empathy: recognized Evan's fear of judgment and the need for safety in his expression."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's goal to develop discrepancy hasn't fully pushed Evan to consider his feelings of inadequacy versus his values. The client still feels uncomfortable sharing and hasn't shifted his perspective on vulnerability.",
-          "client_utterance": "I guess I wonder if opening up could change anything. But I still think it wouldn't help because I've always just been seen as the strong one. It's hard to imagine people accepting me if I show them my flaws.",
-          "therapist_utterance": "It sounds like there's a conflict between how you want to be seen and how you truly feel inside. Exploring that could be a step towards feeling more authentic in your relationships. What do you think is at stake for you if you were to show just a little of that vulnerability?",
-          "therapist_use": "Developing Discrepancy: used to help Evan reflect on the incongruence between his current feelings and his values."
+          "reason_for_ending": "KEEP; Therapist's objective was not met as Evan still does not see the value in discussing his struggles. Client's objective was not met since he remains focused on maintaining his facade.",
+          "client_utterance": "I just don’t see the point in talking about it. Everyone has their problems, and I don’t want to be seen as someone who can't handle things. It's just easier to keep it all inside.",
+          "therapist_utterance": "It seems like you're feeling that sharing your issues might make you appear weak, which is a heavy burden to carry. I can understand why you would want to keep things inside. What if there was a different way to look at sharing your struggles, perhaps as a way to connect with others?",
+          "therapist_use": "Developing Discrepancy: explored the conflict between Evan's avoidance and his desire for connection."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective to help Evan recognize the validity of his feelings was not fully achieved. The client is still resistant to discussing his feelings openly and hasn't made significant progress towards feeling safe.",
-          "client_utterance": "I mean, I know I shouldn't care what others think, but it’s hard. I just feel so inadequate sometimes, especially after my business went under. It feels like I'm stuck in this cycle of shame.",
-          "therapist_utterance": "It’s understandable to feel that way, especially after such a significant setback. Those feelings of inadequacy are really tough to deal with, and it’s okay to acknowledge them. What if we looked at this cycle together and explored some of the evidence around those feelings?",
-          "therapist_use": "Evidence-Based Questioning: used to encourage Evan to critically examine his beliefs about inadequacy."
+          "reason_for_ending": "KEEP; Therapist's objective was not met because Evan is still resistant to the idea of sharing. Client's objective was not met as he continues to avoid deeper reflection.",
+          "client_utterance": "I don't know, it just feels like a risk. What if people think less of me? I’ve spent so much time building this image; it feels impossible to change that now.",
+          "therapist_utterance": "It's completely valid to feel that way; change can feel daunting, especially when you've invested so much in your current image. But I'm here to help you think through what that change might look like and how it could benefit you. What would it look like to take a small step towards being more open?",
+          "therapist_use": "Raising Awareness: encouraged Evan to consider the benefits of vulnerability and openness."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's goal of facilitating Evan's self-exploration is ongoing but not yet at a breakthrough. The client still feels anxious about sharing and hasn't moved toward openness.",
-          "client_utterance": "I guess I could try to think about things differently. Maybe if I looked at what I would say to a friend in my situation, I'd be kinder. But it still feels risky.",
-          "therapist_utterance": "That’s a great insight, Evan. Considering how you would support a friend can sometimes reveal a gentler perspective on our own struggles. How would you approach a friend who feels inadequate? What would you say?",
-          "therapist_use": "Alternative Perspective: used to help Evan soften his self-criticism by considering a friend’s perspective."
+          "reason_for_ending": "KEEP; Therapist's objective was not met as Evan hasn't reflected on steps toward openness. Client's objective was not met since he still aims to avoid confrontation.",
+          "client_utterance": "I guess I could think about it, but I'm just not ready to actually do anything. It’s all too overwhelming to me right now.",
+          "therapist_utterance": "I appreciate your honesty about feeling overwhelmed. It's perfectly okay to take your time and reflect without feeling pressured to act. What if we just explore your thoughts together without any expectation to change anything right now?",
+          "therapist_use": "Reflective Listening: validated Evan's feelings of overwhelm and offered a non-pressuring space for exploration."
         },
         {
-          "reason_for_ending": "KEEP - While Evan is beginning to explore alternative perspectives, the therapist's goal of deepening self-awareness is still in progress. The client's objective of feeling safe to discuss remains partially met as he is still hesitant.",
-          "client_utterance": "I think I’d tell them that it’s okay to feel how they feel and that they’re not alone. But then I wonder if I can actually believe that for myself. I still feel this overwhelming fear of judgment.",
-          "therapist_utterance": "It sounds like you’re starting to recognize the compassion you can offer to yourself, just like you would to a friend. That fear of judgment is understandable, but remember that this space is for you to explore those feelings without judgment. What might it look like to practice that self-compassion more often?",
-          "therapist_use": "Continuum Technique: used to help Evan visualize feelings on a spectrum, reducing the feeling of absoluteness."
+          "reason_for_ending": "KEEP; Therapist's objective was not met since Evan is still hesitant to explore his feelings. Client's objective was not met as he is not ready to confront his issues.",
+          "client_utterance": "I can try that, but I really don’t want to dive too deep. I just want to keep it light and manageable.",
+          "therapist_utterance": "That sounds like a good approach; we can definitely keep our discussions light. It’s important that you feel comfortable here. What minor thoughts or feelings about your situation do you feel okay sharing right now?",
+          "therapist_use": "Challenging Cognitive Distortions: gently encouraged Evan to express minor feelings without deep pressure."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective of fostering self-exploration and awareness was met as Evan articulated his feelings more openly. The client's objective to talk about his issues without feeling judged was achieved as he engaged in deeper reflections.",
-          "client_utterance": "Maybe I could try to be a bit kinder to myself. It’s hard, but I can see how that could help me feel less alone in this. I might not be ready for big changes, but I can start with small steps.",
-          "therapist_utterance": "That’s a really positive realization, Evan. Taking small steps toward self-compassion can lead to profound changes over time. I'm glad to see you considering this approach, and it’s okay to take your time with it.",
-          "therapist_use": "Reflective Listening: used to validate Evan's progress while encouraging his thoughts on self-compassion."
+          "reason_for_ending": "MOVE; Therapist's objective was met as Evan engaged in some reflection about his feelings. Client's objective was met because he expressed a willingness to share even lightly.",
+          "client_utterance": "Alright, I suppose I could talk about some small things. Like, I sometimes wonder if people would actually care if I opened up a little.",
+          "therapist_utterance": "That’s a meaningful insight, Evan. It sounds like you’re starting to consider the possibility that people might be more supportive than you think. What are some small ways you could test that out?",
+          "therapist_use": "Gathering Evidence: encouraged Evan to explore the potential support from others while validating his concerns."
         }
       ]
     },
@@ -132,29 +140,36 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Evan's ambivalence about changing his coping strategies and increase his motivation for change.",
+          "objective": "To explore Evan's ambivalence about seeking help and to enhance his motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Encourage Evan to express both his desire for change and his fears about it.",
-                "Use open-ended questions to help him articulate what he values about changing his behavior.",
-                "Reflect on his feelings of inadequacy and how they contribute to his ambivalence."
+                "Begin the session by asking Evan to reflect on his feelings about seeking help versus managing on his own.",
+                "Encourage him to express both the pros and cons of asking for support from family and friends.",
+                "Validate his feelings and emphasize that it's normal to feel conflicted about change."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask Evan what he feels he might gain from being more open about his struggles.",
-                "Explore moments when he felt supported or accepted despite showing vulnerability.",
-                "Facilitate discussions on how change aligns with his core values."
+                "Prompt Evan to discuss any past experiences where he felt supported after being vulnerable.",
+                "Ask open-ended questions like, 'What might be possible for you if you chose to reach out for help?'",
+                "Listen actively and reflect back his statements that indicate a desire for change."
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Help Evan articulate his core values, such as connection and authenticity, and how they relate to his current behavior of avoidance.",
+                "Facilitate a discussion on the discrepancy between his values and his actions, emphasizing the impact of his avoidance on his relationships."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Help Evan list the pros and cons of continuing his current coping strategies versus considering a more open approach.",
-                "Encourage him to reflect on how each set of behaviors affects his emotional well-being."
+                "Guide Evan in weighing the benefits and drawbacks of continuing to hide his struggles versus being open about them.",
+                "Use a visual aid like a pros and cons list to facilitate this discussion and encourage reflection."
               ]
             }
           ]
@@ -162,85 +177,74 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Decatastrophizing",
+              "technique_name": "Challenge Automatic Thoughts",
               "instructions_for_therapist": [
-                "Guide Evan to identify his automatic thoughts about revealing his financial struggles.",
-                "Help him evaluate the likelihood and impact of these feared outcomes.",
-                "Encourage him to consider alternative, less catastrophic interpretations of revealing vulnerabilities."
+                "Identify and write down Evan's automatic thoughts related to his financial struggles and the fear of judgment.",
+                "Guide him in questioning the validity of these thoughts using evidence-based questioning.",
+                "Encourage Evan to consider alternative perspectives and reframe negative thoughts."
               ]
             },
             {
-              "technique_name": "Pros and Cons Analysis",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Assist Evan in creating a pros and cons list regarding his current behaviors of avoidance and performance.",
-                "Facilitate a discussion on how these behaviors align or conflict with his long-term goals and values."
+                "Collaborate with Evan to create balanced thoughts that reflect a more compassionate view of vulnerability.",
+                "Assist him in practicing these reframed thoughts in hypothetical conversations with friends or family."
               ]
             },
             {
-              "technique_name": "Evidence-Based Questioning",
+              "technique_name": "Emotional Reassessment",
               "instructions_for_therapist": [
-                "Encourage Evan to examine the evidence supporting his beliefs about being unlovable or inadequate.",
-                "Prompt him to identify instances where these beliefs were challenged or disproven."
+                "After discussing automatic thoughts, ask Evan to rate his emotional response before and after reframing.",
+                "Encourage him to reflect on any changes in feelings associated with the thoughts he has about seeking help."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Evan, the therapist first needs to acknowledge his ambivalence regarding change, which is evident in his conflicting feelings about vulnerability and the fear of losing respect. By employing Motivational Interviewing strategies, the therapist can facilitate a deeper exploration of Evan's ambivalence through open-ended questions, helping him articulate his desires and fears. This will also involve eliciting change talk to increase his motivation and working through decisional balance discussions to highlight the discrepancies between his values and current behaviors. Simultaneously, the therapist can utilize Cognitive Behavioral Therapy techniques, such as decatastrophizing to challenge his catastrophic thoughts about vulnerability, and pros and cons analysis to evaluate the effectiveness of his current coping strategies. Evidence-based questioning will help him confront his core beliefs, promoting cognitive restructuring. This combined approach will ensure a supportive environment that encourages Evan's self-reflection and insight, without pushing him prematurely into action planning, respecting his current readiness for change.",
-        "progress_marker": "Evan feels more open to discussing his struggles and begins to identify instances where vulnerability has led to positive outcomes in his relationships."
+        "therapist_reasoning": "In this session, I will first implement Motivational Interviewing strategies to explore Evan's ambivalence about seeking help. I'll encourage him to identify both the positives and negatives of asking for support, which will help him voice his internal conflict. This exploration will be complemented by eliciting change talk, prompting him to reflect on past experiences where vulnerability led to positive outcomes. By developing discrepancy between his values of connection and his current avoidance behavior, I aim to highlight the incongruence in his actions versus his desires. Next, decisional balance discussions will help him weigh the pros and cons of his current coping strategies. Concurrently, I will integrate Cognitive Behavioral Therapy interventions by challenging Evan's automatic thoughts regarding his financial struggles and the fear of judgment. By guiding him through these cognitive restructuring techniques, I will assist him in reframing negative thoughts, ultimately fostering a sense of empowerment. As he practices these new thought patterns, we will revisit his emotional responses to gauge progress and build confidence in his ability to change.",
+        "progress_marker": "Evan articulates specific instances of past vulnerability leading to support from others and begins to identify alternative thoughts about seeking help."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity about my struggles and understand the possibility of change.",
+        "client_objective": "I hope to explore my feelings of inadequacy and the pressure I feel to perform in social situations.",
         "client_state": {
-          "awareness": "I am starting to see that my need to perform and hide my vulnerabilities is causing more harm than good.",
-          "motivation": "I want to change, but I often feel scared and think about how my life could get worse.",
-          "openness": "I'm willing to discuss my feelings, but I still hesitate to share everything because I fear judgment.",
-          "resistance": "I find myself resisting change because the thought of being vulnerable makes me anxious and worried."
+          "awareness": "I am starting to see that my need to put on a facade to impress others is not working and might be causing more harm than good.",
+          "motivation": "I feel a small desire to change, but I am also scared of what that change would mean for my relationships and self-image.",
+          "openness": "I am somewhat willing to share my thoughts and feelings with my therapist, but I still hold back due to fear of judgment.",
+          "resistance": "I often find myself avoiding deeper discussions about my struggles, as I worry that acknowledging them will make me look weak."
         },
-        "client_reasoning": "Lately, I've been reflecting on how I've been coping with my financial struggles. I realize that taking out a loan instead of asking for help from my family was a way to avoid showing my vulnerability. I notice that I often feel the need to put on a facade, bragging about things I didn't even do to cover up my insecurities. I'm beginning to understand that my patterns of avoiding authenticity are contributing to my anxiety and feelings of inadequacy. However, the thought of changing these behaviors terrifies me. What if I show my true self and people still think less of me? I'm caught between wanting to be open and the fear of rejection. Therapy is helping me see these patterns, but I still feel a strong pull to keep my struggles hidden. It's a confusing place to be, wanting to change but feeling so unsure of what that change might mean for me."
+        "client_reasoning": "I've been reflecting on how I've handled my recent financial struggles, and it's hitting me that hiding my issues isn't helping. I notice I'm stuck in this pattern of feeling inadequate, like I must keep up a performance for everyone else. I see the impact of my avoidance—like taking out a loan instead of asking for help. I know that I should be more open about what I'm facing, but there's this nagging fear that if I admit my struggles, people will lose respect for me. Therapy is making me think more deeply about my past experiences and how they've shaped my beliefs. Yet, I feel conflicted; I want to change, but the fear of vulnerability feels so daunting. I wonder if I can ever really let go of this facade without losing who I think I am.",
+        "progress_marker": "Client begins to identify specific patterns in their behavior and expresses a desire to explore these patterns further."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't fully explored Evan's ambivalence about change. Client objective not met: Evan is still struggling to articulate his fears and desires regarding vulnerability.",
-          "client_utterance": "I’ve been thinking about what it would mean to actually let people see my struggles. I still feel like if I open up, it could lead to judgment or worse, rejection. But there's also this part of me that wonders if being honest could actually bring me closer to others.",
-          "therapist_utterance": "It's encouraging to hear you recognize that part of you that seeks connection. It sounds like you're weighing the risks of opening up against the potential for deeper relationships. What do you think you might gain if you allowed yourself to be more vulnerable with others?",
-          "therapist_use": "Open-ended question: encouraged deeper exploration of Evan's thoughts on vulnerability."
+          "reason_for_ending": "KEEP: The therapist's objective to explore ambivalence about seeking help was not fully met as Evan has not yet articulated the pros and cons of asking for support. The client's objective to explore feelings of inadequacy was not met since he has not yet opened up about his fears of vulnerability.",
+          "client_utterance": "I’ve been thinking about what you said regarding people possibly caring if I opened up. It’s tough to shake the feeling that being vulnerable could make me look weak. I mean, I’ve always tried to be the strong one, you know? What if I open up and they just see me as a failure?",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure to maintain that strong image, and the fear of being seen as a failure is making you hesitant to be vulnerable. It's important to recognize how deeply rooted these fears are. What do you think might be the benefits of sharing your struggles, even just with one person? Could there be a way to experiment with that idea without feeling too exposed?",
+          "therapist_use": "Exploring Ambivalence: Encouraged Evan to reflect on the benefits of sharing his struggles while acknowledging his fears."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't helped Evan articulate his values around change. Client objective not met: Evan still struggles to identify specific fears and desires about being vulnerable.",
-          "client_utterance": "I guess if I were to be more open, I could potentially find support from friends or family. But then there's this fear that they might not understand or see me differently. It's a tough balance between wanting that support and fearing the rejection.",
-          "therapist_utterance": "You're highlighting a significant tension between your desire for support and the fear of judgment. It’s completely valid to feel conflicted about this. If you could imagine a scenario where you received that support, what would that look like for you?",
-          "therapist_use": "Exploring ambivalence: validated Evan's fear while encouraging him to envision positive outcomes."
+          "reason_for_ending": "KEEP: The therapist's objective to elicit change talk was not met because Evan did not specify any past experiences of support. The client's objective to explore feelings of inadequacy was not fully met as he remains focused on his fears without articulating any feelings of desire for connection.",
+          "client_utterance": "I guess there have been times when I did share a bit and felt supported, but I still worry about being judged. It’s like I want to feel that connection, but I also fear the fallout. I remember one time I mentioned my struggles with business, and it felt good, but then I thought maybe I shouldn’t have. It’s really confusing.",
+          "therapist_utterance": "It's completely natural to feel conflicted about sharing your struggles, especially when past experiences have been mixed. It sounds like even in moments of vulnerability, the fear of judgment still looms large for you. What if we explored how those positive experiences of support made you feel? How did they impact your relationship with those people?",
+          "therapist_use": "Eliciting Change Talk: Prompted Evan to reflect on past positive experiences with vulnerability to highlight his desire for connection."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't facilitated enough reflection on the pros and cons of his current behaviors. Client objective not met: Evan hasn't yet fully articulated how his coping strategies impact his emotional well-being.",
-          "client_utterance": "I think if I showed more of my true self, I might actually feel less alone. But I worry that everyone around me would see my flaws and think I’m not good enough. It's hard to shake off the feeling that I'm somehow failing if I don't keep up this facade.",
-          "therapist_utterance": "It’s understandable to feel that way, especially given your past experiences. Let’s take a moment to look at the pros and cons of maintaining this facade versus being more open. How do you think each approach affects your feelings of self-worth and connection with others?",
-          "therapist_use": "Decisional balance discussion: guided Evan in assessing the impact of his current behaviors on his emotional health."
+          "reason_for_ending": "KEEP: The therapist's objective to develop discrepancy was not fully met since Evan has not yet articulated his core values explicitly. The client's objective to explore feelings of inadequacy was not met as he is still focusing on fears rather than the impact of avoidance on his relationships.",
+          "client_utterance": "I see your point. Sometimes I think about how nice it would be to just be real with someone. But then I freeze up, thinking they’ll see me differently. I wonder if hiding my struggles is pushing people away instead of bringing them closer, but it’s scary to think about what that means for me.",
+          "therapist_utterance": "It's insightful that you're recognizing the potential impact of your avoidance on your relationships. It seems like there's a gap between your desire for connection and the way you're currently handling things. What would it look like for you to align your actions with your values of authenticity and connection? How might that change your relationships?",
+          "therapist_use": "Developing Discrepancy: Helped Evan articulate the conflict between his values and his current behavior, emphasizing the impact of avoidance."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't fully explored Evan's feelings about vulnerability. Client objective not met: Evan hasn't completely articulated how he feels about the possibility of change.",
-          "client_utterance": "When I think about being open, it sounds freeing, but I can't shake the anxiety it brings. I mean, part of me wants to stop trying to impress everyone, but another part feels like that’s all I have left. I just don’t want to be seen as weak.",
-          "therapist_utterance": "It seems you're caught in a cycle of wanting freedom but feeling trapped by the fear of vulnerability. This fear of being perceived as weak is a heavy weight to carry. What would it mean for you to redefine what strength looks like in your life?",
-          "therapist_use": "Reflection and reframing: encouraged Evan to reconsider his definitions of strength and vulnerability."
+          "reason_for_ending": "KEEP: The therapist's objective to facilitate decisional balance discussions was not fully met as Evan has not yet weighed the pros and cons of his current coping strategies. The client's objective to explore feelings of inadequacy remains unmet since he hasn't fully confronted the negatives of hiding his struggles.",
+          "client_utterance": "I think if I keep hiding, I might miss out on genuine support. But then again, I feel like I’d be exposing my weaknesses. I guess I could see a benefit in being open, but the fear of judgment always holds me back. It's like I’m stuck between wanting to connect and wanting to protect myself.",
+          "therapist_utterance": "It's clear that you're feeling torn between the desire for connection and the instinct to protect yourself from judgment. Let’s take a moment to consider what you might gain by being more open, compared to what you lose by continuing to hide. Would you be willing to create a pros and cons list about sharing your struggles? This might help clarify your thoughts.",
+          "therapist_use": "Decisional Balance Discussions: Encouraged Evan to weigh the benefits and drawbacks of his avoidance versus openness to facilitate reflection."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't adequately explored the evidence behind Evan's beliefs. Client objective not met: Evan hasn’t fully engaged with the idea of how change aligns with his values.",
-          "client_utterance": "Redefining strength sounds like a good idea, but I still feel like I’m just one step away from falling apart. I mean, there have been times when I've opened up a little, and it didn't go well, which makes me hesitant to try again. I guess I just need to know if it’s worth the risk.",
-          "therapist_utterance": "Recognizing those past experiences is important, and it’s understandable to feel hesitant. Let’s look at those moments when you did open up—what happened? Were there any positive outcomes or moments of acceptance that you might have overlooked?",
-          "therapist_use": "Evidence-based questioning: aimed to help Evan examine his past experiences of vulnerability for positive outcomes."
-        },
-        {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't fully facilitated Evan's understanding of how change aligns with his values. Client objective not met: Evan hasn’t yet identified specific gains from being more authentic.",
-          "client_utterance": "I can remember a couple of times when I was honest about my struggles, and people did respond with kindness. But those moments feel overshadowed by my fears. I just think I need to figure out if being real is really worth it.",
-          "therapist_utterance": "It's great that you can recall those moments of kindness; they’re significant. Reflecting on those positive interactions might help you see that vulnerability doesn't always lead to rejection. What do you think you stand to gain by embracing more of those real moments?",
-          "therapist_use": "Eliciting change talk: encouraged Evan to articulate potential benefits of vulnerability."
-        },
-        {
-          "reason_for_ending": "MOVE - Therapist objective met: The therapist successfully explored Evan's ambivalence and motivations for change. Client objective met: Evan has gained clarity about his struggles and the potential benefits of being more open.",
-          "client_utterance": "I think I’m starting to see that being authentic could actually help me feel more connected to others. I still have fears, but maybe those moments of kindness are worth holding onto. I want to consider taking small steps toward being more open.",
-          "therapist_utterance": "That’s a powerful realization, Evan. It sounds like you’re recognizing that vulnerability can lead to deeper connections, even amidst the fear. Taking those small steps is a brave choice, and I'm here to support you as you navigate this process.",
-          "therapist_use": "Validation and support: reinforced Evan's insights and supported his willingness to take steps toward change."
+          "reason_for_ending": "MOVE: The therapist's objective to explore ambivalence was met as Evan began weighing pros and cons of vulnerability. The client's objective to explore feelings of inadequacy was met as he recognized the impact of hiding on his relationships.",
+          "client_utterance": "I think writing it down could help. I realize that opening up might lead to support and understanding, which I really crave. But the fear of judgment still feels heavy. Maybe there’s a way to approach this without feeling too exposed—like starting small.",
+          "therapist_utterance": "That sounds like a great plan, Evan! Starting small can make the process feel less overwhelming. It’s encouraging to hear that you’re recognizing the potential benefits of being more open. What’s one small step you could take to begin this journey of sharing your experiences?",
+          "therapist_use": "Encouragement: Validated Evan’s willingness to consider small steps towards openness, reinforcing his progress."
         }
       ]
     },
@@ -249,27 +253,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Enhance Evan's commitment to change by building confidence and identifying support systems.",
+          "objective": "Strengthening Evan's commitment to change and preparing him to ask for support from others.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Evan to articulate specific reasons for wanting to change and how he feels about taking action.",
-                "Encourage him to express his commitment verbally and write it down, creating a visible reminder of his intentions."
+                "Encourage Evan to articulate his desire to change by asking open-ended questions about his goals and intentions.",
+                "Reinforce his motivations by acknowledging the positive aspects of seeking help and how it aligns with his values."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss with Evan his feelings about the upcoming changes, focusing on what makes him feel optimistic.",
-                "Use scaling questions (e.g., 'On a scale of 1-10, how ready do you feel to make these changes?') to gauge his readiness and confidence."
+                "Ask Evan to rate his confidence in taking steps towards vulnerability on a scale from 1 to 10.",
+                "Discuss factors that contribute to his confidence, as well as potential barriers, to help him envision a feasible path forward."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Evan identify supportive individuals in his life, such as friends or family, who can offer assistance.",
-                "Discuss potential resources, such as local support groups or financial counseling, to alleviate his concerns."
+                "Collaborate with Evan to outline a list of potential supports (friends, family) he can reach out to.",
+                "Discuss the significance of these supports in his journey towards change, reinforcing that he is not alone."
               ]
             }
           ]
@@ -277,90 +281,77 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Challenging Automatic Thoughts",
               "instructions_for_therapist": [
-                "Collaborate with Evan to develop a step-by-step action plan for addressing his financial difficulties.",
-                "Ensure the plan includes small, manageable tasks that he can accomplish, such as budgeting or seeking financial advice."
+                "Guide Evan in identifying and writing down automatic thoughts related to vulnerability and asking for help.",
+                "Facilitate a discussion on the validity of these thoughts and help him gather evidence that contradicts his fears."
               ]
             },
             {
-              "technique_name": "Problem-Solving Skills Training",
+              "technique_name": "Reframing Negative Beliefs",
               "instructions_for_therapist": [
-                "Guide Evan in identifying specific problems related to his financial struggles and explore potential solutions.",
-                "Encourage brainstorming of various strategies he can use to overcome these challenges, emphasizing realistic options."
-              ]
-            },
-            {
-              "technique_name": "Behavior Experiment",
-              "instructions_for_therapist": [
-                "Create a safe environment for Evan to practice expressing vulnerability by sharing a minor personal struggle with someone he trusts.",
-                "Discuss the outcomes of this experiment in the next session to build his confidence in being open."
+                "Work collaboratively with Evan to create a more balanced thought that highlights the positives of seeking help, such as 'Asking for help can strengthen my relationships.'",
+                "Encourage him to practice this reframed thought in real-life situations, setting a specific goal for reaching out to someone for support."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Evan's situation, the therapist begins by utilizing Motivational Interviewing strategies to strengthen his commitment to change. By engaging him in discussions about his motivations and readiness, the therapist reinforces Evan's intrinsic motivation and fosters a sense of ownership over the change process. Exploring his support systems is crucial given his resistance, allowing him to see that he is not alone and can seek help. In parallel, CBT interventions are employed, focusing on action planning to create a clear, manageable roadmap for Evan's financial issues while ensuring it aligns with his readiness to change. The problem-solving skills training helps him develop practical solutions to his barriers. Additionally, a behavior experiment encourages him to practice vulnerability, challenging his belief that showing weakness leads to rejection. This structured approach aims to build Evan's self-efficacy and confidence as he prepares for change, addressing both his cognitive and emotional barriers systematically.",
-        "progress_marker": "Evan articulates a specific action plan and identifies at least one support person by the end of the session."
+        "therapist_reasoning": "In this session, I will utilize Motivational Interviewing strategies to enhance Evan's commitment to change by focusing on his intentions and motivations. I will encourage him to verbalize his desire for change, reinforcing the positive aspects of seeking help. By exploring his confidence and readiness, I can help him identify both barriers and supports in his network, which is crucial given his resistance profile. Next, I will employ CBT techniques to challenge his automatic thoughts about vulnerability, guiding him to collect evidence that counters these beliefs. This dual approach will enable him to create a reframed thought that reflects a healthier perspective on asking for help. By combining MI's collaborative spirit with CBT's structured techniques, I aim to facilitate a clear and realistic action plan for Evan, making it specific and achievable to avoid overwhelming him as he prepares for change.",
+        "progress_marker": "Evan successfully identifies at least one supportive person to reach out to and articulates a commitment to ask for help within the next week."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings of inadequacy and begin to develop real strategies for change.",
+        "client_objective": "I hope to explore my feelings of inadequacy and find ways to be more open about my struggles.",
         "client_state": {
-          "awareness": "I recognize that my current situation is unsustainable and that my facade is causing more harm than good.",
-          "motivation": "I feel a strong desire to improve my life and stop hiding behind lies and performances.",
-          "openness": "I'm beginning to feel more willing to discuss my struggles and consider the possibility of asking for help.",
-          "resistance": "I still have significant fears about being judged or abandoned if I show my true self."
+          "awareness": "I recognize that my need to maintain a facade of control is harming my relationships and mental health.",
+          "motivation": "I'm feeling a stronger desire to change, especially after my recent failures made me realize that avoiding help isn't working.",
+          "openness": "I'm beginning to feel more willing to discuss my feelings with my therapist, but I still have fears about judgment.",
+          "resistance": "I still feel hesitant and scared about being vulnerable, fearing that if I reveal my struggles, I'll be judged or abandoned."
         },
-        "client_reasoning": "I’ve begun to see that my current way of coping with my problems isn’t helping me at all; it’s only making me feel more anxious and isolated. I realize that if I want to change my life for the better, I need to stop pretending everything is fine when it isn’t. I want to learn how to be more open about my struggles and to stop feeling like I have to impress everyone around me. I just want to be accepted for who I am, but I worry that if I let my guard down, people will see me as weak or unworthy. Therapy has helped me recognize that my feelings of inadequacy are not facts, and that gives me a glimmer of hope. I know I need to take steps toward change, but I still feel that knot of fear in my stomach when I think about truly opening up and being vulnerable with others."
+        "client_reasoning": "I've started to understand that my current situation is not sustainable and that the pressure to appear successful is making me feel more inadequate. The recent failure in my business has opened my eyes to how hiding my struggles only leads to deeper issues. I want to improve my life and find real connections with others, but I worry about the consequences of being honest about my struggles. Therapy has helped me see that I don't have to face this alone, and it’s okay to ask for help. I feel hopeful that by addressing these feelings, I can start to change my patterns, but I still fear that being open will lead to rejection or judgment. It’s a mix of excitement for what could be and anxiety about what I might lose if I take that leap."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met because Evan has not yet articulated a specific action plan. Client's objective was not met as he hasn't identified any support persons yet.",
-          "client_utterance": "I've been thinking about those moments when I did open up, and it's encouraging to remember that some people were kind. But I still feel like I'm stuck. I want to move forward and be more open, but I just don’t know how to start.",
-          "therapist_utterance": "It's great that you're reflecting on those kind responses; they can serve as a foundation for future openness. Let’s think about what the first step could be for you. What small action do you think you could take to start being more open with someone you trust?",
-          "therapist_use": "Open-ended question: encourages exploration of actionable steps toward vulnerability."
+          "reason_for_ending": "KEEP - The therapist's goal of strengthening commitment language was not fully achieved as Evan hasn't articulated a specific desire to change yet. The client’s objective to explore feelings of inadequacy is also not met since he hasn't discussed his struggles in detail.",
+          "client_utterance": "I’ve been thinking more about that idea of starting small. Maybe I could try sharing something minor with a friend, but I still feel a lot of fear about how they might react. It’s like I want to connect, but that fear of judgment is holding me back.",
+          "therapist_utterance": "It’s great to hear that you’re considering sharing something small, Evan. That’s a significant step forward! What kind of minor thing do you think you could share, and how do you think your friend might respond?",
+          "therapist_use": "Open-ended questioning: used to encourage Evan to articulate his thoughts about sharing."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met because Evan has not committed to an action plan. Client's objective was not met as he hasn't explored support systems yet.",
-          "client_utterance": "Maybe I could try talking to my sister. She’s always been supportive, but I’ve never really shared how I feel about my business struggles. It feels scary, but I know she cares.",
-          "therapist_utterance": "That sounds like a wonderful idea. Your sister could be a great support for you as you start to share your feelings. How do you think you might bring up the topic with her?",
-          "therapist_use": "Affirmation: reinforces Evan’s choice to consider reaching out to his sister for support."
+          "reason_for_ending": "KEEP - The therapist's goal to reinforce Evan's motivations was not fully accomplished as he hasn't committed to a specific action yet. The client’s objective remains unmet since he is still struggling with fear and hasn't fully explored his feelings of inadequacy.",
+          "client_utterance": "I suppose I could mention how I’ve been feeling a bit overwhelmed lately, but I still worry they’ll think less of me. It’s just tough to imagine being that open, even about something small.",
+          "therapist_utterance": "It’s understandable to feel apprehensive about how your friend might perceive you. It might help to remember that vulnerability can often lead to deeper connections. How might your friend respond if they knew you were feeling overwhelmed? Could that strengthen your relationship?",
+          "therapist_use": "Affirmation and exploration: used to validate Evan's fears while encouraging him to think about potential positive outcomes."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met because Evan needs to articulate a clearer action plan. Client's objective was not met since he hasn't fully committed to this action.",
-          "client_utterance": "I guess I could say something like, 'I’ve been struggling with my business, and it’s been hard for me.' But still, the thought of her reaction makes me anxious. I worry she might see me differently.",
-          "therapist_utterance": "It's understandable to feel anxious about how she might react. Remember, being honest could potentially deepen your connection with her. What do you think would happen if she responded positively?",
-          "therapist_use": "Scaling question: helps Evan visualize a positive outcome and encourages commitment."
+          "reason_for_ending": "KEEP - The therapist's objective to explore confidence and readiness wasn't met as Evan hasn't rated his confidence yet. The client’s goal of exploring his feelings of inadequacy is still not fully addressed since he hasn’t delved deeper into his struggles.",
+          "client_utterance": "I guess if I think about it, I could see some positives in being more open. Maybe just letting someone know I’m struggling could lead to support, but I'm still at like a three out of ten for feeling confident about it.",
+          "therapist_utterance": "That's a realistic rating, Evan. It shows you're aware of the challenge ahead, which is an important first step. What do you think could help raise that confidence level? Are there specific thoughts or beliefs you have that might be holding you back?",
+          "therapist_use": "Confidence exploration: used to help Evan articulate his self-assessment and identify barriers."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Evan has not yet written down his commitment. Client's objective was not met as he hasn’t fully articulated a specific plan.",
-          "client_utterance": "If she did respond well, I think it would feel relieving. But I still can't shake the worry that I might be judged. I need to remind myself that not everyone will react negatively.",
-          "therapist_utterance": "That's a healthy perspective to hold onto. It’s also important to give yourself permission to feel vulnerable. Would it help to write down your thoughts or intentions before talking to her?",
-          "therapist_use": "Encouragement: prompts Evan to commit to writing down his intentions, reinforcing accountability."
+          "reason_for_ending": "KEEP - The therapist's objective to identify supports and resources hasn’t been fully achieved since Evan hasn’t named anyone he could reach out to yet. The client's objective of exploring feelings of inadequacy is still in progress as he hasn't fully articulated his struggles.",
+          "client_utterance": "I think I could reach out to my cousin; he’s someone I trust. I just need to remind myself that he might actually want to help instead of judging me. But I still feel hesitant about it.",
+          "therapist_utterance": "That’s a positive step, Evan! Identifying a trusted person in your life is key. What would it look like to reach out to your cousin? How do you think he might respond if you shared your feelings?",
+          "therapist_use": "Support identification: used to help Evan recognize potential allies in his support network."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Evan has not committed to an action plan. Client's objective was not met since he hasn't articulated his specific strategies yet.",
-          "client_utterance": "Writing it down could help. I think it would make the conversation feel more real for me. But I still feel hesitant about actually doing it.",
-          "therapist_utterance": "Taking that step to write down your feelings is a strong move, Evan. It can really clarify your thoughts and reduce anxiety. What specific points would you want to include in that note to your sister?",
-          "therapist_use": "Action planning: supports Evan in constructing a tangible plan for his conversation."
+          "reason_for_ending": "KEEP - The therapist's goal of reinforcing Evan's motivations was not fully met since he hasn't made a commitment to reach out yet. The client’s objective remains unmet as he has not yet fully explored how to be open about his struggles.",
+          "client_utterance": "I think I could text him and just say I’ve been feeling a bit off lately. It’s a start, but I still worry it won’t go well, and I’ll end up feeling more alone.",
+          "therapist_utterance": "It’s completely normal to feel anxious, but remember that taking this step is about opening the door to support. What’s the worst that could happen if you reached out? And what’s the best that could happen?",
+          "therapist_use": "Pros and cons exploration: used to help Evan evaluate potential outcomes of reaching out."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Evan has not yet identified support resources. Client's objective was not met since he hasn't committed to specific steps.",
-          "client_utterance": "I’d want to mention how overwhelmed I’ve been feeling and that I could use her advice. I also want to say I’m working on being more open. But what if she doesn’t know how to help?",
-          "therapist_utterance": "It's great that you're considering how to express your feelings. If she doesn’t have the answers, just having her listen can still be incredibly supportive. Are there any other people or resources you think might help in this process?",
-          "therapist_use": "Exploring support systems: encourages Evan to identify additional sources of support."
+          "reason_for_ending": "KEEP - The therapist's objective to encourage commitment to change is still lacking since Evan hasn't set a clear timeline or specific action. The client’s goal of understanding his inadequacy is still in progress as he hasn't fully committed to taking any action.",
+          "client_utterance": "I guess if I just do it, I’d feel a bit better, but it’s still hard to push myself. Maybe I’ll aim to send that text by the end of the week; it feels like a manageable step.",
+          "therapist_utterance": "That sounds like a reasonable plan, Evan! Setting a specific time frame can help create accountability. How do you feel about committing to sending that text by the end of the week? What support might you need to follow through?",
+          "therapist_use": "Commitment elicitation: used to solidify Evan's intention and foster accountability."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective was not met as Evan has not yet confirmed his action plan. Client's objective was not met since he hasn't fully committed to a clear strategy.",
-          "client_utterance": "I could also think about reaching out to a financial advisor. It feels daunting, but I know I need help with my finances as well. I guess I’m realizing that I don’t have to do this alone.",
-          "therapist_utterance": "That’s a significant realization, Evan. It’s empowering to know you don’t have to face this alone. Writing down both those points—talking to your sister and seeking financial advice—could really solidify your plan.",
-          "therapist_use": "Summarization: reinforces Evan’s insights and encourages him to solidify his action plan."
-        },
-        {
-          "reason_for_ending": "MOVE: Therapist's objective was met as Evan has articulated specific action steps and acknowledged support systems. Client's objective was met as he has developed strategies for change and identified people to help.",
-          "client_utterance": "I think I’m ready to write down those steps. Talking to my sister and reaching out for financial help feels like a good start. I can see how these actions could lead me toward feeling more accepted and less alone.",
-          "therapist_utterance": "That’s an excellent commitment, Evan! You’ve taken a significant step toward embracing your vulnerability and seeking support. Remember, it’s all about taking those small, meaningful actions to build your path forward.",
-          "therapist_use": "Strengthening commitment language: reinforces Evan's verbal commitment and acknowledges his progress."
+          "reason_for_ending": "MOVE - The therapist's goal of identifying supports and resources was met as Evan specified a supportive person to reach out to. The client’s objective was also met as he articulated a commitment to send a text within a specific timeframe, reflecting his exploration of inadequacy.",
+          "client_utterance": "I feel more hopeful about this. Committing to reaching out feels like a step in the right direction, even if it’s a small one. I think I just needed to acknowledge that I can’t do it all alone.",
+          "therapist_utterance": "That’s a wonderful realization, Evan! Recognizing that you don’t have to face everything alone is a huge step toward healing. I’m proud of you for making this commitment to reach out. How do you feel about this journey moving forward?",
+          "therapist_use": "Affirmation of commitment: used to reinforce Evan's progress and commitment to change."
         }
       ]
     }

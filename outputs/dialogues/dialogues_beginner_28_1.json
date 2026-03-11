@@ -12,159 +12,28 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To help Sophia explore her feelings and thoughts about her current situation without feeling pressured to change.",
+          "objective": "Increase Sophia's awareness of her thoughts and feelings related to her job search and explore her personal values without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Sophia's concerns and feelings without interrupting.",
-                "Reflect back her statements to validate her feelings, e.g., 'It sounds like you feel overwhelmed with the job search process.'"
+                "Listen actively to Sophia's concerns about job searching and her feelings of hopelessness.",
+                "Reflect back her feelings and experiences to validate her emotions, e.g., 'It sounds like you're feeling overwhelmed and frustrated with the job search process.'",
+                "Encourage her to elaborate on her thoughts to deepen her self-exploration."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Sophia's feelings of hopelessness and pessimism regarding her situation.",
-                "Use empathetic statements such as, 'It must be really frustrating to feel like your efforts aren't yielding results.'"
+                "Acknowledge Sophia's feelings of defeat and helplessness, emphasizing that it's normal to feel this way in challenging situations.",
+                "Use empathetic statements such as, 'It's understandable to feel this way given the pressure you put on yourself to succeed.'"
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the discrepancies between Sophia's current feelings of failure and her past achievements.",
-                "Ask questions like, 'Can you recall times when you felt competent and successful?' to help her reflect on her capabilities."
-              ]
-            },
-            {
-              "strategy_name": "Raising Awareness",
-              "instructions_for_therapist": [
-                "Encourage Sophia to articulate her thoughts and feelings about her job search and its impact on her self-esteem.",
-                "Use open-ended questions like, 'What do you think about your current approach to job searching?'"
-              ]
-            }
-          ]
-        },
-        "cbt_plan": {
-          "interventions": [
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Sophia to provide evidence for her thoughts about being a failure.",
-                "Prompt her to consider, 'What evidence do you have that supports or contradicts this belief?'"
-              ]
-            },
-            {
-              "technique_name": "Reality Testing",
-              "instructions_for_therapist": [
-                "Help Sophia evaluate her automatic thoughts about job searching.",
-                "Ask her, 'What would you tell a friend who feels the same way about their job search?'"
-              ]
-            },
-            {
-              "technique_name": "Alternative Perspective",
-              "instructions_for_therapist": [
-                "Encourage Sophia to think about how she might view her situation differently.",
-                "Prompt with, 'If you were to consider this from a more compassionate perspective, what would you say to yourself?'"
-              ]
-            },
-            {
-              "technique_name": "Continuum Technique",
-              "instructions_for_therapist": [
-                "Invite Sophia to rate her feelings about job searching on a scale from 1 to 10.",
-                "Discuss what would make her feel even slightly more positive about her efforts."
-              ]
-            }
-          ]
-        },
-        "therapist_reasoning": "In approaching Sophia's therapy, I first recognized her resistance as stemming from a place of pessimism and defensiveness regarding her current situation. Using Motivational Interviewing strategies, I focused on reflective listening to validate her feelings and express empathy to create a safe space for her to discuss her concerns. By developing discrepancies between her self-perceptions and past successes, I aimed to stimulate curiosity without pushing her toward change. I integrated CBT techniques such as Evidence-Based Questioning to challenge her core beliefs about failure and Reality Testing to encourage her to consider alternative viewpoints. This combination of MI and CBT allowed for engaging dialogue while respecting her current stage of change, ensuring she felt empowered to explore her thoughts and feelings without the pressure of immediate action. This approach aligns with her resistance profile, fostering awareness and curiosity about her situation while establishing therapeutic rapport.",
-        "progress_marker": "Sophia begins to articulate her thoughts and feelings about her job search with more openness, showing signs of reduced defensiveness and increased self-reflection."
-      },
-      "client_plan": {
-        "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I feel stuck without feeling pressured to change.",
-        "client_state": {
-          "awareness": "I recognize that I'm struggling with job searching, but I don't see it as a problem that needs changing.",
-          "motivation": "I feel overwhelmed and don't really want to change anything because I doubt it will help.",
-          "openness": "I'm hesitant to share my true feelings because I fear judgment and feel misunderstood.",
-          "resistance": "I strongly defend against discussing my job search and feelings, believing it's pointless."
-        },
-        "client_reasoning": "I know I'm having a tough time with my job search, but honestly, it feels more like a bad luck streak than anything I can change. I can’t help but think that no matter how hard I try, nothing will come of it, so why bother discussing it? It just feels like more of a burden. I’ve always had to excel, and now that I’m not, it’s like I’m just failing at life. Talking about it makes me feel vulnerable, and I hate that feeling. I want to stay in control, but I feel like I’m losing that control. Therapy feels uncomfortable because it puts me in a spot where I have to confront everything I’m avoiding, and I’m just not ready for that. I want to be able to figure things out on my own, even though deep down I know I might need help. But what’s the point if I doubt it will change anything for me?",
-        "progress_marker": "Client begins to acknowledge feelings of being overwhelmed without pushing for immediate change."
-      },
-      "dialogue": [
-        {
-          "reason_for_ending": "KEEP: Therapist objective not met as Sophia has not fully explored her feelings about her job search. Client objective not met because Sophia still feels overwhelmed and reluctant to share deeper feelings.",
-          "client_utterance": "I guess I feel like I’m stuck, but I'm not sure it's really a problem. It just seems like bad luck with this job search. Honestly, I don't see how talking about it will help me—it's just frustrating.",
-          "therapist_utterance": "It sounds like you're feeling quite overwhelmed by the job search process, and it feels frustrating to talk about it. You might be feeling like it's more about luck than anything else right now. Can you tell me more about what that feels like for you?",
-          "therapist_use": "Reflective Listening: validated her feelings of being overwhelmed and frustration."
-        },
-        {
-          "reason_for_ending": "KEEP: Therapist objective not met as the therapist did not fully develop discrepancies with Sophia's past achievements. Client objective not met because Sophia is still holding back on deeper feelings.",
-          "client_utterance": "I just feel like I’ve always been good at achieving my goals, and now it's like I can't even land an interview. It's hard to reconcile that with who I think I am. I feel like a failure, and I hate that feeling.",
-          "therapist_utterance": "It must be really disheartening to feel like you’re not measuring up to your own expectations. You’ve achieved so much in the past, so it makes sense that this feels like a big shift for you. Can you think of some times when you felt competent and successful?",
-          "therapist_use": "Developing Discrepancy: encouraged Sophia to reflect on her past achievements to create awareness."
-        },
-        {
-          "reason_for_ending": "KEEP: Therapist objective not met as the therapist did not fully help Sophia articulate her thoughts on the impact of job searching on her self-esteem. Client objective not met due to continued reluctance to engage with her feelings.",
-          "client_utterance": "I mean, there have been times when I’ve succeeded, but right now, it just feels like nothing is going right. I feel like I’m losing control over my life, and that’s terrifying. Talking about it makes me feel vulnerable, and I really don’t like that.",
-          "therapist_utterance": "It's understandable that feeling vulnerable is uncomfortable for you, especially when you're used to being in control. It sounds like the job search has really affected how you view yourself and your capabilities. What do you think about your current approach to job searching?",
-          "therapist_use": "Raising Awareness: prompted Sophia to articulate her feelings about her job search and its impact."
-        },
-        {
-          "reason_for_ending": "KEEP: Therapist objective not met as the therapist did not yet challenge Sophia's core beliefs about failure. Client objective not met because Sophia is still defensive and not fully open.",
-          "client_utterance": "I don't know, my approach feels pointless. No matter what I do, it seems like I’m just hitting brick walls. I doubt anything I change will make a difference.",
-          "therapist_utterance": "It sounds like you’re feeling really stuck and questioning whether your efforts matter. I wonder if there are other perspectives you could consider about your situation. If you were to think about this from a more compassionate viewpoint, what would you say to yourself?",
-          "therapist_use": "Alternative Perspective: encouraged Sophia to view her situation with compassion."
-        },
-        {
-          "reason_for_ending": "KEEP: Therapist objective not met as the therapist has not yet explored evidence supporting her feelings of failure. Client objective not met because Sophia remains hesitant to share more.",
-          "client_utterance": "I guess I just think I’ve tried everything and nothing works. It feels like I’m just not meant to get a job right now. I don’t know what else I can do, and that’s discouraging.",
-          "therapist_utterance": "It’s really tough to feel like you’ve exhausted all your options and still aren’t seeing results. What evidence do you have that supports this belief of being unable to find a job? Are there times when you felt differently about your abilities?",
-          "therapist_use": "Evidence-Based Questioning: prompted Sophia to evaluate her thoughts about being a failure."
-        },
-        {
-          "reason_for_ending": "KEEP: Therapist objective not met as the therapist did not yet guide Sophia in reality testing her thoughts. Client objective not met as Sophia is still defending her feelings of failure.",
-          "client_utterance": "I guess I just feel like it’s a reflection of who I am. If I can’t even find a job, what does that say about me? It’s hard to think about it any other way.",
-          "therapist_utterance": "It seems like you’re tying your self-worth to your job search outcomes, which is understandable given how much pressure you feel. What would you tell a friend who feels the same way about their job search? Can you see any similarities or differences in how you treat yourself compared to others?",
-          "therapist_use": "Reality Testing: encouraged Sophia to evaluate her thoughts and consider alternative viewpoints."
-        },
-        {
-          "reason_for_ending": "MOVE: Therapist objective met as Sophia is beginning to reflect more openly on her feelings and thoughts. Client objective met because Sophia is starting to consider different perspectives about her job search.",
-          "client_utterance": "I guess I would tell a friend not to be so hard on themselves and to keep trying. Maybe I need to think about it that way too. I just want to feel like I’m in control again.",
-          "therapist_utterance": "It’s a positive sign that you’re starting to think about how you might approach this situation with more kindness towards yourself. Recognizing that you can give yourself the same compassion you would offer a friend is a big step. What would make you feel even slightly more positive about your efforts moving forward?",
-          "therapist_use": "Continuum Technique: invited Sophia to rate her feelings and discuss what could improve her outlook."
-        }
-      ]
-    },
-    {
-      "phase": "contemplation",
-      "therapist_plan": {
-        "phase_of_therapy": "contemplation",
-        "motivational_interviewing_plan": {
-          "objective": "To explore Sophia's ambivalence about change and strengthen her motivation to pursue her goals.",
-          "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Ask Sophia to express her feelings about her current job search and her relationship with Ivan.",
-                "Encourage her to articulate both the reasons she wants to change and the reasons she feels hesitant.",
-                "Listen reflectively and validate her feelings without judgment."
-              ]
-            },
-            {
-              "strategy_name": "Eliciting Change Talk",
-              "instructions_for_therapist": [
-                "Prompt Sophia to explore what a successful job search would mean for her life.",
-                "Ask open-ended questions that allow her to articulate her hopes and aspirations.",
-                "Encourage her to discuss any past experiences where change led to positive outcomes."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance Discussions",
-              "instructions_for_therapist": [
-                "Facilitate a discussion about the pros and cons of her current job search approach.",
-                "Help her identify the values that are important to her and how they may conflict with her current behaviors.",
-                "Encourage her to weigh the potential benefits of changing her approach against her fears."
+                "Help Sophia identify discrepancies between her current feelings of failure and her values regarding success and self-worth.",
+                "Ask open-ended questions like, 'What does success mean to you?' or 'How do your current feelings align with your values?' to encourage reflection."
               ]
             }
           ]
@@ -174,86 +43,175 @@
             {
               "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Assist Sophia in identifying her catastrophic thoughts about job searching.",
-                "Guide her to challenge these thoughts by exploring the evidence for and against them.",
-                "Help her reframe these thoughts into more balanced perspectives."
-              ]
-            },
-            {
-              "technique_name": "Pros and Cons Analysis",
-              "instructions_for_therapist": [
-                "Encourage Sophia to create a pros and cons list regarding her current job search strategy.",
-                "Discuss the outcomes of her analysis and how they relate to her core beliefs.",
-                "Facilitate a conversation about how altering her approach could impact her feelings of self-efficacy."
-              ]
-            },
-            {
-              "technique_name": "Evidence-Based Questioning",
-              "instructions_for_therapist": [
-                "Ask Sophia to provide evidence for her beliefs that she will never get a job.",
-                "Encourage her to reflect on past successes and the skills she possesses that could aid her job search.",
-                "Highlight instances where her efforts have led to positive outcomes, no matter how small."
+                "Introduce the concept of Decatastrophizing by discussing Sophia's job search experiences.",
+                "Guide her in identifying specific catastrophic thoughts associated with her job search.",
+                "Encourage her to examine the evidence for and against these thoughts, fostering a balanced perspective."
               ]
             }
           ]
         },
-        "therapist_reasoning": "Given Sophia's ambivalence about change, I first focused on MI strategies to explore her conflicting feelings. I initiated discussions about her job search and relationship with Ivan, allowing her to express both her desire for change and her fears. This approach helps build rapport and encourages her to articulate her own motivations for change. By eliciting change talk, I prompted Sophia to reflect on successful past experiences, fostering a sense of hope. Next, I employed decisional balance discussions to highlight discrepancies between her values and current behaviors, helping her recognize the impact of her self-critical tendencies. For the CBT component, I chose decatastrophizing to assist her in challenging her catastrophic thoughts about job searching, creating room for more balanced perspectives. The pros and cons analysis allows Sophia to see the implications of her current strategies while exploring alternatives. Finally, evidence-based questioning will help her confront her negative beliefs about her abilities, reinforcing her self-efficacy and motivation.",
-        "progress_marker": "Sophia begins to express more openness to change and shows an increased understanding of her ambivalence."
+        "therapist_reasoning": "The therapy plan begins with Motivational Interviewing strategies to build rapport and reduce resistance, recognizing Sophia's direct resistance and pessimistic emotions. By employing reflective listening, I aim to validate her feelings and encourage her to explore her thoughts further. Expressing empathy allows me to connect with her emotional state, fostering a safe environment for self-exploration. Developing discrepancy involves guiding her to reflect on her values versus her current feelings of failure, which can stimulate curiosity about her situation without pushing for immediate change. The CBT intervention, Decatastrophizing, is introduced to challenge her catastrophic thinking patterns. This technique aligns with her resistance profile, as it encourages awareness and exploration rather than immediate behavior change. By focusing on her thoughts and feelings, I can help Sophia build insight into her beliefs while maintaining a non-judgmental stance, which is crucial in the pre-contemplation phase. These combined approaches will help her gradually acknowledge her situation and consider the possibility of change without pressure.",
+        "progress_marker": "Increased awareness of thoughts and feelings related to job search; reduced defensiveness; deeper exploration of personal values."
       },
       "client_plan": {
-        "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about job searching and my self-criticism without feeling pressured to make immediate changes.",
+        "phase_of_change": "pre-contemplation",
+        "client_objective": "I hope to just get through this conversation without feeling overwhelmed by my problems.",
         "client_state": {
-          "awareness": "I am starting to see that my self-criticism and the pressure I put on myself are affecting my job search and my overall happiness.",
-          "motivation": "I feel a part of me wants to change and find a healthier way to approach my job search, but I'm also scared of what that means.",
-          "openness": "I'm willing to share some of my thoughts and feelings, but I still hold back because I'm unsure if talking about it will help.",
-          "resistance": "I often find myself doubting that anything will truly change, and I push back against the idea of exploring new approaches."
+          "awareness": "I recognize that I'm struggling, but I don't believe it's a big enough issue to change anything.",
+          "motivation": "I don't feel motivated to change because I doubt it will make a difference.",
+          "openness": "I find it hard to share my thoughts and feelings; I prefer to avoid the topic.",
+          "resistance": "I strongly resist discussing my problems because I feel hopeless about the outcome."
         },
-        "client_reasoning": "I’ve begun to realize that my approach to job searching might not be working for me. It's hard to ignore the feelings of hopelessness when I don't get any responses, and I keep thinking that if I just prepare more, things will change. But deep down, I know this self-critical behavior isn't helping. I want to believe that I can change my situation, yet I feel stuck between wanting to let go of the control I always thought I needed and fearing what might happen if I do. There’s a part of me that wants to open up about how I feel, but I worry it won’t lead to anything. Therapy has made me reflect more on these patterns, but the uncertainty about whether change is possible leaves me feeling anxious and resistant to fully embracing the idea of doing things differently.",
-        "progress_marker": "The client begins to articulate feelings of conflict regarding their job search and self-criticism, showing an emerging understanding of their patterns."
+        "client_reasoning": "I feel like I’m stuck in this endless cycle of job searching and disappointment. It’s hard to admit that I might need help because it feels like I should be able to handle this on my own. I keep telling myself that if I just try harder, things will eventually work out, but deep down, I feel like a failure. When I think about discussing my feelings, I get anxious because I worry that it won’t change anything and that I’ll just end up feeling worse. I think about how I've always been expected to excel, and admitting that I’m struggling feels like admitting defeat. Therapy feels uncomfortable, like I’m exposing my vulnerabilities, yet I also wonder if it could be a safe space where I don’t have to pretend everything is fine. But then, I quickly dismiss that thought, convincing myself that it’s just not worth it and that I’m better off avoiding the whole conversation."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not fully explore Sophia's feelings about her job search. The client's objective was not met because Sophia has not yet articulated her reasons for feeling hesitant about change.",
-          "client_utterance": "I’ve been thinking about what I said last time. I realize part of me is really scared about changing my approach to job searching. It feels like I’d be letting go of the control I thought I needed, and that makes me anxious.",
-          "therapist_utterance": "It’s understandable to feel anxious about letting go of control, especially when you’ve relied on that for so long. Can you share more about what specifically scares you about changing your approach? What do you think might happen if you tried something different?",
-          "therapist_use": "Exploring Ambivalence: encouraged Sophia to articulate her fears regarding change."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Sophia hasn’t fully explored her feelings. The client objective was not met as Sophia still feels overwhelmed and resistant to discussing her problems.",
+          "client_utterance": "I just don’t understand why I can’t seem to find a job. It feels like I’m failing, but I keep telling myself that if I just try harder, things will work out eventually.",
+          "therapist_utterance": "It sounds like you’re feeling a lot of pressure to succeed in your job search, and it's frustrating when your efforts don’t seem to pay off. You're caught in a cycle of trying harder but still feeling defeated. Can you tell me more about what that feels like for you?",
+          "therapist_use": "Reflective Listening: used to validate Sophia's feelings of frustration and encourage her to elaborate."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not facilitate a discussion about the pros and cons of Sophia's current job search approach. The client's objective was not met because she has not yet articulated her hopes for change.",
-          "client_utterance": "I guess I fear that if I try something new, I’ll just fail again and feel even worse. It’s like I’m stuck in this loop of expecting the worst, and I don’t want to feel that hopelessness again.",
-          "therapist_utterance": "It sounds really challenging to feel trapped in that loop of negative expectations. What would it look like to consider some potential benefits of trying a different approach? Are there any past experiences where taking a risk led to a positive outcome for you?",
-          "therapist_use": "Eliciting Change Talk: prompted Sophia to reflect on past positive experiences to strengthen her motivation for change."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Sophia is still avoiding deeper exploration of her thoughts. The client objective was not met as Sophia remains overwhelmed and resistant.",
+          "client_utterance": "I guess it just feels hopeless sometimes. Like, no matter how hard I try, I’m still stuck. I don’t really want to dwell on it because it just makes me feel worse.",
+          "therapist_utterance": "It’s understandable to feel hopeless when things aren’t going the way you want. You’re putting in a lot of effort, yet the results seem out of reach, which must be really disheartening. What do you think success would look like for you in this job search?",
+          "therapist_use": "Expressing Empathy: acknowledged Sophia's feelings of hopelessness and invited her to define success."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not sufficiently help Sophia weigh the potential benefits of changing her approach. The client's objective was not met because she has not yet shared her aspirations related to her job search.",
-          "client_utterance": "I mean, there have been times when I took a leap and it worked out, but it feels so distant right now. I just can’t shake this feeling that I’m not capable of doing it again. It’s frustrating because I want to believe in myself.",
-          "therapist_utterance": "It’s great that you can recognize those past successes, even if they seem far away right now. What do you think it would take for you to start believing in your capabilities again? How might focusing on those past achievements help you in your current job search?",
-          "therapist_use": "Decisional Balance Discussions: facilitated a discussion around the value of recognizing past successes to bolster Sophia's self-belief."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Sophia is hesitant to delve into her personal values. The client objective was not met because Sophia continues to resist exploring her feelings.",
+          "client_utterance": "I don’t know, success feels like something I’ve always had, but now it just seems so far away. I feel like admitting I’m struggling is a sign of weakness, and I don’t want to feel like that.",
+          "therapist_utterance": "It makes sense that you would feel that way, especially given your background of always excelling. It can be tough to reconcile those feelings of struggle with your self-image. How do you think your current feelings align with your long-term values or aspirations?",
+          "therapist_use": "Developing Discrepancy: helped Sophia reflect on her feelings versus her values regarding success."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not explore the pros and cons of Sophia's current job search strategy. The client's objective was not met because she has not yet articulated her thoughts on the effectiveness of her current approach.",
-          "client_utterance": "I think reflecting on my past successes could help, but I’m still unsure if it can change how I feel about my job search. My current strategy feels like it’s just leading to more disappointment. Maybe there’s a better way to approach this.",
-          "therapist_utterance": "It’s a positive step that you’re open to the idea of a better approach. Let’s take a moment to list out the pros and cons of your current strategy. What do you think works well, and what doesn’t for you in this job search process?",
-          "therapist_use": "Pros and Cons Analysis: encouraged Sophia to evaluate her current job search strategy for greater insight."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Sophia is still not fully acknowledging her feelings. The client objective was not met as she remains uncomfortable discussing her struggles.",
+          "client_utterance": "It feels like I should just be able to fix this on my own. Talking about it makes me anxious because I’m not sure it’ll change anything. I just want to avoid feeling worse.",
+          "therapist_utterance": "It’s perfectly normal to want to avoid difficult feelings, especially when you feel stuck. You’ve been handling a lot on your own, and it’s okay to seek support. What if we took a moment to examine some of those thoughts that are making you anxious?",
+          "therapist_use": "Reflective Listening: validated Sophia's feelings of anxiety and invited her to explore her thoughts."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not help Sophia fully explore the implications of her current strategies. The client's objective was not met because she has not yet expressed a readiness to change her job search approach.",
-          "client_utterance": "I guess the pros are that I’m trying to stay organized and focused, but the cons are that I feel like I’m just going through the motions without any real results. It’s exhausting, and I’m not sure it’s worth it anymore.",
-          "therapist_utterance": "It sounds like you’re recognizing that the effort you’re putting in may not be yielding the results you want, which can be really draining. What do you think would happen if you shifted your focus from control to being open to new methods? How might that change your feelings towards the job search?",
-          "therapist_use": "Decisional Balance Discussions: facilitated a discussion on the implications of Sophia's current approach to enhance her awareness."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Sophia has not identified any specific catastrophic thoughts. The client objective was not met because she is still resisting deeper discussion.",
+          "client_utterance": "I just keep thinking that if I don’t find a job soon, everything will fall apart. It’s like I can’t see any other outcome, and that thought is terrifying.",
+          "therapist_utterance": "That sounds really overwhelming. It’s understandable to have those catastrophic thoughts when you feel so much pressure. Can we look at the evidence for and against that thought? What other outcomes might be possible?",
+          "therapist_use": "Decatastrophizing: introduced the idea of examining catastrophic thoughts to foster a balanced perspective."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not fully explore Sophia's feelings about the potential shift in her approach. The client's objective was not met because she has not yet articulated her values and how they conflict with her current behaviors.",
-          "client_utterance": "I think being open to new methods could be helpful, but I still worry that it won’t lead to anything different. I want to believe that I can find a job that makes me happy, but it feels like I’m just wishing for something that might not happen.",
-          "therapist_utterance": "It’s understandable to feel that way, especially when the job search feels so daunting. Let’s explore what a successful job search would look like for you. How would that impact your life beyond just securing a job?",
-          "therapist_use": "Eliciting Change Talk: encouraged Sophia to envision a successful job search and its broader impact."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Sophia has not yet shifted her perspective. The client objective was not met as she continues to feel overwhelmed and resistant.",
+          "client_utterance": "I guess there could be other outcomes, but it’s hard for me to see them right now. I feel like I’m stuck in this mindset, and it’s frustrating to think about changing it.",
+          "therapist_utterance": "It’s completely normal to feel stuck in a mindset, especially when it’s been your way of thinking for so long. You’re doing a brave thing by even considering that there could be other perspectives. What small step do you think you could take to explore those possibilities?",
+          "therapist_use": "Expressing Empathy: acknowledged Sophia's frustrations while encouraging her to consider small steps forward."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective was met as they successfully explored Sophia's aspirations and the impact of a successful job search. The client's objective was met because Sophia articulated her hopes and began to recognize the possibility of change.",
-          "client_utterance": "If I could find a job that aligns with my values, I think I’d feel more fulfilled and less critical of myself. It would mean regaining some control over my life and actually feeling proud of what I do. I want that for myself.",
-          "therapist_utterance": "That’s a powerful realization, Sophia! It’s clear that finding a job aligned with your values is important to you, and it sounds like it could lead to a positive shift in how you view yourself. How can we start to work towards that goal together?",
-          "therapist_use": "Double-sided reflection: validated Sophia's aspirations while reinforcing her motivation for change."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Sophia is starting to recognize her feelings and explore her mindset. The client objective was met as she was able to navigate the conversation without feeling overwhelmed.",
+          "client_utterance": "I suppose talking about this is helping me realize that I might not be as helpless as I thought. Maybe I can think about it differently, even if it’s just a little bit.",
+          "therapist_utterance": "That's a significant realization, Sophia! Recognizing that you have options is a powerful step. It’s okay to take your time with this process, and I’m here to support you as you explore these new perspectives.",
+          "therapist_use": "Reflective Listening: validated Sophia's progress while encouraging her to continue exploring her thoughts."
+        }
+      ]
+    },
+    {
+      "phase": "contemplation",
+      "therapist_plan": {
+        "phase_of_therapy": "contemplation",
+        "motivational_interviewing_plan": {
+          "objective": "Explore Sophia's ambivalence towards change and strengthen her motivation to address her job search challenges and self-critical thoughts.",
+          "strategies": [
+            {
+              "strategy_name": "Exploring Ambivalence",
+              "instructions_for_therapist": [
+                "Invite Sophia to share her feelings about the job search and her self-criticism.",
+                "Use reflective listening to validate her feelings while gently probing the reasons for her desire to change.",
+                "Encourage her to articulate both sides of her ambivalence regarding job searching and self-criticism."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Ask open-ended questions about how she envisions her life after overcoming her current challenges.",
+                "Prompt her to express any past successes or strengths that could support her job search efforts.",
+                "Reinforce any statements that indicate a desire for change or hopefulness."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Facilitate a discussion about the pros and cons of her current coping strategies versus potential new strategies.",
+                "Use a values clarification exercise to highlight discrepancies between her values (e.g., self-worth, career success) and her current behavior."
+              ]
+            }
+          ]
+        },
+        "cbt_plan": {
+          "interventions": [
+            {
+              "technique_name": "Decatastrophizing",
+              "instructions_for_therapist": [
+                "Introduce the concept of decatastrophizing by discussing Sophia's job search feelings.",
+                "Identify and write down her catastrophic thoughts about job searching.",
+                "Guide her to examine evidence for and against these thoughts.",
+                "Discuss the likelihood of worst-case scenarios and reframe her thoughts to create a balanced perspective.",
+                "Brainstorm potential positive outcomes of the job search process and establish practical coping strategies."
+              ]
+            }
+          ]
+        },
+        "therapist_reasoning": "In addressing Sophia's ambivalence, I will first employ MI strategies to explore her feelings about the job search and self-criticism. Reflective listening will validate her experiences while prompting her to articulate both her desire to change and her fears, fostering a safe space for exploration. I will also elicit change talk by asking open-ended questions that encourage her to envision a positive future and articulate past successes, reinforcing her strengths. Additionally, I will facilitate decisional balance discussions to highlight discrepancies between her current behaviors and her values, guiding her toward recognizing the benefits of change. In tandem, I will implement CBT interventions focused on decatastrophizing, guiding her to challenge her catastrophic thoughts about job searching. This will include identifying specific fears, examining evidence, and reframing her negative beliefs into a balanced perspective. Such a dual approach aligns with her resistance profile, as it emphasizes understanding and collaboration without pushing for immediate action, thus respecting her current stage of change.",
+        "progress_marker": "Sophia expresses increased awareness of her ambivalence and articulates both benefits and concerns about pursuing change. She begins to identify her strengths and past successes, laying the groundwork for potential future actions."
+      },
+      "client_plan": {
+        "phase_of_change": "contemplation",
+        "client_objective": "I hope to gain more clarity about my feelings and thoughts regarding my job search and relationships.",
+        "client_state": {
+          "awareness": "I am starting to see that my self-criticism and control issues might be holding me back in my job search and personal life.",
+          "motivation": "I feel a mix of wanting to change and fearing that change might not lead to anything better.",
+          "openness": "I'm becoming more willing to discuss my feelings and experiences, but I still hold back at times.",
+          "resistance": "I often doubt that any changes will lead to real improvement, which makes me hesitant to fully commit to the process."
+        },
+        "client_reasoning": "Lately, I've been reflecting on my situation, and I realize that my approach to job searching might be more about avoiding failure than actually pursuing what I want. I notice that my thoughts often spiral into negativity, telling me I'll never find a job, and that just reinforces my feelings of being a failure. It's frustrating because I know I should be doing something different, but I can't shake the belief that it won't work out anyway. I feel conflicted, like part of me wants to embrace change, but another part is scared of what that might mean. I worry that if I try and fail again, it’ll just hurt more. Talking to my therapist helps me recognize these patterns, but I still find it hard to let go of the need to control everything. I still feel stuck, but maybe there's a way forward if I keep exploring these feelings.",
+        "progress_marker": "Increased self-reflection and acknowledgment of conflicting emotions regarding change."
+      },
+      "dialogue": [
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Sophia hasn't fully explored her feelings about her job search. Client objective not met: Sophia is still struggling to articulate her ambivalence clearly.",
+          "client_utterance": "I've been thinking more about my job search, and I feel like I'm holding back because I worry it won't lead to anything good. Part of me wants to push forward, but another part is just scared of failing again.",
+          "therapist_utterance": "It's really insightful that you're recognizing both sides of your feelings. It sounds like there's a fear of failure that’s really holding you back from fully engaging in the job search. Can you tell me more about what that fear looks like for you?",
+          "therapist_use": "Exploring Ambivalence: encouraging Sophia to delve deeper into her fears regarding job searching."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: There's still a lack of clarity on the positives of change. Client objective not met: Sophia hasn't identified any strengths or past successes yet.",
+          "client_utterance": "I guess I worry that if I fail again, it’ll just confirm that I’m not good enough. But then I think about the times I did succeed, and it feels like those moments are so far away now.",
+          "therapist_utterance": "It’s understandable to feel that way, especially when past successes feel distant. What if we focused on one of those successful moments? What strengths did you draw on back then that you could use now?",
+          "therapist_use": "Eliciting Change Talk: prompting Sophia to reflect on her past successes to reinforce her strengths."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: The discussion around her strengths hasn’t yet led to a clear vision of the future. Client objective not met: Sophia needs to articulate her feelings about her job search more constructively.",
+          "client_utterance": "I remember when I landed my last job; I was really proactive and confident. It’s hard to see that in myself right now, though. I just feel so overwhelmed with everything.",
+          "therapist_utterance": "It’s great that you could recall a moment where you felt confident and proactive. That shows you have the ability to take action when you feel empowered. How could you harness that confidence again as you move forward with your job search?",
+          "therapist_use": "Eliciting Change Talk: reinforcing Sophia's strengths by connecting her past confidence to her current situation."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: More exploration of the pros and cons of her current coping strategies is needed. Client objective not met: Sophia hasn’t yet weighed her current feelings against potential new strategies.",
+          "client_utterance": "I suppose if I could feel that way again, it might change how I approach things. But right now, I’m still stuck in this cycle of self-doubt, and it’s hard to think of new strategies.",
+          "therapist_utterance": "That sounds really challenging. It can be difficult to break out of self-doubt. Let’s take a moment to discuss the pros and cons of staying in that mindset versus trying something new. What do you think you might gain or lose by shifting your approach?",
+          "therapist_use": "Decisional Balance Discussions: facilitating a discussion around the pros and cons of her current mindset."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Further exploration of her values is necessary. Client objective not met: Sophia hasn't fully identified how her current behavior aligns with her values.",
+          "client_utterance": "I know that I want to feel successful and valued, but my current approach is really not helping me get there. I feel like I’m just going through the motions without any real direction.",
+          "therapist_utterance": "It’s valuable that you’re recognizing the disconnect between how you feel and your values. What does success and feeling valued look like for you, and how might your current actions align or misalign with those values?",
+          "therapist_use": "Decisional Balance Discussions: guiding Sophia to clarify her values in relation to her current coping strategies."
+        },
+        {
+          "reason_for_ending": "KEEP - Therapist objective not met: Need for Sophia to articulate her vision of success. Client objective not met: Sophia hasn't yet created a clear picture of her desired future.",
+          "client_utterance": "I guess success to me means finding a job that I actually enjoy, where I can use my skills and feel fulfilled. But I have this nagging thought that I’ll never get there.",
+          "therapist_utterance": "That’s a meaningful vision of success, and it’s understandable to have those nagging doubts. Let’s explore those thoughts—what evidence do you have that suggests you won’t find that fulfilling job?",
+          "therapist_use": "Decatastrophizing: helping Sophia challenge her negative thoughts about her job search outcomes."
+        },
+        {
+          "reason_for_ending": "MOVE - Therapist objective met: Sophia has articulated her vision of success and explored her fears. Client objective met: Sophia has gained clarity about her feelings and identified her desired future.",
+          "client_utterance": "I realize that I’ve been focusing too much on the fear of failure instead of what I actually want. I think if I can change my perspective, it might help me take steps toward that job I want.",
+          "therapist_utterance": "That's a powerful shift in perspective, Sophia! It sounds like you’re beginning to see how reframing your thoughts can open up new possibilities. What’s one small step you feel ready to take to move closer to that vision of success?",
+          "therapist_use": "Eliciting Change Talk: reinforcing Sophia’s newfound clarity and encouraging action toward her goals."
         }
       ]
     },
@@ -262,21 +220,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Sophia's commitment to change and reinforce her motivation for job searching.",
+          "objective": "Strengthen Sophia's commitment to change and enhance her self-efficacy as she prepares to take action in her job search.",
           "strategies": [
             {
-              "strategy_name": "Strengthening Commitment Language",
+              "strategy_name": "Commitment Strengthening",
               "instructions_for_therapist": [
-                "Encourage Sophia to express her reasons for wanting to find a job, focusing on her personal values and goals.",
-                "Help her articulate her commitment to job searching by asking open-ended questions like, 'What does finding a job mean for you?'",
-                "Reflect back her commitment statements to reinforce her motivation."
+                "Ask Sophia to articulate her reasons for wanting to find a job, reinforcing her motivations.",
+                "Use reflective listening to highlight her expressed desires and concerns, validating her feelings of uncertainty.",
+                "Encourage her to set specific, achievable goals for her job search, enhancing her sense of ownership and commitment."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess her confidence in job searching (e.g., 'On a scale from 1 to 10, how confident do you feel about landing a job?').",
-                "Discuss the factors contributing to her confidence level and explore any past successes to enhance her belief in her abilities."
+                "Facilitate a discussion about what she feels ready to tackle in her job search, exploring her perceived strengths.",
+                "Utilize open-ended questions to help her identify potential resources and support systems, making her feel more empowered.",
+                "Acknowledge and reinforce her progress and any small steps she has already taken towards her goals."
               ]
             }
           ]
@@ -284,79 +243,73 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Collaborate with Sophia to create a detailed action plan for her job search, including specific tasks and timelines.",
-                "Break down the job search process into manageable steps, such as updating her resume, applying to a certain number of jobs each week, and networking.",
-                "Encourage her to set realistic short-term goals that are achievable to build her confidence and prevent overwhelm."
-              ]
-            },
-            {
-              "technique_name": "Problem-Solving Skills Training",
-              "instructions_for_therapist": [
-                "Identify potential barriers Sophia faces in her job search, such as time management or self-criticism.",
-                "Guide her through the problem-solving process by helping her brainstorm possible solutions and coping strategies.",
-                "Encourage her to view setbacks as learning opportunities rather than failures."
+                "Begin by discussing Sophia's job search experiences and feelings of hopelessness, introducing the Decatastrophizing technique.",
+                "Help her identify and articulate her specific catastrophic thoughts about job searching.",
+                "Guide her to examine the evidence for and against these thoughts, encouraging her to consider past successes.",
+                "Assist in reframing her catastrophic beliefs, focusing on realistic and balanced perspectives about her job search efforts.",
+                "Brainstorm potential positive outcomes and coping strategies, ensuring she develops a plan that includes time for social activities."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Sophia's readiness for change during the Preparation phase, I began by focusing on her commitment to changing her job search behaviors. Using motivational interviewing strategies, I emphasized strengthening her commitment language by prompting her to articulate her motivations, which will help solidify her resolve. I also employed scaling questions to explore her confidence in job searching, allowing us to identify areas of strength and potential improvement. This aligns with her resistance profile, as she expresses skepticism about the effectiveness of her efforts. Additionally, I implemented cognitive behavioral techniques, specifically Action Planning, to collaboratively create a realistic job search roadmap that breaks the process into achievable steps, countering her tendency to overprepare and feel overwhelmed. Problem-Solving Skills Training will further equip her with tools to manage barriers and reframe setbacks. Together, these approaches will foster a supportive framework for Sophia to build her self-efficacy while addressing her critical self-views.",
-        "progress_marker": "Sophia has completed her action plan and initiated at least one job application by the next session."
+        "therapist_reasoning": "In addressing Sophia's situation, I will first utilize Motivational Interviewing (MI) strategies to strengthen her commitment to change. By encouraging her to articulate her motivations for seeking a job, I can validate her feelings of uncertainty while reinforcing her desire to improve her situation. This approach will help her feel more empowered and ready to take action. I will also explore her confidence and readiness by discussing her strengths and available support systems, which will enhance her self-efficacy. For the CBT component, I will introduce the Decatastrophizing technique to help Sophia challenge her catastrophic thoughts regarding her job search. By identifying these thoughts and examining the evidence for and against them, I will guide her in reframing her beliefs and developing a more balanced perspective. This structured plan will address her resistance by focusing on small, manageable steps and reinforcing her progress, allowing her to feel supported and less overwhelmed.",
+        "progress_marker": "Sophia will track her job search activities, including the goals she sets and her reflections on her thoughts and emotions, to monitor her progress and adapt her action plan as needed."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore practical strategies for my job search and improve my self-criticism.",
+        "client_objective": "I hope to discover practical steps I can take to improve my job search and relationship with Ivan.",
         "client_state": {
-          "awareness": "I recognize that my current job search is not yielding results and is affecting my mental health and relationships.",
-          "motivation": "I feel a strong desire to change my situation and find a job that aligns with my skills and values.",
-          "openness": "I'm willing to discuss my thoughts and feelings about my job search and how I can approach it differently.",
-          "resistance": "I still struggle with doubts about my abilities and fear that my efforts may not lead to success."
+          "awareness": "I recognize that my current approach to job searching and my relationship with Ivan is not yielding positive results, and I understand that my self-criticism is hindering my progress.",
+          "motivation": "I feel a strong desire to change my situation and am beginning to believe that I can take actionable steps towards improvement.",
+          "openness": "I am willing to discuss my thoughts and feelings with my therapist, and I am curious about exploring new strategies for coping and responding to challenges.",
+          "resistance": "I still carry doubts about my ability to succeed and fear that my efforts may lead to further disappointment, which makes me hesitant at times."
         },
-        "client_reasoning": "I've come to realize that my job search isn't going well, and it's making me feel anxious and down. I know I need to change my approach, especially since my current mindset is affecting my relationships with Ivan and my family. I hope that by talking about my struggles in therapy, I can figure out practical strategies to improve my situation. I want to believe I can find a job that feels right for me, but I can’t shake off the fear that my efforts will continue to be in vain. Sometimes, I feel like no matter how much I prepare or apply, it won't make a difference. However, I know that with support, I can start to challenge my negative thoughts and find a way forward, even if it's difficult to envision right now."
+        "client_reasoning": "I’m starting to see that my job search isn’t going as planned, and it feels like I’m stuck in a cycle of self-criticism that’s only making things worse. I’ve realized that I can’t keep pushing myself without seeing results. Change is necessary; I need to find a way to break this pattern. I’m hopeful that if I can shift my mindset and try new strategies, things might get better. I’ve been feeling a bit more motivated lately, especially after talking with my therapist about my fears and doubts. I know that I must confront my negative beliefs and be more open to the possibility of success. However, I still worry that I’ll fail, and sometimes I feel pessimistic about the future. It’s a mix of hope and fear, but I’m ready to explore my options and see what I can do to move forward."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; the therapist's objective was not met as they haven't yet strengthened Sophia's commitment language; the client's objective was not met as Sophia has not yet articulated her reasons for wanting to find a job.",
-          "client_utterance": "I've been thinking about how finding a job could help me regain some control over my life and boost my self-esteem. It feels like a big deal to me, but I still worry about how to make it happen.",
-          "therapist_utterance": "It sounds like finding a job is deeply tied to your sense of control and self-worth. Can you tell me more about what specifically finding a job means for you? What values does it connect to?",
-          "therapist_use": "Open-ended question: used to encourage Sophia to articulate her motivations and values related to job searching."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet fully reinforced Sophia's motivations. Client objective not met: Sophia hasn't identified specific, actionable steps for her job search.",
+          "client_utterance": "I've been thinking about what success means to me, and I really want to find a job where I can feel fulfilled. But every time I start looking, I get this wave of self-doubt, and it makes me hesitate. I wonder if I even have what it takes to succeed anymore.",
+          "therapist_utterance": "It's really insightful that you're reflecting on what success means for you, Sophia. That feeling of self-doubt can be a major barrier, especially when you’re trying to move forward. Let’s explore what specific steps you believe could lead you closer to that fulfilling job you desire.",
+          "therapist_use": "Open-ended questioning: Encouraged exploration of specific steps to enhance commitment."
         },
         {
-          "reason_for_ending": "KEEP; the therapist's objective was not met as they haven't explored Sophia's confidence in job searching yet; the client's objective was not met as she hasn't fully expressed her motivations.",
-          "client_utterance": "I guess having a job means I could feel accomplished again and maybe stop being so hard on myself. But I still feel like I don't know where to start, and that makes me anxious.",
-          "therapist_utterance": "That’s a powerful insight, Sophia. On a scale from 1 to 10, how confident do you feel about your ability to land a job right now? What do you think contributes to that number?",
-          "therapist_use": "Scaling question: used to assess Sophia's confidence in job searching and identify areas for improvement."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet facilitated a discussion on Sophia's strengths and resources. Client objective not met: Sophia hasn't articulated specific steps she feels ready to take.",
+          "client_utterance": "I suppose I could start by updating my resume and maybe looking for roles that align more with my skills. But I still worry that even if I do that, it might not lead anywhere. It feels like a lot of pressure.",
+          "therapist_utterance": "Updating your resume and looking for roles that align with your skills sounds like a solid start. It’s understandable to feel pressure, especially when the stakes feel high. What strengths do you think you can draw upon to help you with this process?",
+          "therapist_use": "Strength exploration: Helped Sophia identify her strengths to enhance her confidence."
         },
         {
-          "reason_for_ending": "KEEP; the therapist's objective was not met as they haven't yet discussed factors contributing to Sophia's confidence; the client's objective was not met as she hasn't worked through her fears and doubts about her abilities.",
-          "client_utterance": "I’d say I’m around a 4. I feel like I have some skills, but I also doubt whether employers will see them. It just feels like everyone is more qualified than I am.",
-          "therapist_utterance": "It’s completely natural to feel that way, especially when comparing yourself to others. Can you think of any past experiences where you felt confident and skilled? How did you manage to succeed then?",
-          "therapist_use": "Exploration of past successes: used to enhance Sophia's belief in her abilities and counter her self-doubt."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't reinforced Sophia's progress sufficiently. Client objective not met: Sophia hasn't yet expressed a clear commitment to taking action.",
+          "client_utterance": "I remember that I used to be really good at networking, but lately, I just avoid it because I fear rejection. I think if I could tap into that skill again, it might help me. But I still feel hesitant about putting myself out there.",
+          "therapist_utterance": "It’s great that you can recall your networking skills, and recognizing that fear is a first step towards addressing it. Putting yourself out there can be daunting, but it’s also an opportunity for connection and support. What specific action can you take to ease into networking again?",
+          "therapist_use": "Encouragement of networking: Validated her strengths while gently pushing for actionable steps."
         },
         {
-          "reason_for_ending": "KEEP; the therapist's objective was not met as they haven't created a detailed action plan with Sophia yet; the client's objective was not met as she hasn't identified specific strategies for her job search.",
-          "client_utterance": "There were times in school when I really excelled in project work. If I could just remember that feeling and apply it to my job search, maybe I could push through.",
-          "therapist_utterance": "That’s a great connection, Sophia. Let’s focus on creating an action plan together. What are some specific steps you could take this week to start your job search?",
-          "therapist_use": "Action planning: used to collaboratively create a realistic job search roadmap and manageable steps."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't fully facilitated a discussion on coping strategies. Client objective not met: Sophia hasn't yet committed to a specific action plan.",
+          "client_utterance": "I think I could start by reaching out to a colleague I trust to see if they know of any openings. That feels manageable for me, but I still get nervous thinking about it. I just don’t want to face another disappointment.",
+          "therapist_utterance": "Reaching out to a trusted colleague sounds like a very manageable first step. It’s completely natural to feel nervous, especially with past disappointments weighing on you. What coping strategies can you think of that might help you handle any potential rejection you might face?",
+          "therapist_use": "Coping strategy brainstorming: Encouraged Sophia to think about how to manage fear of rejection."
         },
         {
-          "reason_for_ending": "KEEP; the therapist's objective was not met as they need to refine the action plan further; the client's objective was not met as she hasn't yet taken any actions towards her job search.",
-          "client_utterance": "I think I could start by updating my resume and maybe applying to a couple of jobs. It feels overwhelming, but I want to try.",
-          "therapist_utterance": "That’s a fantastic start! Let’s break it down even further. How about setting a goal for the number of applications you want to submit this week? What feels manageable for you?",
-          "therapist_use": "Breaking down tasks: used to prevent overwhelm and encourage realistic goal-setting."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet helped Sophia outline a comprehensive plan. Client objective not met: Sophia hasn't fully laid out her action steps.",
+          "client_utterance": "Maybe I could also set aside some time each week specifically for job searching, so it feels less overwhelming. I just need to make sure I don’t fall back into the self-criticism trap if things don’t go as planned.",
+          "therapist_utterance": "Setting aside dedicated time each week for your job search sounds like a great strategy to create structure. It’s important to be kind to yourself during this process and recognize that setbacks are part of growth. How can you remind yourself to stay positive if things don’t go as planned?",
+          "therapist_use": "Planning reinforcement: Helped Sophia set a structured time for her job search while discussing self-compassion."
         },
         {
-          "reason_for_ending": "KEEP; the therapist's objective was not met as they haven't addressed any potential barriers to her job search; the client's objective was not met as Sophia hasn't discussed her feelings about setbacks yet.",
-          "client_utterance": "I think aiming for two applications feels okay, but I’m worried that if I don’t hear back, I’ll just feel disappointed again.",
-          "therapist_utterance": "It’s understandable to fear disappointment, especially after putting in effort. What are some strategies you could use to cope with that feeling if it arises? How can we view setbacks as learning opportunities?",
-          "therapist_use": "Problem-solving skills training: used to identify barriers and brainstorm coping strategies for setbacks."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't ensured that Sophia feels empowered to commit. Client objective not met: Sophia hasn't expressed confidence in her action plan.",
+          "client_utterance": "I guess I could try to note down my thoughts and feelings during this process, so I can see my progress. That might help me stay grounded and focused. But I still worry that I won’t stick to it.",
+          "therapist_utterance": "That’s a wonderful idea, Sophia! Tracking your thoughts and feelings can really help you reflect on your progress and hold yourself accountable. What can you do to remind yourself to keep up with this practice, even on tough days?",
+          "therapist_use": "Progress tracking encouragement: Supported Sophia in developing a plan to monitor her job search journey."
         },
         {
-          "reason_for_ending": "MOVE; the therapist's objective was met as they have strengthened Sophia's commitment language and explored her confidence; the client's objective was met as she has articulated her motivations and planned specific actions for her job search.",
-          "client_utterance": "I realize that even if I face setbacks, I can still learn from them. This feels like a better approach, and I’m ready to take those first steps.",
-          "therapist_utterance": "That’s an incredible shift, Sophia! Your willingness to embrace the process and learn from setbacks is a sign of growth. I believe you have the strength to move forward and find a job that aligns with your values.",
-          "therapist_use": "Reflection and affirmation: used to reinforce Sophia's commitment and readiness to embrace her job search."
+          "reason_for_ending": "MOVE - Therapist objective met: The therapist has empowered Sophia to commit to actionable steps. Client objective met: Sophia has articulated a clear action plan and feels more confident.",
+          "client_utterance": "I feel like I’m finally ready to take these steps. I want to embrace the process, even with the uncertainties. I know it won't be easy, but I believe I can do this.",
+          "therapist_utterance": "That’s an incredible shift, Sophia! It sounds like you’re feeling more empowered and ready to embrace the challenges ahead. I believe you have the tools and the strength to navigate this process, and I'm here to support you every step of the way.",
+          "therapist_use": "Commitment strengthening: Validated Sophia's readiness and commitment to her action plan."
         }
       ]
     }
