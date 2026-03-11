@@ -12,28 +12,30 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To build rapport with Ian and enhance his awareness of his feelings and thoughts regarding his current situation.",
+          "objective": "Build rapport and increase Ian's awareness of his thoughts and feelings regarding his current situation.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Ian's concerns and feelings.",
-                "Reflect back what he expresses to validate his feelings of frustration and helplessness.",
-                "Use phrases like 'It sounds like you feel overwhelmed with your current situation.'"
+                "Listen attentively to Ian's concerns without interruption.",
+                "Reflect back his feelings of helplessness and frustration to validate his experience.",
+                "Use phrases such as 'It sounds like you're feeling overwhelmed and frustrated with your situation.'"
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Ian's past experiences and the impact of his breakup on his mental health.",
-                "Use empathetic statements like, 'I can see how disappointing it must feel when you can't engage in activities that once brought you joy.'"
+                "Acknowledge Ian's feelings of isolation and hopelessness.",
+                "Convey understanding by saying, 'It seems like you feel stuck and that nothing seems to improve, which must be really hard for you.'",
+                "Encourage Ian to share more about his experiences without judgment."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Ian to explore any gaps between his current feelings and his values or desires.",
-                "Ask open-ended questions like, 'What do you value the most in life that you feel is being affected right now?'"
+                "Encourage Ian to talk about his values and what he hopes for in life.",
+                "Help him recognize the gap between his current feelings and his values by asking, 'What would your life look like if you felt better?'",
+                "Reinforce the idea that change is possible by exploring his thoughts on that gap."
               ]
             }
           ]
@@ -41,84 +43,87 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Ian to articulate his automatic thoughts when he feels unable to perform tasks.",
-                "Encourage him to write these thoughts down without pushing for change, simply to observe patterns."
+                "Ask Ian about the evidence for his beliefs of helplessness and inability to change.",
+                "Use questions like, 'What evidence do you have that you can't manage your feelings?'",
+                "Encourage him to consider alternative viewpoints and challenge his automatic thoughts."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Help Ian identify any cognitive distortions in his thought patterns, such as 'all-or-nothing' thinking.",
-                "Introduce the idea of cognitive distortions without judgment, focusing on understanding rather than changing them."
+                "Invite Ian to think about a time when he successfully managed a difficult situation, even if it's unrelated.",
+                "Ask, 'Can you recall a moment when you felt capable, even if just for a short time?'",
+                "Support him in identifying strengths and resources he might not recognize."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Changing Rules to Wishes",
               "instructions_for_therapist": [
-                "Explore with Ian the situations leading to his behaviors, particularly his distraction techniques.",
-                "Encourage him to reflect on what emotions or thoughts arise when he engages in these behaviors."
+                "Explore Ian's internal rules about handling emotions by discussing, 'What do you believe you should be able to do when feeling this way?'",
+                "Encourage him to reframe these rules as wishes, such as, 'I wish I could manage my feelings without feeling guilty.'",
+                "Help him understand that it's okay to need help and support."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Ian, the primary focus is on building rapport and understanding his current mindset, which is characterized by feelings of helplessness and frustration. I will utilize Motivational Interviewing strategies such as reflective listening and expressing empathy to create a safe space for Ian to explore his feelings without feeling pressured to change. This aligns with his resistance profile, as he is currently in a pessimistic state and may react defensively to direct suggestions for change. By developing discrepancy, I can gently guide him to articulate any conflicts between his values and his current situation, which may increase his awareness. Additionally, I will incorporate CBT techniques such as identifying automatic thoughts, recognizing cognitive distortions, and performing functional analysis of his behaviors. This approach allows Ian to observe and understand his thought patterns and emotional responses without pushing him toward immediate action or behavioral change, which is crucial at this stage of his therapy.",
-        "progress_marker": "Ian expresses a willingness to discuss his feelings and begins to identify automatic thoughts without defensiveness."
+        "therapist_reasoning": "The primary focus in this pre-contemplation phase is to build rapport and increase Ian's awareness of his thoughts and emotions without pushing for change. I chose reflective listening to validate his feelings of frustration and helplessness, which is crucial for establishing trust. Expressing empathy allows Ian to feel understood and less isolated, thus reducing defensiveness. Developing discrepancy helps him explore the gap between his current state and his personal values, which can awaken curiosity about possible changes without direct pressure. In CBT interventions, I employed evidence-based questioning to challenge his core beliefs of helplessness, prompting him to evaluate the evidence behind his negative thoughts. Alternative perspectives encourage Ian to identify moments of success that he may overlook, fostering a sense of capability. Finally, changing rules to wishes helps him reframe his internal expectations, promoting self-compassion and understanding that needing help is acceptable. These strategies are aimed at engaging Ian in self-reflection, ultimately encouraging a gradual increase in motivation for change.",
+        "progress_marker": "Ian shows signs of increased engagement in sessions and begins to articulate feelings and thoughts more openly."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I want to find a way to feel better without having to dig too deep into my problems right now.",
+        "client_objective": "I hope to talk about my feelings without being judged or pushed to change too quickly.",
         "client_state": {
-          "awareness": "I know something is wrong, but I'm not sure what it is or if it can change.",
-          "motivation": "I want to feel better, but it seems impossible and I doubt my ability to change.",
-          "openness": "I'm hesitant to share my thoughts because I worry they won't be understood or will be dismissed.",
-          "resistance": "I feel defensive about discussing my issues, as it feels overwhelming and pointless."
+          "awareness": "I know something is wrong, but I don’t think it’s a big deal or that it can change.",
+          "motivation": "I want to feel better, but I doubt it’s possible for me.",
+          "openness": "I’m hesitant to share too much because it feels uncomfortable and overwhelming.",
+          "resistance": "I feel defensive and think discussing my issues won’t make a difference."
         },
-        "client_reasoning": "I really don't know where to start when it comes to my feelings. I feel like I should just be able to handle my life better, but every time I think about discussing my situation, I get this tight knot in my stomach. It feels overwhelming to think about my depression, especially after everything that's happened with my friends and the breakup. I want to feel better, but part of me thinks, 'Why am I even trying?' It just seems like nothing I do makes a difference. Talking about it makes me feel vulnerable, and I don't want to feel like I'm being judged or that my problems are being minimized. I just want to get through the day without focusing too much on what’s wrong, but at the same time, I know I can't keep avoiding it forever. Therapy feels like a double-edged sword; it could help, but it also feels like it would just make everything more real and painful."
+        "client_reasoning": "I feel stuck in this place where I know I should be doing something about my depression, but I really don’t see the point. I mean, I’ve tried before, and nothing really changes. It’s like I’m just going through the motions, and I feel like I can't even handle simple tasks anymore. Talking about my feelings makes me anxious; it feels like I’m exposing a weakness. I want to be better, but part of me thinks it’s hopeless. I keep telling myself that if I can’t manage my own feelings, then I’m failing, and that just adds to the weight I already carry. I guess I avoid digging into these thoughts because I’m scared of what I might find or how it might feel. Therapy feels like a safe zone sometimes, but also like a place where I might be pushed to confront things I’m not ready to face."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met: Ian didn't fully express his feelings or thoughts. Client objective not met: Ian still feels overwhelmed and hesitant to engage deeply.",
-          "client_utterance": "I guess I just feel like everything is piling up on me, and I don’t even know where to begin. It’s like even thinking about it makes the knot in my stomach tighten. I know I should be able to handle this better, but it feels impossible right now.",
-          "therapist_utterance": "It sounds like you feel overwhelmed with your current situation, and that it’s hard to even start thinking about it. I can see how frustrating this must be for you. What do you think is making it feel so impossible to handle?",
-          "therapist_use": "Reflective Listening: validated Ian's feelings of overwhelm and frustration, encouraging deeper exploration."
+          "reason_for_ending": "KEEP; The therapist's objective to build rapport and increase awareness is still underway. The client's objective to talk about feelings without judgment is not fully met as he remains hesitant.",
+          "client_utterance": "I guess I feel like I’m stuck in this cycle, where I know I should be doing something, but it just feels pointless. I mean, I’ve tried before, and nothing really changes. It’s hard to even think about what I would want to feel like.",
+          "therapist_utterance": "It sounds like you're feeling overwhelmed and frustrated with your situation. You’ve tried to make changes before, but it feels like they haven't led to anything different. Can you share more about what that cycle feels like for you?",
+          "therapist_use": "Reflective Listening: used to validate Ian's feelings of frustration and encourage further exploration."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met: Ian didn't disclose specific emotions or thoughts. Client objective not met: Ian remains hesitant to discuss his feelings.",
-          "client_utterance": "I guess I just feel like I’m stuck in this loop. It’s hard to think about how I used to enjoy things, and now I can’t even picture doing them again. I don’t know what I value anymore; it feels like everything is just a blur.",
-          "therapist_utterance": "I hear you saying that you feel stuck and that the things that once brought you joy now feel distant. It must be disappointing when you can’t connect with things that mattered to you. If you could think of one thing that you used to value, what would that be?",
-          "therapist_use": "Expressing Empathy: acknowledged Ian's feelings of disappointment and encouraged exploration of past values."
+          "reason_for_ending": "KEEP; The therapist aims to help Ian articulate thoughts and feelings more openly, which hasn't fully occurred yet. The client still feels defensive and uncertain about sharing more.",
+          "client_utterance": "It’s just like I go through the motions every day, but I don’t really feel alive. I’ve got friends who care, but I feel isolated like they wouldn't understand. Talking about this stuff makes me anxious because I worry they’ll think I’m weak.",
+          "therapist_utterance": "It seems like you feel stuck and that nothing seems to improve, which must be really hard for you. You mentioned feeling isolated, even with friends around you, and that adds to the weight you carry. What would it look like for you to feel more connected, even in small ways?",
+          "therapist_use": "Expressing Empathy: to acknowledge Ian's feelings of isolation and encourage him to share more."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met: Ian has not yet identified any specific values. Client objective not met: Ian continues to express feelings of being lost without clarity.",
-          "client_utterance": "I can’t really think of anything that stands out right now. Everything feels so heavy. It’s like I know I used to enjoy things, but it's hard to remember those feelings.",
-          "therapist_utterance": "That sounds really tough, feeling like the joy has been overshadowed by everything else. It’s understandable that remembering those feelings would be difficult when you’re in this state. Let’s take a moment to explore some of the thoughts that come to mind when you think about what’s been going on.",
-          "therapist_use": "Reflective Listening: validated Ian's struggle with feelings of heaviness and encouraged exploration of his thoughts."
+          "reason_for_ending": "KEEP; The therapist's goal to develop a deeper understanding of Ian's perspective is still in progress. The client is not yet ready to explore his values or consider change.",
+          "client_utterance": "I don’t even know what connection means for me anymore. I feel like I'm just waiting for something to change without actually doing anything. I guess I just don’t see how feeling better is possible for me.",
+          "therapist_utterance": "I hear you saying that you're feeling disconnected and uncertain about what feeling better would look like. It must be really frustrating to feel like you're waiting for change without knowing how to start. If you could imagine a life where things felt more manageable, what would that look like for you?",
+          "therapist_use": "Developing Discrepancy: to encourage Ian to think about his values and what he hopes for in life."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met: Ian hasn't articulated any automatic thoughts. Client objective not met: Ian still feels overwhelmed without clarity.",
-          "client_utterance": "I feel like I’m just failing at everything. Like, why can’t I just get up and do something? I think I just keep telling myself that it’s pointless to try.",
-          "therapist_utterance": "It sounds like you’ve been really hard on yourself, feeling like you’re failing and questioning the point of trying. That’s a heavy burden to carry. What do you think that thought of 'it's pointless to try' does for you?",
-          "therapist_use": "Identifying Automatic Thoughts: highlighted Ian's self-critical thoughts to help him articulate his feelings."
+          "reason_for_ending": "KEEP; The therapist's objective to increase awareness of Ian's thoughts is still being pursued. The client is still struggling to articulate a vision for change.",
+          "client_utterance": "Honestly, I can't picture that right now. It feels like I'm stuck in this fog where everything just feels heavy. Even thinking about it makes me anxious, like I'm setting myself up for disappointment.",
+          "therapist_utterance": "It sounds like you're feeling weighed down by that fog, and imagining a different life is causing you anxiety. That’s completely understandable, especially when past attempts at change have felt disappointing. Can we explore what evidence there is for your belief that change isn't possible?",
+          "therapist_use": "Evidence-Based Questioning: to challenge Ian's core beliefs about his ability to change."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met: Ian hasn't explored the impact of his thoughts. Client objective not met: Ian feels the weight of his thoughts without understanding their effects.",
-          "client_utterance": "I guess it just makes me feel worse, like I shouldn’t even bother. I know I should try to do things, but it feels like everything is against me. It’s frustrating.",
-          "therapist_utterance": "I can see how that thought makes things feel even heavier for you, almost like it adds another layer of frustration. It’s understandable to feel that way when you're struggling. What would it feel like to challenge that thought, even just a little?",
-          "therapist_use": "Developing Discrepancy: encouraged Ian to consider a different perspective on his thoughts and feelings."
+          "reason_for_ending": "KEEP; The therapist is still working to help Ian see different perspectives, which hasn't fully emerged yet. The client continues to express doubt about his ability to manage his feelings.",
+          "client_utterance": "I don't know, it feels like I’m just stuck in this loop of feeling helpless. I keep telling myself that if I can’t manage my own feelings, then I’m failing. It’s hard to think of times when I felt capable because they feel so far away.",
+          "therapist_utterance": "It seems like you’re feeling trapped by that belief of helplessness. It’s important to recognize those moments, even if they seem distant. Can you think of a time, even in a small way, when you managed a difficult situation successfully?",
+          "therapist_use": "Alternative Perspective: to help Ian identify moments of success that he may overlook."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met: Ian hasn't responded to challenging his thoughts. Client objective not met: Ian still feels stuck without a sense of direction.",
-          "client_utterance": "I don’t know if I could even change how I think about it. It feels so ingrained in me now. What if it just stays like this forever?",
-          "therapist_utterance": "It sounds like you're feeling really trapped by those thoughts, almost resigned to them. That fear of permanence can be incredibly overwhelming. What if we took a small step back and just looked at those thoughts without judgment?",
-          "therapist_use": "Expressing Empathy: acknowledged Ian's feelings of being trapped and encouraged a non-judgmental exploration of his thoughts."
+          "reason_for_ending": "KEEP; The therapist's objective to encourage self-reflection is still being pursued. The client has not yet opened up sufficiently about his internal rules and feelings.",
+          "client_utterance": "I guess I’ve had some moments where I handled things better, but they feel like exceptions. Most of the time, I just feel like I should be able to handle everything on my own. It’s tough to think that needing help means I’m not strong enough.",
+          "therapist_utterance": "It seems like you're holding yourself to some really high standards about handling everything alone. It’s okay to wish for that capability, but it’s also okay to recognize that needing help is a sign of strength, not weakness. What would it feel like to reframe those expectations as wishes instead of rules?",
+          "therapist_use": "Changing Rules to Wishes: to help Ian reframe his internal expectations and promote self-compassion."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met: Ian expressed deeper feelings and began to explore thoughts. Client objective met: Ian is willing to consider exploring his thoughts and feelings further.",
-          "client_utterance": "Maybe looking at them without judgment could help. I guess I am ready to try, even if it feels scary. I just want to feel a little better, even if it’s just for a moment.",
-          "therapist_utterance": "I’m glad to hear that you're open to trying this new approach. It’s a significant step to consider exploring your thoughts without the weight of judgment. Let’s take it one moment at a time and see where it leads us.",
-          "therapist_use": "Encouragement: reinforced Ian's willingness to explore his thoughts and feelings, marking a positive shift."
+          "reason_for_ending": "MOVE; The therapist has built rapport and increased Ian's awareness of his thoughts and feelings. The client has articulated his feelings more openly and seems ready to consider the possibility of discussing change.",
+          "client_utterance": "I think I’m starting to see that it’s okay to need help and that I don’t have to manage everything on my own. I still feel unsure, but maybe there’s a possibility of change. It feels a little less heavy to think about talking more openly.",
+          "therapist_utterance": "That's a significant insight, Ian. Recognizing that you don’t have to manage everything alone can be a powerful step towards feeling better. It sounds like you're beginning to feel a bit lighter in considering the idea of sharing more openly.",
+          "therapist_use": "Reflective Listening: to validate Ian's emerging awareness and encourage further exploration of his feelings."
         }
       ]
     },
@@ -127,27 +132,27 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Ian's ambivalence towards change and increase his motivation to engage with his mental health treatment.",
+          "objective": "Explore Ian's ambivalence towards change and strengthen his motivation to engage with his mental health.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Ian to reflect on the pros and cons of staying the same versus making changes in his life.",
-                "Encourage him to articulate both sides of his ambivalence, such as the comfort of familiar coping strategies versus the desire for improvement."
-              ]
-            },
-            {
-              "strategy_name": "Eliciting Change Talk",
-              "instructions_for_therapist": [
-                "Prompt Ian to discuss times when he felt motivated to change and what factors contributed to that motivation.",
-                "Use open-ended questions to help him express his desire for a better state of being, despite feelings of helplessness."
+                "Invite Ian to discuss what he values in life and how his current situation contrasts with those values.",
+                "Encourage him to articulate both the reasons he wants to change and the reasons he feels hesitant."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Guide Ian to identify his core values, such as connection with friends and self-acceptance, and how his current behaviors are misaligned with these values.",
-                "Facilitate a discussion on how his current coping strategies may not be serving his deeper desire for connection and fulfillment."
+                "Facilitate a discussion where Ian can reflect on the differences between his current behavior and his valued goals.",
+                "Ask open-ended questions that help him identify how his current coping strategies are not aligning with his desire for improvement."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance Discussions",
+              "instructions_for_therapist": [
+                "Guide Ian in a pros and cons analysis of changing versus remaining as he is, emphasizing the importance of his perspective.",
+                "Document his responses to visualize the internal conflict, and encourage him to express any feelings that arise during this exploration."
               ]
             }
           ]
@@ -155,84 +160,84 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Cognitive Restructuring",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Introduce Socratic questioning to challenge Ian's beliefs about his incompetence and helplessness.",
-                "Ask him to provide evidence for his automatic thoughts, such as 'It shouldn't be this hard,' and explore alternative interpretations."
+                "Help Ian identify his catastrophic thoughts about his ability to manage tasks and challenge these beliefs.",
+                "Encourage him to replace these thoughts with more balanced perspectives, focusing on his strengths and past successes."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Help Ian recognize patterns of all-or-nothing thinking and catastrophizing in his self-assessment.",
-                "Encourage him to write down instances of these cognitive distortions and consider more balanced thoughts."
+                "Ask Ian to consider evidence that supports or contradicts his beliefs of being incompetent or helpless.",
+                "Encourage him to reflect on past situations where he succeeded despite feeling overwhelmed, reinforcing his ability to cope."
               ]
             },
             {
-              "technique_name": "Examining Underlying Beliefs",
+              "technique_name": "Efficiency Evaluation",
               "instructions_for_therapist": [
-                "Facilitate a discussion about Ian's intermediate beliefs, particularly around self-management and failure.",
-                "Encourage him to explore the origins of these beliefs and how they influence his current emotional state."
+                "Discuss with Ian the effectiveness of his current coping strategies, like distraction techniques, and explore if they truly serve his needs.",
+                "Invite him to think about alternative strategies that might be more fulfilling or effective for him."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To assist Ian in the contemplation phase, I will employ Motivational Interviewing strategies to address his ambivalence and bolster his motivation. Initially, I will explore Ian's ambivalence by facilitating a discussion about the pros and cons of change versus remaining in his current state, allowing him to voice conflicting feelings. This will naturally lead to eliciting change talk, where I will encourage him to recall moments of motivation and desire for improvement. By developing discrepancy between his core values and current behaviors, I aim to enhance his awareness of the impact of his actions on his well-being. Concurrently, I will use CBT techniques, starting with cognitive restructuring to challenge his negative beliefs about helplessness. Socratic questioning will guide him in examining the evidence supporting his automatic thoughts, fostering a more balanced perspective. By identifying cognitive distortions and exploring underlying beliefs, I will help him gain insights into the roots of his pessimism and feelings of inadequacy. This dual approach aims to create a reflective dialogue, increasing Ian’s self-efficacy and preparing him for future action planning.",
-        "progress_marker": "Ian articulates specific ambivalent feelings about change and identifies at least one instance when he felt motivated to improve his mental health."
+        "therapist_reasoning": "In this session, I aim to address Ian's ambivalence towards change by employing Motivational Interviewing strategies. First, I will explore his ambivalence through open-ended questions that allow him to express both his desire to change and his fears associated with it. This will help him articulate discrepancies between his current behavior and values. Next, I will facilitate a decisional balance discussion, allowing him to weigh the pros and cons of changing versus maintaining his current state, which will further clarify his motivations. For the CBT interventions, I will utilize decatastrophizing to challenge his catastrophic thoughts about his capabilities and encourage a more balanced mindset. Evidence-based questioning will help Ian critically evaluate his self-perceptions of incompetence, providing a counter-narrative to his negative beliefs. Finally, I will conduct an efficiency evaluation of his current coping strategies, guiding him toward more effective approaches. Throughout the session, my aim is to maintain a collaborative and non-confrontational stance to foster a safe space for reflection.",
+        "progress_marker": "Ian has begun to articulate his feelings about change and has identified at least two values that conflict with his current behaviors."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I want to better understand my feelings and thoughts about my current situation and explore if change is possible for me.",
+        "client_objective": "I hope to explore my feelings about my depression and understand why I struggle to make changes.",
         "client_state": {
-          "awareness": "I am starting to recognize that my feelings of isolation and frustration are affecting my life and my relationships.",
-          "motivation": "I want to change, but I'm unsure if I can actually do it or if it will even help me.",
-          "openness": "I'm willing to discuss my experiences and feelings, but I still hold back some thoughts due to fear of judgment.",
-          "resistance": "I feel a strong sense of doubt about whether change is truly possible, and it makes me hesitant to fully commit to the idea."
+          "awareness": "I am starting to see that my feelings of frustration and isolation might be linked to my inability to engage with the things I used to enjoy.",
+          "motivation": "I want to feel better and change my situation, but I often doubt whether I can actually do it.",
+          "openness": "I feel somewhat willing to share my thoughts and emotions, though I worry about how they will be received.",
+          "resistance": "I find myself resisting the idea of change, feeling pessimistic and unsure that my efforts will make any difference."
         },
-        "client_reasoning": "I’ve been thinking a lot about my situation lately, and I realize that my isolation and depression are not just passing feelings; they’re patterns I’ve been stuck in for a long time. I can see that my past experiences, like my recent breakup and my struggles with friends, play a big role in how I feel now. Part of me wants to change and find a way to break out of this cycle, but there’s another part that questions if it’s even possible. I keep wondering, why is it so hard to do things I used to enjoy? I feel guilty for not being able to manage my feelings better, and that pessimism makes me doubt my efforts. Talking about this in therapy has helped me reflect more deeply, but I still feel conflicted. I want to get better, yet I’m afraid that I’ll end up disappointed again if I try and fail."
+        "client_reasoning": "I've been reflecting on my life and the patterns that seem to keep me stuck in this cycle of feeling down. I recognize that my old coping strategies, like sewing or catching up on work, aren't working as well as they used to, and that frustrates me. I think, 'Why can’t I even do simple tasks?' and it makes me feel guilty for not being able to manage my mental health better. I want to change, but there's a part of me that feels like nothing I do will really help. It’s confusing because I want to open up about these feelings in therapy, but I’m scared that I’ll just end up feeling more helpless. I know I need to talk about this, and I appreciate that therapy gives me a space to explore these conflicting emotions, but I still feel trapped in my thoughts about whether change is even possible for me."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met because Ian hasn't yet articulated specific ambivalent feelings about change. Client's objective was not met as Ian has not explored the possibility of change sufficiently.",
-          "client_utterance": "I've been thinking about my situation a lot lately, and I see that I feel really isolated. Part of me wants to reach out to friends, but I also worry about being a burden. It's like I want to change, but at the same time, I feel like it's too late for me.",
-          "therapist_utterance": "It sounds like you're feeling a strong pull towards wanting to connect with your friends, but there's that fear of being a burden holding you back. It must be difficult to feel that way, especially when you know that connection is important. Can you tell me more about what it feels like to be stuck between those two thoughts?",
-          "therapist_use": "Open-ended question: used to encourage Ian to explore his conflicting feelings about reaching out."
+          "reason_for_ending": "KEEP, therapist objective not met: did not fully explore client's ambivalence; client objective not met: has not completely articulated feelings about depression.",
+          "client_utterance": "I'm starting to feel like part of me wants to change, but another part just thinks it's pointless. I know I should be doing things I used to enjoy, but I hesitate so much. It’s like I’m caught between wanting to feel better and fearing it won't actually help.",
+          "therapist_utterance": "It sounds like you're experiencing a real tug-of-war between your desire for change and the doubts that come with it. Can you tell me more about those things you used to enjoy? What do you think holds you back from engaging with them now?",
+          "therapist_use": "Exploring Ambivalence: invited Ian to discuss his values and hesitations."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Ian has not yet fully expressed his ambivalence. Client's objective was not met since he hasn't identified any motivating moments for change.",
-          "client_utterance": "I guess it feels like I’m torn between wanting to reach out and just wanting to hide away. I remember times when I felt better after talking to someone, but the thought of doing that now feels so daunting. It’s almost like I want to just stay in my comfort zone, even if it’s not really comfortable.",
-          "therapist_utterance": "It's understandable to feel torn; the comfort of staying in your zone can sometimes feel safer than facing the unknown. But it sounds like there have been moments in the past when reaching out has helped you, even if it feels daunting now. What do you think makes it feel so hard to reach out despite those positive experiences?",
-          "therapist_use": "Reflective listening: validated Ian's feelings of ambivalence while prompting him to consider his past motivations."
+          "reason_for_ending": "KEEP, therapist objective not met: did not sufficiently develop discrepancies between current behavior and values; client objective not met: has not fully explored reasons for resistance.",
+          "client_utterance": "I used to love painting, but now I can't even bring myself to set up my supplies. I think about it but then feel like, what's the point? I worry that if I start, I’ll just feel frustrated again.",
+          "therapist_utterance": "It seems like painting was a meaningful outlet for you, and it's tough that you feel blocked from doing it now. What do you think it would feel like to try painting again, even if just for a short time? What fears come up for you when you think about that?",
+          "therapist_use": "Developing Discrepancy: facilitated a discussion to reflect on the contrast between Ian’s values and current behavior."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met because Ian hasn't yet explored the reasons behind his hesitation. Client's objective was not met as he hasn't articulated a clear desire for change.",
-          "client_utterance": "I think it’s hard because I fear they won’t understand what I’m going through, or worse, they might judge me. Those thoughts make me feel like I should just deal with it on my own. I know I want to connect, but I feel like I don’t deserve that support.",
-          "therapist_utterance": "It seems like there are some deep fears about judgment and feeling unworthy of support that are holding you back. It must be really tough to feel that way, especially when connection is something you want. What if we explored those feelings a bit more? Where do you think those beliefs about not deserving support come from?",
-          "therapist_use": "Socratic questioning: encouraged Ian to reflect on the origins of his beliefs about deserving support."
+          "reason_for_ending": "KEEP, therapist objective not met: did not complete decisional balance discussion; client objective not met: has not adequately articulated conflicting feelings.",
+          "client_utterance": "I think if I tried painting and it didn't go well, I'd feel even worse than I do now. But at the same time, I miss those moments that used to bring me joy. It’s like I’m scared of failing again, but I also hate feeling stuck.",
+          "therapist_utterance": "That fear of failing is really understandable, especially when you’ve had experiences where things didn’t go as planned. Let’s explore that a bit more. If you weigh the pros and cons of trying to paint again, what do you think would be the biggest benefits and challenges?",
+          "therapist_use": "Decisional Balance Discussions: guided Ian to weigh the pros and cons of change versus staying the same."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Ian has not yet identified how his past experiences shape his current beliefs. Client's objective was not met because he hasn't reflected on how his feelings of worthiness affect his desire for change.",
-          "client_utterance": "I think it might come from my past experiences, like feeling let down by friends or not being accepted. Those times made me question my worth and if I even have a right to reach out. It feels like those memories just keep replaying in my mind, and I don't know how to change that.",
-          "therapist_utterance": "Those past experiences can leave a lasting impact, shaping how you view yourself and your relationships. It’s understandable that those memories would replay, especially when they relate to feelings of rejection. How do you think those beliefs about your worth influence your actions today when considering reaching out?",
-          "therapist_use": "Exploring beliefs: helped Ian connect his past experiences to his current feelings and actions."
+          "reason_for_ending": "KEEP, therapist objective not met: did not fully document Ian's responses; client objective not met: has not fully expressed feelings during the exploration.",
+          "client_utterance": "Well, if I painted, I might feel some satisfaction, but I'm worried the frustration would outweigh that. I guess I want to feel that spark again, but I also don’t want to end up disappointed. It’s a tough call.",
+          "therapist_utterance": "You're really weighing both sides thoughtfully, which is great to see. It’s clear that the potential for satisfaction is there, but the fear of disappointment looms large too. What if we took a small step, like just pulling out your supplies and seeing how it feels without the pressure of creating something perfect?",
+          "therapist_use": "Developing Discrepancy: encouraged Ian to consider small steps toward change."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as Ian has not yet articulated a desire for change based on his values. Client's objective was not met since he hasn't yet connected his awareness of isolation to the possibility of change.",
-          "client_utterance": "I see how those beliefs affect me now, but it's hard to shake them off. I want to feel connected and valued, but I also feel like I don't know how to start. Part of me thinks, what if I try and it doesn't work out? It’s discouraging.",
-          "therapist_utterance": "That discouragement is understandable, especially when it feels like there's so much at stake. It seems like there's a part of you that wants to break free from those negative beliefs and seek connection. What if we explored some small steps you could take towards reaching out, even if they feel daunting?",
-          "therapist_use": "Encouraging exploration: prompted Ian to think about small steps towards connection."
+          "reason_for_ending": "KEEP, therapist objective not met: did not explore evidence for Ian's feelings of incompetence; client objective not met: has not fully recognized strengths.",
+          "client_utterance": "I think that could work, but I’m still worried that I won't be able to do it. I keep thinking about how many times I’ve tried to get back into things and failed. It feels like I’m just setting myself up to feel bad again.",
+          "therapist_utterance": "It’s understandable to feel that way, especially when past attempts have been tough. Let’s take a moment to reflect on some times when you succeeded, even in small ways, despite feeling overwhelmed. What do those moments tell you about your ability to cope?",
+          "therapist_use": "Evidence-Based Questioning: prompted Ian to consider evidence of his capabilities."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met since Ian has not yet identified any specific steps he could take. Client's objective was not met as he hasn't expressed a clear motivation for change.",
-          "client_utterance": "I guess I could maybe text a friend or just say hello, but it feels like such a small step. I wonder if it really makes a difference. Part of me thinks I should be doing something bigger to feel better.",
-          "therapist_utterance": "It’s great that you’re considering reaching out, even if it feels small. Every step, no matter how small, can lead to bigger changes over time. What do you think might help you feel more confident in taking that first step, even if it feels like it’s not enough?",
-          "therapist_use": "Validating small steps: reinforced the importance of any action towards connection, encouraging Ian’s confidence."
+          "reason_for_ending": "KEEP, therapist objective not met: did not sufficiently challenge catastrophic thoughts; client objective not met: has not fully articulated feelings of guilt about past experiences.",
+          "client_utterance": "I guess there have been times where I managed to paint or complete a project, but they feel so distant now. I just feel guilty for not being able to do it again. It's hard to shake the thought that if I can't handle this, what does that say about me?",
+          "therapist_utterance": "That guilt is a heavy burden to carry, and it’s tough when you feel like past successes are out of reach. Let’s try to reframe that thought—what if needing help or struggling doesn't define your worth? How might it change your perspective to think about those past successes as evidence that you can still find joy in creativity?",
+          "therapist_use": "Decatastrophizing: helped Ian challenge his catastrophic thoughts about his abilities."
         },
         {
-          "reason_for_ending": "MOVE - Therapist's objective was met as Ian has articulated his ambivalence and identified a small step he could take. Client's objective was met since he has expressed a desire to explore change and connected it to taking action.",
-          "client_utterance": "I think just texting a friend could be a good first step. It might feel uncomfortable, but I want to try and see if it helps me feel more connected. I’m ready to take that chance.",
-          "therapist_utterance": "That’s a significant step, Ian! It’s wonderful to hear that you’re willing to take that chance and reach out. I believe that even small gestures can lead to meaningful connections and changes in how you feel. I’m here to support you as you take this step.",
-          "therapist_use": "Affirmation: celebrated Ian’s decision to take action, reinforcing his motivation for change."
+          "reason_for_ending": "MOVE, therapist objective met: explored ambivalence and developed discrepancies; client objective met: articulated feelings about depression and explored potential change.",
+          "client_utterance": "I think I’m starting to see that it’s okay to struggle and still have moments of success. Maybe I can approach painting differently this time, without the pressure to make it perfect. I feel a bit more hopeful about trying again.",
+          "therapist_utterance": "That’s a powerful realization, Ian! Recognizing that struggling doesn’t negate your past successes can really shift how you approach things. It sounds like you're more open to the idea of trying out painting again, even if it’s just for fun. What do you think your next step could be?",
+          "therapist_use": "Exploring Ambivalence: validated Ian’s shift toward openness and identified next steps."
         }
       ]
     },
@@ -241,27 +246,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Ian's commitment to change and explore his motivation for taking action.",
+          "objective": "Strengthen Ian's commitment to change and enhance his confidence in taking actionable steps towards improvement.",
           "strategies": [
             {
-              "strategy_name": "Commitment Language",
+              "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Ian to verbalize his desire to change by asking questions like 'What do you want to achieve?' and 'How committed do you feel to making this change?'",
-                "Reflect back his statements of intention and commitment to reinforce his motivation."
+                "Encourage Ian to articulate his reasons for wanting to change, using open-ended questions.",
+                "Reflect back his statements of commitment to reinforce his motivation."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Ask Ian to rate his confidence on a scale of 1-10 regarding making the changes he wants.",
-                "Facilitate a discussion about what would help him feel more confident and prepared to take action."
+                "Ask Ian to rate his confidence in making changes on a scale of 1-10.",
+                "Discuss what would increase his confidence and readiness to act."
               ]
             },
             {
-              "strategy_name": "Identify Supports and Resources",
+              "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Ian identify people or resources that can support him in his change process, such as friends, family, or local support groups.",
-                "Discuss how these supports can be integrated into his action plan."
+                "Facilitate a discussion on who in Ian's life can support him during this time.",
+                "Explore any resources or tools Ian can utilize to aid his preparation."
               ]
             }
           ]
@@ -271,90 +276,82 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaborate with Ian to develop a specific action plan for the upcoming week, including small, manageable tasks related to sewing and work.",
-                "Ensure the tasks are achievable and aligned with his interests, while also addressing his feelings of helplessness."
+                "Collaboratively create a specific and realistic action plan for the upcoming week, focusing on small, manageable tasks.",
+                "Include tasks that Ian feels he can achieve to boost his self-efficacy."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Work with Ian to identify and develop new coping strategies that can replace or complement his current distractions.",
-                "Introduce techniques such as mindfulness or short physical activities that he can use when he feels overwhelmed."
+                "Help Ian identify potential barriers he may face with his action plan.",
+                "Guide him in brainstorming practical solutions to these barriers."
               ]
             },
             {
-              "technique_name": "Behavioral Experiments",
+              "technique_name": "Behavior Experiment",
               "instructions_for_therapist": [
-                "Design small behavioral experiments to test his beliefs about his abilities, such as setting a timer for 10 minutes to sew and observe the outcome.",
-                "Encourage reflection on these experiences to build evidence against his negative beliefs."
-              ]
-            },
-            {
-              "technique_name": "Relapse Prevention Planning",
-              "instructions_for_therapist": [
-                "Discuss potential barriers that may arise during his action plan execution and develop strategies to cope with these obstacles.",
-                "Encourage Ian to visualize scenarios where he might struggle and brainstorm solutions together."
+                "Design an experiment where Ian can test the belief that he is unable to complete tasks.",
+                "Encourage him to try completing one small task and reflect on the outcome."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To support Ian in the Preparation phase, I prioritized strategies that reinforce his motivation and commitment to change, recognizing his current feelings of pessimism and helplessness. I introduced Commitment Language to help Ian articulate his intentions, which can bolster his self-efficacy. Exploring his confidence and readiness allows him to identify personal strengths and areas for support, crucial for overcoming feelings of inadequacy. In the CBT plan, I emphasized Action Planning to create a structured yet manageable approach to his goals, ensuring tasks are small and achievable to avoid overwhelm. I also included Coping Strategy Development to diversify his coping mechanisms, addressing his reliance on less effective distractions. Behavioral Experiments will challenge his negative beliefs about his capabilities in a safe, supportive way, while Relapse Prevention Planning prepares him for potential setbacks, fostering resilience. This collaborative approach respects his resistance level and aims to gradually empower him to take action, ultimately enhancing his confidence and commitment to change.",
-        "progress_marker": "Ian has verbalized specific intentions for change and has begun working on his action plan with a clear understanding of his support system."
+        "therapist_reasoning": "The therapy plan is designed to address Ian's feelings of helplessness and pessimism while promoting his readiness for change. I started with Motivational Interviewing strategies to strengthen his commitment. By encouraging Ian to articulate his reasons for change, I can reinforce his motivation and tap into his intrinsic desires. Assessing his confidence allows us to identify specific supports that can bolster his efforts. In the CBT component, I focused on action planning, as small, achievable goals will provide a sense of accomplishment while avoiding overwhelm. Problem-solving skills training empowers Ian to navigate potential barriers, thus reducing feelings of helplessness. Lastly, the behavior experiment will challenge his negative automatic thoughts about his capabilities, helping to build self-efficacy. This approach is gradual and collaborative, ensuring that Ian feels supported and capable as he prepares for behavioral changes.",
+        "progress_marker": "Ian successfully identifies and completes at least one small task from his action plan without excessive distress."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings about change and develop a plan to improve my situation.",
+        "client_objective": "I want to explore practical steps I can take to improve my mental health and cope better with my feelings.",
         "client_state": {
-          "awareness": "I recognize that my current state of isolation and depression is not sustainable, and I see how it affects my life and relationships.",
-          "motivation": "I feel a growing desire to break free from this cycle of negativity and find ways to cope better.",
-          "openness": "I am willing to talk about my feelings and explore potential changes, even though it feels daunting.",
-          "resistance": "I still struggle with doubts about my ability to change and fear that my efforts might not lead to success."
+          "awareness": "I understand that my feelings of isolation and depression are affecting my ability to function and enjoy life.",
+          "motivation": "I feel a stronger desire to make changes in my life and improve my situation, even though I still have doubts.",
+          "openness": "I'm willing to discuss my thoughts and emotions with my therapist and consider different strategies for coping.",
+          "resistance": "I still feel a sense of pessimism and fear that my efforts may not lead to real change, which holds me back."
         },
-        "client_reasoning": "Lately, I've started to realize that my situation isn't just a phase; it's something that I need to address for my own well-being. There's a part of me that understands that change is crucial, especially after my recent breakup and the loneliness I've felt since then. I want to feel better and be more engaged in life, but I can't shake the feeling that my past attempts to cope have often ended in disappointment. Sometimes I wonder if I'm just going to keep spinning my wheels without making real progress. However, therapy has opened my eyes to the fact that I might actually have the power to make changes, even if it feels overwhelming. I'm hopeful that by discussing my feelings and fears in our sessions, I can find a clearer path forward and discover new strategies that might work for me this time around.",
-        "progress_marker": "Client expresses a desire to discuss specific coping strategies and acknowledges the need for change."
+        "client_reasoning": "I’ve come to realize that my current situation is really not working for me, and I need to change something. The recent breakup and my ongoing battle with depression have made me feel trapped and helpless, but I also recognize that I can’t keep going on like this. I’ve started to think about how I might approach things differently, like finding new ways to cope with my feelings instead of just distracting myself. Although I want to get better, I often wonder if I can actually make it happen, especially when I feel so overwhelmed. Therapy has helped me begin to see that change is possible, even if it feels daunting. I want to explore what I can do to feel more in control and less isolated, but I’m still scared that nothing will really work for me."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP, therapist objective not met: did not fully reinforce Ian's motivation for change; client objective not met: has not yet developed a clear action plan.",
-          "client_utterance": "I've been thinking a lot about reaching out to friends, but I still feel hesitant. It’s like I want to make a change, but I worry that it won't lead anywhere. Sometimes I think about texting someone, but then I freeze up and don't do it.",
-          "therapist_utterance": "It sounds like there's a real desire to connect with friends, but that hesitation is holding you back. What do you think is the biggest barrier when you try to make that first move? Exploring those feelings could help us find a way through this together.",
-          "therapist_use": "Exploring barriers: to understand Ian's hesitation and support him in overcoming it."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not sufficiently strengthen Ian's commitment to change. Client objective not met: Ian hasn't yet explored practical steps for improvement.",
+          "client_utterance": "I think I could try to paint again, but I still feel this strong fear that it won't go well. I want to do it, but what if I just end up feeling disappointed again? It's like I want to take a step forward, but I keep hesitating.",
+          "therapist_utterance": "It's understandable to feel that way, especially with the fear of disappointment lingering. What do you think would help you feel more prepared to give painting another shot? Maybe we can identify some small, manageable steps that would feel less overwhelming.",
+          "therapist_use": "Open-ended questioning: to encourage Ian to think of steps he can take."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: did not fully explore Ian's confidence; client objective not met: has not yet verbalized a commitment to an action plan.",
-          "client_utterance": "I guess I’m afraid they won’t understand what I’m going through or that they’ll judge me. It feels like it’s easier to just avoid reaching out, even though I know I need to connect. I want to try, but it's hard to believe it will help.",
-          "therapist_utterance": "Your fears about judgment are completely valid, and it makes sense that this would make reaching out feel daunting. What if we talked about how you might challenge those fears? Perhaps we could brainstorm how to approach your friends that feels comfortable for you.",
-          "therapist_use": "Challenging fears: to help Ian identify ways to confront his apprehension about reaching out."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not sufficiently explore Ian's confidence in taking action. Client objective not met: Ian hasn't outlined specific practical steps.",
+          "client_utterance": "I guess if I just set up my supplies and maybe even just doodle a bit, that could be a start. But then I worry about how I’ll feel afterward if it doesn’t go well. It’s hard to shake that anxiety.",
+          "therapist_utterance": "Starting with something as simple as doodling sounds like a great first step! It takes off the pressure of creating something perfect and allows you to just enjoy the process. How confident do you feel about setting that intention for the next week on a scale of 1 to 10?",
+          "therapist_use": "Exploring confidence: to gauge Ian's readiness and assess his feelings about taking action."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: did not reinforce commitment language; client objective not met: has not yet developed a specific action plan.",
-          "client_utterance": "I think if I could just find the right words, it would make it easier. Maybe I could start with something simple, like just asking how they are. I want to feel like I can reach out, but I'm still not sure it will make a difference.",
-          "therapist_utterance": "That sounds like a great starting point—keeping it simple can take some pressure off. It’s important to remember that even small connections can lead to more comfort over time. How do you feel about setting a specific goal for reaching out this week?",
-          "therapist_use": "Action planning: to encourage Ian to define a specific goal around reaching out."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not sufficiently identify supports or resources for Ian. Client objective not met: Ian hasn't finalized an actionable plan.",
+          "client_utterance": "I’d say I’m around a 5. I want to feel more confident, but it’s tough because I keep doubting myself. Maybe if I had someone to encourage me, it could help.",
+          "therapist_utterance": "It’s good to know where you stand on your confidence. Having support can make a difference, so let’s think about who in your life could encourage you during this time. Are there friends or family members who might be willing to check in with you?",
+          "therapist_use": "Identifying supports: to help Ian recognize who can support him in his journey."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: did not explore Ian’s confidence in taking action; client objective not met: has not yet committed to a clear action plan.",
-          "client_utterance": "I think I could text a friend tomorrow, but I’m still feeling that knot in my stomach. It’s a small step, but I really worry about what they’ll think. I want to feel connected, but sometimes I just doubt myself.",
-          "therapist_utterance": "Feeling nervous about reaching out is completely understandable, especially when it comes to putting yourself out there. Let’s take a moment to think about what would help you feel more confident about sending that text. What kind of support do you think you need as you take this step?",
-          "therapist_use": "Exploring confidence: to help Ian identify supports that could boost his confidence."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not sufficiently create a structured action plan. Client objective not met: Ian hasn't agreed on specific support from others.",
+          "client_utterance": "I think I could talk to my sister. She’s always been supportive, and maybe I could share my plan with her. It would help to have someone who understands what I’m going through.",
+          "therapist_utterance": "That sounds like a solid idea! Your sister could provide the encouragement you’re looking for. Let’s outline a specific action plan for the week: what day do you think you could set up your supplies and doodle?",
+          "therapist_use": "Action planning: to collaboratively create a specific action plan for Ian's next steps."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: did not reinforce motivation for change; client objective not met: has not yet made a commitment to a specific action.",
-          "client_utterance": "I guess if I had someone to talk to beforehand, it might help. I could share my fears with them and get some encouragement. I really want to feel like I’m not alone in this.",
-          "therapist_utterance": "It’s so valuable to have supportive people around you, especially when you’re facing these fears. Who do you think you could reach out to for that encouragement? We can also think about how to integrate that support into your plan.",
-          "therapist_use": "Identifying supports: to help Ian recognize and utilize his support network."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not sufficiently anticipate potential barriers to action. Client objective not met: Ian hasn't identified strategies for overcoming fears.",
+          "client_utterance": "I could try to do it on Saturday, but I worry that if I don’t feel like doing it then, I might just give up. What if I get too anxious to even start?",
+          "therapist_utterance": "It’s completely normal to have those worries. Let’s think about some barriers that might come up and how you might handle them. What could you do if you start feeling anxious before you even get started?",
+          "therapist_use": "Problem-solving skills training: to help Ian brainstorm ways to deal with potential barriers."
         },
         {
-          "reason_for_ending": "KEEP, therapist objective not met: did not fully reinforce commitment language; client objective not met: has not yet articulated a specific plan for reaching out.",
-          "client_utterance": "I could text my friend Sarah and just let her know I’m thinking about her. I think she’d be understanding, and that might ease some of my worries. But I still feel hesitant to actually do it.",
-          "therapist_utterance": "That sounds like a wonderful choice, and it’s great that you feel Sarah would be understanding. Let’s think about how you can set a time to send that message, so it feels more concrete. What do you think would help you follow through on that intention?",
-          "therapist_use": "Commitment language: to encourage Ian to articulate his intentions and reinforce his motivation."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not sufficiently reinforce Ian's self-efficacy. Client objective not met: Ian hasn't committed to an actionable step.",
+          "client_utterance": "Maybe I could set a timer for just 10 minutes to see if I can get into it, and if I can’t, I can always stop. But I'm still worried that I’ll just end up feeling worse.",
+          "therapist_utterance": "That sounds like a very achievable and gentle approach! Setting a timer can help take the pressure off. Remember, it’s about the process, not the product, and this could be a great way for you to test your belief about completing tasks.",
+          "therapist_use": "Behavior experiment: to encourage Ian to test his belief about his capabilities in a low-pressure situation."
         },
         {
-          "reason_for_ending": "MOVE, therapist objective met: reinforced Ian's motivation and commitment; client objective met: Ian has articulated a clear action plan for reaching out.",
-          "client_utterance": "I’ve decided I’m going to text Sarah tomorrow. It feels good to have a plan, even if it’s a small step. I think it could help me feel less isolated.",
-          "therapist_utterance": "That’s fantastic to hear, Ian! Having a plan is a powerful step towards feeling more connected, and I believe it can lead to positive changes. Remember, it’s about taking it one step at a time, and I’m here to support you as you move forward.",
-          "therapist_use": "Reinforcement of commitment: validated Ian's decision and encouraged continued action."
+          "reason_for_ending": "MOVE; Therapist objective met: successfully strengthened Ian's commitment to try a small task. Client objective met: Ian has identified a specific, manageable step to take.",
+          "client_utterance": "I feel a bit more hopeful about this now. I can see how starting small might help me feel less overwhelmed. I’m willing to give it a shot this Saturday.",
+          "therapist_utterance": "That’s fantastic, Ian! Committing to that small step is a great way to start building your confidence. I’m excited to hear how it goes for you, and remember, it’s all about taking it one step at a time!",
+          "therapist_use": "Commitment language: to reinforce Ian's motivation and readiness to take action."
         }
       ]
     }

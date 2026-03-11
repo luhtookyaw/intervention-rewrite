@@ -12,34 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Wyatt's awareness of his feelings and thoughts regarding his work and home life without pressuring him to change.",
+          "objective": "To build rapport and create a safe space for Wyatt to explore his feelings and thoughts regarding his current situation without feeling pressured to change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Practice active listening to Wyatt's concerns and feelings about his work and the recent departure of his colleague.",
-                "Reflect back what Wyatt shares, emphasizing his feelings of anxiety and helplessness, to validate his experiences."
+                "Use reflective listening to validate Wyatt's feelings of anxiety and overwhelm. Repeat back what he shares to show understanding.",
+                "Encourage him to elaborate on his concerns regarding the upcoming lab meeting and prepare for it."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge the emotional weight of Wyatt's situation and the sense of loss he feels regarding his colleague's departure.",
-                "Use empathetic statements to show understanding of his avoidance behaviors and the reasons behind them."
+                "Acknowledge Wyatt's sense of identity tied to his workplace and the emotional impact of his colleague's departure.",
+                "Communicate understanding of his feelings of helplessness and worthlessness without judgment."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore Wyatt's values and how they might conflict with his current feelings of worthlessness and helplessness.",
-                "Encourage Wyatt to articulate what he values in both his professional and personal life, helping him see the gap between his current state and his values."
+                "Gently explore the discrepancy between Wyatt’s feelings of being overwhelmed and his desire for stability in both work and home life.",
+                "Ask open-ended questions that invite him to reflect on how his current coping strategies may not align with his personal values."
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Encourage Wyatt to notice his automatic thoughts and emotional responses during discussions about work and home.",
-                "Ask open-ended questions that prompt Wyatt to reflect on how these thoughts influence his feelings and behaviors."
+                "Facilitate conversations that help Wyatt recognize the patterns of avoidance and the impact of his busy schedule on his emotional state.",
+                "Encourage Wyatt to articulate his motivations for staying at the lab instead of going home."
               ]
             }
           ]
@@ -47,84 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Help Wyatt recognize his automatic thoughts related to work preparation and feelings of inadequacy.",
-                "Guide him to write down these thoughts during sessions to increase awareness and understanding."
+                "Ask Wyatt to identify specific instances that support or contradict his belief that he must be fully prepared to avoid failure.",
+                "Encourage him to consider previous experiences where things did not go perfectly yet did not result in negative outcomes."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Educate Wyatt about common cognitive distortions such as all-or-nothing thinking and catastrophizing.",
-                "Encourage him to identify when he might be engaging in these distortions regarding his performance and self-worth."
+                "Help Wyatt assess the reality of his automatic thoughts about needing to control every aspect of preparation.",
+                "Discuss potential outcomes of the lab meeting to help him see that mistakes are a part of learning and do not define his worth."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Explore how Wyatt’s behaviors, such as staying late at the lab, serve as coping strategies for his feelings of anxiety.",
-                "Help him reflect on the short-term benefits versus long-term consequences of these behaviors."
+                "Encourage Wyatt to explore alternative perspectives on his identity beyond his role in the lab.",
+                "Discuss what aspects of his life contribute to his value and sense of self outside of work."
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Guide Wyatt to envision a continuum of preparation and control, allowing him to place himself on it to recognize that there's a range of acceptable states.",
+                "Help him identify where he might feel comfortable on that continuum without needing to exert total control."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Wyatt's pre-contemplation phase, the therapist aims to build rapport and trust while fostering awareness of his thoughts and emotions. The use of reflective listening and expressing empathy will create a safe space for Wyatt to share his feelings of anxiety and helplessness. By developing discrepancy, the therapist can guide Wyatt to articulate his values, helping him recognize the incongruence with his current emotional state. Raising awareness will encourage Wyatt to observe his automatic thoughts and emotional responses, facilitating a deeper understanding of his behavior patterns. In conjunction with MI strategies, CBT techniques such as identifying automatic thoughts, recognizing cognitive distortions, and conducting a functional analysis of behavior will help Wyatt gain insight into how his thoughts influence his emotions and actions. This combination allows for exploration and reflection without pressure for immediate change, accommodating Wyatt's resistance to discussing potential solutions at this stage.",
-        "progress_marker": "Wyatt begins to articulate his feelings and thoughts about his work and home life, showing increased self-awareness and openness to exploring his experiences."
+        "therapist_reasoning": "In working with Wyatt in the pre-contemplation phase, the therapist's primary focus is to foster a safe and trusting environment that allows for exploration of his thoughts and feelings without pressure for change. The use of reflective listening helps validate Wyatt's emotional experiences and demonstrates empathy, which is crucial in building rapport. By developing discrepancies, the therapist can invite Wyatt to reflect on the incongruence between his current coping strategies and his personal values, potentially leading to increased self-awareness. The CBT interventions, such as evidence-based questioning and reality testing, aim to challenge Wyatt's automatic thoughts about control and preparation, helping him recognize that mistakes do not equate to failure. Furthermore, exploring alternative perspectives allows Wyatt to see his worth beyond his professional achievements. The continuum technique is designed to normalize his feelings of anxiety while encouraging a gradual exploration of his coping mechanisms. This approach respects Wyatt's resistance and emphasizes awareness and curiosity over immediate solutions.",
+        "progress_marker": "Increased self-awareness and reduced defensiveness in discussions about feelings and coping strategies."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to figure out how to manage my work tasks without feeling overwhelmed.",
+        "client_objective": "I hope to just get through this session without having to confront any overwhelming feelings about my situation.",
         "client_state": {
-          "awareness": "I don't really see my situation as a problem; I just have a lot to do.",
-          "motivation": "I don't feel like I need to change anything right now; I'm just trying to keep up.",
-          "openness": "I'm not really comfortable sharing my feelings; it feels pointless.",
-          "resistance": "I feel very defensive when the topic comes up; I just want to focus on work."
+          "awareness": "I don't really see my situation as a problem; I'm just busy and trying to keep everything together.",
+          "motivation": "I don't feel like changing anything right now; I just want to manage what I have on my plate.",
+          "openness": "I'm not very willing to share my deeper thoughts or feelings; it feels safer to keep things surface-level.",
+          "resistance": "I feel a strong urge to avoid discussing the issues that weigh on me."
         },
-        "client_reasoning": "I know there are things I could improve, but honestly, it feels like I'm managing just fine, even if it's chaotic. I keep thinking about how I have so much on my plate, and it feels overwhelming at times, but isn't that just how work is? Talking about my feelings seems unnecessary and makes me anxious because I worry I won’t be understood or that it will just make things worse. I feel like if I acknowledge the stress, it means I’m weak or failing. I keep pushing forward, believing I just need to get through this busy period. Therapy feels uncomfortable because it forces me to confront emotions I’d rather avoid, and I don’t see how digging into that will help me at work, where I feel more in control. So when we talk about my struggles, I just want to deflect and focus on tasks instead."
+        "client_reasoning": "I keep telling myself that my work is fine and that I just need to focus on getting everything done. It’s easier to think about the tasks ahead rather than dive into feelings about my colleague leaving or how anxious I feel about the upcoming lab meeting. When I do try to talk about my worries, it seems like no one really gets it, so I just keep it to myself. I feel overwhelmed but don’t think it’s worth bringing up; after all, everyone has their problems. I believe if I can keep my schedule packed and control my workload, I can avoid those feelings of helplessness. Therapy feels uncomfortable because I don’t want to seem weak or vulnerable, and honestly, I’m not sure any of this will change with talking. I just want to be ready for everything, so I keep pushing through without really looking at what's underneath my anxiety."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Wyatt did not explore his feelings thoroughly. Client objective was not met as Wyatt remains focused on tasks without recognizing his emotional state.",
-          "client_utterance": "I just feel like I have so much to do at work, and I really need to focus on getting it all done. Talking about feelings seems pointless; I’m just managing chaos, and that’s fine, right?",
-          "therapist_utterance": "It sounds like you’re really immersed in your work and feel that focusing on tasks is the best way to handle things right now. You mentioned managing chaos, which can be overwhelming. I'm curious about how that feels for you when you think about your workload and the recent changes at the lab.",
-          "therapist_use": "Reflective Listening: used to validate Wyatt’s focus on work while encouraging exploration of feelings."
+          "reason_for_ending": "KEEP: Therapist objective not met due to insufficient exploration of Wyatt's feelings. Client objective not met as Wyatt is still avoiding deeper emotions.",
+          "client_utterance": "I just feel like I need to keep everything together at the lab. There's so much to do, and if I stop to think about my colleague leaving, it just gets overwhelming. I try not to let those feelings in; it’s easier to focus on my tasks.",
+          "therapist_utterance": "It sounds like you’re really focused on keeping everything running smoothly at work, and that can be a lot to handle. It’s understandable that you’d want to avoid thinking about your colleague’s departure if it feels overwhelming. What do you think it would mean for you if you allowed yourself to feel those emotions?",
+          "therapist_use": "Reflective Listening: used to validate Wyatt's feelings and encourage deeper exploration."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Wyatt did not articulate his feelings about the recent changes. Client objective was not met as Wyatt continues to avoid discussing his emotional responses.",
-          "client_utterance": "Honestly, I just want to keep pushing through. The lab is my focus, and I can't let emotions get in the way. I know I should probably feel more for my colleague who left, but I just... don't want to think about it.",
-          "therapist_utterance": "It’s understandable to want to push through, especially when there’s so much on your plate. It sounds like you’re trying to avoid the emotional impact of your colleague’s departure. What do you think that avoidance means for you in the long run?",
-          "therapist_use": "Expressing Empathy: used to acknowledge Wyatt’s avoidance behavior and the emotional weight of his colleague's departure."
+          "reason_for_ending": "KEEP: Therapist objective not met as the exploration of emotions is still superficial. Client objective not met since Wyatt continues to avoid discussing his feelings.",
+          "client_utterance": "I don’t know. I guess it would just make everything harder. I feel like I have enough on my plate without adding more emotions to it. I just want to get through the next meeting without any issues.",
+          "therapist_utterance": "It makes sense that facing those feelings might seem like an added burden. You’ve got a lot of responsibilities to manage, and the lab is a place where you feel a sense of control. How do you think your current approach to handling everything is working for you?",
+          "therapist_use": "Expressing Empathy: acknowledged Wyatt’s point of view to foster a deeper conversation about his coping strategies."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Wyatt did not reflect on the long-term implications of his avoidance. Client objective was not met since Wyatt remains focused on task management without addressing underlying feelings.",
-          "client_utterance": "I guess I just think that if I keep my head down and work harder, it will all settle down eventually. I don't see how feeling upset about it will help. I just want to finish my projects so I can have some peace.",
-          "therapist_utterance": "It sounds like you’re relying on hard work as a way to find peace and stability. I can see how that might seem effective in the short term, but I wonder what might happen if you recognized those feelings of upset instead of pushing them away. How do you feel about exploring what those feelings might be?",
-          "therapist_use": "Developing Discrepancy: used to gently encourage Wyatt to think about the conflict between his coping strategies and his emotional needs."
+          "reason_for_ending": "KEEP: Therapist objective not met as Wyatt is still not reflecting on the effectiveness of his coping strategies. Client objective not met as Wyatt remains resistant to exploring his feelings.",
+          "client_utterance": "I mean, it works for now. I just keep pushing through, and maybe I can deal with the feelings later. I think I have it under control, and I don’t want to mess that up.",
+          "therapist_utterance": "It sounds like you have a strategy that feels manageable for you right now, but it might also bring some anxiety. If you’re pushing through without addressing those feelings, do you think that could affect how you handle things in the long run? What might happen if you didn’t have to control every aspect?",
+          "therapist_use": "Developing Discrepancy: gently invited Wyatt to reflect on his coping strategies versus long-term effects."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met since Wyatt did not engage with the idea of exploring feelings. Client objective was not met because Wyatt is still avoiding emotional reflection.",
-          "client_utterance": "I really don’t think it’s the right time for that. I have so much on my mind already, and I can’t afford to get distracted by feelings. It just seems like a luxury I can’t afford right now.",
-          "therapist_utterance": "I hear you; it feels like addressing those feelings would take away from the urgent tasks at hand. You’re in a busy period, and it seems like you’re prioritizing what’s immediately in front of you. But I wonder if acknowledging even a bit of that emotional weight could help lighten your load in the long run?",
-          "therapist_use": "Raising Awareness: used to encourage Wyatt to consider the potential benefits of acknowledging his emotional state amidst his busy life."
+          "reason_for_ending": "KEEP: Therapist objective not met as Wyatt is still not engaging with the potential impact of avoidance. Client objective not met since Wyatt is not exploring deeper thoughts or feelings.",
+          "client_utterance": "I guess I haven't thought about it that way. But I really don't want to think about failing or messing up at the meeting. It’s just easier to keep busy and distract myself.",
+          "therapist_utterance": "Staying busy can be a way to cope, but it might also keep you from addressing what’s really bothering you. Can you think of any times when things didn’t go perfectly, but it wasn’t as bad as you expected? What would it look like to allow some flexibility in your approach?",
+          "therapist_use": "Reality Testing: encouraged Wyatt to reflect on past experiences to challenge his fears of failure."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met as Wyatt did not reflect on the potential benefits of acknowledging emotions. Client objective was not met because Wyatt is still resistant to exploring his feelings.",
-          "client_utterance": "I don’t know; it just feels like a lot of work to think about. I’m already overwhelmed, and adding emotions just complicates things. I really believe I can manage this without digging into all that.",
-          "therapist_utterance": "It's completely valid to feel that way. Managing everything can feel like a full-time job in itself, and the thought of adding emotions into the mix seems daunting. Still, sometimes unaddressed emotions can weigh us down more than we realize, don’t you think?",
-          "therapist_use": "Reflective Listening: used to validate Wyatt's feelings about being overwhelmed while subtly introducing the idea of emotional burdens."
+          "reason_for_ending": "KEEP: Therapist objective not met as Wyatt is still hesitant to consider alternative perspectives. Client objective not met since Wyatt is not willing to explore feelings further.",
+          "client_utterance": "I suppose I’ve had a few moments like that, but they feel so rare. I just don't want to think about those times. I feel like if I don’t prepare for everything, I might let everyone down.",
+          "therapist_utterance": "It’s understandable to want to avoid disappointment, especially when you care about your colleagues. But it might be helpful to recognize that mistakes can be part of the learning process. What do you think your identity is tied to outside of the lab?",
+          "therapist_use": "Alternative Perspective: invited Wyatt to consider his identity beyond work to foster self-reflection."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Wyatt did not engage with the idea of emotional burdens. Client objective was not met as Wyatt remains focused on task management.",
-          "client_utterance": "I guess I can see that. But I still feel like I’m managing well enough, even if it’s chaotic. I just don’t want to take on anything more right now.",
-          "therapist_utterance": "It’s good to recognize that you feel you are managing, even in chaos. It sounds like you have your own way of coping with the demands of work. Would it help to consider what that chaos looks like for you and how it impacts your daily life?",
-          "therapist_use": "Functional Analysis of Behavior: used to explore how Wyatt’s coping strategies align with his feelings of chaos."
+          "reason_for_ending": "KEEP: Therapist objective not met as Wyatt is still avoiding deeper self-reflection. Client objective not met as Wyatt remains resistant to discussing his feelings.",
+          "client_utterance": "I guess my work is such a big part of who I am that it’s hard to think about anything else. I don’t feel like I have time for anything outside of it. It’s just easier to focus on my responsibilities.",
+          "therapist_utterance": "It sounds like your work is a significant part of your identity, and that’s important to acknowledge. But what happens if you can’t separate that from how you feel about yourself? How might you start to find balance between your work and other parts of your life?",
+          "therapist_use": "Continuum Technique: encouraged Wyatt to find a balance between work and other aspects of identity."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective was met as Wyatt began to consider the impact of chaos on his life. Client objective was met as Wyatt acknowledged his coping strategies and their implications.",
-          "client_utterance": "Maybe I could think about that. I do feel like I’m always reacting rather than planning ahead, but I thought that was just how work is. I suppose it could be worth reflecting on how that affects me.",
-          "therapist_utterance": "That’s a great step forward, Wyatt. Recognizing that your current approach might not be entirely effective is an important realization. It shows that you’re opening up to the idea that reflecting on this might lead to some clarity.",
-          "therapist_use": "Raising Awareness: used to reinforce Wyatt’s acknowledgment of his coping strategies and the potential for reflection."
+          "reason_for_ending": "MOVE: Therapist objective met as Wyatt is beginning to reflect on his identity and balance. Client objective met as Wyatt is engaging more openly with the conversation.",
+          "client_utterance": "Maybe I should think about that more. I’ve been so focused on work that I haven’t really considered what else is out there for me. I guess I need to find a way to take a step back sometimes.",
+          "therapist_utterance": "That sounds like a positive realization, Wyatt. Recognizing the importance of balance can be a significant step toward feeling more stable both at work and at home. How do you feel about exploring ways to create that balance in your life?",
+          "therapist_use": "Reflective Listening: validated Wyatt's realization and encouraged further exploration of balance."
         }
       ]
     },
@@ -133,30 +140,22 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Wyatt's ambivalence towards change and enhance his motivation for future action.",
+          "objective": "Explore Wyatt's ambivalence about change and enhance his motivation for considering a shift in his current coping strategies.",
           "strategies": [
-            {
-              "strategy_name": "Exploring Ambivalence",
-              "instructions_for_therapist": [
-                "Encourage Wyatt to discuss both the pros and cons of staying in his current situation versus contemplating change.",
-                "Use open-ended questions to facilitate a deeper exploration of his feelings regarding his work and home life.",
-                "Reflect on Wyatt's statements to validate his feelings and help him articulate his internal conflict."
-              ]
-            },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask Wyatt about any past experiences where he successfully managed change.",
-                "Encourage him to express what he values about his work and how those values may align with potential changes he’s considering.",
-                "Foster a discussion about the future he envisions, emphasizing how change could help him achieve that vision."
+                "Ask Wyatt open-ended questions about what he values most in his life and how his current behaviors align with those values.",
+                "Encourage Wyatt to express both his desire to change and his concerns about potential consequences.",
+                "Reflect back Wyatt's statements to highlight any expressions of desire, ability, reasons, or need for change."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussions",
+              "strategy_name": "Decisional Balance Discussion",
               "instructions_for_therapist": [
-                "Guide Wyatt in weighing the benefits and drawbacks of his current behaviors related to work and home.",
-                "Create a pros and cons list together, focusing on how his current coping strategies might be serving or hindering him.",
-                "Encourage him to identify discrepancies between his values and his current behaviors."
+                "Facilitate a discussion on the pros and cons of his current approach to work and how it connects to his identity.",
+                "Help Wyatt identify discrepancies between his values of stability and his tendency to overcommit at the lab.",
+                "Encourage him to weigh the benefits of potential changes against the costs of maintaining the status quo."
               ]
             }
           ]
@@ -164,82 +163,80 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Socratic Questioning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Use Socratic questioning to help Wyatt examine the validity of his automatic thoughts about needing to be fully prepared.",
-                "Ask questions like, 'What evidence do you have that being fully prepared will prevent failure?' or 'How might you feel if things don’t go perfectly?'",
-                "Encourage him to consider alternative perspectives on his beliefs about control and preparation."
+                "Guide Wyatt in identifying his automatic thoughts about needing to be fully prepared and controlling the process.",
+                "Help him explore the worst-case scenario he fears and discuss the likelihood of that happening.",
+                "Encourage him to consider how he might cope with that scenario if it were to occur."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Help Wyatt identify any cognitive distortions in his thinking, particularly around feelings of helplessness and worthlessness.",
-                "Discuss examples of 'all-or-nothing thinking' or 'catastrophizing' in relation to his work performance.",
-                "Guide him to reframe these thoughts into more balanced and realistic assessments."
-              ]
-            },
-            {
-              "technique_name": "Examining Underlying Beliefs",
-              "instructions_for_therapist": [
-                "Encourage Wyatt to reflect on the core beliefs he holds about his worth and control in both his work and personal life.",
-                "Use prompts to delve into how these beliefs were formed and how they influence his current behaviors.",
-                "Support him in exploring how changing these beliefs might impact his anxiety and willingness to engage in change."
+                "Assist Wyatt in creating a list of pros and cons regarding his current behaviors and the possible changes he is contemplating.",
+                "Encourage him to reflect on how these factors influence his emotional state and motivation.",
+                "Discuss how each item on the list aligns with his core beliefs and values."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In formulating this therapy plan, I began by recognizing Wyatt's ambivalence about change, which is typical in the contemplation phase. My first choice was to utilize Motivational Interviewing strategies, specifically exploring ambivalence through open-ended questions to help him articulate both sides of his internal conflict. This was complemented by eliciting change talk, encouraging him to reflect on past successes and envision a positive future. To clarify his values versus current behaviors, I integrated decisional balance discussions to enhance his insight. Concurrently, I employed CBT techniques, starting with Socratic questioning to challenge his automatic thoughts about control and preparation. This was essential in helping him understand the distorted nature of his beliefs. Identifying cognitive distortions further equipped him to reframe negative thoughts, while examining underlying beliefs aimed to address the root of his anxiety and feelings of worthlessness. This dual approach aims to foster a collaborative environment, allowing Wyatt to explore these areas without feeling pressured to take immediate action.",
-        "progress_marker": "Wyatt expresses greater clarity about his ambivalence and begins to articulate specific values that could inform his future decisions."
+        "therapist_reasoning": "The primary focus in this session is to help Wyatt articulate and explore his ambivalence towards change without pushing him into action planning. I will employ MI strategies such as eliciting change talk to encourage Wyatt to express both his desire for change and his fears, creating a safe space for reflection. This aligns with his current resistance level, as he feels anxious about being heard. Additionally, a decisional balance discussion will help him identify discrepancies between his values of stability and his behaviors that lead to anxiety. In terms of CBT, I will utilize decatastrophizing to challenge his automatic thoughts about needing control and perfection. This will allow Wyatt to reframe his fears and recognize that not everything needs to be perfect. A pros and cons analysis will further support him in examining the implications of his current coping strategies, fostering insight into how they align with his core beliefs. By maintaining a collaborative stance throughout, I aim to strengthen Wyatt's self-efficacy and motivation for potential change.",
+        "progress_marker": "Wyatt will reflect on his ambivalence and articulate at least one personal value that conflicts with his current behaviors by the end of the session."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my work and how they connect to my anxiety and sense of control.",
+        "client_objective": "I hope to explore my feelings about my work and how they impact my life more deeply.",
         "client_state": {
-          "awareness": "I’m starting to see that my anxiety at work may stem from my need to feel in control and valued, but I’m unsure of how to change that.",
-          "motivation": "I want to feel more at ease and confident in my abilities, but I’m torn about whether it’s possible to change my deep-seated beliefs.",
-          "openness": "I find myself wanting to share my thoughts and feelings with my therapist, though I sometimes hold back out of fear of being misunderstood.",
-          "resistance": "I still feel a strong urge to maintain my current coping strategies, even though I know they might not be helping me in the long run."
+          "awareness": "I am starting to see that my work habits might be affecting my emotional health and my home life, but I'm not sure how to change that.",
+          "motivation": "I want to feel better and find a balance, but I'm also scared of what changes might mean for my identity and stability.",
+          "openness": "I feel somewhat willing to share my thoughts and feelings, but there's still a part of me that holds back, fearing judgment or misunderstanding.",
+          "resistance": "I find myself pushing against the idea of change, feeling anxious about what it could entail, and doubting my ability to cope with uncertainty."
         },
-        "client_reasoning": "Lately, I've been reflecting on my work and how it impacts my emotions. I realize that my anxiety often comes from this overwhelming need to be productive and in control. It's like I’ve built my identity around my accomplishments at the lab, especially after losing my colleague, which shook my sense of stability. Part of me sees that this isn't a sustainable way to live, but I also fear that if I let go of this need for control, I might fail or be seen as incompetent. Talking about these feelings in therapy is helping me connect the dots, but I still hesitate to fully embrace change. I want to feel better, but I'm scared that changing my approach might mean losing the comfort that my busy schedule gives me, even if it’s just a temporary fix. I’m caught between wanting to understand myself better and feeling anxious about what that might mean for my future.",
-        "progress_marker": "Client begins to articulate specific fears related to change and acknowledges the connection between their work identity and emotional well-being."
+        "client_reasoning": "I'm beginning to understand that my work has become a refuge, a place where I can feel in control, especially after losing my colleague. I notice that I push myself harder to prepare for upcoming tasks, driven by the fear that if I falter, it reflects poorly on me. Yet, I can't ignore the anxiety that comes from this constant push; it feels overwhelming. I want to change, to find a way to feel secure at home like I do at work, but there's this nagging fear that change could disrupt everything I’ve built. I feel conflicted because I crave balance but doubt if I can truly achieve it. Talking in therapy helps me reflect on these feelings, but I still worry that opening up too much might expose me to more vulnerability.",
+        "progress_marker": "The client identifies a connection between their work habits and their emotional state, recognizing areas for potential change."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; therapist objective not met because Wyatt has not fully explored his ambivalence. Client objective not met as he hasn't articulated his feelings about control and anxiety in depth yet.",
-          "client_utterance": "I'm starting to realize that my need to be in control at work is exhausting. I feel like if I don’t keep everything together, I might fail. But part of me wonders if that’s really how I have to live my life.",
-          "therapist_utterance": "It sounds like you're beginning to see how this need for control is weighing on you, and that it might not be sustainable. What do you think might happen if you let go of some of that control, even just a little?",
-          "therapist_use": "Open-ended question: encouraged Wyatt to reflect on the potential outcomes of loosening his control."
+          "reason_for_ending": "KEEP - Therapist objective not met: Wyatt hasn't yet articulated specific values or concerns about change. Client objective not met: Wyatt has not fully explored his feelings about work and their impact on his life.",
+          "client_utterance": "I've been thinking about what you said regarding balance, but I'm still not sure how to approach it. Work feels like my safe space, especially after everything that happened with my colleague. I worry that stepping back might expose me to more anxiety about my performance.",
+          "therapist_utterance": "It's understandable to feel that way, Wyatt. Your work has become a refuge, and stepping back can feel risky, especially when you're trying to maintain stability. What do you think would happen if you allowed yourself to explore other aspects of your life beyond work?",
+          "therapist_use": "Open-ended question: encouraged Wyatt to explore potential consequences of change while acknowledging his fears."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met because Wyatt has not yet engaged deeply with the idea of change. Client objective not met as he hasn't connected his feelings to the impact on his home life.",
-          "client_utterance": "I guess I worry that if I let go, things at work might spiral out of control. At home, I feel like I don’t have much stability either, so I cling to my work as a source of strength. But I’m starting to see that it might not be enough.",
-          "therapist_utterance": "It's understandable to feel that your work is your stronghold, especially during uncertain times. I'm curious about what stability looks like for you at home and how it contrasts with your experience at the lab.",
-          "therapist_use": "Exploring ambivalence: focused on contrasting Wyatt's experiences at work and home to deepen his reflection."
+          "reason_for_ending": "KEEP - Therapist objective not met: The discussion hasn't fully addressed Wyatt's values or fears. Client objective not met: Wyatt is still hesitant to delve deeper into his feelings about work and identity.",
+          "client_utterance": "I suppose it could lead to uncertainty, which I really dislike. I guess I’m just more comfortable when I can predict what’s going to happen. But that also makes me feel stuck because I know I need something different to feel better.",
+          "therapist_utterance": "Feeling stuck can be frustrating, especially when you recognize the need for change. It sounds like there’s a conflict between your desire for predictability and your need for balance. Can you identify what values are most important to you that might be affected by your current work habits?",
+          "therapist_use": "Eliciting Change Talk: helped Wyatt articulate his values and recognize the conflict with his work habits."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met because Wyatt hasn't fully articulated the pros and cons of his situation. Client objective not met as he hasn't explored how his values connect to potential changes.",
-          "client_utterance": "At home, I feel disconnected, like my efforts aren’t recognized. But at work, my achievements are celebrated, which gives me a sense of worth. I guess I’m afraid to disrupt that, even if it means facing discomfort at home.",
-          "therapist_utterance": "It seems like your work provides validation that you don’t feel at home, creating a conflict. What do you think might be the trade-offs if you decided to shift your focus a bit more towards home life?",
-          "therapist_use": "Decisional balance discussion: encouraged Wyatt to weigh the consequences of focusing on home versus work."
+          "reason_for_ending": "KEEP - Therapist objective not met: Wyatt hasn't identified specific values yet. Client objective not met: Wyatt is still grappling with understanding how his work habits impact his emotional state.",
+          "client_utterance": "I value stability and feeling accomplished, but I also crave connection and support, especially at home. Sometimes it feels like I have to choose between being successful at work or nurturing my relationships outside of it. That makes me anxious about what changes might mean.",
+          "therapist_utterance": "It’s insightful that you’ve identified those values. Balancing your desire for achievement with the need for connection is definitely challenging. What might it look like to honor both of those values in your daily life?",
+          "therapist_use": "Decisional Balance Discussion: encouraged Wyatt to explore potential ways to honor both stability and connection."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met since Wyatt has not yet reflected on his past experiences with change. Client objective not met as he hasn’t fully articulated how his values could influence future decisions.",
-          "client_utterance": "I remember a time when I took a risk and tried something new at work. It felt good to step out of my comfort zone, but it was also terrifying. I think I’m just scared that if I try to change now, it could backfire.",
-          "therapist_utterance": "That past experience shows you have the ability to manage change, even if it feels scary. What did you value about taking that risk, and how might those values apply to what you're considering now?",
-          "therapist_use": "Eliciting change talk: prompted Wyatt to reflect on his past successes and their relevance to his current situation."
+          "reason_for_ending": "KEEP - Therapist objective not met: More exploration of specific actions is needed. Client objective not met: Wyatt hasn't fully connected how his current behavior impacts his emotional health.",
+          "client_utterance": "I think it could mean setting boundaries at work so I can have more time for home. But I keep thinking about how that might affect my reputation or my relationships with my coworkers. It’s hard to picture that without feeling overwhelmed.",
+          "therapist_utterance": "Setting boundaries can certainly feel daunting, especially when you care about how others perceive you. However, it’s also important to consider how those boundaries might improve your overall well-being. What would be the worst-case scenario you fear if you started setting those boundaries?",
+          "therapist_use": "Decatastrophizing: guided Wyatt to identify and challenge his fears regarding boundary-setting."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met because Wyatt has not yet clearly expressed what he envisions for his future. Client objective not met as he still feels uncertain about his ability to change.",
-          "client_utterance": "I valued the growth I felt when I took that risk, but it’s hard to see how I could replicate that now. I still feel this pull to keep everything orderly and predictable, even if it’s not really working for me.",
-          "therapist_utterance": "Recognizing that tension between growth and the need for order is a significant insight. What would a more balanced approach look like for you, one that allows for growth while maintaining some level of predictability?",
-          "therapist_use": "Exploring ambivalence: encouraged Wyatt to envision a balance that could accommodate both his need for control and desire for growth."
+          "reason_for_ending": "KEEP - Therapist objective not met: Wyatt hasn't explored the worst-case scenario fully. Client objective not met: Wyatt is still struggling with the implications of setting boundaries.",
+          "client_utterance": "I guess I worry that if I set boundaries, people will think I'm not committed or that I'm slacking off. It feels like a huge risk to take, and I can't help but think of all the negative feedback I might receive. But at the same time, I know I'm burning out.",
+          "therapist_utterance": "Those concerns about perception and commitment are valid, and it’s understandable to fear negative feedback. But it’s also important to recognize the costs of not addressing your burnout. How might you cope with that negative feedback if it were to happen?",
+          "therapist_use": "Exploring Coping Strategies: encouraged Wyatt to consider how he could manage potential negative feedback."
         },
         {
-          "reason_for_ending": "MOVE; therapist objective met as Wyatt has expressed clearer insights into his ambivalence and is exploring values. Client objective met since he is articulating his fears and envisioning a possible future.",
-          "client_utterance": "I think maybe I could try being more open to new experiences, even if it’s uncomfortable. I want to feel more confident in my abilities, both at work and at home. It’s just going to take time to shift my mindset.",
-          "therapist_utterance": "That’s a powerful realization, Wyatt. Embracing discomfort as part of the growth process can lead to new opportunities. It sounds like you’re ready to consider what steps might help you feel more confident moving forward.",
-          "therapist_use": "Double-sided reflection: validated Wyatt's insights while affirming his readiness for change."
+          "reason_for_ending": "KEEP - Therapist objective not met: Wyatt hasn't yet articulated a plan for how to cope. Client objective not met: Wyatt is still in contemplation and hasn't fully committed to exploring change.",
+          "client_utterance": "I think I could remind myself that I’m doing this for my well-being, not just for work. It might help to talk to someone at work about it too, but that feels scary. I guess I just need to figure out how to take that first step.",
+          "therapist_utterance": "Recognizing that your well-being is a priority is a significant step, Wyatt. It’s completely normal to feel scared about opening that conversation at work, but it might also provide you with support. What do you think could be a small first step you could take toward that?",
+          "therapist_use": "Encouraging Action: prompted Wyatt to identify manageable initial steps towards change."
+        },
+        {
+          "reason_for_ending": "MOVE - Therapist objective met: Wyatt has articulated a clear conflict and explored his fears around change. Client objective met: Wyatt has identified the need to address his work habits and their impact on his emotional state.",
+          "client_utterance": "Maybe I could start by writing down my thoughts about work and home life, just to see what comes up. That feels manageable, and I could share it with you next time. It’s a way to start exploring without feeling too exposed.",
+          "therapist_utterance": "That sounds like a great plan, Wyatt! Writing down your thoughts can provide clarity and make it easier to explore those feelings in our next session. I look forward to hearing what you discover about your work-life balance.",
+          "therapist_use": "Supportive Reflection: reinforced Wyatt's decision to take a manageable first step toward exploring his feelings."
         }
       ]
     },
@@ -248,27 +245,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "To enhance Wyatt's commitment to change and explore readiness while reinforcing motivation.",
+          "objective": "To strengthen Wyatt's commitment to change and prepare for upcoming challenges at work.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Wyatt to articulate their reasons for wanting to change by asking open-ended questions about their goals for the upcoming lab meeting.",
-                "Reflect back Wyatt's statements about commitment to change to reinforce their motivation and intent."
+                "Ask Wyatt to articulate why he wants to prepare thoroughly for the lab meeting and what outcomes he hopes to achieve.",
+                "Explore specific motivations behind his desire for control and productivity.",
+                "Encourage Wyatt to express his commitment to change in his own words to reinforce ownership."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess Wyatt's confidence in their ability to prepare for the lab meeting and troubleshoot tasks effectively.",
-                "Explore past successes in similar situations to bolster Wyatt's belief in their capabilities."
-              ]
-            },
-            {
-              "strategy_name": "Identifying Supports and Resources",
-              "instructions_for_therapist": [
-                "Facilitate a discussion about potential supports in Wyatt's environment, including colleagues who can assist during preparations.",
-                "Encourage Wyatt to identify resources that have helped them in the past, such as structured schedules or supportive colleagues."
+                "Discuss with Wyatt the aspects of the preparation that he feels confident about.",
+                "Ask him to rate his readiness for each task he needs to complete and explore any discrepancies.",
+                "Support him in identifying small steps he can take to boost his confidence before the meeting."
               ]
             }
           ]
@@ -278,83 +270,78 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaboratively create a detailed action plan with Wyatt that outlines specific tasks for preparation, including troubleshooting equipment and programming.",
-                "Break down each task into smaller, manageable steps to reduce feelings of overwhelm."
+                "Work collaboratively with Wyatt to outline a specific plan for the tasks he needs to complete for the lab meeting.",
+                "Break down larger tasks into manageable steps, ensuring they are realistic and achievable.",
+                "Set a timeline for each step, considering Wyatt's current workload and emotional state."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Identify potential barriers Wyatt might face during preparations and collaboratively develop coping strategies for each.",
-                "Encourage Wyatt to practice relaxation techniques or mindfulness exercises to manage anxiety when feeling overwhelmed."
-              ]
-            },
-            {
-              "technique_name": "Behavioral Experiments",
-              "instructions_for_therapist": [
-                "Encourage Wyatt to engage in small experiments, such as sharing their preparation progress with a colleague, to test the belief that they must be perfect.",
-                "Discuss the outcomes of these experiments in subsequent sessions to reinforce learning and build self-efficacy."
+                "Identify potential barriers Wyatt anticipates in his preparation process.",
+                "Guide him in brainstorming feasible solutions for each barrier identified.",
+                "Encourage the use of social supports or resources available at work to help mitigate these barriers."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Wyatt's therapy plan, I first acknowledged their current stage of readiness, focusing on their motivation to prepare for the upcoming lab meeting. Employing MI strategies, I aimed to strengthen Wyatt's commitment by facilitating discussions that allowed them to articulate their reasons for change, particularly in the context of their work environment. By exploring their confidence and readiness through scaling questions, I aimed to enhance self-efficacy while addressing anxiety and fear of failure. Additionally, I facilitated the identification of supports and resources, helping Wyatt realize they are not alone in this process. For the CBT component, I prioritized creating an action plan that breaks down tasks into manageable steps, which aligns with Wyatt's need for structure and predictability. I also emphasized coping strategy development to equip Wyatt with tools to handle stress and anxiety, promoting resilience. Lastly, I introduced behavioral experiments to challenge Wyatt's perfectionist beliefs, allowing them to test the reality of their fears in a supportive environment.",
-        "progress_marker": "Wyatt will track their completion of action plan tasks and reflect on their experiences with coping strategies and behavioral experiments, reporting back in our next session."
+        "therapist_reasoning": "In working with Wyatt, I first focused on his expressed fears and the anxiety surrounding his upcoming preparations. By employing MI strategies, I aimed to strengthen his commitment by having him articulate his motivations for change, which fosters ownership of the process. This helps in reducing his sense of helplessness. The exploration of his confidence and readiness allows us to identify his strengths and acknowledge areas needing support, which is crucial given his resistance. For CBT interventions, I chose action planning to collaboratively outline specific tasks, facilitating a structured approach that aligns with his busy schedule. Breaking tasks down into manageable steps addresses his fear of overwhelming failure and provides clarity. Additionally, problem-solving skills training is essential to empower Wyatt to tackle anticipated barriers actively, reinforcing his self-efficacy. By integrating these approaches, I aim to create a supportive environment that respects his resistance while promoting gradual behavioral changes.",
+        "progress_marker": "Wyatt will define specific tasks and timelines for his preparation, report increased feelings of readiness, and identify at least two supports he can utilize."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore practical steps that can help me feel more in control and ready for the upcoming challenges.",
+        "client_objective": "I hope to gain clarity on my feelings about the upcoming challenges and strategies for managing my anxiety effectively.",
         "client_state": {
-          "awareness": "I recognize that my current feelings of anxiety and overwhelm are linked to my fear of failure and the pressure I put on myself to be perfect at work.",
-          "motivation": "I feel a strong desire to improve my situation and regain a sense of stability, especially after losing a close colleague.",
-          "openness": "I'm willing to discuss my thoughts and feelings more openly with my therapist, though I still struggle with expressing my fears fully.",
-          "resistance": "I experience a fair amount of hesitation and doubt about my ability to change and maintain that change, which sometimes makes me feel stuck."
+          "awareness": "I recognize that my current situation is causing me significant anxiety and that I need to make changes to how I handle work and my emotions.",
+          "motivation": "I feel a growing desire to improve my situation, especially to feel more in control and less overwhelmed by my responsibilities.",
+          "openness": "I am willing to discuss my feelings and thoughts about my job and the upcoming lab meeting, although I worry about being vulnerable.",
+          "resistance": "I still feel anxious and doubt whether I can truly change my approach, fearing that I may not be able to maintain the improvements."
         },
-        "client_reasoning": "I've come to realize that my anxiety is rooted in my need for control and the high expectations I set for myself, especially as I prepare for the lab meeting in January. I know I need to change the way I handle stress and uncertainty, as my current strategies aren't sustainable. I feel motivated to improve my situation, particularly after the departure of my colleague, which has left me feeling less stable. I hope that by working with my therapist, I can develop practical steps that will help me cope better and feel more prepared. However, I still worry about whether I can truly achieve this change and maintain it. I often find myself doubting my abilities, which makes me hesitant to fully embrace the changes I want to make. But the support from therapy is giving me the courage to explore these feelings and take small steps forward.",
-        "progress_marker": "Client begins to articulate specific fears and hopes regarding upcoming challenges, demonstrating a willingness to engage in the change process."
+        "client_reasoning": "I've come to realize that my anxiety surrounding the upcoming lab meeting is rooted in my fear of failure and feeling unprepared. I understand that my current coping strategies, like keeping busy and avoiding home, are not sustainable. Change feels necessary because I don’t want to continue feeling this overwhelmed. I hope that by discussing my fears in therapy, I can identify new strategies for handling my responsibilities without feeling so tense. I know I want to improve my situation, but there's still a part of me that worries I won’t be able to handle the changes or that I’ll slip back into my old habits. Therapy has helped me see that I can make adjustments, and I’m cautiously optimistic about finding a balance that allows me to feel confident and valued at work without sacrificing my well-being.",
+        "progress_marker": "Client begins to articulate specific fears and hopes regarding upcoming challenges, indicating a clearer vision of potential change."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met as the therapist did not sufficiently explore Wyatt's readiness for change. The client objective was not met as Wyatt did not articulate specific practical steps for preparation.",
-          "client_utterance": "I've been thinking about how to approach the lab meeting. I feel like I need to prepare, but I keep getting stuck. It’s hard to focus on what steps to take without feeling overwhelmed.",
-          "therapist_utterance": "It sounds like you recognize the need to prepare, but there's a sense of being stuck when you think about the steps involved. What do you think might be the first small step you could take to start feeling more prepared?",
-          "therapist_use": "Open-ended question: used to encourage Wyatt to identify initial steps toward preparation."
+          "reason_for_ending": "KEEP - The therapist's objective to strengthen Wyatt's commitment was not fully met as Wyatt has yet to articulate specific outcomes he hopes to achieve. The client's objective to gain clarity on his feelings about the upcoming challenges is also not fully met as he hasn't defined his feelings in detail.",
+          "client_utterance": "I've started thinking about what I need to prepare for the meeting, but I still feel anxious about everything being perfect. I want to be ready, but the thought of not meeting expectations is overwhelming. What if I end up forgetting something important?",
+          "therapist_utterance": "It’s completely normal to feel that pressure, especially with so much riding on the meeting. Can you tell me what specific outcomes you’re hoping to achieve by being thoroughly prepared? Articulating those can help you focus on your goals and reduce some of that anxiety.",
+          "therapist_use": "Open-ended question: to encourage Wyatt to express his specific goals and reduce anxiety."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met as the therapist did not sufficiently strengthen Wyatt's commitment language. The client objective was not met as Wyatt did not express a clear actionable plan.",
-          "client_utterance": "I guess I could start by jotting down the main points I want to cover at the meeting. But I worry that even that might not be enough to feel ready.",
-          "therapist_utterance": "Writing down your main points is a great start! It shows you're taking action. What do you think you might achieve by having those points organized before the meeting?",
-          "therapist_use": "Reflective listening: used to affirm Wyatt's action and encourage further exploration of its benefits."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Wyatt has not yet communicated his specific motivations effectively. The client’s objective remains unmet because he has not fully explored his feelings about the meeting preparation.",
+          "client_utterance": "I guess I want to feel competent and show my team that I can handle things after everything that happened. But there's this nagging feeling that I might not be able to control everything. What if I fail to impress them?",
+          "therapist_utterance": "Wanting to feel competent is a strong motivator, especially after such a significant change in your team. It seems like you’re balancing this need with a fear of failure. How do you think you could prepare in a way that allows you to feel more in control without the pressure of perfection?",
+          "therapist_use": "Reflective listening: to validate Wyatt's feelings while exploring his motivations and fears."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met as the therapist did not sufficiently explore Wyatt's confidence in preparing for the meeting. The client objective was not met as Wyatt did not express how they could manage their anxiety about preparation.",
-          "client_utterance": "I think having those points could help, but I still feel this nagging anxiety about messing things up. It makes me second-guess everything I do.",
-          "therapist_utterance": "It's understandable to feel anxious about the possibility of making mistakes, especially when you want to perform well. On a scale from 1 to 10, how confident do you feel about preparing for the meeting now?",
-          "therapist_use": "Scaling question: used to assess Wyatt's confidence and encourage reflection on their readiness."
+          "reason_for_ending": "KEEP - The therapist's objective of exploring Wyatt's confidence was not fully achieved as Wyatt has not yet rated his readiness or identified specific tasks. The client’s objective remains unfulfilled as he hasn’t articulated a clear preparation plan.",
+          "client_utterance": "I think I could prepare by organizing my notes and practicing what I want to say, but I’m not sure how I can fit that into my schedule. I feel overwhelmed just thinking about it. I worry that everything will pile up and I won't be able to manage it.",
+          "therapist_utterance": "It sounds like you’re aware of some steps you can take, but fitting them into your busy schedule feels daunting. Let’s break it down together: what are the specific tasks you need to complete, and how can we make them more manageable? Identifying smaller steps might help reduce some of that overwhelm.",
+          "therapist_use": "Action planning: to collaboratively outline specific tasks and reduce overwhelm."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met as the therapist did not sufficiently reinforce Wyatt's motivation. The client objective was not met as Wyatt did not elaborate on past successes that could bolster their confidence.",
-          "client_utterance": "I'd say I'm around a 5. I want to feel more confident, but I just keep thinking about all the ways I could fail.",
-          "therapist_utterance": "A 5 is a good starting point, and it sounds like you're aware of your desire to improve. Can you recall a time when you prepared well for something at work? How did that experience feel?",
-          "therapist_use": "Exploring past successes: used to help Wyatt build confidence through reflection on previous achievements."
+          "reason_for_ending": "KEEP - The therapist's objective to support Wyatt in identifying small steps was not fully met as Wyatt hasn’t established a timeline for tasks. The client’s objective remains unmet because he hasn't articulated his feelings of readiness or commitment to these tasks.",
+          "client_utterance": "I think I could start with organizing my notes this week, but I still feel uncertain about how much time I need for each part. I want to be ready, but I also fear that I might run out of time and still feel unprepared.",
+          "therapist_utterance": "Starting with your notes sounds like a solid first step. How much time do you think you might need for that task, and when do you think you could set aside some time to do it? Creating a timeline can help you feel more in control and ready.",
+          "therapist_use": "Timeline creation: to encourage Wyatt to set realistic expectations and feel more in control."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met as the therapist did not sufficiently identify supports in Wyatt's environment. The client objective was not met as Wyatt did not express potential resources they could utilize.",
-          "client_utterance": "I remember when I prepared for a presentation last year. I felt good about it because I had a colleague help me practice, and it turned out well.",
-          "therapist_utterance": "That’s a great memory to draw from, showing that collaboration can lead to success! Who in your lab might you reach out to for support as you prepare for the upcoming meeting?",
-          "therapist_use": "Identifying supports: used to encourage Wyatt to think about resources in their environment."
+          "reason_for_ending": "KEEP - The therapist's objective of helping Wyatt identify barriers is not fully met as he hasn't discussed potential issues in his preparation. The client’s objective remains unfulfilled as Wyatt has not expressed increased feelings of readiness or identified supports.",
+          "client_utterance": "I worry that if I start working on my notes, I’ll get distracted by other tasks and lose focus on what’s important. I feel like I have so much on my plate right now. What if I can’t keep everything balanced?",
+          "therapist_utterance": "It’s understandable to feel that way, especially with your workload. Can we pinpoint what specific distractions you anticipate? Identifying those barriers can help us brainstorm solutions and create a stronger plan for your preparation.",
+          "therapist_use": "Problem-solving skills training: to help Wyatt identify barriers and develop feasible solutions."
         },
         {
-          "reason_for_ending": "KEEP: The therapist objective was not met as the therapist did not sufficiently encourage Wyatt to articulate their action plan. The client objective was not met as Wyatt did not outline clear steps for reaching out to colleagues.",
-          "client_utterance": "I could ask my colleague for help again, but I worry that it might come off as me not being capable. I don't want to look weak.",
-          "therapist_utterance": "It's understandable to worry about how others perceive you, especially in a professional setting. But seeking help shows strength and a willingness to grow. What could you say to your colleague to express your need for support while affirming your capabilities?",
-          "therapist_use": "Coping strategy development: used to help Wyatt navigate their concerns about reaching out for support."
+          "reason_for_ending": "KEEP - The therapist's objective of reinforcing Wyatt's self-efficacy was not achieved, as he hasn't yet identified supports. The client’s objective remains unmet because he has not reported increased feelings of readiness.",
+          "client_utterance": "I guess I could ask a colleague for feedback on my presentation, but I feel anxious about reaching out. I’m worried they’ll think I’m not capable of handling things on my own. Still, I know I need some support.",
+          "therapist_utterance": "Reaching out can feel daunting, but it sounds like you recognize the value of support. What might you say to a colleague to ask for that feedback without feeling like you’re compromising your capabilities? It could be a great way to build your confidence.",
+          "therapist_use": "Encouragement of social supports: to help Wyatt feel more capable of utilizing available resources."
         },
         {
-          "reason_for_ending": "MOVE: The therapist objective was met as they successfully helped Wyatt articulate a clearer action plan and explore their feelings about reaching out for support. The client objective was met as Wyatt expressed a willingness to take practical steps toward preparation.",
-          "client_utterance": "I think I can ask my colleague for help with my points, just to get some feedback. I realize that collaborating might actually ease some of my anxiety.",
-          "therapist_utterance": "That’s a fantastic plan, Wyatt! It sounds like you’re ready to take this step toward reducing your anxiety and feeling more prepared. How do you feel about committing to this action?",
-          "therapist_use": "Strengthening commitment language: used to reinforce Wyatt’s motivation and readiness to take action."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Wyatt articulated specific tasks and indicated a willingness to seek support. The client’s objective was also met as he expressed a clearer vision of his preparation strategy and readiness to adopt new approaches.",
+          "client_utterance": "I think I can ask for feedback and organize my notes this week. It feels like a good start, and I’m hopeful that I can manage my time better this way. I’m starting to feel a bit more in control.",
+          "therapist_utterance": "That’s fantastic, Wyatt! It sounds like you’re starting to feel more confident in your approach, and those tasks you’ve identified are steps toward achieving your goals. I’m glad to hear you’re feeling a bit more in control, and I’m excited to see how this progresses for you.",
+          "therapist_use": "Positive reinforcement: to acknowledge Wyatt's progress and encourage further commitment."
         }
       ]
     }

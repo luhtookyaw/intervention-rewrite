@@ -12,27 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase awareness of Elena's feelings and beliefs without pushing for change.",
+          "objective": "To build rapport and increase Elena's awareness of her feelings and thoughts regarding her relationships and personal values.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Elena's narratives about her family dynamics and feelings of resentment.",
-                "Reflect back her thoughts and emotions to validate her experience and encourage deeper exploration."
+                "Use reflective statements to validate Elena's feelings of sadness and frustration.",
+                "Encourage her to share her experiences without judgment, focusing on her emotions."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Elena's feelings of sadness and frustration, making it clear that you understand how tough her situation is.",
-                "Use empathetic statements such as, 'It sounds like you feel really alone in this.'"
+                "Acknowledge Elena's feelings of helplessness and loneliness.",
+                "Communicate understanding of her family dynamics and how they contribute to her current emotional state."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Elena to explore the difference between her current feelings of helplessness and her desire for connection.",
-                "Ask open-ended questions that prompt her to consider how her beliefs about others may affect her relationships."
+                "Help Elena explore the gap between her desire for connection and her belief that others do not care.",
+                "Encourage her to reflect on how this discrepancy affects her well-being."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Ask open-ended questions that prompt Elena to think about her experiences and feelings.",
+                "Facilitate a discussion about her values and how they relate to her current situation."
               ]
             }
           ]
@@ -40,84 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Help Elena recognize her automatic thoughts when she reflects on her family interactions.",
-                "Guide her to write down these thoughts and consider their impact on her emotions and behaviors."
+                "Encourage Elena to examine the evidence for her beliefs about being unlovable and powerless.",
+                "Ask her to consider situations where these beliefs might not hold true."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Introduce common cognitive distortions such as 'all-or-nothing thinking' and 'overgeneralization' to Elena.",
-                "Encourage her to evaluate her beliefs about being unlovable or taken advantage of, fostering curiosity about their validity."
+                "Guide Elena in evaluating her thoughts about her family relationships against her own experiences.",
+                "Challenge her to identify alternative interpretations of her interactions."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Discuss with Elena the reasons for her avoidance of social interactions and how these behaviors serve her.",
-                "Help her reflect on the emotions and outcomes associated with her isolation versus connection."
+                "Encourage Elena to think about how she would view a friend experiencing similar feelings.",
+                "Facilitate a discussion on what advice she might give them."
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Ask Elena to rate her feelings about her family dynamics on a scale from 1 to 10.",
+                "Discuss what might move her rating up or down on that scale."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Elena, the primary focus is on fostering a safe therapeutic environment where she feels understood and valued. I began by integrating Motivational Interviewing strategies such as reflective listening and expressing empathy to ensure she feels heard, particularly concerning her complex family dynamics. This approach helps reduce her defensiveness and opens the door to deeper exploration of her emotions. I also employed the strategy of developing discrepancy to encourage her to reflect on the inconsistencies between her desire for connection and her beliefs about being unlovable. Transitioning to CBT, I introduced techniques such as identifying automatic thoughts and recognizing cognitive distortions to help her gain insight into her thought patterns and beliefs. This will allow her to start observing her internal dialogues without feeling pressured to change them immediately. By utilizing a functional analysis of her behavior, I aimed to help her understand the reasons behind her isolation, promoting curiosity rather than judgment, which aligns well with her intermediate resistance profile.",
-        "progress_marker": "Elena expresses a willingness to discuss her feelings and begins to identify her automatic thoughts."
+        "therapist_reasoning": "The therapy plan focuses on building rapport with Elena by utilizing reflective listening to validate her emotions and expressing empathy for her feelings of helplessness. By developing discrepancy, the therapist encourages her to explore the conflict between her desire for connection and belief that others do not care, which can help reduce her defensiveness. Raising awareness through open-ended questions allows Elena to engage with her thoughts and values in a non-confrontational manner. In the CBT interventions, evidence-based questioning aims to challenge her core beliefs about being unlovable and powerless. Reality testing helps her evaluate her thoughts against actual experiences, promoting cognitive flexibility. The alternative perspective technique encourages her to step outside her situation and consider advice for a friend, fostering self-compassion. Finally, the continuum technique helps quantify her feelings, making them more tangible and facilitating discussion without prompting immediate change. This structured approach respects her current resistance and focuses on awareness and curiosity without pushing for behavioral change.",
+        "progress_marker": "Increased engagement in sessions, willingness to explore emotions, and reduced defensiveness."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to just talk without feeling judged or pressured to change anything.",
+        "client_objective": "I hope to understand why I feel so alone and disconnected from everyone.",
         "client_state": {
-          "awareness": "I know there are issues, but I don't see them as a problem that needs fixing.",
-          "motivation": "I don't really want to change; it feels easier to just avoid the pain.",
-          "openness": "I'm not very open; I mostly want to keep my feelings to myself.",
-          "resistance": "I feel like I need to protect myself from discussing my feelings and experiences."
+          "awareness": "I don’t really see my situation as a problem; I just think this is how life is.",
+          "motivation": "I’m not sure if change is even possible for me; it feels overwhelming to think about.",
+          "openness": "I find it hard to share my feelings because I don’t want to seem weak or vulnerable.",
+          "resistance": "I feel a strong urge to avoid discussing my feelings; it just makes me sad."
         },
-        "client_reasoning": "I can't help but feel overwhelmed by my family dynamics, but I don't think of it as something I need to change. I see the conflicts, but honestly, they feel like just a part of life. Talking about this stuff makes me anxious because I worry that the therapist will push me to confront things I'm not ready to face. It’s like I’m stuck in this loop where I feel sad and lonely, but I also believe that no one really cares about my feelings. I keep thinking about how I always give and never receive, and that just reinforces my belief that change is pointless. I'm hesitant to open up because it feels safer to just avoid digging deep into my past. What if talking about it just makes everything worse? It’s easier to stay quiet and keep my thoughts to myself, even if I know it’s not helping."
+        "client_reasoning": "I often feel like I’m stuck in a cycle of giving and receiving nothing in return, but I don’t think it’s a problem that needs fixing. Why should I bother talking about it? It’s just how my life is, and I don't believe it can change anyway. I feel overwhelmed when I think about my family and their issues, but I find it easier to push those thoughts aside than to confront them. I want to connect with others, but deep down, I think they don’t really care about me; they only come to me when they need something. Sharing these feelings feels uncomfortable, almost like exposing a weakness, so I’d rather keep it to myself. Therapy feels like a place where I have to open up, and that’s scary. I want to be safe in my isolation rather than risk being hurt again."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - Elena is still hesitant to share deeper feelings. Client objective not met - Elena feels judged and is holding back.",
-          "client_utterance": "I don’t know, I guess I feel frustrated when I think about my family. It’s like I’m always giving, but it never feels like anyone cares about how I feel. I worry that if I talk too much, it’ll just make things worse.",
-          "therapist_utterance": "It sounds like you feel really alone in this situation, like your feelings aren't acknowledged. That frustration must weigh heavily on you, especially when you feel like you're constantly giving. What do you think would happen if you allowed yourself to express those feelings more openly?",
-          "therapist_use": "Reflective Listening: to validate Elena's feelings and encourage exploration."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist did not fully explore Elena's feelings about her family dynamics. Client objective not met: Elena still feels disconnected and is not ready to discuss her feelings openly.",
+          "client_utterance": "I don't really think my situation is a problem. It's just how life is, and I can't change it. I feel like I'm always giving, but no one cares about me. It's easier to just keep my feelings to myself.",
+          "therapist_utterance": "It sounds like you feel that sharing your feelings might not change anything and that keeping them inside feels safer. You mentioned feeling like no one cares about you, which must be really tough. What do you think would happen if you did share your feelings with someone?",
+          "therapist_use": "Reflective Listening: validated Elena's feelings of sadness and the safety she feels in isolation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - More exploration needed on Elena's feelings. Client objective not met - Elena remains guarded and is not fully opening up.",
-          "client_utterance": "I don’t know if I want to express my feelings. It feels like if I do, I’ll just end up feeling more hurt. I don’t want to feel more pain than I already do.",
-          "therapist_utterance": "It's completely understandable to feel that way. Expressing your feelings can sometimes feel risky, especially when you’re already in pain. What do you think might help you feel safe enough to share what’s going on inside you?",
-          "therapist_use": "Expressing Empathy: to acknowledge her fears and validate her experience."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist did not encourage deeper exploration of Elena's beliefs about connection. Client objective not met: Elena remains resistant to discussing her feelings.",
+          "client_utterance": "I guess I don’t know what would happen if I did share. I just feel like it would make me look weak or like I’m asking for help, and that’s not me. I don’t want to burden anyone with my problems; they have their own issues.",
+          "therapist_utterance": "It’s understandable to worry about burdening others, especially when you feel they have their own challenges. You’re not alone in feeling this way, and it’s okay to have those thoughts. Can you think of a time when someone shared their feelings with you? How did that make you feel?",
+          "therapist_use": "Expressing Empathy: acknowledged Elena's feelings of helplessness and her concerns about burdening others."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - Still need to delve into her feelings about safety. Client objective not met - Client is still feeling defensive.",
-          "client_utterance": "I think I just need to protect myself. It’s easier to keep everything inside than to risk getting hurt. I don’t want to dig deeper and then feel even worse.",
-          "therapist_utterance": "It seems like protecting yourself is a priority for you right now. That instinct to shield yourself from pain makes a lot of sense given your experiences. Can you share what it feels like to keep everything bottled up?",
-          "therapist_use": "Developing Discrepancy: to prompt her to explore her feelings of isolation versus her desire for connection."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist did not facilitate enough reflection on Elena's experiences. Client objective not met: Elena still feels uncertain about sharing her feelings.",
+          "client_utterance": "I remember a friend of mine sharing her struggles, and it felt like a lot. I wanted to help her, but I felt overwhelmed too. I guess it’s just how I see it; I don’t want to be that person who drags others down.",
+          "therapist_utterance": "It’s interesting how you felt wanting to help your friend, even while feeling overwhelmed yourself. That shows a lot of empathy and care. What if you could talk about your feelings without it being a burden? How might that look?",
+          "therapist_use": "Developing Discrepancy: helped Elena explore the gap between her desire for connection and her belief about being a burden."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - Elena hasn’t connected her feelings with her behavior. Client objective not met - She’s identifying resistance but not exploring it fully.",
-          "client_utterance": "I guess it feels heavy, like I’m carrying around this weight. Sometimes, I wonder if I’m just making it worse for myself by not saying anything. But then, what if saying something just leads to more conflict?",
-          "therapist_utterance": "That weight sounds really challenging to bear, and it’s natural to fear conflict if you speak out. It’s like a part of you is caught in a struggle between wanting to be heard and wanting to avoid more pain. What would it mean for you to share even a little bit of how you feel?",
-          "therapist_use": "Reflective Listening: to validate her struggle and encourage her to think about the impact of sharing."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist did not challenge Elena's core beliefs sufficiently. Client objective not met: Elena remains uncertain about the possibility of change.",
+          "client_utterance": "I don’t know; it just feels so daunting to even think about it. I have this belief that I’ll just be ignored or pushed away if I try to connect with anyone. It’s easier to stay in my own bubble.",
+          "therapist_utterance": "That sense of being ignored must be really painful, and I can see why staying in your bubble feels safer. But what if that belief isn’t completely true? Are there moments when you felt acknowledged or valued by others?",
+          "therapist_use": "Evidence-Based Questioning: encouraged Elena to examine the evidence for her beliefs about being unlovable."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - Further exploration of her hesitations is needed. Client objective not met - Elena is still holding back from deeper engagement.",
-          "client_utterance": "I think it would be a relief, but I’m scared of how others would react. What if they don't understand? I don’t want to feel rejected or judged.",
-          "therapist_utterance": "Feeling scared of rejection is completely valid, especially in such a complex family dynamic. It sounds like you’ve been carrying that fear for a long time. What do you think you would need to feel supported if you decided to share your feelings?",
-          "therapist_use": "Expressing Empathy: to validate her fears of rejection and encourage her to think about her support needs."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist did not fully explore alternative interpretations of Elena's beliefs. Client objective not met: Elena still feels overwhelmed by her emotions.",
+          "client_utterance": "I guess there have been times when people did appreciate what I did, but it’s hard to remember those moments. I usually focus on the negative interactions instead. It’s like my mind is wired to see the bad side.",
+          "therapist_utterance": "It makes sense that focusing on negative interactions can overshadow the positive ones. What if you tried to shift your perspective a bit? How would you advise a friend who feels the same way about their relationships?",
+          "therapist_use": "Alternative Perspective: encouraged Elena to think about how she would view a friend experiencing similar feelings."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met - More clarity needed on her support needs. Client objective not met - She remains hesitant to engage fully.",
-          "client_utterance": "I guess I’d need someone to really listen and not just dismiss what I’m saying. But I don’t know if I can find that. It just feels like everyone is so caught up in their own stuff.",
-          "therapist_utterance": "It sounds like you crave that kind of understanding and support, which is so important. It must be frustrating to feel like everyone is wrapped up in their own issues. What if we explored ways to find that kind of connection, starting with this space here?",
-          "therapist_use": "Developing Discrepancy: to encourage her to see the potential for connection despite her fears."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist did not facilitate a clear exploration of Elena's feelings towards change. Client objective not met: Elena remains unsure about her feelings and connections.",
+          "client_utterance": "I’d tell them to focus on the good things and try not to let the bad overshadow everything. But I don’t know if I can do that myself. It feels easier said than done, and I don’t want to set myself up for disappointment.",
+          "therapist_utterance": "It’s completely understandable to feel that way. Change can be daunting, and setting yourself up for disappointment is a real concern. If you rated your feelings about your family dynamics on a scale from 1 to 10, where would you say you are right now?",
+          "therapist_use": "Continuum Technique: helped quantify Elena's feelings, making them more tangible for discussion."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met - Elena is starting to consider her feelings and the potential for connection. Client objective met - She is engaging more and expressing her needs.",
-          "client_utterance": "Maybe it would help to just talk about it here without fear of judgment. I can try to express what I feel, even if it’s just a little. It feels like a step, at least.",
-          "therapist_utterance": "That sounds like a significant step forward for you, and I’m really glad to hear that. This space is here for you to explore those feelings without fear of judgment. What would be the first thing you might want to express?",
-          "therapist_use": "Reflective Listening: to validate her willingness to share and encourage further exploration."
+          "reason_for_ending": "MOVE - Therapist objective met: Therapist facilitated exploration of Elena's feelings and beliefs. Client objective met: Elena expressed a desire to understand her feelings and the connections with others, showing progress.",
+          "client_utterance": "I'd say I'm at a 3. I feel pretty disconnected and frustrated, but I also see that there might be some good moments. It's a confusing mix for me.",
+          "therapist_utterance": "That’s a significant step to recognize both the disconnection and the good moments. It shows you have a nuanced understanding of your situation. How might you move that rating closer to a 4 or 5? What small step could you take?",
+          "therapist_use": "Raising Awareness: encouraged Elena to reflect on her experiences and feelings, fostering a sense of agency."
         }
       ]
     },
@@ -126,30 +140,30 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Elena's ambivalence about her relationships and the desire for connection while addressing her fears surrounding change.",
+          "objective": "Explore Elena's ambivalence about change and strengthen her motivation to address her relationship issues.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Encourage Elena to discuss her feelings about her current relationships and her desire for change.",
-                "Ask open-ended questions to elicit her thoughts on the pros and cons of remaining isolated versus seeking connection.",
-                "Acknowledge her feelings of sadness while gently guiding her to articulate any potential benefits she might see in changing her relational patterns."
+                "Ask Elena how she feels about her current situation and the possibility of change.",
+                "Encourage her to express both her desires for connection and her fears about being hurt.",
+                "Validate her feelings and reinforce that ambivalence is a normal part of the change process."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Use reflective listening to help Elena express her thoughts on what change might look like for her.",
-                "Prompt her to identify moments in the past when she felt connected and valued, contrasting these with her current experiences.",
-                "Encourage her to express any desire for improvement in her relationships, reinforcing her capacity for change."
+                "Prompt Elena to discuss reasons she might want to improve her relationships.",
+                "Use open-ended questions to encourage her to articulate her hopes for the future.",
+                "Reflect back to her any positive statements she makes about wanting to connect."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussions",
+              "strategy_name": "Decisional Balance Discussion",
               "instructions_for_therapist": [
-                "Facilitate a discussion about what Elena values in relationships and how her current behavior aligns or conflicts with those values.",
-                "Help her articulate any discrepancies between her values and her actions, fostering insight into the ambivalence she feels.",
-                "Encourage her to weigh the potential costs and benefits of remaining isolated against the risks and rewards of reaching out to others."
+                "Help Elena list the pros and cons of her current behavior versus potential changes.",
+                "Facilitate a discussion on how her current behaviors align or conflict with her values.",
+                "Encourage her to consider what she values most in relationships and how change might support those values."
               ]
             }
           ]
@@ -157,80 +171,87 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Cognitive Restructuring",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Guide Elena to identify and challenge automatic thoughts related to her feelings of helplessness and unlovability.",
-                "Use Socratic questioning to help her examine the validity of her beliefs, such as 'People only remember me when they need something.'",
-                "Encourage her to gather evidence that contradicts her negative beliefs about relationships and to explore alternative perspectives."
+                "Help Elena identify her worst fears about change and evaluate their likelihood.",
+                "Guide her in creating a more balanced view by discussing potential positive outcomes from changing her behaviors.",
+                "Encourage her to consider small steps she could take that might lead to positive experiences."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Work with Elena to recognize cognitive distortions in her thinking, such as all-or-nothing thinking and overgeneralization.",
-                "Help her reframe thoughts related to her perception of others taking advantage of her generosity.",
-                "Encourage her to articulate more balanced thoughts that include the possibility of positive social interactions."
+                "Assist Elena in creating a list of pros and cons regarding her current behavior of isolation.",
+                "Discuss how her current coping strategies (isolation) are affecting her emotions and relationships.",
+                "Encourage her to weigh the potential benefits of reconnecting with others."
+              ]
+            },
+            {
+              "technique_name": "Evidence-Based Questioning",
+              "instructions_for_therapist": [
+                "Challenge Elena's core beliefs by asking what evidence supports them and what evidence contradicts them.",
+                "Encourage her to reflect on past experiences where she felt loved or valued.",
+                "Foster a discussion about how her beliefs about unlovability and powerlessness may be impacting her current situation."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this therapy plan, I am focusing on Elena's ambivalence towards change and her current relational patterns. I have chosen to utilize Motivational Interviewing strategies, such as exploring ambivalence and eliciting change talk, to create a safe space for her to express her conflicting feelings. By facilitating decisional balance discussions, I aim to help her recognize the discrepancies between her values and behaviors, thus increasing her motivation for change. Additionally, I am incorporating Cognitive Behavioral Therapy techniques, particularly cognitive restructuring, to challenge her core beliefs of helplessness and unlovability. This involves examining her automatic thoughts and identifying cognitive distortions that contribute to her feelings of isolation. Given her resistance profile, I will maintain a collaborative approach, allowing her to reflect and gain insights without feeling pressured to make immediate changes. Overall, this plan aims to enhance her self-efficacy and confidence in her ability to connect with others, ultimately facilitating her movement toward the preparation phase of change.",
-        "progress_marker": "Elena demonstrates increased willingness to discuss her feelings about relationships and expresses curiosity about potential changes, indicating a shift towards readiness for action."
+        "therapist_reasoning": "In working with Elena, the primary focus is to explore her ambivalence and strengthen her motivation for change. I will initially employ Motivational Interviewing strategies, starting with exploring her feelings about her current situation and the possibility of change. This will help her articulate her dual desires for connection and fear of being hurt. Next, I will elicit change talk by prompting her to express reasons for wanting to improve her relationships, reinforcing positive statements she makes. The decisional balance discussion will allow her to weigh the pros and cons of her current behavior against potential changes, helping her see the discrepancy between her values and her current actions. Concurrently, I will incorporate CBT techniques such as decatastrophizing, guiding her to confront her worst fears about change and evaluate their realism, and using pros and cons analysis to assess the implications of her isolation. Evidence-based questioning will challenge her negative beliefs, encouraging her to reflect on contradicting evidence that may enhance her self-efficacy and confidence in making changes. This structured, non-confrontational approach will foster insight and collaboration, essential for her progress.",
+        "progress_marker": "Elena expresses increased awareness of her ambivalence and articulates at least one reason for wanting to change her current relationship patterns."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings and thoughts about my relationships and consider the possibility of change.",
+        "client_objective": "I hope to gain clarity on my feelings about my family and how I can start to change my interactions with them.",
         "client_state": {
-          "awareness": "I’m starting to see that my relationships often leave me feeling used and unappreciated. I recognize that my tendency to withdraw stems from a fear of being hurt again.",
-          "motivation": "Part of me wants to change and find better connections, but I’m scared that it won’t work out, and I’ll just end up feeling worse.",
-          "openness": "I’m gradually becoming more willing to share my thoughts and feelings with my therapist, even though I still hesitate to fully express my fears.",
-          "resistance": "I feel a strong pull to stay isolated because I believe that if I reach out, I’ll only get hurt again. This makes me doubt whether change is worth it."
+          "awareness": "I am starting to notice the patterns in my relationships, especially how I often feel taken advantage of and unappreciated.",
+          "motivation": "I want to change, but I am scared that it won't lead to anything better or that I will just end up hurt again.",
+          "openness": "I feel somewhat willing to share my thoughts and emotions with my therapist, but I still hold back because I fear judgment.",
+          "resistance": "I feel a strong pull to stay in my comfort zone, which makes me doubt whether change is truly possible or worth pursuing."
         },
-        "client_reasoning": "I’ve been reflecting on my family dynamics and how they affect me. It’s becoming clearer that I often feel like I’m giving more than I receive, which leaves me feeling sad and unvalued. I know I need to address these feelings, but I worry that changing my approach will only lead to more disappointment. I want to connect with others, but deep down, I’m afraid they won’t really care about me or will take advantage of my kindness again. Therapy is helping me untangle these thoughts, but I still find myself resisting the idea of change. What if I try to open up and it doesn’t make a difference? I’m caught between wanting a better life and fearing it may only lead to more hurt, so I’m not sure what the next step should be.",
-        "progress_marker": "Client begins to articulate specific patterns of behavior and emotions linked to their relationships, showing signs of self-reflection."
+        "client_reasoning": "I’ve been reflecting a lot on my family and how I often feel like the one giving without receiving anything in return. It’s hard to shake the feeling that people only reach out to me when they need something. I’m starting to see how this makes me sad and lonely, and I know I need to address it. Yet, I’m torn because I fear that if I try to change, I might just end up getting hurt again. Therapy is helping me explore these feelings, but I still feel resistant. I want to connect with others, but I keep asking myself, what’s the point? I worry that even if I try to be more assertive or set boundaries, it won’t change how people treat me. It’s a confusing mix of wanting to improve my relationships and being scared of the potential fallout from making those changes."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; Therapist's objective was not met because Elena has not yet fully articulated her feelings about the costs and benefits of change. Client's objective was not met because she is still hesitant and not ready to explore her relationships deeply.",
-          "client_utterance": "I've been thinking more about how I feel unappreciated, and it's hard to imagine reaching out when I fear it won't be reciprocated. I guess I feel like I’m just stuck in this pattern of thinking everyone will take advantage of me if I let them in.",
-          "therapist_utterance": "It sounds like you're really grappling with the idea of reaching out. That fear of being taken advantage of is weighing heavily on you. What do you think it would feel like to risk that disappointment and try to connect with someone again?",
-          "therapist_use": "Open-ended question: aimed to encourage deeper exploration of Elena's fears about connection."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Elena has not yet explored her ambivalence fully. Client's objective was not met because she is still struggling to identify how to change her interactions with family.",
+          "client_utterance": "I've been thinking about what you said, and I realize I still have a lot of mixed feelings. On one hand, I want to feel more connected with my family, but I’m terrified that it will just lead to more hurt. It’s frustrating because I know I can’t keep living like this, but change feels so risky.",
+          "therapist_utterance": "It’s completely understandable to feel that mix of wanting connection and fearing pain. Can you share more about what specifically worries you about trying to connect with your family? What’s the worst that you imagine could happen?",
+          "therapist_use": "Exploring ambivalence: to help Elena express her fears and desires regarding her family dynamics."
         },
         {
-          "reason_for_ending": "KEEP; Therapist's objective was not met as Elena has not yet weighed the potential benefits of connection against her fears. Client's objective was not met because she is still conflicted and has not explored her desire for change sufficiently.",
-          "client_utterance": "I guess it might feel liberating to connect, but I’m terrified of being let down again. I think about the times I reached out before, and it ended badly, which just makes me want to pull back even more.",
-          "therapist_utterance": "It's understandable to feel that way, especially after past experiences. It seems like those memories are really influencing your current feelings about reaching out. Could you reflect on any moments when connecting with someone felt good, even if they were few and far between?",
-          "therapist_use": "Eliciting change talk: encouraged Elena to recall positive experiences to contrast with her fears."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Elena hasn't yet articulated her fears about connection. Client's objective was not met because she is still grappling with her feelings about family interactions.",
+          "client_utterance": "I guess I fear that if I reach out, they might not take me seriously or just use me again. It’s hard to shake the feeling that I’ll just end up being disappointed. I want to feel valued, but I can’t help but think they won’t change.",
+          "therapist_utterance": "It sounds like you’re really worried about being taken advantage of again, which is completely valid. What evidence do you have that they will treat you the same way if you try to change your approach? Have there been moments when you felt valued by them?",
+          "therapist_use": "Evidence-based questioning: to challenge Elena's beliefs about her family's behavior and to encourage reflection on positive past experiences."
         },
         {
-          "reason_for_ending": "KEEP; Therapist's objective was not met because Elena has not connected her past positive experiences with her current desire for connection. Client's objective was not met as she remains focused on the negative outcomes from her past.",
-          "client_utterance": "There have been a couple of times where I felt truly valued, but they feel so distant now. I wonder if I can ever feel that way again, given how things have been lately.",
-          "therapist_utterance": "Those moments of feeling valued are important to hold onto. They show that it's possible to have positive connections, even if they feel far away now. What do you think might change in your approach if you wanted to try to recreate that feeling?",
-          "therapist_use": "Reflective listening: helped Elena recognize the significance of her past positive experiences."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Elena has not fully identified evidence contradicting her fears. Client's objective was not met because she still needs clarity on how to improve her interactions.",
+          "client_utterance": "There have been small moments where they showed appreciation, but I often forget those. It’s easier to remember the times I felt used or ignored. Maybe I’m just focusing too much on the negatives, but it’s hard to change that perspective.",
+          "therapist_utterance": "That’s a huge realization, acknowledging the positive moments amidst the negatives. What might happen if you tried to bring those positive memories into your current thoughts about them? How could that shift your feelings about reaching out?",
+          "therapist_use": "Decatastrophizing: to help Elena evaluate her worst fears and consider the potential positive outcomes of changing her behavior."
         },
         {
-          "reason_for_ending": "KEEP; Therapist's objective was not met as Elena has not yet identified specific changes she could implement to recreate positive feelings. Client's objective was not met since she is still uncertain about taking steps toward change.",
-          "client_utterance": "I suppose I could start small, maybe by reaching out to a friend I haven’t spoken to in a while. But what if they don’t respond or things go south again? That thought makes me hesitant.",
-          "therapist_utterance": "Starting small sounds like a manageable approach, and it's okay to feel hesitant. It’s also natural to worry about how others might respond. How could you prepare yourself emotionally in case it doesn’t go as you hope?",
-          "therapist_use": "Decisional balance discussion: aimed to help Elena consider emotional preparedness for potential outcomes."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Elena hasn't yet considered practical steps toward change. Client's objective was not met because she still feels overwhelmed by the idea of reaching out.",
+          "client_utterance": "I guess if I think about it, I could remind myself of those good moments when I feel like reaching out. But even then, I have this voice telling me it won’t matter and I’ll just get hurt again. I wish I could feel more confident about making that first move.",
+          "therapist_utterance": "It's natural to feel that hesitance, especially when past experiences weigh heavily on you. What small step do you think you could take to test the waters with your family? It doesn’t have to be anything drastic, just something to help you start feeling more comfortable.",
+          "therapist_use": "Pros and cons analysis: to assist Elena in identifying small, manageable steps toward reconnecting with her family."
         },
         {
-          "reason_for_ending": "KEEP; Therapist's objective was not met because Elena has not fully explored how to emotionally prepare for potential disappointment. Client's objective was not met as she remains in a hesitant mindset about reaching out.",
-          "client_utterance": "Maybe I could remind myself that it’s just one attempt, and it doesn’t have to define my worth. Still, I feel like my heart is racing just thinking about it. What if I just end up feeling worse?",
-          "therapist_utterance": "It’s completely normal to feel anxious about taking that leap. Remembering that one attempt doesn't define your worth is a powerful insight. What would it take for you to see this as a learning opportunity, regardless of the outcome?",
-          "therapist_use": "Cognitive restructuring: helped Elena challenge her automatic thoughts about her worth tied to outcomes."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Elena has not yet committed to a specific action. Client's objective was not met because she needs to develop a clearer plan for change.",
+          "client_utterance": "I suppose I could reach out to one family member I feel a bit closer to and just check in. It feels less daunting than trying to engage with everyone at once. But I still worry that it might not go well.",
+          "therapist_utterance": "That sounds like a thoughtful approach, starting with someone you feel more comfortable with. What are some ways you could prepare yourself for this conversation to lessen your worries? How could you build your confidence before reaching out?",
+          "therapist_use": "Decisional balance discussion: to facilitate Elena's consideration of how she can prepare and feel more confident in taking small steps."
         },
         {
-          "reason_for_ending": "KEEP; Therapist's objective was not met as Elena has not yet fully embraced the idea of viewing potential outcomes as learning experiences. Client's objective was not met because she still feels apprehensive about taking action.",
-          "client_utterance": "I think that could help, but it’s hard to shake off the fear of rejection. Maybe I need to remind myself that not every interaction has to be perfect.",
-          "therapist_utterance": "That’s a very healthy perspective to adopt. Recognizing that interactions can be imperfect opens the door to more genuine connections. How might you reassure yourself if you do face rejection in the future?",
-          "therapist_use": "Cognitive distortion identification: encouraged Elena to articulate balanced thoughts about imperfection in interactions."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Elena has not fully articulated her plans for reaching out. Client's objective was not met since she still needs to solidify her feelings about family interactions.",
+          "client_utterance": "I think I could write down a few things I’d like to say to clarify my feelings. If I have that ready, maybe I won’t feel as overwhelmed when we talk. But I still have this nagging doubt that it won't change anything.",
+          "therapist_utterance": "Writing down your thoughts sounds like a helpful strategy to organize your feelings. It’s okay to have doubts; they are part of the process. What do you think might be the most positive outcome of this conversation, even if it doesn't go perfectly?",
+          "therapist_use": "Eliciting change talk: to encourage Elena to articulate her hopes for improved family interactions and reinforce her willingness to try."
         },
         {
-          "reason_for_ending": "MOVE; Therapist's objective was met as Elena is beginning to articulate a more balanced view of her potential interactions. Client's objective was met because she is actively considering the possibility of change and is exploring her fears more openly.",
-          "client_utterance": "I could tell myself that rejection doesn't reflect my value as a person. I think I’m starting to feel a bit more open to the idea of reaching out, even if it scares me.",
-          "therapist_utterance": "That’s a significant shift, Elena! Embracing the idea of reaching out despite the fear shows great courage. It sounds like you’re moving towards a place where you can make that connection with more confidence.",
-          "therapist_use": "Double-sided reflection: validated her progress while reinforcing her willingness to consider change."
+          "reason_for_ending": "MOVE: Therapist's objective was met as Elena has expressed a clearer understanding of her feelings and a willingness to take action. Client's objective was met because she has identified steps to improve her interactions with her family.",
+          "client_utterance": "I realize that even if it doesn’t go perfectly, it could still lead to something better. I want to start shifting how I interact with my family, and I think this first step might help me feel more empowered. I’m ready to give it a try, despite my fears.",
+          "therapist_utterance": "That’s an incredible step, Elena! Recognizing the potential for improvement and feeling empowered to take action is a huge breakthrough. I’m here to support you as you take this first step. How do you feel about moving forward with this plan?",
+          "therapist_use": "Reinforcing change talk: to celebrate Elena's readiness to take action and support her commitment to change."
         }
       ]
     },
@@ -239,22 +260,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen commitment to change and explore readiness for action.",
+          "objective": "Strengthen Elena's commitment to change and explore her motivations for building healthier relationships.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Elena to articulate her reasons for wanting to change, reinforcing her motivation.",
-                "Reflect back her statements of commitment to change, emphasizing her strengths and abilities.",
-                "Use open-ended questions to help her explore what change would look like and how it aligns with her values."
+                "Engage Elena in a conversation about her reasons for wanting to change her family dynamics.",
+                "Encourage her to articulate her goals and the positive outcomes she envisions.",
+                "Use reflective listening to reinforce her commitment by summarizing her stated intentions."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Ask Elena about her confidence in making specific changes, and discuss past successes to bolster her self-efficacy.",
-                "Help her identify small steps she can take that feel manageable, reinforcing her sense of control.",
-                "Explore any ambivalence she has about change and validate her feelings while guiding her towards recognizing her capability."
+                "Ask open-ended questions about her previous experiences with change and how they relate to her current situation.",
+                "Explore any past successes she has had in establishing boundaries or connecting with others.",
+                "Validate her feelings of uncertainty while emphasizing her ability to take gradual steps."
               ]
             }
           ]
@@ -264,77 +285,77 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaborate with Elena to identify 2-3 specific, achievable goals related to her family interactions.",
-                "Develop a timeline for these goals, breaking them down into smaller, manageable tasks.",
-                "Discuss potential barriers she might face and brainstorm practical solutions together."
+                "Guide Elena in creating a specific, realistic action plan focused on initiating contact with supportive friends or family members.",
+                "Help her identify small, manageable steps she can take, such as reaching out once a week rather than overwhelming her with multiple interactions.",
+                "Discuss potential barriers, such as fear of rejection, and collaboratively brainstorm coping strategies to address these challenges."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Behavior Experiment",
               "instructions_for_therapist": [
-                "Help Elena identify coping strategies to manage feelings of sadness and frustration during family interactions.",
-                "Teach her mindfulness techniques or grounding exercises she can use when feeling overwhelmed.",
-                "Encourage her to practice assertiveness in small, low-risk scenarios to build her confidence."
+                "Develop a behavior experiment where Elena can test her belief that others do not care about her.",
+                "Encourage her to share something meaningful with a friend or family member and observe their response.",
+                "Facilitate a discussion afterward about her feelings and any evidence that supports or contradicts her beliefs."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan, I first recognized Elena's core beliefs of helplessness and unlovability, which influence her readiness for change. Using MI strategies, I aimed to strengthen her commitment by encouraging her to articulate her motivation and past successes, thereby reinforcing her self-efficacy. I chose to explore her confidence levels and readiness to engage in action planning, as this aligns with her current phase of preparation. For the CBT component, I focused on action planning to help Elena create specific, realistic goals she can work towards, while also addressing potential barriers collaboratively. Additionally, I integrated coping strategy development to empower her in managing emotions related to family interactions, using techniques that can help her feel more in control. This structured approach respects her resistance levels and incremental readiness, ensuring she does not feel overwhelmed while fostering a sense of agency in her change process.",
-        "progress_marker": "Elena will track her feelings and progress toward her identified goals, noting any successes or challenges to discuss in future sessions."
+        "therapist_reasoning": "In this therapy plan, I first focused on enhancing Elena's commitment to change by employing Motivational Interviewing (MI) strategies. By using strengthening commitment language, I aim to help her articulate her reasons for change, reinforcing her motivation. I also explore her confidence and readiness, which addresses her feelings of uncertainty and helps her recognize past successes. For the CBT component, I've included action planning as a vital step to create a specific, manageable plan that eases her into social interactions, acknowledging her resistance to change. The behavior experiment allows Elena to confront her core belief that people do not care about her, providing her with an opportunity to challenge that belief in a supportive context. This combination of MI and CBT not only targets her feelings of helplessness and unlovability but also encourages gradual exposure to social situations, making the plan collaborative and achievable while addressing her intermediate resistance level.",
+        "progress_marker": "Elena will identify one supportive person to reach out to within the next week and articulate her feelings about her past interactions to reinforce her commitment to change."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I want to explore practical steps to improve my relationships and feel more connected to others.",
+        "client_objective": "I hope to explore ways to set boundaries and improve my relationships while feeling supported.",
         "client_state": {
-          "awareness": "I recognize that my feelings of isolation and resentment are tied to my interactions with family and friends, and I understand that this situation is not sustainable.",
-          "motivation": "I'm feeling more motivated to seek change now because I realize that I want to have healthier relationships and not feel alone during important times like the holidays.",
-          "openness": "I'm willing to discuss my thoughts and emotions with my therapist and consider new approaches, even though it feels scary.",
-          "resistance": "I still feel hesitant and fearful about whether I can really change things; there's a part of me that doubts people will truly care or that I can trust them."
+          "awareness": "I recognize that my current situation is unhealthy, and my relationships are strained due to my inability to assert myself and protect my own needs.",
+          "motivation": "I feel a growing desire to change my situation, especially as I consider the impact of my isolation and resentment.",
+          "openness": "I am willing to discuss my feelings and experiences with my therapist, even though I still feel hesitant about some aspects of change.",
+          "resistance": "I experience doubt about whether I can truly change my situation or if I am destined to feel alone and unappreciated."
         },
-        "client_reasoning": "I've started to see that my current situation isn't working for me anymore. I feel sad and alone, especially when I think about spending the holidays by myself. I've given so much to others, yet I often feel taken advantage of and unappreciated. I realize that I need to change this pattern, or I'll keep feeling this way. Therapy has helped me understand that my past experiences have shaped my beliefs about relationships, and I'm starting to see that there might be ways to connect that don't lead to hurt. I'm cautiously optimistic that I can improve my situation, but I still worry. What if I open up again and get hurt? Can I trust anyone? I hope to find some answers and support in our conversations, but I know I have a long way to go."
+        "client_reasoning": "I've come to realize that my relationships are making me unhappy, and I can't keep giving without receiving anything in return. I want to change this dynamic, but I also feel scared about how to start. Therapy has helped me see that I don't have to stay in this cycle of feeling helpless and unlovable. I know I need to set boundaries, but what if it backfires and I end up even more alone? I want to connect with people who care, but I worry that they won't understand my needs. I feel motivated to try, though, and I hope to find some practical steps to take. I know I can't keep isolating myself; it's just not working anymore, and I want to feel better about myself and my relationships."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective of strengthening commitment to change was not fully met as Elena still feels hesitant about reaching out. The client's objective of exploring practical steps to improve relationships was not fully met as she hasn't identified specific actions yet.",
-          "client_utterance": "I've been thinking about what you said regarding reaching out to a friend. I feel like it's a step I could take, but I’m still scared about how they might react. What if they don't remember me or just aren't interested in reconnecting?",
-          "therapist_utterance": "It's completely normal to have those fears, Elena. Reaching out can feel intimidating, especially if there’s uncertainty about the other person's feelings. What if you framed it as a chance to catch up, rather than putting pressure on it to be something more?",
-          "therapist_use": "Open-ended questioning: used to encourage Elena to explore framing her outreach in a less pressured way, aiming to reduce her anxiety."
+          "reason_for_ending": "KEEP: The therapist objective was not met since the client's commitment to change is still uncertain. The client objective was not met as Elena hasn't yet identified a specific person to reach out to.",
+          "client_utterance": "I’ve been thinking about reaching out to my cousin, but I’m still scared. What if she just brushes me off or doesn't understand? I want to feel like I can trust someone, but there’s this nagging doubt.",
+          "therapist_utterance": "It's completely natural to feel scared about reaching out, especially when trust is at stake. You mentioned wanting to feel understood; what would that look like for you in this conversation with your cousin? How might you prepare yourself to express your feelings clearly?",
+          "therapist_use": "Open-ended questioning: to explore the client's feelings and envision a supportive interaction."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of exploring confidence and readiness was not met because Elena still expresses significant fear. The client's objective of identifying practical steps is not fully achieved as she hasn't yet committed to any specific action.",
-          "client_utterance": "That sounds less daunting, but I keep thinking about how I might feel if things don't go well. I could easily convince myself to just back out and not make the attempt at all. It feels like I'm caught between wanting to connect and the fear of rejection.",
-          "therapist_utterance": "It’s a tough balance to strike, wanting to connect while fearing rejection. Acknowledging those feelings is a healthy step. How might you remind yourself of your worth, regardless of how this potential connection unfolds?",
-          "therapist_use": "Affirmation: Used to validate Elena’s feelings about the fear of rejection while encouraging her to focus on her self-worth."
+          "reason_for_ending": "KEEP: The therapist objective was not met because the client is still struggling to articulate her feelings about reaching out. The client objective was not met since she hasn't identified concrete steps to take.",
+          "client_utterance": "I guess I could write down how I feel and what I want from her. But even then, I worry that it won’t make a difference, and I’ll just feel foolish for trying.",
+          "therapist_utterance": "Writing down your thoughts is a great way to clarify your feelings, and it’s understandable to fear feeling foolish. What if you viewed this as an opportunity to express your needs rather than a test of their response? How could you remind yourself that your feelings are valid regardless of how she reacts?",
+          "therapist_use": "Reframing: to help the client see her expression of feelings as valid and valuable."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of strengthening commitment was not achieved because Elena is still grappling with fear. The client's objective of exploring practical steps is not met as she hasn't articulated any specific goals.",
-          "client_utterance": "I guess I could remind myself that reaching out is just an attempt to connect, and it doesn’t define me. But I can't shake off the worry that they'll just see me as a burden. It makes me hesitant to even think about it.",
-          "therapist_utterance": "You're not a burden, Elena; reaching out is a sign of strength and a desire for connection. Many people appreciate being contacted, even if they seem busy. What if you approached it as a way to share something positive, rather than a heavy expectation?",
-          "therapist_use": "Reframing: Used to help Elena view her outreach as a positive connection rather than a burden, aiming to alleviate her fears."
+          "reason_for_ending": "KEEP: The therapist objective was not met since the client still hasn't identified a supportive person to reach out to. The client objective was not met as she remains hesitant to fully commit to the plan.",
+          "client_utterance": "I see your point, but it still feels like a big leap. I want to be brave, but what if I end up feeling worse afterward? It’s hard to shake the fear of rejection.",
+          "therapist_utterance": "That fear of rejection is a significant barrier, and it's really understandable. What small step could you take that feels less daunting but still moves you closer to connecting with your cousin? Perhaps starting with a simple text could feel more manageable.",
+          "therapist_use": "Scaling: to encourage the client to consider smaller, less intimidating steps toward her goal."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of exploring confidence was not met as Elena still shows significant doubt about her value. The client's objective of identifying practical steps is not met since she hasn't committed to any outreach plan yet.",
-          "client_utterance": "That might help, but I still have this nagging voice telling me it’s not worth the risk. I wonder if I could write them a message instead of calling. It feels safer, but what if they don’t respond?",
-          "therapist_utterance": "Writing a message could be a great first step! It allows you to express your thoughts without the immediate pressure of a conversation. How do you think it might feel to draft a simple message to start with?",
-          "therapist_use": "Encouragement of small steps: Used to promote a less intimidating approach to outreach, validating Elena’s desire for safety."
+          "reason_for_ending": "KEEP: The therapist objective was not met because the client still hasn't committed to a specific action. The client objective was not met as Elena hasn't yet finalized her plan to reach out.",
+          "client_utterance": "A text might be easier, but I still worry about what to say. I don’t want to sound needy or like I’m putting pressure on her. I just want to see if she’s open to talking.",
+          "therapist_utterance": "It’s valid to want to approach it gently. How about drafting a message that expresses your interest in reconnecting without putting too much pressure on her? You could keep it simple and open-ended, allowing her to respond in a way that feels comfortable for both of you.",
+          "therapist_use": "Action planning: to guide the client in formulating a specific and manageable step toward reaching out."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of strengthening commitment was not fully met since Elena still feels significant internal conflict. The client’s objective of exploring practical steps is still pending as she hasn't finalized any action.",
-          "client_utterance": "I think drafting a message could work. Maybe I could just say I hope they're doing well and mention something light. But I still feel like there’s a part of me that doubts they’d even care.",
-          "therapist_utterance": "It’s understandable to feel that doubt, especially after past experiences. However, reaching out can sometimes surprise us with the responses we receive. What if you think about how you would feel if they did respond positively?",
-          "therapist_use": "Future-oriented questioning: Used to help Elena envision a positive outcome, reinforcing her motivation to take the step."
+          "reason_for_ending": "KEEP: The therapist objective was not met as the client hasn't yet outlined her feelings in a message. The client objective was not met since she still feels uncertain about reaching out.",
+          "client_utterance": "That sounds okay, but I’m still not sure what to say exactly. I guess I could say I’ve been thinking about her and hope she’s doing well. But what if she doesn’t respond?",
+          "therapist_utterance": "Starting with a simple message like that can be a great way to open the door without overwhelming yourself. Remember, you’re taking a step forward regardless of the outcome. What might you do to cope with the possibility of not getting a response?",
+          "therapist_use": "Coping strategies: to prepare the client for potential responses and reinforce her ability to handle outcomes."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of exploring readiness was not fully achieved since Elena still holds doubt about the outcome. The client’s objective of exploring practical steps hasn't been completed as she hasn't yet committed to sending the message.",
-          "client_utterance": "I suppose it would feel nice to hear from them, but the fear of silence is still there. I think if I just focus on the message and not the outcome, it might help. But I still need to work on my belief that I’m worth reaching out to.",
-          "therapist_utterance": "Focusing on the message rather than the outcome sounds like a healthy approach. It’s important to remind yourself that your desire to connect is valid and worthwhile. What could you tell yourself about your worth that would make this step feel more comfortable?",
-          "therapist_use": "Self-affirmation: Encouraged Elena to recognize her worth, aiming to build her confidence and readiness for outreach."
+          "reason_for_ending": "KEEP: The therapist objective was not met as the client hasn't fully embraced a plan to reach out. The client objective was not met since she is still grappling with her fears about rejection.",
+          "client_utterance": "I could remind myself that not everyone will respond the way I fear. I know I can’t control her reaction, but it’s still hard to shake off the anxiety. I want to feel brave enough to send that message.",
+          "therapist_utterance": "It's a big step to recognize that you can’t control others’ reactions, and that takes courage. Remember, taking action can itself be empowering, regardless of the outcome. How are you feeling about sending that message now?",
+          "therapist_use": "Reflective listening: to validate the client's feelings while reinforcing her progress."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective of strengthening commitment was met as Elena has begun to articulate a plan to reach out. The client's objective of exploring practical steps has been achieved as she has identified a specific action to take.",
-          "client_utterance": "I think I can do this! I’ll write the message, and I’ll remind myself that reaching out is a sign of my strength. I feel a bit anxious, but I’m also excited to see what happens.",
-          "therapist_utterance": "That's fantastic, Elena! It sounds like you've made a real commitment to take this step, and I can hear the excitement in your voice. Remember, this is about reconnecting and seeing where it leads, and I’m here to support you through it.",
-          "therapist_use": "Commitment strengthening: Used to reinforce Elena's decision to reach out, celebrating her motivation and excitement."
+          "reason_for_ending": "MOVE: The therapist objective was met as the client is now prepared to take action and articulate her feelings. The client objective was met since Elena has identified a specific person to reach out to and is ready to express her feelings.",
+          "client_utterance": "I think I’m ready to send that message. It feels like a small step, but it’s still a step toward changing how I interact with my family. I’m hopeful that it could lead to better connections.",
+          "therapist_utterance": "That’s wonderful to hear, Elena! Taking this step shows your commitment to change and improving your relationships. I’m here to support you as you take this leap and explore what comes next.",
+          "therapist_use": "Affirmation: to reinforce the client’s decision and celebrate her progress."
         }
       ]
     }

@@ -12,34 +12,30 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Sydney's awareness of her thoughts and feelings regarding her health and control issues without pushing for immediate change.",
+          "objective": "To increase Sydney's awareness of her thoughts, emotions, and behaviors related to her health concerns, while building rapport and trust.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Sydney's concerns and feelings without interruption.",
-                "Reflect back what you hear, focusing on her ambivalence and the emotions behind her statements."
+                "Listen attentively to Sydney's concerns about her stomach issues without interrupting.",
+                "Reflect back her feelings of overwhelm and ambivalence to validate her experience.",
+                "Encourage her to share more about what she feels and thinks regarding her health."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Validate Sydney's feelings of being overwhelmed and her concerns about health.",
-                "Acknowledge her struggles with control and how they impact her emotions."
+                "Acknowledge Sydney’s feelings of anxiety and fear as normal responses to her situation.",
+                "Use empathetic statements to create a safe space for her to express her fears about healing and control.",
+                "Reassure her that it is okay to feel stuck and that exploration is part of the process."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the difference between Sydney’s current feelings of helplessness and her past successes in college.",
-                "Ask open-ended questions that encourage her to reflect on her values related to health and control."
-              ]
-            },
-            {
-              "strategy_name": "Raising Awareness",
-              "instructions_for_therapist": [
-                "Encourage Sydney to share her thoughts about her physical symptoms and emotional state.",
-                "Facilitate discussions that help her identify any cognitive distortions in her thinking."
+                "Help Sydney articulate her values, such as wanting to feel healthy and in control.",
+                "Gently explore the gap between her current feelings of anxiety and her values.",
+                "Encourage her to reflect on how her current behaviors may not align with her values."
               ]
             }
           ]
@@ -47,77 +43,87 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Sydney in recognizing her automatic thoughts related to her stomach issues and feelings of being out of control.",
-                "Help her differentiate between thoughts that are factual and those that are distorted or unhelpful."
+                "Ask Sydney to consider evidence that supports and contradicts her belief that her stomach issues won't heal.",
+                "Encourage her to think about past instances when she felt her health improved.",
+                "Facilitate a discussion on the likelihood of her fears being accurate."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Discuss with Sydney the situations that trigger her anxiety and the coping strategies she employs.",
-                "Explore the consequences of her behaviors to increase her understanding of her patterns without pushing for change."
+                "Guide Sydney to question the validity of her automatic thoughts about being out of control.",
+                "Encourage her to identify instances where she has successfully managed her anxiety.",
+                "Discuss the difference between her feelings and the facts of her situation."
+              ]
+            },
+            {
+              "technique_name": "Alternative Perspective",
+              "instructions_for_therapist": [
+                "Invite Sydney to consider how others might view her situation differently.",
+                "Encourage her to think about what someone she trusts would say about her fears.",
+                "Help her to see alternative explanations for her physical symptoms beyond her current negative beliefs."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To effectively engage Sydney in the Pre-contemplation phase, the therapist will begin by employing Motivational Interviewing strategies to build rapport and reduce her defensiveness. Reflective listening will help Sydney feel heard, while expressing empathy will validate her feelings of overwhelm and helplessness. By developing discrepancies between her current state and past successes, the therapist can gently encourage her to reflect on her values regarding health and control. Simultaneously, CBT techniques will be integrated to help Sydney identify her automatic thoughts about her stomach issues, fostering self-awareness. A functional analysis of her behaviors will also provide insights into how her coping strategies may be reinforcing her feelings of anxiety. This dual approach of MI and CBT, focusing on awareness and understanding rather than immediate change, aligns with Sydney's resistance profile, allowing her to explore her thoughts and feelings at her own pace.",
-        "progress_marker": "Sydney begins to articulate her thoughts and feelings about her health and control issues more openly, showing increased self-awareness."
+        "therapist_reasoning": "In working with Sydney, the therapist first recognizes her resistance and ambivalence towards discussing her health concerns. By employing reflective listening and expressing empathy, the therapist aims to create a safe environment that encourages Sydney to share her thoughts and feelings. This is crucial in the pre-contemplation phase, as it helps build rapport and trust. Utilizing the motivational interviewing strategy of developing discrepancy, the therapist gently guides Sydney to articulate her values and explore how her current feelings of anxiety might be misaligned with those values. This allows her to begin recognizing the potential need for change without feeling pressured. Simultaneously, the therapist incorporates CBT techniques like evidence-based questioning and reality testing to challenge Sydney's automatic negative thoughts about her health. By encouraging her to consider alternative perspectives, the therapist assists Sydney in gaining greater awareness of her feelings and cognitive patterns, promoting a sense of curiosity and engagement rather than defensiveness. This combination of MI and CBT strategies is designed to support Sydney in exploring her internal landscape while respecting her current readiness for change.",
+        "progress_marker": "Increased openness to discussing health-related thoughts and emotions; reduced defensiveness in therapy sessions."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I feel this way without having to dive too deep into my health issues right now.",
+        "client_objective": "I hope to talk about something other than my health worries for now.",
         "client_state": {
-          "awareness": "I have some idea that my stomach issues are related to my anxiety, but I don't want to think about it too much.",
-          "motivation": "I want to feel better, but I'm not sure change is possible or that I can actually do it.",
-          "openness": "I'm hesitant to share my true feelings because it makes me feel overwhelmed and vulnerable.",
-          "resistance": "I find myself avoiding the core problem and feel defensive when it comes up."
+          "awareness": "I have some awareness of my stomach issues, but I often minimize their impact and don't see them as a serious problem.",
+          "motivation": "I don't feel a strong desire to change my situation because I doubt that anything can actually improve.",
+          "openness": "I'm somewhat hesitant to share my deeper thoughts and feelings, as discussing them makes me feel overwhelmed.",
+          "resistance": "I often feel defensive and prefer to avoid talking about my core issues, which makes me resistant to engaging in therapy."
         },
-        "client_reasoning": "I know my stomach problems are affecting me, but honestly, thinking about them makes me feel anxious and scared. I sometimes wonder if I really want to talk about it because it feels like such a burden. I guess part of me thinks that if I don't discuss it, it won't seem so real or overwhelming. I worry that there could be something really wrong, and that thought paralyzes me. It’s easier to focus on other things, like external situations or distractions, rather than dive into my feelings about my health. I don't want to feel helpless or vulnerable, and opening up about these issues in therapy feels risky. I keep telling myself that maybe if I avoid it long enough, it will just go away on its own. But deep down, I know that might not be true, which is frustrating and confusing for me."
+        "client_reasoning": "I know I have stomach problems, but part of me thinks they aren't as serious as I make them out to be. I feel like if I focus too much on them, I’ll just get more anxious, so I’d rather discuss something else. I worry that if I dive into my health worries, it’ll only confirm how out of control I actually am, and that scares me. I sometimes think that if I don’t understand the reasons behind my symptoms, I’ll never feel calm again. It’s tough to share these feelings because it makes me feel so vulnerable, and being vulnerable feels dangerous. I guess I just feel trapped in this cycle of worry and avoidance, and even though I know therapy is supposed to help, it feels a bit uncomfortable to confront all of this head-on. I’m not sure if change is even possible for me, so why dig deeper into my feelings when I can just distract myself instead?"
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because Sydney hasn't fully articulated her feelings about her health. Client objective not met as Sydney still feels overwhelmed and is hesitant to engage deeply.",
-          "client_utterance": "I know my stomach issues seem linked to my anxiety, but I can't help but think that if I just ignore them, maybe they'll just go away. It feels like such an overwhelming topic to dive into right now.",
-          "therapist_utterance": "It sounds like you're caught between wanting to avoid these feelings and knowing they might be important to address. It's understandable to feel that way, especially when it comes to something as personal as health. What do you think might happen if you allow yourself to explore these feelings a bit more?",
-          "therapist_use": "Reflective Listening: used to acknowledge Sydney's conflict and validate her feelings."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Sydney has not yet fully explored her thoughts and feelings about her health. The client’s objective was not met as she still wants to avoid discussing her health worries.",
+          "client_utterance": "I guess I just don't want to think about my stomach issues too much. It feels overwhelming, and I prefer to focus on other things that don't make me feel so anxious. I mean, isn't it normal to want to avoid things that stress you out?",
+          "therapist_utterance": "It's completely understandable to want to avoid those feelings, Sydney. Many people find it difficult to confront what makes them anxious, and it’s a natural response. What do you think it is about discussing your stomach issues that feels so overwhelming for you?",
+          "therapist_use": "Reflective Listening: to validate Sydney's feelings and encourage her to explore her thoughts further."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Sydney hasn't increased her awareness of her feelings. Client objective not met because she continues to resist discussing her health.",
-          "client_utterance": "I guess I'm just scared of what I might find if I look deeper. I don’t want to feel helpless or like I’m losing control over my life.",
-          "therapist_utterance": "It's completely valid to feel scared about what you might discover. Many people feel a sense of vulnerability when confronting their health issues. How do you think this fear affects your daily life and your ability to cope with stress?",
-          "therapist_use": "Expressing Empathy: used to validate Sydney's fear while encouraging her to reflect on its impact."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Sydney has not articulated her deeper feelings about her health concerns. The client’s objective was not met as she still prefers to avoid the topic.",
+          "client_utterance": "I just feel like if I focus on it, I'll spiral into more anxiety. Like, maybe it’s not even that serious, and I don't want to make a big deal out of it. It feels safer to just ignore it, right?",
+          "therapist_utterance": "It's very common to minimize things that cause us distress, especially when they feel unmanageable. Ignoring them might feel safer, but it also can keep us stuck in a cycle of worry. What do you think might happen if you allowed yourself to explore those feelings a bit more?",
+          "therapist_use": "Expressing Empathy: to create a safe space and normalize Sydney's avoidance while inviting exploration."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met since Sydney hasn't connected her fears with specific past experiences. Client objective not met because she remains hesitant to explore her feelings.",
-          "client_utterance": "I think it makes me avoid situations where I feel stressed, but then I just end up feeling worse. I don't want to face my stomach issues, so I distract myself with other things.",
-          "therapist_utterance": "It seems like avoidance provides a temporary escape but leads to more stress in the long run. You're recognizing a pattern in your behavior, which is a significant step. What do you think drives you to choose distractions over addressing your feelings?",
-          "therapist_use": "Developing Discrepancy: used to highlight the inconsistency between avoidance and stress."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Sydney has not yet connected her values with her current feelings. The client’s objective was not met as she remains hesitant to delve into her health worries.",
+          "client_utterance": "I guess I worry that if I admit how I really feel about my health, it’ll just confirm that I’m not in control. And being out of control is something I really can't handle. It’s like I’m stuck in this loop of avoiding and worrying.",
+          "therapist_utterance": "It sounds like there's a real conflict between wanting to feel in control and the fears that come with addressing your health. Acknowledging those feelings can be tough, but it might also help you align more with your values of wanting to feel healthy and strong. How do you think you might feel if you could approach your concerns with a bit more openness?",
+          "therapist_use": "Developing Discrepancy: to help Sydney articulate her values and explore the gap between her feelings and those values."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Sydney hasn't fully recognized the impact of her avoidance. Client objective not met because she is still avoiding deeper exploration.",
-          "client_utterance": "I guess I just feel like I don’t have the energy to deal with it. It’s exhausting to think about, and I worry that it might be worse than I imagine.",
-          "therapist_utterance": "That sounds really exhausting, and it's okay to feel that way. Sometimes the anticipation of facing something difficult can be more draining than the actual experience. Would it help to think about what the worst-case scenario might be for you?",
-          "therapist_use": "Raising Awareness: used to encourage Sydney to confront her fears in a manageable way."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Sydney has not fully engaged with her past experiences regarding health. The client’s objective was not met as she still feels defensive about discussing her core issues.",
+          "client_utterance": "I mean, there were times in the past when I felt better, but it seems so far away now. I just don’t see how I can get back to that point. It feels like I’m just making excuses to not deal with it.",
+          "therapist_utterance": "Reflecting on those past improvements can be really valuable, even if it feels distant now. It might help to think about what was different during those times when you felt better. What do you think contributed to those moments of feeling more in control?",
+          "therapist_use": "Evidence-Based Questioning: to encourage Sydney to recall past instances of improvement and challenge her current beliefs."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Sydney hasn't vocalized her thoughts about worst-case scenarios. Client objective not met because she still feels overwhelmed by the idea.",
-          "client_utterance": "I don't know, maybe I think it could mean something serious is wrong, and that thought terrifies me. I want to avoid thinking about it completely.",
-          "therapist_utterance": "It's understandable to fear what might be uncovered. That fear can feel paralyzing, and it's okay to take your time with these thoughts. What would it look like for you to talk about this fear in a safe space?",
-          "therapist_use": "Functional Analysis of Behavior: used to explore the consequences of avoidance without pushing for immediate change."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Sydney has not yet fully challenged her automatic thoughts about her health. The client’s objective was not met as she remains hesitant to confront her health concerns.",
+          "client_utterance": "I guess I had more support back then, and I felt more confident. Now, it’s like I’m second-guessing everything, and I don’t know if I can trust myself. What if I just end up feeling worse?",
+          "therapist_utterance": "It's completely normal to feel uncertain, especially when trust in yourself feels shaky. But it's also important to recognize that feelings can sometimes mislead us. What if you were to look at your current situation as just one part of your journey, rather than the whole picture?",
+          "therapist_use": "Reality Testing: to help Sydney question her automatic thoughts and see her situation from a different perspective."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met since Sydney hasn't articulated a plan for discussing her fears. Client objective not met as she is still resistant to exploring her feelings.",
-          "client_utterance": "I guess if I had a plan, it might make it easier to talk about it, but I still feel a bit lost. I want to understand my feelings without feeling overwhelmed.",
-          "therapist_utterance": "Creating a plan can indeed provide a sense of structure and safety. Maybe we can start small by identifying one specific feeling or thought you'd like to explore next time. How does that sound to you?",
-          "therapist_use": "Raising Awareness: used to guide Sydney toward creating a manageable plan for future discussions."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Sydney has not yet considered alternative perspectives on her health issues. The client’s objective was not met as she still feels resistant to discussing her core issues.",
+          "client_utterance": "I don’t know... I guess if I talked to someone else, they might say I’m overreacting or that I’m just being dramatic. I don’t want to feel like a burden or that my feelings don’t matter.",
+          "therapist_utterance": "Your feelings absolutely matter, Sydney, and it's okay to feel the way you do. Sometimes, talking to someone can provide a fresh perspective that helps break that cycle of worry. If someone you trust were to hear your concerns, what do you think they might say?",
+          "therapist_use": "Alternative Perspective: to invite Sydney to consider how others might view her situation differently."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Sydney is beginning to articulate a plan for her feelings. Client objective met as she shows willingness to explore her emotions in a structured way.",
-          "client_utterance": "That actually sounds helpful. I think starting small could work for me, and it might make it feel less overwhelming.",
-          "therapist_utterance": "I'm glad to hear that! Starting small can be a powerful approach. It seems like you're becoming more open to exploring these feelings, and that's a great step forward.",
-          "therapist_use": "Encouraging Self-Exploration: used to affirm Sydney's willingness to engage in her feelings."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Sydney has begun to explore her feelings and thoughts about her health. The client’s objective was met as she expressed a desire to understand her feelings better, moving beyond avoidance.",
+          "client_utterance": "Maybe I do need to think about this more. I can see how my fears might be holding me back from feeling better. It’s just hard to let go of that fear of not being in control.",
+          "therapist_utterance": "It's a significant step that you're open to exploring these fears, Sydney. Recognizing the hold that fear has on you is vital for moving forward. How would it feel to take that next step in understanding your health without the pressure of needing to have all the answers right away?",
+          "therapist_use": "Encouragement: to support Sydney's openness to exploring her health concerns and acknowledge her willingness to take a step forward."
         }
       ]
     },
@@ -126,27 +132,27 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Sydney's ambivalence regarding her health issues and increase her motivation for change.",
+          "objective": "Explore and resolve ambivalence about health-related anxieties and strengthen motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Encourage Sydney to express both her desire to improve her health and the fears she has about making changes.",
-                "Facilitate a conversation where she can articulate the pros and cons of addressing her health concerns."
+                "Ask Sydney to discuss the pros and cons of addressing their health concerns.",
+                "Validate Sydney's feelings of ambivalence and encourage them to share both their desires for change and their fears."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask open-ended questions that prompt Sydney to reflect on her values related to health and well-being.",
-                "Encourage her to discuss any positive experiences or times she felt in control of her health."
+                "Encourage Sydney to articulate any thoughts or feelings about what change might look like for them.",
+                "Ask open-ended questions that guide Sydney to reflect on their intrinsic motivations for improving their health."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussions",
+              "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Guide Sydney through a 'pros and cons' exercise, helping her weigh the benefits of addressing her health concerns against the fears she holds.",
-                "Reinforce her autonomy in decision-making while highlighting the discrepancy between her current behavior and her values."
+                "Help Sydney identify their core values related to health and well-being.",
+                "Facilitate a discussion on how their current behaviors may conflict with these values, fostering insight into the need for change."
               ]
             }
           ]
@@ -154,85 +160,84 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Cognitive Restructuring",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Utilize Socratic questioning to help Sydney identify and challenge her automatic thoughts regarding her health.",
-                "Encourage her to examine evidence that supports or contradicts her beliefs about being unlovable or out of control."
+                "Guide Sydney to describe their worst fears regarding their health issues.",
+                "Discuss the plausibility of these fears and help them assess the likelihood of these outcomes occurring."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Assist Sydney in recognizing patterns of negative thinking, such as catastrophizing her health issues or overgeneralizing her fears.",
-                "Create a list of these distortions and discuss alternative, more balanced thoughts."
+                "Facilitate a discussion where Sydney lists the benefits and drawbacks of continuing with their current coping strategies.",
+                "Encourage them to weigh the impact these strategies have on their overall well-being."
               ]
             },
             {
-              "technique_name": "Exploring Underlying Beliefs",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Facilitate a discussion about her core beliefs that contribute to her anxiety, particularly her feelings of helplessness.",
-                "Encourage her to reflect on how these beliefs affect her current behaviors and health concerns."
+                "Ask Sydney to provide evidence for their automatic thoughts regarding their health concerns.",
+                "Challenge them to consider alternative explanations or outcomes, fostering cognitive flexibility."
               ]
             }
           ]
         },
-        "therapist_reasoning": "The therapy plan focuses on exploring Sydney's ambivalence about her health and the changes she might consider, given her intermediate resistance level. First, utilizing MI strategies, I will encourage her to articulate both her desire for better health and her fears. This aligns with the exploration of ambivalence, allowing her to voice her internal conflicts. Next, eliciting change talk by asking open-ended questions can help her reflect on her values and past successes, fostering motivation. The decisional balance discussions will provide a structured way for her to weigh pros and cons, highlighting discrepancies between her values and current behaviors. Additionally, CBT interventions will be employed to examine her automatic thoughts and challenge cognitive distortions, using Socratic questioning to guide her in re-evaluating her core beliefs. This collaborative and non-confrontational approach respects her ambivalence while fostering insight, ultimately strengthening her self-efficacy and readiness for potential change.",
-        "progress_marker": "Sydney begins to articulate both her fears and desires regarding her health, showing increased self-awareness and motivation."
+        "therapist_reasoning": "In addressing Sydney's ambivalence, I will employ Motivational Interviewing strategies, starting with exploring ambivalence to allow them to articulate both their desire to change and their fears. This aligns with their resistance profile, where indirect resistance suggests a need for a gentle approach. I will elicit change talk by asking open-ended questions that encourage Sydney to reflect on their motivations for change, which is crucial at this stage. Developing discrepancy between their core values and current behaviors will help highlight the need for action. In parallel, I will incorporate CBT techniques such as decatastrophizing to challenge their catastrophic thoughts about health outcomes, helping them assess the reality of these fears. The pros and cons analysis will facilitate insight into their current coping strategies, while evidence-based questioning will encourage cognitive restructuring by promoting alternative perspectives on their health concerns. This dual approach will create a safe environment for Sydney to explore their feelings without pressure while fostering insight into their beliefs and motivations.",
+        "progress_marker": "Sydney has begun to articulate their ambivalence more clearly and has identified at least one core value related to health, indicating a readiness to further explore their feelings about change."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity on my health concerns and explore my feelings about change.",
+        "client_objective": "I hope to explore my feelings about my health and the changes I might need to make.",
         "client_state": {
-          "awareness": "I am starting to recognize that my anxiety and stomach issues are interconnected and that I often seek control in my life, but I still feel unsure about how to address these patterns.",
-          "motivation": "I want to change my relationship with my health, but I'm scared that I might fail or that change won't lead to the relief I'm seeking.",
-          "openness": "I feel somewhat willing to share my thoughts and emotions in therapy, but there are times when discussing my health worries feels overwhelming and I'd rather avoid it.",
-          "resistance": "I still find myself resisting the idea of change, as I hold onto the belief that I might not have control over my healing and that discussing my fears can feel too intense."
+          "awareness": "I'm starting to realize that my anxiety around my stomach issues is affecting my overall well-being and my ability to enjoy life.",
+          "motivation": "I want to feel better and regain control, but I'm scared that change might not work for me or that I might fail.",
+          "openness": "I'm willing to talk about my experiences, but I often feel overwhelmed when I do and wonder if it's better to avoid the topic.",
+          "resistance": "I still find myself avoiding deeper discussions about my health worries, feeling that they are too much to handle right now."
         },
-        "client_reasoning": "I'm beginning to understand that my stomach problems and anxiety are linked, and that my need for control often makes me feel trapped. I notice that I ruminate on health concerns and sometimes avoid facing them directly. The idea of change is daunting; I worry that if I start to let go of control, things might spiral out of hand or I might not be able to cope. I see the potential benefits of being healthier and less anxious, but I can't shake the fear of the unknown. Therapy is helping me reflect on these patterns, but every time I think about making changes, I feel a wave of uncertainty. I wonder if I can really change and if it's worth the effort, which makes me hesitant to fully commit to exploring these issues. I feel caught between wanting to improve and fearing that I might end up disappointed or overwhelmed.",
-        "progress_marker": "Recognizing the connection between anxiety and physical symptoms, and expressing a desire to explore these issues further."
+        "client_reasoning": "I can see that my stomach issues are more than just physical discomfort; they’re tied to my anxiety and feelings of being out of control. I’ve noticed that when I reflect on my past experiences, especially during stressful times, I often resort to familiar coping strategies, like trying to control everything around me. But I'm conflicted—part of me knows I need to make changes to feel better, yet another part fears that I might not be able to stick to those changes, or that they won’t lead to the relief I’m seeking. Sometimes, I wish we could talk about something else to avoid facing these worries head-on, but I also recognize that discussing them might help me make sense of my feelings. Therapy is pushing me to confront these thoughts, which is both uncomfortable and enlightening. I guess I’m still figuring out how to balance my fears with my desire for improvement."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: not enough exploration of ambivalence. Client objective not met: still feels lost about health concerns.",
-          "client_utterance": "I've been thinking about our last session, and I realize that I often feel like I’m stuck between wanting to address my health issues and fearing what that means. I know the anxiety and stomach problems are linked, but I feel overwhelmed just thinking about it. It's like I want to take control, but I don't know how to start.",
-          "therapist_utterance": "It sounds like there's a lot of tension between your desire to take control and the fear that comes with addressing these issues. What do you think would happen if you took that first step toward exploring your health concerns? It might help to consider both the potential benefits and the fears you have.",
-          "therapist_use": "Open-ended question: encouraged Sydney to reflect on her fears and desires about her health."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet explored the pros and cons of addressing health concerns in detail. Client objective not met: Sydney hasn't fully articulated their feelings about the changes they need to make.",
+          "client_utterance": "I feel like there are times when I want to talk about my health issues, but then I just get overwhelmed. It’s like I want to face it, but I'm also scared of what that means for me. What if I find out that my fears are true and I really can't handle it?",
+          "therapist_utterance": "It's understandable to feel that way, Sydney. Facing our fears can often feel like stepping into the unknown, and that can be daunting. What do you think are the pros and cons of addressing your health concerns more directly?",
+          "therapist_use": "Exploring Ambivalence: to help Sydney articulate the benefits and drawbacks of addressing health concerns."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: not enough pros and cons discussed. Client objective not met: hasn’t gained clarity on feelings about change.",
-          "client_utterance": "I guess if I think about it, I want to feel better and have more energy, but I also worry that facing these issues might just make me feel worse initially. I fear that if I start to address my health, I might uncover something that I can't handle. It’s frustrating because I want to be proactive, but the fear of what might happen holds me back.",
-          "therapist_utterance": "It's completely understandable to feel that way. Let's take a moment to explore the pros and cons of addressing your health concerns. What do you think are the potential benefits of facing these issues head-on, and what fears come up for you when you think about that?",
-          "therapist_use": "Decisional Balance Discussion: guided Sydney to weigh pros and cons of addressing her health issues."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to help Sydney weigh the impact of their current coping strategies. Client objective not met: Sydney hasn't identified their core values related to health.",
+          "client_utterance": "I guess if I think about it, ignoring my health issues does feel easier, but it also makes me feel worse in the long run. Sometimes, I wonder if I’m just prolonging the inevitable by not dealing with it. But then I think about all the ways my health issues have affected my life and it's hard to confront that.",
+          "therapist_utterance": "It sounds like you're caught between the comfort of avoidance and the reality of your health affecting your overall well-being. What would it mean for you to face these issues? How does that align with what you value most about your health and well-being?",
+          "therapist_use": "Developing Discrepancy: to help Sydney connect their values with the need for change regarding their health."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: insufficient exploration of fears. Client objective not met: still unclear on how to approach change.",
-          "client_utterance": "When I think about the benefits, I imagine feeling more in control and less anxious, but the fear of failure looms large. It’s like I have this voice in my head telling me I’ll just end up disappointed if I try and it doesn’t work. I want to believe I can change, but that doubt keeps creeping in.",
-          "therapist_utterance": "That inner voice sounds really powerful and it's normal to have doubts when considering change. It might help to challenge some of those thoughts and look for evidence that contradicts them. Have there been times in your life when you felt in control or successful in making health-related changes?",
-          "therapist_use": "Cognitive restructuring: encouraged Sydney to identify and challenge her negative thoughts about failure."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to elicit more explicit change talk from Sydney. Client objective not met: Sydney hasn't fully expressed their motivations for change.",
+          "client_utterance": "I know I should want to feel better, but I’m really afraid that I’ll just end up disappointed again. I’ve tried before, and it didn’t stick, so what if I fail again? It’s hard to see how change could actually help me, even though part of me really wants it to work.",
+          "therapist_utterance": "It’s completely valid to feel hesitant given your past experiences. But change can also bring new opportunities for growth and healing. Can you think of any small steps you might envision taking to improve your health that feel manageable for you?",
+          "therapist_use": "Eliciting Change Talk: to encourage Sydney to articulate their thoughts on potential changes."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: not enough focus on past successes. Client objective not met: lacks clarity on how to proceed with health changes.",
-          "client_utterance": "Thinking back, there have been moments in college when I felt really good about my health and choices, like when I started exercising and eating better. It’s hard to connect that feeling to my current situation, though, because now I just feel overwhelmed. I want to feel that way again, but it feels distant right now.",
-          "therapist_utterance": "Those moments of feeling good about your health are important to recognize. They show that change is possible, even if it feels distant now. What do you think helped you achieve that positive change in college, and how might you apply some of those strategies to your current situation?",
-          "therapist_use": "Eliciting Change Talk: prompted Sydney to reflect on past successes to build motivation."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist still needs to challenge Sydney's catastrophic thoughts about their health. Client objective not met: Sydney hasn't fully explored their feelings about the changes they might need to make.",
+          "client_utterance": "I think any change might just lead to more anxiety. I can’t help but think about the worst-case scenarios. What if I put myself out there and it doesn't work out? My past experiences make it hard to believe that change will lead to anything good.",
+          "therapist_utterance": "That fear of the worst-case scenario can be paralyzing, and it’s understandable given your history. Let’s take a step back and evaluate how likely those worst fears are to come true. What evidence do you have that supports those fears, and what might be some alternative outcomes?",
+          "therapist_use": "Decatastrophizing: to help Sydney assess the plausibility of their fears about health outcomes."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: not enough exploration of current fears. Client objective not met: still feels uncertain about the next steps.",
-          "client_utterance": "I think it was about having a routine and support from friends, but right now, I feel isolated and unsure about how to create that again. I also worry that if I start to talk about my health, I might get overwhelmed and shut down. I want to find a way to balance these feelings so I can make progress.",
-          "therapist_utterance": "It's a positive insight that you recognize the importance of routine and support. Finding a way to incorporate that into your current life could be key. What would a balanced approach to addressing your health look like for you, considering both your fears and your past successes?",
-          "therapist_use": "Exploring Underlying Beliefs: encouraged Sydney to reflect on her need for routine and support."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to further facilitate a discussion on the benefits and drawbacks of current coping strategies. Client objective not met: Sydney hasn't fully considered how their current strategies impact their well-being.",
+          "client_utterance": "I guess I haven’t really thought about what my coping strategies are doing for me. Sometimes they feel comforting, but at the same time, I know they’re not helping my health. It seems like they just keep me from facing the real issues.",
+          "therapist_utterance": "It's insightful that you're recognizing the dual nature of your coping strategies. Would you be willing to list some of the benefits and drawbacks of these strategies? This might give us a clearer picture of how they impact your overall health and well-being.",
+          "therapist_use": "Pros and Cons Analysis: to facilitate insight into Sydney's current coping strategies."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: not enough actionable steps discussed. Client objective not met: still unclear about how to proceed with change.",
-          "client_utterance": "I suppose it would mean setting small, achievable goals and maybe reaching out to friends for support again. But even thinking about that is a bit intimidating because I don’t want to feel vulnerable. I know I need to make changes, but I’m worried about how I’ll cope with the feelings that come up.",
-          "therapist_utterance": "Setting small, achievable goals sounds like a great way to start. It's okay to feel vulnerable; that’s a part of the process. How do you think you could approach sharing your feelings with your friends in a way that feels safe for you?",
-          "therapist_use": "Open-ended question: encouraged Sydney to think about how to involve her support system."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to further explore Sydney's core values. Client objective not met: Sydney hasn't committed to discussing changes in their health.",
+          "client_utterance": "I can see how my coping mechanisms are more of a temporary fix than a real solution. I want to feel good about my health, but it’s hard to see how to make that a reality. Sometimes I just wish I could go back to when things felt more under control.",
+          "therapist_utterance": "Those feelings of wanting control are very powerful, and it's understandable to want to return to a time when you felt better. Let's explore what 'feeling good about your health' looks like for you. What values do you hold that relate to your well-being?",
+          "therapist_use": "Developing Discrepancy: to help Sydney identify their core values related to health."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: sufficient exploration of ambivalence and fears. Client objective met: gained clarity on her feelings and potential steps for change.",
-          "client_utterance": "I think I could start by reaching out to one friend and sharing a little about what I’m going through. It feels like a small step, but it's also a bit scary. I realize that if I take it one step at a time, I might feel more in control of the process.",
-          "therapist_utterance": "That sounds like a wonderful plan, Sydney! Taking it one step at a time can help you feel more in control and less overwhelmed. It’s great to see you making a connection between your feelings and actionable steps towards change.",
-          "therapist_use": "Affirmation: reinforced Sydney’s decision to take small steps and validated her feelings."
+          "reason_for_ending": "MOVE - Therapist objective met: Sydney has articulated their ambivalence and identified a core value related to health. Client objective met: Sydney has expressed a willingness to explore their feelings about health changes.",
+          "client_utterance": "I think I really want to get back to feeling in control of my health and well-being. It’s not just about the stomach issues; it’s about how they affect my life overall. I know I need to face these feelings, even if it’s hard.",
+          "therapist_utterance": "That's a significant realization, Sydney. Acknowledging that your health impacts your overall quality of life is a powerful step. It shows that you're beginning to recognize the importance of addressing these feelings and taking action toward feeling better.",
+          "therapist_use": "Eliciting Change Talk: to affirm Sydney's growing motivation for change regarding their health."
         }
       ]
     },
@@ -241,22 +246,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Sydney's commitment to change by exploring motivations and enhancing self-efficacy.",
+          "objective": "Strengthen Sydney's commitment to change and explore her motivation for addressing health concerns.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Sydney to articulate specific goals she wishes to achieve regarding her health and anxiety.",
-                "Ask open-ended questions to explore her motivations for change, such as 'What will be different for you when you start feeling better?'",
-                "Reinforce any positive statements Sydney makes about her ability to make changes."
+                "Encourage Sydney to articulate her reasons for wanting to change and how these align with her values.",
+                "Ask open-ended questions that promote her to express her commitment to the changes she intends to make."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess Sydney's confidence in making changes, e.g., 'On a scale from 1 to 10, how confident are you that you can manage your health anxiety?'",
-                "Discuss past successes to build confidence, focusing on how she managed challenges in college.",
-                "Collaboratively identify small, manageable steps Sydney can take to enhance her confidence."
+                "Discuss with Sydney her feelings about her ability to make changes, focusing on her past successes in college.",
+                "Use scaling questions to assess her readiness and confidence in taking action, reinforcing any positive responses."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Help Sydney identify what resources (social support, information) she has or needs to facilitate her journey.",
+                "Encourage her to consider who in her life could support her during this change process."
               ]
             }
           ]
@@ -266,77 +276,82 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Guide Sydney in developing a clear, step-by-step action plan for managing her health anxiety.",
-                "Encourage her to identify specific actions she can take this week, such as scheduling a medical appointment or journaling about her feelings.",
-                "Discuss potential barriers she may face in implementing these actions and explore solutions together."
+                "Collaboratively develop a specific action plan with Sydney that includes small, manageable steps she feels confident about.",
+                "Ensure each step is realistic and allows for gradual change, focusing on her health and stress management."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Work with Sydney to identify and practice coping strategies for managing anxiety, such as deep breathing or mindfulness exercises.",
-                "Create a list of positive affirmations that counter her core beliefs of feeling helpless or unlovable.",
-                "Discuss how these strategies can be integrated into her daily routine to improve her sense of control."
+                "Assist Sydney in identifying potential barriers to her action plan.",
+                "Guide her through generating practical solutions and coping strategies for anticipated challenges."
+              ]
+            },
+            {
+              "technique_name": "Behavior Experiment",
+              "instructions_for_therapist": [
+                "Develop a simple behavior experiment that allows Sydney to test her beliefs about her health concerns.",
+                "Encourage her to document her experiences and feelings throughout this process to increase self-efficacy."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To effectively support Sydney in the Preparation phase, I first focused on strengthening her commitment to change, recognizing her ambivalence and anxiety. By using motivational interviewing strategies, I encouraged her to articulate specific goals, reinforcing her motivation through exploration of past successes. This approach helps build her self-efficacy, a crucial component given her doubts about managing her health. I then introduced action planning as a CBT intervention, guiding her to develop a realistic plan that breaks down her goals into achievable steps. This not only addresses her fear of overwhelm but also fosters a sense of control. Additionally, I introduced coping strategy development to help her manage anxiety symptoms. By collaboratively identifying coping mechanisms and positive affirmations, I aimed to counter her core beliefs of helplessness and unlovability, ultimately preparing her for the implementation of behavioral changes. This structured approach respects her resistance and empowers her to take gradual, manageable steps toward change.",
-        "progress_marker": "Sydney has articulated at least one specific goal related to her health and has identified two coping strategies she feels confident in using."
+        "therapist_reasoning": "In developing this therapy plan for Sydney in the Preparation phase, I first acknowledged her ambivalence and anxiety toward making changes. I utilized Motivational Interviewing strategies to strengthen her commitment to change by encouraging her to articulate her reasons and values tied to her health goals. By exploring her confidence and readiness through scaling questions, I aimed to reinforce her motivation based on past successes. Identifying supports allowed us to collaboratively think about resources that could ease her transition. In the CBT section, I focused on Action Planning to ensure Sydney had a clear and manageable roadmap for her changes, addressing her tendency to feel overwhelmed. Problem-Solving Skills Training was introduced to equip her with tools to handle anticipated barriers, while the Behavior Experiment aimed to challenge her negative beliefs about control and health, reinforcing her self-efficacy through documented experiences. This structured approach respects her resistance while promoting gradual, achievable steps towards change.",
+        "progress_marker": "Sydney has created an action plan with clear, achievable steps and identified at least two support resources to assist her in her journey."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore practical steps to manage my anxiety and stomach issues more effectively.",
+        "client_objective": "I hope to explore practical steps I can take to manage my anxiety and stomach issues more effectively.",
         "client_state": {
-          "awareness": "I recognize that my stomach problems are connected to my anxiety and that I need to address both to improve my overall health.",
-          "motivation": "I feel a strong desire to make changes in my life, particularly related to my health and coping strategies.",
-          "openness": "I am willing to discuss my thoughts and emotions with my therapist, although I still feel some hesitation about diving too deep into my fears.",
-          "resistance": "I experience some ambivalence about change; while I want to improve, I also fear that I might not be able to handle the changes effectively."
+          "awareness": "I recognize that my anxiety and stomach issues are significantly impacting my daily life and overall well-being.",
+          "motivation": "I feel a strong desire to improve my health and emotional state, especially after experiencing positive changes in college.",
+          "openness": "I'm willing to discuss my thoughts and emotions with my therapist, although I sometimes feel overwhelmed by the topics.",
+          "resistance": "I still have doubts about whether I can maintain any changes I make, and I fear that my symptoms might not improve."
         },
-        "client_reasoning": "I’ve come to realize that my stomach issues are not just physical—they're deeply tied to my anxiety and stress. Understanding this connection has made me see that I need to change how I approach both my health and my emotions. I feel motivated to improve my situation, especially after reflecting on how my past transformations in college were possible. I hope to find practical strategies that can help me manage my anxiety and the physical symptoms more effectively. However, I still worry about whether I can truly maintain these changes and if I will be able to handle the discomfort that comes with them. Therapy has helped me acknowledge my fears, but I sometimes feel overwhelmed when discussing them. I know I have to confront these feelings to move forward, which makes me both hopeful and hesitant."
+        "client_reasoning": "I've come to realize that my anxiety and the physical symptoms I experience are interconnected and affect my quality of life. It's clear to me now that I can't keep ignoring these issues, as they have a significant impact on my day-to-day experiences. I want to be proactive about my health because I know I can feel better, like I did in college when I managed to turn things around. However, I still feel a sense of fear and uncertainty—what if my stomach problems don't improve, or I can't stick to new habits? Therapy has helped me clarify my thoughts and emotions, making me feel more prepared to tackle my issues, but I can't shake the feeling of being stuck at times. I want to believe in my ability to change, but the fear of failure lingers in my mind."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because the client has not yet articulated specific goals related to health. Client objective was not met as Sydney needs to explore practical steps more deeply.",
-          "client_utterance": "I've been thinking about reaching out to a friend, but I still feel hesitant. What if they don’t understand what I'm going through? I want to share, but I worry I might break down or feel embarrassed about my anxiety and stomach issues.",
-          "therapist_utterance": "It's completely understandable to feel hesitant about sharing your struggles, especially with something so personal. Maybe it would help to think about what you would want your friend to know about your experience. What would be the most important thing for you to communicate to them?",
-          "therapist_use": "Open-ended question: Inviting Sydney to consider how to communicate her feelings can build her confidence in sharing."
+          "reason_for_ending": "KEEP: Therapist objective not met - still exploring commitment language. Client objective not met - hasn't fully developed action steps.",
+          "client_utterance": "I've been thinking about how my health really affects my daily life. I want to feel better, but I still feel stuck on what to do next. Sometimes I think maybe I should just try journaling my feelings to see if that helps.",
+          "therapist_utterance": "Journaling could be a great way to express your feelings and track your progress. What do you think you would write about first? It sounds like you're starting to explore some actionable steps.",
+          "therapist_use": "Encouragement: used to foster idea generation and explore commitment."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Sydney has not yet identified specific goals for managing her anxiety. Client objective was not met because she is still grappling with her fears and hesitations.",
-          "client_utterance": "I think I would want them to know that I'm trying to figure things out, but I feel overwhelmed. I don't want them to think I'm just complaining. Maybe if I could express that I want support without feeling like a burden, it would be easier.",
-          "therapist_utterance": "That sounds like a thoughtful approach. It's okay to let your friend know that you're seeking support and that you're working through some challenges. How might you frame your feelings so that it feels less like a burden and more like a request for understanding?",
-          "therapist_use": "Reflective listening: Acknowledging Sydney's feelings and encouraging her to frame her message can help strengthen her communication skills."
+          "reason_for_ending": "KEEP: Therapist objective not met - needs to strengthen commitment. Client objective not met - hasn't identified concrete steps.",
+          "client_utterance": "I think if I start journaling, it might help me sort through my thoughts. But what if I just end up feeling overwhelmed by everything I write down? I'm worried I won't know how to handle those emotions.",
+          "therapist_utterance": "It's normal to feel apprehensive about diving into your emotions, especially if they feel overwhelming. How do you think you could structure your journaling so that it feels manageable? Perhaps starting with just a few lines each day might ease that pressure.",
+          "therapist_use": "Scaling question: used to assess readiness and explore manageable steps."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because the client has not articulated any specific coping strategies. Client objective was not met as Sydney is still uncertain about actionable steps.",
-          "client_utterance": "I guess I could say something like, 'I’m feeling anxious and trying to find ways to cope.' But even that feels hard to say out loud. I want to be better at managing my anxiety, but I don’t know where to start.",
-          "therapist_utterance": "Starting with a simple statement like that can be a great first step. It’s important to remember that you’re not alone in this, and sharing can often lighten the burden. What are some small actions you think you could take this week that might help you manage your anxiety more effectively?",
-          "therapist_use": "Action planning: Encouraging Sydney to identify small actions can help her develop a clearer path forward."
+          "reason_for_ending": "KEEP: Therapist objective not met - still needs to explore supports. Client objective not met - hasn't identified resources.",
+          "client_utterance": "That sounds doable, but I'm still not sure if I can stick with it. Sometimes I feel like I need someone to hold me accountable, but I don't know who to ask. I don't want to burden anyone with my feelings.",
+          "therapist_utterance": "It's understandable to feel hesitant about reaching out for support. Who in your life do you think might be open to helping you with this, even just as a sounding board? It's important to remember that sharing your journey can be a source of strength.",
+          "therapist_use": "Identifying supports: used to help client recognize potential resources."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met since Sydney has not yet committed to specific actions. Client objective was not met as she is still unsure about taking practical steps.",
-          "client_utterance": "Maybe I could try journaling my feelings or scheduling that appointment I've been avoiding. Both seem manageable, but I still feel that nagging fear of not following through. What if I start and then give up again?",
-          "therapist_utterance": "It's normal to have fears about following through, especially when it comes to making changes. Reflecting on your past successes can help build your confidence. Can you think of a time when you set a goal and followed through, even if it was small?",
-          "therapist_use": "Exploring past successes: This strategy aims to reinforce Sydney's self-efficacy by recalling her previous achievements."
+          "reason_for_ending": "KEEP: Therapist objective not met - still needs to discuss readiness. Client objective not met - hasn't solidified action plan.",
+          "client_utterance": "I guess I could talk to my friend who has been really supportive lately. It just feels daunting to ask for help, like I'm admitting I can't handle things on my own. But maybe she could help me stay on track.",
+          "therapist_utterance": "Reaching out for support can be a powerful step in your journey. How would it feel for you to share your goals with her? Knowing you have someone to help you could make a difference in your confidence moving forward.",
+          "therapist_use": "Exploring confidence: used to reinforce the idea of support and accountability."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Sydney hasn't yet expressed confidence in her ability to follow through. Client objective was not met because Sydney is still battling her fears of failure.",
-          "client_utterance": "I remember when I started exercising regularly in college, and it felt so good. But now, it seems like a huge mountain to climb, and I worry I can't manage it again. I want to believe I can do this, but I feel stuck.",
-          "therapist_utterance": "That feeling of being stuck is tough, but it's also a sign that you're aware of your potential for change. What if you approached this like you did back in college, focusing on just one step at a time? What would that first step look like for you?",
-          "therapist_use": "Scaling question: This helps Sydney visualize manageable steps, fostering a sense of control."
+          "reason_for_ending": "KEEP: Therapist objective not met - needs to finalize action planning. Client objective not met - hasn't committed to a specific plan.",
+          "client_utterance": "I think I can talk to her about journaling and see if she’s willing to check in with me. It feels less scary to share that part of my journey. But what if I still struggle with my anxiety while trying to make these changes?",
+          "therapist_utterance": "It's completely normal to experience anxiety when making changes, Sydney. Perhaps we can create a plan that includes coping strategies for those anxious moments. What small action could you take this week to start your journaling and reach out to your friend?",
+          "therapist_use": "Action Planning: used to collaboratively develop a manageable step forward."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met since Sydney has not yet fully articulated her readiness to take action. Client objective was not met because she still feels overwhelmed and unsure.",
-          "client_utterance": "I think I could start with just a short journaling session, maybe even just a few minutes. It feels less daunting that way. But I still have this fear that I might not stick with it.",
-          "therapist_utterance": "A few minutes of journaling sounds like a perfect, manageable place to start! It’s all about building that momentum, and even small steps count. How confident do you feel about committing to that for this week on a scale from 1 to 10?",
-          "therapist_use": "Scaling question: Assessing her confidence allows for exploration of her readiness to commit to small actions."
+          "reason_for_ending": "KEEP: Therapist objective not met - still needs to strengthen commitment. Client objective not met - specific actions not finalized.",
+          "client_utterance": "I could start journaling tomorrow and text my friend about it. Maybe I can commit to checking in with her once a week to talk about how it’s going. But I still worry about whether I’ll actually follow through.",
+          "therapist_utterance": "It's a positive step that you're considering both journaling and reaching out. How confident do you feel about following through with these steps? It might be helpful to rate your confidence on a scale from 1 to 10.",
+          "therapist_use": "Scaling question: used to assess readiness and confidence in taking action."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective was met as Sydney articulated a specific goal of journaling. Client objective was met because she identified a practical step to manage her anxiety.",
-          "client_utterance": "I think I’m at a 7. I feel motivated to try journaling, but I still have some doubts. I’m ready to give it a shot, and I hope it helps me feel more in control.",
-          "therapist_utterance": "That’s a great place to be, Sydney! Feeling a 7 shows you're ready to take action, and acknowledging your doubts is part of the process. Remember, it’s okay to take it one day at a time, and I’m here to support you as you move forward.",
-          "therapist_use": "Strengthening Commitment Language: This reinforces Sydney's motivation and acknowledges her readiness to take a step toward change."
+          "reason_for_ending": "MOVE: Therapist objective met - strengthened commitment and explored readiness. Client objective met - identified specific steps and resources for change.",
+          "client_utterance": "I think I'm at a 7 in terms of confidence. I know it won’t be perfect, but I feel more ready to try these steps. Just acknowledging that I can reach out for support feels like a relief.",
+          "therapist_utterance": "That's a great place to be, Sydney! Acknowledging your readiness and having a plan is an important part of this journey. Remember, it's okay to take things one step at a time as you work towards feeling better.",
+          "therapist_use": "Reinforcement: used to validate client’s readiness and commitment to action."
         }
       ]
     }

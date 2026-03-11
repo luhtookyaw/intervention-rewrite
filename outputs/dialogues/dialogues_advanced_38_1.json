@@ -12,36 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Naomi's awareness of her feelings and beliefs regarding her return to work, while building trust and rapport.",
+          "objective": "To build rapport, increase awareness of personal feelings about returning to work, and encourage exploration of discrepancies between personal values and current situation.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Naomi's concerns about returning to work.",
-                "Reflect back her emotions and thoughts to show understanding.",
-                "Validate her feelings of dread and nervousness to build trust."
+                "Practice active listening by summarizing Naomi's feelings about returning to work and her experiences with HR.",
+                "Acknowledge her feelings of judgment and fear without pushing for solutions."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Naomi's feelings of being judged and her sense of helplessness.",
-                "Use empathetic statements to convey understanding of her situation.",
-                "Encourage her to share more about her past experiences with HR."
+                "Validate Naomi's feelings of anger and frustration regarding her work situation.",
+                "Communicate understanding of her pressure to return to work and the associated fears."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the gap between Naomi's current feelings about work and her values regarding health and well-being.",
-                "Ask open-ended questions that encourage reflection on how her beliefs may conflict with her values."
+                "Help Naomi reflect on her values regarding health and well-being versus her fear of judgment.",
+                "Ask open-ended questions that guide her to consider how her current situation aligns or conflicts with her values."
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Facilitate self-exploration by asking Naomi what her ideal work environment would look like.",
-                "Encourage her to articulate her desires and fears about returning to work."
+                "Encourage Naomi to share her thoughts about what returning to work means to her and how it impacts her sense of self.",
+                "Use gentle prompts to explore her feelings about her health needs and the perceived judgment from others."
               ]
             }
           ]
@@ -49,87 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Encourage Naomi to identify her automatic thoughts related to her return to work.",
-                "Help her articulate thoughts such as 'I will always be judged negatively for tending to my health needs'.",
-                "Discuss how these thoughts impact her emotions and behaviors."
+                "Ask Naomi to reflect on specific instances where she felt judged and to evaluate the evidence supporting her beliefs.",
+                "Encourage her to consider alternative explanations for others' reactions."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Introduce Naomi to common cognitive distortions, such as overgeneralization and catastrophizing.",
-                "Work with her to identify examples from her own thinking patterns.",
-                "Discuss how these distortions may contribute to her feelings of anger and hurt."
+                "Help Naomi challenge her automatic thought of always being judged negatively by discussing past experiences where support was offered.",
+                "Encourage her to think of times when her health needs were respected."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Help Naomi analyze her behavior when faced with work-related stressors.",
-                "Explore the function of her avoidance behaviors and generalizations about being judged.",
-                "Discuss how understanding these patterns can provide insights into her feelings."
+                "Guide Naomi to explore how she might view her situation if she were a friend or loved one.",
+                "Encourage her to consider how she would advise someone in her position."
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Ask Naomi to rate her feelings about returning to work on a scale from 'not ready' to 'fully ready'.",
+                "Discuss what factors contribute to her placement on this scale."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Naomi, it's essential to prioritize building rapport and understanding her emotional drivers. I will employ reflective listening to validate her feelings of dread and helplessness regarding her return to work, which will help reduce her defensiveness. Expressing empathy will further strengthen our therapeutic alliance, allowing her to feel safe sharing her experiences with HR. Developing discrepancy will encourage her to explore the conflict between her current feelings and her values, promoting self-reflection without pushing for immediate change. Additionally, I will utilize CBT techniques such as identifying automatic thoughts to help her articulate her negative self-perceptions, and recognizing cognitive distortions to challenge her overgeneralized beliefs. A functional analysis of her behavior will provide insights into her avoidance patterns. This multi-faceted approach respects her resistance while facilitating awareness and engagement, which are crucial at this stage.",
-        "progress_marker": "Naomi begins to express her thoughts and feelings more openly without defensiveness."
+        "therapist_reasoning": "The therapy plan is designed to engage Naomi in a non-confrontational manner, respecting her pre-contemplation phase and her resistance to change. By employing motivational interviewing strategies such as reflective listening and expressing empathy, the therapist will help her feel understood and validated, potentially reducing defensiveness. Developing discrepancy will facilitate self-exploration, allowing Naomi to recognize the conflict between her values and current fears. CBT techniques like evidence-based questioning will encourage her to scrutinize her core beliefs about judgment, while reality testing will provide opportunities to challenge her automatic negative thoughts. The alternative perspective technique aims to foster self-compassion, and the continuum technique will help visualize her readiness for change without imposing demands. This approach remains sensitive to her advanced resistance by avoiding direct suggestions for behavior change, instead focusing on increasing her awareness and curiosity about her situation.",
+        "progress_marker": "Naomi expresses a willingness to explore her feelings more openly and begins to articulate her values regarding health and work."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to just get through this session without diving too deep into my issues.",
+        "client_objective": "I hope to express my fears about returning to work without feeling judged.",
         "client_state": {
-          "awareness": "I know I have a problem returning to work, but I don't think it's that serious.",
-          "motivation": "I don't really want to change anything; I just want to avoid judgment.",
-          "openness": "I find it hard to share my feelings; it feels safer to keep them to myself.",
-          "resistance": "I feel very defensive about discussing my situation and often push back against it."
+          "awareness": "I know I have issues with returning to work, but I don’t really see them as problems that I need to address.",
+          "motivation": "I don’t feel motivated to change anything because I think it won’t help, and I just want to get through this.",
+          "openness": "I’m hesitant to share my true feelings because I don’t think anyone would understand the pressure I feel.",
+          "resistance": "I strongly resist discussing my situation because it feels overwhelming and I fear being judged again."
         },
-        "client_reasoning": "I feel like nobody really gets what I'm going through, especially when it comes to going back to work after my leave. The pressure I feel from HR and my manager is overwhelming, and I can't shake this feeling that I'm going to be judged no matter what I do. Sometimes I think discussing this with my therapist might help, but then I worry they won't understand the depth of my anxiety. It feels like if I open up, it will just lead to more pressure to change, which I don't want. I know I should be focusing on my health, but I can't help but think that others will see me as weak or lazy. I just want to avoid any confrontation and keep things as they are, even if it's uncomfortable. Talking about it feels risky, and I just want to keep my head down and get through this phase without too much scrutiny."
+        "client_reasoning": "I keep thinking about how hard it is to go back to work after being away, and I just feel this heavy weight that I can't shake off. It’s like everyone is watching me, waiting to judge me for taking time off for my health. I don’t want to talk about it because I feel like I’m just making excuses, and deep down, I believe that no one will really get it anyway. It’s uncomfortable to think about returning to that environment where I felt judged, and I doubt that talking about my fears will change anything. I just want to figure this out on my own, but I also feel trapped. Therapy feels more like an obligation than a help right now, and I’m not sure how to open up when I’m so full of anger and frustration about the whole situation."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Naomi hasn't opened up about her feelings yet. Client's objective not met as she still feels defensive and wants to avoid deeper issues.",
-          "client_utterance": "I guess I'm just really worried about going back to work. It feels like everyone is waiting to judge me, and I can't handle that pressure. I'd rather just keep my head down and avoid any confrontation.",
-          "therapist_utterance": "It sounds like the thought of returning to work brings up a lot of anxiety for you. You mentioned feeling judged and pressured, which makes it hard to even think about it. Can you share more about what specifically worries you about those interactions?",
-          "therapist_use": "Reflective Listening: used to validate Naomi's feelings of anxiety regarding work."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because Naomi has not yet explored her feelings about returning to work in depth. The client's objective was not met as she still feels hesitant and resistant to opening up about her fears.",
+          "client_utterance": "I just feel so overwhelmed thinking about going back. It’s like I can’t shake the feeling that everyone is judging me for needing time off. I know it’s my health that I’m dealing with, but I can’t help but feel like I’m just making excuses.",
+          "therapist_utterance": "It sounds like you're carrying a heavy burden with these thoughts about returning to work. You feel judged and that makes it really hard to even think about it, doesn't it? It's understandable to feel overwhelmed when navigating those pressures.",
+          "therapist_use": "Reflective Listening: to acknowledge and summarize Naomi's feelings of overwhelm and judgment."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Naomi is still hesitant to share her experiences. Client's objective not met as she is not yet comfortable discussing her feelings.",
-          "client_utterance": "I just feel like HR and my manager won't understand what I've been through. They only see me as someone who's been out too long. It makes me feel guilty for being away, like I'm letting everyone down.",
-          "therapist_utterance": "It seems like you carry a lot of guilt about being away, and that adds to your anxiety about returning. It's understandable to feel that way when you sense others may not empathize with your situation. How does that guilt affect your thoughts about your return?",
-          "therapist_use": "Expressing Empathy: used to acknowledge Naomi's feelings of guilt and pressure."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because Naomi still struggles to articulate her values related to health and work. The client's objective was not met as she remains resistant to sharing her true feelings.",
+          "client_utterance": "Yeah, it’s just hard to think about what I want when I feel like I'm constantly under scrutiny. I know I need to go back, but it feels like I'm being pushed into a corner. I just don’t want to deal with that pressure again.",
+          "therapist_utterance": "It seems like there's a conflict between what you need for your health and the pressure to return to work. What would it mean for you if you could express what you truly want in this situation? Exploring those feelings might help you find some clarity.",
+          "therapist_use": "Developing Discrepancy: to help Naomi reflect on her values and the conflict with her current fears."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Naomi hasn't fully explored her feelings yet. Client's objective not met as she remains resistant to deeper discussions.",
-          "client_utterance": "I know I should focus on my health, but it feels like I'm just making excuses. I can't shake the thought that people will see me as weak if I say I'm not ready. It's easier to just avoid the whole situation.",
-          "therapist_utterance": "I hear that you really struggle with the idea of being perceived as weak, which makes it hard to prioritize your own health. It’s a tough balance between self-care and how you think others view you. What would be the ideal work situation for you that would alleviate some of this stress?",
-          "therapist_use": "Developing Discrepancy: used to explore the conflict between Naomi's current feelings and her values about health."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because Naomi has not yet fully explored her feelings or values regarding her return to work. The client's objective was not met as she remains hesitant to express her fears.",
+          "client_utterance": "I guess I just want to feel like my health matters and that I’m not just a burden. But every time I think about talking to HR, I feel this tight knot in my stomach. I wonder if they will see me as weak for needing to take time off.",
+          "therapist_utterance": "Your health is important, and it's valid to feel anxious about how others might perceive your situation. It can be tough to navigate those feelings of fear and guilt. What do you think would help you feel more secure in advocating for your health needs?",
+          "therapist_use": "Expressing Empathy: to validate Naomi's feelings of anxiety and frustration regarding her work situation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Naomi hasn't articulated her desires clearly. Client's objective not met as she still wants to avoid deeper feelings.",
-          "client_utterance": "I guess if I could go back and feel safe and not judged, that would help. But I don't know if that’s possible. I just worry that no matter what, I’ll be seen as a burden.",
-          "therapist_utterance": "It’s insightful that you recognize a safe work environment could help ease your anxiety. You deserve to feel secure and supported at work, especially after your time away. Let’s explore what specific changes or support would make you feel more comfortable.",
-          "therapist_use": "Raising Awareness: used to facilitate self-exploration about Naomi's ideal work environment."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because Naomi still hasn't fully articulated her values or explored her fears in depth. The client's objective was not met as she is still struggling to share her true feelings.",
+          "client_utterance": "I don’t know, maybe just knowing that people understand would help. But I really doubt they would. It feels so isolating to think that I’m the only one going through this.",
+          "therapist_utterance": "It’s tough to feel isolated in your experience, especially when it seems like others might not understand. Can you think of any times when you felt supported or understood at work? Those moments might help you challenge the belief that you're alone in this.",
+          "therapist_use": "Reality Testing: to encourage Naomi to challenge her thoughts about being judged and recall supportive experiences."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Naomi hasn't identified specific changes yet. Client's objective not met as she continues to resist discussing her feelings.",
-          "client_utterance": "I suppose if HR could just acknowledge my situation without judgment, it might help. But I still feel like I’m just wishing for something that won’t happen. It’s frustrating trying to think about what I want.",
-          "therapist_utterance": "It sounds like you’re feeling stuck between what you wish could happen and the reality of your situation. Acknowledgment from HR would certainly make a difference in how you feel about returning. What thoughts come up when you imagine this kind of support?",
-          "therapist_use": "Identifying Automatic Thoughts: used to help Naomi articulate her negative self-perceptions."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because Naomi hasn't yet recognized alternative perspectives on her situation. The client's objective was not met as she remains resistant to fully opening up.",
+          "client_utterance": "I guess there have been moments where people were supportive, but those feel so far away. I just keep focusing on the negative. It’s like I'm stuck in this cycle of thinking everyone will judge me.",
+          "therapist_utterance": "It’s understandable to focus on the negative, especially when fear is involved. If you were to view your situation from the perspective of a friend, what would you tell them? Sometimes, viewing it through a different lens can bring new insights.",
+          "therapist_use": "Alternative Perspective: to guide Naomi to consider how she might advise someone else in her position."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Naomi hasn't fully explored her thoughts yet. Client's objective not met as she still feels defensive about discussing her situation.",
-          "client_utterance": "I keep thinking that if they see me as needing special treatment, it’ll just confirm my fears. I just want to be treated normally, but it feels impossible right now. It’s like I’m caught in a loop of these thoughts.",
-          "therapist_utterance": "I can see how that loop of thoughts would be overwhelming and make it difficult to feel at ease about returning. It’s natural to want to be treated normally, especially after a tough time. How do you think these thoughts influence how you approach your return to work?",
-          "therapist_use": "Recognizing Cognitive Distortions: used to discuss how Naomi's thoughts may contribute to her feelings of anxiety."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because Naomi has not yet rated her feelings about returning to work. The client's objective was not met as she still feels overwhelmed and resistant to expressing her true feelings.",
+          "client_utterance": "I don’t know, part of me wants to say I’m not ready at all, but another part knows I have to go back eventually. It’s just so complicated. I feel like I’m in a tug-of-war inside myself.",
+          "therapist_utterance": "That internal conflict is really challenging, and it makes sense you feel that way. If you could rate your readiness to return to work on a scale from 1 to 10, where do you think you would fall? Understanding that might help us explore what’s holding you back.",
+          "therapist_use": "Continuum Technique: to help Naomi visualize her readiness and explore contributing factors."
         },
         {
-          "reason_for_ending": "MOVE: Therapist's objective met as Naomi expressed her thoughts more openly. Client's objective met as she engaged in discussing her feelings without pushing back.",
-          "client_utterance": "I suppose talking about this is helping me see that it’s okay to have these fears. I don’t want to stay stuck feeling this way forever. Maybe I can start thinking about what I need from HR to feel more comfortable.",
-          "therapist_utterance": "That’s a significant realization, Naomi. Acknowledging your fears is a big step toward finding a way to address them. It's great to hear you’re open to thinking about what support you need, and I’m here to help you with that.",
-          "therapist_use": "Functional Analysis of Behavior: used to explore Naomi's behavior when faced with work-related stressors."
+          "reason_for_ending": "MOVE: The therapist's objective was met as Naomi has begun to articulate her feelings about her readiness to return to work. The client's objective was met as she expressed her internal conflict and acknowledged her fears.",
+          "client_utterance": "I think I’m around a 3. I know I need to go back, but I really don’t want to face that judgment. It feels really daunting.",
+          "therapist_utterance": "Thank you for sharing that; it’s a significant step to vocalize where you’re at. It shows that you’re starting to recognize your feelings about returning to work. What’s one thing that might help you feel more prepared as you think about this journey?",
+          "therapist_use": "Raising Awareness: to encourage Naomi to reflect on her feelings about returning and consider steps forward."
         }
       ]
     },
@@ -138,29 +140,38 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Naomi's ambivalence about returning to work while strengthening her motivation for change.",
+          "objective": "Explore Naomi's ambivalence about returning to work and strengthen her motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Naomi open-ended questions about her feelings regarding returning to work.",
-                "Encourage her to express both her fears and her desires about the situation.",
-                "Validate her feelings and acknowledge the complexity of her emotions."
+                "Ask Naomi open-ended questions about her feelings towards returning to work.",
+                "Encourage her to articulate both the reasons she wants to return and her fears about it.",
+                "Reflect back her thoughts to help her recognize the internal conflict."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Naomi to articulate reasons why returning to work could be beneficial.",
-                "Use reflective listening to reinforce her expressed motivations for change.",
-                "Encourage her to express any hope or positive outcomes she envisions."
+                "Prompt Naomi to discuss what a successful return to work might look like.",
+                "Encourage her to express any positive changes she envisions if she were to navigate her return successfully.",
+                "Use reflective listening to reinforce her expressions of desire for change."
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Help Naomi articulate her values around health and well-being.",
+                "Discuss how her current behavior of avoiding return to work may conflict with those values.",
+                "Facilitate a conversation about the gap between her aspirations and current fears."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Facilitate a discussion about the pros and cons of returning to work versus staying on leave.",
-                "Help Naomi weigh the potential positive and negative outcomes in a safe and non-judgmental manner."
+                "Guide Naomi to list the pros and cons of returning to work versus staying on leave.",
+                "Encourage her to consider how staying away aligns or misaligns with her long-term goals.",
+                "Support her in weighing her feelings about each side of the decision."
               ]
             }
           ]
@@ -168,80 +179,87 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Cognitive Restructuring",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Introduce the concept of cognitive distortions and help Naomi identify her automatic thoughts.",
-                "Use Socratic questioning to challenge her belief that she will always be judged negatively.",
-                "Encourage her to consider alternative explanations and evidence that contradicts her fears."
+                "Help Naomi identify her worst fears about returning to work.",
+                "Encourage her to challenge these fears by discussing the likelihood of these outcomes.",
+                "Guide her in creating a more balanced perspective on the potential return."
               ]
             },
             {
-              "technique_name": "Examining Underlying Beliefs",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Guide Naomi to explore the core beliefs influencing her feelings of helplessness and unlovability.",
-                "Facilitate a discussion about how these beliefs affect her current decisions and emotions.",
-                "Encourage her to reflect on whether these beliefs are serving her well."
+                "Assist Naomi in creating a detailed list of the advantages and disadvantages of her current situation and potential changes.",
+                "Facilitate a discussion on how these factors influence her emotional state and decision-making.",
+                "Encourage her to reflect on her feelings about each item on the list."
+              ]
+            },
+            {
+              "technique_name": "Evidence-Based Questioning",
+              "instructions_for_therapist": [
+                "Challenge Naomi's automatic thoughts about being judged by using evidence-based questioning.",
+                "Ask her to provide evidence for and against her beliefs about judgment from HR and colleagues.",
+                "Support her in recognizing cognitive distortions in her thinking."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Naomi's ambivalence about returning to work, the therapist will first implement Motivational Interviewing strategies to create a safe space for exploration. By exploring ambivalence, the therapist can help Naomi articulate her conflicting feelings about work, allowing her to feel validated and heard. Eliciting change talk will provide Naomi with an opportunity to express motivations for returning, reinforcing her self-efficacy. The decisional balance discussion will further clarify her values and the discrepancies between her current situation and desired outcomes. Following this, Cognitive Behavioral Therapy techniques will be introduced. Cognitive restructuring will assist Naomi in identifying and challenging her cognitive distortions regarding judgment and control, encouraging her to formulate alternative thoughts. Examining her underlying beliefs will help her recognize how they contribute to her feelings of helplessness and unlovability, promoting insight and reflection without pushing her towards immediate action. This collaborative, non-confrontational approach will respect Naomi's resistance while fostering motivation for change.",
-        "progress_marker": "Naomi expresses a clearer understanding of her ambivalence and begins to articulate reasons for change."
+        "therapist_reasoning": "The primary focus for Naomi, who is in the contemplation phase, is to explore her ambivalence about returning to work while strengthening her motivation. I will utilize MI strategies such as exploring ambivalence by asking open-ended questions about her feelings and reflecting her expressed fears and desires. This will help her articulate her internal conflict. Eliciting change talk will involve encouraging her to envision a successful return, fostering motivation. I will also develop discrepancy by discussing her values around health and how her current behavior may conflict with those values, prompting insight into her situation. Decisional balance discussions will help Naomi weigh the pros and cons of her choices, facilitating a deeper understanding of her motivations. Meanwhile, I will employ CBT techniques like decatastrophizing to challenge her worst fears about judgment and evidence-based questioning to help her scrutinize her automatic thoughts, fostering cognitive restructuring. This non-confrontational, collaborative approach aims to enhance her self-efficacy and readiness for change.",
+        "progress_marker": "Naomi is able to articulate specific fears and motivations regarding her return to work, demonstrating greater insight and clarity in her decision-making process."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about returning to work and understand my fears better.",
+        "client_objective": "I want to explore my feelings about returning to work and understand my fears around judgment.",
         "client_state": {
-          "awareness": "I am starting to recognize that my dread about returning to work stems from past experiences of feeling judged, and I see that this fear is impacting my decisions.",
-          "motivation": "I feel a strong desire to improve my health and return to work, but I'm also scared of how others will perceive me and whether I can handle the pressure.",
-          "openness": "I'm willing to share my thoughts and emotions with my therapist, even though I sometimes feel like they might not fully understand the pressure I'm under.",
-          "resistance": "I still feel a lot of anger about my situation and resist the idea of change, fearing that any attempt to address my health needs will lead to negative judgment again."
+          "awareness": "I recognize that my fear of judgment and feelings of helplessness are influencing my thoughts about returning to work.",
+          "motivation": "I want to change my situation, but I feel stuck and unsure about whether it's worth the effort.",
+          "openness": "I'm starting to share my thoughts and feelings more, but I still hold back due to fear of judgment.",
+          "resistance": "I often feel angry and defensive about the idea of change, as it feels overwhelming and uncertain."
         },
-        "client_reasoning": "I’m starting to see that my situation isn’t just about returning to work; it’s about how my past experiences are shaping my fears now. I realize that I’ve felt judged for taking care of myself, which makes me hesitant to embrace change. While I want to get back to work and be healthy, I can’t shake the fear that my colleagues and HR will view me negatively for needing more time off. I notice that when I think about my health, I often feel angry and hurt, and I worry that if I bring these feelings into our conversations, it might seem like I’m resisting the treatment plan. Therapy is helping me reflect more deeply on these feelings, but I still feel conflicted about how to move forward without feeling trapped by others' expectations.",
-        "progress_marker": "Client is beginning to articulate fears and past experiences that influence their current feelings about returning to work."
+        "client_reasoning": "I'm beginning to see that my anxiety about returning to work is connected to my past experiences with judgment from HR. I notice that I often think about how others will perceive me if I take more time off for my health, and this makes me feel trapped between wanting to care for myself and fearing their criticism. I want to change, but at the same time, I doubt whether I can handle the pressure of confronting my fears and the potential judgment from my colleagues. It’s frustrating because I know I should prioritize my health, yet the guilt of being away from work lingers. Therapy is helping me reflect on these conflicting feelings, but I still feel a strong resistance to fully embracing change, which makes me angry. I’m aware that I have some control over my situation, but it feels so daunting to take the first step."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not fully explore Naomi's fears about her return to work. Client objective not met: Naomi has not yet identified her desires or positive aspects of returning to work.",
-          "client_utterance": "I really want to return to work and feel like I’m contributing again, but I’m so scared of facing judgment. It’s like this constant battle in my head between wanting to go back and feeling unworthy of being there. I sometimes think it would be better if I just stayed away.",
-          "therapist_utterance": "It’s understandable to feel torn between your desire to contribute and your fears of judgment. Let’s take a moment to explore what it is about returning to work that excites you, despite these worries. What do you hope to gain from going back?",
-          "therapist_use": "Exploring Ambivalence: used to encourage Naomi to express her hopes and desires about returning to work."
+          "reason_for_ending": "KEEP - Therapist objective not met: Naomi hasn't fully explored her fears and motivations about returning to work yet. Client objective not met: Naomi is still feeling ambivalent and hasn't articulated a clear vision for her return.",
+          "client_utterance": "I still feel so anxious about how everyone will perceive me if I go back. It's like I can't shake off that judgment, and it makes me wonder if I'm really ready to face it. I know I need to, but I'm holding back.",
+          "therapist_utterance": "It sounds like the anxiety about judgment is really weighing on you. What do you think would help you feel more confident in handling those perceptions if you were to return? Exploring those feelings might help clarify your readiness.",
+          "therapist_use": "Open-ended questioning: to encourage Naomi to explore her feelings and thoughts about returning."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not sufficiently elicit Naomi's change talk about the benefits of returning. Client objective not met: Naomi has not yet articulated specific positive outcomes she envisions.",
-          "client_utterance": "I guess I would feel more normal again, like I’m part of a team instead of just sitting at home. But I can’t shake the thought that people will still see me as the one who couldn’t handle it. I just don’t know if I’m ready to deal with that pressure.",
-          "therapist_utterance": "Feeling like part of a team is important, and it’s a valid hope to have. What do you think would help you manage the pressure of those interactions when you return? Are there any specific supports you might need to feel more prepared?",
-          "therapist_use": "Eliciting Change Talk: used to prompt Naomi to articulate her motivations and explore her needs for support."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't fully helped Naomi visualize a successful return. Client objective not met: Naomi has not yet articulated what a successful return would look like for her.",
+          "client_utterance": "I guess if I could just go back and have everyone understand my situation, that might help. But I can’t see that happening, and I fear they’ll still judge me. It feels so uncertain.",
+          "therapist_utterance": "It’s understandable that you’d hope for understanding from your colleagues. If you were to imagine a successful return, what would that look like for you? Visualizing that could help shape your feelings about going back.",
+          "therapist_use": "Eliciting change talk: to prompt Naomi to articulate a positive vision of her return to work."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not facilitate a thorough discussion on Naomi's pros and cons regarding her return. Client objective not met: Naomi has not fully assessed the dichotomy of her fears and desires.",
-          "client_utterance": "I think if I had a clearer idea of what to expect, it might help. But I’m still so worried that I will fall apart under the scrutiny. It feels like everyone is waiting for me to fail, and that makes it hard to even think about the good things.",
-          "therapist_utterance": "It sounds like the uncertainty is really weighing on you, and that’s understandable. Let’s try to break it down: what are some of the good things that could happen if you return to work? And what are some of the fears that you think might hold you back?",
-          "therapist_use": "Decisional Balance Discussions: used to help Naomi weigh the pros and cons of returning to work."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet explored the pros and cons of returning to work with Naomi. Client objective not met: Naomi hasn't fully examined her conflicting feelings about her return.",
+          "client_utterance": "I guess the pros would be feeling productive again and connecting with my team, but the cons include the fear of judgment and feeling overwhelmed. It’s like I want to go back, but then I think about how anxious it makes me.",
+          "therapist_utterance": "That’s a great start in recognizing both sides of your decision. Let’s delve deeper into those feelings: how do you think your values around health and well-being align with these pros and cons? Understanding that might help clarify your next steps.",
+          "therapist_use": "Decisional balance discussions: to help Naomi weigh the pros and cons of returning to work."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist didn't fully validate Naomi's feelings about her fears of judgment. Client objective not met: Naomi hasn't yet started to challenge her beliefs about the negative perceptions she fears.",
-          "client_utterance": "I guess some of the positives are being back with colleagues and feeling productive. But I still think that if I show any signs of struggle, they’ll judge me. I just feel like I’m walking into a minefield.",
-          "therapist_utterance": "It’s completely valid to feel that way; a minefield is a strong metaphor for the pressure you’re experiencing. It’s a lot to navigate. What if we explored those fears a bit more to see if there’s any evidence that contradicts those thoughts?",
-          "therapist_use": "Cognitive Restructuring: used to encourage Naomi to challenge her negative beliefs about judgment."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet challenged Naomi's fears about judgment. Client objective not met: Naomi has not yet confronted her automatic thoughts about others' perceptions.",
+          "client_utterance": "I feel like I’d be judged no matter what I do. It’s hard to shake that feeling, and I often think about the worst-case scenarios. I worry that I’ll be seen as weak for needing this time.",
+          "therapist_utterance": "Those fears are understandable, but let’s take a moment to challenge those thoughts. Can you think of any instances where you felt supported or not judged in similar situations? Examining this evidence might help you reframe your perspective.",
+          "therapist_use": "Evidence-based questioning: to help Naomi challenge her automatic thoughts about judgment."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not guide Naomi towards examining her core beliefs about being judged. Client objective not met: Naomi hasn’t fully reflected on how her past experiences influence her current feelings.",
-          "client_utterance": "I just keep thinking that I’m not strong enough to handle this. I feel so helpless at times, like no matter what I do, I’ll end up being seen as a failure. It’s frustrating because I want to move past this, but I can't.",
-          "therapist_utterance": "That feeling of helplessness can be really heavy, and it’s understandable that it impacts how you view your strength. Let’s take a closer look at those feelings and consider where they might be coming from. How have past experiences shaped your beliefs about your own strength?",
-          "therapist_use": "Examining Underlying Beliefs: used to explore how Naomi's past influences her current fears and feelings of helplessness."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not guided Naomi to articulate a clearer vision for navigating her fears. Client objective not met: Naomi hasn’t fully recognized how her fears conflict with her health values.",
+          "client_utterance": "I guess I can think of a few times where I felt supported, but those moments are overshadowed by my worries. It’s hard to believe that people would really care about my health instead of judging me. I want to prioritize my well-being, but it feels impossible.",
+          "therapist_utterance": "It’s tough to feel like your health doesn’t matter amidst those worries. If you could prioritize your well-being, what steps would you envision taking to advocate for yourself? This could help bridge the gap between your aspirations and your fears.",
+          "therapist_use": "Developing discrepancy: to help Naomi articulate her values around health and how they relate to her feelings about work."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not facilitate Naomi’s insight into her core beliefs effectively. Client objective not met: Naomi is still struggling to articulate how her past beliefs affect her current situation.",
-          "client_utterance": "I think my past experiences of being judged have made me feel like I can’t show any weakness at work. It’s like I have this belief that if I’m not perfect, I’ll be rejected. But I know that isn’t entirely true.",
-          "therapist_utterance": "That’s a significant realization, Naomi. Recognizing that your beliefs may not reflect reality is a powerful step. What would it look like to challenge that belief about perfection at work? How could you reframe it in a way that feels more supportive?",
-          "therapist_use": "Cognitive Restructuring: used to encourage Naomi to challenge her belief about needing to be perfect."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't fully explored how Naomi can prepare for her return. Client objective not met: Naomi has not yet identified specific strategies to cope with her fears.",
+          "client_utterance": "I think I’d need to prepare myself mentally and maybe even practice what I’d say to HR. But I feel like I’m just not ready to face that pressure right now. It feels overwhelming to think about it all.",
+          "therapist_utterance": "Preparing mentally sounds like a wise approach, and it’s okay to take your time. What specific things do you think would help you practice for that conversation? Breaking it down could make it feel less daunting.",
+          "therapist_use": "Open-ended questioning: to help Naomi identify specific strategies for preparation."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: The therapist successfully guided Naomi to confront her beliefs and articulate her fears. Client objective met: Naomi has begun to understand her ambivalence and articulate reasons for change.",
-          "client_utterance": "I see now that I can challenge those beliefs about needing to be perfect. Maybe I can focus on doing my best instead of being perfect. That feels like a healthier approach as I think about returning.",
-          "therapist_utterance": "That’s a wonderful insight, Naomi! Recognizing the difference between doing your best and striving for perfection can help ease some of the pressure. How do you feel about using that perspective as you prepare to return to work?",
-          "therapist_use": "Double-sided reflection: used to validate Naomi’s progress and reinforce her new perspective on her return to work."
+          "reason_for_ending": "MOVE - Therapist objective met: Naomi has articulated her fears and motivations more clearly. Client objective met: Naomi has expressed a desire to prepare for her return and is recognizing her values.",
+          "client_utterance": "I think if I can prepare and maybe talk to someone I trust at work first, that might help ease some of my anxiety. I’m starting to see that it’s possible to advocate for myself, even if it feels daunting.",
+          "therapist_utterance": "That’s a significant realization, Naomi! It’s encouraging to hear you’re considering ways to advocate for yourself. Taking those steps can really align with your values around health and well-being, and it sounds like you are moving toward a plan.",
+          "therapist_use": "Reflective listening: used to reinforce Naomi's progress and commitment to preparing for her return."
         }
       ]
     },
@@ -250,28 +268,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Naomi's commitment to return to work by exploring her motivations and addressing her fears.",
+          "objective": "Strengthen Naomi's commitment to returning to work and build her confidence in managing the transition.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Naomi to articulate her reasons for wanting to return to work, focusing on her values and goals.",
-                "Ask open-ended questions to elicit her intrinsic motivations, such as 'What do you hope to achieve by returning to work?'",
-                "Reflect back her answers to reinforce her commitment and validate her feelings."
+                "Encourage Naomi to express her reasons for wanting to return to work, emphasizing her motivations.",
+                "Ask open-ended questions to explore her feelings about the upcoming changes and facilitate deeper reflections on her commitment."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess her confidence level about returning to work (e.g., 'On a scale of 1 to 10, how ready do you feel to have that conversation with HR?').",
-                "Discuss what factors could increase her confidence and readiness, and collaboratively brainstorm ways to address these."
+                "Use scaling questions (1-10) to assess Naomi's confidence in her ability to return to work and manage potential challenges.",
+                "Discuss past successes in similar situations to reinforce her ability to cope with current fears."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Facilitate a discussion on who can support her during her return (e.g., friends, family, therapist).",
-                "Help her identify resources, such as HR policies or supportive colleagues, that can ease her transition."
+                "Help Naomi identify supportive individuals in her life who can assist during her transition back to work.",
+                "Encourage her to consider resources available through HR or her workplace that can aid in her return."
               ]
             }
           ]
@@ -281,82 +298,82 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Guide Naomi in creating a step-by-step action plan for her return to work, outlining specific, achievable tasks.",
-                "Encourage her to set realistic timelines for each step, such as scheduling a meeting with HR or discussing her return with a trusted colleague."
+                "Collaborate with Naomi to develop a step-by-step action plan for her return to work, addressing specific tasks like communicating with HR.",
+                "Ensure the plan includes small, achievable steps that she feels comfortable committing to."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Work with Naomi to develop coping strategies for the anxiety and fear of judgment she feels about returning to work.",
-                "Identify specific situations that trigger her worries and collaboratively create responses or coping mechanisms to use when these arise."
+                "Guide Naomi through identifying potential barriers to her return and brainstorm effective coping strategies.",
+                "Encourage her to consider the worst-case scenarios and develop contingency plans to mitigate her fears."
               ]
             },
             {
-              "technique_name": "Behavioral Experiments",
+              "technique_name": "Behavior Experiment",
               "instructions_for_therapist": [
-                "Encourage Naomi to engage in small, low-risk interactions with HR or colleagues to test her beliefs about being judged negatively.",
-                "After each interaction, discuss her feelings and any evidence that contradicts her negative beliefs."
+                "Design a low-risk behavioral experiment where Naomi can practice communicating her needs to someone she trusts.",
+                "Review the outcomes of this experiment to enhance her confidence and reduce anxiety about future interactions."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this therapy plan, I first recognize Naomi's commitment to change, which is essential in the Preparation phase. By utilizing MI strategies, such as strengthening commitment language, I encourage her to articulate her motivations for returning to work, fostering a sense of ownership over her decisions. Next, I explore her confidence and readiness, using scaling questions to assess her feelings about engaging with HR, which helps to identify potential barriers. Identifying supports and resources is crucial to reinforce her social network, making the transition feel less daunting. For the CBT interventions, I propose action planning as a structured approach to alleviate her anxiety, allowing her to break down the overwhelming prospect of returning to work into manageable steps. Developing coping strategies directly addresses her fear of judgment, equipping her with tools to manage her emotions effectively. Finally, introducing behavioral experiments provides her with opportunities to confront her fears in a controlled manner, allowing her to gather evidence that challenges her negative beliefs about being judged. This collaborative and gradual approach respects her readiness for change while addressing her resistance to avoid overwhelming her.",
-        "progress_marker": "Naomi will complete her action plan, identify at least two coping strategies, and engage in one behavioral experiment before the next session."
+        "therapist_reasoning": "In formulating Naomi's therapy plan, I first recognized her core beliefs and emotional responses that contribute to her resistance to returning to work. By applying Motivational Interviewing strategies, I aimed to strengthen her commitment to change by encouraging her to articulate her motivations. I also utilized scaling questions to explore her confidence and readiness, which is crucial given her history of feeling judged. Identifying supports and resources will empower Naomi by reinforcing her social network's role in her transition. On the CBT side, I focused on action planning to collaboratively create manageable steps for her return, ensuring the steps are specific and achievable to build her self-efficacy. Problem-solving skills training addresses her fears of judgment by preparing her for potential barriers, while the behavior experiment provides a safe space for her to practice communication skills. This structured approach is designed to gradually increase her confidence and readiness while acknowledging her resistance and emotions throughout the process.",
+        "progress_marker": "Naomi successfully identifies at least three specific steps she is willing to take towards her return to work within the next week."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings about returning to work and find ways to cope with the pressure I feel.",
+        "client_objective": "I want to explore my feelings about returning to work and find strategies to manage my anxiety.",
         "client_state": {
-          "awareness": "I recognize that my current situation at work is unhealthy and is affecting my well-being, and I need to address it.",
-          "motivation": "I feel a strong desire to improve my situation and return to work on my own terms, despite my fears.",
-          "openness": "I am willing to discuss my emotions and thoughts about returning to work, although I still have reservations.",
-          "resistance": "I experience significant doubts and fears about being judged and whether I can handle the pressure of returning to work."
+          "awareness": "I recognize that my current situation of avoiding work is affecting my mental and physical health, and I understand that I need to confront my fears about returning.",
+          "motivation": "I feel a strong desire to improve my situation and regain control over my life, even though I'm still scared about how others might perceive my return to work.",
+          "openness": "I am willing to discuss my thoughts and feelings with my therapist, as I believe expressing my concerns is a step toward finding solutions.",
+          "resistance": "I still feel significant resistance due to my anger and fear of judgment; I doubt whether I can navigate the challenges of returning to work successfully."
         },
-        "client_reasoning": "I've come to realize that my current circumstances at work are not sustainable. I understand that being away due to my health is valid, but I still feel guilty and anxious about how others might perceive me. Change feels necessary because I can't keep avoiding my responsibilities, yet I dread the thought of facing judgment from HR and my manager. I hope that by discussing my feelings in therapy, I might discover ways to handle the situation better and regain some control. I want to feel empowered to make decisions about my health and work, but I'm scared that my past experiences will repeat themselves. This mix of motivation and fear is overwhelming, but I know I need to explore my options and figure out a path forward that feels right for me."
+        "client_reasoning": "I've come to realize that avoiding going back to work is not a sustainable solution for me. I've been through physical therapy, and I know that I need to take care of my health, but I can't shake the feeling that my coworkers and HR will judge me for being away. I want to find a way to manage my anxiety about returning, as I see that it's preventing me from moving forward. Therapy has helped me start thinking about how I can face this challenge and explore coping strategies that might work for me. Yet, I still feel a lot of fear about how things will go—what if I'm judged again? I hope that by discussing my fears and feelings with my therapist, I can start to build the confidence I need to make this change happen."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not explore Naomi's motivations deeply enough. Client objective not met: Naomi did not articulate her feelings about returning to work.",
-          "client_utterance": "I’ve been thinking about how much I want to feel like I belong again, but I still get caught up in my fears. I want to be part of my team and contribute, but the thought of judgment makes me hesitate. It’s hard to find the balance between wanting to return and feeling overwhelmed.",
-          "therapist_utterance": "It’s important that you recognize your desire to belong, Naomi. What do you think would help you feel more secure in that environment, given your fears? Let’s explore what specific supports or changes could make your return feel less daunting.",
-          "therapist_use": "Open-ended question: used to invite exploration of specific supports that could ease anxiety."
+          "reason_for_ending": "KEEP: Therapist objective not met - Naomi hasn't identified specific steps to take. Client objective not met - Naomi still feels anxious about her return to work.",
+          "client_utterance": "I guess I'm starting to think that talking to someone I trust at work might help ease my anxiety, but I still feel overwhelmed about everything I need to do before I go back.",
+          "therapist_utterance": "That sounds like a good start, Naomi. Talking to someone you trust can provide support and help you feel less isolated. What specific things do you think you could discuss with them that would help you prepare for your return?",
+          "therapist_use": "Open-ended question: encourages exploration of support strategies."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not sufficiently assess Naomi's confidence level. Client objective not met: Naomi did not identify coping strategies.",
-          "client_utterance": "I suppose if I had a supportive colleague to talk to, it might help. I also wish I could get some assurance from HR about how they’ll treat my situation. But part of me fears that even with support, I’ll still feel judged.",
-          "therapist_utterance": "It sounds like having that support is crucial for you. On a scale of 1 to 10, how confident are you feeling about having these conversations with HR and your colleagues? Identifying that could help us figure out what might boost your confidence.",
-          "therapist_use": "Scaling question: used to assess Naomi's confidence and readiness for the conversations."
+          "reason_for_ending": "KEEP: Therapist objective not met - Naomi hasn't yet developed a clear action plan. Client objective not met - Naomi still has unresolved anxiety about returning.",
+          "client_utterance": "I think I could ask them about how they felt when returning from a leave and see if they had any tips for dealing with HR, but I'm still not sure what to say.",
+          "therapist_utterance": "That’s a great idea! Hearing their experiences could really provide insight. Let’s also think about what you might want to communicate to HR to make that conversation easier for you.",
+          "therapist_use": "Strengthening Commitment Language: encourages Naomi to articulate her motivations and plan."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to help Naomi identify specific coping strategies. Client objective not met: Naomi did not articulate her fears clearly.",
-          "client_utterance": "Right now, I think I’m around a 4. I want to feel more ready, but my fears about judgment hold me back. I guess if I knew how to handle those feelings better, I’d be more confident.",
-          "therapist_utterance": "A 4 shows there’s room for growth, and it’s great that you’re aware of that. What kind of coping strategies do you think might help you when those feelings of judgment arise? Perhaps we can brainstorm some together.",
-          "therapist_use": "Collaborative brainstorming: used to encourage Naomi to identify coping strategies."
+          "reason_for_ending": "KEEP: Therapist objective not met - Naomi hasn't committed to any specific actions yet. Client objective not met - Naomi remains uncertain about her readiness.",
+          "client_utterance": "I suppose I could say something like, 'I need to talk about my return and ensure I'm supported,' but actually saying it feels daunting.",
+          "therapist_utterance": "It's understandable to feel daunted by that conversation. Maybe we could role-play how you might approach it, so it feels less intimidating? Practicing could build your confidence.",
+          "therapist_use": "Behavior Experiment: providing a safe space for Naomi to practice communication."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not sufficiently guide Naomi in creating an action plan. Client objective not met: Naomi did not feel empowered to manage her anxiety.",
-          "client_utterance": "I’m not sure yet, but maybe I can practice some responses in my head before I talk to HR. I think having a plan could help ease my anxiety about the conversations. It feels like I need to prepare for the worst.",
-          "therapist_utterance": "Preparing for those conversations sounds like a solid step. Let’s create a step-by-step action plan together that outlines specific tasks you can tackle. What could be the first small step you’re willing to take toward that conversation with HR?",
-          "therapist_use": "Action planning: used to guide Naomi in creating a structured approach to her return."
+          "reason_for_ending": "KEEP: Therapist objective not met - Naomi hasn't fully explored her feelings or developed a concrete plan. Client objective not met - Naomi still expresses fear about judgment.",
+          "client_utterance": "That could help. I just worry that even if I practice, what if I still get judged? I feel like I can't shake that fear.",
+          "therapist_utterance": "Judgment can feel very real, especially when you're vulnerable. Let’s explore that fear more closely; what is the worst thing that could happen if you went into that conversation feeling prepared?",
+          "therapist_use": "Problem-Solving Skills Training: encourages Naomi to confront her fears and consider worst-case scenarios."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not facilitate enough exploration of Naomi's past experiences. Client objective not met: Naomi did not identify a specific support system.",
-          "client_utterance": "I think the first step could be to write down what I want to say to HR. But I’m still feeling nervous about how they’ll react. I wish I could just walk in there and not feel judged.",
-          "therapist_utterance": "Writing down your thoughts is a powerful way to prepare. It’s understandable to feel nervous; perhaps we can talk about some past instances where you felt judged and how you managed those feelings. What can you recall from those experiences?",
-          "therapist_use": "Exploring past experiences: used to help Naomi reflect on her feelings and build coping mechanisms."
+          "reason_for_ending": "KEEP: Therapist objective not met - Naomi hasn't identified coping strategies for her fears. Client objective not met - Naomi remains uncertain about her readiness.",
+          "client_utterance": "I guess the worst would be if they dismissed my concerns, and I would feel even more anxious. I just don’t want to feel belittled again.",
+          "therapist_utterance": "That’s a valid concern, and it makes sense to want to avoid feeling belittled. What could you do to prepare yourself emotionally for that possibility? Having a plan might help ease your anxiety.",
+          "therapist_use": "Exploring Confidence and Readiness: helping Naomi assess her emotional preparedness."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist did not sufficiently validate Naomi’s feelings about her past experiences. Client objective not met: Naomi did not fully express her supports.",
-          "client_utterance": "In the past, I felt judged when I asked for help. I remember feeling like I had to prove myself, and it was exhausting. I guess that’s why I fear asking for support now; it feels like I’m showing weakness.",
-          "therapist_utterance": "That exhaustion you felt is completely valid, and it’s understandable to associate seeking help with weakness. It’s a big step to recognize that. Let’s talk about how you can redefine what seeking support means for you as you prepare to return.",
-          "therapist_use": "Reflective listening: used to validate Naomi's feelings and encourage a redefinition of support."
+          "reason_for_ending": "KEEP: Therapist objective not met - Naomi hasn't articulated a concrete action plan. Client objective not met - Naomi still expresses significant anxiety about judgment.",
+          "client_utterance": "I suppose I could remind myself that my health is a priority and that I deserve support, but it's still hard to feel that way when I think about judgment.",
+          "therapist_utterance": "That’s a strong reminder to keep in mind—your health is important. How about we create a list of supportive affirmations you can refer to when you feel anxious about judgment? This could reinforce your confidence.",
+          "therapist_use": "Identifying Supports and Resources: empowering Naomi by reinforcing her social network's role."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: The therapist successfully explored Naomi's motivations and fears. Client objective met: Naomi articulated her feelings and identified supports.",
-          "client_utterance": "I see now that asking for help doesn’t mean I’m weak; it shows I’m taking control of my situation. I want to reach out to a colleague I trust and ask for their advice before I talk to HR. That feels like a step I can take.",
-          "therapist_utterance": "That’s a fantastic realization, Naomi! Taking control of your situation is empowering, and reaching out to a trusted colleague sounds like a great first step. I believe this will help you gain confidence as you approach HR.",
-          "therapist_use": "Strengthening commitment language: used to reinforce Naomi's decision and validate her feelings."
+          "reason_for_ending": "MOVE: Therapist objective met - Naomi has expressed a clearer plan for support. Client objective met - Naomi has started to articulate her thoughts about her return.",
+          "client_utterance": "I think that would help a lot. Having affirmations might give me the boost I need to start feeling more confident about this whole process.",
+          "therapist_utterance": "That’s fantastic, Naomi! It sounds like you’re starting to find ways to support yourself through this transition. What specific affirmations do you think would be most helpful for you?",
+          "therapist_use": "Action Planning: collaborating with Naomi to develop a supportive plan."
         }
       ]
     }

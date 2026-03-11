@@ -12,28 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To enhance Blaise's awareness of his feelings and thoughts about familial relationships without pushing for immediate change.",
+          "objective": "To increase Blaise's awareness of his emotions and thoughts related to familial relationships without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Blaise's concerns about his family dynamics.",
-                "Reflect back what he shares, particularly focusing on his feelings of frustration and anxiety.",
-                "Validate his emotions to create a safe and supportive environment."
-              ]
-            },
-            {
-              "strategy_name": "Developing Discrepancy",
-              "instructions_for_therapist": [
-                "Gently guide Blaise to explore the differences between his current experiences and his personal values regarding familial relationships.",
-                "Ask open-ended questions that encourage him to consider how his current behaviors align with or contradict his values."
+                "Listen attentively to Blaise's concerns and feelings about his family dynamics.",
+                "Repeat back what he says to show understanding and validate his feelings, such as 'It sounds like you feel frustrated and anxious when dealing with your family's expectations.'"
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge the difficulty Blaise faces in addressing his family issues.",
-                "Communicate understanding of his feelings of helplessness and ambivalence."
+                "Acknowledge Blaise's feelings of helplessness and frustration as valid and understandable.",
+                "Use statements like 'It's completely normal to feel overwhelmed in situations where you seek approval but face resistance.'"
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Encourage Blaise to reflect on the difference between his current family interactions and his personal values of self-acceptance and emotional well-being.",
+                "Ask open-ended questions like, 'How do you feel when you reflect on your values compared to your current experiences with your family?'"
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Gently encourage Blaise to explore his feelings about seeking approval and how it impacts his emotional state.",
+                "Use prompts such as, 'What do you notice about your feelings when you seek approval from your family?'"
               ]
             }
           ]
@@ -41,84 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Encourage Blaise to articulate his automatic thoughts related to seeking approval from his family.",
-                "Help him recognize thoughts such as 'I am unlovable' and how these influence his emotions and behaviors."
+                "Ask Blaise to identify specific instances where seeking approval led to positive or negative outcomes.",
+                "Follow up with questions that challenge the validity of his automatic thoughts, such as, 'What evidence do you have that seeking approval is necessary for feeling valued?'"
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Introduce common cognitive distortions that may apply to Blaise's thoughts.",
-                "Assist him in identifying specific distortions in his thinking, such as 'all-or-nothing thinking' regarding family acceptance."
+                "Help Blaise examine the reality of his beliefs about needing familial approval by discussing alternative scenarios.",
+                "Encourage him to consider, 'What if your family did not provide the approval you seek? How would that affect your self-worth?'"
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Explore the context and consequences of Blaise's behaviors in family interactions.",
-                "Help him understand how these behaviors serve a purpose but may also lead to increased distress."
+                "Guide Blaise to see his situation from different viewpoints, such as considering how he might respond if he felt more self-accepting.",
+                "Prompt him with, 'How might your feelings change if you focused on your own approval rather than seeking it from your family?'"
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Encourage Blaise to rate his feelings of needing approval on a scale from 1 to 10, helping him visualize the intensity of his emotions.",
+                "Discuss what changes might occur if his feelings were at a lower number on that scale."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, I will first focus on building rapport with Blaise by utilizing reflective listening to validate his feelings of frustration and anxiety regarding familial relationships. This approach aligns with the MI strategy of expressing empathy, which is crucial in the pre-contemplation phase. By listening without judgment, I promote a safe space for Blaise to share his thoughts. Next, I will introduce the MI strategy of developing discrepancy, which involves guiding him to explore the misalignment between his current behaviors of seeking approval and his deeper values about family. This is an important step to encourage self-reflection without imposing change. Concurrently, I will implement CBT techniques, starting with identifying his automatic thoughts, specifically those linked to feelings of unlovability and neediness. This will help him gain insight into his cognitive patterns. I will also address cognitive distortions, particularly all-or-nothing thinking, which often exacerbates his emotional distress. Lastly, through functional analysis, I will help him understand the purpose his behaviors serve, thus fostering awareness and curiosity about his relationship dynamics without pushing for immediate change.",
-        "progress_marker": "Blaise expresses a willingness to talk about his feelings related to family dynamics and shows increased awareness of his automatic thoughts."
+        "therapist_reasoning": "In this therapy plan, the primary focus is on building rapport and increasing Blaise's awareness of his thoughts and feelings regarding his familial relationships. The use of motivational interviewing strategies like reflective listening and expressing empathy is essential to validate his experiences and emotions, which may help reduce his defensiveness and resistance. By developing discrepancy, we encourage Blaise to explore the contrast between his current behaviors and his personal values, fostering self-reflection. The CBT techniques, such as evidence-based questioning and reality testing, are designed to help Blaise challenge his core beliefs about approval-seeking and examine the outcomes of his behaviors. This approach respects his current resistance level by not pushing for change but instead encouraging curiosity and awareness. Overall, the integration of MI and CBT techniques is aimed at enhancing Blaise's understanding of his emotional dynamics without imposing any immediate action plans.",
+        "progress_marker": "Blaise shows increased awareness of his feelings and thought patterns regarding familial relationships, demonstrating willingness to explore these aspects further in therapy."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I feel so frustrated and anxious about my family without having to change anything right now.",
+        "client_objective": "I hope to understand why I keep feeling frustrated with my family without having to confront the issue directly.",
         "client_state": {
-          "awareness": "I recognize that there are issues with my family dynamics, but I don't think there's anything I can do to change it.",
-          "motivation": "I don’t really want to change; I just want to cope with how I feel about my family.",
-          "openness": "I find it difficult to share my true feelings because I fear it might lead to conflict or make things worse.",
-          "resistance": "I often feel defensive when the topic comes up, and I avoid discussing the core issues because they make me uncomfortable."
+          "awareness": "I know there are issues with my family, but I don't think they're as serious as others make them out to be.",
+          "motivation": "I feel like change might be possible, but I also doubt whether I really want it.",
+          "openness": "I'm not very comfortable sharing my thoughts and feelings; I often feel overwhelmed when I try.",
+          "resistance": "I tend to shut down when the conversation gets too close to home, even if I want to talk about it."
         },
-        "client_reasoning": "I know there’s something not quite right with how I interact with my family, especially when I see my dad chasing after approval. But every time I think about it, I just feel overwhelmed and anxious. I’m scared to talk about it in therapy because it feels like opening a can of worms that I can’t close again. What if I end up feeling even worse? I keep thinking that maybe I’m just as needy as my father, and that thought makes me defensive. I don’t want to discuss feelings that might only bring more arguments or remind me of how unlovable I feel. I guess I prefer to focus on what’s happening in the moment rather than dig deeper into my emotions. It’s easier to avoid the hard stuff, and I don’t want to confront change when I don’t even know if it’s possible for me."
+        "client_reasoning": "I see my family dynamics as frustrating but not something I need to change right now. When I think about discussing my feelings, I feel this tight knot in my stomach; it’s like I know I should, but I just can’t. I often catch myself thinking that other people have it worse, so why should I complain? My mind races with the fear of being judged or misunderstood if I bring up my feelings. I see my father struggling for approval, and it makes me doubt whether I can ever get it right. Sometimes, I wonder if I’m just like him—always seeking validation and never getting it. Therapy feels like opening a door I’m not ready to walk through. I want to feel safe, but I also fear that digging deeper will just lead to more pain and disappointment."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not sufficiently explored Blaise's feelings of frustration. Client objective not met: Blaise is still struggling to articulate his feelings about family dynamics.",
-          "client_utterance": "I guess I do feel frustrated when I think about how my dad always seems to need approval. It's like I can see that pattern in myself, but it makes me anxious to confront it. I don't want to feel like I'm just chasing after something I can't have.",
-          "therapist_utterance": "It sounds like you're feeling a mix of frustration and anxiety when you see those patterns in your dad. You’re recognizing that there's a connection to your own experiences, but it feels overwhelming to address. Can you tell me more about what that frustration feels like for you?",
-          "therapist_use": "Reflective Listening: to validate Blaise's feelings and encourage further exploration."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't fully helped Blaise explore his feelings about family dynamics. Client objective not met: Blaise still feels overwhelmed and hasn't gained clarity on his frustrations.",
+          "client_utterance": "I guess I just don’t understand why I feel this way about my family. It’s not like they’re terrible people; I mean, everyone struggles, right? But sometimes I just feel this pressure to please them that’s really exhausting.",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure to meet your family's expectations, which can be really exhausting. It's completely normal to feel a mix of frustration and anxiety when you're trying to balance your needs with theirs.",
+          "therapist_use": "Reflective Listening: validating Blaise's feelings about family dynamics."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't yet helped Blaise explore discrepancies between his feelings and values. Client objective not met: Blaise still seems hesitant to delve deeper into his feelings.",
-          "client_utterance": "It just feels like I’m constantly trying to prove myself to them, and it never seems enough. I don’t know if I can change that, or if I even want to right now. Sometimes I wonder if it's just how things are meant to be.",
-          "therapist_utterance": "It must be really exhausting to feel like you're in that cycle of seeking approval. You’re saying it feels like a never-ending struggle, and yet part of you questions whether it can change. What do you think is the difference between how you want to feel in your family and how it really is?",
-          "therapist_use": "Developing Discrepancy: to encourage Blaise to reflect on his values versus current experiences."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to further help Blaise reflect on his feelings and thoughts regarding approval. Client objective not met: Blaise hasn’t yet articulated deeper insights into his frustrations.",
+          "client_utterance": "Yeah, but sometimes I think, why do I even care about their approval? I know I shouldn't let it get to me, but I just feel stuck. Like, I see my dad always trying to get their approval and it makes me wonder if that's just how it is.",
+          "therapist_utterance": "It's understandable to feel stuck when you see your father struggling in the same way. How does it feel for you to recognize this pattern? It might be helpful to think about what you value in your own life versus what you're experiencing with your family.",
+          "therapist_use": "Developing Discrepancy: encouraging Blaise to reflect on his values compared to his familial experiences."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not sufficiently facilitated Blaise's exploration of his feelings. Client objective not met: Blaise is still not fully articulating his deeper feelings about family dynamics.",
-          "client_utterance": "I guess I want to feel accepted for who I am, rather than feeling like I have to earn love. But that thought just makes me feel more anxious about talking to them. It’s like I’m stuck in this loop where I can't break free from needing their validation.",
-          "therapist_utterance": "You're expressing a deep desire for acceptance without the need to earn it. It sounds like that need for validation is really weighing on you. What do you think would happen if you started to express those feelings to your family?",
-          "therapist_use": "Reflective Listening: to validate Blaise's desire for acceptance and explore potential fears."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist still needs to help Blaise explore the impact of seeking approval. Client objective not met: Blaise hasn’t fully examined his feelings about needing approval yet.",
+          "client_utterance": "I guess it’s just frustrating. I want to be okay with myself, but I feel like I need them to say I'm doing well. What if I don't get that? Does that mean I’m not good enough?",
+          "therapist_utterance": "It’s completely normal to question your self-worth in relation to your family's approval. What do you notice about your feelings when you seek that approval from them? Exploring these feelings might help you understand their impact on your well-being.",
+          "therapist_use": "Raising Awareness: encouraging Blaise to explore his feelings about seeking approval."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist hasn't fully addressed Blaise's automatic thoughts. Client objective not met: Blaise still seems hesitant to confront the implications of his feelings.",
-          "client_utterance": "I’m afraid they’ll just dismiss me or make it worse. I feel like if I say something, it’ll just lead to more arguments. It’s easier to stay quiet and avoid conflict than to risk feeling even more rejected.",
-          "therapist_utterance": "It's understandable to feel that way; it sounds like you're worried about potential conflict. You’re trying to protect yourself from feeling rejected, but that also keeps you from sharing your true feelings. How do you think those fears influence your interactions with them?",
-          "therapist_use": "Expressing Empathy: to acknowledge Blaise's fears and explore their impact on his behavior."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to delve deeper into the beliefs Blaise holds about approval. Client objective not met: Blaise hasn't yet articulated past experiences with seeking approval.",
+          "client_utterance": "I often think about how I feel judged if I don’t get their approval. It’s like I’m always waiting for them to say I’m good enough. But then I remember that I can’t keep living like that.",
+          "therapist_utterance": "It sounds like there's a lot of internal conflict around needing their approval and wanting to feel good enough on your own. What do you think would happen if you didn't seek their validation? How would that change how you feel about yourself?",
+          "therapist_use": "Reality Testing: helping Blaise examine the reality of his beliefs about needing familial approval."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not sufficiently guided Blaise to recognize cognitive distortions. Client objective not met: Blaise is still feeling defensive and not fully exploring his feelings.",
-          "client_utterance": "I think I just tell myself that I’m being unreasonable for wanting more from them. I often think that I’m just too needy, like my dad. It’s hard to shake that feeling that I shouldn’t ask for what I want.",
-          "therapist_utterance": "It seems like you're caught in a cycle of negative thoughts, feeling that wanting more is being unreasonable. You’re identifying that neediness resonates with your dad's behavior, which might make it feel even more daunting to address. Can we explore those thoughts a bit more and see how they affect your feelings?",
-          "therapist_use": "Identifying Automatic Thoughts: to help Blaise articulate and recognize his negative self-perceptions."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist should facilitate further reflection on the intensity of Blaise's feelings. Client objective not met: Blaise hasn't rated his feelings yet or explored alternatives.",
+          "client_utterance": "I don’t know. I just feel like if I stop caring, I might lose a part of my family or something. It’s really hard to think about. I guess I’m just scared.",
+          "therapist_utterance": "Fear is a natural response when thinking about changing how you relate to your family. If you were to rate your feelings about needing their approval on a scale from 1 to 10, where would you say you are? Understanding the intensity might help clarify your thoughts.",
+          "therapist_use": "Continuum Technique: encouraging Blaise to visualize the intensity of his feelings about approval."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: The therapist has not fully explored the consequences of Blaise's behaviors. Client objective not met: Blaise is still hesitant to confront the deeper issues.",
-          "client_utterance": "I notice I often withdraw when I feel that way, like it’s my defense mechanism. But then I end up feeling even more isolated, and I hate that. It’s a cycle I don't know how to break.",
-          "therapist_utterance": "That cycle of withdrawing to protect yourself but ending up feeling isolated must be really painful. It sounds like you’re recognizing the consequences of that behavior, even if it feels hard to change. What do you think would happen if you tried to express yourself instead of withdrawing?",
-          "therapist_use": "Functional Analysis of Behavior: to explore the context and consequences of Blaise's withdrawal."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to help Blaise articulate a clearer understanding of his emotions. Client objective not met: Blaise hasn’t yet connected his feelings to his values.",
+          "client_utterance": "I guess I’d say it’s around an 8. I really don’t want to feel this way, but I just can’t seem to let go of that need. It’s frustrating to feel so tied to their opinions.",
+          "therapist_utterance": "An 8 is quite high, indicating this is a significant issue for you. What might change for you if that number were to go down? How would your feelings differ if you focused more on how you see yourself rather than their opinions?",
+          "therapist_use": "Alternative Perspective: guiding Blaise to see his situation from a self-acceptance viewpoint."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: Blaise has explored his feelings and behaviors in depth. Client objective met: Blaise shows increased awareness of his dynamics with his family and is starting to articulate his thoughts.",
-          "client_utterance": "I think I need to reflect on this more and maybe even consider how I can express my feelings without fearing conflict. It's a lot to think about, but I feel like I'm starting to see things a bit clearer.",
-          "therapist_utterance": "I'm glad to hear that you're starting to gain some clarity on your feelings and considering how to express them. It takes courage to reflect on these dynamics, and it seems like you’re taking a positive step forward. Let's continue to explore this in our next session.",
-          "therapist_use": "Reflective Listening: to validate Blaise's progress and encourage continued reflection."
+          "reason_for_ending": "MOVE - Therapist objective met: The therapist has effectively helped Blaise explore his feelings and thoughts about familial relationships. Client objective met: Blaise has gained some clarity about his feelings of frustration regarding his family.",
+          "client_utterance": "I think if I could focus on my own approval instead, I wouldn’t feel so lost. Maybe I’m starting to see that I can be okay without their validation. That feels like a big step.",
+          "therapist_utterance": "That's a significant realization, Blaise. It sounds like you’re beginning to understand that your self-worth doesn't have to depend solely on your family's approval. This is an important step towards self-acceptance.",
+          "therapist_use": "Expressing Empathy: validating Blaise's progress and insights about self-acceptance."
         }
       ]
     },
@@ -127,29 +140,27 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Blaise's ambivalence about familial relationships and enhance his motivation for change.",
+          "objective": "To explore Blaise's ambivalence regarding familial relationships and enhance his motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Initiate a discussion about Blaise's feelings towards his familial relationships.",
-                "Encourage him to express both his desire for approval and his awareness of the distress it causes.",
-                "Validate his mixed feelings to create a safe space for exploration."
+                "Invite Blaise to share his conflicting feelings about his relationships with his family.",
+                "Ask open-ended questions that encourage him to reflect on both the positives and negatives of maintaining the current dynamics."
               ]
             },
             {
-              "strategy_name": "Eliciting Change Talk",
+              "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Ask open-ended questions that prompt Blaise to articulate reasons for wanting change.",
-                "Prompt him to reflect on moments where he felt empowered despite familial dynamics.",
-                "Reinforce any statements reflecting his desire for healthier relationships."
+                "Help Blaise articulate his core values and how they contrast with his current behavior of seeking approval.",
+                "Encourage him to identify situations where his actions do not align with his values, fostering a sense of discomfort with his current state."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussions",
+              "strategy_name": "Decisional Balance Discussion",
               "instructions_for_therapist": [
-                "Guide Blaise in weighing the pros and cons of staying in the current familial dynamics versus seeking healthier alternatives.",
-                "Facilitate a conversation about how his values of self-worth and emotional safety align with potential changes."
+                "Facilitate a discussion about the pros and cons of changing his approach to familial relationships.",
+                "Utilize a pros and cons list to help him visualize the impact of his choices."
               ]
             }
           ]
@@ -157,79 +168,84 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Socratic Questioning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Use questions to help Blaise explore his beliefs about seeking approval.",
-                "Encourage him to consider the evidence for and against his core beliefs of being unlovable and needy.",
-                "Guide him in identifying cognitive distortions in his automatic thoughts."
+                "Guide Blaise to challenge catastrophic thoughts, such as his concerns about being unlovable.",
+                "Encourage him to reframe these thoughts by assessing their validity and considering more balanced perspectives."
               ]
             },
             {
-              "technique_name": "Examining Underlying Beliefs",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Facilitate a deeper discussion about Blaise's belief that he must seek familial approval.",
-                "Help him connect this belief to his feelings of anxiety and frustration.",
-                "Encourage him to articulate how these beliefs influence his current behaviors and emotions."
+                "Assist Blaise in creating a detailed pros and cons list regarding his need for familial approval.",
+                "Encourage him to reflect on how this need affects his emotional well-being and interpersonal relationships."
+              ]
+            },
+            {
+              "technique_name": "Evidence-Based Questioning",
+              "instructions_for_therapist": [
+                "Challenge Blaise's beliefs about needing familial approval by asking for evidence supporting his thoughts.",
+                "Encourage him to consider alternative interpretations of his experiences and feelings."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Blaise's ambivalence regarding familial relationships, I first recognized the need to explore his mixed feelings and enhance his motivation for change. Using Motivational Interviewing (MI) strategies, I initiated a dialogue that allows Blaise to openly express his conflicting desires for approval versus the distress he experiences. This exploration encourages him to engage in change talk, reinforcing his motivations for healthier dynamics. I also introduced decisional balance discussions, prompting him to evaluate the consequences of his current behaviors against his values of self-worth. Simultaneously, I incorporated Cognitive Behavioral Therapy (CBT) techniques focusing on Socratic questioning, guiding him through his beliefs about approval-seeking. This approach allows Blaise to critically assess the validity of his core beliefs and identify cognitive distortions. By facilitating this reflective process, I aim to help him recognize the links between his beliefs, emotions, and behaviors, ultimately fostering insight and empowering him towards change while respecting his current ambivalence.",
-        "progress_marker": "Blaise articulates at least one reason for wanting to change his relationship dynamics and identifies a cognitive distortion related to his belief of needing approval."
+        "therapist_reasoning": "In this session, I will first focus on exploring Blaise's ambivalence regarding his familial relationships, as he is currently in the contemplation phase. By using motivational interviewing strategies like exploring ambivalence and developing discrepancy, I aim to help him articulate his conflicting feelings and recognize how his current behavior of seeking approval impacts his values and emotional state. This will involve engaging him in a decisional balance discussion to weigh the pros and cons of his actions. Simultaneously, I will employ CBT techniques such as decatastrophizing and evidence-based questioning to challenge his core beliefs about being unlovable and needing approval. This approach aligns with his resistance profile, addressing his ambivalence in a gentle manner while fostering self-efficacy. By encouraging reflection and insight without pushing for immediate action, I can help Blaise strengthen his motivation for change and begin to restructure his unhelpful thoughts.",
+        "progress_marker": "Blaise expresses clearer understanding of his ambivalence and articulates at least one value that conflicts with his current behavior."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity about my feelings towards my family and the patterns I keep repeating.",
+        "client_objective": "I want to explore my feelings about my family and understand why I keep seeking their approval.",
         "client_state": {
-          "awareness": "I'm starting to see that my need for approval from my family is linked to my father's behavior, and it's causing me anxiety and frustration.",
-          "motivation": "I want to change my relationship dynamics, but I’m unsure if it's worth the effort or if I can really make a difference.",
-          "openness": "I feel somewhat willing to share my thoughts and emotions with my therapist, but I still struggle with fully expressing my fears.",
-          "resistance": "I often find myself doubting whether change is possible, which makes me hesitant to fully engage in the process."
+          "awareness": "I am starting to see that my need for approval from my family is causing me more anxiety and frustration.",
+          "motivation": "I feel torn; part of me wants to change these unhealthy dynamics, but another part is scared of being alone or rejected.",
+          "openness": "I am willing to talk about my experiences, but I still hesitate to fully express my deeper feelings.",
+          "resistance": "I find myself doubting whether I can really make a change, and I often defend my current behaviors even when they hurt me."
         },
-        "client_reasoning": "Lately, I've begun to realize that my constant need for approval from my family is not just a personal quirk; it seems deeply rooted in my father's behavior. This realization is both enlightening and daunting. I see patterns emerging that I can't ignore, but at the same time, I feel conflicted. Change feels necessary, yet I question whether I can actually break free from these unhealthy dynamics. There's a part of me that fears abandoning these relationships entirely, worried that I'll end up alone or unwanted. I know I should focus on my feelings, but I often get pulled back into the same arguments and emotional stress. Therapy has helped me reflect on these thoughts, yet I still feel a tug-of-war within myself about whether to pursue change or stay in my comfort zone, even if it’s painful."
+        "client_reasoning": "Lately, I've been reflecting a lot on my family relationships, especially how much I mirror my father's need for approval. I recognize that this pattern isn't working for me, yet I still struggle with the idea of change. It feels like I’m caught in a cycle of seeking validation from people who seem to only bring me distress. I want to believe that I can break free from this, but I also fear that if I stop trying to gain their approval, they might abandon me. Therapy has opened my eyes to these thoughts, but I often catch myself reverting to old habits during difficult conversations with my family. I know I should be focusing on my feelings about them, but I can't help but feel like I’m just repeating the same arguments, which makes it hard to find a way forward."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Blaise hasn't fully articulated reasons for wanting to change yet. client objective not met: Blaise is still struggling with clarity about family dynamics.",
-          "client_utterance": "I keep thinking about how I feel trapped in this need for approval, especially since it seems tied to my dad. It's like I want to break free from it, but part of me doubts I can really change anything. Sometimes I feel like maybe I'm just destined to repeat these patterns.",
-          "therapist_utterance": "It sounds like you're feeling a strong sense of entrapment in this cycle of seeking approval, and there's a conflict between wanting to change and doubting your ability to do so. What do you think might happen if you were to take steps toward changing those patterns? What would that look like for you?",
-          "therapist_use": "Open-ended question: encouraged Blaise to envision potential changes and consider the impact of his actions."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Blaise has not fully articulated his core values. The client objective was not met as Blaise still hesitates to express deeper feelings.",
+          "client_utterance": "I’m starting to feel like I want to change, but it’s hard to know how. I keep thinking about how my dad always seeks approval, and I realize I might be doing the same thing. I don’t want to feel this pressure, but I worry about what that means for my family relationships.",
+          "therapist_utterance": "It's really insightful that you're recognizing the connection between your father's behavior and your own. What are some values that you hold dear that might contrast with this need for approval? It could help to clarify what really matters to you beyond family expectations.",
+          "therapist_use": "Exploring Ambivalence: Encouraged Blaise to reflect on his values and how they differ from his current behaviors."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Blaise hasn't identified any empowering moments. client objective not met: Blaise is still unclear about his feelings towards his family dynamics.",
-          "client_utterance": "I guess if I were to change things, I'd want to feel more in control of my reactions instead of just reacting out of fear. But I worry that speaking up could lead to more conflict. It makes me hesitant to take that step.",
-          "therapist_utterance": "It’s understandable to feel hesitant, especially when change could lead to conflict. Yet, it sounds like you want more control over your reactions, which is a powerful insight. Can you think of a time when you felt empowered in a difficult situation with your family?",
-          "therapist_use": "Eliciting change talk: aimed to draw out Blaise’s past experiences of empowerment to inspire motivation."
+          "reason_for_ending": "KEEP - The therapist's objective was not met since Blaise has not yet developed a clear understanding of his values. The client objective was not met as Blaise still holds back from fully exploring his feelings.",
+          "client_utterance": "I guess my value of being true to myself clashes with always trying to please my family. But it’s scary to think about what that might look like, especially if they don’t accept me as I am. I feel like I’m stuck between wanting to be myself and fearing rejection.",
+          "therapist_utterance": "That conflict is really significant, and it's understandable to feel torn. What do you think would happen if you leaned more into being true to yourself? How might that impact your relationships with your family?",
+          "therapist_use": "Developing Discrepancy: Helped Blaise articulate his core values and recognize the conflict with his current behavior."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Blaise hasn't yet connected his feelings of empowerment to family dynamics. client objective not met: Blaise still feels conflicted about change.",
-          "client_utterance": "There’s this one time when I stood up for myself about something small, and it felt good. But then I second-guessed myself afterward and thought maybe I was being unreasonable. It’s like I can see the potential for change, but I doubt it will last.",
-          "therapist_utterance": "That moment of standing up for yourself is significant, and it shows that you do have the ability to advocate for your needs. It’s normal to second-guess yourself, especially when it comes to family dynamics that have been established for so long. What do you think holds you back from trusting that feeling of empowerment?",
-          "therapist_use": "Socratic questioning: aimed to help Blaise explore his doubts and the reasons behind his hesitance."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Blaise hasn't fully explored the consequences of these conflicts. The client objective was not met because Blaise still feels hesitant about change.",
+          "client_utterance": "If I focus on being myself and stop seeking their approval, I might feel a sense of freedom. But then I worry that I could end up alone or that my family would resent me for not trying harder. It’s frustrating to think about all these ‘what ifs’.",
+          "therapist_utterance": "Those ‘what ifs’ can be overwhelming. It might help to think about the pros and cons of changing your approach to your family relationships. What are some benefits you can see if you were to shift your focus away from their approval?",
+          "therapist_use": "Decisional Balance Discussion: Facilitated a discussion about the pros and cons of changing his approach to familial relationships."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Blaise has not yet examined his beliefs about approval seeking. client objective not met: Blaise is still struggling to clarify his feelings.",
-          "client_utterance": "I think it’s just that I’ve always been taught to value approval, so it feels ingrained in me. I feel unlovable if I don’t get it, which is why I keep seeking it. It’s frustrating because I want to break that cycle.",
-          "therapist_utterance": "It sounds like your beliefs about approval are deeply rooted, influencing how you perceive your self-worth. Recognizing that pattern is a crucial step toward change, but it must feel frustrating to confront. How do you think this belief impacts your current relationships and your feelings of anxiety?",
-          "therapist_use": "Decisional balance discussion: facilitated exploration of the impact of approval-seeking beliefs on relationships."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Blaise has not yet listed specific pros and cons. The client objective was not met since Blaise is still grappling with the fear of change.",
+          "client_utterance": "The benefits might be feeling less anxious and more in control of my emotions. But the cons are definitely the fear of rejection and feeling like I might lose my family's support. It’s hard to balance those feelings.",
+          "therapist_utterance": "It's great that you can identify both sides of this struggle. How does the possibility of feeling less anxious resonate with you compared to the fear of rejection? It could help to weigh these feelings more specifically.",
+          "therapist_use": "Pros and Cons Analysis: Assisted Blaise in creating a detailed pros and cons list regarding his need for familial approval."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Blaise has not yet weighed the pros and cons of his current dynamics. client objective not met: Blaise still needs more clarity about his feelings.",
-          "client_utterance": "I think it creates this constant state of anxiety because I’m always worried about what they think of me. I know it’s not healthy, but I struggle to see a different way of being. What if I lose their love?",
-          "therapist_utterance": "Your concern about losing their love is valid and reflects the deep emotional ties you have. It seems like that fear can keep you stuck in a cycle of anxiety and approval-seeking. If you weigh the pros and cons of staying in that dynamic versus pursuing a healthier approach, what do you come up with?",
-          "therapist_use": "Decisional balance discussion: encouraged Blaise to evaluate the benefits and drawbacks of his current relationship dynamics."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Blaise has not yet fully confronted his fears. The client objective was not met since Blaise still feels conflicted about change.",
+          "client_utterance": "I think the idea of being less anxious really appeals to me, but I still can’t shake off the fear that my family will see me differently. I guess I’m just really afraid of being alone in this. I wish I could see a way to change without feeling so lost.",
+          "therapist_utterance": "That fear of being alone is very valid, especially when considering changes in family dynamics. What evidence do you have that changing your approach might lead to abandonment? Challenging those thoughts could help you find a more balanced perspective.",
+          "therapist_use": "Evidence-Based Questioning: Challenged Blaise's beliefs about needing familial approval by asking for evidence."
         },
         {
-          "reason_for_ending": "KEEP; therapist objective not met: Blaise has not yet identified other options for healthier relationships. client objective not met: Blaise still has not reached clarity on his feelings.",
-          "client_utterance": "I guess on one hand, I fear losing their love, but on the other, I hate feeling this way all the time. It’s exhausting to keep seeking their validation. Maybe I could try to be more assertive, but it’s just scary to think about.",
-          "therapist_utterance": "It's insightful that you're recognizing both the fear of losing love and the exhaustion from seeking validation. Those conflicting feelings are a lot to navigate. What small step do you think you could take towards being more assertive, even if it feels scary?",
-          "therapist_use": "Open-ended question: prompted Blaise to consider actionable steps toward assertiveness despite his fears."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Blaise has not yet provided evidence for his fears. The client objective was not met because Blaise continues to struggle with his thoughts and feelings.",
+          "client_utterance": "I don't really have solid evidence; it’s more of a feeling than anything. But I guess I could think about times when I felt accepted for who I am, even if it wasn’t from my family. That might help me see things differently.",
+          "therapist_utterance": "That's a positive step, Blaise, to consider times when you felt accepted for who you are. Reflecting on those experiences can help you build a stronger sense of self outside of your family's approval. How might those moments guide you toward feeling more secure in your identity?",
+          "therapist_use": "Decatastrophizing: Guided Blaise to challenge catastrophic thoughts and consider alternative interpretations."
         },
         {
-          "reason_for_ending": "MOVE; therapist objective met: Blaise began to articulate reasons for wanting to change and reflected on his feelings. client objective met: Blaise gained clarity about his feelings regarding family dynamics.",
-          "client_utterance": "I think I could try to have an honest conversation with my family about how I feel. It might be uncomfortable, but maybe it’s worth trying to express my needs. I can see that change is possible if I take that step.",
-          "therapist_utterance": "That’s a powerful realization, Blaise! Taking the step to have an honest conversation is a significant move toward asserting your needs and breaking the cycle of seeking approval. It sounds like you’re beginning to see the potential for healthier dynamics and valuing your feelings more.",
-          "therapist_use": "Eliciting change talk: reinforced Blaise's motivation to express his needs and take a step towards change."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Blaise has articulated a clearer understanding of his ambivalence. The client objective was met as Blaise is beginning to recognize his own values and how they differ from his current behavior.",
+          "client_utterance": "I think if I focus more on those moments of acceptance, I could start to redefine how I see myself. It feels like a step toward breaking free from this cycle of seeking approval. I’m starting to realize that I don’t want to be stuck anymore.",
+          "therapist_utterance": "That's a significant breakthrough, Blaise! It sounds like you're ready to take steps towards embracing your true self, which is a powerful realization. How might you start implementing that shift in your relationships with your family?",
+          "therapist_use": "Encouragement of Insight: Reinforced Blaise's understanding of his values and readiness for change."
         }
       ]
     },
@@ -238,22 +254,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Blaise's commitment to change and reinforce his motivation to address familial relationships.",
+          "objective": "Strengthen Blaise's commitment to change and explore his readiness.",
           "strategies": [
             {
-              "strategy_name": "Strengthening Commitment Language",
+              "strategy_name": "Commitment Language",
               "instructions_for_therapist": [
-                "Ask Blaise to articulate his reasons for wanting to change his relationship dynamics with his family and encourage him to express these aloud.",
-                "Utilize reflective listening to emphasize his commitment to making these changes.",
-                "Encourage Blaise to set a specific date by which he intends to initiate discussions with family members."
+                "Encourage Blaise to articulate his reasons for wanting to change, focusing on personal values and goals.",
+                "Ask open-ended questions about his feelings towards making changes in familial relationships.",
+                "Reinforce any expressions of commitment by summarizing his statements and reflecting back his motivations."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss with Blaise his confidence in being able to make these changes, using a scale from 1-10 to gauge his readiness.",
-                "Explore what factors contribute to his confidence level and identify any small steps that could enhance it.",
-                "Highlight past successes in similar situations to reinforce his capability."
+                "Utilize scaling questions (e.g., on a scale of 1-10, how ready do you feel to address your family dynamics?).",
+                "Discuss what would increase his confidence and readiness to take action.",
+                "Highlight past successes in similar situations to build belief in his ability to change."
               ]
             }
           ]
@@ -263,78 +279,77 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Facilitate a collaborative discussion where Blaise can outline specific, achievable steps he plans to take in approaching his family about his feelings.",
-                "Encourage him to identify potential barriers he might face and brainstorm coping strategies for each barrier.",
-                "Create a timeline for these actions to ensure gradual implementation."
+                "Collaboratively develop an action plan that includes specific, small steps Blaise can take to address family dynamics.",
+                "Identify realistic timelines for each step, ensuring they are manageable.",
+                "Discuss potential barriers to these steps and collaboratively brainstorm coping strategies."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Work with Blaise to develop a list of healthy coping strategies he can use when faced with anxiety or anger during family interactions.",
-                "Practice role-playing scenarios to help him rehearse these strategies in a safe environment.",
-                "Discuss the importance of self-compassion and recognizing progress to foster resilience."
+                "Guide Blaise through a structured problem-solving process for issues related to family interactions.",
+                "Encourage him to identify specific problems, generate potential solutions, evaluate them, and decide on a course of action.",
+                "Reinforce the importance of flexibility and adjusting plans as needed."
               ]
             }
           ]
         },
-        "therapist_reasoning": "Starting with Blaise's commitment to change, I will employ motivational interviewing strategies to enhance his motivation and readiness. By using strengthening commitment language, I will encourage him to vocalize his reasons for wanting to alter his family dynamics. This engagement will help solidify his resolve. Additionally, exploring his confidence and readiness will allow us to identify areas for improvement, making the process feel less overwhelming. For the cognitive-behavioral therapy component, I will focus on action planning, where Blaise can outline specific, manageable steps towards his goal. This will be complemented by coping strategy development, equipping him with tools to handle anxiety and anger. These interventions are tailored to his ambivalence and indirect resistance, ensuring they are collaborative, gradual, and achievable, ultimately fostering self-efficacy.",
-        "progress_marker": "Blaise will aim to initiate a structured conversation with at least one family member by the next session and will report on his feelings and the outcomes of that interaction."
+        "therapist_reasoning": "In this session, my first step is to strengthen Blaise's commitment to change by applying MI strategies, specifically focusing on commitment language. I will encourage him to express his motivations for change, which will help him clarify his personal values. This will likely increase his internal motivation and provide a foundation for our work. Next, I will explore his confidence and readiness by using scaling questions. This approach will help identify where he currently stands and what factors contribute to his ambivalence. Transitioning to CBT, I will focus on action planning, collaboratively developing specific and realistic steps that Blaise can take to improve his familial relationships. This will be essential in addressing his core beliefs about needing familial approval. Additionally, I will incorporate problem-solving skills training to equip him with strategies to tackle challenges in family interactions. This two-pronged approach combines MI's focus on motivation with CBT's emphasis on actionable steps, addressing his resistance and ambivalence while reinforcing his capacity for change.",
+        "progress_marker": "Blaise identifies at least two specific actions he is willing to take within the next week to address family dynamics."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to gain clarity on my feelings about family dynamics and find effective ways to approach change.",
+        "client_objective": "I hope to find effective strategies to manage my feelings about my family and improve our relationships.",
         "client_state": {
-          "awareness": "I recognize that my constant search for approval from my family is unhealthy and contributes to my anxiety and frustration.",
-          "motivation": "I feel increasingly motivated to change my patterns and seek healthier relationships, despite my fears.",
-          "openness": "I am willing to discuss my thoughts and emotions with my therapist and explore different strategies for coping.",
-          "resistance": "I still experience doubts about my ability to change and worry about encountering the same conflicts with my family."
+          "awareness": "I recognize that my need for approval from my family is unhealthy and causes me anxiety and frustration.",
+          "motivation": "I feel a strong desire to break free from these patterns and create a healthier dynamic with my family.",
+          "openness": "I'm willing to explore my thoughts and emotions with my therapist, although I still have some reservations about discussing my fears.",
+          "resistance": "I experience some ambivalence about change, feeling torn between wanting to improve my situation and fearing that I won't succeed."
         },
-        "client_reasoning": "I've come to understand that my need for approval from my family is deeply rooted and often leads to feelings of helplessness. The recent conversations about my wedding list made me realize that I don't want to repeat my father's pattern of seeking love and validation from those who may not reciprocate. I believe that change is necessary for my mental well-being, and I'm starting to feel hopeful about the possibility of healthier family dynamics. However, I still have fears about whether I can maintain this change and doubts about my ability to handle potential pushback from my family. Therapy has helped me see that I have options and that it's okay to prioritize my feelings, which makes me feel more ready to act, even if I'm still a bit apprehensive about the journey ahead.",
-        "progress_marker": "Client is starting to visualize potential coping strategies and is ready to explore them in therapy."
+        "client_reasoning": "I've come to see that my reliance on my family's approval isn't providing the comfort I thought it would. It only adds to my stress and anxiety, especially after the recent conversation about the wedding list. I understand that I cannot keep repeating the same patterns and expect different outcomes. Change feels necessary because I want to feel valued for who I am, rather than for how well I can seek approval. I hope to learn how to set healthier boundaries and express my feelings without fear of rejection. However, I still worry that I'll fall back into old habits or that my family won't respond positively to my attempts at change. Therapy has helped me see these issues more clearly, and for the first time, I feel a spark of hope that I can create a different reality for myself."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because Blaise hasn't articulated specific reasons for change yet. Client objective not met as Blaise is still exploring his thoughts.",
-          "client_utterance": "I've been thinking more about that conversation I want to have with my family. I know it’s important, but I still feel like I might not have the words to express how I truly feel. I keep worrying about how they’ll react and whether it will just lead to more conflict.",
-          "therapist_utterance": "It sounds like you're feeling a mix of determination and apprehension about that conversation. You're recognizing its importance, yet you're also concerned about your ability to communicate effectively. Can you think of one reason why having this conversation is important to you?",
-          "therapist_use": "Open-ended question: aimed at prompting Blaise to articulate his reasons for change."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Blaise has not yet articulated specific actions he is willing to take. The client's objective was not met as he has not yet identified strategies to manage his feelings about his family.",
+          "client_utterance": "I've been thinking about how I can start to change things with my family. I want to talk to them more about how I feel, but I'm really scared they won't understand. I'm also worried about what it means for our relationship if I set boundaries.",
+          "therapist_utterance": "It's understandable to feel scared about how your family will react, especially when discussing your feelings and setting boundaries. What do you think would be the first step you could take in expressing how you feel to them? It might help to think about a specific situation where you could start this conversation.",
+          "therapist_use": "Open-ended question: encouraged Blaise to think about specific actions he can take."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Blaise hasn't set a timeline for the conversation. Client objective not met since Blaise is still hesitant about expressing feelings.",
-          "client_utterance": "I guess it's important to me because I want to feel accepted for who I am, not just what they want me to be. But even saying that feels intimidating. I’m not sure how to start that conversation without it turning into an argument.",
-          "therapist_utterance": "You’re expressing a strong desire for acceptance, which is a meaningful motivation. It’s understandable to feel intimidated about the start; perhaps we can explore how you might initiate that conversation. What if you were to choose a specific day to bring this up with them?",
-          "therapist_use": "Strengthening Commitment Language: encouraging Blaise to set a specific date for initiating conversation."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Blaise has not yet identified concrete steps he is willing to take. The client's objective was not met since he hasn't yet expressed a clear desire to manage his feelings.",
+          "client_utterance": "I guess I could bring up the wedding list conversation since that seemed to stir up a lot of emotions for me. But what if they just dismiss my feelings? I don't want to be rejected again.",
+          "therapist_utterance": "It sounds like the wedding list conversation was a pivotal moment for you. Fearing rejection is natural, but it might be helpful to think about how you can frame your feelings in a way that invites understanding rather than defensiveness. What could you say that would help them see your perspective?",
+          "therapist_use": "Exploring feelings: encouraged Blaise to consider how to communicate his feelings to foster understanding."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because Blaise hasn't committed to a specific date. Client objective not met as he still feels unsure about taking that step.",
-          "client_utterance": "Setting a date sounds helpful, but I keep thinking about how they might react. I want to be brave, but I also feel like I could fall back into my old patterns of just avoiding it. I need to believe that I can handle whatever comes after I talk to them.",
-          "therapist_utterance": "It's completely normal to have those fears, but recognizing them is a step toward empowerment. You've identified that bravery is important to you; let’s talk about what makes you feel confident in those moments. Can you rate your confidence in having this conversation on a scale of 1 to 10?",
-          "therapist_use": "Exploring Confidence and Readiness: using a scale to gauge Blaise's confidence in making changes."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Blaise has not yet defined a clear action plan. The client's objective was not met as he continues to express reservations about sharing his feelings.",
+          "client_utterance": "I could say something like, 'I felt overwhelmed when discussing the wedding list because I feel pressure to please everyone.' But I’m still worried they won't take me seriously. What if they just brush it off?",
+          "therapist_utterance": "That’s a good start, Blaise. By expressing how you felt overwhelmed, you're sharing your experience without placing blame. It might also help to think about how you can ask for their support in understanding your feelings. What kind of support would you hope to receive from them?",
+          "therapist_use": "Reflective listening: validated Blaise's feelings while encouraging him to seek support."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Blaise hasn't identified specific confidence-boosting factors. Client objective not met since he's still struggling with his readiness.",
-          "client_utterance": "I think I’d rate it around a 4. I know I want to do this, but I still feel overwhelmed. It’s hard to shake the fear that it won’t go well, and I might end up feeling worse afterward.",
-          "therapist_utterance": "A 4 is a good start, and it shows that you’re aware of the challenges ahead. Let’s explore what might help boost your confidence to a higher number. What has helped you feel more prepared in past situations where you had to speak up?",
-          "therapist_use": "Reflective listening: focused on acknowledging Blaise's feelings while encouraging him to identify past successes."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Blaise has not yet expressed specific support needs from his family. The client's objective was not met as he hasn't yet solidified a plan to manage his relationship dynamics.",
+          "client_utterance": "I think I’d want them to acknowledge my feelings and maybe not put so much pressure on me. But I fear that if I ask for that, they might feel offended. I don’t know how to navigate that without causing conflict.",
+          "therapist_utterance": "You’re recognizing a complex dynamic where your needs might clash with their expectations. It’s okay to want acknowledgment without causing conflict. How might you express your needs while also showing understanding for their perspective? Finding common ground can be key.",
+          "therapist_use": "Encouraging common ground: helped Blaise think about balancing his needs with family dynamics."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Blaise hasn't identified past successes. Client objective not met since he still feels uncertain about his ability to change.",
-          "client_utterance": "There was that time I managed to express a small concern about my plans, and it went okay. I felt proud of myself then, but it’s hard to remember that feeling when I think about my family. I just don’t want to let myself down or get hurt.",
-          "therapist_utterance": "That’s a significant moment, and it shows you have the ability to express your needs. Remembering that success can help build your confidence for this upcoming conversation. How might you remind yourself of that feeling if doubts start to creep in again?",
-          "therapist_use": "Coping Strategy Development: encouraging Blaise to recall past successes as a confidence boost."
+          "reason_for_ending": "KEEP - The therapist's objective was not met since Blaise has not yet developed a clear action plan involving family discussions. The client's objective was not met as he remains uncertain about how to communicate effectively.",
+          "client_utterance": "I could try to start the conversation by asking them how they feel about the wedding list too, to open up the dialogue. But I still worry they might just focus on their opinions again and not really hear me.",
+          "therapist_utterance": "That’s an excellent strategy to open up the conversation. By inviting their feelings, you create space for a two-way dialogue. It may help to set an intention for the conversation, like expressing a desire for understanding. How does that sound to you?",
+          "therapist_use": "Action planning: encouraged Blaise to think of strategies for initiating a dialogue with his family."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because Blaise hasn't developed specific coping strategies. Client objective not met as he remains unsure about handling potential pushback.",
-          "client_utterance": "I could try to remind myself that I handled it well last time and that it’s okay to be vulnerable. But I still worry about how they’ll respond. What if they dismiss my feelings again?",
-          "therapist_utterance": "It's natural to worry about their response, but validating your feelings is important regardless of their reaction. Let’s brainstorm some coping strategies you can use in the moment, should you feel dismissed or anxious. What are some ways you might practice self-compassion during that conversation?",
-          "therapist_use": "Action Planning: collaborating on specific coping strategies for handling anxiety during family interactions."
+          "reason_for_ending": "KEEP - The therapist's objective was not met since Blaise has not yet committed to specific actions he is willing to take within a timeline. The client's objective was not met as he hasn't yet expressed confidence in managing family dynamics.",
+          "client_utterance": "It sounds good, but I still have doubts about whether they'll really listen. Maybe I can try this conversation next week? I just really hope it goes well.",
+          "therapist_utterance": "Next week sounds like a reasonable timeline, and it's great that you’re considering taking this step. It’s normal to feel doubt, but remember your motivation for change. What can you do to prepare yourself emotionally for this conversation?",
+          "therapist_use": "Preparation: helped Blaise think about emotional readiness for the conversation."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Blaise has articulated reasons for change and discussed coping strategies. Client objective met as he has a clearer plan for approaching family dynamics.",
-          "client_utterance": "I think I can remind myself that my feelings matter and that I deserve to express them. I feel more prepared to talk to my family now, even if it’s still a bit scary. I’ll aim to have that conversation by next week.",
-          "therapist_utterance": "That’s fantastic, Blaise! Setting a goal to have that conversation next week is a great step forward. You’re recognizing your worth and preparing to express it, which is a huge accomplishment. I’m looking forward to hearing how it goes in our next session.",
-          "therapist_use": "Affirmation and goal setting: reinforcing Blaise's commitment and preparing for future discussions."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Blaise has articulated a specific action plan to address family dynamics. The client's objective was met as he has identified steps to manage feelings about his family.",
+          "client_utterance": "I’ll take some time to reflect on what I want to say and practice it out loud. I feel a bit more confident about approaching this conversation now that I have a plan.",
+          "therapist_utterance": "That’s a wonderful approach, Blaise! Practicing what you want to say can help you feel more prepared and confident. Remember that it's okay to express your feelings even if it feels uncomfortable. You’re making significant progress.",
+          "therapist_use": "Reinforcement: validated Blaise's commitment to practice and prepared him for the conversation."
         }
       ]
     }

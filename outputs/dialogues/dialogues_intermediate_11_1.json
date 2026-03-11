@@ -12,34 +12,36 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport with Ian and increase his awareness of his thoughts and feelings.",
+          "objective": "To foster an environment of trust and exploration, allowing Ian to express his feelings and thoughts without pressure to change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Use reflective responses to acknowledge Ian's feelings of frustration and loneliness.",
-                "Paraphrase his statements to show understanding and validation of his emotional experience."
+                "Listen actively to Ian's concerns and feelings.",
+                "Paraphrase his statements to show understanding and validate his emotions.",
+                "Encourage him to elaborate on his experiences and feelings."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Convey empathy towards Ian's experience of depression and his feelings of being misunderstood.",
-                "Normalize his feelings of isolation and the struggle he faces in reaching out to friends."
+                "Acknowledge Ian's feelings of frustration and isolation.",
+                "Communicate understanding of his experiences with depression and recent breakup.",
+                "Create a safe space where he feels his feelings are valid."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the disconnect between Ian's current feelings of helplessness and his personal values around connection and support.",
-                "Ask open-ended questions to help him reflect on how his current behaviors may not align with his desire for connection."
+                "Help Ian explore the contrast between his current feelings of helplessness and his underlying values of connection and understanding.",
+                "Ask open-ended questions that prompt Ian to reflect on what he wants versus what he currently experiences."
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Encourage Ian to observe his thoughts and emotions during social interactions without judgment.",
-                "Facilitate a discussion on how his automatic thoughts may be contributing to his feelings of isolation."
+                "Gently encourage Ian to reflect on his thought patterns and how they may affect his feelings.",
+                "Discuss the idea that awareness can be the first step towards understanding his situation."
               ]
             }
           ]
@@ -47,84 +49,92 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Ian in identifying and articulating automatic thoughts that arise during social interactions.",
-                "Help him recognize patterns in his thinking that contribute to feelings of unlovability and helplessness."
+                "Ask Ian questions that prompt him to provide evidence for his beliefs about himself and his social interactions.",
+                "Encourage him to consider alternative explanations for his feelings of being unlovable or misunderstood."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Introduce cognitive distortions (e.g., mind reading, all-or-nothing thinking) and help Ian identify these in his thoughts.",
-                "Encourage him to question the validity of these thoughts and explore alternative perspectives."
+                "Encourage Ian to test the reality of his automatic thoughts, such as feeling that nobody likes him.",
+                "Ask him to reflect on past interactions that contradict this belief."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Explore the contexts in which Ian withdraws from social interactions, examining triggers and outcomes.",
-                "Discuss what he hopes to achieve from interactions and how his current approach may not be fulfilling those needs."
+                "Invite Ian to consider how a close friend might view his struggles or feelings.",
+                "Help him to identify positive feedback he may have received from others, focusing on moments where he felt supported."
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Guide Ian to rate his feelings of connection and loneliness on a scale from 1 to 10.",
+                "Encourage him to explore what factors contribute to his position on the scale."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Ian's pre-contemplation phase, the focus must be on building rapport and fostering awareness without pressuring him for change. I will utilize reflective listening to validate his feelings of frustration and loneliness, which helps to establish a trusting therapeutic relationship. Expressing empathy towards his struggles with depression will further demonstrate understanding and may reduce defensiveness. By developing discrepancies between Ian's feelings of helplessness and his values of connection, I can encourage him to reflect on his current behaviors. Raising awareness of his automatic thoughts during social interactions will be critical; I will support him in identifying these thoughts without suggesting immediate change. In the CBT component, I will help Ian recognize cognitive distortions that may be contributing to his negative self-beliefs. A functional analysis of his withdrawal behaviors will elucidate the triggers and outcomes of his social interactions, fostering insight into how these patterns affect his emotional state. Overall, the plan is designed to increase Ian's self-awareness and facilitate a deeper understanding of his experiences, setting the groundwork for future exploration of change.",
-        "progress_marker": "Ian expresses more awareness of his thoughts and feelings during sessions and shows some willingness to discuss his experiences without defensiveness."
+        "therapist_reasoning": "In this therapy plan, the focus is on establishing rapport and increasing Ian's awareness of his cognitive and emotional patterns. By employing Motivational Interviewing strategies like reflective listening, the therapist can validate Ian's feelings and demonstrate empathy, helping him feel understood. Expressing empathy is crucial in reducing his defensiveness, particularly given his resistance profile. Developing discrepancy will facilitate Ian's exploration of the gap between his current feelings of helplessness and his values, allowing him to reflect without pressure to change. In parallel, CBT techniques like evidence-based questioning will encourage Ian to challenge his negative beliefs about himself. Reality testing will help him evaluate his automatic thoughts, fostering a more balanced perspective. Alternative perspective techniques will guide him to consider how others perceive him, potentially countering his feelings of being unlovable. Lastly, the continuum technique aids in visualizing his feelings, promoting self-reflection without suggesting immediate changes. Collectively, these approaches aim to enhance Ian's self-awareness and willingness to engage in the therapeutic process.",
+        "progress_marker": "Ian expresses a greater understanding of his feelings and begins to articulate thoughts about his social interactions and beliefs without resistance."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I want to feel understood without being pressured to change right now.",
+        "client_objective": "I hope to just get through this conversation without feeling pressured to change.",
         "client_state": {
-          "awareness": "I know something is wrong, but I don't think it's a big deal or that I need to change.",
-          "motivation": "I don't really want to change; I just want to get through this without feeling judged.",
-          "openness": "I'm not very open to sharing my true feelings; it feels safer to keep things to myself.",
-          "resistance": "I feel pretty defensive about discussing my problems; I don't think the therapist really understands me."
+          "awareness": "I know something is wrong, but I don't think it's a big deal.",
+          "motivation": "I don't really want to change; it feels too overwhelming.",
+          "openness": "I'm not very willing to share my true feelings right now.",
+          "resistance": "I feel strongly against discussing my problems in detail."
         },
-        "client_reasoning": "I feel like I’m stuck in this dark place, but I don’t want to talk about it too much. It’s exhausting to think about changing. Honestly, I don’t think it’s possible for me to change; I’ve been like this for so long. When I try to explain how I feel, it seems like people just don’t get it, and that makes me feel even more alone. It's frustrating to feel like I’m being treated like a case rather than a person. I wish I could just talk about anything else, but it feels like there’s this weight I have to carry around. I know I should be open and honest, but it just feels safer to keep my struggles to myself. I’m not sure if therapy will help me or if I even want it to. What if it just makes things worse? I want to feel heard, but I don’t want anyone pushing me to change when I don’t even know if I want to."
+        "client_reasoning": "I know I’m supposed to be talking about my feelings, but honestly, it feels pointless. I mean, what’s the point of discussing my mental health when I already feel so hopeless? I believe that no one really understands what I’m going through anyway. When I talk to Jamie, I just feel like she sees me as a project, not as a friend, and it makes me want to shut down. It’s hard to open up when I feel like I’m just going to disappoint someone again. I don’t think I can change; I’ve been like this for so long, and even the idea of it makes me anxious. I just want to avoid the topic altogether, but I also feel like I have to say something, so I’m caught in this weird space where I don’t want to change but also can’t just sit here in silence. Therapy feels uncomfortable; it’s like I’m being poked at, but I don’t want to be. It’s safer to keep things inside and not risk feeling even more vulnerable.",
+        "progress_marker": "Client expresses feelings of frustration and defensiveness, indicating a lack of awareness and resistance to engaging deeply with the issues."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian hasn't shown increased awareness of his thoughts and feelings yet. The client's objective was not met because Ian still feels defensive and is not open to sharing.",
-          "client_utterance": "I don’t really get why I should even talk about this stuff. It feels like there’s no point, and honestly, it’s just exhausting. I mean, I know I’m not okay, but I don’t want to dig into it too much.",
-          "therapist_utterance": "It sounds like you're feeling really overwhelmed by the idea of talking about your struggles right now. It's understandable to feel that way, especially when it feels exhausting. Can you tell me more about what makes it feel pointless to you?",
-          "therapist_use": "Reflective listening: used to acknowledge Ian's feelings of exhaustion and overwhelm."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian did not openly discuss his feelings. The client's objective was not met as Ian still feels pressured and uncomfortable sharing.",
+          "client_utterance": "I don't really see the point in talking about this. I mean, it’s not like anything is going to change, right? It just feels like I’m going through the motions.",
+          "therapist_utterance": "I hear you, Ian. It can feel frustrating to engage in something that feels pointless. Can you share more about what makes it feel like nothing will change?",
+          "therapist_use": "Reflective Listening: to validate Ian's feelings and invite him to elaborate."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Ian has not yet expressed more awareness of his emotions. The client's objective was not met since he remains resistant and closed off about his feelings.",
-          "client_utterance": "I guess I just don’t want to feel judged for what I’m going through. It’s like, I know I should be better or something, but I don’t see the point in discussing it. It’s just the way things are for me.",
-          "therapist_utterance": "You're expressing that there's a fear of being judged, and it seems like that adds to your reluctance to open up. It’s okay to feel that way, and you're not alone in this experience. What would it take for you to feel a bit safer sharing your thoughts?",
-          "therapist_use": "Expressing empathy: used to normalize Ian's fear of judgment and to create a safe space for sharing."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian still seems resistant to exploring deeper feelings. The client's objective was not met as Ian continues to express discomfort with the conversation.",
+          "client_utterance": "It’s just that I feel stuck. Talking about my feelings doesn’t change how I feel. I just don’t want to dive into it and feel worse.",
+          "therapist_utterance": "That makes sense, feeling stuck can be really heavy. It's okay to not want to dive too deep right now. What do you think would help you feel more comfortable in this conversation?",
+          "therapist_use": "Expressing Empathy: to acknowledge Ian's feelings of being stuck and create a safe space."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian has not demonstrated increased self-awareness. The client's objective was not met because he is still resistant and doesn't want to engage deeply.",
-          "client_utterance": "I don’t know... I guess I just want to get through this without feeling like I have to change anything. Sometimes I think talking just makes it worse. It’s like, why bother?",
-          "therapist_utterance": "It sounds like you feel that talking about your feelings might not lead to any helpful change and could even make things harder for you. That frustration is completely valid. What do you think might happen if you explored your thoughts a little more, even if it's just a bit?",
-          "therapist_use": "Developing discrepancy: used to gently encourage Ian to reflect on the potential benefits of exploring his thoughts."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian did not articulate any preferences for the conversation. The client's objective was not met as Ian still feels pressured and overwhelmed.",
+          "client_utterance": "I don't know. I guess just not feeling like I have to say anything would help. But that feels impossible, right?",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure to speak when you’re not ready. It’s completely valid to want space. What do you think would happen if you could just sit with your feelings without needing to share them?",
+          "therapist_use": "Developing Discrepancy: to explore the contrast between Ian's feelings and his desire for comfort."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian has not yet shown willingness to explore his thoughts. The client's objective was not met because he remains defensive and closed off.",
-          "client_utterance": "Honestly, I just feel like no one really gets it. I try to explain, but it always feels like I’m just burdening people. I’d rather not talk about it if it just brings more frustration.",
-          "therapist_utterance": "It must be really tough to feel like sharing your experiences could burden others. That sense of isolation can be really heavy. I'm here to listen without any judgment, and you can share as much or as little as you want.",
-          "therapist_use": "Reflective listening: used to validate Ian's feelings of isolation while emphasizing a non-judgmental space."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian did not reflect on his desire for comfort. The client's objective was not met as Ian continues to express discomfort with the idea of sharing.",
+          "client_utterance": "I guess it would be nice to just not feel judged. But then again, I worry that if I don’t talk, I’ll just spiral down.",
+          "therapist_utterance": "It’s understandable to worry about spiraling if you don’t talk. Finding that balance between feeling safe and addressing your feelings can be difficult. Can we explore what that balance might look like for you?",
+          "therapist_use": "Raising Awareness: to encourage Ian to reflect on his thought patterns regarding sharing and judgment."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian has not increased his awareness of his emotions or thoughts. The client's objective was not met because he continues to feel defensive and resistant.",
-          "client_utterance": "I still feel like I’m stuck with this weight. It’s exhausting to think about it all the time. I don’t know how to get out of this cycle.",
-          "therapist_utterance": "It sounds like you're feeling really trapped right now, and that must be incredibly draining. Recognizing that feeling is an important step, even if it doesn't feel like a big change. What does this weight feel like for you? Can you describe it a bit more?",
-          "therapist_use": "Raising awareness: used to encourage Ian to observe and articulate his feelings without pressure to change."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian did not explore the balance further. The client's objective was not met as Ian still feels overwhelmed by the conversation.",
+          "client_utterance": "I don’t really know how to find that balance. It just feels like I’m constantly walking on eggshells.",
+          "therapist_utterance": "Walking on eggshells sounds really exhausting. It's tough to feel that way, especially when trying to figure things out. What if we took a moment to rate how connected or isolated you feel on a scale from 1 to 10?",
+          "therapist_use": "Continuum Technique: to help Ian visualize his feelings and promote self-reflection."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian has not yet expressed more awareness of his feelings. The client's objective was not met since he remains resistant and closed off about his thoughts.",
-          "client_utterance": "I don’t really want to dig too deep right now. It feels like there’s just too much to unpack, and I’m not ready for that. I just want to feel heard.",
-          "therapist_utterance": "I hear you saying that diving deeper feels overwhelming right now. It's completely okay to take things at your own pace and focus on just being heard. What if we took a moment to just acknowledge what you're feeling without any pressure to change?",
-          "therapist_use": "Expressing empathy: used to validate Ian's desire to be heard without pressure for change."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Ian did not engage with the rating exercise. The client's objective was not met as Ian remains resistant to the conversation.",
+          "client_utterance": "Honestly, I feel like a 3. I’m just not connecting with anyone, and I don’t think talking will change that.",
+          "therapist_utterance": "A 3 indicates a lot of loneliness. It’s tough to feel that way. Can we explore what influences that number for you? What might it take to move even slightly up the scale?",
+          "therapist_use": "Evidence-Based Questioning: to prompt Ian to provide evidence for his feelings of loneliness."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met as Ian has expressed increased awareness of his feelings of being overwhelmed. The client's objective was met because Ian feels heard and understood without pressure for change.",
-          "client_utterance": "Okay, I guess I can just say that things feel heavy for me. I don’t know what to do with that, but it’s good to just be able to say it out loud. I appreciate you listening.",
-          "therapist_utterance": "I'm really glad to hear you say that, Ian. Acknowledging the heaviness is an important step, and it shows you're starting to process what you're feeling. Whenever you're ready, we can continue exploring this together.",
-          "therapist_use": "Reflective listening: used to affirm Ian's expression of feelings and progress toward awareness."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Ian began to articulate his feelings and thoughts about connection. The client's objective was met as Ian engaged more openly without feeling pressured.",
+          "client_utterance": "I guess some days I do feel a little better, like when I talk to my family. But then I remember all the times I felt ignored.",
+          "therapist_utterance": "It’s great that you recognize those moments of connection, even if they feel overshadowed by the negatives. It shows there’s a part of you that values those connections. What would it look like to focus more on those positive interactions?",
+          "therapist_use": "Alternative Perspective: to help Ian consider positive feedback and moments of connection."
         }
       ]
     },
@@ -133,27 +143,28 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Ian's ambivalence towards change and strengthen his motivation to consider healthier connections.",
+          "objective": "Explore Ian's ambivalence about change and increase his motivation for addressing his mental health.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Facilitate a discussion about Ian's mixed feelings regarding his social interactions and mental health.",
-                "Encourage him to express both sides of his ambivalence by asking open-ended questions like, 'What do you see as the benefits of reaching out to friends, and what are the drawbacks?'"
+                "Encourage Ian to express his conflicting feelings about change.",
+                "Ask open-ended questions to facilitate discussion about what he values in life versus his current behavior.",
+                "Reflect back on his feelings to help him clarify his thoughts."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask Ian to reflect on the values that are important to him and how they might align or conflict with his current behavior.",
-                "Use prompts such as, 'What kind of support do you wish you had from friends?' and 'What would it mean for you to feel more connected?'"
+                "Prompt Ian to discuss any past experiences where he felt more in control or happy.",
+                "Encourage him to articulate reasons why he might want to change, emphasizing personal values and goals."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussions",
+              "strategy_name": "Decisional Balance Discussion",
               "instructions_for_therapist": [
-                "Guide Ian to weigh the pros and cons of his current behavior versus potential changes in his social interactions.",
-                "Utilize a simple pros and cons list to visually aid his understanding of what he stands to gain or lose."
+                "Guide Ian to list the pros and cons of staying in his current situation versus making changes.",
+                "Help him visualize the impact of each choice on his life and relationships."
               ]
             }
           ]
@@ -161,84 +172,79 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Socratic Questioning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Challenge Ian's negative automatic thoughts by asking guiding questions like, 'What evidence do you have that your friend doesn't care about you?'",
-                "Encourage him to explore alternative explanations for his friend's behavior."
+                "Help Ian identify his automatic thoughts that lead to feelings of helplessness.",
+                "Guide him through examining the likelihood of these thoughts being true and developing more balanced alternatives."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Help Ian recognize cognitive distortions in his thinking, such as 'all-or-nothing' thinking when he says, 'Nobody likes me.'",
-                "Discuss how these distortions impact his feelings and behavior, and work on reframing these thoughts."
+                "Facilitate a discussion where Ian identifies the benefits and drawbacks of his current coping strategies.",
+                "Encourage him to consider how these affect his mental health and relationships."
               ]
             },
             {
-              "technique_name": "Examining Underlying Beliefs",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Facilitate a dialogue about Ian's core beliefs regarding being unlovable and helpless.",
-                "Use reflective listening to validate his feelings while gently challenging these beliefs with alternative perspectives."
+                "Ask Ian to provide evidence for his core beliefs about being unlovable or helpless.",
+                "Challenge these beliefs by exploring counter-evidence from his life experiences."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Ian's ambivalence about change, I will first utilize motivational interviewing strategies to create a safe space for him to explore his mixed feelings. By exploring ambivalence, I aim to elicit change talk, prompting Ian to articulate his desires for connection while recognizing his fears. This aligns with his resistance profile, allowing him to feel understood rather than pressured. Additionally, I will employ decisional balance discussions to help him visualize the trade-offs of his current behaviors versus potential changes, facilitating a deeper understanding of his motivations. Simultaneously, I will integrate CBT techniques, such as Socratic questioning, to challenge his negative automatic thoughts and cognitive distortions. This will help him develop insights into the flaws in his reasoning, particularly regarding his feelings of being unlovable. By examining his underlying beliefs, I can support Ian in recognizing the impact of these beliefs on his emotions and behaviors, ultimately fostering a collaborative environment conducive to reflection and insight.",
-        "progress_marker": "Client shows increased willingness to discuss feelings and thoughts related to social interactions and demonstrates insight into the impact of cognitive distortions."
+        "therapist_reasoning": "In approaching Ian's therapy, I first recognized the importance of addressing his ambivalence toward change, which is a critical aspect of the contemplation phase. By employing Motivational Interviewing strategies, I focused on exploring his feelings about change, allowing him to articulate both his desire for improvement and his fears. This helps create a safe space for open dialogue. The use of eliciting change talk allows Ian to reflect on his values and past positive experiences, reinforcing motivation. Additionally, the decisional balance discussion assists him in weighing the pros and cons of his current situation versus potential changes, fostering insight. In tandem, I integrated CBT interventions to challenge his unhelpful thoughts. By using decatastrophizing, I aim to help him see the less catastrophic outcomes of change, while pros and cons analysis encourages a structured reflection on his coping strategies. Evidence-based questioning directly confronts his core beliefs, promoting cognitive restructuring. This combined approach is designed to facilitate Ian's reflection, insight, and ultimately, a strengthened sense of self-efficacy in facing his struggles.",
+        "progress_marker": "Ian has expressed a willingness to explore his feelings about change and has begun to identify both positive and negative aspects of his current behavior."
       },
       "client_plan": {
-        "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity on my feelings and start understanding what might help me change my situation.",
-        "client_state": {
-          "awareness": "I am starting to notice that my feelings of loneliness and sadness are connected to my interactions and my past experiences.",
-          "motivation": "I want things to be better, but I'm scared that change might not be possible for me.",
-          "openness": "I'm willing to talk about my thoughts and feelings, but I still feel guarded and unsure about sharing everything.",
-          "resistance": "I often feel frustrated and doubt whether the changes I need are even achievable, which makes me hesitant to fully commit."
-        },
-        "client_reasoning": "I've been reflecting on how my interactions with friends often leave me feeling worse, especially after my recent breakup. It’s like I can see that something isn’t right, yet I find it hard to imagine what change would look like for me. I feel a tug-of-war inside; part of me wants to reach out and connect, but the other part fears rejection or misunderstanding. I catch myself thinking that maybe I’m just not worth the effort, or that everyone sees me as unlovable. Therapy is helping me realize these patterns, but I still feel like my therapist is viewing me as just another case, which makes me hesitant to open up completely. I know I need to change something, but I’m terrified of what that might mean for me, and whether I’m capable of following through."
+        "awareness": "I can see that my feelings of isolation and helplessness are patterns that keep repeating, especially after my breakup and during interactions with friends.",
+        "motivation": "I want to change and feel better, but I'm not sure if I can or if it's worth the effort.",
+        "openness": "I'm starting to share more about my thoughts and feelings, but I still hold back because I worry that the therapist won't really understand me.",
+        "resistance": "I feel frustrated and resistant to the idea of change because it seems overwhelming and I doubt my ability to make any real progress."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Ian hasn't explored his ambivalence about social connections sufficiently. Client objective not met: Ian is still feeling guarded and unsure about expressing his feelings.",
-          "client_utterance": "I guess I’m still feeling really torn. I want to reach out to friends because I think it could help me feel less lonely, but I keep worrying that I'm just going to end up feeling rejected again.",
-          "therapist_utterance": "It sounds like there's a real struggle between wanting to connect and fearing that it might lead to hurt. What do you think would be the worst part about reaching out to them? And, on the flip side, what could be a potential benefit?",
-          "therapist_use": "Exploring Ambivalence: aimed to facilitate discussion about Ian's mixed feelings regarding social interactions."
+          "reason_for_ending": "KEEP - The therapist's objective of exploring ambivalence was not fully met as Ian hasn't articulated his conflicting feelings about change. The client's objective of expressing thoughts about isolation and helplessness was also not completely met since he has not yet identified specific values or goals.",
+          "client_utterance": "I guess I see some of those positive interactions, but they feel so fleeting. Most of the time, I just want to retreat back into my room and shut everyone out. It’s safer that way, you know? That makes me question if trying to connect is even worth it.",
+          "therapist_utterance": "It sounds like you're feeling torn between wanting connection and the safety of isolation. When you say it feels safer to shut people out, what do you think that protects you from? What would it mean for you to take a step towards connection, even if it's just a little one?",
+          "therapist_use": "Exploring ambivalence: encouraged Ian to express his conflicting feelings about connection versus isolation."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Ian hasn't articulated enough of his feelings regarding the benefits of connection. Client objective not met: Ian is still uncertain about what change would look like.",
-          "client_utterance": "Well, I think if I reached out, I could maybe feel supported, but I just don’t believe they’ll really care. It’s like I keep thinking, what’s the point if it’s just going to end up like before?",
-          "therapist_utterance": "It's understandable to feel that way, especially after past experiences. What would it mean for you to feel truly supported by your friends? Can you imagine how that might change how you feel?",
-          "therapist_use": "Eliciting Change Talk: encouraged Ian to reflect on his desires for connection and how they align with his feelings."
+          "reason_for_ending": "KEEP - The therapist's goal to help Ian articulate his values and motivations for change has not been fully achieved. Ian is still holding back on recognizing the benefits of connection and is not ready to explore how to take steps towards that goal.",
+          "client_utterance": "It's just that every time I reach out, I feel like I get let down. I want to believe it's worth the effort, but I can't shake the feeling that it won't change anything. I mean, what's the point in trying if I just end up feeling worse?",
+          "therapist_utterance": "That’s a valid concern, Ian. It makes sense to feel hesitant when past attempts have led to disappointment. Can you think of a time when reaching out felt rewarding, even if just for a moment? What was different about that experience?",
+          "therapist_use": "Eliciting change talk: prompted Ian to recall past experiences of connection to foster motivation."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Ian hasn't detailed the pros and cons of reaching out yet. Client objective not met: Ian is still expressing doubt about the possibility of positive change.",
-          "client_utterance": "I suppose feeling supported could be nice, but I just keep thinking nobody really sees me that way. It’s like I’m invisible, and what if they think I’m just being needy?",
-          "therapist_utterance": "It seems like you’re really worried about how others perceive your need for support. What if we looked at this together? Let’s list out what you might gain versus what you might lose by reaching out.",
-          "therapist_use": "Decisional Balance Discussions: aimed to help Ian visualize the trade-offs of his current behaviors versus potential changes."
+          "reason_for_ending": "KEEP - The therapist's objective of helping Ian visualize his values and motivations has not been fully met, as Ian is still struggling with the idea of reaching out. The client has not yet articulated clear reasons for change or identified specific values he might want to pursue.",
+          "client_utterance": "I remember talking to my family after my breakup, and it felt nice to be supported. But I always end up feeling like a burden. I don’t want to keep bothering them with my issues when they have their own lives to deal with.",
+          "therapist_utterance": "It’s understandable to feel like a burden, especially when you’re dealing with your own struggles. However, your family may want to support you more than you realize. What would it look like to communicate your needs to them without fearing you're being a burden?",
+          "therapist_use": "Decisional balance discussion: encouraged Ian to reflect on the impact of reaching out versus staying isolated."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Ian hasn't fully engaged with the pros and cons list. Client objective not met: Ian is still conflicted about the benefits of reaching out.",
-          "client_utterance": "I guess if I reach out, I could feel a little less alone, but then again, I might just feel worse if I get rejected. It feels like there are good and bad sides to this.",
-          "therapist_utterance": "You’re recognizing both the potential positives and negatives, which is a significant insight. What do you think could help you manage that fear of rejection? Is there a small step you feel comfortable taking?",
-          "therapist_use": "Exploring Ambivalence: aimed to validate Ian's mixed feelings while encouraging him to consider manageable steps."
+          "reason_for_ending": "KEEP - The therapist's goal of helping Ian weigh the pros and cons of his current situation has not been fully achieved, as Ian is still focused on negatives. The client has not yet explored the potential benefits of reaching out to his family.",
+          "client_utterance": "I guess it would be good to talk, but I just worry they’ll see me as weak or needy. I don’t want to drag them down with my problems. It feels like I’m stuck between wanting support and fearing rejection.",
+          "therapist_utterance": "That tension between wanting support and fearing rejection can be really tough to navigate. It’s important to remember that your loved ones may not see it that way at all. What if you could approach them with an open conversation about how you’re feeling? How might that help you feel lighter?",
+          "therapist_use": "Double-sided reflection: validated Ian's fears while evoking the possibility of support from loved ones."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Ian hasn't identified a specific small step to take. Client objective not met: Ian still feels overwhelmed and unsure about the next move.",
-          "client_utterance": "I don’t know... maybe I could send a text to one person, but it still feels like a big deal. What if they don’t respond, or if they do and it’s awkward?",
-          "therapist_utterance": "It’s completely normal to feel anxious about reaching out, especially with past experiences weighing on you. What if we brainstorm how you might approach that text? It could help reduce some of that pressure.",
-          "therapist_use": "Identifying Cognitive Distortions: aimed to challenge Ian's negative thoughts about reaching out."
+          "reason_for_ending": "KEEP - The therapist's objective of helping Ian articulate his feelings about change is still unmet, as he remains focused on his fears of vulnerability. The client hasn't yet recognized the potential for positive engagement with his family.",
+          "client_utterance": "I don’t know, it just feels like a lot to ask. I’m not sure if I’m ready to open up to them yet. But I do want to feel better, I just can’t see how right now.",
+          "therapist_utterance": "Feeling like it’s a lot to ask is completely valid, especially when you're not sure how you’ll be received. It might help to start small; perhaps you could share a little about your day first. What do you think would be a manageable step towards opening up?",
+          "therapist_use": "Eliciting change talk: encouraged Ian to consider small, manageable steps toward opening up."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Ian hasn't yet formulated a plan for reaching out. Client objective not met: Ian still feels hesitant about taking any action.",
-          "client_utterance": "I guess I could just keep it simple. Like, 'Hey, how are you?' But what if they think I'm just trying to get sympathy or something?",
-          "therapist_utterance": "That sounds like a reasonable approach! Remember, starting with a simple greeting can open the door without too much pressure. What would it mean for you to take that small step?",
-          "therapist_use": "Examining Underlying Beliefs: encouraged Ian to reflect on what reaching out could mean for him."
+          "reason_for_ending": "KEEP - The therapist's objective of facilitating Ian's reflection on change remains unmet, as he still feels overwhelmed. The client has not identified any specific actions he can take to begin engaging with others.",
+          "client_utterance": "I guess I could try texting my sister about something simple, like a show we used to watch together. But what if she doesn't respond? I don't think I can handle that right now.",
+          "therapist_utterance": "That’s a great idea, starting with something light can make it less daunting. It’s normal to worry about potential rejection, but it’s also about the connection. If she doesn’t respond, how could you remind yourself that it’s not a reflection of your worth?",
+          "therapist_use": "Decatastrophizing: helped Ian challenge thoughts about potential rejection by reframing the situation."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: Ian has engaged with the idea of reaching out and is considering a specific action. Client objective met: Ian has gained clarity on his feelings and is contemplating a small change.",
-          "client_utterance": "I think taking that small step could be manageable for me. It feels a bit less scary, and even if it doesn’t go perfectly, I’d at least be trying to connect.",
-          "therapist_utterance": "That’s a great realization, Ian! It shows you're beginning to navigate your feelings of loneliness in a proactive way. I'm here to support you as you take this step forward, however it goes.",
-          "therapist_use": "Double-sided reflection: validated Ian's emerging commitment to trying to connect while acknowledging his fears."
+          "reason_for_ending": "MOVE - The therapist's objective of exploring Ian's ambivalence and increasing his motivation for change has been met as he has begun to identify potential steps forward. The client has articulated a willingness to consider reaching out, indicating a shift towards action.",
+          "client_utterance": "I guess I can try that and see how it goes. It feels a bit less overwhelming when I think of it as just a text. I really do want to feel better, and maybe this is a step toward that.",
+          "therapist_utterance": "That sounds like a positive step, Ian! It’s great to hear you feel a bit less overwhelmed. Taking it one small step at a time can lead to more connection and support in your life. Let’s keep that momentum going as you explore these options.",
+          "therapist_use": "Encouraging action: reinforced Ian's willingness to take a step towards change and explore new connections."
         }
       ]
     },
@@ -247,30 +253,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Ian's commitment to change by exploring his motivations and building his confidence in making social connections.",
+          "objective": "Strengthen Ian's commitment to change and enhance his confidence in making social connections.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Ian to articulate his reasons for wanting to change and what he hopes to achieve.",
-                "Use reflective listening to acknowledge and validate his feelings about change.",
-                "Prompt him to express specific statements of commitment to taking steps towards social engagement."
+                "Encourage Ian to articulate his reasons for wanting to change, focusing on the benefits he anticipates from improving social connections.",
+                "Ask open-ended questions that help Ian express his commitments, such as 'What do you hope to achieve by reaching out to friends more often?'"
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Ask Ian to rate his confidence in making social changes on a scale from 1 to 10 and explore the reasons behind his rating.",
-                "Discuss past successes in social situations to enhance his sense of capability.",
-                "Encourage him to identify small, manageable steps he could take to improve social interactions."
+                "Use scaling questions to assess Ian's confidence in taking action, such as 'On a scale of 1 to 10, how ready do you feel to reach out to Jamie again?'",
+                "Discuss what factors could help Ian feel more confident, reinforcing small steps he can take."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Assist Ian in identifying supportive friends or family members he can rely on during this transition.",
-                "Explore community resources or groups that may provide additional support.",
-                "Encourage him to create a list of potential social activities he enjoys."
+                "Help Ian brainstorm potential supports he could access, such as mutual friends or support groups.",
+                "Encourage him to identify specific individuals he feels comfortable with and discuss how they might provide support."
               ]
             }
           ]
@@ -278,88 +281,77 @@
         "cbt_plan": {
           "interventions": [
             {
+              "technique_name": "Behavior Experiment",
+              "instructions_for_therapist": [
+                "Plan a small, manageable social interaction for Ian, such as a text or brief call to Jamie.",
+                "Ask Ian to predict how he will feel before and after the interaction, then discuss the actual outcome to challenge negative automatic thoughts."
+              ]
+            },
+            {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaborate with Ian to develop a clear and realistic action plan for increasing social interactions.",
-                "Break down the plan into small, achievable steps, such as reaching out to a friend for coffee.",
-                "Set specific dates and times for these actions to enhance accountability."
-              ]
-            },
-            {
-              "technique_name": "Coping Strategy Development",
-              "instructions_for_therapist": [
-                "Help Ian identify coping strategies to manage feelings of disappointment during social interactions.",
-                "Encourage him to practice positive self-talk and challenge negative automatic thoughts about social situations.",
-                "Discuss potential scenarios where interactions might not go as planned and strategize responses."
-              ]
-            },
-            {
-              "technique_name": "Relapse Prevention Planning",
-              "instructions_for_therapist": [
-                "Assist Ian in recognizing triggers that could lead to withdrawal and develop a plan for addressing these triggers.",
-                "Create a list of alternative activities he can engage in when feeling down, such as journaling or listening to music.",
-                "Encourage ongoing reflection on his progress and setbacks to foster resilience."
+                "Work collaboratively with Ian to create a step-by-step action plan for social interaction, including specific dates and times.",
+                "Ensure the plan includes contingency strategies for potential barriers he anticipates, reinforcing his capability to adapt."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In planning for Ian's preparation phase, I first focused on strengthening his commitment to change by using MI strategies that encourage commitment language, allowing him to articulate his motivations for social engagement. Given his feelings of frustration and helplessness, exploring his confidence and readiness became crucial. By asking him to rate his confidence and discussing past successes, I aimed to elevate his self-efficacy. I then identified supports and resources, which would create a safety net for him, making change feel less daunting. Subsequently, I employed CBT techniques, starting with action planning to establish clear, manageable steps toward socialization. This approach aligns with Ian's current resistance, as it allows him to feel in control of his actions without overwhelming him. Additionally, developing coping strategies addresses his negative beliefs about social interactions and helps him prepare for potential setbacks. Lastly, relapse prevention planning was included to enhance his resilience against future challenges, ensuring he remains engaged in the process of change.",
-        "progress_marker": "Ian has developed a specific action plan and identified key supports, demonstrating commitment to taking initial steps in his social interactions."
+        "therapist_reasoning": "In this session, the therapist aims to strengthen Ian's commitment to change by employing Motivational Interviewing strategies. Initially, the therapist will use commitment language to help Ian articulate his reasons for wanting to improve his social connections. This aligns with Ian’s motivation in the preparation phase, enhancing his commitment. Next, the therapist will explore Ian’s confidence and readiness to take action, using scaling questions to gauge his feelings and discussing factors that could bolster his confidence. This addresses Ian's resistance by allowing him to voice his uncertainties. Additionally, identifying supports and resources will empower Ian, making him feel less isolated. In conjunction with MI, CBT techniques such as behavior experiments will be implemented to facilitate gradual exposure to social interactions. The therapist will assist Ian in creating a detailed action plan that is realistic and manageable, addressing any practical barriers and reinforcing his coping strategies. This comprehensive approach will help Ian feel supported and capable as he prepares to make meaningful changes in his social life.",
+        "progress_marker": "Ian has developed an action plan for social interactions with specific goals and dates, and he feels more confident in reaching out to friends."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to gain clarity on my feelings and explore practical steps to improve my mental health.",
+        "client_objective": "I hope to find practical steps to improve my mental health and establish better connections with others.",
         "client_state": {
-          "awareness": "I recognize that my current feelings of isolation and sadness are not sustainable, and I need to make changes to feel better.",
-          "motivation": "I'm feeling more motivated to take steps towards improving my situation, especially after reflecting on how my past coping strategies have often left me feeling more alone.",
-          "openness": "I am somewhat open to discussing my thoughts and emotions with my therapist, but I still worry that my feelings won't be understood.",
-          "resistance": "I experience a fair amount of resistance, feeling frustrated that my therapist may not fully grasp what I'm going through, which makes me hesitant to fully engage."
+          "awareness": "I recognize that my feelings of isolation and depression are negatively affecting my life and relationships.",
+          "motivation": "I'm feeling more motivated to make changes and am starting to believe that I can improve my situation.",
+          "openness": "I'm willing to discuss my thoughts and emotions, although I still struggle with feeling understood.",
+          "resistance": "I have lingering doubts about whether I can truly change and fears that my efforts may not succeed."
         },
-        "client_reasoning": "I've come to realize that my current situation isn't working for me; I've been feeling isolated and depressed for too long. I understand that change is necessary to break this cycle, especially after my recent breakup and the relapse into deeper sadness. There’s a part of me that believes I can improve, especially if I can find the right ways to cope and connect with others. However, I still feel a lot of fear and doubt about whether I can really change or if I'll just end up feeling disappointed again. Sometimes, I worry that my therapist doesn't see me as a person struggling but rather as a client with a problem, which makes me hesitant to open up completely. Despite these fears, I'm starting to feel a cautious optimism about what I might be able to achieve with some practical steps and support.",
-        "progress_marker": "The client has begun to articulate their feelings of isolation and acknowledges the need for change while also recognizing their fears about engaging with others."
+        "client_reasoning": "I've come to realize that my current situation is not sustainable. My chronic feelings of isolation and depression have really taken a toll on my life, especially after my recent breakup. I see that I need to change, not just for myself but to foster better connections with others. Talking about my struggles has been tough, but I'm beginning to feel a spark of motivation to improve my mental health. I know therapy is helping me reflect on my past and think about what strategies might work for me. While I'm hopeful, I still worry that I won't be able to stick to any changes I try to make. I find myself questioning if I can really overcome these feelings of helplessness that have haunted me for so long, but I know I need to try. I'm ready to explore my options and see where this journey can take me."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective to strengthen Ian's commitment to change was not fully met as he has not yet articulated clear motivations. The client's objective of gaining clarity on feelings and exploring practical steps is still in progress.",
-          "client_utterance": "I keep thinking about that text I could send, but I still feel hesitant. What if they don't respond or it feels awkward? It's just hard to shake off those feelings of rejection.",
-          "therapist_utterance": "It's completely normal to feel that way, especially when you're putting yourself out there. Can you share what makes you hesitant about sending that text? Understanding those feelings can help us figure out how to move forward.",
-          "therapist_use": "Exploring feelings: used to delve deeper into Ian's hesitations regarding social interactions."
+          "reason_for_ending": "KEEP: Therapist objective was not met because Ian hasn't fully articulated his reasons for wanting to improve social connections. Client objective was not met as Ian is still uncertain about reaching out to others.",
+          "client_utterance": "I've been thinking about texting my sister, but I'm still worried about how she'll respond. I really want to connect, but I can't shake the fear that it won't go well. It just feels like a leap of faith.",
+          "therapist_utterance": "It sounds like reaching out feels like a big step for you, Ian. Can you share what you hope to achieve by connecting with your sister? What benefits do you think could come from that interaction?",
+          "therapist_use": "Open-ended question: to encourage Ian to articulate his hopes for connection."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of exploring Ian's motivations further was not achieved as he hasn't connected his feelings to potential actions. The client's objective to clarify feelings remains ongoing.",
-          "client_utterance": "I guess it just feels like I'm putting myself in a vulnerable spot, and I'm not sure if it's worth the risk. I can see how it could help, but it feels like a lot to handle right now.",
-          "therapist_utterance": "That vulnerability can be really daunting, and it's good that you're recognizing it. What do you think could help you manage that feeling of risk? Are there ways to make this step feel more comfortable?",
-          "therapist_use": "Validating feelings: acknowledged Ian's vulnerability to encourage him to express concerns."
+          "reason_for_ending": "KEEP: Therapist objective was not met as Ian hasn't yet expressed his commitment to taking the step. Client objective was not met since Ian is still hesitant about reaching out.",
+          "client_utterance": "I guess I just want to feel less alone, maybe even just have a laugh about something we used to enjoy. But I still fear that it won't be enough to change how I feel overall. What if it just reminds me of how isolated I really am?",
+          "therapist_utterance": "That makes sense; it’s tough to balance the desire for connection with the fear of feeling more isolated. How might you remind yourself that reaching out is a step towards combating that isolation, even if it feels small? What’s one way you could view this interaction as a positive move, regardless of the outcome?",
+          "therapist_use": "Exploring confidence and readiness: to help Ian reframe his thoughts about reaching out."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's goal to enhance Ian's confidence and readiness for social engagement is still unmet. The client's objective of exploring practical steps remains incomplete.",
-          "client_utterance": "Maybe if I had a specific plan for what to say, it wouldn’t feel so overwhelming. I just want to make sure I don’t end up feeling worse after. It's like I'm stuck in this cycle of fear.",
-          "therapist_utterance": "That makes sense. Let’s brainstorm a simple message together that feels authentic to you. Having a plan can definitely help ease some of that fear.",
-          "therapist_use": "Action Planning: collaborating with Ian to create a manageable and concrete plan for reaching out."
+          "reason_for_ending": "KEEP: Therapist objective was not met because Ian hasn't developed a specific action plan yet. Client objective was not met as he remains uncertain about taking action.",
+          "client_utterance": "I think if I could just share a funny memory about that show, it might help lighten the mood. But I'm still scared it won't go anywhere. I keep thinking, what if she’s busy or just doesn’t care?",
+          "therapist_utterance": "It’s understandable to have those fears, but sharing a funny memory could be a great way to break the ice. What if you set a specific time to send that text? Having a plan might help you feel more in control of the situation.",
+          "therapist_use": "Action planning: to help Ian create a manageable step for reaching out."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to assist Ian in developing a clear action plan is still in progress. The client's objective of gaining clarity on feelings and next steps hasn't been fully realized.",
-          "client_utterance": "Okay, maybe something like 'Hey, how have you been?' could work. But I'm still worried about what happens if they don't respond or if it feels awkward.",
-          "therapist_utterance": "That's a great start! It's casual and opens the door for conversation. How about we think of a response strategy for if they don't reply? That way, you’ll feel more prepared.",
-          "therapist_use": "Coping Strategy Development: helping Ian identify ways to manage potential disappointment in social situations."
+          "reason_for_ending": "KEEP: Therapist objective was not met as Ian has not fully articulated his action plan. Client objective was not met as he still feels hesitant to move forward.",
+          "client_utterance": "I think I could try texting her tomorrow after lunch. It feels like a small step, but I still worry about how I’ll feel if she doesn’t respond. I guess I just need to remind myself that it’s okay to take it slow.",
+          "therapist_utterance": "That sounds like a solid plan, Ian! Texting her tomorrow could be a great way to ease into reconnecting. If she doesn’t respond, how might you remind yourself of the effort you took and the courage it took to reach out?",
+          "therapist_use": "Reinforcing capability: to bolster Ian's confidence in handling potential outcomes."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to identify supports and resources to help Ian feel more confident is still unmet. The client's objective of exploring practical steps continues.",
-          "client_utterance": "I guess having a plan for how to cope if it doesn't go well would help. It's just tough to shake off that fear of being rejected.",
-          "therapist_utterance": "Absolutely, having a backup plan can reduce that fear significantly. Let’s list a few activities or thoughts you can rely on if things don’t go as expected. What strategies have helped you in the past?",
-          "therapist_use": "Identifying Supports and Resources: focusing on creating a safety net for Ian during his transition."
+          "reason_for_ending": "KEEP: Therapist objective was not met because Ian hasn't established a contingency plan for potential barriers. Client objective was not met as he still feels apprehensive about the outcome.",
+          "client_utterance": "I suppose if she doesn't reply, I could just try again later or talk to someone else. I’m still just worried about feeling rejected. I want to be able to handle that better.",
+          "therapist_utterance": "It’s good to have a backup plan in mind. Rejection can sting, but it doesn’t define your worth. What strategies could you use to reassure yourself if that happens? How can you celebrate the effort you made regardless of the response?",
+          "therapist_use": "Identifying supports and resources: to empower Ian with coping strategies for anticipated challenges."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to encourage Ian's commitment to social engagement isn't fully realized yet. The client's aim to gain clarity on feelings and steps remains ongoing.",
-          "client_utterance": "In the past, I sometimes watched a show or listened to music when I felt sad. I think those might help. It’s just hard to remember those strategies when I’m feeling low.",
-          "therapist_utterance": "Those are excellent strategies! It's important to have those reminders when you're feeling down. Would it help if we made a list of your coping strategies so you can refer back to it?",
-          "therapist_use": "Relapse Prevention Planning: helping Ian recognize and document coping strategies for future use."
+          "reason_for_ending": "KEEP: Therapist objective was not met due to Ian not fully committing to the action plan. Client objective was not met as he is still contemplating potential reactions.",
+          "client_utterance": "Maybe I could write down some positive affirmations to read if I start feeling bad after sending the text. I just need to remind myself that reaching out is a brave step. I really want to change how I connect with others.",
+          "therapist_utterance": "That’s a fantastic idea! Writing down affirmations can help reinforce your courage and remind you of your strengths. What is one affirmation you might include that reflects your desire to connect and be open?",
+          "therapist_use": "Strengthening commitment language: to help Ian articulate his hopes and reinforce his desire to change."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective to strengthen Ian's commitment and explore social engagement was met as Ian articulated a plan and coping strategies. The client's objective of clarity on feelings and practical steps was also achieved as he is moving forward with a plan.",
-          "client_utterance": "I think having a list could work. It feels good to have those reminders. I guess I'm starting to see how I can take small steps to connect with others.",
-          "therapist_utterance": "That’s a fantastic realization, Ian! It shows you’re ready to take those small steps toward engaging socially. I’m proud of the progress you’re making, and we can keep building on this together.",
-          "therapist_use": "Strengthening Commitment Language: reinforcing Ian's progress and encouraging his commitment to change."
+          "reason_for_ending": "MOVE: Therapist objective was met as Ian has articulated his action plan and expressed commitment. Client objective was met as he feels more prepared to take steps toward connecting with others.",
+          "client_utterance": "I think I’ll write something like, 'Reaching out is a sign of strength, and I deserve connection.' I feel more confident about this now. I really want to see how this goes, and I’m ready to try.",
+          "therapist_utterance": "That's a powerful affirmation, Ian! It shows how much you value connection and your own strength. I’m really proud of you for taking these steps. Let's keep this momentum going as you reach out tomorrow.",
+          "therapist_use": "Celebrating progress: to reinforce Ian's commitment and confidence in taking action."
         }
       ]
     }

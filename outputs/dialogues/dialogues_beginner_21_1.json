@@ -12,30 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase Talia's awareness of her feelings and experiences related to family conflict.",
+          "objective": "Increase Talia's awareness of her feelings and thoughts regarding family dynamics without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Use reflective listening to validate Talia's feelings about her experiences with Candace and her family.",
-                "Paraphrase her thoughts to show understanding and help her feel heard.",
-                "Encourage her to elaborate on her feelings and thoughts without feeling pressured to change."
+                "Listen attentively to Talia's concerns about her family, particularly her interactions with Candace.",
+                "Reflect back her feelings and thoughts, emphasizing her experience of anxiety and helplessness in those situations."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Talia's feelings of anxiety and helplessness regarding family dynamics.",
-                "Use empathetic statements to convey understanding of her fears about confronting family members.",
-                "Reinforce that these feelings are valid and shared by many in similar situations."
+                "Validate Talia's feelings of being overwhelmed and unsupported.",
+                "Acknowledge the difficulty of her familial relationships and the impact they have on her emotional state."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the discrepancy between Talia's current experiences with family and her personal values regarding respect and support.",
-                "Ask open-ended questions to help her reflect on how her current situation aligns with her values.",
-                "Encourage her to consider how these conflicts affect her well-being."
+                "Gently explore the differences between Talia's current feelings of helplessness and her values of being respected and valued in relationships.",
+                "Encourage her to articulate what a positive family interaction would look like for her."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Encourage Talia to observe and describe her feelings and behaviors in situations involving her family.",
+                "Ask open-ended questions that prompt her to think about the impact of her avoidance strategies on her emotional well-being."
               ]
             }
           ]
@@ -43,88 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Talia to identify her automatic thoughts when she anticipates interactions with Candace.",
-                "Encourage her to write these thoughts down and reflect on their origins.",
-                "Discuss how these thoughts contribute to her feelings of anxiety and helplessness."
+                "Ask Talia to provide evidence for her beliefs about her helplessness and powerlessness in family interactions.",
+                "Encourage her to consider situations where she felt competent or in control, even if they are unrelated to family."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Help Talia recognize cognitive distortions in her thoughts about family interactions.",
-                "Discuss examples of 'catastrophizing' or 'all-or-nothing' thinking in her beliefs about confrontation.",
-                "Encourage her to challenge these distortions by considering alternative viewpoints."
+                "Help Talia identify and challenge her automatic thoughts about Candace's potential behavior.",
+                "Explore the possibility that her fears may not reflect reality by discussing times when family interactions were not as negative."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Conduct a functional analysis to explore the triggers of her avoidance behaviors around family interactions.",
-                "Help Talia understand the short-term relief avoidance provides versus the long-term consequences.",
-                "Encourage her to explore what emotions arise when she avoids confrontation."
+                "Encourage Talia to consider how someone else in her situation might view the interactions with Candace.",
+                "Invite her to think about how she would advise a friend facing similar family challenges."
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Guide Talia to rate her feelings about family interactions on a scale from 0 to 10, helping her recognize nuances in her emotional responses.",
+                "Discuss what factors might lead her to feel differently about these situations."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this initial phase of therapy, my primary focus is on building rapport and trust with Talia while fostering her awareness of her current emotional state and cognitive patterns. I will employ reflective listening to validate her experiences, ensuring she feels heard and understood, which can help reduce her defensiveness. Expressing empathy is crucial as it normalizes her feelings of anxiety and helplessness, allowing her to explore her narrative without pressure. Developing discrepancy will help her identify the gap between her values and current experiences, promoting self-reflection without pushing for immediate change. For the CBT component, I will guide her to identify automatic thoughts related to her interactions with Candace, facilitating insight into her cognitive distortions. Recognizing these distortions will empower her to challenge her negative beliefs about confrontation. Finally, the functional analysis of her avoidance behaviors will help Talia understand their impact on her emotional state and relationships. This combined approach respects her resistance profile, fostering engagement and curiosity while avoiding direct action strategies.",
-        "progress_marker": "Talia demonstrates increased awareness of her thoughts and feelings, engages in reflective discussions, and begins to articulate her values regarding familial relationships."
+        "therapist_reasoning": "The focus of this therapy plan is to gently guide Talia through her pre-contemplation phase by fostering awareness and understanding of her feelings and beliefs. First, I will employ reflective listening to create a safe space for Talia to express her anxieties about family interactions, particularly with Candace. This will be paired with expressing empathy to validate her experiences and emotions, helping to reduce her defensiveness. Next, I will use the strategy of developing discrepancy to help Talia articulate her values regarding relationships and how they contrast with her current experiences of feeling unsupported. Raising awareness through open-ended questions will encourage her to explore her feelings and behaviors without the pressure to change. In the CBT plan, I will utilize evidence-based questioning to challenge her core beliefs of helplessness and powerlessness, promoting a more nuanced view of her situation. Reality testing will help her challenge automatic negative thoughts about Candace, while the alternative perspective technique will allow her to see her situation from different angles. Finally, the continuum technique will assist Talia in recognizing the varying degrees of her feelings, contributing to her self-awareness and understanding of her emotional landscape.",
+        "progress_marker": "Talia begins to articulate her feelings about family interactions and shows increased awareness of her thoughts and beliefs without feeling pressured to change."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to understand why I feel so anxious about family interactions without having to change anything right now.",
+        "client_objective": "I hope to find some understanding around why I feel so anxious about family interactions, especially with Candace.",
         "client_state": {
-          "awareness": "I know I have issues with my family, but I don't think it's a big deal or that it can change.",
-          "motivation": "I don't really want to change anything; it feels safer to just avoid conflict.",
-          "openness": "I'm not very comfortable sharing my feelings; I worry it will just make things worse.",
-          "resistance": "I feel very defensive about discussing my family and my feelings; I just want to keep quiet."
+          "awareness": "I somewhat recognize that my feelings about family conflicts are impacting my life, but I don’t see them as a significant problem.",
+          "motivation": "I feel a little bit of desire for change, but mostly I think it’s just how things are, and I doubt it can get better.",
+          "openness": "I’m not very open to discussing my feelings about Candace or my family; it feels too risky and uncomfortable.",
+          "resistance": "I strongly defend against talking about my issues, as I fear it will only create more conflict and make me feel worse."
         },
-        "client_reasoning": "I feel like my family dynamics, especially with Candace and my own father, are just how things are. I know it bothers me, but it also feels like there's nothing I can do to change it, so why bring it up? Talking about it might just make everything worse, and I can't handle more conflict. I often think about how I should just accept how they treat me because confronting them would only push them away, and I can't bear the thought of being abandoned again. Therapy feels a bit uncomfortable because it forces me to think about these things that I usually try to avoid. I want to express my feelings, but I feel trapped and scared about what might happen if I do. It’s easier to suppress these thoughts than to risk upsetting the balance, even if it means feeling anxious and overwhelmed.",
-        "progress_marker": "Client has begun to acknowledge feelings of anxiety related to family dynamics but remains resistant to discussing core issues."
+        "client_reasoning": "I know I have some issues with family, especially with how Candace treats me, but I’m not sure it’s worth discussing. Talking about it feels like opening a can of worms that I’m better off keeping closed. I think if I say anything, it will only stir up more trouble, and I can’t handle that. I’ve always felt like I have to keep the peace, and confronting these feelings might lead to me losing the little support I have. It’s easier to avoid the problem than to face it, especially when I feel so anxious and scared about the potential fallout. Therapy feels intimidating; I want to express how I feel, but I just keep thinking that it might make things worse. I don’t want to be abandoned again or feel like I’m the one causing family problems. So, I guess I just keep quiet and try to manage on my own, even if it feels lonely and overwhelming."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met as Talia hasn't fully explored her feelings about family dynamics. Client objective not met as Talia remains hesitant to share deeper emotions.",
-          "client_utterance": "I just feel anxious whenever I think about seeing Candace again. It’s like this knot in my stomach, and I just want to avoid it altogether. I know it’s not healthy, but it feels easier to just keep my distance.",
-          "therapist_utterance": "It sounds really overwhelming to feel that anxiety, especially when it comes to family. You mentioned wanting to avoid seeing Candace because of that knot in your stomach. What do you think might happen if you had to face her again?",
-          "therapist_use": "Reflective Listening: validated Talia's feelings of anxiety while encouraging exploration of her anticipations."
+          "reason_for_ending": "KEEP - The therapist's objective of increasing Talia's awareness of her feelings was not fully met, as she still feels overwhelmed. The client objective of finding understanding around her anxiety about family interactions remains unaddressed.",
+          "client_utterance": "I guess I just feel so anxious when I think about being around Candace. It’s like I can’t even enjoy my time with my partner’s family because I’m always worried about what she might say or do. I don’t even know why I feel this way, but it’s exhausting.",
+          "therapist_utterance": "It sounds like being around Candace really drains you and makes it hard to feel relaxed with your partner's family. Your worries about her behavior seem to overshadow your experiences, which must be really frustrating for you. Can you share more about what specific interactions with her trigger that anxiety?",
+          "therapist_use": "Reflective Listening: used to validate Talia's feelings of anxiety and encourage her to share more."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met as the exploration of Talia's anticipations is still surface-level. Client objective not met as Talia has not reflected on her feelings deeply enough.",
-          "client_utterance": "I don't know, maybe a fight? I dread the idea of her saying something hurtful again. It just feels like I’m stuck between wanting to stand up for myself and not wanting to deal with the fallout.",
-          "therapist_utterance": "That sounds like a tough place to be in, feeling caught between standing up for yourself and the fear of conflict. It’s understandable to want to avoid a situation that might lead to more hurt. Can you share more about what standing up for yourself would look like in that situation?",
-          "therapist_use": "Expressing Empathy: acknowledged Talia's internal conflict to normalize her feelings about confrontation."
+          "reason_for_ending": "KEEP - The therapist's goal to explore Talia's feelings and thoughts further was not achieved, as she struggles to articulate specific triggers. The client objective of understanding her feelings about family interactions is still not met.",
+          "client_utterance": "I don’t know, it feels like she just has this way of belittling me. Even small comments can feel really hurtful, but I often just brush them off. I guess I’m scared that if I confront her, it’ll just make things worse.",
+          "therapist_utterance": "It's understandable to feel frightened about the potential fallout from confronting Candace. It seems like her comments impact you deeply, even if you try to dismiss them. What do you think would happen if you actually spoke up about how those comments make you feel?",
+          "therapist_use": "Empathy: used to acknowledge Talia's fears while inviting her to explore her thoughts about confrontation."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met as Talia hasn't yet connected her values with her experiences. Client objective not met as Talia is still hesitant to articulate what standing up means for her.",
-          "client_utterance": "I guess it would mean telling her how I feel, but I just feel like it wouldn’t change anything. It’s like I would just be opening a can of worms that I can’t handle. I worry she would just dismiss me, like my dad does.",
-          "therapist_utterance": "It sounds like you fear that sharing your feelings might lead to being dismissed again, just like with your father. That must be really frustrating and hurtful. What do you think it says about your needs for respect and support in these interactions?",
-          "therapist_use": "Developing Discrepancy: encouraged Talia to reflect on her values of respect and support versus her current experiences."
+          "reason_for_ending": "KEEP - The therapist's aim to raise Talia's awareness of her feelings and the dynamics of her interactions wasn't fully achieved, as she remains hesitant to explore confrontation. The client objective of understanding her anxiety about these interactions has not progressed.",
+          "client_utterance": "I honestly think she would just dismiss my feelings. It’s like she doesn’t see me as someone worthy of respect, and I’m terrified of being rejected again. I’d rather just keep the peace than risk being pushed away.",
+          "therapist_utterance": "You seem to feel that your worth is diminished in those interactions, which is really painful. Keeping the peace feels safer for you, but it also seems to leave you feeling unsupported. What would a respectful and supportive interaction with Candace look like for you?",
+          "therapist_use": "Developing Discrepancy: used to highlight the contrast between Talia's feelings of worth and her needs for respect in relationships."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met as Talia has not fully articulated how her current experiences clash with her values. Client objective not met as Talia still feels stuck in her anxiety without expressing her deeper needs.",
-          "client_utterance": "I just want to feel like I matter, like my feelings are important. But it’s hard when I feel like I’m always walking on eggshells, especially with Candace. I don’t want to make things worse by saying something.",
-          "therapist_utterance": "It’s clear that your feelings matter, and it’s tough to feel like you’re on edge around family. That desire for your feelings to be acknowledged is so valid. What do you think would help you feel more secure in expressing those feelings?",
-          "therapist_use": "Reflective Listening: validated Talia's need for acknowledgment and encouraged her to think about what would help her feel secure."
+          "reason_for_ending": "KEEP - The therapist's objective to guide Talia in articulating her values regarding respect in family dynamics remains unmet, as she struggles to envision positive interactions. The client objective of understanding her feelings is still not fully realized.",
+          "client_utterance": "I guess I just want her to acknowledge my feelings instead of brushing them off. It would be nice if she could just treat me like I matter, but I don’t know how to make that happen. It feels hopeless sometimes.",
+          "therapist_utterance": "It sounds like being acknowledged is very important to you, yet it feels out of reach. The feeling of hopelessness can be really heavy to carry. What might help you start observing your feelings in these family situations without feeling overwhelmed?",
+          "therapist_use": "Raising Awareness: used to encourage Talia to think about her feelings and behaviors in family interactions."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met as Talia is still grappling with her feelings without identifying potential solutions. Client objective not met as Talia hasn’t yet developed a clearer understanding of her needs.",
-          "client_utterance": "I’m not sure. Maybe if I had a better way to express myself without feeling attacked. But even thinking about it makes me anxious.",
-          "therapist_utterance": "That anxiety around expressing yourself is understandable, especially given your past experiences. It seems like finding a way to communicate your feelings safely is important to you. What kinds of support or strategies do you think could help you feel less anxious about this?",
-          "therapist_use": "Expressing Empathy: acknowledged Talia's anxiety and encouraged her to think about support strategies."
+          "reason_for_ending": "KEEP - The therapist's goal of increasing Talia's awareness of her feelings was not fully met, as she still feels overwhelmed. The client objective of understanding her feelings around family interactions remains unfulfilled.",
+          "client_utterance": "I don’t know if I can handle that. What if I just end up feeling worse? It’s easier to just avoid thinking about it, but it still eats at me.",
+          "therapist_utterance": "Avoidance can feel like a protective measure, but it sounds like it's causing you to feel trapped. It must be exhausting to carry that weight without relief. What would happen if you started to rate your feelings about these family interactions on a scale from 0 to 10?",
+          "therapist_use": "Continuum Technique: used to help Talia recognize the nuances of her emotional responses."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met as Talia hasn't identified any concrete strategies to address her feelings. Client objective not met as Talia feels overwhelmed and hasn't yet moved toward change.",
-          "client_utterance": "I guess I could talk to my partner about it, but I worry he won’t understand. I feel like I’m just going in circles, and it’s exhausting.",
-          "therapist_utterance": "It sounds exhausting to feel like you’re going in circles without a clear path forward. Talking to your partner could be a step, but it’s understandable to worry about how he might react. What would you want him to know about your feelings before having that conversation?",
-          "therapist_use": "Developing Discrepancy: encouraged Talia to consider the importance of sharing her feelings with her partner."
+          "reason_for_ending": "KEEP - The therapist's aim to help Talia recognize the nuances in her feelings about family interactions has not been achieved. The client objective of gaining understanding around her anxiety remains inadequately addressed.",
+          "client_utterance": "I guess I’d say it’s about a 7 when I’m thinking about Candace. It’s pretty high, but sometimes it drops to a 4 when I’m with my partner’s family and things feel okay. I just want to feel that way more often.",
+          "therapist_utterance": "It's insightful that you can identify those fluctuations in your feelings. Recognizing that there are moments of relief is a step forward. What do you think contributes to those times when you feel more at ease?",
+          "therapist_use": "Reality Testing: used to help Talia identify factors influencing her feelings in family interactions."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met as Talia is reflecting on her feelings and considering the next steps. Client objective met as Talia is beginning to articulate her thoughts and feelings about her familial relationships.",
-          "client_utterance": "I think I would want him to know how hurtful Candace can be and how it makes me feel. I guess just having his support would help me feel stronger. I’m starting to see that maybe I could talk to him about it.",
-          "therapist_utterance": "That’s a significant step, Talia! It’s great to hear that you’re starting to see the potential for support from your partner. Acknowledging how Candace's behavior affects you is a powerful way to begin advocating for yourself.",
-          "therapist_use": "Reflective Listening: validated Talia's emerging awareness of her feelings and the potential for support."
+          "reason_for_ending": "MOVE - The therapist's objective of fostering Talia's awareness of her feelings has been met as she is articulating her emotional experiences more clearly. The client objective of finding understanding around her anxiety about family interactions has progressed significantly, as she can now identify fluctuations in her feelings.",
+          "client_utterance": "When my partner is supportive, I feel less anxious. It helps to have someone who understands me. I think maybe I can start to talk more about how I feel, even if it's just a little at a time.",
+          "therapist_utterance": "That's a significant realization, Talia. Recognizing the support from your partner as a source of comfort is a positive step. It seems like you're starting to see that sharing your feelings, even gradually, can lead to better understanding and might help reduce your anxiety.",
+          "therapist_use": "Expressing Empathy: used to validate Talia's progress and encourage her to share her feelings more openly."
         }
       ]
     },
@@ -133,27 +140,34 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To explore Talia's ambivalence towards expressing her feelings about Candace and strengthen her motivation for change.",
+          "objective": "To explore Talia's ambivalence regarding her feelings towards Candace and her family dynamics, while enhancing her motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Gently ask Talia about her feelings regarding her relationship with Candace and the conflict she feels.",
-                "Encourage her to articulate both the reasons she wants to express her feelings and the reasons she fears doing so, helping her to recognize the conflict."
+                "Encourage Talia to articulate her feelings about Candace and the family dynamics.",
+                "Help her identify the pros and cons of both confronting and avoiding conflict with Candace."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Talia to express any desires, reasons, or needs for change in her relationship with Candace.",
-                "Reinforce any statements she makes that reflect her desire for a healthier interaction with family."
+                "Ask open-ended questions about what changes she might want to see in her interactions with her partner's family.",
+                "Encourage Talia to express her desires and hopes for a supportive family environment."
+              ]
+            },
+            {
+              "strategy_name": "Developing Discrepancy",
+              "instructions_for_therapist": [
+                "Explore the discrepancy between Talia's values of being treated with respect and her current behavior of avoiding confrontation.",
+                "Facilitate a discussion on how her current approach may not align with her values."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Facilitate a discussion on the pros and cons of maintaining silence versus expressing her feelings to Candace.",
-                "Help Talia to weigh the potential risks and benefits of each option, fostering a sense of ownership over her decision-making."
+                "Guide Talia in weighing the potential benefits and drawbacks of changing her approach to family interactions.",
+                "Encourage her to reflect on how these decisions impact her emotional well-being."
               ]
             }
           ]
@@ -161,84 +175,84 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Cognitive Restructuring",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Use Socratic questioning to help Talia identify and challenge her automatic thoughts about Candace treating her poorly.",
-                "Encourage her to examine the evidence for and against her beliefs about being powerless in family situations, fostering a sense of agency."
+                "Help Talia challenge her catastrophic thoughts about confronting Candace.",
+                "Encourage her to consider less extreme outcomes and the possibility of positive responses."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Guide Talia in recognizing patterns of all-or-nothing thinking or catastrophizing related to her interactions with family.",
-                "Assist her in reframing these thoughts into more balanced perspectives that acknowledge her feelings and potential for agency."
+                "Assist Talia in creating a list of pros and cons regarding her relationship with Candace and her family expectations.",
+                "Facilitate a discussion on how this analysis affects her feelings and thoughts."
               ]
             },
             {
-              "technique_name": "Exploring Underlying Beliefs",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Encourage Talia to reflect on her core beliefs about family interactions and how they influence her current feelings and behaviors.",
-                "Facilitate discussions that help her understand how these beliefs may be contributing to her ambivalence and anxiety."
+                "Ask Talia to provide evidence for her beliefs that speaking up will lead to negative outcomes.",
+                "Encourage her to consider past experiences where confrontation led to resolution or understanding."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this contemplative phase, Talia's ambivalence about confronting Candace is rooted in her core beliefs of helplessness and unlovability. I will begin by utilizing Motivational Interviewing strategies to explore her ambivalence, allowing her to articulate both her desire for change and her fears, which will foster reflection. Through eliciting change talk, I can help her identify what she values in familial relationships and the potential for healthier dynamics. Additionally, by engaging in decisional balance discussions, I will support her in weighing the pros and cons of action versus inaction, enhancing her motivation. Concurrently, I will employ Cognitive Behavioral Therapy techniques that focus on cognitive restructuring. By using Socratic questioning, I can guide Talia to critically examine her automatic thoughts about Candace, challenging her perceptions of powerlessness. Identifying cognitive distortions will further assist her in reframing negative thoughts into more constructive ones, promoting self-efficacy. Lastly, exploring her underlying beliefs will deepen her understanding of how past experiences shape her current feelings, paving the way for increased self-awareness and readiness for change.",
-        "progress_marker": "Increased articulation of ambivalence and initial reflections on personal values related to family dynamics."
+        "therapist_reasoning": "In working with Talia, I recognize that her ambivalence stems from a long history of familial conflict which fuels her anxiety about confrontation. I will first utilize MI strategies to explore her ambivalence, encouraging her to articulate both her fears and desires regarding her relationship with Candace. By engaging her in decisional balance discussions, I aim to illuminate the discrepancies between her values and current behaviors, fostering a sense of intrinsic motivation for change. Concurrently, I will employ CBT techniques such as decatastrophizing to address her catastrophic thinking about confrontation, guiding her to challenge these thoughts and consider less extreme outcomes. The pros and cons analysis will help her visualize the implications of her choices, allowing her to reflect on how they align with her values. Evidence-based questioning will further assist in dismantling her core beliefs of helplessness and unlovability, providing a path towards increased self-efficacy. This collaborative, non-confrontational approach respects her resistance while facilitating insight and motivation for change.",
+        "progress_marker": "Talia begins to articulate her feelings about her family dynamics and shows an increased willingness to explore her thoughts and beliefs regarding confrontation."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to gain clarity on my feelings about Candace and my family dynamics.",
+        "client_objective": "I hope to gain clarity on my feelings about Candace and how to handle family dynamics without feeling trapped.",
         "client_state": {
-          "awareness": "I am starting to recognize that my feelings of anxiety and avoidance around family interactions are linked to my past experiences with my dad and the patterns I’ve developed.",
-          "motivation": "I want to change how I handle conflict with family, but I feel scared about the potential fallout of speaking up.",
-          "openness": "I am willing to discuss my thoughts and feelings more openly in therapy, but I still struggle to fully express my fears.",
-          "resistance": "I feel a strong urge to hold back my true feelings about Candace and my family, fearing that any confrontation might lead to more pain."
+          "awareness": "I am starting to see that my interactions with family members often leave me feeling anxious and unsupported, especially with Candace.",
+          "motivation": "I want to change how I handle family conflicts, but I am scared of the potential fallout.",
+          "openness": "I feel somewhat willing to share my experiences and emotions, but I still hold back due to fear of judgment.",
+          "resistance": "I find myself doubting whether I can truly change the situation without making things worse."
         },
-        "client_reasoning": "Lately, I've been reflecting on how my relationship with my father has shaped my current feelings towards my partner's family, especially Candace. I recognize that I often feel anxious and tense whenever I think about family gatherings. It's like I can see the pattern—the way I avoid confrontation because I'm terrified of being dismissed or abandoned. I know I want to express my feelings, but part of me thinks, 'What if it just makes everything worse?' It's a constant battle between wanting to be heard and the fear of being misunderstood or causing conflict. I find myself feeling lonely and sad, caught in this cycle of avoidance. Therapy has started to help me unravel these thoughts, but it's still hard to fully commit to the idea of change without feeling overwhelmed by the potential consequences."
+        "client_reasoning": "I'm beginning to understand that my feelings about Candace and the family dynamics are rooted in my past experiences with my own family. I keep noticing patterns where I feel powerless to speak up for myself, which leaves me feeling anxious and unhappy. While I really want to express my feelings about Candace, I can't shake the fear that doing so might only cause more conflict and lead to abandonment, just like I experienced before. I often think that maybe it's better to stay quiet and avoid confrontation, but there's a part of me that knows this isn't working. Therapy has been helping me reflect on these feelings, and I’m starting to realize that I need to confront these issues instead of just accepting them. Yet, I'm still torn between wanting to change and fearing the consequences of that change."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Talia did not articulate her fears about expressing feelings clearly. The client objective was not met because Talia is still struggling with anxiety and has not gained clarity on her feelings.",
-          "client_utterance": "I think talking to my partner could help, but I'm still scared he won't understand how I feel. I don't want to burden him with my issues, especially if he might dismiss them like Candace does. I just keep thinking about how this could go wrong, and it makes me want to avoid the conversation altogether.",
-          "therapist_utterance": "It’s completely understandable to feel scared about how your partner might react. You’re caught between wanting to share your feelings and the fear of being dismissed again. What do you think would happen if you shared your feelings with him, even just a little bit?",
-          "therapist_use": "Exploring ambivalence: helped Talia articulate her fears regarding sharing her feelings."
+          "reason_for_ending": "KEEP - Therapist's objective was not met because Talia hasn't fully articulated her feelings about Candace yet. Client's objective was not met as Talia still feels trapped and unclear about her next steps.",
+          "client_utterance": "I guess I am realizing that I can't keep avoiding how I feel about Candace. But every time I think about confronting her, I just feel this wave of anxiety. I want things to be better, but I'm terrified of what might happen if I speak up.",
+          "therapist_utterance": "It's understandable that you're feeling anxious about confrontation, especially given your past experiences. It sounds like you're caught between wanting change and fearing the potential fallout. What do you think is the worst that could happen if you shared your feelings with Candace?",
+          "therapist_use": "Open-ended questioning: encouraged Talia to explore her fears about confrontation."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Talia hasn't expressed her reasons for wanting to talk to her partner. The client objective was not met because she still feels unclear on how to approach the situation.",
-          "client_utterance": "I guess if I told him how Candace's behavior affects me, it might help him understand. But then I worry he might think I'm overreacting or that I'm too sensitive. It's like I want to stand up for myself, but I also fear being dismissed or judged.",
-          "therapist_utterance": "It seems like there’s a real tension between wanting to advocate for yourself and fearing judgment. What would it look like for you to express that you’re feeling hurt without feeling like you’re overreacting? Could there be a way to frame it that feels safer for you?",
-          "therapist_use": "Decisional balance discussions: facilitated Talia’s exploration of how to express her feelings safely."
+          "reason_for_ending": "KEEP - Therapist's objective was not met as Talia hasn't evaluated the worst-case scenario yet. Client's objective was not met because she still feels overwhelmed by her fears.",
+          "client_utterance": "I worry that she would just dismiss me again, or make me feel even worse about myself. It’s like I can’t shake the feeling that I’m not worthy of respect. But then, I also think about how I deserve to be treated better.",
+          "therapist_utterance": "It’s really powerful that you recognize your worth and the need for respect in your interactions. However, it feels like the fear of being dismissed is holding you back. Can we explore what might happen if you confronted her and it went differently than you expect?",
+          "therapist_use": "Exploring ambivalence: helped Talia articulate her fears while considering alternative outcomes."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Talia has not yet articulated her desires for change clearly. The client objective was not met as Talia is still struggling with how to express her feelings.",
-          "client_utterance": "I think I could say something like, 'I feel hurt when Candace behaves this way,' but I still feel like it might not change anything. It's hard to imagine him really getting it. I just don’t want to end up in another conflict.",
-          "therapist_utterance": "It’s a valid concern that expressing your feelings might not lead to the response you hope for. However, sharing your feelings might also open the door to understanding and support from your partner. What do you think it would mean for you to take that step, even if it feels risky?",
-          "therapist_use": "Eliciting change talk: encouraged Talia to consider the potential benefits of sharing her feelings."
+          "reason_for_ending": "KEEP - Therapist's objective was not met as Talia hasn't fully weighed the potential outcomes yet. Client's objective was not met because she is still struggling with her fears and hasn't thought of solutions.",
+          "client_utterance": "I guess if I did speak up, maybe she could surprise me and actually listen. But I keep thinking about past experiences that went poorly, and that scares me. I want to believe that things could change, but it's hard to envision that.",
+          "therapist_utterance": "It's completely natural to hold onto past experiences when you're considering change, especially when those experiences were painful. It might help to think about the times when speaking up led to better outcomes. Can you recall any instances where expressing yourself brought about a positive change?",
+          "therapist_use": "Eliciting change talk: encouraged Talia to reflect on past positive experiences of expression."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Talia has not fully explored her underlying beliefs about family dynamics. The client objective was not met because she has not yet reached clarity on her feelings.",
-          "client_utterance": "I suppose it could mean that I value my feelings being acknowledged, but I also worry that it will just lead to more tension. I guess I’ve been conditioned to think that speaking up brings more pain, just like with my dad. It's frustrating because I want to change that narrative.",
-          "therapist_utterance": "It sounds like you’re aware of how past experiences shape your current feelings about speaking up. Recognizing that pattern is a significant insight. How do you think you can challenge that narrative, or what might help you feel more empowered to express your needs?",
-          "therapist_use": "Exploring underlying beliefs: facilitated Talia's reflection on how her past influences her current feelings."
+          "reason_for_ending": "KEEP - Therapist's objective was not met as Talia hasn't identified any positive outcomes yet. Client's objective was not met because she is still feeling conflicted about expressing her feelings.",
+          "client_utterance": "There were times when I did say something, and it felt good to voice my feelings, but then it often led to more conflict. I remember one time I confronted my dad, and while it felt empowering, it also ended with us not speaking for a while. I guess I’m just worried about repeating that experience with Candace.",
+          "therapist_utterance": "It sounds like you've experienced both empowerment and the risk of conflict when expressing yourself, which is understandably confusing. The fear of recurrence can make it hard to take the first step. What if you could approach the situation with Candace differently this time, perhaps with a focus on your feelings rather than the confrontation itself?",
+          "therapist_use": "Developing discrepancy: highlighted the difference between Talia's desire for expression and her fear of conflict."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Talia has not fully articulated her reasons for change. The client objective was not met because she is still ambivalent about taking action.",
-          "client_utterance": "I think I need to remind myself that my feelings are valid and that I deserve to express them without fear. It’s just hard to shake off that voice telling me I’ll be dismissed. I want to be brave enough to speak up, but it feels daunting.",
-          "therapist_utterance": "It’s powerful that you’re recognizing your right to express your feelings. That acknowledgment is an important step towards feeling empowered. What small step could you take to practice expressing yourself, even if it feels daunting?",
-          "therapist_use": "Eliciting change talk: reinforced Talia's desire for healthier family interactions."
+          "reason_for_ending": "KEEP - Therapist's objective was not met as Talia hasn't explored a new approach yet. Client's objective was not met because she is still feeling blocked by her fear of conflict.",
+          "client_utterance": "I’ve never thought about framing it that way. If I could just express how her comments make me feel without necessarily confronting her, maybe it would be less scary. But I still don’t know if I can do that.",
+          "therapist_utterance": "That’s a significant shift in thinking, Talia! Framing your feelings might help reduce the pressure of confrontation while still allowing your voice to be heard. What would it look like for you to express those feelings in a calm manner?",
+          "therapist_use": "Pros and cons analysis: assisted Talia in conceptualizing a less confrontational approach to expression."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Talia has not yet made a clear decision about expressing her feelings. The client objective was not met because she is still grappling with her fears.",
-          "client_utterance": "Maybe I could start by talking to my partner about how I feel, without focusing on Candace just yet. It feels less overwhelming that way. I just hope he can hold that space for me without judgment.",
-          "therapist_utterance": "That sounds like a thoughtful approach, starting with your partner and focusing on your feelings. It’s understandable to want a safe space to express yourself. How do you think he might react to you sharing your feelings in this way?",
-          "therapist_use": "Decisional balance discussions: helped Talia consider a less overwhelming approach to expressing herself."
+          "reason_for_ending": "KEEP - Therapist's objective was not met as Talia hasn't developed a specific plan for her expression yet. Client's objective was not met since she is still uncertain about her ability to express herself.",
+          "client_utterance": "I think I would want to say something like, 'When you make comments about my choices, it really hurts my feelings.' But part of me is still scared she won't take me seriously. I want to try, but I just need to feel more confident.",
+          "therapist_utterance": "That’s a great start, Talia! Expressing how her comments affect you is very valid and can open up a dialogue. Let’s explore what would help you feel more confident in delivering that message. What support do you think you might need?",
+          "therapist_use": "Decisional balance discussions: helped Talia consider her support needs for expressing herself."
         },
         {
-          "reason_for_ending": "MOVE - The therapist objective was met as Talia has articulated her feelings and a potential plan for expressing them. The client objective was met because Talia has gained clarity on her feelings and is considering action.",
-          "client_utterance": "I think I’m ready to try talking to him. It feels like a small step, but it’s a step in the right direction. I just hope it leads to a better understanding between us.",
-          "therapist_utterance": "That’s a significant and courageous step, Talia! It’s great to hear that you feel ready to open that door with your partner. Taking action is often the first step towards changing the dynamics you’ve been struggling with.",
-          "therapist_use": "Eliciting change talk: reinforced Talia’s readiness for change and her action plan."
+          "reason_for_ending": "MOVE - Therapist's objective was met as Talia is articulating her feelings and considering a new approach. Client's objective was met since Talia is gaining clarity on her feelings and expressing a desire to handle family dynamics more confidently.",
+          "client_utterance": "I think discussing this with my partner first could help. Having their support would make me feel more secure when I talk to Candace. I’m realizing that it’s okay to seek support for my feelings.",
+          "therapist_utterance": "That sounds like a solid plan, Talia! Involving your partner can provide you with the reassurance you need to approach Candace. It’s empowering to acknowledge your feelings and seek support, and it seems like you're ready to take steps towards change.",
+          "therapist_use": "Eliciting change talk: reinforced Talia's progress and readiness to seek support for her feelings."
         }
       ]
     },
@@ -247,22 +261,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Enhance Talia's commitment to change and readiness to confront familial conflicts.",
+          "objective": "Strengthen Talia's commitment to addressing her feelings towards Candace and her family dynamics.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Talia to articulate her motivations for wanting to confront Candace and how that aligns with her values.",
-                "Encourage her to express her commitment to take action by using phrases like 'I intend to...' or 'I plan to...'.",
-                "Reinforce her commitment by summarizing her expressed motivations and commitments back to her."
+                "Encourage Talia to articulate her motivations for wanting to change her interaction patterns with Candace.",
+                "Explore her feelings about the potential benefits of expressing herself more openly.",
+                "Reinforce any statements indicating her commitment to change, such as her desire to feel more empowered."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess Talia's confidence level in confronting Candace (e.g., 'On a scale of 1-10, how confident do you feel about addressing this issue?').",
-                "Discuss any past instances where she successfully addressed conflicts, reinforcing her capability.",
-                "Help her identify what steps would increase her confidence and readiness."
+                "Ask Talia to rate her confidence in addressing Candace on a scale of 1 to 10.",
+                "Discuss what steps could increase her confidence, focusing on small, achievable goals.",
+                "Help Talia verbalize her readiness for change by discussing past successes in other areas."
+              ]
+            },
+            {
+              "strategy_name": "Identifying Supports and Resources",
+              "instructions_for_therapist": [
+                "Help Talia identify individuals in her life who could provide support during family interactions.",
+                "Explore previous instances where support helped her navigate family dynamics.",
+                "Encourage her to think of specific resources, like coping strategies or friends, she can lean on during stressful interactions."
               ]
             }
           ]
@@ -270,74 +292,81 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Action Planning",
+              "technique_name": "Behavior Experiment",
               "instructions_for_therapist": [
-                "Collaborate with Talia to create a step-by-step action plan for addressing her feelings towards Candace during the family vacation.",
-                "Break down the confrontation into smaller, manageable steps to avoid overwhelming her.",
-                "Set specific timelines for each step and encourage her to celebrate small successes along the way."
+                "Plan a low-stakes interaction with Candace where Talia can practice expressing her feelings.",
+                "Ensure the scenario is realistic and non-threatening, like discussing a family outing.",
+                "Debrief after the interaction to evaluate feelings and thoughts, reinforcing any positive outcomes."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Systematic Exposure",
               "instructions_for_therapist": [
-                "Work with Talia to identify specific coping strategies she can use when feeling anxious or fearful during family interactions.",
-                "Develop a list of positive affirmations she can use to counteract her automatic thoughts.",
-                "Role-play potential scenarios to practice her responses and validate her feelings."
+                "Create a hierarchy of situations involving family interactions that Talia finds anxiety-provoking.",
+                "Start with less intimidating scenarios and gradually work towards more challenging ones.",
+                "Discuss her feelings and coping strategies after each exposure to build resilience."
+              ]
+            },
+            {
+              "technique_name": "Action Planning",
+              "instructions_for_therapist": [
+                "Collaboratively develop a step-by-step action plan for addressing conflicts with Candace.",
+                "Include specific goals for interactions, such as using 'I' statements to express feelings.",
+                "Set a timeline for Talia to implement her action plan, ensuring it's manageable and realistic."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this case, the focus is on enhancing Talia's readiness for change by utilizing MI strategies to strengthen her commitment and confidence while addressing her fears. First, I will employ commitment language to help her articulate her motivations, reinforcing her intention to act. This aligns with her desire to confront Candace, which is essential for her personal growth. Next, I will assess her confidence and readiness through scaling questions, allowing Talia to reflect on her past successes, which can bolster her belief in her ability to handle conflict. I will then shift to CBT interventions, starting with action planning to create a structured approach to confronting Candace, ensuring that the steps are manageable to reduce her resistance. Finally, I will develop coping strategies that empower her to manage anxiety, promoting resilience in family dynamics. This combination of MI and CBT techniques is tailored to Talia's resistance profile, ensuring a supportive and collaborative environment that fosters her growth.",
-        "progress_marker": "Talia will create a detailed action plan and identify at least two coping strategies to manage her anxiety before the family vacation."
+        "therapist_reasoning": "In this session, I will leverage Motivational Interviewing strategies to help Talia strengthen her commitment to change. By encouraging her to articulate her motivations and exploring her confidence, I aim to elevate her readiness for taking action against her fears surrounding Candace. Reinforcing her support system will help her feel less isolated in her decision-making. In conjunction, I will integrate Cognitive Behavioral Therapy techniques focused on behavioral change. The behavior experiment will allow Talia to practice expressing her feelings in a low-stakes environment, reducing anxiety about potential conflict. Systematic exposure will gradually desensitize her to anxiety-provoking situations, making them more manageable. Furthermore, creating an actionable plan will provide Talia with a structured way to approach these family dynamics, making it less overwhelming. This multifaceted approach caters to Talia's resistance by framing actions as gradual and achievable, enhancing her self-efficacy without adding pressure.",
+        "progress_marker": "Talia successfully articulates her motivations and commits to her action plan, demonstrating increased confidence in addressing her family dynamics."
       },
       "client_plan": {
-        "awareness": "I recognize that my relationship with my partner's family, especially with Candace, is causing me a lot of anxiety and unhappiness.",
-        "motivation": "I feel a strong desire to improve my situation and to find a way to express my feelings without feeling helpless.",
-        "openness": "I am willing to discuss my thoughts and emotions with my therapist, as I believe it could help me understand my options better.",
-        "resistance": "I still feel hesitant and fearful about the potential consequences of confronting my feelings, leading to doubts about whether I can successfully change anything."
+        "phase_of_change": "preparation",
+        "client_objective": "I want to explore my feelings about Candace and develop a plan to address my family dynamics.",
+        "client_state": {
+          "awareness": "I realize that my relationship with Candace and my own family has caused me significant distress and that I often feel trapped in these dynamics.",
+          "motivation": "I feel a strong desire to improve my situation and am ready to consider changes that could lead to healthier interactions.",
+          "openness": "I am willing to discuss my thoughts and emotions with my therapist and explore different strategies for coping.",
+          "resistance": "I still experience doubts about whether speaking up will lead to better outcomes or just more conflict."
+        },
+        "client_reasoning": "I've come to understand that my ongoing struggles with Candace and my family have a deep-rooted impact on my happiness and self-worth. I know I can't keep avoiding the issue; it's affecting my mental health and relationships. I feel motivated to make a change because I want to feel more empowered and less like a victim in these family dynamics. However, I still worry about the potential fallout of speaking my truth—what if it backfires and makes things worse? Therapy has helped me see that I have options and that I don't have to stay silent. I hope that by discussing these feelings, I can find a way to express myself without tearing my family apart."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Talia has not articulated her motivations clearly. The client objective was not met as Talia still feels uncertain about confronting Candace.",
-          "client_utterance": "I think before I talk to my partner, I need to sort out what exactly I want to say. I'm worried about being clear, and I don’t want to come across as just complaining about Candace. It feels like a lot of pressure, and I’m not sure how to express my feelings without sounding dramatic.",
-          "therapist_utterance": "It’s understandable to feel that pressure when you want to communicate something important. What do you think are the key feelings or experiences you want your partner to understand? Maybe identifying those can help you feel more prepared to express yourself.",
-          "therapist_use": "Open-ended questioning: encouraged Talia to clarify her feelings to aid in her expression."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because Talia hasn't fully articulated her motivations for change. The client's objective was not met as she still feels uncertain about her ability to address her feelings with Candace.",
+          "client_utterance": "I feel like I have to bring this up with my partner first, but I'm still so anxious about how to even start the conversation with Candace. What if it just makes things worse? I want to feel empowered, but I’m worried that it might backfire.",
+          "therapist_utterance": "It's completely understandable to feel anxious about starting that conversation. It sounds like you’re recognizing the importance of preparing yourself with your partner's support, which is a great step. What do you think would help you feel more at ease when you do decide to talk to them about how you feel?",
+          "therapist_use": "Exploring confidence and readiness: used to encourage Talia to think about her support system and how it can help her feel more secure."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Talia hasn't yet committed to a specific action plan. The client objective was not met since Talia is still grappling with how to articulate her feelings.",
-          "client_utterance": "I guess I want him to know how overwhelmed I feel by Candace's behavior and how it brings back memories of my dad. I just don't want to burden him with my issues. I keep thinking that maybe I should just handle it myself.",
-          "therapist_utterance": "It’s important that you don’t feel like a burden when sharing your experiences. How might sharing this with your partner actually help you feel lighter or supported? It sounds like recognizing your feelings is crucial for both you and your relationship.",
-          "therapist_use": "Reflective listening: validated Talia's feelings while encouraging her to see the potential benefits of sharing."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Talia has not yet fully articulated her motivations. The client's objective was not met because she still feels conflicted about how to express her feelings to Candace.",
+          "client_utterance": "I guess if I can talk to my partner about my feelings first, it might help me find the right words. But I'm still struggling with the idea of actually confronting Candace. I don’t want to ruin things for my partner or make it awkward.",
+          "therapist_utterance": "It sounds like you're really torn between wanting to express yourself and fearing the potential impact on your relationship with your partner. It's valid to want to protect that dynamic, but it’s also important to prioritize your feelings. How can you frame this conversation with your partner to ensure they understand your perspective?",
+          "therapist_use": "Strengthening commitment language: used to encourage Talia to articulate her motivations and recognize the importance of her feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Talia has not yet expressed any commitment to take action. The client objective was not met as Talia is still hesitant about sharing her feelings.",
-          "client_utterance": "I think if I could just express that his support means a lot to me, it might make it easier. But I still worry about how he might react to that. I don't want to add to the tension, especially if it doesn’t change anything.",
-          "therapist_utterance": "It’s valid to worry about tension, especially when past experiences loom large. What if you framed your needs in a way that emphasizes your relationship and your desire for connection? That might help alleviate some of that pressure.",
-          "therapist_use": "Reframing: suggested a different perspective on her needs to reduce her anxiety about the conversation."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Talia hasn't fully committed to addressing her feelings yet. The client's objective was not met because she continues to express doubt about confronting Candace.",
+          "client_utterance": "I think I could say something like, 'I need to talk about how I feel with Candace,' but it still feels intimidating. I keep thinking about how she might react, and that makes me hesitant. I really want to feel more empowered in these situations.",
+          "therapist_utterance": "That’s a great way to frame the conversation. Acknowledging your needs is the first step towards feeling empowered. What would be the first small step you could take to prepare yourself for that conversation with Candace?",
+          "therapist_use": "Identifying supports and resources: used to help Talia think about actionable steps while preparing for her interaction with Candace."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met since Talia has not yet made a clear commitment to action. The client objective was not met as Talia continues to express doubt about her feelings being accepted.",
-          "client_utterance": "I could say something like, 'I just want to feel supported,' but what if he doesn’t understand? It’s hard to imagine him being fully receptive, given how tense things can get. I just keep thinking about how Candace might react too, and it makes me want to backtrack.",
-          "therapist_utterance": "It’s tough when you have that fear of not being understood, especially when it comes from past experiences. How have you navigated similar situations in the past, and what worked for you? Reflecting on that might help build your confidence.",
-          "therapist_use": "Scaling question: encouraged Talia to think of past successes to boost her confidence in addressing conflicts."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as Talia has not yet devised a complete action plan. The client's objective was not met because she still feels unsure about her next steps.",
+          "client_utterance": "Maybe I can practice what I want to say with my partner first. I just want to make sure I express my feelings without it turning into a big confrontation. I still feel nervous about how Candace might respond.",
+          "therapist_utterance": "Practicing with your partner sounds like a constructive approach. It can provide you with a safe space to refine your thoughts and gain confidence. How do you think you might feel after trying that practice run?",
+          "therapist_use": "Exploring confidence and readiness: used to encourage Talia to verbalize her thoughts and anticipate the outcomes of practicing her approach."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Talia has not yet articulated a specific commitment to action. The client objective was not met because Talia is still expressing uncertainty about her ability to express herself.",
-          "client_utterance": "I remember a time when I spoke up about my needs, and it did lead to a better understanding. But that was different; it feels like the stakes are higher now. I just don’t want to feel dismissed again.",
-          "therapist_utterance": "That past experience shows you have the capability to express your needs successfully. How might you apply what you learned from that situation to this one? It could be helpful to think of those moments as strengths you can draw upon.",
-          "therapist_use": "Strengthening commitment language: helped Talia recognize her past successes to build her confidence."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because Talia hasn't finalized her action plan yet. The client's objective was not met as she still feels uncertain about her ability to manage the confrontation.",
+          "client_utterance": "I think practicing will help, but I still wonder if it will actually change anything with Candace. What if she still doesn’t take me seriously? I want to believe it can get better, but I’m scared.",
+          "therapist_utterance": "It's completely normal to feel scared about potential outcomes, especially with such significant past experiences. It’s commendable that you're still willing to try, despite those fears. What are some ways you could remind yourself of your strengths during that practice and when you face Candace?",
+          "therapist_use": "Identifying supports and resources: used to help Talia build her self-efficacy by exploring her strengths and coping strategies."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met since Talia has not yet created a clear action plan. The client objective was not met as Talia still feels anxious about expressing her feelings.",
-          "client_utterance": "I guess I could start by writing down how I feel before I talk to him. That way, I can sort through my thoughts and feel more prepared. It feels like a less direct way to start, but I think it could help.",
-          "therapist_utterance": "That sounds like a great idea! Writing down your feelings can clarify your thoughts and make the conversation feel less daunting. What specific feelings do you want to include in that writing process?",
-          "therapist_use": "Action planning: collaborated with Talia to create a step towards expressing her feelings."
-        },
-        {
-          "reason_for_ending": "MOVE - The therapist objective was met as Talia has taken a significant step towards creating an action plan. The client objective was met since Talia has expressed a commitment to preparing for the conversation.",
-          "client_utterance": "I think I’ll write down my feelings tonight. It feels like a manageable step, and I can always adjust it as I go. I just hope it helps me convey what I need to my partner more clearly.",
-          "therapist_utterance": "That’s a wonderful step, Talia! Writing can really help you process and express your feelings effectively. I believe this will not only help you communicate, but also empower you to stand up for yourself.",
-          "therapist_use": "Summarization: reinforced Talia's commitment to action and encouraged her progress."
+          "reason_for_ending": "MOVE: The therapist's objective was met as Talia has begun to articulate her motivations and express her commitment to change. The client's objective was met because she has developed a clearer action plan to address her feelings with Candace.",
+          "client_utterance": "I think if I can remind myself of how I deserve to be treated, it could help me feel stronger when I talk to Candace. I’m realizing that I have the right to express my feelings, and that’s empowering. I want to take these steps and see what happens.",
+          "therapist_utterance": "That’s an empowering realization, Talia! Recognizing your right to express your feelings is a significant step towards healthier interactions. It seems like you're ready to take these steps and explore how things can improve with Candace.",
+          "therapist_use": "Strengthening commitment language: used to reinforce Talia's recognition of her rights and her readiness to take action towards change."
         }
       ]
     }

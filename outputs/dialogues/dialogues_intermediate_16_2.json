@@ -12,30 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Mason's awareness of his thoughts and emotions related to decision-making and procrastination.",
+          "objective": "Increase Mason's awareness of his thoughts and feelings related to his current situation without pressuring him to change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Mason's concerns and feelings without judgment.",
-                "Reflect back what Mason shares, highlighting his ambivalence about making decisions.",
-                "Use phrases like 'It sounds like you're feeling overwhelmed by the choices you have.'"
+                "Practice active listening to Mason's concerns and feelings about his experiences in Europe and his feelings of being overwhelmed.",
+                "Reflect back what Mason shares to validate his feelings and help him feel understood."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Validate Mason's feelings of anxiety and fear regarding decision-making.",
-                "Acknowledge the difficulty of his situation, emphasizing that it's okay to feel stuck.",
-                "Use empathetic statements to build rapport, such as 'It makes sense that you're feeling this way given everything you've been through.'"
+                "Acknowledge Mason's feelings of anxiety and his ambivalence towards decision-making.",
+                "Use empathetic statements to convey understanding of his fears and concerns."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore discrepancies between Mason's current feelings and his personal values.",
-                "Encourage him to reflect on what truly matters to him in life and how that relates to his current situation.",
-                "Ask questions like 'How does procrastination fit with your desire to show something for your efforts?'"
+                "Gently explore the gap between Mason's current feelings of overwhelm and his personal values or aspirations.",
+                "Ask open-ended questions that invite him to consider how his current state aligns with his values."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Encourage Mason to reflect on his coping strategies and the emotions that arise when he feels paralyzed by options.",
+                "Use questions to help him explore the impact of avoidance on his life."
               ]
             }
           ]
@@ -43,88 +47,92 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Mason to recognize automatic thoughts that arise when he considers decision-making.",
-                "Encourage him to articulate thoughts like 'I can't make the wrong decision.'",
-                "Help him see how these thoughts contribute to his anxiety and paralysis."
+                "Guide Mason to examine evidence for and against his core beliefs about incompetence and failure.",
+                "Ask questions like, 'What evidence do you have that supports or contradicts the belief that you are a failure?'"
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Introduce the concept of cognitive distortions and help Mason identify patterns in his thinking.",
-                "Focus on 'all-or-nothing thinking' and the belief that he must always have something to show for his actions.",
-                "Encourage him to challenge these distortions by discussing alternative perspectives."
+                "Help Mason test the validity of his automatic thoughts by discussing past decisions and their outcomes.",
+                "Encourage him to consider if every decision he made resulted in failure."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Work with Mason to explore the antecedents and consequences of his procrastination.",
-                "Help him identify triggers that lead to avoidance and the emotional fallout that follows.",
-                "Discuss how these patterns impact his feelings of self-worth."
+                "Invite Mason to look at his situation from a different angle, such as considering what he would tell a friend in his position.",
+                "Encourage him to explore less judgmental thoughts about his current state."
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Ask Mason to rate his feelings about decision-making and avoidance on a scale from 1 to 10.",
+                "Discuss where he falls on that scale and what factors contribute to his positioning."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this therapeutic approach, I first aim to establish rapport with Mason through reflective listening and expressing empathy. These MI strategies are essential to reduce his defensiveness and create a safe space for him to explore his feelings. As he is in the Pre-contemplation phase, I will not push for immediate change but instead facilitate awareness. I will guide Mason through identifying his automatic thoughts about decision-making, recognizing that his belief he 'can't make the wrong decision' leads to paralysis. This aligns with CBT's focus on understanding cognitive patterns. By using functional analysis, I will help Mason observe the triggers of his procrastination, which will deepen his self-awareness without pushing for behavioral change. The goal is to foster curiosity about his emotions and thought processes, encouraging him to reflect on discrepancies between his current situation and his values without feeling pressured to act. This gradual approach respects his ambivalence and aims to increase his engagement in therapy.",
-        "progress_marker": "Mason begins to articulate his feelings and thoughts related to decision-making, showing increased self-awareness and willingness to explore his cognitive patterns."
+        "therapist_reasoning": "In addressing Mason's pre-contemplation stage, the therapist will first implement Motivational Interviewing strategies to foster a non-judgmental environment. Reflective listening will help Mason feel heard and understood, thereby reducing defensiveness. Expressing empathy allows the therapist to connect with Mason's feelings of anxiety and overwhelm, validating his experiences. Developing discrepancy will facilitate Mason's exploration of his current state versus his values, inviting curiosity about his situation. Raising awareness through open-ended questions will prompt deeper reflection without pushing for immediate change. Concurrently, the therapist will incorporate CBT techniques to challenge Mason's cognitive patterns. Evidence-based questioning will encourage him to consider the validity of his core beliefs about failure, while reality testing will help him assess the outcomes of past decisions. Using alternative perspectives and the continuum technique will further assist Mason in recognizing that his feelings about decision-making are not fixed, promoting a more flexible mindset. This approach respects his ambivalence and fosters engagement while maintaining focus on awareness rather than action.",
+        "progress_marker": "Mason begins to articulate his feelings and thoughts about decision-making, demonstrating increased self-awareness without feeling pressured to change."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to maybe discuss my feelings about my project and life choices without feeling pressured to make changes.",
+        "client_objective": "I just want to talk about my project and avoid the messy feelings that come with change.",
         "client_state": {
-          "awareness": "I have some sense that my procrastination and anxiety are issues, but I don't want to label them as problems that need fixing.",
-          "motivation": "I feel a little motivation to change, but it’s overshadowed by doubt and fear of failure.",
-          "openness": "I am somewhat guarded and hesitant to share my deeper thoughts and feelings about my situation.",
-          "resistance": "I strongly defend against discussing my feelings, using avoidance as a shield."
+          "awareness": "I don't really see a problem; I'm just busy with my project.",
+          "motivation": "I'm not sure I even want to change anything in my life right now.",
+          "openness": "I feel uncomfortable sharing my deeper thoughts and feelings with the therapist.",
+          "resistance": "I often dismiss the need to discuss my situation."
         },
-        "client_reasoning": "I know I should be making decisions about my future, but every time I think about it, I feel overwhelmed. It’s like I’m stuck in this fog of uncertainty where every choice feels like a potential disaster. I often convince myself that if I avoid confronting these decisions, maybe they’ll sort themselves out. It’s hard to talk about my feelings because I worry that they’ll just make me feel worse or expose how unprepared I really am. I keep telling myself that I need to have something concrete to show for my time in Europe, but what if I fail to produce anything worthwhile? That thought terrifies me, and I can't shake the feeling that I’m just wasting time. Therapy feels uncomfortable because I’m afraid of being judged for not having things figured out. I’d rather keep those feelings at bay than risk feeling even more helpless and lost.",
-        "progress_marker": "Client begins to acknowledge feelings of anxiety and avoidance as they discuss their life choices."
+        "client_reasoning": "I feel like I've put so much effort into my project, and talking about my feelings seems pointless. The truth is, I’m scared to confront what’s really going on inside me. I keep thinking that if I just stay focused on my work, everything will be fine, but deep down, I know I’m avoiding something. I believe that if I don’t have something tangible to show for my efforts, I’m a failure, and that thought terrifies me. When I sit in therapy, I feel a mix of anxiety and defensiveness. I want to avoid discussions about my internal struggles because it feels overwhelming. I tell myself that maybe I should just push these feelings aside for now; after all, I’ve managed to keep things together so far. So why open up about the messiness of my thoughts when I can just focus on my project?",
+        "progress_marker": "Client expresses minimal awareness of their deeper issues and focuses primarily on external accomplishments."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason has not yet begun to explore his feelings about decision-making. Client objective not met: Mason is still guarded and hesitant to share deeper thoughts.",
-          "client_utterance": "I've been thinking about my project, but every time I do, I just feel more anxious. It’s hard to even start because I keep imagining all the ways it could go wrong. I wish I could just be excited about what I did in Europe, but instead, I feel this pressure to have something perfect to show for it.",
-          "therapist_utterance": "It sounds like you're feeling overwhelmed by the pressure to produce something perfect. It's understandable to feel anxious when you're caught up in those thoughts. Can you tell me more about what it feels like to think about your project?",
-          "therapist_use": "Reflective Listening: used to acknowledge Mason's feelings of pressure and anxiety."
+          "reason_for_ending": "KEEP: Therapist's objective to increase Mason's awareness of his emotions was not sufficiently met as he focused primarily on his project. Client's objective to avoid deeper feelings was also not sufficiently met as he remained defensive.",
+          "client_utterance": "I've been so busy with my project and making progress on the website. I really don't see the point in discussing my feelings when everything seems to be going well. It's just overwhelming to think about all that emotional stuff.",
+          "therapist_utterance": "It sounds like you're feeling a lot of pressure to keep things moving with your project, and that can feel overwhelming. I hear you saying that you don't see the value in exploring those feelings right now. Can you tell me more about what it feels like to be so focused on your project?",
+          "therapist_use": "Reflective Listening: validated Mason's feelings of being overwhelmed by focusing on his project."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason has not yet articulated specific thoughts about his procrastination. Client objective not met: Mason remains resistant to discussing deeper feelings.",
-          "client_utterance": "I guess I just keep telling myself that if I ignore it, maybe it will go away. But the truth is, it just makes me feel worse. I feel stuck, like I'm just going in circles without making any progress.",
-          "therapist_utterance": "It makes sense that you're feeling this way given everything you've been through. Ignoring those feelings seems like a way to cope, but it sounds like it’s not really helping in the long run. What do you think is stopping you from facing those feelings head-on?",
-          "therapist_use": "Expressing Empathy: used to validate Mason's feelings of being stuck and his coping mechanism."
+          "reason_for_ending": "KEEP: Therapist's objective to explore Mason's feelings further was not sufficiently met as he continues to resist discussing deeper issues. Client's objective to avoid messy feelings remains intact as he prioritizes external accomplishments.",
+          "client_utterance": "I just feel like if I keep pushing forward, I’ll have something to show for my time in Europe. Talking about feelings feels pointless, like it’ll just distract me from what I need to get done. I don’t want to derail my progress.",
+          "therapist_utterance": "That makes sense; you’ve put a lot of effort into this project, and it’s understandable that you want to see results. It seems like you're worried that exploring other parts of your life might take away from your focus. How do you think this intense focus on your work affects you overall?",
+          "therapist_use": "Developing Discrepancy: gently encouraged Mason to consider the impact of his work focus on his overall well-being."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason has not yet explored the discrepancies between his feelings and values. Client objective not met: Mason is still using avoidance as a shield.",
-          "client_utterance": "I don't know... I feel like if I face it, I’ll just spiral into more anxiety. I keep pushing it aside because I’m scared of what I might discover about myself. It’s like I have this fear that if I confront it, I might find out I’m not good enough.",
-          "therapist_utterance": "It sounds like there’s a lot of fear around what confronting those feelings might reveal. That fear is completely understandable, especially when you’re trying to balance your expectations. How does that fear of not being good enough fit into your desire to show something for your efforts?",
-          "therapist_use": "Developing Discrepancy: used to explore the conflict between Mason's fears and his aspirations."
+          "reason_for_ending": "KEEP: Therapist's objective to promote deeper self-awareness was not sufficiently met as Mason still avoids discussing his emotions. Client's objective of discussing his project while dismissing deeper issues continues.",
+          "client_utterance": "I guess I feel fine as long as I’m getting things done. But sometimes I wonder if I’m just avoiding something deeper. It’s hard to think about that when I have deadlines looming over me.",
+          "therapist_utterance": "It sounds like there’s a part of you that recognizes the possibility of avoiding deeper feelings, but the pressure of deadlines keeps you focused on the task at hand. It’s completely normal to feel conflicted about this. What do you think would happen if you allowed yourself a moment to consider those feelings?",
+          "therapist_use": "Raising Awareness: prompted Mason to reflect on the potential consequences of avoiding deeper feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason has not yet identified specific thoughts contributing to his anxiety. Client objective not met: Mason remains hesitant to engage deeply with his thoughts.",
-          "client_utterance": "I guess it feels like I have to prove something, like I need to have evidence that my time was worthwhile. But every time I think about it, it just makes me freeze up. I tell myself that I have to have a perfect outcome, and if I don't, then what’s the point?",
-          "therapist_utterance": "You’re expressing a lot of pressure to have everything figured out perfectly. It’s understandable to want to validate your efforts, but it seems like that pressure might be paralyzing you. What thoughts come to mind when you think about not having that perfect outcome?",
-          "therapist_use": "Identifying Automatic Thoughts: used to help Mason articulate his thoughts about needing a perfect outcome."
+          "reason_for_ending": "KEEP: Therapist's objective to deepen Mason's self-awareness was not sufficiently met as he remains hesitant to confront his feelings. Client's objective to avoid discussing his internal struggles continues.",
+          "client_utterance": "I don't know, maybe it would just make me anxious. I’ve been able to manage my time and tasks, so why mess with that? I feel like I'm doing okay as long as I keep busy.",
+          "therapist_utterance": "It seems that you're concerned that facing those feelings might disrupt the structure you've built while working on your project. You're doing a lot to keep everything together, and it’s understandable to want to maintain that. If you think about someone else in your position, what might you suggest they do when they feel anxious?",
+          "therapist_use": "Alternative Perspective: encouraged Mason to consider what advice he might give to someone else in a similar situation."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason has not yet recognized cognitive distortions in his thinking. Client objective not met: Mason is still feeling overwhelmed by the expectations he places on himself.",
-          "client_utterance": "When I think about it, I often feel like it’s all or nothing. I tell myself that I should either have something amazing to show for my time, or I’ve failed completely. I know that’s not entirely true, but it’s hard to shake off that mindset.",
-          "therapist_utterance": "It’s insightful that you’re recognizing that all-or-nothing thinking. It can be tough to see things in shades of gray when you're feeling overwhelmed. How might your feelings change if you allowed for the possibility that any progress, no matter how small, could still be valuable?",
-          "therapist_use": "Recognizing Cognitive Distortions: used to help Mason challenge his all-or-nothing thinking."
+          "reason_for_ending": "KEEP: Therapist's objective to explore Mason's deeper feelings was not sufficiently met as he continues to avoid the topic. Client's objective to focus on his project and avoid emotional discussion remains unfulfilled.",
+          "client_utterance": "I might tell them to just keep going and not overthink things. But honestly, I feel like I should just stick to what I know. It’s easier that way.",
+          "therapist_utterance": "Sticking to what you know feels safer, especially when you’re managing so much. It’s interesting that you can see a different perspective for others but find it harder to apply it to yourself. What do you think keeps you from taking that advice for your own situation?",
+          "therapist_use": "Developing Discrepancy: invited Mason to explore the difference between his advice for others and his own situation."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason has not yet engaged in functional analysis of his procrastination. Client objective not met: Mason is still holding back from discussing his avoidance behaviors.",
-          "client_utterance": "I think my avoidance is just my way of coping with all this pressure. It feels easier to do nothing than to risk failing at something. I know it’s a pattern, but it’s really hard to break out of it.",
-          "therapist_utterance": "It sounds like you’re aware of how avoidance can feel like a temporary relief from that pressure. Recognizing that pattern is an important step. What specific triggers do you notice that lead you to avoid making decisions or taking action?",
-          "therapist_use": "Functional Analysis of Behavior: used to help Mason explore the antecedents of his procrastination."
+          "reason_for_ending": "KEEP: Therapist's objective to promote awareness of Mason's feelings was not sufficiently met since he remains focused on avoidance. Client's objective to avoid discussing deeper feelings continues.",
+          "client_utterance": "I guess I just don’t want to deal with anything that feels uncomfortable. I’ve made it this far, so why change that? I feel like I have to keep pushing forward.",
+          "therapist_utterance": "It’s understandable to want to avoid discomfort, especially when you've been successfully pushing forward. That avoidance can sometimes lead to more pressure over time, though. How do you think that pressure might affect your ability to enjoy the success you’ve created?",
+          "therapist_use": "Raising Awareness: encouraged Mason to reflect on the potential long-term effects of his avoidance on his success."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: Mason has articulated his feelings and thoughts related to decision-making. Client objective met: Mason has begun to acknowledge his avoidance and is expressing a willingness to explore it further.",
-          "client_utterance": "I think I need to start being more honest with myself about my feelings and the pressure I put on myself. Maybe if I can understand those triggers better, I can find a way to cope that doesn’t involve avoidance. It’s scary, but I can feel a little motivation to try.",
-          "therapist_utterance": "That’s a significant realization, Mason. Acknowledging the pressure and your feelings is a brave step forward. It’s encouraging to hear that you’re feeling some motivation to explore this further.",
-          "therapist_use": "Expressing Empathy: used to validate Mason's courage in acknowledging his feelings and exploring his motivation."
+          "reason_for_ending": "MOVE: Therapist's objective to increase awareness of Mason's feelings was met as he began to articulate his concerns about avoidance. Client's objective to discuss his project while recognizing deeper issues was met as he expressed his discomfort.",
+          "client_utterance": "I suppose if I keep avoiding, it might catch up to me later. I feel like I’m at a crossroads, and maybe I need to think about how I really feel. It’s just scary to confront that.",
+          "therapist_utterance": "It sounds like you're beginning to see the importance of considering those feelings, even if it feels scary. Acknowledging that you're at a crossroads is a significant step. What do you think would help you as you start to navigate this uncertainty?",
+          "therapist_use": "Expressing Empathy: acknowledged Mason's feelings of fear while validating his recognition of being at a crossroads."
         }
       ]
     },
@@ -133,28 +141,29 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Mason's ambivalence towards making decisions while increasing his motivation to consider change.",
+          "objective": "Explore Mason's ambivalence towards change and increase his motivation for making decisions about his future.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Mason about his feelings regarding the changes he is contemplating.",
-                "Encourage him to express both sides of his ambivalence regarding decision-making.",
-                "Facilitate a discussion about what he enjoys about his current situation and what he finds challenging."
+                "Facilitate a discussion about Mason's conflicting feelings regarding decision-making.",
+                "Ask open-ended questions to help Mason articulate both his desire to change and his fears.",
+                "Reflect back his ambivalence to validate his feelings and encourage deeper exploration."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Mason to articulate reasons why he might want to change.",
-                "Use open-ended questions to help him reflect on the potential benefits of taking steps towards decision-making."
+                "Encourage Mason to express reasons for wanting to make changes.",
+                "Use affirmations to reinforce positive statements he makes about change.",
+                "Prompt him to explore what change would mean for his sense of self and future."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Guide Mason through a pros and cons list regarding his current behaviors and potential changes.",
-                "Encourage him to weigh the benefits of remaining in his current state against the possible advantages of making decisions."
+                "Guide Mason in identifying the pros and cons of making decisions versus avoiding them.",
+                "Use a pros and cons chart to visualize his thoughts, making it easier for him to articulate his ambivalence."
               ]
             }
           ]
@@ -162,85 +171,85 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Socratic Questioning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Use guided questions to help Mason examine the validity of his core beliefs.",
-                "Encourage him to consider situations where he has succeeded despite feeling incompetent."
+                "Help Mason identify his fears about making the wrong decision.",
+                "Challenge these thoughts by asking him to consider the worst-case scenario and its likelihood.",
+                "Discuss how he could cope with the worst-case scenario if it were to happen."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Help Mason recognize patterns of all-or-nothing thinking regarding decision-making.",
-                "Facilitate a dialogue around how these distortions affect his feelings and behaviors."
+                "Facilitate a session where Mason lists the pros and cons of his current situation and potential changes.",
+                "Encourage him to reflect on how each item on the list aligns with his values and long-term goals."
               ]
             },
             {
-              "technique_name": "Examining Underlying Beliefs",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Encourage Mason to explore the belief that he must always produce results to avoid feeling like a failure.",
-                "Discuss alternative beliefs that could reduce pressure on himself and promote a healthier mindset."
+                "Ask Mason to provide evidence for his beliefs about failure and incompetence.",
+                "Help him identify instances where he has succeeded despite his fears."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this session, I will begin by exploring Mason's ambivalence towards making decisions, which is crucial given his current contemplation phase. Using Motivational Interviewing strategies, I will facilitate discussion about his feelings regarding change, encouraging him to express both sides of his ambivalence. This will help him articulate his motivations for change through eliciting change talk. I will also guide him through a decisional balance exercise to weigh the pros and cons of his current situation versus potential changes. Concurrently, I will employ CBT techniques such as Socratic questioning to challenge his core beliefs of incompetence and failure. I will prompt him to reflect on past successes to counteract these beliefs. Additionally, I will help Mason identify cognitive distortions, particularly all-or-nothing thinking, which contributes to his paralysis in decision-making. By examining these underlying beliefs, I aim to foster a more supportive mindset that can ease his anxiety and enhance his self-efficacy. This combined approach will allow Mason to gain insights while feeling supported in his ambivalence about change.",
-        "progress_marker": "Mason articulates at least one reason for wanting to change and identifies a cognitive distortion related to his decision-making process."
+        "therapist_reasoning": "In this therapy plan, I begin by implementing Motivational Interviewing strategies to explore Mason's ambivalence regarding change. The first step is to facilitate a discussion about his conflicting feelings, using open-ended questions to draw out his thoughts on change. This approach aligns with his resistance profile, as he expresses a desire to avoid decision-making. Next, I will elicit change talk by encouraging him to articulate his motivations for change, reinforcing positive statements about his aspirations. Subsequently, I will engage him in decisional balance discussions to visualize the pros and cons of his current behaviors versus making changes, helping him clarify his values. Complementing MI, I incorporate CBT techniques such as decatastrophizing to challenge his catastrophic thinking surrounding decisions and to encourage a rational assessment of potential outcomes. Additionally, I will guide him through pros and cons analysis to align his choices with his values, and use evidence-based questioning to counter his negative core beliefs about his competence. This structured approach aims to enhance Mason's motivation while respecting his ambivalence, promoting a collaborative therapeutic environment.",
+        "progress_marker": "Mason articulates specific reasons for wanting to change and begins to identify potential steps he could take, reflecting a deeper understanding of his ambivalence."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about decision-making and gain clarity on my next steps.",
+        "client_objective": "I hope to explore my feelings about making decisions and find clarity about my next steps.",
         "client_state": {
-          "awareness": "I am starting to see that my procrastination and anxiety are linked to my fear of making the wrong decisions, and I recognize that this pattern has been holding me back.",
-          "motivation": "I want to change and make decisions, but I feel torn because I worry about failing or making mistakes.",
-          "openness": "I am willing to share my thoughts and emotions with my therapist, but I sometimes hesitate to fully express my fears about change.",
-          "resistance": "I still feel a strong pull to avoid making decisions, and I often defend my current state by thinking that maybe I should focus on other things first."
+          "awareness": "I am starting to recognize that my procrastination and anxiety are linked to my fear of making the wrong choices.",
+          "motivation": "I see the importance of making changes, but I often feel hesitant and unsure about how to proceed.",
+          "openness": "I feel somewhat willing to share my thoughts and emotions, but I still hold back at times due to fear of judgment.",
+          "resistance": "I often find myself avoiding discussions about change, feeling conflicted between wanting to improve and fearing failure."
         },
-        "client_reasoning": "I'm beginning to understand that my situation isn't working as I thought it would. The past eleven months in Europe should have been productive, but instead, I find myself stuck in indecision. I notice that my anxiety spikes whenever I think about making choices, and I can't shake the feeling that if I don't have something concrete to show, I'm failing. It's frustrating because part of me wants to take action, yet another part feels paralyzed by the fear of making the wrong decision. What if I choose incorrectly? What if I end up regretting my choices? These thoughts swirl in my mind, making it hard to focus on what I truly want. Therapy is helping me reflect on these issues, but I still feel conflicted about whether to embrace change or stick with the familiar, even if it isn't satisfying. I know I need to explore these feelings more deeply, yet I hesitate, caught between wanting to move forward and fearing the consequences of my decisions.",
-        "progress_marker": "Client identifies specific patterns of thoughts and emotions related to decision-making."
+        "client_reasoning": "I’ve been thinking a lot about my time in Europe and how I want to show for it, but I can’t shake the feeling that I might be failing. I notice that I often feel paralyzed by choices, like I’m stuck in this loop of overthinking everything. I know I should make decisions, but there’s a part of me that wonders if it’s better to just avoid the pressure for now. It’s frustrating because I want to change, but the fear of making a wrong choice looms large over me. Therapy has been a space where I can reflect on these feelings, and I’m starting to see that my anxiety is tied to these deep beliefs about failure. I’m still not sure if I can truly commit to change, but I feel like I’m at least beginning to understand my patterns more clearly."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn't fully explored his ambivalence towards decision-making. Client objective not met: Mason hasn't yet articulated specific reasons for wanting to change.",
-          "client_utterance": "I've been thinking more about why I feel so stuck. It's like I really want to make decisions, but every time I try, I just get overwhelmed by the fear of messing up. I guess part of me is scared that if I choose wrong, I’ll regret it and feel like I wasted my time.",
-          "therapist_utterance": "It's understandable to feel that way, especially when the stakes feel high. What do you think you might gain if you were to take a step forward, despite that fear? Are there aspects of decision-making that excite you or that you enjoy?",
-          "therapist_use": "Exploring ambivalence: encouraging Mason to identify potential gains from decision-making."
+          "reason_for_ending": "KEEP - The therapist's objective to explore ambivalence about change was not fully met as Mason still feels conflicted about confronting his feelings. The client's objective to find clarity about his next steps has not been achieved as he remains hesitant.",
+          "client_utterance": "I think I'm starting to realize that avoiding my feelings might not be the best approach, but I still don't know how to confront them. It's like I want to just keep busy and not think about it, but I also feel stuck. What if I looked deeper and found something I don't like?",
+          "therapist_utterance": "It's understandable to worry about what you might find if you look deeper. It sounds like you're caught between wanting to avoid discomfort and the need to understand what’s holding you back. Can you share more about what you're afraid you might discover?",
+          "therapist_use": "Open-ended question: encouraged Mason to explore his fears regarding confronting deeper feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn't fully expressed both sides of his ambivalence. Client objective not met: Mason hasn't articulated a specific motivation to change.",
-          "client_utterance": "I think if I could just make a choice, it would feel like I’m finally moving forward. But then I worry that I might not be ready or that I’ll just end up feeling worse. I guess I enjoy the idea of progress, but the fear of failure keeps pulling me back.",
-          "therapist_utterance": "It's great to hear you recognize that desire for progress. It seems like your fear of failure is really strong, though. How does that fear weigh against the potential benefits of moving forward? What might happen if you allowed yourself to take just a small step?",
-          "therapist_use": "Decisional balance discussions: guiding Mason to weigh the benefits of moving forward against his fears."
+          "reason_for_ending": "KEEP - The therapist's objective to validate Mason's ambivalence was not fully met as he hasn't articulated specific fears yet. The client's objective to explore feelings has not been fully achieved since he hasn't clarified what he fears discovering.",
+          "client_utterance": "I'm afraid that if I dig too deep, I might realize I'm not as accomplished as I want to believe. What if I uncover feelings of failure that I've been trying to ignore? It's just overwhelming to think about that.",
+          "therapist_utterance": "It seems like you're grappling with the fear of facing feelings that could shake your sense of accomplishment. Acknowledging that fear is an important step, and it’s okay to feel overwhelmed. What would it look like for you to explore those feelings in a safe way?",
+          "therapist_use": "Reflective listening: validated Mason's feelings of fear and overwhelm while encouraging exploration."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn’t yet discussed the pros and cons in detail. Client objective not met: Mason hasn't identified specific patterns affecting his decision-making.",
-          "client_utterance": "I can see how taking small steps could help, but I just keep thinking about the 'what ifs'. What if I choose the wrong path? It’s like I’m stuck in this loop, and it makes me hesitant to even try anything.",
-          "therapist_utterance": "That loop sounds really frustrating to be in. It might help to explore those 'what if' scenarios a bit more. What are some of the worst-case outcomes you imagine, and how likely do you think they are? Conversely, what could be some positive outcomes of taking action?",
-          "therapist_use": "Socratic questioning: helping Mason examine the validity of his fears and consider alternative outcomes."
+          "reason_for_ending": "KEEP - The therapist's objective to prompt change talk wasn't fully met as Mason hasn't identified specific motivations for change. The client's objective to find clarity about his next steps remains unmet as he still feels conflicted.",
+          "client_utterance": "Maybe if I could find a way to approach those feelings without getting too anxious, I could start to see if they really matter. But right now, I'm just stuck in this loop of thinking about it all. I want to figure out what change means for me.",
+          "therapist_utterance": "It’s great that you’re considering how to approach your feelings without letting anxiety take over. Recognizing that you want clarity is a positive step. What are some things you hope to understand better about your feelings and the changes you’re contemplating?",
+          "therapist_use": "Eliciting change talk: encouraged Mason to articulate his hopes for understanding his feelings and contemplating change."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn't fully recognized cognitive distortions in his thinking. Client objective not met: Mason has not yet expressed specific motivations to change.",
-          "client_utterance": "When I think about it, I often swing between feeling like I should either be perfect or just give up completely. I know that’s not realistic, but it’s hard to shake off those thoughts. Sometimes I wonder if I’m setting myself up for failure just by thinking that way.",
-          "therapist_utterance": "Recognizing that all-or-nothing thinking is an important step. How does that perspective affect your feelings about making decisions? What could happen if you allowed for a middle ground, where making progress doesn’t have to mean being perfect?",
-          "therapist_use": "Identifying cognitive distortions: helping Mason recognize his all-or-nothing thinking patterns."
+          "reason_for_ending": "KEEP - The therapist's objective to explore Mason's motivations wasn't fully met as he hasn't connected his feelings to potential changes. The client's objective to clarify next steps remains unmet as he still feels vague about what those steps could be.",
+          "client_utterance": "I guess if I could see how those feelings tie into my goals, maybe it would help me feel more motivated. I just worry that addressing my feelings might distract me from what I've accomplished. But then again, maybe it’s necessary for moving forward.",
+          "therapist_utterance": "You're beginning to make a connection between your feelings and your goals, which is promising. It’s understandable to fear that addressing your feelings might derail your accomplishments. How might addressing those feelings actually support your goals and help you move forward?",
+          "therapist_use": "Decisional balance discussion: facilitated a conversation about the potential benefits of addressing feelings in relation to Mason's goals."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn't discussed how to challenge his beliefs yet. Client objective not met: Mason hasn't articulated why he wants to change.",
-          "client_utterance": "I think if I could just let go of that pressure to be perfect, I might feel freer to explore my options. It’s just hard to imagine what that would look like in practice. Maybe I’m scared that without that pressure, I won’t know how to motivate myself.",
-          "therapist_utterance": "It's insightful that you're thinking about the pressure you put on yourself. What if we explored some alternative beliefs that could help reduce that pressure? How might you view your efforts differently if you focused on learning instead of just results?",
-          "therapist_use": "Examining underlying beliefs: encouraging Mason to explore less pressured perspectives on his efforts."
+          "reason_for_ending": "KEEP - The therapist's objective to validate ambivalence was not fully met as Mason hasn't committed to addressing his feelings yet. The client's objective to find clarity about his next steps remains unmet as he is still hesitant.",
+          "client_utterance": "I see what you're saying, but it feels risky. What if I open up a can of worms that I can't close again? I want to move forward, but I feel like I'm walking a tightrope.",
+          "therapist_utterance": "It’s completely valid to feel that opening up could lead to unexpected challenges. You're expressing a real concern about the risks involved, which shows how much you care about your progress. What do you think you could do to prepare yourself for whatever might come up?",
+          "therapist_use": "Reflective listening and exploration: validated Mason's concerns about risks while encouraging preparation for potential challenges."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn't fully articulated a desire to embrace change. Client objective not met: Mason hasn't expressed clarity on the next steps.",
-          "client_utterance": "I guess if I shifted my focus to learning, it might take some of the weight off. But I still feel this pull to have something concrete to show. It’s like I want to embrace change, but I’m still holding onto that fear of failure.",
-          "therapist_utterance": "It's understandable to feel that pull. It sounds like you're starting to recognize that embracing change could open up new possibilities for you. What small step could you take that feels manageable, yet still allows you to learn without the fear of failing?",
-          "therapist_use": "Eliciting change talk: prompting Mason to identify manageable steps he can take towards change."
+          "reason_for_ending": "KEEP - The therapist's objective to elicit change talk wasn't fully met as Mason hasn't identified specific benefits of making changes yet. The client's objective to explore feelings about decisions remains unmet as he still holds back.",
+          "client_utterance": "I suppose if I prepare, I might feel a little more secure. Maybe allowing myself to explore these feelings could lead to new opportunities, but I still feel nervous about it. I want to be ready, but it’s hard to know where to start.",
+          "therapist_utterance": "It sounds like you’re beginning to see the potential for growth by preparing to explore your feelings. Acknowledging that you feel nervous about starting is part of the process. What small step could you take to start this exploration in a way that feels manageable for you?",
+          "therapist_use": "Exploring ambivalence: encouraged Mason to consider small, manageable steps towards exploring his feelings."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective met: Mason has articulated motivations for change and recognized cognitive distortions. Client objective met: Mason has expressed clarity on exploring next steps.",
-          "client_utterance": "I think I need to start by just allowing myself to try things without the pressure of being perfect. Maybe I can set smaller goals that feel less daunting. I feel more motivated to embrace change now.",
-          "therapist_utterance": "That's a significant breakthrough, Mason! Acknowledging the need for smaller goals is a great way to start. It sounds like you're ready to take steps towards change, and that's truly commendable.",
-          "therapist_use": "Affirmation: validating Mason's motivation and readiness to take actionable steps forward."
+          "reason_for_ending": "MOVE - The therapist's objective to explore ambivalence and increase motivation was met as Mason has started to articulate his desire to explore his feelings. The client's objective to find clarity about his next steps was met as he is considering taking manageable steps towards change.",
+          "client_utterance": "I think starting small could help me feel less overwhelmed. Maybe I can jot down my thoughts or talk to someone I trust about these feelings. I feel like I'm finally ready to take that first step.",
+          "therapist_utterance": "That's a wonderful realization, Mason! Starting small is a great way to build your confidence and ease into this exploration. I’m glad to hear you feel ready to take that first step; it shows you're moving towards a positive change.",
+          "therapist_use": "Eliciting change talk: reinforced Mason's readiness for change and supported his decision to take a manageable step."
         }
       ]
     },
@@ -249,22 +258,20 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Mason's commitment to change and explore his readiness for action.",
+          "objective": "To strengthen Mason's commitment to change and enhance his confidence in taking action.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Mason to articulate his reasons for wanting to make changes.",
-                "Ask open-ended questions to elicit commitment language, such as 'What does making this change mean to you?'",
-                "Reflect back his statements of commitment to reinforce his motivation."
+                "Encourage Mason to articulate his reasons for wanting to change and establish a personal vision for success.",
+                "Use reflective listening to affirm his motivations and highlight his progress in building structure in his life."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess Mason's confidence in making changes, such as 'On a scale of 1 to 10, how confident do you feel about taking the next step?'",
-                "Discuss any recent successes or small steps he's taken to boost his self-efficacy.",
-                "Explore any hesitations or fears he may have about the upcoming changes."
+                "Ask open-ended questions about Mason's feelings toward making decisions and any perceived barriers.",
+                "Validate his feelings of uncertainty while reinforcing his ability to handle challenges based on past successes."
               ]
             }
           ]
@@ -274,72 +281,75 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaboratively create a step-by-step action plan with Mason, focusing on small, achievable goals.",
-                "Identify specific tasks he can commit to in the next week related to his project.",
-                "Discuss potential barriers to these tasks and brainstorm coping strategies to address them."
+                "Collaboratively develop a step-by-step action plan with Mason that includes small, manageable tasks.",
+                "Ensure tasks are specific and realistic, focusing on one decision or action at a time to prevent overwhelm."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Teach Mason coping strategies to manage anxiety and paralysis from decision-making, such as mindfulness techniques or decision-making frameworks.",
-                "Encourage him to use reminders and structure that he has successfully implemented in the past.",
-                "Discuss how he can monitor his feelings of overwhelm and apply these strategies in real-time."
+                "Guide Mason in identifying potential barriers to his action plan and brainstorm practical solutions.",
+                "Encourage him to evaluate the feasibility of each solution and select the best approaches to implement."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Mason's preparation phase, I first employed Motivational Interviewing strategies to strengthen his commitment to change. By prompting him to articulate his reasons for change and reflecting his commitment language, I aimed to enhance his intrinsic motivation and clarify his goals. Next, I utilized scaling questions to explore his confidence levels, focusing on building self-efficacy by discussing past successes. Transitioning to CBT interventions, I engaged Mason in collaborative action planning to outline specific, achievable tasks that align with his project goals. This approach allows him to break down overwhelming decisions into manageable steps, mitigating his tendency toward avoidance and procrastination. Additionally, I introduced coping strategies to help him navigate anxiety and decision paralysis, leveraging the structure he has previously found useful. This systematic blend of MI and CBT addresses his ambivalence while empowering Mason with practical tools, ultimately facilitating his readiness to implement behavioral changes.",
-        "progress_marker": "Mason will complete at least one actionable task from the plan by the next session and report on his feelings of confidence and any barriers encountered."
+        "therapist_reasoning": "In planning for Mason's preparation phase, I began by acknowledging his ambivalence and fears about decision-making, common in clients with similar resistance profiles. Using MI strategies, I aimed to strengthen his commitment to change by facilitating discussions around his motivations and aspirations. This involved reflective listening to validate his feelings while emphasizing his previous successes in building structure. To address his anxiety about making the wrong decisions, I implemented CBT techniques such as action planning, which allows us to break down his goals into manageable steps, minimizing overwhelm. Simultaneously, I introduced problem-solving skills training to help him navigate potential barriers, fostering a sense of agency. These strategies are designed to reinforce Mason's self-efficacy and empower him to take gradual, confident steps toward his objectives, addressing both his emotional resistance and behavioral patterns of procrastination.",
+        "progress_marker": "Mason identifies at least one specific action he will take within the next week and expresses increased confidence in his ability to follow through."
       },
       "client_plan": {
-        "awareness": "I have a clearer understanding of how my procrastination and anxiety have held me back, and I recognize that my current situation isn't sustainable.",
-        "motivation": "I'm feeling a growing desire to take charge of my life and pursue meaningful change, especially after reflecting on my time in Europe.",
-        "openness": "I'm willing to discuss my thoughts and feelings with my therapist, even though I still feel some hesitation.",
-        "resistance": "I experience doubts about my ability to make the right decisions and worry about the consequences of failure, which makes me hesitant to fully commit."
+        "phase_of_change": "preparation",
+        "client_objective": "I hope to gain clarity on how to navigate my decisions and feel more confident in my ability to make changes.",
+        "client_state": {
+          "awareness": "I recognize that my procrastination and anxiety have held me back from making meaningful progress in my life.",
+          "motivation": "I feel a growing desire to take control of my situation and make choices that align with my goals.",
+          "openness": "I am willing to discuss my thoughts and feelings about change, and I want to explore potential strategies with my therapist.",
+          "resistance": "Despite my motivation, I still feel uncertain and fearful about making the wrong decisions, which causes me to hesitate."
+        },
+        "client_reasoning": "I've realized that my current situation is not where I want to be, and I need to make some changes to move forward. After spending eleven months working in Europe, I feel a strong urge to show something for my efforts, but I often get overwhelmed by the decisions I have to make. I understand that my fears of failing or choosing incorrectly are holding me back, but I want to believe that I can improve my situation. Therapy has helped me see that I can develop strategies to cope with my anxiety and procrastination. I am hopeful that I can find a way to move past this paralysis and take actionable steps, but I still wrestle with doubts about my ability to maintain these changes long-term. It's a mix of excitement for what could be and fear of what might happen if I don't succeed."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met because they have not yet strengthened Mason's commitment to change sufficiently. Client's objective was not met as Mason hasn't articulated his reasons for change clearly yet.",
-          "client_utterance": "I've been reflecting on my time in Europe, and I really want to show something for it, but I still feel this pressure. I think part of me wants to make progress, yet I find myself hesitating because of fear. I just want to feel confident about the steps I take, but that fear of failure looms large.",
-          "therapist_utterance": "It's completely valid to feel that pressure, especially when you’ve invested so much effort. What does making progress on your project mean to you personally? How might it feel to take a step forward despite that fear?",
-          "therapist_use": "Open-ended question: used to encourage Mason to articulate his reasons for wanting to make changes."
+          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn't articulated a specific action yet. Client objective not met: Mason still feels uncertain about navigating decisions.",
+          "client_utterance": "I've been thinking about what you said regarding starting small. I know I should try to explore my feelings, but I still feel a bit lost about how to actually begin. It’s like I want to take that first step, but the fear of what I might find holds me back.",
+          "therapist_utterance": "It’s understandable to feel lost when considering such a big step. Remember, it’s okay to take your time and approach this at your own pace. What do you think a small step could look like for you, even if it feels a bit daunting?",
+          "therapist_use": "Open-ended questioning: used to encourage Mason to identify a manageable action step."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as they haven't explored Mason's confidence and readiness in depth yet. Client's objective was not met since Mason hasn't expressed his feelings about potential outcomes.",
-          "client_utterance": "Making progress would mean that I’m actually achieving something worthwhile. I would feel proud and validated, but I still worry about picking the wrong direction. It's like I'm caught between wanting to take that step and fearing what might happen if I do.",
-          "therapist_utterance": "It sounds like progress could bring you a sense of pride, which is very motivating. On a scale from 1 to 10, how confident do you feel about taking that next step toward your project? What do you think could help increase that confidence?",
-          "therapist_use": "Scaling question: used to assess Mason's confidence in making changes."
+          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn't yet expressed increased confidence. Client objective not met: Mason is still expressing uncertainty about his ability to navigate decisions.",
+          "client_utterance": "I think maybe I could write down some of my thoughts or even just talk to a friend. But part of me worries that even that could lead to uncomfortable conversations. I want to be ready for whatever comes up, but it still feels overwhelming.",
+          "therapist_utterance": "It’s great that you’re considering writing down your thoughts as a first step. Acknowledging that it may lead to uncomfortable discussions shows your awareness of the process. How might you prepare yourself for those potential conversations, so they feel less daunting?",
+          "therapist_use": "Reflective listening: used to affirm Mason's proactive thinking while exploring his feelings about potential discomfort."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met because they need to boost Mason's self-efficacy further. Client's objective was not met as Mason hasn't shared recent successes or small steps he has taken.",
-          "client_utterance": "I’d say I’m around a 5. I feel somewhat capable, but the fear really holds me back. I haven't really taken any concrete steps recently, but I guess I did manage to outline some ideas for my project.",
-          "therapist_utterance": "A 5 shows that you have some confidence, which is a good start! Outlining ideas is a step in the right direction. Can you think about what specific small tasks you could commit to this week that would help move your project forward?",
-          "therapist_use": "Collaborative action planning: used to create a step-by-step action plan focused on small, achievable goals."
+          "reason_for_ending": "KEEP - Therapist objective not met: Mason still hasn't detailed a specific action plan. Client objective not met: Mason is still expressing fear about confronting uncomfortable feelings.",
+          "client_utterance": "I guess I could think about what I want to say in advance; maybe that would help me feel more secure. But there’s still this nagging feeling that I might not handle it well. I want to believe I can manage it, but I keep doubting myself.",
+          "therapist_utterance": "Planning ahead is a wise approach, and it shows that you're thinking strategically about how to handle these feelings. It’s normal to have doubts; many people experience that when facing something new. What are some past successes you can remind yourself of to reinforce your confidence?",
+          "therapist_use": "Affirming past successes: used to bolster Mason's self-efficacy and help him recognize his ability to handle challenges."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as they haven't discussed potential barriers Mason might face. Client's objective was not met since Mason hasn't identified specific tasks he can commit to.",
-          "client_utterance": "I could start by working on one of the website pages I’ve been putting off. But then I worry about getting overwhelmed and falling back into procrastination. It feels like I need to manage my time better to prevent that from happening.",
-          "therapist_utterance": "Starting with a webpage sounds like a great plan! What barriers do you think you might encounter while working on that page, and how might you cope with them? It’s important to have strategies ready to help manage any anxiety that comes up.",
-          "therapist_use": "Barrier identification: used to discuss potential obstacles and brainstorm coping strategies."
+          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn't fully articulated an action to take. Client objective not met: Mason expresses lingering doubts about his ability to confront feelings.",
+          "client_utterance": "I can remember times when I successfully tackled challenges, like managing my project in Europe. But this feels different; it’s more personal. I just wish I could feel more sure about my choices without that fear creeping in.",
+          "therapist_utterance": "It's completely normal for personal challenges to feel different, especially when they touch on deeper feelings. Reflecting on your successes can help ground you in your abilities. What if you allowed yourself to acknowledge those fears while also recognizing your strengths?",
+          "therapist_use": "Double-sided reflection: used to validate Mason's fears while highlighting his strengths and past successes."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as they haven't fully developed Mason's coping strategies yet. Client's objective was not met because Mason has not yet reported on his feelings of overwhelm.",
-          "client_utterance": "I think I could get stuck in my head again, worrying about whether it’s good enough. If I feel overwhelmed, I might just stop working altogether. I guess I could try using reminders like I did in the past to keep myself on track.",
-          "therapist_utterance": "Using reminders sounds like a solid strategy to keep you focused. How do you think you can monitor your feelings of overwhelm as you start this task? It might help to check in with yourself regularly to see how you're feeling.",
-          "therapist_use": "Coping strategy development: used to teach Mason strategies to manage anxiety and decision-making paralysis."
+          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn't committed to an action. Client objective not met: Mason still feels hesitant about making decisions.",
+          "client_utterance": "I see what you mean; maybe I can try to acknowledge both my fear and my strengths. Still, I worry that I might not stick to any plan I make. It feels like I'm walking a tightrope between wanting to be proactive and being scared of the outcome.",
+          "therapist_utterance": "It's okay to feel like you're balancing between action and fear; many people experience that. Recognizing that tightrope walk is a step in itself. How can we break this down into smaller, more manageable decisions that you feel you can commit to?",
+          "therapist_use": "Action planning: used to facilitate the development of small, manageable steps towards Mason's goals."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met as they haven't ensured Mason is prepared to take action. Client's objective was not met because Mason hasn't expressed a clear commitment to take action.",
-          "client_utterance": "I could set specific times to work on the webpage and check in with myself about how I'm feeling. Maybe if I break it down into smaller sections, it won’t feel so overwhelming. I just need to remind myself it’s okay to make mistakes.",
-          "therapist_utterance": "That sounds like a practical approach! Breaking it down into smaller sections can make it much more manageable. What commitment can you make to yourself this week regarding those tasks?",
-          "therapist_use": "Commitment language: used to encourage Mason to articulate his commitment to taking action."
+          "reason_for_ending": "KEEP - Therapist objective not met: Mason hasn't specified an action step. Client objective not met: Mason still appears unsure about his commitment.",
+          "client_utterance": "I think if I could pick just one small thing, maybe I could start by writing a few lines about how I feel. That feels less intimidating than diving deep right away. But what if I still feel stuck after that?",
+          "therapist_utterance": "Starting with a few lines is a fantastic first step; it’s all about making progress, no matter how small. If you find yourself stuck after writing, it’s perfectly okay to reach out for support. What would you think about sharing those feelings with someone you trust after writing them down?",
+          "therapist_use": "Problem-solving skills: used to identify potential barriers and brainstorm solutions to support Mason's progress."
         },
         {
-          "reason_for_ending": "MOVE - Therapist's objective was met as they successfully strengthened Mason's commitment to change and explored his readiness for action. Client's objective was met because Mason articulated a clear plan and commitment to take actionable steps.",
-          "client_utterance": "I’m committing to working on that webpage for at least a couple of hours this week. I feel more motivated now that I have a clearer plan and reminders in place. It’s still a bit scary, but I think I can manage it.",
-          "therapist_utterance": "That's fantastic, Mason! Your commitment to working on the webpage shows great progress. It’s perfectly natural to feel a bit scared, but you’re taking important steps forward, and I’m excited to hear how it goes next time.",
-          "therapist_use": "Reflection of commitment: used to reinforce Mason's motivation and readiness to take actionable steps."
+          "reason_for_ending": "MOVE - Therapist objective met: Mason articulated a specific action step. Client objective met: Mason expressed increased confidence in his ability to follow through.",
+          "client_utterance": "I feel like I’m finally ready to start writing down my thoughts. It seems like a good way to ease into exploring my feelings without overwhelming myself. I’m actually feeling a bit more confident about taking this first step.",
+          "therapist_utterance": "That’s wonderful to hear, Mason! You’ve identified a specific action, and feeling confident about it is key to moving forward. I’m proud of you for taking this step; it’s significant progress in your journey.",
+          "therapist_use": "Affirmation and reinforcement: used to celebrate Mason’s commitment and progress towards taking action."
         }
       ]
     }

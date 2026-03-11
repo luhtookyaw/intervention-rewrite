@@ -12,30 +12,35 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase Skyler's awareness of their feelings and thoughts regarding their social interactions.",
+          "objective": "Build rapport and increase self-awareness regarding feelings of rejection and unlovability.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Skyler without interruption.",
-                "Reflect back their feelings of hurt and exclusion to demonstrate understanding.",
-                "Validate their emotions by acknowledging the difficulty of feeling left out."
+                "Listen actively to Skyler's concerns without judgment.",
+                "Reflect back what Skyler shares about feeling unheard or invalidated.",
+                "Validate their feelings and experiences to foster trust."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Communicate understanding of Skyler's past experiences of feeling invalidated.",
-                "Share that it’s normal to feel sad when faced with perceived rejection.",
-                "Encourage Skyler to express their feelings without judgment."
+                "Acknowledge Skyler's feelings of hurt and sadness when discussing interactions with friends.",
+                "Use empathetic statements to convey understanding of their experiences."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore Skyler's feelings about their social interactions versus their personal values.",
-                "Ask questions that help Skyler reflect on how their current feelings might conflict with their desire for connection.",
-                "Encourage Skyler to articulate what they value in relationships."
+                "Gently explore how Skyler's beliefs about their unlovability may conflict with their desires for connection.",
+                "Encourage them to reflect on how their experiences may be affecting their relationships."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Ask open-ended questions to help Skyler articulate their thoughts and feelings about friendships.",
+                "Encourage exploration of how their avoidance may protect them but also limit their connections."
               ]
             }
           ]
@@ -43,87 +48,85 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Skyler to express their immediate thoughts when they feel excluded.",
-                "Help them identify patterns in their automatic thoughts, such as feelings of being forgotten.",
-                "Encourage Skyler to write down these thoughts to facilitate discussion."
+                "Guide Skyler to examine the evidence for their beliefs about being unlovable.",
+                "Ask questions that prompt them to consider alternative explanations for their experiences."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Help Skyler identify any cognitive distortions in their thinking, such as 'all-or-nothing' thinking regarding friendships.",
-                "Discuss how these distortions may contribute to their feelings of loneliness.",
-                "Encourage them to consider alternative viewpoints or evidence that contradicts their thoughts."
+                "Help Skyler to explore the validity of their automatic thoughts regarding friendships.",
+                "Encourage them to reflect on past positive interactions that may contradict their current beliefs."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Explore the reasons behind Skyler's avoidance behaviors, such as declining invitations.",
-                "Discuss how these behaviors are protective but may also reinforce feelings of loneliness.",
-                "Encourage reflection on the outcomes of their avoidance, fostering curiosity about its impact."
+                "Invite Skyler to consider how they would view a friend in a similar situation.",
+                "Encourage them to apply that perspective to themselves to foster self-compassion."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Skyler, the first step is to establish a trusting therapeutic relationship. I will employ reflective listening to ensure they feel heard and validated, particularly regarding their feelings of hurt and exclusion, which are central to their experiences. Expressing empathy will help in acknowledging their past feelings of invalidation, creating a safe space for Skyler to explore their emotions without the pressure of change. By developing discrepancy, I can guide Skyler to reflect on the conflict between their social desires and their current feelings, fostering self-awareness. In parallel, I will incorporate CBT techniques, starting with identifying automatic thoughts that arise from their experiences, particularly around exclusion. This will lead to recognizing cognitive distortions in their thinking patterns, helping them understand the impact of their beliefs. Finally, through functional analysis, I aim to explore the reasons behind their avoidance behaviors while promoting curiosity about the outcomes of these actions, thereby gently addressing their resistance without pushing for change.",
-        "progress_marker": "Skyler begins to articulate their feelings and experiences more openly, showing curiosity about their thought patterns and emotional responses."
+        "therapist_reasoning": "To effectively engage Skyler, who is in the Pre-contemplation phase, I will first focus on building rapport through reflective listening, allowing them to feel heard and validated. This will help reduce their defensiveness and increase their engagement. I will express empathy for their feelings of hurt regarding perceived rejection, creating a safe space for them to explore their emotions. Through developing discrepancy, I will gently guide Skyler to recognize the conflict between their self-perception of unlovability and their desire for connection, encouraging deeper self-reflection. In the CBT component, I will use evidence-based questioning to help Skyler critically examine their negative beliefs about themselves, while reality testing will encourage them to recognize positive past interactions that challenge these beliefs. By employing an alternative perspective, I aim to foster self-compassion in Skyler, helping them view their experiences more kindly. This combined approach will promote awareness and curiosity without pressuring them toward change.",
+        "progress_marker": "Skyler begins to articulate feelings and thoughts about their experiences and relationships without resistance."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I want to feel understood without having to confront my issues directly.",
+        "client_objective": "I hope to just talk about anything other than my feelings of rejection.",
         "client_state": {
-          "awareness": "I don't really see my situation as a problem that needs fixing.",
-          "motivation": "I don't feel like changing anything right now; it seems too daunting.",
-          "openness": "I'm not very willing to share my deeper feelings; it feels safer to avoid that.",
-          "resistance": "I feel strongly against discussing my feelings because it makes me uncomfortable."
+          "awareness": "I don't think there's a real problem; I just feel left out sometimes.",
+          "motivation": "I'm not sure I want to change anything because it feels overwhelming.",
+          "openness": "I don't really want to share much about my feelings; it just feels too personal.",
+          "resistance": "I'm defensive about discussing my emotions; I'd rather avoid it."
         },
-        "client_reasoning": "I can't help but think that my friends don’t really want me around, especially after not being invited to dinner. It just reinforces this feeling of being unlovable and unwanted, like I’m always the one left out. Talking about it feels pointless because I doubt anything will change and it just makes me feel worse. I don’t want to dive into those feelings of hurt and rejection; it’s easier to brush them aside or blame the situation. Plus, the idea of therapy seems overwhelming, and I wonder if it will really help me. I often feel like it’s not worth the effort to discuss these issues, and it’s safer to just stay quiet and avoid confronting what’s really going on inside me. The thought of opening up feels scary, so I would rather talk about anything else that keeps me from feeling vulnerable."
+        "client_reasoning": "I see my friends not inviting me to dinner as just something that happens. Maybe they just forgot about me; it doesn’t mean I’m unlovable or anything. But when I think about it too much, I get this sinking feeling like I'm always going to be alone. I don’t want to dive into all those feelings because it feels too heavy, and I don’t think talking about it will change anything. I’m just not ready for that. When the therapist brings it up, I feel like I want to change the subject because it’s uncomfortable. I want to be able to just brush it off. I think if I keep talking about it, it will just make me feel worse, and I’m already feeling sad enough as it is. So, I guess I’d rather not explore it too deeply right now. It feels safer to keep it all inside.",
+        "progress_marker": "Client expresses a desire to avoid discussing core issues and focuses on external situations."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Skyler is still reluctant to explore their feelings. The client objective was not met as Skyler feels uncomfortable expressing deeper emotions.",
-          "client_utterance": "I don’t really think I need to change anything. I mean, it just feels like I’m always on the outside looking in, but that’s just how it is, right? Talking about it seems pointless, and I’d rather not dig into those feelings.",
-          "therapist_utterance": "It sounds like you feel resigned to your situation and that exploring these feelings seems overwhelming. It’s completely understandable to want to avoid discomfort, especially when it’s been a long-standing experience. I want you to know that your feelings of being on the outside are valid, and it's okay to feel that way.",
-          "therapist_use": "Reflective Listening: used to validate Skyler's feelings of resignation and discomfort."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because Skyler is still resistant to discussing feelings of rejection and invalidation. The client’s objective was not met as they expressed a desire to avoid emotional topics.",
+          "client_utterance": "I don’t really see what the big deal is. Sometimes I just feel a bit left out, but it’s not like it’s a huge problem or anything. I think my friends just forgot to invite me or something.",
+          "therapist_utterance": "It sounds like you feel like being left out isn't something to worry about, and you might be trying to rationalize it. I can see how that might feel easier than diving into deeper feelings of rejection. Can you tell me more about those moments when you feel left out?",
+          "therapist_use": "Reflective listening: used to validate Skyler's feelings and encourage exploration."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Skyler remains hesitant to engage with their emotions. The client objective was not met as Skyler continues to avoid discussing their feelings.",
-          "client_utterance": "I guess I just don’t see the point in talking about it. It’s like, even if I say how I feel, nothing will change. I just feel like I’ll keep being left out, and that’s just how it is.",
-          "therapist_utterance": "I hear you saying that expressing your feelings feels futile to you. It's tough to think about opening up when it feels like nothing will change, and I can see how that would make you want to avoid these conversations. Can you share what it feels like when you think about being left out?",
-          "therapist_use": "Expressing Empathy: used to communicate understanding of Skyler's feelings and encourage expression."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because the conversation is still focused on avoiding deeper feelings. The client’s objective was not met as they continue to deflect from emotional discussions.",
+          "client_utterance": "Well, it’s just that I don’t want to overthink it. I mean, everyone has their own lives, and it’s not like I’m the center of the universe. I’d rather just focus on other things, like what’s happening in school.",
+          "therapist_utterance": "I hear you saying that you prefer to focus on external things rather than your feelings. It makes sense to want to avoid heavy emotions, especially when they feel overwhelming. What are some of the things happening in school that you enjoy?",
+          "therapist_use": "Expressing empathy: used to acknowledge Skyler's feelings of wanting to avoid heaviness."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Skyler still avoids deeper exploration of their feelings. The client objective was not met as Skyler is not ready to confront their emotions.",
-          "client_utterance": "I feel sad, obviously, but it's just easier to pretend it doesn’t bother me. I don’t want to feel that hurt again, even if it’s just talking about it. It’s safer to just brush it aside.",
-          "therapist_utterance": "It makes sense that confronting that hurt feels daunting to you. Avoiding those feelings can feel like a protective measure, but I wonder how it impacts you in the long run. What do you think might happen if you allowed yourself to feel that sadness?",
-          "therapist_use": "Developing Discrepancy: used to gently explore the impact of avoidance on Skyler's feelings."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because they have not yet explored the conflict between Skyler’s avoidance and desire for connection. The client’s objective was not met as they continue to steer away from discussing emotions.",
+          "client_utterance": "School's fine, I guess. I just hang out with my classmates and, you know, try to get through the assignments. Sometimes it's hard, but it keeps me busy.",
+          "therapist_utterance": "Staying busy with schoolwork sounds like a good distraction for you. It’s understandable to want to focus on tasks rather than feelings that might be uncomfortable. Have you noticed if those moments of being busy help you feel less alone?",
+          "therapist_use": "Raising awareness: used to encourage Skyler to reflect on their coping strategies."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Skyler is still resisting confrontation of their feelings. The client objective was not met as Skyler hasn’t started to articulate their feelings more openly.",
-          "client_utterance": "I don’t know... maybe it would just make everything feel worse. I feel like I’ve been dealing with this for so long, it’s just easier to ignore it. I really don’t want to dive into all that pain right now.",
-          "therapist_utterance": "It sounds really tough to think about diving into those painful feelings. Ignoring them feels like the easier path, but I can see how it might just keep them lingering. What if we could explore this together, without the pressure to change anything right away?",
-          "therapist_use": "Expressing Empathy: used to acknowledge Skyler’s fear of confronting pain while offering support."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as they have not yet fostered deeper self-awareness regarding feelings of rejection. The client’s objective was not met because they still avoid discussing feelings.",
+          "client_utterance": "I mean, they help a little, but there are times when I still feel like no one really cares. I know it might sound silly, but I hate that feeling. I wish I could just ignore it.",
+          "therapist_utterance": "It doesn’t sound silly at all; feeling uncared for can be really painful. It’s okay to want to ignore those feelings, especially if they feel heavy. How do you usually deal with that sinking feeling when it comes up?",
+          "therapist_use": "Developing discrepancy: used to highlight the conflict between wanting to ignore feelings and experiencing pain."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Skyler is still hesitant to explore their feelings and thoughts. The client objective was not met as Skyler continues to resist emotional vulnerability.",
-          "client_utterance": "I don’t know if I can do that. It feels so overwhelming, and I’m just not ready for it. Can’t we just talk about something else?",
-          "therapist_utterance": "I completely understand that this feels overwhelming for you. It’s okay to take a step back and talk about other things if that feels better right now. But just know, I’m here whenever you feel ready to explore these feelings.",
-          "therapist_use": "Reflective Listening: used to validate Skyler's feelings of overwhelm and offer a safe space."
+          "reason_for_ending": "KEEP: The therapist's objective was not met because they have not yet helped Skyler explore their beliefs about unlovability. The client’s objective was not met as they still resist deeper emotional exploration.",
+          "client_utterance": "I just try to distract myself, you know? I’ll watch some shows or scroll on my phone until it passes. I don’t think it’s something I need to talk about.",
+          "therapist_utterance": "Distraction can be a helpful way to cope with those feelings in the moment. But it sounds like they still linger even after you try to avoid them. Have you ever considered what it would mean to face those feelings instead of pushing them away?",
+          "therapist_use": "Reality testing: used to encourage Skyler to reflect on the implications of their coping strategies."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Skyler is still avoiding deeper conversations about their feelings. The client objective was not met as Skyler is not yet open to exploring their emotional experiences.",
-          "client_utterance": "I appreciate that, but it just feels like talking about it won’t do anything. I don’t want to feel worse by bringing all this up. It just seems easier to keep it all inside.",
-          "therapist_utterance": "I hear you saying that keeping it inside feels easier right now. It makes sense to want to protect yourself from feeling worse, especially if past conversations haven't felt helpful. What do you think is the hardest part about keeping those feelings inside?",
-          "therapist_use": "Developing Discrepancy: used to encourage Skyler to reflect on the difficulty of emotional suppression."
+          "reason_for_ending": "KEEP: The therapist's objective was not met as they have not yet prompted Skyler to consider alternative perspectives about their experiences. The client’s objective was not met because they continue to avoid deeper emotional discussions.",
+          "client_utterance": "I don’t really know what facing them would do for me. It feels like it would just make everything worse, and I don’t want to feel worse. I think it’s best if I just keep it all to myself.",
+          "therapist_utterance": "It’s understandable to feel that way; facing difficult emotions can seem daunting. But sometimes, sharing can lighten that burden and offer a different perspective. What do you think a friend would say if they felt like you do?",
+          "therapist_use": "Alternative perspective: used to encourage self-compassion and reflection on how they view others."
         },
         {
-          "reason_for_ending": "MOVE - The therapist objective was met as Skyler is beginning to articulate their feelings and thoughts more openly. The client objective was met as Skyler displayed a slight willingness to explore their emotions.",
-          "client_utterance": "Maybe the hardest part is just feeling so alone in it. I keep thinking that nobody really cares, and it’s exhausting to hold it all in. I guess I’m starting to see how not talking about it might not be helping me.",
-          "therapist_utterance": "That’s a significant realization, Skyler. It sounds like you're starting to see the connection between your feelings of loneliness and the silence you’ve maintained about them. Would you like to explore what it might look like to share these feelings in a safe way?",
-          "therapist_use": "Reflective Listening: used to acknowledge Skyler's growing awareness and openness to exploring feelings."
+          "reason_for_ending": "MOVE: The therapist's objective was met as they prompted Skyler to consider their feelings and perspectives. The client’s objective was met because they engaged in a deeper reflection about their experiences.",
+          "client_utterance": "I guess if a friend felt this way, I’d tell them it’s okay to feel sad sometimes. I wouldn’t want them to keep it all bottled up. Maybe it’s okay to talk about it, just a little.",
+          "therapist_utterance": "That’s a really compassionate perspective to have for a friend. It sounds like you’re starting to see that it might be okay for you to feel and express your feelings too. What would it look like for you to share even just a little bit next time you feel sad?",
+          "therapist_use": "Developing discrepancy: used to highlight the difference between how Skyler views friends and themselves."
         }
       ]
     },
@@ -132,27 +135,29 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Skyler's ambivalence about change and strengthen motivation for potential behavioral changes.",
+          "objective": "Explore and resolve ambivalence regarding change, enhancing motivation and readiness.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Encourage Skyler to articulate both the reasons for wanting to change and the reasons for resisting change.",
-                "Utilize reflective listening to validate Skyler's feelings of conflict regarding change."
+                "Encourage Skyler to express both desires for change and fears of change.",
+                "Use open-ended questions to facilitate discussion about the pros and cons of making a change.",
+                "Reflect back on Skyler’s ambivalence to validate their feelings and promote deeper exploration."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask open-ended questions about what changes might look like and how they could align with Skyler's values.",
-                "Encourage Skyler to express any desires for change in their own words, reinforcing that they have the agency to reflect on these thoughts."
+                "Ask Skyler to describe what a positive change would look like in their life.",
+                "Encourage them to articulate reasons for wanting to change, focusing on personal values and beliefs.",
+                "Reinforce any statements indicating a desire or intention to change."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Facilitate a discussion around the pros and cons of staying the same versus making changes.",
-                "Help Skyler to identify discrepancies between their current behaviors and their core values, particularly around feeling loved and accepted."
+                "Guide Skyler in discussing the advantages and disadvantages of maintaining the status quo versus making a change.",
+                "Use a pros and cons analysis to help clarify their thoughts and feelings about change."
               ]
             }
           ]
@@ -162,76 +167,84 @@
             {
               "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Guide Skyler to identify and challenge cognitive distortions in their automatic thoughts, such as 'I am unlovable' and 'My friends don’t want me around.'",
-                "Use Socratic questioning to help Skyler examine the evidence for and against these beliefs, promoting a more balanced perspective."
+                "Introduce the concept of cognitive distortions to Skyler, focusing on their automatic thoughts.",
+                "Facilitate a discussion about the evidence for and against their beliefs of being unlovable and undesirable.",
+                "Help Skyler identify alternative, more balanced thoughts that challenge their current beliefs."
               ]
             },
             {
-              "technique_name": "Exploring Underlying Beliefs",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Encourage Skyler to reflect on their core beliefs about love and acceptance, asking how these beliefs have shaped their current behaviors.",
-                "Facilitate discussions on past experiences that may reinforce these beliefs, helping Skyler to see the connections."
+                "Ask Skyler to provide examples of when they felt included and valued by friends.",
+                "Encourage them to reflect on times when their fears of rejection were proven wrong.",
+                "Promote insight into how their past experiences may be influencing their current beliefs."
+              ]
+            },
+            {
+              "technique_name": "Pie Chart Technique",
+              "instructions_for_therapist": [
+                "Guide Skyler in drawing a pie chart to visualize their feelings of worth based on external validation versus internal validation.",
+                "Discuss the implications of this visualization on their self-esteem and relationships."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Skyler, I recognize that the ambivalence about change stems from core beliefs of being unlovable and undesirable, leading to avoidance behaviors. I will employ Motivational Interviewing strategies such as exploring ambivalence to help Skyler articulate their mixed feelings about change. This will involve reflective listening to validate their experiences and encouraging change talk to enhance their motivation. Additionally, I will facilitate decisional balance discussions to highlight discrepancies between their values of connection and their current avoidance behaviors. For the CBT component, I will focus on cognitive restructuring to challenge Skyler's negative automatic thoughts, employing Socratic questioning to help them examine the validity of these beliefs. By exploring underlying beliefs, I aim to foster insight into how past experiences influence their current perceptions and behaviors, all while maintaining a collaborative approach to minimize resistance.",
-        "progress_marker": "Skyler begins to articulate both their desires for change and their fears, demonstrating increased self-awareness and motivation."
+        "therapist_reasoning": "In addressing Skyler's ambivalence about change, the therapist will first utilize motivational interviewing to explore their conflicting desires. By employing the strategy of exploring ambivalence, the therapist will encourage Skyler to articulate both their fears and desires for change, validating their emotional experiences. This approach aligns with MI principles of fostering a collaborative dialogue. Next, eliciting change talk will help Skyler identify and express personal values that support change, enhancing their motivation. The decisional balance discussion will facilitate deeper insight into the costs and benefits of their current behavior versus potential changes, thus promoting self-reflection. In parallel, the cognitive restructuring technique will allow Skyler to challenge and reframe their core beliefs about unlovability and rejection through evidence-based questioning, which will help them reconsider their automatic thoughts. The pie chart technique will visualize their reliance on external validation, guiding them toward recognizing the significance of internal validation. This combined approach respects their resistance while gently guiding them toward insight and motivation for change.",
+        "progress_marker": "Skyler expresses insight into their ambivalence and articulates more positive beliefs about themselves and their value in relationships."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings of rejection and understand the patterns in my relationships better.",
+        "client_objective": "I hope to gain clarity on my feelings of rejection and explore the possibility of change in how I perceive myself and my relationships.",
         "client_state": {
-          "awareness": "I am starting to recognize that my feelings of exclusion and sadness are linked to deeper beliefs about my worth and how I perceive others' actions.",
-          "motivation": "I feel a desire to change but I'm conflicted and uncertain about whether it's worth the effort or if I can actually make a difference.",
-          "openness": "I'm somewhat willing to share my thoughts and feelings, but I still hold back on certain experiences that feel too painful or vulnerable.",
-          "resistance": "I often feel hurt and defensive when discussing change, and I find myself doubting whether talking about these feelings will help me."
+          "awareness": "I am starting to recognize that my feelings of exclusion may stem from deeper beliefs about my worth and how I connect with others.",
+          "motivation": "I feel a small desire to change, but I am still unsure if it's worth the effort or if I can truly change my situation.",
+          "openness": "I am somewhat willing to share my experiences, but I find myself holding back due to fear of being misunderstood or invalidated.",
+          "resistance": "I feel a strong urge to defend my current feelings and thoughts, often thinking that change might not help or that it's too difficult."
         },
-        "client_reasoning": "I'm starting to see that my sadness about not being invited to the dinner is more than just about that moment; it’s tied to a lifetime of feeling unworthy and unwanted. I can connect the dots between my thoughts and my emotions, but I still struggle with the idea of changing. Part of me wants to break free from this cycle and feel more connected to others, but I worry that even if I try, it won’t work out. I feel so conflicted — I want to be seen and valued, yet I fear that the more I open up, the more I might get hurt. Therapy is helping me reflect on these feelings, but there's still a big part of me that doubts whether I can truly change my situation or if I'm just destined to feel alone. It’s scary to think about stepping out of this comfort zone, but maybe there's a small part of me that believes it could be worth it.",
-        "progress_marker": "The client is beginning to articulate feelings of exclusion and is starting to connect these feelings to long-standing beliefs about their self-worth."
+        "client_reasoning": "I'm beginning to see that my feelings of being forgotten by friends might not just be about them not inviting me, but rather about my own beliefs that I'm unlovable or unwanted. It's confusing because part of me wants to change how I feel, but another part is scared that I won't succeed. I keep thinking about how I’ve avoided situations to protect myself, like declining Edson's invitation, and I wonder if that’s really helping or just keeping me stuck. Therapy has made me reflect on these patterns, but I still doubt if I can truly change or if it’s even possible to feel different. I want to be open and discuss these thoughts, but I also worry that talking about my feelings might just lead to more hurt. So, I’m caught between wanting to explore this further and the fear that it might not lead anywhere good."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as they have not fully explored Skyler's ambivalence about change. The client objective was not met because Skyler hasn't articulated their feelings of rejection in depth yet.",
-          "client_utterance": "I guess I'm realizing that the feelings of exclusion go way back for me. It's like every time I get left out, it just reinforces this belief that I'm not worth including. I want to change that, but it feels so hard to break free from those thoughts.",
-          "therapist_utterance": "It's a profound insight that these feelings of exclusion have deep roots for you, Skyler. It sounds like you're beginning to connect those moments to a larger narrative about your self-worth. What do you think it would take for you to feel differently about being included?",
-          "therapist_use": "Exploring Ambivalence: encouraged Skyler to articulate their desire for change and their conflicting feelings."
+          "reason_for_ending": "KEEP - Therapist objective was not met because Skyler has not fully articulated their fears of change. Client objective was not met as Skyler is still uncertain about exploring their feelings.",
+          "client_utterance": "I think I understand that it's okay to feel sad, but I'm still scared about what talking about it might bring up. What if it just ends up making me feel worse? I don’t want to go back to feeling completely overwhelmed.",
+          "therapist_utterance": "It sounds like you’re really grappling with the fear of feeling worse if you open up. That’s completely understandable, especially given your past experiences. What do you think could be some positive outcomes of sharing those feelings, even if it feels risky?",
+          "therapist_use": "Exploring ambivalence: encouraged Skyler to express their fears and potential positive outcomes of sharing."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as they need to facilitate further discussion about the pros and cons of staying the same versus making changes. The client objective was not met because Skyler has not yet fully explored their feelings of rejection.",
-          "client_utterance": "I don’t know… part of me thinks that maybe if I just accept that I’m not worth including, I won’t feel as hurt. But another part of me feels like that’s just giving up. I want to feel like I belong, but I’m scared it won’t change anything.",
-          "therapist_utterance": "It sounds like you're really torn between these two perspectives. On one hand, accepting your feelings might feel easier, but on the other, there's that strong desire for connection. What do you think are the benefits of trying to change this pattern, even if it feels scary?",
-          "therapist_use": "Decisional Balance Discussions: facilitated a discussion around the pros and cons of maintaining the status quo versus seeking change."
+          "reason_for_ending": "KEEP - Therapist objective was not met as they haven't sufficiently explored Skyler's fears of change. Client objective was not met due to Skyler's ongoing hesitation to consider change.",
+          "client_utterance": "I guess, if I think about it, maybe sharing could help me feel less alone. But I still worry that it could just lead to more pain or disappointment. It’s hard to imagine anything good coming from it.",
+          "therapist_utterance": "It’s really valid to be concerned about the pain that might come from sharing. At the same time, it seems like there’s a part of you that recognizes the potential for connection. Can you think of a time when opening up did lead to something positive, even if it was challenging?",
+          "therapist_use": "Eliciting Change Talk: prompted Skyler to recall positive experiences related to sharing their feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because further exploration of Skyler's values related to connection is needed. The client objective was not met as Skyler has not yet fully articulated their feelings of rejection and the impact on their relationships.",
-          "client_utterance": "I guess I want to feel valued, but I also think it might be easier to just keep my distance. If I try to connect and fail, that would hurt even more. It’s like I’m afraid of hoping for something better because I’ve been let down so many times before.",
-          "therapist_utterance": "Your fear of disappointment is completely understandable, especially given your past experiences. It’s a protective instinct to want to avoid that hurt. Can you think of any times when reaching out led to a positive experience, even if it was small?",
-          "therapist_use": "Eliciting Change Talk: encouraged Skyler to reflect on past experiences that may have included positive connections."
+          "reason_for_ending": "KEEP - Therapist objective was not met since they need more insight into Skyler's past experiences. Client objective was not met as Skyler hasn't fully expressed their motivations for change.",
+          "client_utterance": "There was that one time I told a friend I felt left out, and they were really supportive. It felt nice to be heard, but it also made me vulnerable, and I was scared they would judge me. I don't know if I can handle that again.",
+          "therapist_utterance": "It’s great that you had a supportive experience when you opened up before, but I can see why vulnerability feels risky. Feeling judged is a tough fear to face. What do you think it would take for you to feel safe enough to share your feelings again?",
+          "therapist_use": "Decisional Balance Discussions: helped Skyler weigh the risks and benefits of sharing their feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as they need to delve deeper into Skyler's core beliefs about love and acceptance. The client objective was not met because Skyler has not yet fully expressed their ambivalence toward pursuing change.",
-          "client_utterance": "There have been a few moments where I felt connected, but they seem so rare. I feel like I keep waiting for someone else to make the first move. I want to be open and reach out, but my fear just holds me back.",
-          "therapist_utterance": "It sounds like you're recognizing that your fears are quite powerful, but it's also encouraging to hear that you’ve had moments of connection. What would it look like for you to take a small step toward reaching out, despite that fear?",
-          "therapist_use": "Exploring Underlying Beliefs: encouraged Skyler to reflect on their beliefs about connection and vulnerability."
+          "reason_for_ending": "KEEP - Therapist objective was not met as they need to further validate Skyler's feelings of vulnerability. Client objective was not met since Skyler has not yet articulated their desire for change.",
+          "client_utterance": "I think I would need to trust that the person I talk to won’t judge me. That’s a big hurdle for me because I often feel misunderstood. I want to believe that opening up could help, but it’s just hard to see how.",
+          "therapist_utterance": "Trust is a crucial factor in feeling safe to share your feelings, and it’s understandable to want that assurance. It sounds like you’re recognizing that building trust might be part of the journey toward feeling more connected. What qualities do you think are important for you to trust someone with your feelings?",
+          "therapist_use": "Exploring Ambivalence: facilitated discussion on the importance of trust in sharing feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because they need to facilitate a deeper discussion of the discrepancies between Skyler's values and current behaviors. The client objective was not met as Skyler has not yet fully explored their feelings of rejection in relation to their desire for change.",
-          "client_utterance": "I think it might start with just being honest about how I feel, but it’s intimidating. I worry that if I share my feelings, I’ll just be rejected again. That makes me freeze up and not say anything at all.",
-          "therapist_utterance": "It’s really tough to consider being vulnerable when there's a fear of rejection. Your feelings are valid, and it’s okay to feel hesitant. What do you think would help you feel safer in sharing your feelings with someone?",
-          "therapist_use": "Exploring Ambivalence: validated Skyler's hesitation while encouraging them to explore what could make sharing feel safer."
+          "reason_for_ending": "KEEP - Therapist objective was not met as they haven't fully explored what qualities Skyler values in relationships. Client objective was not met since Skyler has not yet committed to exploring change.",
+          "client_utterance": "I guess I need someone who listens and doesn’t rush to give advice. I want to be able to express myself without feeling like I have to hold back. It feels like it could be worth trying, but I’m still cautious.",
+          "therapist_utterance": "It’s insightful to identify those qualities you need to feel heard and safe. It seems like you’re opening up to the idea of trying to share more, even if it’s just a little bit at a time. How do you feel about taking a small step toward that, like sharing with someone you trust?",
+          "therapist_use": "Eliciting Change Talk: encouraged Skyler to contemplate taking small steps to share their feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as further exploration of Skyler's feelings about rejection and connection is needed. The client objective was not met because Skyler has not yet fully articulated their desire for change.",
-          "client_utterance": "Maybe if I could find someone who understands, it wouldn’t feel so scary. But I still doubt if I’m even worth that understanding. I want to feel valued, but I keep thinking maybe I’ll never really fit in anywhere.",
-          "therapist_utterance": "Finding someone who understands can definitely make a difference, and it’s good to hear you want that. It’s painful to doubt your worth, and I can see how that would create a barrier for you. What would it take for you to start believing you deserve that connection?",
-          "therapist_use": "Eliciting Change Talk: encouraged Skyler to express their thoughts on what it would mean to believe they deserve connection."
+          "reason_for_ending": "KEEP - Therapist objective was not met as they need to reinforce Skyler's progress towards change. Client objective was not met since Skyler hasn't expressed a commitment to act yet.",
+          "client_utterance": "I think I could try talking to my friend about how I feel left out sometimes. It’s still a bit scary, but I see how it might help me feel less isolated. I’m just not sure if I can do it right.",
+          "therapist_utterance": "That’s a brave step to consider sharing your feelings of exclusion with your friend. It’s understandable to feel uncertain about how it will go, but it sounds like you’re recognizing the potential benefit of reaching out. What would make you feel more prepared to take that step?",
+          "therapist_use": "Decisional Balance Discussions: supported Skyler in acknowledging the potential benefits of sharing feelings."
         },
         {
-          "reason_for_ending": "MOVE - The therapist objective was met as they have effectively explored Skyler's ambivalence and reinforced their motivation for change. The client objective was met as Skyler has articulated their feelings of rejection and expressed a desire for change, showing greater self-awareness.",
-          "client_utterance": "I think I need to start believing that I do deserve to be included, even if it feels scary. I want to work on that and take small steps. Maybe if I believe I’m worthy, I can reach out more.",
-          "therapist_utterance": "That’s a powerful realization, Skyler! Recognizing your worth is a significant step toward changing your patterns. I’m here to support you as you start taking those small steps toward connection.",
-          "therapist_use": "Double-sided reflection: validated Skyler's desire for change while acknowledging their fears, reinforcing their motivation."
+          "reason_for_ending": "MOVE - Therapist objective was met as Skyler expressed insight into their ambivalence and readiness to share feelings. Client objective was met as Skyler articulated a desire to explore change in how they perceive their relationships.",
+          "client_utterance": "I think I’m ready to try talking to my friend and see how it goes. It feels like a small step, but it’s something. I guess I just have to trust that it might lead to something good.",
+          "therapist_utterance": "That’s a significant decision, and it’s wonderful to hear you’re willing to take that step. Trusting the process can be challenging, but it seems like you’re ready to explore what sharing can bring. I believe this could be a valuable experience for you.",
+          "therapist_use": "Reinforcing Change Talk: celebrated Skyler's willingness to take action and reinforced their insight."
         }
       ]
     },
@@ -240,30 +253,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Enhance Skyler's commitment to making changes in social interactions and increase their confidence in handling feelings of rejection.",
+          "objective": "Strengthen Skyler's commitment to change by exploring their motivations and readiness for action.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Skyler to articulate their reasons for wanting change, focusing on personal values.",
-                "Ask open-ended questions about what change means to them and how it aligns with their life goals.",
-                "Reflect back their commitment statements to reinforce their motivation."
+                "Ask Skyler open-ended questions about their desire to change and what that change would look like.",
+                "Encourage them to articulate their reasons for wanting to take action, reinforcing positive statements about their readiness.",
+                "Utilize reflective listening to validate their feelings and reinforce their motivations."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions (1-10) to assess their confidence in making changes and readiness to act.",
-                "Discuss what a '10' would look like and what small steps could be taken to reach that level.",
-                "Acknowledge their fears and uncertainties while validating their desire to improve."
-              ]
-            },
-            {
-              "strategy_name": "Identifying Supports and Resources",
-              "instructions_for_therapist": [
-                "Explore support systems in their life, such as friends, family, or community resources.",
-                "Discuss how they can reach out for support when feeling rejected or hurt.",
-                "Encourage them to list potential allies they can involve in their action plan."
+                "Discuss with Skyler any previous successes they have had in making changes, highlighting their strengths.",
+                "Use scaling questions to assess their confidence in initiating change, encouraging them to identify what would increase their confidence.",
+                "Collaboratively explore how they envision overcoming potential barriers."
               ]
             }
           ]
@@ -273,85 +278,78 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaborate with Skyler to create a step-by-step action plan for engaging socially, starting with low-pressure situations.",
-                "Set specific, achievable goals for social interactions, such as accepting one invitation per week.",
-                "Help Skyler prioritize these goals and identify the first steps they feel comfortable taking."
+                "Help Skyler develop a step-by-step action plan focusing on small, achievable goals that can be started immediately.",
+                "Identify and discuss specific situations where they can practice new behaviors, such as accepting social invitations.",
+                "Encourage them to set a timeline for these actions and discuss how they will measure success."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Work with Skyler to identify coping strategies for feelings of rejection, such as positive self-talk or grounding techniques.",
-                "Role-play how to respond to feelings of hurt in the moment, reinforcing healthy expressions of emotions.",
-                "Encourage them to maintain a journal of their feelings and coping responses to track progress."
-              ]
-            },
-            {
-              "technique_name": "Behavioral Experiments",
-              "instructions_for_therapist": [
-                "Design small experiments to test the belief that they are unwanted, such as initiating contact with friends.",
-                "Discuss expected outcomes versus actual experiences to challenge negative automatic thoughts.",
-                "Review results together to reinforce learning and adjust future plans."
+                "Guide Skyler in identifying potential barriers they may encounter when implementing their action plan.",
+                "Collaboratively brainstorm possible solutions and coping strategies for each identified barrier.",
+                "Encourage them to think of past experiences where they successfully navigated similar challenges."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this therapy plan, I first focused on enhancing Skyler's commitment to change, recognizing their motivation is present but coupled with fears of rejection. By employing MI strategies, I encouraged them to articulate their reasons for change, reflecting their statements back to strengthen commitment. I utilized scaling questions to explore their confidence and readiness, helping them identify small steps to take towards social engagement. Identifying supports is crucial given Skyler's historical feelings of invalidation, so we will explore potential allies they can lean on. For the CBT interventions, I prioritized action planning with specific, achievable goals tailored to their comfort level, addressing their avoidance behaviors. Coping strategies were developed to provide them with tools to manage feelings of hurt effectively, which is crucial given their patterns of internalizing rejection. Lastly, behavioral experiments will help challenge their negative beliefs through direct experience, fostering resilience and confidence. This structured approach respects their resistance and builds on their readiness to act.",
-        "progress_marker": "Skyler will report on their attempts to engage socially over the next sessions and reflect on their feelings and coping strategies employed."
+        "therapist_reasoning": "To support Skyler in the Preparation phase, I focused on enhancing their commitment to change by employing Motivational Interviewing strategies. Beginning with strengthening commitment language, I will encourage Skyler to articulate their motivations, fostering a sense of agency. This aligns with their need for validation and acknowledgment of their feelings. Next, I will explore their confidence and readiness by discussing past successes, which can enhance their self-efficacy—a crucial aspect given their history of feeling unlovable. For the CBT component, I chose Action Planning to break down the change process into manageable steps, ensuring the plan is realistic and achievable. Additionally, Problem-Solving Skills Training will help Skyler identify barriers and develop coping strategies, addressing their resistance while empowering them. This dual approach of MI and CBT aims to validate their emotions, build confidence, and foster a collaborative environment for change.",
+        "progress_marker": "Skyler will complete an action plan detailing at least three specific behavioral changes they intend to pursue within the next month, along with identified barriers and coping strategies."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings of exclusion and develop ways to respond differently in social situations.",
+        "client_objective": "I hope to explore my feelings of exclusion and find ways to connect with others more positively.",
         "client_state": {
-          "awareness": "I recognize that feeling excluded impacts my self-worth and contributes to my depression.",
-          "motivation": "I feel a growing desire to change my response to social situations and to seek connection rather than avoid it.",
-          "openness": "I am willing to discuss my feelings and explore new strategies for coping with rejection.",
-          "resistance": "I still feel uncertain about my ability to maintain change and fear that my efforts may not lead to lasting improvement."
+          "awareness": "I recognize that my feelings of being unwanted and excluded are deeply rooted in my past experiences, and I understand how they affect my current relationships.",
+          "motivation": "I feel a strong desire to improve my connections with friends and address the loneliness I've been experiencing.",
+          "openness": "I'm willing to discuss my thoughts and feelings with my therapist, though I still feel hesitant about fully opening up.",
+          "resistance": "I experience doubts about my ability to change and fear that my efforts might not lead to the validation I seek."
         },
-        "client_reasoning": "I've started to understand that my feelings of exclusion are rooted in my past experiences of being invalidated, which makes me feel unlovable and unwanted. I know I need to change how I respond to situations like not being invited to Edson's dinner, as it leads to feelings of loneliness and sadness. I want to improve my connections with others, and I feel motivated to explore ways to do that. However, I still worry that I might fail or that my efforts won't be enough to change my situation. Therapy has helped me see that I can take small steps toward change, but I still have doubts about whether I can truly break free from my old patterns of avoiding social situations and seeking affirmation. I'm cautiously optimistic that with guidance, I can find healthier ways to cope."
+        "client_reasoning": "I've come to realize that my feelings of exclusion are tied to experiences from my childhood, where I often felt unheard and invalidated. This understanding makes me think that change is necessary; I don't want to feel lonely anymore or push people away out of fear. I really want to improve my relationships and feel more connected, but there's still a part of me that worries about being rejected again. Sometimes I wonder if I can truly change my situation or if I'm just hoping for something that might not happen. Therapy has been a safe space for me to explore these feelings, and it makes me cautiously optimistic about finding new ways to relate to others. I think I need to open up more about my fears and the past, even if it feels uncomfortable, so I can start to move forward.",
+        "progress_marker": "Client expresses a willingness to explore their feelings and considers practical steps for improving social connections."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met due to insufficient exploration of supports. Client objective not met as Skyler has not yet articulated specific strategies for coping with rejection.",
-          "client_utterance": "I think I want to start reaching out more, but I still feel unsure about how to manage those feelings of rejection when they come up. It's like I want to connect, but the fear of being hurt makes me hesitate. I really want to find ways to cope better.",
-          "therapist_utterance": "It's great to hear you're feeling the urge to reach out! Let's explore what those feelings of rejection look like for you. Can you tell me more about what comes up for you when you think about reaching out to someone?",
-          "therapist_use": "Open-ended question: encouraged Skyler to explore feelings around rejection."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to further explore Skyler's motivations for change. Client objective not met: Skyler has not yet articulated specific feelings or connections they want to address.",
+          "client_utterance": "I think I’m starting to see how sharing my feelings might help me feel less alone, but I still feel a bit hesitant. I worry about being judged again, and it makes me question if it’s worth the effort. I just want to make sure I'm doing this for the right reasons.",
+          "therapist_utterance": "It’s great that you’re recognizing the potential benefits of sharing your feelings, but I understand the hesitation about being judged. What do you think the right reasons for opening up would be for you? How do you envision it might change your connections with others?",
+          "therapist_use": "Open-ended questioning: Encouraged Skyler to explore their motivations for sharing."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as there hasn’t been enough focus on identifying support systems. Client objective not met since Skyler hasn't yet articulated specific coping strategies.",
-          "client_utterance": "When I think about reaching out, I worry that they won't want to be around me, which just makes me feel even more alone. I guess I need to find ways to remind myself that it's okay to feel rejected, but I'm not sure how to do that. I don't know who I can turn to when those feelings hit.",
-          "therapist_utterance": "Those feelings of loneliness and worry are really tough to navigate, and it's understandable to feel that way. Let's talk about who might be in your life that you can reach out to for support when you're feeling rejected. Can you think of anyone who has been there for you in the past?",
-          "therapist_use": "Exploring support systems: aimed at identifying potential allies for Skyler."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to further validate Skyler's feelings of exclusion. Client objective not met: Skyler has not yet identified specific goals for improving connections.",
+          "client_utterance": "I guess if I think about it, I want to feel more connected and less isolated. I just don’t know how to start that process, especially since I fear being left out again. It feels overwhelming to think about making changes.",
+          "therapist_utterance": "Feeling overwhelmed is completely understandable, especially when it comes to wanting to change how you connect with others. Can we break it down together? What would it look like to take one small step toward feeling more connected?",
+          "therapist_use": "Reflective listening: Validated Skyler's feelings and encouraged step-by-step exploration."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as there hasn't been enough focus on action planning. Client objective not met since Skyler has not identified specific people to reach out to.",
-          "client_utterance": "I guess my best friend, Jamie, has always been supportive, but I feel like I burden them when I share my feelings. I want to reach out, but I also don’t want to seem weak or needy. It’s like I want to tell them how I feel, but I just freeze up.",
-          "therapist_utterance": "It’s really common to feel that way about reaching out to friends, but it's important to remember that friendships thrive on honesty and sharing. Let’s consider how you might approach Jamie. What would it look like for you to share just a little bit about how you’re feeling next time you talk?",
-          "therapist_use": "Encouraging action planning: helping Skyler envision taking a specific step towards reaching out."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist should help identify specific small steps Skyler can take. Client objective not met: Skyler has not yet developed an action plan.",
+          "client_utterance": "Maybe I could try inviting someone to hang out, but what if they say no? That fear really holds me back. I want to connect, but I’m scared of rejection.",
+          "therapist_utterance": "It's completely normal to fear rejection, and it makes sense that it would hold you back. What if we considered how you might feel if someone accepted your invitation? Can we think of ways to cope with that fear of rejection?",
+          "therapist_use": "Scaling question: Encouraged Skyler to visualize positive outcomes and address fears."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as there has not been enough detail on coping strategies. Client objective not met as Skyler has not articulated any specific steps to take.",
-          "client_utterance": "I think I could try sending Jamie a message about how I’ve been feeling, but I’m still so scared they might not respond well. I just don’t want to feel rejected again. What if they don’t care?",
-          "therapist_utterance": "It's completely natural to feel that fear of rejection, especially when you've been hurt before. Remember, it’s okay to express your feelings, and Jamie might surprise you with their understanding. How can I support you in easing that fear before you reach out to them?",
-          "therapist_use": "Validating feelings: acknowledging Skyler's fears while reinforcing the importance of reaching out."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to work through the fear of rejection further. Client objective not met: Skyler has not yet articulated a specific action they can take.",
+          "client_utterance": "I think if I invite someone and they say yes, it could be really nice. But I just keep thinking about all the times I felt left out, and it makes it hard to believe it will be different this time. I want to feel hopeful, but it's tough.",
+          "therapist_utterance": "It’s important to acknowledge those past experiences, but it’s also great that you can see the possibility of something nice happening. How about we brainstorm some specific ways to invite someone that feel manageable for you? What might that invitation look like?",
+          "therapist_use": "Collaborative brainstorming: Worked with Skyler to generate practical and manageable steps."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as there’s still a lack of coping strategies discussed. Client objective not met as Skyler has not identified ways to cope with rejection.",
-          "client_utterance": "Maybe I can remind myself that Jamie cares about me, even if I feel nervous. I just need to believe that I deserve their support. But I’m not sure how to keep that belief in the moment.",
-          "therapist_utterance": "That's a great realization, Skyler! Let’s explore what kinds of coping strategies could help you remember that belief when those fears arise. What are some positive affirmations or self-talk you could use in those moments?",
-          "therapist_use": "Coping strategy development: encouraging Skyler to think of positive affirmations for coping."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist needs to help Skyler solidify their action plan. Client objective not met: Skyler has not yet identified specific barriers to action.",
+          "client_utterance": "I could just text someone to hang out, but I worry they might not respond. I guess that’s my biggest fear—what if they ignore me? It makes me feel like I’m back to being alone.",
+          "therapist_utterance": "That fear of being ignored can feel really isolating, and it’s valid to feel that way. Let’s identify that fear and think about how you might cope if that happens. What could you tell yourself to stay motivated to reach out?",
+          "therapist_use": "Problem-solving skills training: Helped Skyler identify barriers and coping strategies."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met due to insufficient action planning. Client objective not met as Skyler has not yet committed to specific steps.",
-          "client_utterance": "I could tell myself things like 'I am worthy of connection' or 'Jamie would want to know how I feel.' I think if I practice those affirmations, it might help. But I still feel hesitant about actually reaching out.",
-          "therapist_utterance": "Those affirmations are a fantastic start! Practicing them can really help build your confidence. Can we work together to create a small, actionable plan for when you decide to reach out to Jamie?",
-          "therapist_use": "Action planning: collaborating to create a specific plan for reaching out."
+          "reason_for_ending": "KEEP - Therapist objective not met: The therapist should help reinforce Skyler's strengths. Client objective not met: Skyler has not yet articulated a timeline for their action.",
+          "client_utterance": "I think I can remind myself that not everyone is like my past experiences. If I text someone, I can think of it as just a chance to connect, not a test of my worth. But I still need to figure out when to do it.",
+          "therapist_utterance": "That’s a strong mindset to have! It’s a great way to approach reaching out. When do you think would be a good time for you to send that text, and how will you measure if it feels successful for you?",
+          "therapist_use": "Action planning: Encouraged Skyler to set a timeline and define success."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as there is a clear action plan established. Client objective met as Skyler has identified coping strategies and a plan to reach out.",
-          "client_utterance": "Okay, I think I can send Jamie a message this week. I’ll start with those affirmations before I do it. I feel more ready to take this step now.",
-          "therapist_utterance": "That’s wonderful to hear, Skyler! You've made a significant step toward reaching out and addressing those feelings of exclusion. I’m here to support you as you take this action, and I look forward to hearing how it goes.",
-          "therapist_use": "Reinforcing commitment: affirming Skyler's readiness to take action and offering support."
+          "reason_for_ending": "MOVE - Therapist objective met: The therapist has helped Skyler develop an actionable plan for reaching out. Client objective met: Skyler has articulated specific steps and barriers to improving social connections.",
+          "client_utterance": "I think I could send that text by the end of the week. I feel a bit anxious about it, but if I remind myself that it’s just a step, I think I can manage. I want to feel more connected, and this feels like a good start.",
+          "therapist_utterance": "That’s fantastic to hear, Skyler! Setting that timeline is a significant step toward connection, and it’s okay to feel anxious about it. Remember, taking small steps can lead to meaningful changes, and I believe you can do this.",
+          "therapist_use": "Affirmation: Reinforced Skyler's commitment to their action plan and validated their feelings."
         }
       ]
     }

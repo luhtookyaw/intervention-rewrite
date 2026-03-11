@@ -12,28 +12,35 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To build rapport and increase awareness of Bryce's thoughts and feelings regarding his current situation and personal values.",
+          "objective": "Build rapport and increase awareness of Bryce's thoughts, emotions, and behaviors.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen carefully to Bryce's concerns and feelings about his work and personal projects.",
-                "Reflect back his feelings of worthlessness and the perceived futility of personal endeavors.",
-                "Validate his emotions by acknowledging the difficulty of his experiences."
+                "Listen carefully to Bryce's expressions of hopelessness and defensiveness.",
+                "Reflect back his feelings to validate his experience, e.g., 'It sounds like you feel that no one would notice your efforts.'",
+                "Encourage him to elaborate on these feelings without pressing for change."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Demonstrate understanding of Bryce’s perspective on working long hours and his feelings about personal projects.",
-                "Use empathetic statements to convey that his feelings of sadness and disappointment are legitimate and understood."
+                "Acknowledge the challenges he faces with his father and work-related pressures.",
+                "Use empathetic statements to connect with Bryce's feelings of being overwhelmed."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Bryce to explore the conflict between his current feelings about productivity and his deeper values around personal fulfillment.",
-                "Ask open-ended questions that invite Bryce to reflect on how his current behavior aligns or misaligns with his values."
+                "Help Bryce explore the discrepancies between his current feelings of worthlessness and his personal values.",
+                "Ask open-ended questions like, 'What does being productive mean to you?' to foster self-reflection."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Encourage Bryce to notice when he feels sad or down and how it relates to his thoughts about productivity.",
+                "Invite him to discuss his coping mechanisms and how they impact his emotions."
               ]
             }
           ]
@@ -41,84 +48,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Bryce in recognizing his automatic thoughts related to productivity and self-worth.",
-                "Encourage him to articulate thoughts like 'what's the point?' and explore their origins and impacts on his emotions."
+                "Ask Bryce questions that encourage him to examine the validity of his beliefs about worthlessness.",
+                "For example, 'What evidence do you have that your efforts won't be noticed?' to stimulate critical thinking."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Help Bryce identify cognitive distortions in his thinking, such as all-or-nothing thinking regarding work and self-worth.",
-                "Discuss how these distortions contribute to his feelings of sadness and procrastination."
+                "Facilitate discussions that challenge Bryce's automatic thoughts, such as 'What's the point?'",
+                "Encourage him to consider alternative outcomes or perspectives on his personal projects."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Facilitate a discussion on the connection between Bryce's avoidance behaviors (like social media) and his feelings of worthlessness.",
-                "Encourage him to reflect on how these behaviors serve as coping strategies for his emotions."
+                "Invite Bryce to think about how he would view a friend in his situation.",
+                "Encourage him to articulate a supportive response he might give to someone else facing similar feelings."
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Help Bryce visualize a continuum of feelings related to productivity and worth.",
+                "Encourage him to identify where he stands on that continuum and how his feelings might change."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In addressing Bryce’s pre-contemplation phase, the first step is to build a strong therapeutic rapport through reflective listening and expressing empathy. By validating his emotions of worthlessness and sadness, I aim to create a safe space where he feels understood. Next, I will use motivational interviewing techniques to develop discrepancy, encouraging Bryce to reflect on the difference between his current feelings about productivity and his personal values. This approach aims to gently raise awareness without pushing for immediate change. In tandem, I will implement CBT interventions focused on identifying automatic thoughts and recognizing cognitive distortions. By guiding Bryce to articulate his thoughts like 'what's the point?' I can help him understand their impact on his emotions and behaviors. Functional analysis will further allow Bryce to explore how avoidance strategies serve to cope with his feelings of worthlessness. This structured approach respects his current stage of change while fostering curiosity and engagement in the therapeutic process.",
-        "progress_marker": "Bryce demonstrates increased awareness of his thoughts and feelings, begins to articulate discrepancies between his behaviors and values, and shows a willingness to explore his emotional experiences."
+        "therapist_reasoning": "In this phase, it is crucial to establish rapport and trust with Bryce, who is displaying significant resistance and pessimism regarding his situation. Implementing reflective listening will allow him to feel heard and validated, which is essential for reducing defensiveness. Expressing empathy toward his experiences with his father and work-related pressures can foster a safe environment for exploration. Developing discrepancies will encourage Bryce to reflect on his current feelings and values, creating a space for awareness without direct pressure to change. Incorporating CBT techniques, such as evidence-based questioning, will prompt Bryce to challenge his core belief of worthlessness by examining the validity of his automatic thoughts. Reality testing will provide him with a chance to explore different outcomes of his actions, while the alternative perspective technique will help him to externalize his thoughts and consider the situation from a supportive viewpoint. The continuum technique will facilitate self-reflection by allowing him to visualize his feelings as fluid rather than fixed. This combined approach aligns with his intermediate resistance level, fostering curiosity and engagement.",
+        "progress_marker": "Bryce begins to articulate his feelings and thoughts more openly, showing increased awareness of his cognitive patterns and emotional drivers."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I just want to talk about something else and avoid dealing with my feelings.",
+        "client_objective": "I hope to just get through this conversation without having to confront my feelings too deeply.",
         "client_state": {
-          "awareness": "I don't really see the problem; I feel like I'm just fine.",
-          "motivation": "I don't feel like changing anything right now; it seems pointless.",
-          "openness": "I'm not very comfortable sharing my thoughts; I prefer to keep things to myself.",
-          "resistance": "I strongly resist talking about my issues; they seem overwhelming and unchangeable."
+          "awareness": "I know there are issues, but I don't see them as problems that need addressing.",
+          "motivation": "I don't really want to change; it feels overwhelming to even think about it.",
+          "openness": "I'm not very open to talking about my feelings, especially about my father or my self-worth.",
+          "resistance": "I often defend my situation by saying it’s not that bad and avoiding deeper discussions."
         },
-        "client_reasoning": "Honestly, I don't think there's much to discuss. I mean, I work a lot, and that's just how it is. I guess I could talk about my projects, but what's the point? No one will notice if I finish my website or not. It feels like a waste of time to do something just for myself when I could be working. I know I should be feeling different about it, but I can’t shake this feeling of worthlessness. Talking about my father and all that past stuff just makes me feel worse; it’s complicated and honestly, I don't want to go there. Therapy feels uncomfortable because it means digging into emotions I’d rather avoid. I keep thinking about how I should be productive instead of talking about feelings, but deep down, I feel sad and lonely. It’s easier to scroll through social media than confront all this; at least it distracts me from the emptiness."
+        "client_reasoning": "I feel like I’m stuck in this loop of working hard and feeling unrecognized, and honestly, it’s exhausting. It’s easier to focus on external things, like my job, rather than dive into the emotional mess with my dad or my self-worth. When I think about talking about these problems, I feel this wave of defensiveness; who really cares about my personal projects, anyway? No one is going to notice if I build a website or not. It's just more pressure, and I don’t want to deal with the disappointment of failing or being vulnerable. Therapy feels daunting because it’s not just about talking; it’s about facing those feelings that I’ve kept at bay. I’m unsure if I really want to change, and that leaves me feeling stuck and pessimistic. I just want to avoid the heavy stuff and keep things light, even if that means scrolling through social media instead of confronting my reality."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Bryce is still avoiding deeper feelings and not reflecting on discrepancies. Client objective was not met as Bryce continues to resist discussing his feelings and prefers to divert the conversation.",
-          "client_utterance": "I really don’t see the point in talking about my feelings. I work a lot, and I guess I could chat about my projects, but it just feels pointless. It's easier to scroll through social media than deal with all this, you know?",
-          "therapist_utterance": "It sounds like you feel that discussing your feelings doesn’t lead anywhere, and you'd rather focus on your projects or distractions. I can understand why that feels easier right now. What do you think keeps you from feeling that your personal projects matter?",
-          "therapist_use": "Reflective listening: used to acknowledge Bryce's feelings of futility and validate his avoidance."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Bryce hasn't engaged deeply enough with his feelings. The client objective was not met because Bryce is still avoiding addressing his feelings.",
+          "client_utterance": "I guess I just keep thinking that my work is what really matters. I mean, I’m busy all the time, and that must mean I’m doing something right, right? It’s just easier to focus on what I can control rather than dive into those other things.",
+          "therapist_utterance": "It sounds like you find a sense of purpose in your work, and that’s where you feel most comfortable. You seem to feel that the busyness equates to worth, which is understandable given the pressures you face. How do you feel when you think about those other aspects of your life, like your relationship with your father?",
+          "therapist_use": "Reflective Listening: used to validate Bryce's focus on work while gently prompting him to consider his personal relationships."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Bryce hasn't explored his feelings about productivity versus personal value. Client objective was not met since Bryce still prefers to avoid deeper topics.",
-          "client_utterance": "Honestly, I don’t think anyone would care if I finished my website or not. It just feels like a waste of time to do something for myself when I could be working. I guess I just feel like I should be productive.",
-          "therapist_utterance": "It seems you feel pressure to always be productive, and that makes personal projects feel insignificant. I wonder if there’s a part of you that wishes you could find fulfillment in those projects. How do you think it would feel if you could separate your self-worth from your productivity?",
-          "therapist_use": "Expressing empathy: used to show understanding of Bryce's conflict between productivity and personal value."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Bryce is still reluctant to open up about his relationship with his father. The client objective was not met as Bryce continues to avoid deeper emotional exploration.",
+          "client_utterance": "I don't know, it just feels like a lot. I mean, my dad's response to that letter was... I don't even know how to describe it. It's like I want to feel something, but then I just shut down.",
+          "therapist_utterance": "It sounds really overwhelming for you, that push and pull between wanting to feel something and shutting down. It’s understandable to want to protect yourself from those intense emotions. What do you think keeps you from fully engaging with those feelings?",
+          "therapist_use": "Expressing Empathy: used to connect with Bryce's feelings of overwhelm and encourage deeper reflection."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Bryce hasn't yet articulated any feelings of discontent about his current approach. Client objective was not met as Bryce continues to resist the exploration of his emotions.",
-          "client_utterance": "I don’t know, it just feels overwhelming to think about. I keep telling myself that I should just work harder instead of feeling sad about everything. It seems easier to just keep busy than to think about what's really bothering me.",
-          "therapist_utterance": "I hear you saying that keeping busy feels like an easier option than confronting those feelings. It’s understandable to want to avoid what feels overwhelming. Have you noticed any times when being busy doesn’t feel satisfying, or maybe even leaves you feeling empty?",
-          "therapist_use": "Developing discrepancy: used to encourage Bryce to reflect on the disconnect between his busyness and emotional fulfillment."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Bryce didn't explore his emotions further. The client objective was not met since Bryce still feels defensive about discussing his feelings.",
+          "client_utterance": "I guess I just don’t want to go there. It feels pointless to bring it all up when I’m just trying to get through the day. I mean, who really cares anyway?",
+          "therapist_utterance": "It sounds like you feel that bringing up those feelings might not lead anywhere helpful, and that can be a heavy burden to carry. It’s hard to see the value in confronting those emotions when you feel like no one is paying attention. What would it mean for you if someone did notice your struggles?",
+          "therapist_use": "Developing Discrepancy: used to help Bryce reflect on the value of his emotions in relation to his experiences of being unnoticed."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Bryce has yet to express any curiosity about his emotional experiences. Client objective was not met since Bryce remains resistant to discussing deeper feelings.",
-          "client_utterance": "I guess sometimes I do feel empty, but I just push through it. What's the point of digging into that stuff? I’d rather focus on work and pretend everything’s fine.",
-          "therapist_utterance": "It sounds like you’re trying to push through those feelings, but they still seem to linger. I can see why you’d want to avoid feeling that emptiness. What do you think would happen if you allowed yourself to explore those feelings just a little bit?",
-          "therapist_use": "Reflective listening: used to validate Bryce's strategy of avoidance while gently inviting exploration of his feelings."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Bryce still feels disconnected from his feelings. The client objective was not met because Bryce is still avoiding deeper self-reflection.",
+          "client_utterance": "I don’t know, I guess it would be nice to be seen, but then again, I don't want to deal with the disappointment of that not happening. I just feel stuck in this cycle, and it’s exhausting.",
+          "therapist_utterance": "Feeling stuck can be incredibly draining, especially when you’re caught between wanting to be seen and the fear of disappointment. It’s understandable to want to protect yourself from that. What do you think would help you feel more visible in your own life?",
+          "therapist_use": "Raising Awareness: used to encourage Bryce to think about his visibility in his life and the impact of his feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Bryce has not shown increasing awareness or willingness to explore his feelings. Client objective was not met as Bryce still prefers to avoid discussing deeper emotional issues.",
-          "client_utterance": "I don't know, it just feels like a lot to deal with. I’m not sure I want to go there. I just want to get through the day without feeling worse.",
-          "therapist_utterance": "It’s completely understandable to want to avoid feelings that seem heavy and complicated. It’s okay to take things at your own pace. What do you think would help you feel a bit more comfortable sharing those feelings when you're ready?",
-          "therapist_use": "Expressing empathy: used to acknowledge Bryce’s discomfort and encourage consideration of his pace."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Bryce has not yet identified specific actions to enhance his visibility. The client objective was not met as Bryce continues to resist deeper discussions.",
+          "client_utterance": "I don’t really know. I mean, I guess I could try to share more about my projects, but it feels like a lot of pressure. What if no one cares? That just makes it scarier.",
+          "therapist_utterance": "It sounds like sharing your projects feels like both an opportunity and a risk, and that’s completely valid. The fear of not being cared for can be a strong barrier. What if you considered how you would support a friend in your shoes?",
+          "therapist_use": "Alternative Perspective: used to help Bryce externalize his thoughts and view his situation from a supportive standpoint."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Bryce has not yet articulated any desire to confront or discuss deeper issues. Client objective was not met as Bryce still resists the idea of exploring his feelings.",
-          "client_utterance": "I guess I just don’t know if I want to feel anything more than I already do. It seems pointless to dig into those feelings when I have so much on my plate. I just want to keep going.",
-          "therapist_utterance": "It sounds like there’s a part of you that feels overwhelmed and unsure about diving into those feelings. I understand why it feels easier to just keep going. Is there a small part of you that might be curious about what those feelings could reveal about your wants or needs?",
-          "therapist_use": "Developing discrepancy: used to invite curiosity about his feelings while validating his current coping strategy."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Bryce hasn't fully articulated a supportive response. The client objective was not met because Bryce is still struggling to open up.",
+          "client_utterance": "I guess I’d tell them that it’s okay to feel that way, that they’re doing their best. But I don’t feel like I can give myself that kind of grace. It’s like I’m my own worst critic.",
+          "therapist_utterance": "It’s powerful that you can extend that kindness to others while feeling you can’t do the same for yourself. Recognizing that discrepancy is a significant step. What would it take for you to start being a little kinder to yourself?",
+          "therapist_use": "Developing Discrepancy: used to highlight the difference between how Bryce treats others versus himself, encouraging self-reflection."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective was met as Bryce has begun to show some curiosity about his deeper feelings. Client objective was met as Bryce articulated some resistance but also hinted at a desire to explore further.",
-          "client_utterance": "Maybe there is something there, but it feels risky. I just don’t know how to approach it. I guess acknowledging those feelings might be a step, but it’s scary.",
-          "therapist_utterance": "It's completely natural to feel scared about confronting those feelings, and it’s a good sign that you’re open to the idea of exploring them. Taking that step can be challenging, but it can also lead to greater understanding and growth. Would it feel manageable to start thinking about one small feeling or experience you might want to explore more?",
-          "therapist_use": "Expressing empathy: used to acknowledge Bryce's fear while reinforcing the idea of taking manageable steps toward exploration."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Bryce has started to articulate his feelings and recognize discrepancies. The client objective was met as Bryce engaged in a deeper reflection than before.",
+          "client_utterance": "Maybe it would help to just acknowledge that it’s okay to not be okay. I don’t have to have everything figured out, and I can try to take it one step at a time.",
+          "therapist_utterance": "That’s a significant realization, Bryce. Allowing yourself to be okay with not being okay is a huge step toward self-acceptance. It seems like you’re starting to open up to the idea of exploring these feelings at your own pace.",
+          "therapist_use": "Raising Awareness: used to reinforce Bryce's realization about self-acceptance and validate his progress."
         }
       ]
     },
@@ -127,27 +141,34 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Help Bryce explore his ambivalence about personal projects and strengthen his motivation for change.",
+          "objective": "Explore Bryce's ambivalence regarding personal projects and enhance his motivation to engage in activities that align with his values.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Encourage Bryce to express both sides of his ambivalence regarding personal projects.",
-                "Facilitate a discussion about the pros and cons of pursuing these projects versus continuing his current behaviors."
+                "Ask Bryce to discuss both sides of his feelings about starting personal projects.",
+                "Encourage him to articulate his fears and hopes regarding change, aiming to bring awareness to his conflicting thoughts."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask open-ended questions that prompt Bryce to articulate his reasons for wanting to engage in personal projects.",
-                "Reflect back on his statements that indicate a desire for change to reinforce his motivation."
+                "Prompt Bryce to express any desire or reasons he may have for wanting to engage in personal projects.",
+                "Use open-ended questions to draw out his motivations, focusing on how these projects could impact his sense of self-worth."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Help Bryce identify discrepancies between his values (e.g., self-worth beyond work) and his current behaviors (e.g., prioritizing work over personal fulfillment).",
-                "Encourage him to visualize a future where he balances work and personal interests."
+                "Facilitate a discussion about Bryce's current behaviors versus his values regarding self-worth and personal fulfillment.",
+                "Help him identify discrepancies between his beliefs about productivity and his desire for personal enjoyment."
+              ]
+            },
+            {
+              "strategy_name": "Decisional Balance",
+              "instructions_for_therapist": [
+                "Guide Bryce in creating a pros and cons list regarding his engagement in personal projects versus his current avoidance behaviors.",
+                "Encourage him to reflect on how these choices align with his values and long-term goals."
               ]
             }
           ]
@@ -155,71 +176,92 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Cognitive Restructuring",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Guide Bryce in identifying cognitive distortions in his automatic thoughts, such as 'What's the point?' and 'I shouldn't do things for my own enjoyment.'",
-                "Use Socratic questioning to challenge these thoughts and explore evidence against the belief that personal projects are worthless."
+                "Help Bryce challenge the belief that working on personal projects is pointless.",
+                "Ask him to consider what the worst outcome of engaging in these activities could be and how he might cope with it."
               ]
             },
             {
-              "technique_name": "Identifying Core Beliefs",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Assist Bryce in examining his underlying beliefs about worthiness and productivity.",
-                "Facilitate discussions that allow him to articulate how these beliefs impact his emotions and behaviors."
+                "Encourage Bryce to examine the validity of his automatic thoughts, such as 'What's the point?'",
+                "Prompt him to provide evidence for and against these beliefs, fostering a more balanced perspective."
+              ]
+            },
+            {
+              "technique_name": "Pros and Cons Analysis",
+              "instructions_for_therapist": [
+                "Guide Bryce in identifying the advantages and disadvantages of pursuing his personal projects.",
+                "Facilitate a discussion about how this analysis affects his feelings about engaging with these projects."
+              ]
+            },
+            {
+              "technique_name": "Pie Chart Technique",
+              "instructions_for_therapist": [
+                "Introduce the pie chart technique to help Bryce visualize how he currently allocates his time and how much he devotes to unfulfilling activities.",
+                "Encourage him to reflect on potential shifts in this allocation that could allow for personal project engagement."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this therapy plan, I begin by using Motivational Interviewing strategies to address Bryce’s ambivalence about pursuing personal projects. By exploring ambivalence, I can facilitate a conversation that allows him to express both his desire to engage in fulfilling activities and his beliefs that these activities are unworthy. Eliciting change talk encourages Bryce to voice his motivations, reinforcing his readiness for change. Developing discrepancy further helps him see the gap between his current behaviors and his values, fostering insight into why pursuing personal projects is important. On the CBT side, I will implement cognitive restructuring to challenge Bryce's automatic thoughts, using Socratic questioning to help him recognize cognitive distortions. This examination will also involve identifying his core beliefs about worth and productivity, enabling him to reflect on how these beliefs influence his feelings and behaviors. This collaborative approach respects Bryce’s resistance while guiding him toward greater self-awareness and motivation for change.",
-        "progress_marker": "Bryce expresses greater clarity regarding his ambivalence and begins to articulate personal values that align with pursuing projects."
+        "therapist_reasoning": "In addressing Bryce's ambivalence about engaging in personal projects, I will utilize Motivational Interviewing strategies to explore his conflicting feelings. First, I will employ 'Exploring Ambivalence' to allow him to voice his fears and desires openly, facilitating an understanding of his internal conflict. Next, 'Eliciting Change Talk' will help him articulate any motivations for change, fostering a sense of agency. I will then utilize 'Developing Discrepancy' to highlight the gap between his values and current behaviors, helping him recognize how his avoidance may not serve his goals. The 'Decisional Balance' strategy will enable Bryce to weigh the pros and cons of his current avoidance versus potential engagement. In parallel, I will implement CBT techniques like 'Decatastrophizing' to help him reframe negative beliefs about personal projects and 'Evidence-Based Questioning' to challenge automatic thoughts. The 'Pros and Cons Analysis' will further clarify his motivations, while the 'Pie Chart Technique' will assist him in visualizing his time allocation and inspire shifts towards more fulfilling activities, thus enhancing his motivation to engage in change.",
+        "progress_marker": "Bryce begins to articulate reasons for change and shows increased openness toward exploring personal projects without immediate pressure to act."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to better understand my feelings about my personal projects and the role they play in my self-worth.",
+        "client_objective": "I want to explore my feelings about my work and personal projects to understand if change is possible for me.",
         "client_state": {
-          "awareness": "I'm starting to see how my work habits and avoidance behaviors are linked to my feelings of worthlessness.",
-          "motivation": "I can recognize that pursuing my personal projects could potentially bring me joy, but I'm unsure if it's worth the effort.",
-          "openness": "I feel a bit more comfortable discussing my thoughts and emotions with my therapist, but I still hold back at times.",
-          "resistance": "I often find myself doubting the value of change and feeling pessimistic about whether my efforts will be recognized or appreciated."
+          "awareness": "I’m starting to see that my long hours and avoidance of personal projects might be linked to my feelings of worthlessness.",
+          "motivation": "I feel a small desire to change, but I’m not sure what that change would look like or if it’s worth the effort.",
+          "openness": "I’m somewhat willing to share my thoughts and feelings, but I still hold back when it comes to discussing my deeper fears.",
+          "resistance": "I often defend my current state, thinking it’s easier to stay busy with work than to confront my feelings about change."
         },
-        "client_reasoning": "Lately, I’ve been reflecting on my situation and I can see that my work habits might be unhealthy. I notice that I’m stuck, feeling like I should be working on my projects, but I can’t shake the thought that it’s pointless. Who would even care? I feel lonely and sad when I think about doing something just for me. Part of me wants to explore these personal projects, like building my website, but another part keeps saying it’s a waste of time. I worry that I’ll put in the effort and still feel worthless if no one acknowledges it. I guess therapy is helping me think about these conflicting feelings more deeply, but I still feel a pull towards procrastination and avoiding the discomfort of trying something new."
+        "client_reasoning": "Lately, I’ve been reflecting on my situation, and it’s like a light bulb is starting to flicker. I realize that working long hours might not be as fulfilling as I thought. I can see how my worth is tied to my productivity and that it leaves little room for personal projects, like my website. But then I think, what's the point? I doubt anyone would care or notice if I create something for myself. There’s this conflict in me—part of me wants to explore my passions, but another part fears it’s a waste of time. I also find myself hesitant to share these thoughts in therapy, worried that admitting my fears might expose vulnerabilities I’m not ready to face. Still, talking about it has helped me become more aware of these feelings, and maybe that’s the first step toward something different.",
+        "progress_marker": "Client begins to identify connections between work, self-worth, and avoidance behaviors."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective of helping Bryce explore his ambivalence wasn't fully met as he still struggles to articulate desires for change. The client's objective of understanding his feelings about personal projects wasn't reached either, as he remains uncertain.",
-          "client_utterance": "I still feel like I’m stuck. Part of me wants to work on my website and find some joy in that, but I keep thinking it’s pointless. I guess I’m just scared to start because what if I put in all that effort and it doesn’t matter?",
-          "therapist_utterance": "It sounds like you’re feeling torn between wanting to engage in something meaningful and the fear that it won’t lead to anything fulfilling. What do you think would happen if you allowed yourself to try working on your website, even just a little? Could there be any value in that process, regardless of the outcome?",
-          "therapist_use": "Exploring ambivalence: encouraged Bryce to voice both sides of his desire to engage in projects."
+          "reason_for_ending": "KEEP: Therapist objective not met as Bryce hasn't fully explored his ambivalence. Client objective not met as Bryce is still hesitant to articulate his feelings about personal projects.",
+          "client_utterance": "I still feel like starting personal projects is just going to lead to disappointment. Sometimes I wonder if I even have the energy for it after long hours at work. It’s like I’m stuck between wanting to create something and just keeping my head down.",
+          "therapist_utterance": "It sounds like you feel torn between wanting to pursue something you care about and the exhaustion from your current routine. What do you think holds you back from exploring those personal projects more? Are there specific fears that come up when you think about it?",
+          "therapist_use": "Exploring Ambivalence: Encouraged Bryce to express his conflicting thoughts about personal projects."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's goal of developing discrepancy wasn't fully achieved, as Bryce still hasn't identified a clear gap between his values and behaviors. The client is not yet at a point where he feels ready to articulate why pursuing projects could matter to him.",
-          "client_utterance": "I guess it could feel good to create something, but I keep telling myself that it’s just a distraction. I worry that I’ll just end up feeling worse if I fail. It’s frustrating because I feel like I should just push through and work instead.",
-          "therapist_utterance": "It seems like you’re recognizing that creating could be beneficial, yet you’re still feeling the pressure to focus solely on work. What do you think might change if you allowed yourself to see value in your personal projects, even if they’re not perfect? How might that align with what you truly want?",
-          "therapist_use": "Eliciting change talk: prompted Bryce to articulate potential motivations for pursuing his personal projects."
+          "reason_for_ending": "KEEP: Therapist objective not met as Bryce has not yet articulated specific fears or reasons for change. Client objective not met as Bryce is still grappling with his internal conflict.",
+          "client_utterance": "I guess I fear that if I try and fail, it’ll just confirm that I’m not good enough. It’s easier to stay busy and avoid that whole feeling of worthlessness. But at the same time, I wish I could find something fulfilling outside of work.",
+          "therapist_utterance": "That’s a powerful insight, Bryce. It seems like the fear of failure weighs heavily on you, making it easier to stay in a familiar, albeit unfulfilling, routine. What would it look like if you allowed yourself to try without the pressure of success?",
+          "therapist_use": "Eliciting Change Talk: Helped Bryce articulate his motivations for exploring personal projects despite his fears."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of helping Bryce articulate reasons for change wasn't fully met, as Bryce still holds back. The client's objective of understanding how his feelings about projects relate to self-worth remains unresolved.",
-          "client_utterance": "I guess I can see how creating something could be fulfilling, but it feels risky. I just don’t know if I can justify taking time away from work for something that might not matter in the end. It’s like I’m stuck in this cycle of thinking I shouldn’t prioritize anything else.",
-          "therapist_utterance": "It's understandable to feel that prioritizing personal projects feels risky, especially when work has been your focus for so long. What if you considered the possibility that investing in yourself might actually enhance your overall well-being? How might you feel if you gave yourself permission to explore that risk?",
-          "therapist_use": "Developing discrepancy: guided Bryce to consider the potential benefits of personal projects versus his current focus on work."
+          "reason_for_ending": "KEEP: Therapist objective not met as Bryce hasn't fully acknowledged the gap between his current behaviors and values. Client objective not met as Bryce is still caught up in fears without clarity on potential steps forward.",
+          "client_utterance": "I think if I could just create something, it wouldn't matter if it was perfect, but I still struggle with the idea that it might be pointless. Sometimes I just feel like I’m not worthy of that kind of fulfillment. I know I want to feel differently, but I just don’t know how to start.",
+          "therapist_utterance": "It’s understandable to feel that way when your self-worth is tied to productivity. What if we explored what it would mean to you personally to engage in those projects? How might it align with what you value in life?",
+          "therapist_use": "Developing Discrepancy: Facilitated discussion to highlight the gap between Bryce's values and current behaviors."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of reinforcing Bryce's motivation for change wasn't fully achieved, as he remains hesitant. The client's goal of understanding his feelings about personal projects still feels incomplete, as he struggles to see their value.",
-          "client_utterance": "I see your point, but I still feel like I’m not worthy of that time. It’s hard to shake the belief that I should always be productive. I guess I just don’t know how to change that mindset.",
-          "therapist_utterance": "It sounds like you’re grappling with deep beliefs about worthiness and productivity that make it challenging to prioritize your own needs. Let’s take a moment to unpack that thought: what evidence is there that supports the idea you’re not worthy of pursuing something just for you? How do you think those beliefs affect your feelings?",
-          "therapist_use": "Cognitive restructuring: helped Bryce identify and challenge his negative beliefs about worthiness."
+          "reason_for_ending": "KEEP: Therapist objective not met as Bryce hasn't constructed a detailed pros and cons list. Client objective not met as Bryce is still unclear on the potential benefits of engaging in personal projects.",
+          "client_utterance": "I guess there could be some positives, like feeling proud of something I made. But then I think about the time it might take and whether it's really worth it. I mean, what if I just end up feeling frustrated instead?",
+          "therapist_utterance": "It sounds like there are both potential rewards and risks in considering your personal projects. Why don’t we take a moment to weigh the pros and cons together? This might help clarify how you really feel about engaging with those activities.",
+          "therapist_use": "Decisional Balance: Guided Bryce to consider the advantages and disadvantages of pursuing personal projects."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's goal of facilitating discussions about core beliefs wasn't fully met, as Bryce hasn't yet articulated how those beliefs impact his emotions. The client's objective of understanding the role of personal projects in self-worth remains unfulfilled.",
-          "client_utterance": "I guess I can see that my beliefs about productivity hold me back. Maybe I do feel unworthy when I think about doing things for myself. It's just tough to shift that mindset because it's been there for so long.",
-          "therapist_utterance": "You’re starting to recognize how those long-held beliefs impact your feelings and choices. What would it look like for you to gradually challenge that belief? How might you start to create space for activities that bring you joy, even if it feels uncomfortable at first?",
-          "therapist_use": "Identifying core beliefs: facilitated a discussion on how Bryce's beliefs about productivity influence his feelings and behaviors."
+          "reason_for_ending": "KEEP: Therapist objective not met as Bryce hasn't yet visualized his time allocation. Client objective not met as Bryce is still uncertain about how to shift his focus.",
+          "client_utterance": "I can see how spending time on personal projects could be fulfilling, but it feels like there’s never enough time. I’m so used to filling my schedule with work that I can’t imagine what it would be like to shift gears. It feels overwhelming.",
+          "therapist_utterance": "It’s understandable to feel overwhelmed when considering a shift in your routine. Let’s take a moment to visualize how you currently spend your time. By creating a pie chart, we can see where there might be room for personal projects without overwhelming yourself.",
+          "therapist_use": "Pie Chart Technique: Introduced a visual tool to help Bryce understand his time allocation."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective of helping Bryce explore his ambivalence and articulate values was met, as he begins to reflect on his beliefs. The client's objective of understanding the role of personal projects in self-worth was also achieved as he recognizes the need for change.",
-          "client_utterance": "I think I’m starting to see that I don’t have to tie my worth to my productivity. Maybe it’s okay to explore my interests without fearing what others think. I just need to take that first step, even if it feels small.",
-          "therapist_utterance": "That’s a significant realization, Bryce. Acknowledging that your worth isn't solely tied to productivity opens up new possibilities for you. What might be a small first step you could take towards exploring your personal projects, just for you?",
-          "therapist_use": "Reinforcing motivation: recognized Bryce's insight and encouraged taking actionable steps towards personal projects."
+          "reason_for_ending": "KEEP: Therapist objective not met as Bryce hasn't fully embraced the idea of change. Client objective not met as Bryce still feels resistance to engaging in personal projects.",
+          "client_utterance": "I think if I could see my time laid out, it might help. It’s just hard to imagine actually taking that step. I often feel like I’m not entitled to spend time on things that matter to me.",
+          "therapist_utterance": "It’s completely valid to feel that way, Bryce. What if we reframed that thought? Your time spent on personal projects doesn’t take away from your worth; it could actually enhance it by aligning with your values.",
+          "therapist_use": "Decatastrophizing: Helped Bryce challenge his belief about not being entitled to personal fulfillment."
+        },
+        {
+          "reason_for_ending": "MOVE: Therapist objective met as Bryce has explored his feelings and motivations for change. Client objective met as Bryce is beginning to articulate a desire to engage in personal projects.",
+          "client_utterance": "I see now that I’m allowed to explore my interests, and it could be worthwhile. Maybe I just need to take small steps to start. I do want to feel more fulfilled; it’s just about figuring out how.",
+          "therapist_utterance": "That’s a significant shift, Bryce. Recognizing that you have the right to engage in activities that matter to you is a powerful step forward. What do you think your next small step could be to begin exploring those interests?",
+          "therapist_use": "Eliciting Change Talk: Encouraged Bryce to consider actionable steps toward personal engagement."
         }
       ]
     },
@@ -228,27 +270,20 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Bryce's commitment to change and enhance his motivation for personal projects.",
+          "objective": "Strengthen Bryce's commitment to personal projects and explore his values around work versus personal fulfillment.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Bryce to articulate his reasons for wanting to work on personal projects, focusing on intrinsic motivations rather than external validation.",
-                "Ask him to express his commitment level on a scale from 1 to 10, exploring what would increase his commitment score."
+                "Encourage Bryce to articulate his desire to engage in personal projects and why it matters to him.",
+                "Use reflective listening to highlight his expressed motivations and aspirations related to his projects."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss with Bryce his past successes to reinforce his capability in completing projects.",
-                "Use scaling questions to assess his confidence in overcoming barriers and readiness to take action, addressing any identified doubts."
-              ]
-            },
-            {
-              "strategy_name": "Identifying Supports and Resources",
-              "instructions_for_therapist": [
-                "Help Bryce identify supportive individuals or resources in his life that can assist him with his projects.",
-                "Facilitate a discussion about how these supports can be utilized effectively during his planning process."
+                "Ask Bryce to rate his confidence in completing a personal project on a scale of 1-10.",
+                "Explore what would increase his confidence and readiness, discussing small achievable steps he can take."
               ]
             }
           ]
@@ -258,82 +293,75 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaborate with Bryce to create a step-by-step action plan for his personal projects, ensuring each step is small and manageable.",
-                "Set specific, achievable goals for the week and discuss how he will track his progress."
+                "Collaboratively develop a step-by-step action plan for a specific personal project, such as building a website.",
+                "Break down the project into smaller tasks to make it more manageable and less overwhelming."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Work with Bryce to identify and implement coping strategies to combat feelings of worthlessness when he is not actively working.",
-                "Practice mindfulness or grounding techniques that he can use when he feels the urge to procrastinate."
-              ]
-            },
-            {
-              "technique_name": "Behavioral Experiments",
-              "instructions_for_therapist": [
-                "Encourage Bryce to engage in a small personal project, documenting his thoughts and feelings before, during, and after the activity.",
-                "Discuss the outcome in the next session to challenge his automatic thoughts about the value of personal projects."
+                "Help Bryce identify potential barriers he may face in completing his project and brainstorm practical solutions.",
+                "Discuss coping strategies he can employ when he feels the urge to procrastinate or engage in avoidance behaviors."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this phase, the focus is on solidifying Bryce's commitment to change while addressing his feelings of worthlessness and procrastination. Using Motivational Interviewing strategies, I will encourage him to articulate his intrinsic motivations and scale his commitment, which helps him visualize his readiness for change. By exploring his past successes, I can bolster his confidence in completing personal projects. Identifying supports will create a network he can rely on, reducing feelings of isolation. In the CBT aspect, action planning is vital; we will create small, specific steps to ensure he feels capable without being overwhelmed. Developing coping strategies will offer him tools to manage his feelings of worthlessness when not engaged in work, and behavioral experiments will challenge his automatic thoughts by providing firsthand evidence of the value of personal projects. This structured approach directly addresses his resistance and fosters a gradual transition into action.",
-        "progress_marker": "Bryce will complete at least one small personal project and report on his feelings and experiences in the next session."
+        "therapist_reasoning": "In developing this therapy plan, I recognize that Bryce is in the Preparation phase, indicating a readiness to change yet a fear of failure and feelings of worthlessness. I begin by utilizing Motivational Interviewing strategies to strengthen his commitment language, encouraging him to articulate his motivations for engaging in personal projects, which aligns with his values. This step enhances his intrinsic motivation. Next, I focus on exploring his confidence and readiness, asking him to rate these aspects and discussing ways to improve them. For the CBT interventions, I employ Action Planning as it's crucial for Bryce to have a structured approach to his projects, making them less daunting. By breaking tasks into manageable steps, I can help alleviate his overwhelming feelings. Additionally, I integrate Problem-Solving Skills Training to address practical barriers and develop coping strategies, which is essential given his tendency to procrastinate and avoid. This plan is collaborative, realistic, and tailored to Bryce's resistance profile, focusing on gradual change to build his self-efficacy.",
+        "progress_marker": "Bryce completes at least one small task related to his personal project by the next session."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore practical steps I can take to start working on my personal projects and improve my self-worth.",
+        "client_objective": "I hope to explore practical steps towards engaging with my personal projects and finding value in them.",
         "client_state": {
-          "awareness": "I recognize that my current habits of working excessively and avoiding personal projects are not making me happy. I see how this is linked to my feelings of worthlessness.",
-          "motivation": "I feel a growing desire to change my situation and start pursuing projects that matter to me, even if I still struggle with doubts.",
-          "openness": "I'm willing to discuss my thoughts and emotions with my therapist, especially regarding my father's impact on my self-worth and how it relates to my current behavior.",
-          "resistance": "I still experience significant doubt and pessimism about whether my efforts to change will make a difference, which holds me back from fully committing."
+          "awareness": "I realize that my workaholic tendencies are rooted in my need for validation and self-worth, and I see how this has negatively impacted my personal life and mental well-being.",
+          "motivation": "I'm feeling a stronger desire to change my current situation, as I recognize that my avoidance behaviors and procrastination aren't fulfilling and I want to experience personal satisfaction.",
+          "openness": "I'm more willing to discuss my thoughts and feelings about my past and present with my therapist, especially regarding my father and my feelings of worthlessness.",
+          "resistance": "However, I still struggle with doubts about my abilities and whether my personal projects will matter to anyone, which makes me hesitant to fully commit to change."
         },
-        "client_reasoning": "I've been reflecting on my situation, and it's becoming clearer that my reliance on work to feel valuable isn't fulfilling me. I understand that I need to make changes, especially because my past experiences with my father have shaped my self-worth. I want to start working on my personal projects, like my website, but I often wonder if it’s worth the effort since no one will notice or care. I feel sad and lonely thinking this way, yet there's a part of me that believes I can create something meaningful for myself. Therapy has helped me realize that I deserve to pursue my interests and not just live for others' acknowledgment. However, I still worry about failing or that my projects won't measure up to my expectations. I want to explore practical steps to overcome this resistance and find joy in creating for myself."
+        "client_reasoning": "I’ve come to understand that my relentless work habits stem from deep-seated beliefs about my worth being tied to productivity. This realization has made me see that change is necessary; I can't keep living in a cycle that leaves me feeling sad and unfulfilled. I want to engage with my personal projects, like building a website, and find joy in them, rather than only seeing them as tasks to complete for recognition. Yet, I still worry that no one will care about what I create, and that fear keeps me from fully committing to these projects. Therapy has opened my eyes to these patterns, and while I’m feeling more motivated to explore change, I still carry a sense of pessimism about whether I can truly break free from my past habits."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because Bryce has not yet articulated his intrinsic motivations clearly. Client objective not met as he has not identified specific steps towards personal projects.",
-          "client_utterance": "I’ve been thinking about what you said, and I guess I can see that working on my website could feel good. But I still can’t shake the thought that it feels pointless unless someone else notices it. I’m also scared that I’ll fail or that it won’t be good enough.",
-          "therapist_utterance": "It's understandable to feel that way, Bryce. Many people struggle with the idea of external validation versus personal fulfillment. What if you focused on what it would mean for you to create something, regardless of how others perceive it? How might that shift your perspective on the work itself?",
-          "therapist_use": "Exploring intrinsic motivations: encouraged Bryce to focus on personal fulfillment rather than external validation."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they haven't fully explored Bryce's motivations for personal projects. The client's objective was not met as Bryce hasn't yet articulated specific steps he feels ready to take.",
+          "client_utterance": "I think I’m starting to see that exploring my interests could be worthwhile, but I still feel hesitant. It’s like I want to dive in, but the thought of failure just looms over me. I guess I need to think about what I could actually do without feeling overwhelmed.",
+          "therapist_utterance": "It makes sense that you're feeling hesitant; the fear of failure can be quite paralyzing. What if we took a moment to brainstorm a few small, manageable steps you could take? It might help to focus on what feels achievable right now.",
+          "therapist_use": "Collaborative brainstorming: used to help Bryce generate specific, manageable steps towards his personal projects."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Bryce has not yet scaled his commitment. Client objective not met because he has not yet identified practical steps for working on his projects.",
-          "client_utterance": "I see your point, but it still feels risky. What if I put in all this effort and it doesn’t turn out well? I think I need to feel more confident that I can actually do this before I dive in.",
-          "therapist_utterance": "Confidence can definitely be a barrier, and it’s important to acknowledge that. Can you think of a past experience where you successfully completed something that felt daunting at first? What did you do that helped you get through it, and how might that inform your approach to this project?",
-          "therapist_use": "Exploring past successes: aimed to boost Bryce's confidence by recalling previous accomplishments."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because they need to strengthen Bryce's commitment to his projects. The client's objective was not met as Bryce hasn't yet identified any specific projects or steps.",
+          "client_utterance": "I can see a couple of things, like maybe starting a blog to share my thoughts. But still, it feels like a lot of pressure, and I wonder if anyone would even read it. I guess I just need to remind myself it doesn't have to be perfect.",
+          "therapist_utterance": "That's a great idea, Bryce! Starting a blog can be a wonderful way to express yourself without the pressure of perfection. How would you feel about setting a goal to write just one short post this week as a starting point?",
+          "therapist_use": "Strengthening Commitment Language: used to help Bryce articulate his desire to start a blog and frame it as a manageable step."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because Bryce has not yet expressed his commitment level. Client objective not met as he has not set specific goals for the week.",
-          "client_utterance": "I remember when I finished that volunteer project; it felt great. But this time, I’m worried that it won’t be the same. I think I need to find a way to believe that I can actually create something worthwhile.",
-          "therapist_utterance": "That’s a great example of what you’re capable of! It sounds like that experience was fulfilling for you. On a scale from 1 to 10, how committed do you feel to starting on your website? What could help raise that number for you?",
-          "therapist_use": "Scaling question: used to assess Bryce's commitment and explore what might enhance it."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they need to explore Bryce's confidence levels further. The client's objective was not met since Bryce hasn't fully committed to writing a blog post yet.",
+          "client_utterance": "Writing a post sounds doable, but I still worry about whether my thoughts will resonate with anyone. It feels vulnerable putting something out there. I guess I have to work on believing that my voice matters.",
+          "therapist_utterance": "It’s completely understandable to feel vulnerable when sharing your thoughts publicly. What if we talked about what would help you feel more confident in sharing your blog? It could also be helpful to remember that your perspective is unique and valuable.",
+          "therapist_use": "Exploring Confidence and Readiness: used to discuss what might increase Bryce's confidence in sharing his writing."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Bryce has not yet discussed supports he can utilize. Client objective not met because he has not articulated practical steps for working on his projects.",
-          "client_utterance": "I think I’m at about a 5 right now. It’s hard to commit fully when I keep worrying about the outcome. Maybe if I had someone to share this with, it would help me feel more accountable.",
-          "therapist_utterance": "Accountability can definitely be a powerful motivator. Can you think of someone in your life who might support you in this process? How could you engage them to help you stay on track with your project?",
-          "therapist_use": "Identifying supports: aimed to help Bryce recognize potential accountability partners."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because they need to create an action plan for Bryce's blog. The client's objective was not met as Bryce hasn't yet committed to specific actions related to his blog.",
+          "client_utterance": "I think I could start by writing down some ideas for posts, maybe even just a few sentences. But I still struggle with the idea of actually hitting publish. What if it’s not good enough?",
+          "therapist_utterance": "That’s a great first step, Bryce! Writing down your ideas can help relieve some of the pressure before you publish anything. We could outline a simple plan for how you might approach that, ensuring it's a comfortable process for you.",
+          "therapist_use": "Action Planning: used to collaboratively develop a step-by-step approach for Bryce to start writing down ideas."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Bryce has not yet created a detailed action plan. Client objective not met because he has not identified clear steps to take towards his projects.",
-          "client_utterance": "I have a couple of friends who might be willing to help. It feels good to think about involving them, but I still need to figure out what the first step is. I don’t want to overthink it and end up doing nothing.",
-          "therapist_utterance": "Involving friends could be a great way to lessen the pressure. Let’s brainstorm some small, manageable steps you can take this week. What’s one specific action you could commit to that feels achievable?",
-          "therapist_use": "Action planning: collaborated with Bryce to create specific, manageable steps for his personal project."
+          "reason_for_ending": "KEEP - The therapist's objective was not met since they need to address potential barriers Bryce may face. The client's objective was not met because Bryce hasn’t fully committed to writing or sharing yet.",
+          "client_utterance": "That plan sounds good, but I can already feel the urge to procrastinate creeping in. I guess I worry that if I don’t have time to write, I’ll just give up altogether. It’s frustrating, because I want to do this.",
+          "therapist_utterance": "It's completely normal to feel that urge to procrastinate, especially when starting something new. Let’s identify what specific barriers might come up for you, and brainstorm some practical solutions together. What do you think could help you stay on track?",
+          "therapist_use": "Problem-Solving Skills Training: used to help Bryce identify barriers to starting his blog and explore practical solutions."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Bryce has not yet discussed how he will track progress. Client objective not met because he has not finalized a specific action plan.",
-          "client_utterance": "Maybe I could start by sketching out some ideas for my website or even writing down what I want it to look like. I think that’s something I could manage without feeling overwhelmed.",
-          "therapist_utterance": "That sounds like a fantastic first step! It’s small enough to not feel daunting, yet significant enough to get you started. How might you keep track of your progress once you start working on it?",
-          "therapist_use": "Tracking progress discussion: guided Bryce to consider ways to monitor his advancement."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as they need to solidify the action plan for Bryce's blog. The client's objective was not met since Bryce hasn’t fully committed to any specific steps yet.",
+          "client_utterance": "I suppose if I set aside just 10 minutes a day to jot down ideas, it might feel less overwhelming. But I still hesitate, you know? I want to be able to stick to it, but I worry that I might just fall back into old habits.",
+          "therapist_utterance": "That sounds like a solid plan, Bryce. Setting aside just 10 minutes can make it feel more manageable. Let’s also think about how you can hold yourself accountable, so you don’t slip back into those old habits. What could that look like for you?",
+          "therapist_use": "Collaborative action planning: used to encourage Bryce to establish accountability measures for following through."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Bryce has articulated actionable steps and identified supports. Client objective met as he has a plan to start working on personal projects and improve his self-worth.",
-          "client_utterance": "I could write down my ideas in a journal, and maybe I could share updates with my friends to keep myself accountable. That feels really good to think about. I’m excited to finally start working on something for myself.",
-          "therapist_utterance": "I’m so glad to hear that, Bryce! It sounds like you’ve made some important connections between your goals and the steps you want to take. This is a meaningful shift towards pursuing what matters to you. I look forward to hearing about your progress in our next session.",
-          "therapist_use": "Commitment strengthening: validated Bryce's excitement and acknowledged his proactive steps towards change."
+          "reason_for_ending": "MOVE - The therapist's objective was met as they have collaboratively developed a clear action plan for Bryce. The client's objective was met as Bryce has articulated specific steps and expressed motivation to engage with his project.",
+          "client_utterance": "I think if I focus on just those 10 minutes to write, it could really help me get started. I’m starting to feel a bit more excited about it, and maybe this could lead to something fulfilling. I actually see the value now.",
+          "therapist_utterance": "That’s fantastic to hear, Bryce! Recognizing the potential value in your projects is a huge step forward. I believe you have what it takes to make this happen, and I’m looking forward to hearing about your progress next time.",
+          "therapist_use": "Reflective listening: used to validate Bryce's excitement and commitment to his personal project, reinforcing his progress."
         }
       ]
     }

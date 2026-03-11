@@ -12,35 +12,30 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Build rapport and increase Noah's awareness of his feelings and experiences without pushing for change.",
+          "objective": "To build rapport and increase Noah's awareness of his thoughts, emotions, and behaviors without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Noah's concerns and feelings.",
-                "Reflect back what Noah shares, focusing on his feelings of disconnection and exhaustion.",
-                "Validate his emotions and experiences to foster trust."
+                "Listen carefully to Noah's concerns and feelings.",
+                "Reflect back what you hear him express, particularly regarding his feelings of disconnection and exhaustion.",
+                "Validate his emotions and experiences to create a safe space for dialogue."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Use empathetic statements to show understanding of Noah's struggles with academic pressure and feelings of failure.",
-                "Acknowledge the sadness he feels without judgment."
+                "Acknowledge Noah's feelings of sadness and hopelessness.",
+                "Use empathetic statements to demonstrate that you understand his struggles.",
+                "Encourage him to share more about his experiences and feelings."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore discrepancies between Noah's current feelings of inadequacy and his personal values or aspirations.",
-                "Ask open-ended questions that encourage him to reflect on what he values in education and achievement."
-              ]
-            },
-            {
-              "strategy_name": "Raising Awareness",
-              "instructions_for_therapist": [
-                "Encourage Noah to articulate his thoughts about his past experiences, particularly regarding college.",
-                "Facilitate discussions that help him recognize patterns of avoidance and their implications."
+                "Gently explore the discrepancies between Noah's self-perception and his intelligence and potential.",
+                "Ask open-ended questions that encourage him to reflect on his values and desires for his future.",
+                "Help him identify any personal values that may conflict with his current situation."
               ]
             }
           ]
@@ -48,84 +43,87 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Help Noah articulate his automatic thoughts regarding his perceived incompetence and failures.",
-                "Encourage him to write down these thoughts for further exploration."
+                "Ask Noah to provide evidence for his automatic thoughts about being incompetent or a failure.",
+                "Guide him to consider situations where he has succeeded or received positive feedback.",
+                "Encourage him to challenge the validity of his negative self-assessment."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Introduce the concept of cognitive distortions to Noah.",
-                "Guide him in identifying specific distortions in his thoughts, such as all-or-nothing thinking and overgeneralization."
+                "Encourage Noah to describe specific instances that support his belief of being a failure.",
+                "Facilitate a discussion on alternative explanations for these experiences.",
+                "Help him explore whether his beliefs are based on facts or assumptions."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Facilitate a discussion about the behaviors Noah engages in to cope with his feelings of failure.",
-                "Help him understand how avoidance and isolation are maintaining his current state."
+                "Invite Noah to consider how a friend or someone he respects might view his situation.",
+                "Discuss what they might say about his strengths and accomplishments.",
+                "Encourage him to adopt this perspective in his self-reflection."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this phase of therapy, the primary focus is on building rapport and understanding Noah's feelings of disconnect and sadness without pushing for change. I will utilize Motivational Interviewing strategies like reflective listening and expressing empathy to create a safe space for Noah to share his experiences. By reflecting back his feelings, I aim to validate his emotional state and reduce defensiveness. Developing discrepancy will help him explore the gap between his current situation and his personal values, fostering self-reflection without pressure. Concurrently, I will apply CBT techniques such as identifying automatic thoughts and recognizing cognitive distortions, enabling Noah to articulate and challenge his negative beliefs about himself. Functional analysis will offer insights into his avoidance behaviors, fostering awareness of how these are linked to his feelings of incompetence. This combination of MI and CBT strategies is tailored to address Noah's resistance and emotional state, allowing him to engage in the therapeutic process at his own pace.",
-        "progress_marker": "Noah begins to articulate his feelings and thoughts about his past and current situation, showing increased willingness to explore discrepancies in his beliefs."
+        "therapist_reasoning": "To effectively engage Noah in the pre-contemplation phase of therapy, I will first establish rapport through reflective listening and expressing empathy. This will create a safe space for him to share his feelings of disconnection and sadness. By validating his emotions, I aim to reduce his defensiveness and encourage openness. Next, I will employ the motivational interviewing technique of developing discrepancy, guiding Noah to explore the differences between his current situation and his personal values regarding education and self-worth. This exploration will be done gently to avoid overwhelming him. Additionally, I will utilize evidence-based questioning to challenge his negative self-beliefs, prompting him to reflect on instances where he has succeeded. This will be complemented by reality testing, helping him assess the validity of his automatic thoughts. Finally, introducing an alternative perspective will allow him to consider how others perceive his strengths, fostering a more balanced self-view without imposing any expectations for change.",
+        "progress_marker": "Noah begins to articulate his feelings and thoughts about his past experiences without resistance, showing increased engagement in discussions about his beliefs."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to find a way to talk about my situation without feeling overwhelmed or judged.",
+        "client_objective": "I hope to understand why I feel stuck and overwhelmed without necessarily having to change anything right now.",
         "client_state": {
-          "awareness": "I don’t really see my situation as a problem that needs changing.",
-          "motivation": "I feel like change is impossible for me right now.",
-          "openness": "I want to share more, but I feel too exhausted to dig into my feelings.",
-          "resistance": "I strongly want to avoid talking about these issues because they make me feel sad and ashamed."
+          "awareness": "I know there are issues in my life, but I don't really want to think about them deeply or confront them.",
+          "motivation": "I don't feel motivated to change my situation; it feels like too much effort and I doubt it would make a difference.",
+          "openness": "I'm hesitant to share my true feelings because I feel disconnected and exhausted; I worry about being judged.",
+          "resistance": "I feel a strong urge to avoid discussing my problems, as it just makes me feel sad and reminds me of my failures."
         },
-        "client_reasoning": "I keep thinking that maybe if I ignore my problems, they'll go away on their own. It’s hard to admit that I dropped out of college and that I rely on my parents for support. I feel like a failure, so talking about it makes me uncomfortable and defensive. I want to express how I feel, but I also feel so disconnected and tired. It seems like discussing my feelings just leads to more sadness and shame, which I can’t handle right now. I believe I should have figured my life out by now, and when I think about change, it feels like a mountain I can't climb. Therapy feels like it could help, but I’m wary of opening up, fearing I’ll just end up feeling worse about myself. It’s easier to keep everything in and avoid the uncomfortable truths about my life."
+        "client_reasoning": "I feel like I’m caught in this endless loop of disappointment and helplessness. I know I have issues, but when I think about discussing them, I just feel overwhelmed. It seems like every time I try to tackle my feelings about college or my expectations, I end up feeling even worse. I don’t want to be vulnerable and admit how much I’ve struggled, especially when I doubt whether anything can really change. It’s easier to avoid the topic altogether and focus on anything else. I keep thinking about how my mom expects so much from me, and I feel like I’ll never be able to meet those expectations. Therapy feels like a big step, and I’m not sure I can handle digging into my past right now. I guess it feels safer to keep everything bottled up rather than risk opening up and facing the reality of my situation."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Noah is still struggling to articulate his feelings fully. The client's objective was not met as he remains resistant to discussing his problems.",
-          "client_utterance": "I guess I just don’t want to feel worse by talking about everything. It’s been easier to pretend I’m fine, even though I know I’m not. I feel like if I start sharing, it'll just open up a floodgate of sadness that I can't handle right now.",
-          "therapist_utterance": "It sounds like you're really concerned about what might happen if you begin to talk about your feelings. It’s understandable to want to avoid that floodgate of emotions. I want you to know that it's okay to take your time, and we can explore this at your own pace.",
-          "therapist_use": "Reflective listening: used to validate Noah's feelings about discussing his emotions and create a safe space."
+          "reason_for_ending": "KEEP - The therapist's objective was not met because Noah did not articulate his feelings about his disconnection and sadness. The client's objective was not met as Noah still feels overwhelmed and hesitant to confront his issues.",
+          "client_utterance": "I just feel like I’m stuck in this loop of disappointment. I know I should probably think about my past and what happened in college, but it just feels exhausting. It’s like every time I try, I end up feeling worse about myself.",
+          "therapist_utterance": "It sounds really tough to feel stuck like that, and I can see why thinking about college and your experiences would be overwhelming. It’s okay to feel that way; many people struggle with similar feelings. What do you think makes it feel so exhausting to confront those thoughts?",
+          "therapist_use": "Reflective listening: to validate Noah's feelings of being stuck and overwhelmed."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as there’s still a lack of deeper engagement from Noah. The client's objective is not met since he continues to feel overwhelmed and resistant.",
-          "client_utterance": "Yeah, I know you say that, but sometimes it just feels pointless. Like, what’s the use of talking about things when nothing seems to change? I just feel stuck, and saying it out loud doesn’t seem to help.",
-          "therapist_utterance": "I hear you saying that talking feels pointless, and it's tough when it seems like nothing is changing. It’s completely valid to feel stuck, especially when you’ve been carrying these feelings for a while. Can we take a moment to think about what’s important to you regarding your education or future?",
-          "therapist_use": "Expressing empathy: used to acknowledge Noah's feelings of being stuck and validate his frustration."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Noah did not engage in deeper reflection on his experiences. The client's objective was not met because Noah continues to avoid discussing his feelings.",
+          "client_utterance": "I guess it's just that I don't want to dig into those memories. They remind me of how isolated I felt at Grinnell, and it makes me feel sad. Sometimes I wonder if it’s even worth it to think about.",
+          "therapist_utterance": "It makes sense that those memories would bring up feelings of sadness and isolation. Reflecting on them can feel really heavy, especially when it feels like they don’t lead to anything positive. What might happen if you allowed yourself to explore those feelings a little more?",
+          "therapist_use": "Expressing empathy: to show understanding of Noah's reluctance and validate his feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Noah did not reflect on his values or aspirations. The client's objective was not met as he still feels hesitant to engage more deeply.",
-          "client_utterance": "I guess education used to mean a lot to me, but now it just feels like a reminder of how I’ve failed. I don’t even know what I want anymore. It’s like I can’t see a path forward, just a wall.",
-          "therapist_utterance": "It seems like education has become a source of pain rather than opportunity for you, which is really hard to sit with. That wall you’re feeling might be blocking some of your aspirations too. What if we could explore those feelings a bit more and see what values you still hold onto?",
-          "therapist_use": "Developing discrepancy: used to help Noah reflect on the gap between his current feelings and his past values."
+          "reason_for_ending": "KEEP - The therapist's objective was not met since Noah did not explore his feelings further. The client's objective was not met because Noah remained resistant to discussing his past.",
+          "client_utterance": "I really don’t know. It feels like I’d just end up feeling worse, and that’s the last thing I want right now. I think it’s easier to just avoid it all.",
+          "therapist_utterance": "Avoiding those feelings can feel like a protective mechanism, especially when they seem so heavy. It's understandable to want to keep things light, but I'm here to support you. What do you think you might gain if you took just a small step towards confronting those feelings?",
+          "therapist_use": "Developing discrepancy: to encourage Noah to consider the potential benefits of exploring his feelings."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met because Noah is still not fully engaging with his values. The client's objective was not met as he remains hesitant to explore deeper feelings.",
-          "client_utterance": "I don’t know, it feels like I should just be over it by now. I should have figured things out, but instead, I feel like I’m just disappointing everyone. It’s hard to think about what I want when I feel so much pressure.",
-          "therapist_utterance": "It’s understandable to feel that pressure, especially with the expectations from those around you. You’re not alone in feeling disappointed, and it’s okay to acknowledge that it’s hard. Can we talk about what those expectations feel like for you and how they might be impacting your decisions?",
-          "therapist_use": "Expressing empathy: used to validate Noah's feelings of pressure and disappointment, creating space for exploration."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Noah did not express any desire to confront his feelings. The client's objective was not met because Noah remains overwhelmed and resistant.",
+          "client_utterance": "Honestly, I don’t know if I’d gain anything. It just feels like a lot of work for something that might not change anything. I just want to feel okay without having to face all that.",
+          "therapist_utterance": "It’s completely valid to want to feel okay without the heaviness of those feelings. Sometimes, it can feel like facing our past is an uphill battle, especially when we’re uncertain of the outcome. What would it look like for you to feel okay in the present without diving into those past experiences right now?",
+          "therapist_use": "Reflective listening: to acknowledge Noah's desire for comfort while gently encouraging exploration."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Noah did not outline specific expectations or pressures. The client's objective was not met as he continues to feel overwhelmed by external pressures.",
-          "client_utterance": "My mom always had this vision of what I should achieve. Whenever I think about going back to school, I feel like I’m just going to let her down again. I wish I could just focus on what I want without feeling that weight.",
-          "therapist_utterance": "It sounds like your mother’s expectations weigh heavily on you, and that can make it even harder to think about your own desires. It’s completely valid to want to find your own path without that pressure. What would it look like for you to explore what you want, separate from those expectations?",
-          "therapist_use": "Reflective listening: used to acknowledge the impact of Noah's mother's expectations and encourage personal exploration."
+          "reason_for_ending": "KEEP - The therapist's objective was not met since Noah did not engage in discussing current feelings. The client's objective was not met as Noah still feels overwhelmed and hesitant to confront his issues.",
+          "client_utterance": "I guess it’d just mean finding some distraction. I tend to focus on other things like music or art, but even those feel less fulfilling lately. It’s like I can’t escape this feeling of being stuck.",
+          "therapist_utterance": "It sounds like you’ve been using music and art as outlets, but even they aren’t providing the relief they once did. That feeling of being stuck can be really tough to navigate. If you could imagine a way out of that feeling, what might it look like for you?",
+          "therapist_use": "Expressing empathy: to validate Noah's struggle while inviting him to envision a different perspective."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective was not met as Noah still struggles to separate his desires from external expectations. The client's objective was not met as he remains hesitant to explore his wants.",
-          "client_utterance": "I guess I just don’t know what I want anymore. It’s hard to think about my own goals when I feel so lost. I just feel like every time I try to think about it, I end up feeling worse.",
-          "therapist_utterance": "Feeling lost can be incredibly overwhelming, especially when you’re trying to navigate your own goals amid external pressures. It’s okay to not have all the answers right now. What if we just took a small step back and looked at what you do enjoy or what has brought you joy in the past?",
-          "therapist_use": "Raising awareness: used to encourage Noah to identify elements of joy that could help him reconnect with his aspirations."
+          "reason_for_ending": "KEEP - The therapist's objective was not met since Noah did not explore his feelings about potential solutions. The client's objective was not met as Noah still feels overwhelmed and unmotivated.",
+          "client_utterance": "I don’t know, it just feels impossible to think like that. I feel like I’m always going to be stuck here, and I’m not sure I can ever change that mindset. It’s frustrating.",
+          "therapist_utterance": "Feeling like change is impossible can be incredibly frustrating, especially when you're facing those feelings every day. It’s understandable to feel trapped in that mindset. What if we took a moment to consider some of the times you’ve felt differently about yourself?",
+          "therapist_use": "Reality testing: to encourage Noah to reflect on past experiences that might contradict his current beliefs."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective was met as Noah began to articulate his feelings about his lack of clarity on personal goals. The client's objective was met as he expressed a willingness to explore elements of joy from his past.",
-          "client_utterance": "I used to love reading and learning just for the sake of it. I forgot how much I enjoyed that until now. Maybe I could start by just exploring what I like again, without the pressure.",
-          "therapist_utterance": "That’s a wonderful realization, Noah! Rediscovering what you love can open up new pathways and help you feel more connected to yourself. Starting with what brings you joy can be a gentle way to approach your situation without feeling overwhelmed.",
-          "therapist_use": "Encouraging exploration: used to validate Noah's interest in reconnecting with his passions and support a positive direction."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Noah began to articulate his feelings and thoughts about his past experiences. The client's objective was met as Noah expressed a desire to reflect on his past, indicating a willingness to explore his feelings.",
+          "client_utterance": "I can think of a few times where I accomplished something, like that art show I had in high school. I remember how proud I felt then, but it seems so far away now. I just wish I could feel that way again.",
+          "therapist_utterance": "That’s a significant realization, Noah. It’s great that you can recall a moment where you felt accomplished and proud of yourself. Reflecting on those feelings can be a powerful first step toward understanding how to get back to that place.",
+          "therapist_use": "Alternative perspective: to help Noah recognize his strengths and past successes, fostering a more balanced self-view."
         }
       ]
     },
@@ -134,30 +132,28 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore and resolve ambivalence about returning to college while strengthening Noah's motivation.",
+          "objective": "Explore Noah's ambivalence about returning to education and increase his motivation to change by examining the discrepancies between his current situation and his values.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Noah to describe both the positives and negatives of returning to college.",
-                "Encourage him to articulate his feelings about education and the past experiences that influence his current thoughts.",
-                "Use reflective listening to validate his feelings and create a safe space for exploration."
+                "Encourage Noah to express both his desire to complete college and his fears about doing so.",
+                "Ask open-ended questions to help him articulate the pros and cons of returning to school.",
+                "Reflect on his feelings of disconnection and exhaustion to validate his experience."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Noah to express any desire or reasons for returning to college.",
-                "Ask open-ended questions that encourage him to think about what graduating might provide him in terms of personal fulfillment and achievement.",
-                "Use affirmations to build his confidence when he talks about potential positive outcomes."
+                "Encourage Noah to talk about his ideal future and what completing college would mean for him.",
+                "Use affirmations to reinforce any positive statements he makes about change or his abilities."
               ]
             },
             {
               "strategy_name": "Decisional Balance Discussions",
               "instructions_for_therapist": [
-                "Facilitate a discussion about the pros and cons of staying in his current situation versus returning to college.",
-                "Encourage Noah to reflect on his values and how they align with each option.",
-                "Help him visualize the long-term effects of each choice on his life."
+                "Guide Noah through a pros and cons analysis of returning to college versus the current status quo.",
+                "Discuss how his core beliefs about failure and worth may influence his decisions."
               ]
             }
           ]
@@ -165,87 +161,84 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Cognitive Restructuring",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Guide Noah to identify automatic thoughts related to his feelings of incompetency and helplessness.",
-                "Utilize Socratic questioning to challenge his core beliefs about failure and worthlessness.",
-                "Help him gather evidence for and against these beliefs to create a balanced perspective."
+                "Help Noah identify and challenge catastrophic thoughts about his inability to finish college.",
+                "Ask him to consider evidence that contradicts his beliefs of incompetency and failure."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Educate Noah on common cognitive distortions such as all-or-nothing thinking and catastrophizing.",
-                "Encourage him to recognize these patterns in his thought processes, especially regarding his academic experience.",
-                "Support him in reframing his thoughts in a more constructive and realistic manner."
+                "Facilitate a discussion where Noah lists the advantages and disadvantages of returning to education.",
+                "Encourage him to reflect on how his values align with each side of the analysis."
               ]
             },
             {
-              "technique_name": "Exploring Underlying Beliefs",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Facilitate a discussion about the expectations set by his parents and how they influence his current feelings.",
-                "Help Noah explore how these beliefs contribute to his ambivalence about returning to college.",
-                "Encourage him to articulate what his own goals and values are, separate from external pressures."
+                "Guide Noah to examine the validity of his automatic thoughts regarding his academic abilities.",
+                "Ask questions that prompt him to recall past achievements and strengths."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing Noah's therapy plan, I prioritized understanding his ambivalence and enhancing his motivation for change. First, I chose Motivational Interviewing (MI) strategies such as exploring ambivalence to allow Noah to safely discuss his conflicting feelings about education, thereby setting the stage for deeper insight. Eliciting change talk is crucial; it empowers him to articulate intrinsic motivations for returning to college. The decisional balance discussions will help him weigh his choices against his values, fostering personal ownership of the decision-making process. Concurrently, I integrated Cognitive Behavioral Therapy (CBT) techniques to address his unhelpful thoughts and beliefs, starting with cognitive restructuring to challenge his feelings of incompetency. I also planned to help him identify cognitive distortions, which can illuminate how his thought patterns contribute to his current emotional state. Finally, exploring his underlying beliefs about parental expectations is essential for unpacking the emotional burden he carries. This combined approach aims to validate Noah's feelings while gently guiding him toward recognizing potential pathways to change.",
-        "progress_marker": "Noah expresses at least one positive thought about the possibility of returning to college and identifies a specific ambivalence he feels regarding this change."
+        "therapist_reasoning": "The first step in working with Noah is to utilize Motivational Interviewing strategies to help him explore his ambivalence about returning to college. I will begin by encouraging him to articulate his conflicting feelings, which will help me understand his resistance. By using open-ended questions, I can elicit change talk that highlights his aspirations and values, creating a discrepancy between his current situation and his desired future. As I introduce decisional balance discussions, I can guide him toward recognizing the pros and cons of his choices, allowing for reflection on his beliefs about failure. In parallel, using CBT techniques like decatastrophizing will help Noah challenge his catastrophic thoughts about his competence, providing an opportunity to reframe his self-assessment. I will also employ evidence-based questioning, encouraging him to recall past successes and strengths, which may bolster his self-efficacy. This comprehensive approach aligns with his intermediate resistance level by validating his feelings while gently prompting him to consider the possibility of change.",
+        "progress_marker": "Increased expression of change talk and willingness to discuss personal values related to education."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my past academic experiences and understand what might help me move forward.",
+        "client_objective": "I hope to explore my feelings about returning to school and understand my fears around it.",
         "client_state": {
-          "awareness": "I’m starting to see that my past experiences in college and my relationship with my mom are deeply connected to how I feel about myself and my abilities.",
-          "motivation": "Part of me wants to change and finish my education, but I feel stuck and unsure if I can really do it.",
-          "openness": "I want to share my thoughts and feelings, but I also feel exhausted and disconnected, making it hard to open up completely.",
-          "resistance": "I still have doubts about my ability to change and worry that I will just end up disappointing myself and my parents again."
+          "awareness": "I am starting to see how my past experiences and expectations from my mother have shaped my feelings of failure and incompetence.",
+          "motivation": "I feel a desire to change and finish college, but I'm also scared of failing again and disappointing myself and my family.",
+          "openness": "I'm willing to talk about my feelings, but I often find it hard to express everything because I feel disconnected and exhausted.",
+          "resistance": "I still have strong doubts about whether I can actually change or if it's worth the effort, which makes me hesitant to fully commit to any plans."
         },
-        "client_reasoning": "As I sit here reflecting, I'm beginning to grasp that my past struggles in college and my relationship with my mom are intertwined with my feelings of incompetence. I can see that I’ve been avoiding responsibilities, like looking for a job or finishing school, because I’m scared of failing again. It's frustrating because a part of me genuinely wants to change and prove to myself that I can succeed. Yet, the other part feels so overwhelmed by shame and the fear of disappointing my parents. I find myself ruminating over what happened at Grinnell and feeling lonely in this struggle. Therapy has opened a space for me to think about these things, but I still feel a strong resistance inside me. I want to talk about it, but I often feel too exhausted to delve deep into my emotions or to believe that real change is possible for me."
+        "client_reasoning": "Lately, I've been reflecting on how my past experiences, especially my time at Grinnell, have affected my feelings about education and my worth. I realize that I often feel incompetent and like a failure because I haven’t completed college. I see that my mother’s high expectations weigh heavily on me, and I feel ashamed that I haven’t met them. There’s a part of me that wants to return to school and finish my degree, but I’m terrified of failing again and facing that disappointment. I want to talk about these feelings, yet I feel so disconnected and exhausted. Therapy is helping me to notice these patterns, but I still feel a struggle inside; I’m caught between wanting to change and fearing the challenges that come with it. It’s frustrating because I know I need to make a decision, but I’m not sure how to move forward without feeling overwhelmed."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because they didn't yet facilitate a thorough exploration of Noah's ambivalence about returning to college. The client's objective was not met as Noah hasn't fully articulated his feelings about education and the past experiences influencing his current thoughts.",
-          "client_utterance": "I’m starting to think that maybe education could mean something different for me now, but I still feel scared. I really don't want to fail again, and sometimes it feels easier just to stay where I am.",
-          "therapist_utterance": "It’s good to hear that you’re considering a different perspective on education, but I can sense that fear holding you back. What specific aspects of returning to college feel most daunting for you right now? Let's explore those fears together.",
-          "therapist_use": "Open-ended question: encouraged Noah to express his specific fears about returning to college."
+          "reason_for_ending": "KEEP - Therapist objective was not met because Noah did not explore his feelings about returning to school in depth. Client objective was not met as he didn't articulate his fears around it.",
+          "client_utterance": "I keep thinking about that art show, how proud I felt. It makes me wonder if I could feel that way again if I finished college, but then I feel this fear creeping in. What if I fail again and let everyone down? That fear feels really overwhelming.",
+          "therapist_utterance": "It’s understandable to feel overwhelmed by the fear of failure, especially when you’ve had such strong experiences in the past. It sounds like that pride you felt during the art show is something you long to feel again. What do you think it would mean for you to face that fear and consider going back to school?",
+          "therapist_use": "Open-ended questioning: encouraged exploration of feelings about returning to school."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because they haven't explored the positives and negatives of returning to college. The client's objective was not met as Noah hasn't yet expressed any desire or reasons for returning to college.",
-          "client_utterance": "I think about how it could help me in the long run, but then I remember how isolating it felt at Grinnell. Sometimes I worry that if I go back, it will just be the same experience all over again.",
-          "therapist_utterance": "It sounds like you're weighing the potential benefits against the fear of repeating a difficult experience. Can we take a moment to discuss what you might gain from returning to college, and how those gains could outweigh your past struggles?",
-          "therapist_use": "Decisional balance discussions: facilitated a conversation about the pros and cons of returning to college."
+          "reason_for_ending": "KEEP - Therapist objective was not met as Noah did not articulate the pros and cons of returning to college. Client objective was not met because he didn't express his internal conflict clearly.",
+          "client_utterance": "I think it would mean a lot, but I can't shake the feeling that I might just fail again. The pressure from my mom is still there, and part of me feels like I’ll never be good enough for her. It’s like I’m caught in this cycle of wanting to achieve something while feeling like I can't.",
+          "therapist_utterance": "It seems like there's a significant conflict for you between wanting to achieve and the fear of not meeting expectations, especially from your mom. That pressure can be really tough to navigate. Can we talk about what you see as the advantages and disadvantages of returning to college in light of these feelings?",
+          "therapist_use": "Decisional balance discussions: facilitated a pros and cons analysis of returning to education."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they did not sufficiently strengthen Noah's motivation or explore ambivalence. The client's objective was not met because Noah hasn't yet clearly articulated any desire to return to college.",
-          "client_utterance": "I can see that finishing my degree might open doors for me, but I just can't shake this feeling that I'm not cut out for it. Maybe I'm just not meant to succeed in that kind of environment.",
-          "therapist_utterance": "It’s understandable to feel that way, especially with your past experiences weighing on you. Let’s challenge that belief together—what evidence do you have that suggests you’re not capable of succeeding in college? I believe there are strengths within you that can help.",
-          "therapist_use": "Cognitive restructuring: guided Noah to challenge his beliefs about his capabilities."
+          "reason_for_ending": "KEEP - Therapist objective was not met because Noah didn't fully explore the advantages of returning to college. Client objective was not met as he didn't articulate his feelings about returning.",
+          "client_utterance": "I guess the advantage is that I could finally finish what I started and maybe prove to myself that I can do it. But the disadvantage is that I’m terrified of failing and disappointing my mom again. I just don’t know if I can handle that pressure.",
+          "therapist_utterance": "It sounds like the idea of finishing college is really important to you, but so is the fear of failure and disappointment. It’s okay to feel scared about the pressure; that’s a valid concern. What do you think would help you manage that pressure if you decided to go back to school?",
+          "therapist_use": "Affirmation: reinforced Noah's expression of his desire and fears, validating his experience."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met because they haven't fully explored Noah's underlying beliefs about his academic history. The client's objective was not met as Noah has not yet connected his academic feelings to his personal goals.",
-          "client_utterance": "Sometimes I feel like my mom's expectations are part of why I think I can't do it. I want to please her, but I also want to figure out what I want for myself.",
-          "therapist_utterance": "It seems there's a real conflict between your desire to meet your mother’s expectations and your need to define your own goals. What would it look like for you to separate those two things and focus on what you truly want? Let’s explore what that might feel like.",
-          "therapist_use": "Exploring underlying beliefs: encouraged Noah to articulate his goals separate from parental expectations."
+          "reason_for_ending": "KEEP - Therapist objective was not met because Noah didn’t discuss any specific strategies for managing his pressure. Client objective was not met as he didn't express a clear path forward.",
+          "client_utterance": "I don’t know, maybe just taking it slow? But then I worry that if I take it slow, I’ll never actually finish. It feels like I’m stuck in this impossible situation where I want to change but feel paralyzed by my fears.",
+          "therapist_utterance": "Taking it slow could be a good approach, Noah, especially since you’re feeling so overwhelmed. It’s perfectly normal to feel paralyzed when faced with such significant decisions. What are some small steps you could take that would feel manageable for you?",
+          "therapist_use": "Exploring ambivalence: encouraged Noah to express both the desire to change and the fears around it."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met as they have not yet elicited clear change talk from Noah. The client's objective was not met since Noah has not fully expressed his desire to explore returning to college.",
-          "client_utterance": "I think I might want to try taking just one class to see how it feels, but I'm still not sure. What if I just end up feeling worse about myself?",
-          "therapist_utterance": "Testing the waters with one class sounds like a reasonable approach. It allows you to explore education without diving in completely. What benefits do you think could come from even that small step, and how might it help you feel more connected?",
-          "therapist_use": "Eliciting change talk: prompted Noah to consider small steps toward education while reflecting on potential benefits."
+          "reason_for_ending": "KEEP - Therapist objective was not met because Noah did not offer any specific small steps. Client objective was not met as he didn’t express how he might overcome his paralysis.",
+          "client_utterance": "I guess I could maybe just look into some part-time classes or talk to someone about my options. But even that feels like a lot right now. I want to believe I can do it, but I’m still scared.",
+          "therapist_utterance": "It sounds like looking into part-time classes could be a manageable first step for you. It’s great that you’re considering reaching out for support; that can really help lessen the overwhelming feelings. How does that feel for you, thinking about taking that first step?",
+          "therapist_use": "Eliciting change talk: encouraged Noah to articulate a potential first step toward change."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective was not met since they have not yet helped Noah visualize the long-term effects of taking a class. The client's objective was not met as Noah hasn't fully articulated what finishing his education would mean for him.",
-          "client_utterance": "If I took just one class, I guess I could get a taste of it again and see if it's worth it. But I'm still afraid of the pressure and how I'll feel afterward.",
-          "therapist_utterance": "It’s insightful that taking one class feels more manageable for you. Let’s talk about what that pressure looks like for you, and how you might cope with it if it arises. What strategies could you use to support yourself during that time?",
-          "therapist_use": "Reflective listening: validated Noah's feelings while exploring coping strategies for potential pressure."
+          "reason_for_ending": "KEEP - Therapist objective was not met because Noah did not express confidence in taking that first step. Client objective was not met as he didn't fully embrace the change.",
+          "client_utterance": "It feels a bit relieving to think about it, but I’m still really hesitant. I want to believe that I can make this happen, but my past keeps haunting me. I just don’t know if I can trust myself to follow through.",
+          "therapist_utterance": "It’s completely understandable to feel hesitant, especially with the weight of past experiences. Trusting yourself again can be a process, but it’s a positive sign that you’re considering these steps. What would help you build that trust in yourself as you move forward?",
+          "therapist_use": "Pros and cons analysis: facilitated further reflection on his values and the importance of trust in himself."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objective was met as they facilitated a thorough exploration of Noah's ambivalence about education and began to strengthen his motivation. The client's objective was met as Noah expressed a positive thought about returning to college and identified specific ambivalence regarding taking a class.",
-          "client_utterance": "I think I could give it a shot. Maybe just trying a class would help me feel more confident about my abilities, despite the fear.",
-          "therapist_utterance": "That’s a fantastic realization, Noah! Taking that step could help pave the way for greater confidence and clarity in your academic journey. It sounds like you're ready to explore this possibility further.",
-          "therapist_use": "Affirmation: recognized Noah's willingness to consider taking a class, building his confidence and motivation."
+          "reason_for_ending": "MOVE - Therapist objective was met as Noah expressed a desire to take steps toward education and acknowledged his fears. Client objective was met as he articulated his feelings about returning to school and explored his fears.",
+          "client_utterance": "I think if I could just take one step at a time and remind myself of my strengths, maybe I could build that trust back. I really want to give it a go, even if it’s scary. I guess that’s a start.",
+          "therapist_utterance": "That’s a powerful realization, Noah! Taking one step at a time and focusing on your strengths can really help you build that trust. I’m glad to hear you’re willing to give it a go; it sounds like you’re ready to move forward.",
+          "therapist_use": "Affirmation: reinforced Noah's willingness to consider taking steps toward change."
         }
       ]
     },
@@ -254,30 +247,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Noah's commitment to educational and career goals by reinforcing motivation and exploring readiness for change.",
+          "objective": "Strengthen Noah's commitment to returning to college and explore his motivation while addressing his feelings of disconnection and exhaustion.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Noah to articulate his goals and reasons for wanting to return to college.",
-                "Use reflective listening to reinforce any expressions of commitment and motivation.",
-                "Ask open-ended questions about what finishing college would mean for him personally."
+                "Encourage Noah to articulate his reasons for wanting to return to college, focusing on his personal goals and values.",
+                "Ask open-ended questions to explore what finishing college would mean for him, reinforcing positive statements he makes about his goals."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss Noah's feelings about his ability to succeed in college.",
-                "Use scaling questions to assess his confidence in his ability to take action.",
-                "Help Noah identify past successes to bolster his belief in his competence."
+                "Assess Noah's confidence in his ability to succeed in college again.",
+                "Use scaling questions (e.g., 'On a scale of 1-10, how ready do you feel to take the next step?') to gauge his readiness and explore any discrepancies."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Explore potential support systems, including friends, family, or mentors.",
-                "Discuss practical resources available for returning to education, such as financial aid.",
-                "Help Noah articulate how he can leverage these supports to ease his transition."
+                "Help Noah identify supportive people in his life, such as friends or mentors, that can encourage him.",
+                "Discuss potential resources available at colleges that can assist him, including counseling services, academic advising, or study groups."
               ]
             }
           ]
@@ -287,80 +277,83 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Guide Noah in developing a realistic action plan for returning to college, breaking it down into manageable steps.",
-                "Encourage him to set specific, achievable goals related to course selection and enrollment.",
-                "Collaboratively create a timeline for these steps to enhance accountability."
+                "Collaborate with Noah to create a specific, step-by-step action plan for returning to college, including timelines and short-term goals.",
+                "Ensure the plan includes manageable tasks that build his confidence, like researching colleges, reaching out to an advisor, or attending a workshop."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Discuss potential barriers Noah anticipates facing in his return to education.",
-                "Brainstorm coping strategies to address these barriers, focusing on practical solutions.",
-                "Encourage him to practice these strategies in low-stakes scenarios to build confidence."
+                "Explore potential barriers Noah anticipates in returning to college, such as financial concerns or fear of failure.",
+                "Guide him through generating practical solutions for each barrier, reinforcing his ability to overcome them."
               ]
             },
             {
-              "technique_name": "Behavioral Experiments",
+              "technique_name": "Behavior Experiment",
               "instructions_for_therapist": [
-                "Plan small behavioral experiments that allow Noah to confront his fears of failure in a controlled manner.",
-                "Use these experiments to challenge his automatic thoughts about incompetence and failure.",
-                "Debrief after the experiments to reinforce learning and adjust future plans."
+                "Encourage Noah to engage in a small, manageable task related to his academic goals, such as attending a local college event.",
+                "After the experiment, discuss his feelings and thoughts about the experience to challenge his automatic negative thoughts and build self-efficacy."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan for Noah, I first recognized the need to strengthen his commitment to change while addressing his feelings of sadness and disconnection. By implementing MI strategies like reinforcing commitment language and exploring confidence, I aim to evoke Noah's intrinsic motivation for returning to college. I will facilitate his articulation of goals and help him identify support systems, which can alleviate some of his feelings of helplessness. Additionally, the CBT interventions focus on actionable steps, such as creating an action plan and developing coping strategies for potential barriers. I will guide Noah through behavioral experiments to help him confront his fears, thereby enhancing his self-efficacy. The collaboration in setting specific and achievable goals is crucial, especially considering Noah's resistance profile, which indicates a need for gradual and supportive involvement in the change process. This structured approach balances the motivational and cognitive aspects necessary for Noah's preparation phase.",
-        "progress_marker": "Noah successfully identifies specific steps toward re-enrolling in college and expresses a strengthened commitment to pursuing his educational goals."
+        "therapist_reasoning": "In developing this therapy plan for Noah, I first recognized the importance of addressing his feelings of disconnection and sadness, which serve as barriers to his motivation and commitment. Using Motivational Interviewing strategies, I focused on strengthening his commitment language by encouraging him to articulate his personal reasons for wanting to return to college. This aligns with his readiness for change, as he is in the Preparation phase. I also emphasized exploring his confidence and readiness through scaling questions, allowing him to reflect on his feelings and identify areas for growth. To further support his motivation, I helped him identify potential supports and resources that could alleviate his feelings of isolation. In the CBT plan, I prioritized Action Planning to create specific, achievable steps that Noah can take toward his goal, ensuring the tasks are gradual to avoid overwhelming him. Problem-Solving Skills Training will help him address practical barriers, while a Behavior Experiment will provide him with a tangible experience to challenge his negative beliefs about himself, reinforcing his self-efficacy and fostering a sense of accomplishment.",
+        "progress_marker": "Noah will complete at least one task from his action plan and report on his feelings and any challenges faced in the next session."
       },
       "client_plan": {
-        "awareness": "I realize that my current situation, feeling stuck and dependent on my parents, is not sustainable and needs to change for my happiness.",
-        "motivation": "I feel a growing motivation to improve my life and finish my education, especially since I know I have the potential to succeed.",
-        "openness": "I'm willing to discuss my feelings and thoughts in therapy, even though I sometimes feel overwhelmed by my past experiences.",
-        "resistance": "I still have doubts about my ability to change and fears about failing again that hold me back from fully committing."
+        "phase_of_change": "preparation",
+        "client_objective": "I hope to gain clarity on my situation and explore practical steps towards returning to college and achieving my goals.",
+        "client_state": {
+          "awareness": "I recognize that my current life situation is unsustainable, and my past experiences have greatly impacted my self-esteem and motivation.",
+          "motivation": "I feel a growing desire to improve my life and understand that returning to college could be a key step in reclaiming my future.",
+          "openness": "I'm willing to discuss my feelings and thoughts with my therapist, though I still feel a bit disconnected and exhausted.",
+          "resistance": "I have lingering doubts about my ability to change and fears of failing again, which makes me hesitant at times."
+        },
+        "client_reasoning": "I've been thinking a lot about my life lately, and it's becoming clearer to me that I can't keep living in this state of feeling lost and disconnected. I realize now that my negative experiences in college and my reliance on my parents have shaped my beliefs about myself. I want to change that narrative; I want to return to school and finish my degree, but I still feel this overwhelming fear that I won't be able to do it. It's exhausting to confront these feelings, and sometimes I just want to retreat into my shell. However, I know that I've started to reflect on what I need to do differently, and my therapist has helped me see that I have options. I feel a bit more motivated to take those steps, even though part of me worries I might fail again. I guess I'm hoping that by talking this through, I can find a clear path forward that feels manageable.",
+        "progress_marker": "The client has begun to articulate their desire for change and is considering specific steps towards returning to college."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because the therapist did not fully explore Noah's feelings about taking the class. Client objective was not met because Noah still expresses uncertainty about his ability to succeed.",
-          "client_utterance": "I think taking one class is a good start, but I still can't help but feel that I'll just disappoint myself again. What if I don't understand the material? What if it just brings back all those old feelings of failure?",
-          "therapist_utterance": "It's completely understandable to have those fears as you consider taking that step. It sounds like you're worried about not just the content of the class but also the emotional weight it carries. Can we talk more about those old feelings of failure and how they relate to your current situation?",
-          "therapist_use": "Open-ended question: to encourage Noah to articulate his fears and explore deeper feelings."
+          "reason_for_ending": "KEEP - Therapist objective not met: Noah has not yet articulated specific reasons for returning to college. Client objective not met: Noah still feels uncertain and disconnected from his goals.",
+          "client_utterance": "Thinking about taking those steps feels a bit lighter, but I still don't know if I'm ready to jump back into college. I mean, there's so much pressure, and I worry if I'm just setting myself up for another disappointment. What if I can't handle it again?",
+          "therapist_utterance": "It’s completely understandable to feel that way, Noah. The fear of disappointment can be really heavy, especially given your past experiences. Let’s explore what it would mean for you to return to college and how it aligns with your personal goals.",
+          "therapist_use": "Exploring motivation: used to help Noah articulate his reasons for wanting to return to college."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because the therapist did not sufficiently reinforce Noah's intrinsic motivations for education. Client objective was not met because Noah still feels overwhelmed by his worries.",
-          "client_utterance": "I guess I feel like I need to prove something to myself, but then I remember how low my confidence was at Grinnell. I just don't want to feel that way again. It’s hard to even imagine what success would feel like.",
-          "therapist_utterance": "It sounds like proving something to yourself is really important, but the memory of your past experiences is casting a shadow on that desire. Let’s think about what success looks like for you now, in a way that feels achievable. What small milestones could help you feel confident as you move forward?",
-          "therapist_use": "Reflective listening: to validate Noah's concerns and help him envision success in a different way."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist has not yet assessed Noah's confidence in his ability to succeed. Client objective not met: Noah is still expressing fear and hesitation about returning to college.",
+          "client_utterance": "I guess if I think about it, finishing college could mean a lot for my career, but it’s hard to see that when I’m feeling so overwhelmed. I don’t know if I can handle the workload or the pressure from my family. It makes me want to just avoid it altogether.",
+          "therapist_utterance": "It sounds like you’re caught between recognizing the potential benefits of finishing college and the weight of the pressure you're feeling. On a scale from 1 to 10, how ready do you feel to take that next step toward returning to school?",
+          "therapist_use": "Scaling question: used to gauge Noah's readiness and explore any discrepancies."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because the therapist did not help Noah identify specific supports that could help him succeed. Client objective was not met because Noah still feels uncertain about what success entails.",
-          "client_utterance": "I’ve been thinking about how I might lean on some friends or even reach out to a mentor for support. But then I get scared that they’ll see me as a failure too. I just want to avoid feeling judged.",
-          "therapist_utterance": "It’s completely natural to worry about how others perceive you, especially when you're considering reaching out for help. Seeking support can actually be a sign of strength, and your friends or mentor might offer a perspective that helps you feel more secure. Can we explore how you might approach them and what you hope to gain from that support?",
-          "therapist_use": "Exploring supports: to help Noah recognize potential resources and reduce feelings of isolation."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist has not yet helped Noah identify supports in his life. Client objective not met: Noah is still feeling uncertain about his readiness and ability to change.",
+          "client_utterance": "I think I’d rate myself around a 4. I want to be ready, but I feel like I’m carrying this weight of doubt. I just don’t know who I can turn to for support when things get tough.",
+          "therapist_utterance": "A 4 shows that you recognize there’s room for growth, which is a good starting point. Let’s consider who in your life you could reach out to for support, whether it's friends, family, or even a mentor. Identifying those people can help you feel less isolated.",
+          "therapist_use": "Identifying supports: aimed at helping Noah recognize potential sources of encouragement."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because the therapist did not sufficiently encourage Noah to create a concrete action plan. Client objective was not met because Noah is still hesitant about seeking support.",
-          "client_utterance": "I think reaching out sounds helpful, but I still hesitate. What if they think I'm just not trying hard enough? I don't want to burden anyone with my issues.",
-          "therapist_utterance": "It’s understandable to feel that way, but remember that everyone faces challenges and seeking support can demonstrate a willingness to grow. Think of it this way: reaching out could also inspire others to do the same. What if we brainstorm a few ways you could frame your conversations with them to feel less like a burden?",
-          "therapist_use": "Coping strategy development: to help Noah develop a plan to reach out while addressing his fears."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist has not yet developed a specific action plan with Noah. Client objective not met: Noah has not yet articulated any concrete steps he feels ready to take.",
+          "client_utterance": "I suppose I could think about talking to my old advisor or maybe looking into some part-time classes. But even that feels daunting; I don’t want to get my hopes up just to be disappointed again.",
+          "therapist_utterance": "Those are excellent ideas, Noah! Starting with small, manageable tasks can help ease that feeling of being overwhelmed. How about we create a step-by-step action plan for you, focusing on one small thing you can do this week?",
+          "therapist_use": "Action Planning: collaborating with Noah to create specific, achievable steps towards returning to college."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because the therapist did not facilitate a clear action plan for the next steps. Client objective was not met because Noah still feels burdened and unsure about his approach.",
-          "client_utterance": "I like the idea of reaching out, but I’d need a plan to make it feel less daunting. Maybe writing a message or setting up a casual coffee could work, but I still feel hesitant about how to start.",
-          "therapist_utterance": "That sounds like a solid plan! Preparing a message or setting a casual meeting can make the process feel more manageable. Let’s work together to draft a simple message that expresses your interest in reconnecting and seeking support, ensuring it feels authentic to you.",
-          "therapist_use": "Action Planning: guiding Noah to create manageable steps towards reaching out."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist has not explored potential barriers to Noah's return to college. Client objective not met: Noah has not yet expressed confidence in his ability to follow through with the action plan.",
+          "client_utterance": "I think I could look into part-time classes by the end of the week. But I’m still worried about how I’ll manage the workload and what happens if I struggle again. It feels like there are so many barriers.",
+          "therapist_utterance": "It’s great to hear you're considering taking that step! Let’s talk about some of the barriers you might anticipate, like workload or financial concerns. Identifying those challenges can help us find practical solutions together.",
+          "therapist_use": "Problem-Solving Skills Training: used to explore potential barriers and generate practical solutions."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because the therapist did not ensure Noah felt sufficiently prepared to reach out. Client objective was not met because Noah still feels overwhelmed.",
-          "client_utterance": "I appreciate that, but I still feel like I might just end up canceling or not following through. What if I backtrack and end up feeling more stuck than before?",
-          "therapist_utterance": "It's completely valid to feel that way, especially when you're stepping out of your comfort zone. Let’s think about what might help you to feel more confident about moving forward. What small, easy-to-achieve goal could you set for yourself in this process to make it feel less overwhelming?",
-          "therapist_use": "Scaling question: to assess Noah's confidence and help him set a manageable goal."
+          "reason_for_ending": "KEEP - Therapist objective not met: Therapist has not yet encouraged Noah to engage in a small task related to his goals. Client objective not met: Noah is still expressing concern about his ability to manage potential barriers.",
+          "client_utterance": "I guess I could start by reaching out to my advisor for some information. But I’m still scared that I won’t be able to handle the advice or that it’ll just remind me of how far I’ve fallen behind.",
+          "therapist_utterance": "Reaching out is a fantastic first step! Remember, it's about taking things one day at a time and allowing yourself to feel what you feel. After you reach out, we can talk about how it felt and what you learned from the experience.",
+          "therapist_use": "Behavior Experiment: encouraging Noah to engage in a manageable task related to his academic goals."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective was met as Noah outlined a clear plan to reach out for support, demonstrating commitment. Client objective was met as Noah expressed readiness to take action by setting a specific goal.",
-          "client_utterance": "I think if I set a goal to just draft that message and maybe send it by the end of the week, that feels doable. I can take it one step at a time, and I actually feel a bit excited about it.",
-          "therapist_utterance": "That sounds like a fantastic plan, Noah! Setting a specific goal to draft and send a message is a great first step that aligns with your readiness. I’m excited for you to take this action, and I believe it can help you feel more connected to your educational goals.",
-          "therapist_use": "Strengthening Commitment Language: reinforcing Noah's motivation and commitment to his educational goals."
+          "reason_for_ending": "MOVE - Therapist objective met: Therapist encouraged Noah to take a manageable step and discussed feelings afterward. Client objective met: Noah has articulated a specific action he plans to take and feels more motivated.",
+          "client_utterance": "I feel a bit nervous but also relieved thinking about reaching out to my advisor. I hope it helps me feel more connected and clear about my options. I think this could be a step in the right direction.",
+          "therapist_utterance": "That’s a wonderful realization, Noah! Taking that step toward reaching out can really help you regain a sense of connection and clarity. I'm proud of you for moving forward, and I look forward to hearing about how it goes.",
+          "therapist_use": "Affirmation: used to validate Noah's decision and reinforce his progress towards taking action."
         }
       ]
     }

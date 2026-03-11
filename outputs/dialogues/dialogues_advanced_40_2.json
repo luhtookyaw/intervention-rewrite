@@ -12,38 +12,36 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To build rapport and increase Ryan's awareness of his emotions and beliefs regarding his relationship with his mother, while reducing defensiveness.",
+          "objective": "To build rapport and increase Ryan's awareness of his feelings and beliefs about his relationship with his mother and the stress he is experiencing.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
                 "Listen actively to Ryan's concerns about his relationship with his mother.",
-                "Paraphrase his feelings and experiences to validate his emotions.",
-                "Encourage him to elaborate on his thoughts without pushing for change."
+                "Reflect back what he says to show understanding and validate his feelings.",
+                "Use phrases like 'It sounds like you feel... because...'"
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Ryan's feelings of frustration and isolation.",
-                "Show understanding of his experiences during the recent move and his relationship dynamics.",
-                "Reassure him that it's okay to feel overwhelmed and that his experiences are valid."
+                "Acknowledge Ryan's feelings of frustration and helplessness.",
+                "Use empathy statements such as 'I can see why you feel overwhelmed with everything going on.'",
+                "Ensure Ryan feels heard and understood without judgment."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the gap between Ryan's current experiences and his values regarding connection and support.",
-                "Ask open-ended questions to help him articulate what he values in relationships.",
-                "Assist him in recognizing any inconsistencies between his feelings of helplessness and his desire for connection."
+                "Gently explore the differences between Ryan's current feelings of helplessness and his values regarding relationships and support.",
+                "Ask questions like 'What do you value in a supportive relationship?' and relate them to his experiences."
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Encourage Ryan to reflect on his automatic thoughts about communication with his mother.",
-                "Help him identify any cognitive distortions that may be influencing his avoidance behavior.",
-                "Foster curiosity about his emotional responses during anticipated conversations."
+                "Encourage Ryan to reflect on the impact of his avoidance of communication with his mother.",
+                "Ask questions that promote self-reflection, such as 'How do you think avoiding the conversation has affected you?'"
               ]
             }
           ]
@@ -51,88 +49,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Ryan to articulate the automatic thoughts that arise when he thinks about speaking to his mother.",
-                "Encourage him to write these thoughts down to increase awareness.",
-                "Discuss how these thoughts affect his emotions and behaviors."
+                "Encourage Ryan to evaluate the evidence for his belief that talking to his mother will make things worse.",
+                "Ask him to consider past situations where communication yielded different outcomes."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Introduce common cognitive distortions and ask Ryan if he recognizes any in his thinking.",
-                "Help him identify specific distortions in his thoughts about his relationship with his mother.",
-                "Discuss how these distortions may contribute to his feelings of helplessness."
+                "Help Ryan assess the reality of his fears regarding conversations with his mother.",
+                "Prompt him to think about times when he anticipated a negative outcome but it didn't happen."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Assist Ryan in analyzing the consequences of his avoidance behaviors.",
-                "Explore what he gains from avoiding contact with his mother and how it aligns with his feelings of being trapped.",
-                "Help him understand the short-term relief versus long-term impact of these behaviors."
+                "Invite Ryan to consider how someone else might view his situation with his mother.",
+                "Encourage him to think of a friend or a trusted individual and what advice they might offer."
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Ask Ryan to rate his feelings about communicating with his mother on a scale from 1 to 10.",
+                "Discuss what factors might move him closer to a 10 in terms of comfort and readiness to communicate."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Ryan's case, the initial focus is on building rapport and trust, crucial for a client in the Pre-contemplation phase. Utilizing Motivational Interviewing strategies, I will employ reflective listening to validate Ryan's feelings and encourage him to express his experiences regarding his mother. This aligns with the goal of reducing defensiveness and fostering a safe space for exploration. Expressing empathy will help him feel understood, while developing discrepancy allows him to reflect on the inconsistency between his current feelings of helplessness and his deeper values for connection. As I introduce CBT techniques, I will help Ryan identify automatic thoughts related to his anticipated conversations with his mother, which will raise his awareness of cognitive distortions. This is essential to understand the emotional drivers behind his behaviors. By analyzing the functional aspects of his avoidance, I aim to illuminate the cycle of his behaviors without pushing for immediate change, thereby respecting his current state of readiness and facilitating deeper self-awareness.",
-        "progress_marker": "Ryan begins to articulate automatic thoughts and acknowledges feelings of frustration and isolation."
+        "therapist_reasoning": "In approaching Ryan in the pre-contemplation phase, my first step is to establish a strong therapeutic rapport through reflective listening and expressing empathy. This helps reduce his defensiveness and fosters a safe space for exploration. By validating Ryan's feelings of frustration regarding his relationship with his mother, I aim to encourage him to articulate his experiences without feeling judged. Next, I will utilize the developing discrepancy strategy to help him recognize the gap between his current emotional state and his values related to relationships, prompting him to reflect on what he truly desires. As Ryan shares, I will raise awareness about the consequences of avoidance, inviting him to consider the impact on his emotional well-being. Using CBT techniques, I’ll encourage evidence-based questioning to challenge his belief that communication will worsen the situation, employing reality testing to highlight times when this belief proved inaccurate. Finally, I’ll introduce alternative perspectives and the continuum technique to help him visualize his emotional readiness for engagement, ultimately enhancing his self-awareness and understanding without pushing for immediate change.",
+        "progress_marker": "Increased willingness to discuss feelings about his relationship with his mother and greater awareness of emotional patterns."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I just want to get through this session without having to confront anything too uncomfortable about my mother or my feelings.",
+        "client_objective": "I want to feel understood without having to confront my feelings about my mother.",
         "client_state": {
-          "awareness": "I don't really see how my relationship with my mother is a problem; it feels like just another thing I have to deal with.",
-          "motivation": "I don't feel like making any changes right now; it seems too overwhelming and pointless.",
-          "openness": "I'm not very willing to share what's really going on with my feelings; I just want to avoid the topic.",
-          "resistance": "I feel a strong need to defend my right to not discuss my mother or my feelings about her."
+          "awareness": "I acknowledge that I have issues with my mother, but I don't see them as a problem that needs to be addressed.",
+          "motivation": "I feel little desire to change my situation; it seems too overwhelming and hopeless.",
+          "openness": "I am not very willing to share my thoughts and feelings, especially regarding my relationship with my mother.",
+          "resistance": "I strongly defend against discussing my feelings, often feeling frustrated when it comes up."
         },
-        "client_reasoning": "Honestly, I don't think there's really a problem with my relationship with my mom; it's just how she is, and I deal with it. Talking about it feels pointless because all it does is make me feel more anxious. I know I should probably say something, but I’m scared it will just lead to more frustration and make it clear that I can’t handle my emotions. Therapy feels like a place where I have to confront my issues, and that makes me uncomfortable. I don't want to feel judged or misunderstood, especially since it feels like no one really gets what I'm going through. I think avoiding the conversation is safer for me, even if it means I’m stuck in this same place. I just don’t see the point in shaking things up right now when I can barely handle my current situation.",
-        "progress_marker": "Client acknowledges feelings of anxiety and reluctance to engage but avoids discussing the core issues."
+        "client_reasoning": "I feel like I’m stuck in this situation with my mother, and it’s hard to talk about it without getting really upset. Every time I think about having a conversation with her, I just know it’ll turn into a mess where I feel even worse about myself. I think if I open up, it’ll just confirm that I can’t handle my emotions, and I really don’t want to go there. Therapy feels uncomfortable because it seems like you want me to follow some kind of script that doesn’t fit my reality. I don’t want to admit that I need to change or that there’s a problem. I just want to get through this unpacking and move on. It feels safer to keep my thoughts to myself and avoid the whole issue. I wish my friends would just understand without me needing to explain everything."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because rapport and trust still need to be established. Client objective was not met as Ryan is still resistant to discussing his feelings.",
-          "client_utterance": "I just don’t see how talking about my mom is going to help. It feels like just another thing I have to deal with, and honestly, I'm not sure it’s worth it.",
-          "therapist_utterance": "I hear you, Ryan. It sounds like you feel overwhelmed with everything going on, and discussing your mom feels like an added burden. It's okay to feel that way; your feelings are valid, and we can take it slow.",
-          "therapist_use": "Reflective Listening: used to validate Ryan's feelings and create a safe space for expression."
+          "reason_for_ending": "KEEP: Therapist objective not met as there was limited exploration of Ryan's feelings about his mother. Client objective not met since Ryan is still resistant to discussing his emotions.",
+          "client_utterance": "I just feel overwhelmed with everything, and honestly, thinking about my mom just makes it worse. I know I should probably talk about it, but it feels like a mess waiting to happen. I wish things were easier, but they just seem to pile up.",
+          "therapist_utterance": "It sounds like you feel really overwhelmed with all the changes and the stress of unpacking, and thinking about your mom adds to that. It’s understandable to want to avoid feelings that you think will just complicate things further. Can you share more about what specific thoughts come to mind when you think about having a conversation with her?",
+          "therapist_use": "Reflective Listening: to validate Ryan's feelings of overwhelm and to encourage him to express more about his relationship with his mother."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Ryan is still not fully engaging with his emotions. Client objective was not met as Ryan continues to avoid deeper feelings.",
-          "client_utterance": "Yeah, I guess I just want to get through this without getting into anything too heavy. It feels like there's enough on my plate right now.",
-          "therapist_utterance": "That makes sense. It sounds like you have a lot going on with the move and your feelings of isolation. It’s understandable to want to avoid more stress, and we can focus on what feels manageable for you.",
-          "therapist_use": "Expressing Empathy: used to acknowledge Ryan's feelings of overwhelm and validate his desire to avoid discomfort."
+          "reason_for_ending": "KEEP: Therapist objective not met as the exploration of thoughts about communication with his mother was not deep enough. Client objective not met since Ryan remains hesitant to delve into his feelings.",
+          "client_utterance": "Every time I think about it, I just picture her judging me, or worse, it turning into a fight. I don’t want to feel like I’m being attacked or made to feel inadequate. So, I just avoid it altogether, thinking it’s better that way.",
+          "therapist_utterance": "I can see why you feel that way; it sounds like you’re worried about being judged or feeling inadequate if you talk to her. Avoiding the topic seems like a way to protect yourself from those painful feelings. How do you think this avoidance might be affecting your emotional well-being in the long run?",
+          "therapist_use": "Expressing Empathy: to acknowledge Ryan's fears and encourage him to reflect on the consequences of avoidance."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Ryan is still not articulating his thoughts about his mother. Client objective was not met as Ryan remains hesitant to engage in deeper discussions.",
-          "client_utterance": "I just don't think there's a real problem with my relationship with her; it’s just how she is, and I deal with it. Talking about it seems pointless.",
-          "therapist_utterance": "I understand why you'd feel that way. It seems like you’ve found a way to cope with the situation, but I'm curious about how it really makes you feel inside. What do you think about that?",
-          "therapist_use": "Developing Discrepancy: used to gently explore the gap between Ryan's coping and his deeper feelings."
+          "reason_for_ending": "KEEP: Therapist objective not met as there wasn't enough reflection on the impact of avoidance. Client objective not met since Ryan still isn't ready to explore his feelings.",
+          "client_utterance": "I guess it just makes me feel more isolated, but it seems like a safer option for now. It’s like I can just keep going without having to deal with the fallout of a conversation. I know it’s not ideal, but it’s what I’m used to.",
+          "therapist_utterance": "It sounds like you recognize that your avoidance might lead to feelings of isolation, yet it feels like the safer choice for you right now. It’s understandable to stick with what feels comfortable, even if it’s not making you feel better. What do you value in a relationship that could help you feel supported instead?",
+          "therapist_use": "Developing Discrepancy: to explore the gap between Ryan's current feelings and what he values in supportive relationships."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met since Ryan hasn’t yet shared his automatic thoughts. Client objective was not met as Ryan is still avoiding discussing his feelings.",
-          "client_utterance": "I don't know. I guess I just feel anxious whenever I think about our conversations, and I try to avoid her as much as I can. It feels easier that way.",
-          "therapist_utterance": "It sounds like your conversations with her bring up a lot of anxiety for you. Avoiding those interactions seems like a way to protect yourself from that discomfort. Can you share what thoughts come to mind when you think about talking to her?",
-          "therapist_use": "Raising Awareness: used to encourage Ryan to reflect on his thoughts about his communication with his mother."
+          "reason_for_ending": "KEEP: Therapist objective not met as Ryan did not fully engage with his values regarding support. Client objective not met since Ryan is still defensive about sharing feelings.",
+          "client_utterance": "I want to feel supported, but I don't think my mom can do that for me. I feel like I need to keep my distance to protect myself. It’s just hard to admit that I want something from her when I feel so let down.",
+          "therapist_utterance": "It makes sense that you would want to protect yourself, especially if you feel let down by her in the past. Acknowledging that desire for support while feeling disappointed can be really challenging. How do you think your current approach to communication with her aligns with what you really want in a relationship?",
+          "therapist_use": "Raising Awareness: to encourage Ryan to reflect on how his communication approach may conflict with his desire for support."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Ryan has not yet identified specific automatic thoughts. Client objective was not met as Ryan remains resistant to deeper exploration.",
-          "client_utterance": "I guess I just think that it won’t go well. I imagine she’ll judge me, and it’ll just lead to more frustration. So, I just avoid it altogether.",
-          "therapist_utterance": "That’s a really important insight, Ryan. It sounds like you’re anticipating negative outcomes, which makes it even harder to engage. What do you think that fear of judgment says about your relationship with her?",
-          "therapist_use": "Identifying Automatic Thoughts: used to help Ryan articulate his thoughts and recognize their impact on his feelings."
+          "reason_for_ending": "KEEP: Therapist objective not met as Ryan did not recognize the contradiction in his approach. Client objective not met since Ryan remains hesitant to confront his feelings.",
+          "client_utterance": "Honestly, I don’t know. I just feel like any attempt to reach out might lead to more disappointment. It’s easier to just keep things the way they are, even if it feels lonely.",
+          "therapist_utterance": "It sounds like you’re caught between wanting to maintain the status quo and feeling lonely because of it. That’s a tough position to be in, wanting connection but fearing rejection. In moments like these, what might help you feel more comfortable thinking about reaching out?",
+          "therapist_use": "Evidence-Based Questioning: to encourage Ryan to evaluate the beliefs about communication and consider alternatives."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met as Ryan hasn't fully explored the consequences of his avoidance. Client objective was not met as he still feels overwhelmed by the topic.",
-          "client_utterance": "I don’t know. I just feel like avoiding her is the best option for now. It keeps things from getting messy, I guess.",
-          "therapist_utterance": "That makes sense; it seems like avoiding her gives you short-term relief from the anxiety. But I wonder, have you thought about how this avoidance might affect you in the long run? What do you gain or lose by keeping your distance?",
-          "therapist_use": "Functional Analysis of Behavior: used to assist Ryan in analyzing the consequences of his avoidance behaviors."
+          "reason_for_ending": "KEEP: Therapist objective not met as Ryan did not shift his perspective on communication. Client objective not met since Ryan still feels stuck in his avoidance.",
+          "client_utterance": "I really don’t know what would make it easier. I feel like I just have to get through this unpacking and hope I can deal with it later. I guess I just want to not feel so pressured to change anything right now.",
+          "therapist_utterance": "That makes sense; it can feel overwhelming to think about adding another layer of stress when you’re already dealing with so much. Taking things one step at a time is important. If you were to rate your feelings about communicating with your mother on a scale from 1 to 10, where would you place yourself right now?",
+          "therapist_use": "Continuum Technique: to help Ryan visualize his comfort level regarding communication and readiness for engagement."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective was met as Ryan began to reflect on his avoidance behavior and its implications. Client objective was met as Ryan engaged more deeply in the discussion.",
-          "client_utterance": "I guess it does feel easier now, but I worry I might be missing out on something important. Maybe there’s more to it than I thought.",
-          "therapist_utterance": "It's great to hear you’re starting to see that possibility, Ryan. Recognizing the complexity of your feelings can be a big step. We don’t have to rush, but exploring those feelings might help you understand what you truly want in your relationships.",
-          "therapist_use": "Encouraging Exploration: used to facilitate Ryan's deeper understanding of his feelings and the potential for change."
+          "reason_for_ending": "MOVE: Therapist objective met as Ryan has engaged in self-reflection about communication. Client objective met as Ryan has expressed a willingness to consider his feelings about his mother.",
+          "client_utterance": "I think I’d rate it around a 3. I know I should talk to her, but it just feels really daunting. Maybe as I get more settled, I could think about it more seriously.",
+          "therapist_utterance": "It’s great to hear that you’re able to identify a number on how you feel about communicating with your mother. A 3 shows that there’s some recognition of the possibility, even if it feels daunting right now. As you settle in, we can look at what might help you move that number closer to a 10.",
+          "therapist_use": "Alternative Perspective: to validate Ryan's feelings while encouraging him to consider future possibilities for communication."
         }
       ]
     },
@@ -141,29 +142,28 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Ryan's ambivalence regarding change and strengthen his motivation to address his relationship with his mother.",
+          "objective": "Explore Ryan's ambivalence about engaging with his mother and increase his motivation for change.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Encourage Ryan to discuss both the reasons he feels hesitant to engage with his mother and the potential benefits of doing so.",
-                "Use open-ended questions to invite him to express feelings of conflict about reaching out.",
-                "Validate his feelings and reflect back his ambivalence to foster a deeper exploration."
+                "Encourage Ryan to articulate the pros and cons of communicating with his mother.",
+                "Acknowledge his feelings of frustration about the relationship.",
+                "Validate his concerns and fears about potential negative outcomes."
+              ]
+            },
+            {
+              "strategy_name": "Eliciting Change Talk",
+              "instructions_for_therapist": [
+                "Ask open-ended questions to help Ryan express any desire he may have for a different relationship with his mother.",
+                "Facilitate discussions on what changes he envisions in that relationship."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Help Ryan articulate his core values around relationships and support.",
-                "Facilitate a discussion on how his current avoidance behavior contrasts with these values.",
-                "Encourage him to identify what an ideal relationship with his mother would look like and what steps might align with that vision."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance",
-              "instructions_for_therapist": [
-                "Guide Ryan in listing the pros and cons of both engaging with and avoiding communication with his mother.",
-                "Elicit change talk by prompting him to identify any potential positive outcomes of having a conversation."
+                "Guide Ryan to identify how his current behavior (avoiding contact) conflicts with his values of wanting connection and support.",
+                "Help him articulate what an ideal relationship with his mother would look like."
               ]
             }
           ]
@@ -171,85 +171,85 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Cognitive Restructuring",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Introduce Socratic questioning to help Ryan analyze the automatic thoughts he has about talking to his mother.",
-                "Encourage him to examine the validity of his belief that discussing his feelings will worsen the situation.",
-                "Identify any cognitive distortions present in his thoughts, such as catastrophizing or all-or-nothing thinking."
+                "Facilitate a discussion where Ryan lists the advantages and disadvantages of reaching out to his mother.",
+                "Encourage him to reflect on how his beliefs about himself and the situation influence these pros and cons."
               ]
             },
             {
-              "technique_name": "Exploring Core Beliefs",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Facilitate a discussion about Ryan's feelings of being unlovable and trapped, linking these beliefs to his current behaviors.",
-                "Use evidence-based questioning to challenge these underlying beliefs, asking for past experiences that contradict them."
+                "Help Ryan challenge the thought that talking to his mother will only make things worse.",
+                "Encourage him to explore evidence that contradicts this belief."
               ]
             },
             {
-              "technique_name": "Behavioral Experimentation",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Encourage Ryan to consider low-risk, exploratory interactions with his mother that do not feel overwhelming.",
-                "Discuss the potential outcomes of these interactions to help him mentally prepare without pushing him into action."
+                "Ask Ryan to consider what evidence supports or refutes his belief that he is unable to handle his emotions properly.",
+                "Encourage him to reflect on past experiences where he managed difficult conversations successfully."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To support Ryan in the contemplation phase, the objective is to explore his ambivalence regarding his relationship with his mother and increase his motivation for change. First, I will employ Motivational Interviewing strategies by facilitating discussions that allow Ryan to express his conflicting emotions about engaging with his mother. This includes using open-ended questions to explore both the pros and cons of his avoidance behavior, thus developing discrepancy between his values of connection and his current actions. Next, I will implement cognitive restructuring techniques from CBT, focusing on challenging his automatic thoughts about communication and identifying cognitive distortions that reinforce his avoidance. Through Socratic questioning, I will help him critically evaluate the beliefs that fuel his fears. Additionally, exploring core beliefs will provide insight into the origins of his feelings of unlovability and helplessness. Finally, I will propose low-risk behavioral experiments that allow Ryan to consider new interactions without pressure, thereby fostering an environment of exploration and self-reflection while respecting his resistance.",
-        "progress_marker": "Ryan expresses a clearer understanding of his ambivalence and begins to articulate potential benefits of engaging with his mother."
+        "therapist_reasoning": "To effectively support Ryan in the contemplation phase, I will first focus on exploring his ambivalence about engaging with his mother. By utilizing MI strategies such as exploring ambivalence and eliciting change talk, I can help him articulate the conflicting emotions he experiences regarding their relationship. This is vital since his resistance is indirect and emotionally charged, characterized by frustration. I will then employ techniques like the Pros and Cons Analysis to help him weigh the implications of reaching out to his mother. This empowers him to reflect on his core values and how they conflict with his current avoidance behavior. Additionally, Decatastrophizing will assist in addressing his catastrophic thinking about negative outcomes, while Evidence-Based Questioning will challenge his core belief of being unable to handle emotions. By maintaining a collaborative stance, I will encourage Ryan to gain insight into his beliefs and develop the motivation necessary for change without pushing him toward immediate action planning.",
+        "progress_marker": "Ryan begins to articulate his feelings about communicating with his mother and shows increased insight into the potential benefits and drawbacks of engaging in that relationship."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about my relationship with my mother and understand my patterns of avoidance.",
+        "client_objective": "I hope to gain clarity on my feelings about my mother and whether I can approach her without feeling overwhelmed.",
         "client_state": {
-          "awareness": "I am starting to recognize that my feelings of isolation and frustration in my relationship with my mother are impacting my overall well-being.",
-          "motivation": "I want to change my situation, but I also feel scared about how to approach my mother and what that will mean for our relationship.",
-          "openness": "I am willing to discuss my emotions and experiences, although I still feel hesitant to fully express myself.",
-          "resistance": "I strongly resist the idea of confronting my mother because I fear it will lead to more conflict and validation of my feelings of inadequacy."
+          "awareness": "I am starting to recognize that my relationship with my mother is affecting my emotional well-being, and I see patterns in how I avoid confrontation.",
+          "motivation": "Part of me wants to change this relationship for the better, but another part fears it will lead to more pain and disappointment.",
+          "openness": "I feel somewhat willing to share my feelings with my therapist, but I still hold back because I worry they won't fully understand my situation.",
+          "resistance": "I often feel frustrated with the idea of change, believing that it won't lead to anything positive and that it's easier to stay in my current state."
         },
-        "client_reasoning": "I’ve been thinking a lot about my situation lately. It’s clear to me that avoiding my mother isn’t helping, but I feel so overwhelmed by the thought of talking to her. I recognize that my fears about her judgment keep me from reaching out, yet part of me wonders if I’m missing a chance to connect and be understood. I’ve noticed how my past experiences with her make me anxious and how I tend to withdraw from people when I feel this way. Therapy is helping me see these patterns, but I still feel conflicted. What if reaching out only makes things worse? I want to believe that change is possible, but I also worry that I’m not equipped to handle the fallout. This ambivalence creates a tension in me that I don’t know how to resolve yet."
+        "client_reasoning": "I’m beginning to see that my relationship with my mother is a big part of my emotional struggles. I notice how I avoid talking to her because I anticipate it will just lead to more frustration and feeling judged. There’s a part of me that wants to address these issues, but I feel stuck between wanting to make things better and fearing that any attempt will just confirm my feelings of inadequacy. I worry that opening up will lead to more pain, and I doubt my ability to handle that. Talking with my therapist helps me reflect on these feelings, yet I still feel like they might not fully grasp what I’m dealing with. It’s like I’m caught in this tug-of-war between wanting to change and being too scared to actually do it, and that leaves me feeling conflicted.",
+        "progress_marker": "The client has begun to articulate feelings about their relationship with their mother and is contemplating possible steps toward change."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective of exploring ambivalence is not yet fully met as Ryan hasn't articulated his feelings about engaging with his mother. The client's objective of understanding his patterns of avoidance is still in progress.",
-          "client_utterance": "I've been thinking about how I feel when I think about reaching out to her. Part of me wants to connect, but I’m so scared it will just lead to more conflict. It feels like I'm stuck in this cycle of wanting to reach out but always pulling back.",
-          "therapist_utterance": "It sounds like you’re feeling torn between your desire for connection and your fear of what might happen if you reach out. Can you tell me more about what specifically makes you feel that way? What do you think would happen if you took that step?",
-          "therapist_use": "Open-ended question: Encouraged exploration of Ryan's conflicting feelings about reaching out."
+          "reason_for_ending": "KEEP: Therapist objective not met because Ryan hasn't articulated the pros and cons of communicating with his mother yet. Client objective not met because Ryan still feels overwhelmed and hasn't gained clarity on his feelings.",
+          "client_utterance": "I’ve been thinking more about talking to my mom, but I still feel so torn. Part of me thinks it could be nice to have her support, but I can’t shake the feeling that it would just lead to more hurt. It’s like I want to reach out, but I’m scared it’ll backfire.",
+          "therapist_utterance": "It sounds like you’re really feeling the push and pull of wanting support from your mom while also fearing the potential pain that could come from reaching out. What do you think are some of the good things that could come from talking to her, and what are the risks you see?",
+          "therapist_use": "Exploring Ambivalence: encouraged Ryan to articulate the pros and cons of communicating with his mother."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of developing discrepancy has not been fully achieved since Ryan hasn't clearly articulated the potential benefits of engaging with his mother. The client's understanding of his avoidance patterns is still evolving.",
-          "client_utterance": "I guess I worry that if I reach out, it will just reinforce how inadequate I feel. But sometimes, I think about how nice it would be to share things with her, even just a little. I don’t want to keep feeling this way, but I don’t know how to change it.",
-          "therapist_utterance": "It’s understandable to fear that reaching out might lead to feelings of inadequacy. However, you also recognize a longing for connection, which is significant. What do you think an ideal conversation with her would look like, and how might that change your feelings?",
-          "therapist_use": "Exploring ideal outcomes: Helped Ryan visualize a positive interaction to develop motivation for change."
+          "reason_for_ending": "KEEP: Therapist objective not met because Ryan hasn't fully explored the pros and cons yet. Client objective not met because Ryan still feels conflicted and hasn't gained clarity.",
+          "client_utterance": "Well, I guess if I talked to her, I might feel less lonely and maybe have some understanding between us. But then again, I worry it would just turn into another fight, and I don’t know if I can handle that right now.",
+          "therapist_utterance": "That’s a valuable insight, Ryan. It seems like the potential for connection is appealing, but the fear of conflict is holding you back. How do you think you could prepare yourself for that conversation to make it feel less threatening?",
+          "therapist_use": "Eliciting Change Talk: facilitated discussion on what changes Ryan envisions in his relationship with his mother."
         },
         {
-          "reason_for_ending": "KEEP - The objective of helping Ryan articulate his core values has not been achieved since he hasn't yet identified the pros and cons of avoiding or engaging with his mother. The client's exploration of his patterns is still ongoing.",
-          "client_utterance": "I think if I could just talk to her without feeling judged, it would be different. I want her to understand me and my feelings, but I also fear that it might not go as I hope. It's frustrating because I feel like I'm missing out on something important, yet I can't shake the fear.",
-          "therapist_utterance": "It seems like there’s a real desire for understanding and connection with her. What do you think are the pros and cons of avoiding her versus reaching out? Exploring those might help clarify your feelings.",
-          "therapist_use": "Decisional balance: Encouraged listing pros and cons to foster deeper insight into Ryan's feelings about engagement."
+          "reason_for_ending": "KEEP: Therapist objective not met because Ryan hasn't identified how his current behavior conflicts with his values yet. Client objective not met because Ryan still struggles with preparation for the conversation.",
+          "client_utterance": "I don’t know if preparing would help. It just feels like no matter how I plan it, she always finds a way to twist my words or make me feel bad. I want to believe I could handle it, but I’m not sure I can.",
+          "therapist_utterance": "It’s understandable to feel that way, especially if past conversations haven’t gone well. What if we looked at some examples where you felt you managed a tough conversation successfully? It might help to see that you have the skills to handle this.",
+          "therapist_use": "Evidence-Based Questioning: asked Ryan to reflect on past experiences where he managed difficult conversations successfully."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's goal of increasing Ryan's motivation to engage is not fully met as he hasn't yet articulated potential positive outcomes of reaching out. The client's objective of understanding his avoidance is still in progress.",
-          "client_utterance": "I guess if I reached out, there’s a chance she might surprise me and be supportive. But then again, I also think about how she could just dismiss my feelings again. It’s tough to weigh the possibility of a good outcome against the fear of rejection.",
-          "therapist_utterance": "That’s a valid perspective, Ryan. It’s important to consider both sides—on one hand, there’s the potential for support, and on the other, the fear of rejection. How does that balance affect your willingness to take any steps toward communication?",
-          "therapist_use": "Reflection and exploration: Helped Ryan weigh potential outcomes to further articulate his ambivalence."
+          "reason_for_ending": "KEEP: Therapist objective not met because Ryan hasn't yet recognized his own capabilities. Client objective not met because Ryan still feels overwhelmed by the idea of talking to his mother.",
+          "client_utterance": "I remember a couple of times where I stood my ground with friends, but it still feels different with my mom. I guess I just feel so small when it comes to her, like my words don’t matter. I wish I could feel as confident with her as I do with others.",
+          "therapist_utterance": "It’s important to recognize that those skills you used with friends can also be applied with your mom. You are capable of expressing yourself and standing your ground, even if it feels different. What do you think an ideal conversation with her would look like?",
+          "therapist_use": "Developing Discrepancy: guided Ryan to identify how his avoidance conflicts with his desire for connection."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of helping Ryan challenge cognitive distortions hasn’t been fully achieved since he hasn’t yet examined the validity of his fears. The client still needs to explore more to understand his patterns of avoidance.",
-          "client_utterance": "I often think that talking to her will lead to a disaster. I don’t know if I can handle hearing her judgment again. But sometimes, I wonder if I’m blowing things out of proportion in my head.",
-          "therapist_utterance": "It sounds like you’re starting to recognize that some of your fears might be exaggerated. What evidence do you have from your past interactions that might challenge the belief that she’ll judge you? This could help us see things more clearly.",
-          "therapist_use": "Cognitive restructuring: Encouraged Ryan to analyze his fears and challenge cognitive distortions about his mother."
+          "reason_for_ending": "KEEP: Therapist objective not met because Ryan hasn't articulated an ideal conversation yet. Client objective not met because Ryan is still struggling to visualize the change he wants.",
+          "client_utterance": "I guess in a perfect world, I’d want her to listen and try to understand me without jumping to conclusions. It would be nice if she could just ask how I’m feeling instead of assuming I’m the problem. But I don’t know if that’s even possible.",
+          "therapist_utterance": "That sounds like a meaningful conversation where you feel heard and validated. It’s a valid desire to have your feelings acknowledged. What do you think it would take for you to feel ready to approach her about this?",
+          "therapist_use": "Eliciting Change Talk: encouraged Ryan to express his desires for a different relationship with his mother."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of supporting Ryan in visualizing low-risk interactions is not yet met, as he hasn't discussed any specific steps he could take. The client is still navigating his feelings and requires more exploration.",
-          "client_utterance": "I guess I could start with something small, like sharing a casual update about my new place. That feels less daunting than diving into emotional topics right away. But what if she doesn’t respond well, and I end up feeling worse?",
-          "therapist_utterance": "Starting with a small update sounds like a great first step, and it gives you a chance to gauge her reaction without putting too much pressure on yourself. It's normal to worry about her response. If things don't go as hoped, how could you take care of yourself afterward?",
-          "therapist_use": "Behavioral experimentation: Encouraged low-risk interactions to help Ryan prepare for potential outcomes."
+          "reason_for_ending": "KEEP: Therapist objective not met because Ryan hasn't identified steps to approach his mother yet. Client objective not met because Ryan still feels unsure about reaching out.",
+          "client_utterance": "I’m not sure. Maybe if I can get used to the idea and start small? Like texting her to see how she’s doing, instead of jumping right into deep conversations. But even that feels daunting.",
+          "therapist_utterance": "Starting small sounds like a good strategy; it might help reduce the pressure. Texting could be a way to ease into communication without the intensity of face-to-face interaction. How do you feel about that as a first step?",
+          "therapist_use": "Decatastrophizing: helped Ryan challenge the belief that any attempt to communicate will lead to negative outcomes."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective of exploring ambivalence and developing motivation is met as Ryan has articulated a potential first step toward engagement. The client’s understanding of his avoidance patterns has progressed to the point of considering action.",
-          "client_utterance": "I think I can try sending her that update. It feels like a manageable way to test the waters, and I’m beginning to see that avoiding her might not be the only option. I’m still scared, but maybe it's worth a shot.",
-          "therapist_utterance": "That’s a significant realization, Ryan! Taking that step shows you’re willing to explore the possibility of connection. It’s okay to feel scared, but you’re moving toward what you truly want in your relationship with her.",
-          "therapist_use": "Affirmation of progress: Validated Ryan's decision to take a manageable step towards engagement, reflecting his growth."
+          "reason_for_ending": "MOVE: Therapist objective met because Ryan has articulated both the pros and cons of reaching out and considered a small step. Client objective met because Ryan feels more clarity on how to approach the situation.",
+          "client_utterance": "I think texting her could work. It feels less overwhelming to start that way, and I can gauge her response before deciding on anything deeper. I guess I’m feeling a bit more hopeful about it.",
+          "therapist_utterance": "That’s a positive step forward, Ryan! It’s great to hear that you’re feeling more hopeful about reaching out. Recognizing that you can start small and build from there is a significant insight.",
+          "therapist_use": "Eliciting Change Talk: validated Ryan's decision to take a small step toward change and recognized his increased motivation."
         }
       ]
     },
@@ -258,21 +258,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Ryan's commitment to change and enhance his motivation for addressing the relationship with his mother.",
+          "objective": "Strengthen Ryan's commitment to change and prepare for the upcoming conversations with his mother while reinforcing his motivation and confidence.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Ryan to articulate his reasons for wanting to change his relationship with his mother.",
-                "Ask open-ended questions like, 'What would be different for you if your relationship with your mother improved?'",
-                "Reflect back his stated commitments to change to reinforce his motivation."
+                "Ask Ryan to articulate his reasons for wanting to improve his relationship with his mother.",
+                "Encourage him to express what he hopes will be different after making these changes.",
+                "Reinforce any positive language around commitment to change, such as 'I will try to talk to her this week.'"
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use scaling questions to assess Ryan's confidence in having a conversation with his mother (e.g., 'On a scale of 1 to 10, how ready do you feel to talk to her?').",
-                "Explore what would help him move from his current level of confidence to a higher level."
+                "Discuss with Ryan what steps he feels prepared to take regarding communication with his mother.",
+                "Use scaling questions (1-10) to assess his confidence in taking these steps and explore what could increase that confidence.",
+                "Affirm any positive past experiences related to overcoming challenges."
               ]
             }
           ]
@@ -282,75 +283,76 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaboratively develop a specific plan for Ryan to initiate a conversation with his mother, including timing and location.",
-                "Break down the conversation into manageable steps, such as starting with expressing a positive memory before discussing feelings."
+                "Collaborate with Ryan to create a specific action plan for communicating with his mother.",
+                "Identify a realistic timeframe for when he can initiate this conversation, ensuring it aligns with his comfort level.",
+                "Discuss and list potential coping strategies he can use if he feels overwhelmed during or after the conversation."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Behavior Experiment",
               "instructions_for_therapist": [
-                "Identify and practice coping strategies for managing anxiety before and during the conversation (e.g., deep breathing, grounding techniques).",
-                "Discuss potential scenarios that could arise during the conversation and plan responses."
+                "Encourage Ryan to conduct a small, low-stakes interaction with his mother, such as sending a brief text or email to check in.",
+                "Help him to reflect on the outcome of this interaction and any emotions or thoughts that arise, aiming to test the belief that talking will worsen the situation."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing the therapy plan for Ryan, I first identified his key beliefs and emotions, particularly the fear surrounding conversations with his mother. This led me to focus on strengthening his commitment to change using MI strategies. By encouraging Ryan to express his reasons for wanting to improve his relationship, I can reinforce his motivation and enhance his self-efficacy. The scaling questions will help gauge his confidence and readiness, allowing me to tailor the action plan based on his responses. For the CBT component, I prioritized action planning to offer Ryan a structured approach to initiate the conversation, breaking it down into smaller steps to reduce overwhelm. Additionally, I included coping strategies to help him manage anxiety, which aligns with his tendency to avoid stressful situations. This collaborative and gradual approach respects his resistance profile, ensuring he feels heard and empowered in the process.",
-        "progress_marker": "Completion of the action plan and successful initiation of the conversation with his mother."
+        "therapist_reasoning": "In preparing Ryan for change, the therapist first identifies his core beliefs and emotions that contribute to his reluctance, such as feeling judged and unsupported. Using MI strategies, the therapist emphasizes strengthening commitment language to help Ryan articulate his desire for change and reinforcing motivation by exploring his readiness to communicate with his mother. The scaling questions will assist in pinpointing his confidence levels, which can guide the therapist in tailoring support. The CBT interventions focus on actionable steps through an action plan that incorporates Ryan's input, ensuring he feels ownership of the process. Additionally, the behavior experiment allows Ryan to confront his fears gradually, testing the belief that communication leads to negative outcomes. This structured approach addresses Ryan's resistance by validating his feelings while gently pushing him towards proactive steps, all within a collaborative framework that respects his pace and comfort level.",
+        "progress_marker": "Ryan successfully identifies specific steps he can take to communicate with his mother and expresses increased confidence in his ability to handle the conversation."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore my feelings about my relationship with my mother and find a way to communicate that feels safe and authentic for me.",
+        "client_objective": "I hope to explore my feelings about my relationship with my mother and find ways to communicate better.",
         "client_state": {
-          "awareness": "I recognize that my relationship with my mother is affecting my emotional well-being, and I understand that avoiding her is not a long-term solution.",
-          "motivation": "I feel a strong desire to improve my situation and find ways to cope with my emotions better, especially as I navigate my new environment.",
-          "openness": "I am willing to discuss my thoughts and feelings with my therapist, but I still feel hesitant about being vulnerable regarding my relationship with my mother.",
-          "resistance": "I experience significant doubt about whether I can handle confrontation with my mother, which makes me fear that I might not succeed in making meaningful changes."
+          "awareness": "I recognize that my avoidance of my mother is affecting my mental health and that it's rooted in my past experiences with her.",
+          "motivation": "I feel a strong desire to improve my relationship with my mother and to find healthier ways to cope with my emotions.",
+          "openness": "I am willing to discuss my feelings and thoughts with my therapist, although I still feel some hesitation about how my mother will react.",
+          "resistance": "I experience doubts about whether I can truly change my patterns of avoidance and fear that any conversation with my mother will lead to more hurt."
         },
-        "client_reasoning": "I've started to realize that my relationship with my mother significantly impacts my feelings of worth and stability. It's clear to me now that avoiding her isn't helping; it's only creating more distance and frustration. I want to find a way to express my emotions without feeling judged or misunderstood. I hope that by talking about it in therapy, I can uncover some strategies to approach her differently. However, I still worry about how she might react and if I can maintain my composure during a difficult conversation. Part of me fears that any attempt to communicate will backfire, reinforcing my feelings of inadequacy. But I also feel a growing sense of hope that with guidance, I can navigate this situation more effectively and feel less trapped. Therapy has opened my eyes to the possibility of change, which I'm beginning to embrace, even if I'm still scared of the outcome."
+        "client_reasoning": "I've come to realize that my relationship with my mother is a significant source of stress in my life. Avoiding her doesn't solve anything; it just leaves me feeling more isolated and unfulfilled. I see that change is necessary because I want to have a healthier emotional life and better connections with those around me. I hope that by discussing my feelings in therapy, I can find the courage to communicate more openly with her. However, I still worry that any conversation might end up being frustrating and leave me feeling even worse about myself. I often think I won't be able to handle my emotions properly if things don’t go well. Therapy has helped me understand my patterns better, and I feel a cautious optimism about making some changes, but I still need to work through my fears."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: The therapist's objective of strengthening Ryan's commitment was not fully met as he hasn't articulated clear reasons for wanting to change yet. The client's objective of exploring feelings about his relationship with his mother is still in progress.",
-          "client_utterance": "I think I can start by sharing that update about my new place, but I still feel nervous about how she might react. What if she just brushes it off like she usually does? I want her to understand, but I can’t shake off the fear of being dismissed.",
-          "therapist_utterance": "It’s completely understandable to feel that way, Ryan. Sharing something personal can feel risky, especially if you have a history of being dismissed. Remember, it’s about taking a small step that feels manageable for you, and whatever her response is, you can handle it.",
-          "therapist_use": "Empathic reflection: used to validate Ryan's anxiety while reinforcing the importance of manageable steps."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Ryan has not yet articulated his reasons for wanting to improve his relationship with his mother. Client's objective was not met because Ryan hasn't clearly expressed what he hopes will be different after making these changes.",
+          "client_utterance": "I’m starting to think that texting my mom could be a good first step, but I’m still really worried about how she’ll react. What if she doesn’t respond well, or just ignores me? It feels like I’m taking a risk, and I’m not sure if I’m ready for that.",
+          "therapist_utterance": "It’s understandable to feel anxious about reaching out, especially with the fear of negative responses. Taking that step does involve some risk, but it could also open the door to a different dynamic. What would it mean for you if she did respond positively?",
+          "therapist_use": "Exploring confidence and readiness: aimed to assess Ryan's feelings about the potential positive outcome of reaching out."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective to enhance Ryan's motivation for addressing the relationship with his mother was not fully met, as he still hasn't articulated his deeper reasons for wanting connection. The client is still exploring his feelings.",
-          "client_utterance": "I guess I want to connect with her because part of me wishes we could have a better relationship. But every time I think about it, I get sucked back into the fear of her judgment. I really don’t want to feel worse than I already do.",
-          "therapist_utterance": "It sounds like there’s a real desire for a better relationship, but the fear of judgment is holding you back. What would it mean for you if you could have that kind of connection with her? Let’s explore what a positive outcome might look like.",
-          "therapist_use": "Open-ended questioning: used to encourage Ryan to articulate his reasons for wanting to improve his relationship with his mother."
+          "reason_for_ending": "KEEP: Therapist's objective was not met since Ryan hasn't fully articulated his commitment to change in terms of specific actions. Client's objective was not met as he still holds doubts about what will change after reaching out.",
+          "client_utterance": "If she responded positively, it would feel like a relief, like maybe there’s hope for understanding. But I still can’t shake the thought that she might just dismiss me again. I guess I'm just trying to figure out if it’s worth the emotional toll.",
+          "therapist_utterance": "A positive response could indeed provide some relief and open up new possibilities for your relationship. It sounds like you’re weighing the potential benefits against the emotional risks. What do you think are the most significant benefits of trying to communicate with her?",
+          "therapist_use": "Scaling question: encouraged Ryan to consider the benefits of communication to reinforce his motivation."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's goal of exploring Ryan's confidence and readiness was not fully met, as he hasn’t rated his confidence level yet. The client is still navigating his feelings about potential outcomes.",
-          "client_utterance": "If I could just talk to her without feeling judged, I think it would really help. But I still have this nagging worry that she will just dismiss everything I say. I want to feel more confident about reaching out.",
-          "therapist_utterance": "I hear you, and it’s important to focus on what confidence looks like for you. On a scale from 1 to 10, how ready do you feel to have that conversation with her? What would help you feel more prepared?",
-          "therapist_use": "Scaling question: used to assess Ryan's confidence in initiating a conversation with his mother."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Ryan has not yet expressed specific reasons for wanting to improve his relationship. Client's objective was not met because he hasn't yet articulated a clear plan to communicate better with his mother.",
+          "client_utterance": "I guess the biggest benefit would be just feeling less alone and maybe having a chance to clear the air. But I’m still stuck on the fear of it just leading to another argument. I really want to believe it could be different this time.",
+          "therapist_utterance": "It’s a positive sign that you recognize the potential for connection and resolution. It’s natural to fear conflict, especially with past experiences in mind. What would it take for you to feel more confident heading into that conversation?",
+          "therapist_use": "Strengthening commitment language: aimed to help Ryan articulate what he hopes to achieve in improving his relationship."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of fostering Ryan's commitment to change is still in progress, as he hasn’t developed a clear action plan yet. The client is still processing his feelings about the conversation.",
-          "client_utterance": "I’d say I’m at about a 4 right now. I want to reach out, but I also feel like I’m just setting myself up for disappointment. I wonder what small steps I could take to feel more prepared.",
-          "therapist_utterance": "A 4 is a good starting point, and it shows that you’re willing to consider reaching out. Let’s break it down into smaller steps together. What do you think would be the first thing you could do that feels safe and manageable?",
-          "therapist_use": "Action planning: used to collaboratively develop a specific and manageable plan for Ryan to initiate conversation."
+          "reason_for_ending": "KEEP: Therapist's objective was not met since Ryan hasn't yet identified the specific steps he can take regarding communication. Client's objective was not met because he still feels uncertain about the next steps toward communication.",
+          "client_utterance": "Maybe if I start with a simple text, that would help. But even that seems scary. I really want to avoid any confrontation, and I'm not sure how to bring it up without it escalating.",
+          "therapist_utterance": "Starting with a simple text sounds like a manageable first step. It can help you gauge her response without the pressure of a face-to-face conversation. How about we draft a message together that feels comfortable for you?",
+          "therapist_use": "Action planning: collaborated with Ryan to create a specific action plan for communicating with his mother."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of creating a specific action plan has not been fully met since they haven't detailed the steps yet. The client has not yet solidified a plan.",
-          "client_utterance": "Maybe I could start with just texting her a simple update about my new place. I think that’s less intimidating than a face-to-face talk, but I’m still worried about her response. I just hope it doesn’t go badly.",
-          "therapist_utterance": "That sounds like a great first step, Ryan! Sending a text is a low-pressure way to re-establish contact. What could you do to help yourself feel more grounded before you send that message?",
-          "therapist_use": "Coping strategy development: used to identify and practice strategies for managing anxiety before and during the conversation."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Ryan has yet to express a clear timeframe for sending the text. Client's objective was not met because he hasn't yet confirmed his readiness for the action plan.",
+          "client_utterance": "Drafting a message together sounds good, but I think I need to give myself a couple of days to really think about it. I want to make sure I’m in the right headspace before I reach out. I just hope I can stay calm if things get tough.",
+          "therapist_utterance": "Taking your time to prepare is a wise approach; it shows that you’re taking this seriously. We can also brainstorm some coping strategies to help you manage any anxiety that comes up. What do you think might help you feel more grounded during this process?",
+          "therapist_use": "Behavior experiment: encouraged Ryan to think about coping strategies to manage anxiety during the conversation."
         },
         {
-          "reason_for_ending": "KEEP: The therapist's objective of developing coping strategies is not fully met as Ryan hasn't practiced any yet. The client still feels anxious about the potential response.",
-          "client_utterance": "I think I could take a moment to breathe deeply before sending it. That might help calm my nerves. But I still can’t shake the thought of her possibly dismissing me and how I would handle that.",
-          "therapist_utterance": "Deep breathing is a fantastic strategy to help manage those nerves. Let’s also think about how you would respond if she does dismiss your feelings. What could you say or do to protect your own emotional well-being in that moment?",
-          "therapist_use": "Scenario planning: used to discuss potential responses to manage anxiety and prepare for possible outcomes."
+          "reason_for_ending": "KEEP: Therapist's objective was not met since Ryan has not yet identified specific coping strategies. Client's objective was not met because he still feels uncertain about how to handle potential emotional challenges.",
+          "client_utterance": "I guess I could take some deep breaths or maybe talk to a friend right after, just to process everything. But I still worry about how I’ll feel if the conversation doesn’t go well. What if it just makes things worse?",
+          "therapist_utterance": "Those are great strategies to help you stay grounded. Having a support system in place can really help you process your feelings afterward. It’s important to remember that even if the conversation doesn’t go perfectly, you’re taking a brave step by reaching out.",
+          "therapist_use": "Affirmation: reinforced Ryan's coping strategies and the importance of support."
         },
         {
-          "reason_for_ending": "MOVE: The therapist's objectives were met as Ryan has articulated a specific action plan with a coping strategy in place. The client’s objective has also been met as he has explored his feelings and is ready to initiate the conversation.",
-          "client_utterance": "I feel like I have a plan now. I can start with the update, breathe before sending it, and if it doesn’t go well, I’ll remind myself that it’s not a reflection of my worth. I’m still nervous, but I think I can do this.",
-          "therapist_utterance": "That’s an incredible step forward, Ryan! You’ve created a plan that feels manageable, and you’re equipping yourself with strategies to handle your emotions. It’s okay to feel nervous, but your willingness to take this step shows your commitment to change.",
-          "therapist_use": "Reflection and affirmation: used to reinforce Ryan's progress and commitment to initiating the conversation."
+          "reason_for_ending": "MOVE: Therapist's objective was met as Ryan has identified specific steps he can take and expressed increased confidence about handling the conversation. Client's objective was met because he has explored his feelings and is now ready to implement his action plan.",
+          "client_utterance": "I think I feel more ready to try texting her now. It might still be hard, but I’m starting to believe that it could lead to something good. I really want to give it a shot and see where it goes.",
+          "therapist_utterance": "That’s a significant step forward, Ryan! It’s wonderful to hear that you’re feeling more ready and hopeful about the possibility of change. Remember, you’re not alone in this; I’m here to support you every step of the way.",
+          "therapist_use": "Reinforcement of commitment: celebrated Ryan's readiness and commitment to take action."
         }
       ]
     }

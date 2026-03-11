@@ -12,30 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "To enhance Bryce's awareness of his thoughts, emotions, and behaviors while building rapport and trust.",
+          "objective": "Increase client's awareness of their feelings and thoughts regarding productivity and worth.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen actively to Bryce's concerns and frustrations.",
-                "Reflect back his feelings of frustration about discussing feelings to show understanding.",
-                "Acknowledge his perspective while gently exploring the underlying emotions."
+                "Acknowledge Bryce's frustrations about discussing feelings and validate his experiences.",
+                "Reflect back his concerns about the perceived uselessness of talking about emotions, reinforcing that his feelings are understood."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Validate Bryce's feelings about his work and productivity beliefs.",
-                "Communicate understanding of his feelings of worthlessness associated with idle time.",
-                "Use statements like, 'It sounds like you feel a lot of pressure to be productive.'"
+                "Demonstrate understanding of Bryce's historical context with work and personal struggles.",
+                "Highlight the emotional weight of his unresolved issues with his father and how they may contribute to his current feelings."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Bryce to reflect on how his current coping strategies align with his personal values.",
-                "Ask open-ended questions that lead him to explore the discrepancies between his beliefs about productivity and his emotional well-being.",
-                "Reiterate the contrast between his feelings of being 'wasted' and the possibility of exploring other fulfilling activities."
+                "Encourage Bryce to explore his values around productivity versus personal well-being.",
+                "Ask open-ended questions to help him articulate any discrepancies he perceives between his current situation and his values."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Facilitate discussions around how his beliefs about productivity affect his emotions and choices.",
+                "Encourage him to reflect on times he felt fulfilled and how they relate to his self-worth."
               ]
             }
           ]
@@ -43,87 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Bryce in recognizing his automatic thoughts regarding productivity and worth.",
-                "Encourage him to articulate these thoughts in session, noting their frequency and emotional impact.",
-                "Help him understand how these thoughts influence his anxiety and behaviors."
+                "Ask Bryce to identify evidence supporting his belief that he is 'worthless' when not productive.",
+                "Encourage him to consider instances where he felt valued outside of work."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Introduce Bryce to common cognitive distortions like 'all-or-nothing thinking' related to his productivity.",
-                "Facilitate discussions about how these distortions contribute to his feelings of frustration and inadequacy.",
-                "Encourage him to explore alternative, more balanced thoughts."
+                "Guide Bryce in examining the realities of his beliefs about productivity and self-worth.",
+                "Challenge the notion that his value is solely linked to productivity by discussing different life domains."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Help Bryce examine the link between his behaviors (e.g., work versus idle time) and his emotions.",
-                "Encourage him to reflect on when he feels most anxious and how his current coping mechanisms serve him.",
-                "Facilitate a discussion about the outcomes of his avoidance strategies, such as scrolling on social media."
+                "Invite Bryce to consider how someone he respects might view his worth independent of his productivity.",
+                "Facilitate a discussion on alternative ways to measure self-worth."
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Help Bryce visualize a continuum where productivity and personal fulfillment exist, exploring where he currently places himself.",
+                "Encourage him to reflect on small shifts along this continuum."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Bryce in the pre-contemplation phase, the therapist prioritizes building rapport and trust while addressing his resistance. The use of reflective listening allows the therapist to validate Bryce's feelings of frustration, helping him feel heard and understood. Expressing empathy reinforces the therapeutic alliance and acknowledges his internal struggles related to self-worth and productivity. Developing discrepancy is crucial as it invites Bryce to contemplate the contrast between his current coping strategies and personal values, subtly encouraging self-reflection without pressure for change. CBT techniques such as identifying automatic thoughts will empower Bryce to articulate his cognitive patterns, while recognizing cognitive distortions enables him to question the validity of these thoughts. Functional analysis helps him connect his behaviors to his emotional states, fostering awareness of how avoidance impacts his well-being. This structured approach is designed to engage Bryce effectively, acknowledging his resistance while nurturing curiosity about his thoughts and feelings, ultimately laying the groundwork for future exploration of change.",
-        "progress_marker": "Bryce begins to articulate his feelings and thoughts about productivity and worth, showing signs of increased self-awareness."
+        "therapist_reasoning": "To address Bryce's pre-contemplation phase, I will focus on building rapport and reducing resistance through empathetic engagement. First, I will employ reflective listening to validate his frustrations about discussing feelings, making him feel heard. I will express empathy, acknowledging his complex history, particularly around work and family dynamics, which contribute to his feelings of worthlessness. Developing discrepancy will be essential, as it will allow Bryce to explore the conflict between his values and current beliefs about productivity without pushing for immediate change. Raising awareness will help him reflect on the impact of his beliefs on his emotions and decisions. For CBT, evidence-based questioning will challenge his core beliefs by examining supporting evidence for feelings of worthlessness, while reality testing will provide a broader perspective on self-worth. Alternative perspectives will encourage him to envision how others might view him, and the continuum technique will help him see that fulfillment and productivity can coexist, thereby gently fostering awareness and curiosity about the possibility of change without direct pressure.",
+        "progress_marker": "Increased engagement in discussions about feelings and values, demonstrating reduced defensiveness and a willingness to explore thoughts and emotions."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to just get through this session without having to dive into the issues that really bother me.",
+        "client_objective": "I want to understand why I feel so overwhelmed without feeling pressured to change anything right now.",
         "client_state": {
-          "awareness": "I know there are problems, but I don't really think they're that serious or worth changing.",
-          "motivation": "I don't feel like I need to change anything right now; I'm just trying to get by.",
-          "openness": "I'm not really comfortable sharing my thoughts and feelings; it feels pointless.",
-          "resistance": "I feel very defensive about discussing these issues; I just want to avoid them."
+          "awareness": "I don't really see my situation as a problem that needs fixing; it just is what it is.",
+          "motivation": "I don't feel like I want to change anything; I just want to get through the day.",
+          "openness": "I'm hesitant to share my thoughts because it feels pointless and I doubt it will lead to anything useful.",
+          "resistance": "I strongly resist talking about my feelings because it makes me uncomfortable and feels like a waste of time."
         },
-        "client_reasoning": "I look at my life and see that I'm just trying to keep up with work and not really thinking about the deeper issues. Sure, I have this unresolved stuff with my dad, but discussing feelings seems pointless. It’s like, what’s the point of talking about it if nothing is going to change? I feel overwhelmed just thinking about it. I also tell myself that being productive is what gives me value, and sitting around talking about feelings just feels like wasted time. I know I should probably care more about my emotional state, but it’s just easier to bury myself in work. Plus, if I start talking about it, I might have to confront things I don’t want to face. Therapy feels uncomfortable because I’m afraid of what might come up, and I’d rather not open that can of worms. So, I just keep deflecting and avoiding the hard stuff, convincing myself it's not that bad anyway."
+        "client_reasoning": "I look at my life and see it filled with work and obligations, and I honestly don’t think there’s a real issue to address. Talking about feelings seems like a waste of time, especially when I could be getting things done. It’s frustrating to sit here and analyze things that I think are just part of life. I keep telling myself that if I’m not productive, I’m worthless. So, diving into my feelings feels like I’m just wasting time I could spend being busy. I know I should probably open up more, but it feels really uncomfortable, and I doubt it will lead to any real change. Why even discuss it if I don’t believe anything can improve? I just want to avoid facing all that emotional stuff; it’s easier to scroll through my phone or keep working. Therapy feels like a trap where I have to confront things I don’t want to deal with right now."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Bryce is still resisting discussing his feelings. Client objective was not met as Bryce is not engaging with deeper issues and is deflecting.",
-          "client_utterance": "Honestly, I just don’t see the point in talking about my feelings. I mean, I know I have issues, but they don’t seem serious enough to bother with. I just keep myself busy and it works for me for now.",
-          "therapist_utterance": "It sounds like you feel that keeping busy helps you cope and that diving into your feelings seems unnecessary. I can see that you have a lot on your plate, and it makes sense to focus on what feels manageable right now. What do you think would happen if we explored those feelings a bit more?",
-          "therapist_use": "Reflective Listening: validated Bryce's feelings about coping strategies while gently inviting exploration."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not fully explore Bryce's feelings about productivity. Client objective not met: Bryce remains resistant to discussing emotions.",
+          "client_utterance": "I just don’t see the point in talking about my feelings right now. It’s like, I get through each day and that’s enough for me. I don’t really think any of this will change anything, so why bother?",
+          "therapist_utterance": "It sounds like you feel overwhelmed with the daily grind, and discussing feelings seems pointless to you. I can understand why you might think that talking about emotions wouldn't lead to any change. What do you think keeps you from seeing any potential benefit in exploring these feelings?",
+          "therapist_use": "Reflective listening: acknowledged Bryce's frustration and validated his view on discussing feelings."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Bryce is still avoiding deeper exploration of his feelings. Client objective was not met as Bryce continues to resist discussing potentially uncomfortable topics.",
-          "client_utterance": "I don’t know... I guess I’m just afraid it’ll lead to more stress. Talking about feelings feels like opening a door I’d rather keep closed. I just want to keep things simple, you know?",
-          "therapist_utterance": "It sounds like you're worried that discussing your feelings might add more stress to your life. I understand why keeping things simple feels safer right now. What if we took a small step, just to see what comes up without diving too deep?",
-          "therapist_use": "Expressing Empathy: acknowledged Bryce's fear and need for simplicity, reinforcing a safe space for exploration."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not effectively raise awareness about the impact of productivity on Bryce's emotions. Client objective not met: Bryce continues to resist engaging more deeply with his feelings.",
+          "client_utterance": "I guess I just see emotions as distractions. I feel like if I start thinking about them, I’ll just get stuck and not get anything done. It’s easier to just push through my workload.",
+          "therapist_utterance": "It makes sense that you see emotions as distractions, especially when you're focused on being productive. But I wonder if there are moments when you've felt fulfilled outside of work? How do those experiences relate to how you view your worth?",
+          "therapist_use": "Developing discrepancy: encouraged Bryce to explore his values around productivity versus personal well-being."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Bryce remains resistant to exploring feelings. Client objective was not met as Bryce continues to express discomfort with deeper discussions.",
-          "client_utterance": "Maybe, but I still think it’s pointless. I mean, what’s actually going to change if I start talking about this stuff? I feel like I’d just be wasting time.",
-          "therapist_utterance": "I hear that you feel talking might not lead to any real change and could feel like a waste of time. It must be frustrating to think about addressing things that feel so heavy. Could there be a way to explore a small part of this that might feel less overwhelming?",
-          "therapist_use": "Developing Discrepancy: highlighted the contrast between Bryce's current thoughts and the potential for change, inviting self-reflection."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not facilitate enough reflection on Bryce's feelings of worth. Client objective not met: Bryce remains hesitant to explore his emotions further.",
+          "client_utterance": "I don’t know, I mean, I guess sometimes I feel good when I help others, but that’s still tied to what I do. If I’m not productive, I just feel like I’m wasting my time.",
+          "therapist_utterance": "You bring up an important point about helping others and how it connects to your sense of worth. It seems like your value is closely tied to what you achieve. How might it feel to consider your worth in other aspects of your life beyond productivity?",
+          "therapist_use": "Raising awareness: facilitated a discussion about the relationship between productivity and self-worth."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Bryce is still skeptical about discussing feelings. Client objective was not met as Bryce continues to feel that talking won't lead to change.",
-          "client_utterance": "I guess I just don’t see how any of this is connected to my actual life. I mean, I just want to get through my day without feeling like I’m dragging all this baggage around.",
-          "therapist_utterance": "It seems like you want to manage your daily life without being weighed down by past experiences. I can understand why that feels important to you. Maybe we could look at how your current coping strategies are serving you and see if they align with where you want to be?",
-          "therapist_use": "Functional Analysis of Behavior: encouraged Bryce to reflect on his coping strategies and their alignment with his goals."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not challenge Bryce's beliefs sufficiently. Client objective not met: Bryce still holds on to his belief that productivity equals worth.",
+          "client_utterance": "I guess it’s just hard to separate those feelings. I’ve always been told that being busy means being valuable. If I take time for myself, it feels like I’m slacking off.",
+          "therapist_utterance": "It's understandable to feel that way, especially with the pressures of being busy. But what if there are other ways to view your value? How might someone you respect see you outside of your work accomplishments?",
+          "therapist_use": "Alternative perspective: invited Bryce to consider how others might view his worth independent of productivity."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Bryce is still hesitant to connect feelings with his daily life. Client objective was not met as Bryce continues to resist deeper connection.",
-          "client_utterance": "That might make sense, but I still feel like I’m just fine the way things are. I work, I keep busy, and that’s how I cope. Why complicate things?",
-          "therapist_utterance": "I understand that keeping busy feels like a solid way to cope right now, and it can be hard to see the need for change. It sounds like you value your productivity highly. What if there are other ways to feel fulfilled without feeling like it’s complicating your life?",
-          "therapist_use": "Expressing Empathy: acknowledged Bryce's perspective on productivity while inviting contemplation of other fulfilling options."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not sufficiently explore the emotional impact of Bryce's productivity beliefs. Client objective not met: Bryce still resists deeper emotional exploration.",
+          "client_utterance": "I don’t know how they would see me. I feel like I’m just defined by what I do, and if I’m not doing anything, I’m just... nothing.",
+          "therapist_utterance": "It sounds like you’re feeling really defined by your work, and that can be a heavy burden. It might be helpful to think about times you’ve felt valued that weren’t tied to being productive. What do those moments look like for you?",
+          "therapist_use": "Reality testing: guided Bryce to examine the realities of his beliefs about productivity and self-worth."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective was not met because Bryce is not yet ready to consider alternatives to his current coping strategies. Client objective was not met as Bryce remains resistant to exploring deeper feelings.",
-          "client_utterance": "I don’t know... it still feels overwhelming to even think about. I mean, I’m not sure if I want to change anything right now. I just want to keep my head above water.",
-          "therapist_utterance": "It sounds like feeling overwhelmed is a big part of what’s keeping you from wanting to change. I can see why you’d want to focus on just getting through each day. Sometimes, just recognizing that feeling can be a first step in itself.",
-          "therapist_use": "Reflective Listening: validated Bryce's feelings of overwhelm and acknowledged his focus on daily survival."
+          "reason_for_ending": "KEEP; Therapist objective not met: did not promote enough reflection on the impact of productivity beliefs. Client objective not met: Bryce still struggles to see the value in discussing feelings.",
+          "client_utterance": "I guess I can think of a few times, like when I spent time with friends or helped someone in need. But those moments feel rare compared to all the time I’m working.",
+          "therapist_utterance": "Those moments of connection and helping others are valuable, even if they feel rare. It might be worth considering how you can create more of those experiences in your life. What small shift could you make towards finding that balance between productivity and personal fulfillment?",
+          "therapist_use": "Continuum technique: helped Bryce visualize a continuum between productivity and personal fulfillment."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective was met as Bryce is beginning to articulate feelings about productivity and overwhelm. Client objective was met as Bryce has engaged more openly in the session.",
-          "client_utterance": "Yeah, I guess I can see that. Maybe there’s something to just recognizing how I feel without having to dive deep into everything. It’s a bit of a relief to think about it that way.",
-          "therapist_utterance": "I’m glad to hear that recognizing your feelings feels relieving. It’s okay to take small steps and just acknowledge where you are right now, without any pressure to change everything at once. How do you feel about that approach?",
-          "therapist_use": "Developing Discrepancy: helped Bryce find relief in acknowledging feelings, signaling a readiness for gradual exploration."
+          "reason_for_ending": "MOVE; Therapist objective met: increased engagement and reflection on Bryce's feelings and values. Client objective met: Bryce demonstrated some willingness to explore his thoughts and feelings about productivity.",
+          "client_utterance": "I suppose if I could find a way to incorporate more of those moments, it might help. It’s just that I’ve never thought of it that way before.",
+          "therapist_utterance": "That’s a significant realization, Bryce. It sounds like you’re starting to consider the possibility of balancing productivity with personal fulfillment, which is a great step. How do you feel about exploring this idea further in our next session?",
+          "therapist_use": "Empathy: acknowledged Bryce's growing awareness and willingness to explore balance between productivity and personal fulfillment."
         }
       ]
     },
@@ -132,30 +140,27 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Bryce's ambivalence about change and enhance his motivation by examining his values and current behaviors.",
+          "objective": "Explore Bryce's ambivalence about change and strengthen his motivation by examining the discrepancy between his values and current behaviors.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Create a safe space for Bryce to express conflicting feelings about change.",
-                "Ask open-ended questions about his feelings towards work, productivity, and personal development.",
-                "Encourage Bryce to articulate both the pros and cons of his current behaviors."
+                "Ask Bryce to reflect on both the pros and cons of his current work habits and the idea of making changes.",
+                "Encourage him to express his feelings about wanting change versus his fears surrounding it."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Bryce to discuss any past experiences where he felt motivated to change.",
-                "Use reflective listening to reinforce his expressions of desire for change.",
-                "Encourage him to envision a future where he balances work and personal development."
+                "Prompt Bryce to articulate any desire, ability, reasons, or need for change.",
+                "Use open-ended questions to facilitate deeper discussions about what he envisions as a more fulfilling life."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Decisional Balance Discussion",
               "instructions_for_therapist": [
-                "Help Bryce identify his core values, such as self-worth and productivity.",
-                "Facilitate a discussion about how his current behaviors align or conflict with these values.",
-                "Support him in recognizing the emotional impact of not addressing his unresolved issues with his father."
+                "Guide Bryce in creating a list of the benefits and drawbacks of maintaining his current behavior versus pursuing change.",
+                "Encourage him to acknowledge any discrepancies between his values (e.g., personal development) and his behaviors (e.g., excessive work)."
               ]
             }
           ]
@@ -163,84 +168,84 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Socratic Questioning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Gently challenge Bryce's belief that productivity defines his worth by asking questions like, 'What evidence do you have that your value is tied solely to your work?'",
-                "Encourage him to explore alternative beliefs about self-worth that are not linked to productivity."
+                "Help Bryce identify catastrophic thoughts related to his fear of wasting time.",
+                "Challenge these thoughts by discussing evidence that contradicts these beliefs, fostering a more balanced perspective."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Guide Bryce in recognizing cognitive distortions in his automatic thoughts, such as 'I am a waste if I'm not productive.'",
-                "Help him reframe these thoughts into more balanced perspectives."
+                "Assist Bryce in listing the pros and cons of his current work-centric lifestyle.",
+                "Explore how this analysis can influence his feelings of worth and the importance of personal time."
               ]
             },
             {
-              "technique_name": "Examining Underlying Beliefs",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Facilitate a discussion on his beliefs about idle time and personal development being wasted time.",
-                "Encourage Bryce to reflect on how these beliefs influence his emotions and behaviors."
+                "Encourage Bryce to question the validity of his beliefs about productivity equating to self-worth.",
+                "Discuss alternative ways to view self-worth that do not solely rely on work achievements."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Bryce, the approach begins by recognizing his ambivalence around change, particularly his conflict between productivity and personal well-being. Motivational interviewing strategies are implemented to explore this ambivalence, using open-ended questions to facilitate a deeper understanding of his feelings towards work and personal development. By eliciting change talk, the therapist encourages Bryce to reflect on past motivations for change. The strategy of developing discrepancy allows Bryce to articulate how his current behaviors conflict with his core values. Simultaneously, cognitive behavioral techniques are introduced, specifically Socratic questioning to challenge his belief that productivity equates to self-worth. Identifying cognitive distortions helps Bryce recognize unhelpful thoughts, while examining underlying beliefs prompts him to reflect on the emotional costs of his current mindset. This dual approach fosters a collaborative environment that respects Bryce's resistance while guiding him towards insight and motivation.",
-        "progress_marker": "Bryce expresses increased awareness of his ambivalence and begins to articulate personal values that may be in conflict with his current behaviors."
+        "therapist_reasoning": "In developing this therapy plan for Bryce, I recognized the importance of addressing his ambivalence and resistance to change stemming from his deeply ingrained beliefs about productivity and self-worth. Utilizing Motivational Interviewing, I prioritized exploring his ambivalence by guiding him through discussions on the pros and cons of his current behaviors and eliciting change talk to bring forth his internal motivations. The decisional balance discussion aims to create awareness about the discrepancies between his values and actions, fostering a realization that change is not only desirable but possible. In parallel, I incorporated CBT techniques such as decatastrophizing and evidence-based questioning to challenge his negative automatic thoughts about wasting time, thereby helping him reframe his beliefs. This dual approach ensures that the exploration remains non-confrontational, accommodating his advanced resistance while encouraging reflection and insight into his situation. Overall, the plan aims to strengthen Bryce's motivation and self-efficacy without rushing into action planning.",
+        "progress_marker": "Bryce expresses willingness to explore his feelings further and identifies at least one personal value that contradicts his current behaviors."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I hope to explore my feelings about productivity and how it relates to my self-worth.",
+        "client_objective": "I hope to explore my feelings about productivity and my past experiences to understand if change is possible for me.",
         "client_state": {
-          "awareness": "I am starting to recognize that my work habits might be linked to deeper feelings of worthlessness and that my constant need to be productive isn't making me happy.",
-          "motivation": "I feel a pull towards changing my relationship with idle time and personal development, but I also worry about what that change might mean for my identity and self-esteem.",
-          "openness": "I'm becoming more willing to share my thoughts and feelings about my past and my father, but I'm still hesitant to fully open up about my fears of change.",
-          "resistance": "I feel frustrated and doubtful about how talking about my feelings will lead to any real change, and I sometimes want to shut down the conversation."
+          "awareness": "I'm starting to see that my constant need to be productive might be masking deeper issues related to my self-worth and my unresolved feelings about my father.",
+          "motivation": "While I want to change and improve my relationship with myself and my past, I feel stuck and unsure about how to take that first step.",
+          "openness": "I am more willing to discuss my thoughts and feelings with my therapist, though I still hesitate to fully open up about my fears and doubts.",
+          "resistance": "I often feel frustrated and think that talking about my feelings won’t lead to any real change, which makes me defensive."
         },
-        "client_reasoning": "I'm starting to see that my tendency to fill every moment with work might be a way of avoiding deeper feelings of worthlessness. It's like I have this constant voice in my head telling me that if I'm not productive, I'm wasting my life. I know that something isn’t right, and I can feel the tension building up inside me when I think about taking time for myself. But then I wonder, what will happen if I stop? Will I really be okay? I feel conflicted because part of me wants to explore these feelings, but another part is terrified that it won't lead to anything worthwhile. Therapy has opened a door to these reflections, but I still feel stuck in this cycle of fear and doubt, questioning whether it's worth it to change how I view my time and myself."
+        "client_reasoning": "Lately, I've begun to realize that my obsession with productivity is tied to feelings of worthlessness. I keep thinking about how I always fill my time with tasks, but I’m not sure if that’s genuinely fulfilling or just a way to avoid my emotions. I know I should probably look deeper into my past, especially with my father, but the thought of confronting those feelings makes me anxious. I feel conflicted because part of me wants to break free from this cycle of work, but another part is terrified that doing so will leave me feeling lost and worthless. Therapy is helping me reflect on these patterns, but I still struggle to see how talking about my emotions will bring about any real change in my life. It all feels like a big risk, and I’m not sure if I’m ready to take that leap yet."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist's objective of exploring ambivalence hasn't been fully met as Bryce still feels overwhelmed by change. The client hasn't articulated any clear values or conflicts between his current behaviors and those values.",
-          "client_utterance": "I guess recognizing my feelings is a start, but I'm not sure how it translates into anything real. I still feel this pressure to work hard and be productive, and I'm worried that if I slow down, everything will fall apart.",
-          "therapist_utterance": "It sounds like you feel a strong tension between wanting to acknowledge your feelings and the fear that slowing down might jeopardize your productivity. What do you think would happen if you took a moment to reflect on what being productive means to you? Are there ways in which your work habits might be tied to those deeper feelings?",
-          "therapist_use": "Open-ended questioning: encouraged Bryce to explore the connection between productivity and deeper feelings."
+          "reason_for_ending": "KEEP: Therapist objective not met - did not sufficiently explore ambivalence. Client objective not met - has not yet identified a personal value that contradicts current behaviors.",
+          "client_utterance": "I've been thinking more about what you said regarding my value being tied to work. It makes me anxious to consider that maybe I'm missing out on other important aspects of my life. I just don't know how to start changing this pattern, especially with everything going on with my dad.",
+          "therapist_utterance": "It's understandable to feel anxious about shifting your perspective when so much of your identity is tied to work. Can you share more about those feelings regarding your father and how they might relate to your current struggles with self-worth? Recognizing the connections between these areas can be a powerful step.",
+          "therapist_use": "Open-ended question: encouraged exploration of feelings about the father and their impact on self-worth."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of developing discrepancy hasn't been fully met as Bryce hasn't connected his current behaviors with his core values. The client hasn't yet recognized how his work habits may conflict with his feelings of self-worth.",
-          "client_utterance": "I think I tie my worth to how much I get done, but that feels exhausting. Sometimes, I wonder if I'm losing sight of what really matters to me beyond work, but it's hard to let go of that identity.",
-          "therapist_utterance": "It's insightful that you're starting to see a connection between your self-worth and your productivity. What would it look like for you to balance your identity with other aspects of your life? How might your values shift if you allowed yourself to embrace other parts of who you are?",
-          "therapist_use": "Reflective listening: reinforced Bryce's thoughts on self-worth and productivity while prompting him to consider a broader identity."
+          "reason_for_ending": "KEEP: Therapist objective not met - did not fully elicit change talk. Client objective not met - has not yet articulated a desire for change.",
+          "client_utterance": "Talking about my dad brings up so many emotions. I feel like I’ve always had to earn his approval through achievements, which makes me think I’m only as good as what I produce. I worry that if I let go of that, I’ll lose my sense of self.",
+          "therapist_utterance": "It sounds like you’ve internalized a lot of pressure to achieve, especially from your relationship with your father. What would it mean for you to separate your self-worth from what you do? Are there aspects of your life where you feel valued without needing to produce?",
+          "therapist_use": "Decisional balance discussion: aimed to explore the discrepancy between Bryce’s values and behaviors."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of eliciting change talk hasn't been fully met since Bryce is still expressing doubt about the benefits of changing his perspective. The client hasn't yet envisioned a future that includes a healthier balance.",
-          "client_utterance": "I can see how my work is tying me down, but I still feel like I need to prove myself. Sometimes, I wish I could just let it go and enjoy life more, but what if that means I'm not enough?",
-          "therapist_utterance": "It sounds like you're feeling torn between the desire to enjoy life and the fear of not measuring up if you shift your focus. What evidence do you have that your worth is tied solely to your work? Could there be other aspects of your identity that you value just as highly?",
-          "therapist_use": "Socratic questioning: encouraged Bryce to challenge the belief that his worth is solely linked to productivity."
+          "reason_for_ending": "KEEP: Therapist objective not met - did not sufficiently challenge catastrophic thoughts. Client objective not met - has not yet recognized possible benefits of change.",
+          "client_utterance": "I guess I can see how I might be tying my worth to work too closely. But the idea of stepping back feels risky, like I might just be wasting time. I don’t want to end up feeling lost or worse about myself.",
+          "therapist_utterance": "You're expressing a valid concern about feeling lost, which is a common fear when considering change. What if we looked at what 'wasting time' means to you? Could there be value in taking time for yourself that doesn't equate to loss?",
+          "therapist_use": "Decatastrophizing: aimed to identify and challenge catastrophic thoughts about wasting time."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of exploring ambivalence hasn't been fully met as Bryce is still struggling with the fear of change. The client hasn't yet articulated a vision of what change could look like for him.",
-          "client_utterance": "I guess I do have other interests, but they feel secondary to my work. I want to explore those parts of myself, but I can't shake the feeling that I should be more productive instead.",
-          "therapist_utterance": "It's great that you're acknowledging other interests beyond work. How do you think those interests contribute to your overall happiness and fulfillment? What would it feel like to invest some time in those areas, even if it feels uncomfortable at first?",
-          "therapist_use": "Exploring ambivalence: created a safe space for Bryce to express his conflicting feelings about productivity and personal interests."
+          "reason_for_ending": "KEEP: Therapist objective not met - did not fully explore feelings of worth. Client objective not met - has not yet acknowledged any personal values that contradict current behaviors.",
+          "client_utterance": "I feel like if I’m not constantly busy, I’m not doing enough. But part of me knows that deep down, I want to feel more fulfilled and not just defined by my workload. It's just hard to reconcile that with what I’ve always believed.",
+          "therapist_utterance": "It’s a struggle to balance those ingrained beliefs with your desires for fulfillment. Can you think of a moment when you felt fulfilled outside of work? What did that experience mean to you?",
+          "therapist_use": "Exploring ambivalence: encouraged Bryce to reflect on experiences of fulfillment beyond work."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of developing discrepancy hasn't been fully met as Bryce still feels conflicted and hasn't recognized the emotional impact of his current mindset. The client hasn't yet connected his feelings of worthlessness to his work habits.",
-          "client_utterance": "I think taking time for myself is important, but I feel like I'm wasting my potential. I want to feel good about myself, but I'm not sure how to balance that with my work ethic.",
-          "therapist_utterance": "You’re beginning to see the importance of self-care, which is a positive shift. What if we looked at what's at stake for you if you don't find that balance? How might your feelings about yourself change if you allowed yourself to rest and recharge?",
-          "therapist_use": "Developing discrepancy: helped Bryce recognize the stakes involved in finding a better balance between work and self-care."
+          "reason_for_ending": "KEEP: Therapist objective not met - did not sufficiently encourage positive reflections. Client objective not met - has not yet identified a compelling reason to change.",
+          "client_utterance": "I can recall a time I felt really good just being with friends, not tied to any task. But those moments feel so few and far between. I’m still worried that I’ll just end up back in my old habits.",
+          "therapist_utterance": "It's significant that you're recognizing those positive moments with friends. What if you allowed yourself to create more of those experiences intentionally? How might doing so affect your view of productivity and worth?",
+          "therapist_use": "Eliciting change talk: prompted Bryce to consider creating more positive experiences."
         },
         {
-          "reason_for_ending": "KEEP - The therapist's objective of eliciting change talk hasn't been fully met as Bryce is still grappling with the fear of change and hasn't articulated a desire for a shift. The client hasn't yet envisioned a future where he balances work and personal development.",
-          "client_utterance": "I want to feel like I can take a break without feeling guilty, but it’s hard when I’ve always been this way. I know I need to change, but I still feel so tied to my work identity.",
-          "therapist_utterance": "It's a significant realization that you want to feel less guilt about taking breaks. What would it look like to define your identity in a way that includes both your work and your personal interests? How might you start to take small steps towards that balance?",
-          "therapist_use": "Eliciting change talk: encouraged Bryce to articulate his desire for change and envision a more balanced identity."
+          "reason_for_ending": "KEEP: Therapist objective not met - did not sufficiently facilitate deeper understanding of values. Client objective not met - has not yet committed to exploring change.",
+          "client_utterance": "I see how valuable those moments are, but it feels like a big ask to shift my entire routine. I want to explore this, but I fear I might fail or not know how to start. It just feels overwhelming.",
+          "therapist_utterance": "Feeling overwhelmed is a common response when considering change, especially when it feels significant. What if we broke it down into smaller steps? What’s one small change you could make that feels manageable?",
+          "therapist_use": "Pros and cons analysis: aimed to help Bryce identify manageable steps toward change."
         },
         {
-          "reason_for_ending": "MOVE - The therapist's objective of exploring ambivalence has been met as Bryce has articulated his desire for change and begun to recognize the emotional impact of his work habits. The client has expressed a willingness to explore a more balanced identity that includes self-care.",
-          "client_utterance": "I think I’m ready to start exploring what it means to take breaks and not feel guilty about it. I want to try finding that balance and see how it affects my feelings about myself.",
-          "therapist_utterance": "That’s a powerful step forward, Bryce! Acknowledging your readiness to explore balance is an important part of this journey. How can we make this exploration feel safe and manageable for you in the coming sessions?",
-          "therapist_use": "Encouraging commitment: supported Bryce's readiness to explore change and discussed practical steps for future sessions."
+          "reason_for_ending": "MOVE: Therapist objective met - successfully explored ambivalence and elicited change talk. Client objective met - identified a value of connection that contradicts work-centric behaviors.",
+          "client_utterance": "I think if I could make just one small change, like dedicating a bit of time each week to be with friends or do something I enjoy, it might help. I want to feel more connected and less like I’m just working all the time. This feels like a step toward understanding what I really want.",
+          "therapist_utterance": "That sounds like a meaningful step, Bryce. Dedicating time to activities that bring you joy and connection could help you redefine your sense of self-worth beyond productivity. How do you feel about committing to that change?",
+          "therapist_use": "Eliciting change talk: reinforced Bryce's recognition of values and commitment to small changes."
         }
       ]
     },
@@ -249,27 +254,30 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Bryce's commitment to change and enhance his motivation for behavioral adjustments.",
+          "objective": "Strengthen Bryce's commitment to change and enhance his confidence in taking actionable steps.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Bryce to express his reasons for wanting to change and to articulate his goals in his own words.",
-                "Reinforce any positive statements he makes about his commitment to change."
+                "Encourage Bryce to articulate his desire for change by asking open-ended questions about his motivations.",
+                "Explore specific reasons why he wants to address unresolved issues with his father and how this relates to his broader goals.",
+                "Help him identify personal values that align with his commitment to change."
+              ]
+            },
+            {
+              "strategy_name": "Reinforcing Motivation",
+              "instructions_for_therapist": [
+                "Discuss past successes in areas of his life where he has made positive changes.",
+                "Validate his feelings of uncertainty while emphasizing his ability to overcome these challenges.",
+                "Use reflective listening to reinforce his motivations and concerns as he expresses them."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Ask Bryce to rate his confidence in making changes on a scale from 1 to 10, discussing factors that contribute to his confidence.",
-                "Explore specific past successes or experiences that enhance his belief in his ability to change."
-              ]
-            },
-            {
-              "strategy_name": "Identifying Supports and Resources",
-              "instructions_for_therapist": [
-                "Help Bryce identify supportive individuals in his life who can assist him during this change.",
-                "Discuss resources like books, workshops, or community groups that could provide additional support."
+                "Ask Bryce to rate his confidence in making changes on a scale of 1 to 10, and explore the reasons behind his rating.",
+                "Identify and discuss any past experiences that contributed to his current feelings of frustration and doubt.",
+                "Encourage him to identify small, manageable steps he feels confident in taking."
               ]
             }
           ]
@@ -279,82 +287,85 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaborate with Bryce to create a step-by-step action plan that includes small, manageable changes he can implement immediately.",
-                "Focus on incorporating activities that allow for personal development while maintaining a balance with work."
+                "Collaborate with Bryce to develop a step-by-step action plan addressing his goals, emphasizing gradual changes.",
+                "Break down larger goals into specific, achievable tasks, such as scheduling dedicated time for personal development.",
+                "Identify potential barriers to these tasks and collaboratively brainstorm coping strategies."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Behavior Experiment",
               "instructions_for_therapist": [
-                "Assist Bryce in identifying specific coping strategies to manage feelings of worthlessness when he is not being productive.",
-                "Introduce alternative activities that promote fulfillment without productivity pressure, such as hobbies or mindfulness practices."
+                "Design a behavior experiment where Bryce allocates specific time for a fulfilling activity instead of work-related tasks.",
+                "Encourage him to reflect on the feelings and thoughts that arise during and after the activity.",
+                "Discuss the outcomes of the experiment in the following session to reinforce learning and self-efficacy."
               ]
             },
             {
-              "technique_name": "Relapse Prevention Planning",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Discuss potential obstacles that Bryce may encounter as he starts to implement changes.",
-                "Help him develop a plan for how to address these obstacles if they arise, reinforcing that setbacks are a normal part of the process."
+                "Teach Bryce problem-solving skills to address practical barriers he may face in making changes.",
+                "Use role-play scenarios to practice problem-solving in a supportive environment.",
+                "Encourage him to apply these skills to real-life situations, reinforcing his agency and capability."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Bryce, the focus is on enhancing his motivation and commitment to change while addressing his resistance to exploring feelings. By employing Motivational Interviewing strategies, I will first facilitate his expression of commitment language, allowing him to articulate his reasons for change, which can foster intrinsic motivation. Next, I will explore his confidence and readiness for change, helping him to identify strengths from past successes that can bolster his self-efficacy. Identifying supports and resources will be crucial for Bryce, especially given his tendency to default to less fulfilling activities; this will help him feel less isolated in his journey. For the CBT interventions, I will co-create an action plan that emphasizes small, achievable steps rather than overwhelming him with too many changes at once. Additionally, developing coping strategies will be essential to combat his feelings of worthlessness when not engaged in productivity. Lastly, planning for potential relapses will provide Bryce with a safety net, reinforcing that setbacks do not negate his progress. This structured, collaborative approach aims to empower Bryce while being sensitive to his resistance and emotional state.",
-        "progress_marker": "Bryce successfully identifies one small change he will implement within the next week and articulates his reasons for this change."
+        "therapist_reasoning": "In developing this therapy plan for Bryce, the focus is on enhancing his commitment to change while addressing his resistance to discussing feelings. The first step involves utilizing MI strategies to strengthen Bryce's commitment language, encouraging him to articulate his motivations and values associated with change. This serves to reinforce his intrinsic motivation and help him visualize the benefits of addressing his unresolved issues. Subsequently, exploring his confidence and readiness through scaling questions provides a clear understanding of his self-efficacy and areas where he may need additional support. The action planning component of the CBT intervention focuses on creating specific, manageable steps that align with his readiness to change, allowing him to confront his fears gradually. Incorporating behavior experiments allows Bryce to challenge his core beliefs about productivity and worth, leading to a more fulfilling use of his time. Finally, teaching problem-solving skills equips him with tools to navigate potential barriers, fostering a sense of agency in his journey toward change.",
+        "progress_marker": "Bryce identifies two specific activities for personal development to engage in over the next week and expresses his feelings about these changes in the next session."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I hope to explore different ways to manage my time and emotions more effectively.",
+        "client_objective": "I hope to explore practical steps towards managing my time better and addressing my feelings of worthlessness.",
         "client_state": {
-          "awareness": "I recognize that my reliance on work for self-worth is unhealthy and that I need to change my approach to time and productivity.",
-          "motivation": "I feel a strong desire to improve my situation and find more fulfilling ways to spend my time, even if I still have doubts about my ability to maintain those changes.",
-          "openness": "I am becoming more willing to discuss my thoughts and feelings with my therapist, even though I still feel frustrated about the process.",
-          "resistance": "I experience significant hesitation and doubt about whether therapy and talking about my feelings will actually lead to meaningful change."
+          "awareness": "I recognize that my current way of handling my time and emotions isn't working, and I understand that my work-centric view might be holding me back.",
+          "motivation": "I'm feeling more motivated to improve my situation, especially after reflecting on how my past experiences have shaped my beliefs about productivity.",
+          "openness": "I'm beginning to be more open to discussing my thoughts and feelings, although I still struggle with the idea that talking about them will lead to real change.",
+          "resistance": "I have significant doubts and frustrations about the effectiveness of therapy, and I worry that I might not be able to make meaningful changes."
         },
-        "client_reasoning": "I've been thinking a lot about my life and how I’ve been using work as a way to feel valuable. I know I can't keep going like this, just burying myself in tasks to avoid feeling worthless. I realize that there's more to life than productivity, but changing those habits feels daunting. I want to learn how to use my time in ways that bring me joy and fulfillment, rather than just keeping busy to feel okay. Still, I worry about whether I can really stick to any changes I want to make. The conversations with my therapist are helping me see that change is possible, but I often feel frustrated and doubt that talking about my feelings will lead to anything worthwhile. I guess I’m starting to feel a little more hopeful, but there’s still a lot of fear holding me back."
+        "client_reasoning": "I've been thinking a lot about how my excessive focus on work has affected my life. I realize that it's not just about being productive; it's about feeling fulfilled and valued. I've come to understand that my feelings of worthlessness often stem from my belief that if I'm not busy, I'm wasting time. This realization makes me think that changing my perspective could help me feel better. However, I still feel anxious about whether I can truly change. I worry that I won't be able to maintain any improvements I make, and I find myself questioning whether talking about my feelings will actually lead to anything meaningful. Despite these doubts, I feel a growing motivation to take some steps forward. Therapy has helped me see that I can explore practical changes, and I hope to gain some insights into how to manage my time and emotions more effectively."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP; The therapist's objective to strengthen Bryce's commitment language was not fully met as he has not yet articulated specific goals for change. The client's objective to explore ways to manage time and emotions more effectively was also not fully met, as he hasn't identified any immediate changes.",
-          "client_utterance": "I want to explore that balance, but I still feel a bit lost on how to start. Like, what would even be a small step for me? I guess I’m just worried that I’ll slip back into my old habits if I’m not careful.",
-          "therapist_utterance": "It's completely understandable to feel lost when thinking about making changes. Maybe we could start by identifying one specific activity or interest that you enjoy but haven't made time for recently. What do you think you could commit to trying this week, even if it feels small?",
-          "therapist_use": "Open-ended question: to prompt Bryce to identify a specific change he can commit to."
+          "reason_for_ending": "KEEP: Therapist objective not met because Bryce hasn't yet articulated his motivations for change. Client objective not met as Bryce hasn't identified specific steps toward managing his time better.",
+          "client_utterance": "I'm still feeling hesitant about committing to spending time for myself. I worry that if I step back from work, I might just fall into old habits again. I want to feel more connected, but it feels risky.",
+          "therapist_utterance": "It's understandable to feel hesitant, especially when change feels risky. What do you think might help you feel more secure in taking that step? Are there specific reasons you want to prioritize those moments for yourself?",
+          "therapist_use": "Open-ended questioning: to encourage Bryce to articulate his motivations for change."
         },
         {
-          "reason_for_ending": "KEEP; The therapist's objective to enhance Bryce's motivation for behavioral adjustments was not fully realized, as Bryce has not yet expressed a specific commitment to a change. The client's objective to explore ways to manage time and emotions more effectively was also not met since he hasn’t identified actionable steps.",
-          "client_utterance": "I’m not sure... I like reading, but I haven’t picked up a book in ages. I guess I could try reading for just a little bit each day, but will that really make a difference? I worry that I’ll just end up feeling guilty for not working.",
-          "therapist_utterance": "It's great that you're thinking about reading as a way to take a break. What if you set a timer for just 10 or 15 minutes? That way, you can enjoy the activity without the pressure of feeling guilty about work, since it's just a small amount of time.",
-          "therapist_use": "Scaling down the task: to make the idea of reading feel more manageable and less overwhelming."
+          "reason_for_ending": "KEEP: Therapist objective not met since there’s still a lack of clarity on Bryce's motivations. Client objective not met as Bryce hasn't yet expressed actionable steps for managing his time.",
+          "client_utterance": "I suppose I want to feel fulfilled and not just defined by my workload, but it’s hard to see how that will happen. Maybe I need to remind myself of the positive feelings from those moments with friends. But how do I actually make that time happen?",
+          "therapist_utterance": "It's great that you're recognizing the positive feelings from those moments. What would it look like if you set aside one specific time this week for an activity you enjoy? Let’s try to break it down into a manageable plan.",
+          "therapist_use": "Strengthening Commitment Language: to help Bryce articulate specific steps and solidify his commitment."
         },
         {
-          "reason_for_ending": "KEEP; The therapist's objective to explore Bryce's confidence in making changes was not fully met, as he hasn't rated his confidence or discussed factors affecting it. The client's objective to manage time and emotions effectively was also not fully met, as he hasn't committed to a specific action.",
-          "client_utterance": "I think setting a timer could help, but I still feel hesitant. I mean, what if I get distracted and don’t actually do it? I know I want to change, but I still have doubts about my ability to stick to it.",
-          "therapist_utterance": "It's normal to have doubts, especially when you're trying something new. On a scale from 1 to 10, how confident do you feel about starting with just those 10 minutes of reading? Identifying your confidence level can help us explore what might support you in staying on track.",
-          "therapist_use": "Confidence scaling: to help Bryce articulate his readiness for change and explore underlying factors."
+          "reason_for_ending": "KEEP: Therapist objective not met because Bryce hasn't committed to a specific action plan yet. Client objective not met as Bryce hasn't identified clear steps toward managing his time.",
+          "client_utterance": "I think I could try to set aside a couple of hours this weekend to hang out with friends. But I still feel this nagging doubt that I might not follow through. How do I ensure I actually do it?",
+          "therapist_utterance": "That sounds like a promising start! Let's think about any barriers that might come up this weekend. What challenges do you foresee that could prevent you from following through, and how might we tackle them together?",
+          "therapist_use": "Problem-Solving Skills Training: to collaboratively identify barriers and develop strategies to overcome them."
         },
         {
-          "reason_for_ending": "KEEP; The therapist's objective to identify supports and resources was not fully met, as Bryce hasn't discussed any supportive individuals or resources yet. The client's objective to explore time and emotion management was also not met, as he has not yet identified specific supports.",
-          "client_utterance": "I’d say I’m around a 5. I really want to try, but there’s this nagging voice that tells me I won’t follow through. I guess I just need to figure out what will actually help me stay on track.",
-          "therapist_utterance": "A rating of 5 shows that you're somewhat confident, which is a good starting point. Let’s think about what could help you feel more supported. Are there friends, family, or even any resources like books or groups that you think could encourage you as you try to make this change?",
-          "therapist_use": "Support identification: to help Bryce recognize potential sources of encouragement in his change process."
+          "reason_for_ending": "KEEP: Therapist objective not met as Bryce needs to explore barriers more thoroughly. Client objective not met since Bryce hasn't fully committed to a specific action plan.",
+          "client_utterance": "I worry that my work will get in the way, and I'll end up cancelling. It’s always so hectic, and I feel like I might let my friends down if I don’t show up. But I want to try making this a priority.",
+          "therapist_utterance": "It’s completely normal to feel that way, especially when work is demanding. How about we think of some ways to remind yourself of this commitment? Could setting an alarm or making a specific plan with your friends help you prioritize this weekend?",
+          "therapist_use": "Action Planning: to help Bryce create a concrete plan for prioritizing personal time."
         },
         {
-          "reason_for_ending": "KEEP; The therapist's objective to strengthen Bryce's commitment language was not fully met, as he hasn't articulated specific goals or strategies yet. The client's objective to explore time and emotion management was still not fully achieved, as he hasn't identified actionable support.",
-          "client_utterance": "I think I could talk to my sister; she’s always good at motivating me. But I still feel like I’ll let everyone down if I don’t stick to it. It’s just tough to believe I can really change.",
-          "therapist_utterance": "It’s encouraging to hear that you have someone who can motivate you! Let’s think about how you can involve your sister in this process. Perhaps you could share your goal of reading for 10 minutes a day with her and check in for support. How does that sound?",
-          "therapist_use": "Encouraging support involvement: to help Bryce connect with a supportive relationship that can aid in his journey."
+          "reason_for_ending": "KEEP: Therapist objective not met as Bryce hasn't fully articulated his commitment to change. Client objective not met since Bryce still needs to solidify his action plan.",
+          "client_utterance": "Yeah, I think if I set a reminder for myself and talk to my friends about it, I might feel more accountable. It’s just hard to change how I think about my time. But I know I need to start doing something differently.",
+          "therapist_utterance": "That's a proactive approach! Recognizing the need to change how you think about your time is a significant step. How do you feel about committing to this plan of spending time with friends this weekend?",
+          "therapist_use": "Reinforcing Motivation: to validate Bryce's feelings and encourage commitment to action."
         },
         {
-          "reason_for_ending": "KEEP; The therapist's objective to enhance Bryce's motivation for behavioral adjustments was not fully met, as he hasn't committed to a specific action plan yet. The client's objective to explore time and emotion management was still not fully realized, as he has not specified how he will involve his sister.",
-          "client_utterance": "That sounds good, but I still feel a bit anxious about it. What if I end up not having the time, or what if I just forget? I really want to make this work, but the fear of failure is still there.",
-          "therapist_utterance": "It's completely normal to feel anxious about starting something new. Let’s create a plan together to help you remember to take that time for yourself. How about setting a specific time each day that works for you, and maybe even texting your sister to remind you?",
-          "therapist_use": "Collaborative action planning: to help Bryce develop a structured approach to incorporate his new reading habit."
+          "reason_for_ending": "KEEP: Therapist objective not met as Bryce hasn't confirmed his commitment to specific actions. Client objective not met since Bryce still needs to express a clear plan.",
+          "client_utterance": "I think I can commit to spending time with friends this weekend. I’ll try to set a reminder and share my plan with them. I just hope I can overcome my doubts about it.",
+          "therapist_utterance": "It sounds like you're making a real commitment, and that's commendable! Remember, it’s okay to have doubts, but taking this step is essential. What’s one thing you can say to yourself if those doubts start creeping in this weekend?",
+          "therapist_use": "Exploring Confidence and Readiness: to help Bryce prepare for potential challenges and reinforce his commitment."
         },
         {
-          "reason_for_ending": "MOVE; The therapist's objective was met as Bryce has articulated a specific plan involving his sister's support and a set reading time. The client's objective was also met, as he has identified actionable steps to manage his time and emotions more effectively through reading and involving his sister.",
-          "client_utterance": "I think that could work! I’ll set a time each day for reading and ask my sister to check in with me. It feels good to have a plan, even if I’m still a bit nervous about it.",
-          "therapist_utterance": "That’s fantastic, Bryce! Having a plan in place is a significant step forward. It sounds like you’re ready to take on this challenge, and it’s great that you have support lined up. I’m excited to hear how it goes!",
-          "therapist_use": "Affirmation: to reinforce Bryce’s commitment to his plan and encourage his progress."
+          "reason_for_ending": "MOVE: Therapist objective met as Bryce has articulated a commitment to change and steps he will take. Client objective met since Bryce has identified specific actions he feels confident in taking.",
+          "client_utterance": "I’ll remind myself that it’s okay to take time for myself and that my worth isn’t just tied to being busy. I feel more ready to give this a shot. I hope it helps me feel more fulfilled and connected.",
+          "therapist_utterance": "That's a powerful affirmation, Bryce! It seems like you're really ready to embrace this change, and I believe it will lead to more fulfillment. I look forward to hearing about your experience next time we meet.",
+          "therapist_use": "Reflective listening: to reinforce Bryce's commitment and acknowledge his readiness for change."
         }
       ]
     }

@@ -12,29 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase awareness of internal experiences and discrepancies between current feelings and personal values.",
+          "objective": "Enhance awareness of emotions and thoughts related to symptoms without pushing for change.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen carefully to Sydney's concerns and feelings.",
-                "Repeat back what Sydney expresses, particularly around feelings of being overwhelmed and helpless, to validate their experience.",
-                "Avoid interrupting or pushing for solutions, allowing Sydney to explore their thoughts freely."
+                "Listen actively to Sydney's concerns and feelings about their symptoms and experiences.",
+                "Reflect back what Sydney shares to validate their feelings and demonstrate understanding."
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Show understanding of Sydney's frustrations about their symptoms and the feelings of hopelessness.",
-                "Acknowledge the difficulty of their current emotional state without judgment.",
-                "Convey that it is normal to feel resistant to discussing these feelings."
+                "Acknowledge the frustration Sydney feels regarding their symptoms and the perceived pointlessness of discussing them.",
+                "Normalize feelings of being overwhelmed and emphasize that it's okay to not have all the answers right now."
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Encourage Sydney to reflect on the contrast between their current feelings of control and their values related to happiness and well-being.",
-                "Ask open-ended questions that invite Sydney to consider how their current mental state aligns with their broader life goals."
+                "Gently explore the contrast between Sydney's current feelings of anxiety and their past positive experiences.",
+                "Encourage Sydney to articulate their personal values and how they may differ from their current emotional state."
+              ]
+            },
+            {
+              "strategy_name": "Raising Awareness",
+              "instructions_for_therapist": [
+                "Ask open-ended questions to encourage Sydney to consider the impact of their current coping strategies on their well-being.",
+                "Facilitate a discussion about the role of anxiety and control in their life, fostering curiosity rather than defensiveness."
               ]
             }
           ]
@@ -42,85 +47,84 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Guide Sydney in recognizing their automatic thoughts, especially those related to feelings of unworthiness and fear of losing happiness.",
-                "Encourage them to articulate these thoughts and explore how they influence their emotions and behaviors."
+                "Encourage Sydney to examine the evidence for their belief that understanding their symptoms is pointless.",
+                "Ask questions that lead Sydney to reflect on any past experiences where increased understanding had a positive effect."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Help Sydney identify common cognitive distortions in their thinking, such as catastrophizing and all-or-nothing thinking.",
-                "Discuss how these distortions impact their anxiety and feelings of being out of control, prompting curiosity without pushing for change."
+                "Help Sydney identify specific instances when their fears of losing control did not materialize.",
+                "Challenge the belief that they must always remain in control to avoid negative outcomes."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Changing Rules to Wishes",
               "instructions_for_therapist": [
-                "Facilitate a discussion on the situations that trigger Sydney's symptoms and emotional responses.",
-                "Explore the thoughts and feelings associated with these triggers to foster greater awareness of their behavior patterns."
+                "Invite Sydney to imagine what it would be like if they could let go of some control and still be okay.",
+                "Encourage them to articulate a wish for their life that includes both well-being and acceptance of uncertainty."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In forming this therapy plan, the focus is on building rapport and trust with Sydney, who is currently in the Pre-contemplation phase. Initially, I will employ reflective listening and expressing empathy to validate Sydney's feelings of frustration and overwhelm regarding their symptoms. This will help create a safe space for exploration. I will then use the MI strategy of developing discrepancy to encourage Sydney to reflect on how their current emotional state conflicts with their personal values. This gentle approach aims to reduce their defensiveness without pushing for immediate change. Concurrently, CBT techniques will be used to identify Sydney's automatic thoughts and cognitive distortions, which contribute to their anxiety. By guiding them to recognize these patterns, I will increase their self-awareness without suggesting any behavior changes. The functional analysis will help Sydney observe the triggers of their emotions and behaviors, fostering curiosity about their experiences. This structured approach respects Sydney's resistance while promoting engagement and self-reflection.",
-        "progress_marker": "Sydney shows increased willingness to discuss internal thoughts and feelings without defensiveness."
+        "therapist_reasoning": "In this session, the primary goal is to build rapport and foster awareness without pushing for immediate change. I will start with reflective listening to validate Sydney's feelings, which is essential given their advanced resistance and frustration. By expressing empathy, I can create a safe space for Sydney to open up about their experiences, addressing their defensiveness. I will then focus on developing discrepancy by facilitating discussions around their values and past positive experiences, helping them recognize the contrast with their current state. Raising awareness through open-ended questions will encourage curiosity about their coping strategies and the emotions tied to them. In parallel, I will utilize CBT techniques, starting with evidence-based questioning to challenge their belief in the futility of understanding symptoms. Reality testing will help them confront the fear of losing control, while changing rules to wishes will allow Sydney to envision a more flexible approach to their life. This balanced approach aims to reduce resistance while enhancing awareness and engagement.",
+        "progress_marker": "Sydney begins to articulate feelings about their symptoms and recognizes discrepancies between current and ideal states."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I want to feel understood without having to confront my issues directly.",
+        "client_objective": "I want to understand why I feel this way without feeling pressured to change.",
         "client_state": {
-          "awareness": "I know something feels off, but I can't pinpoint it.",
-          "motivation": "I'm not sure I want to change anything right now.",
-          "openness": "I find it hard to talk about my feelings; it feels too vulnerable.",
-          "resistance": "I strongly defend against discussing my symptoms; it feels pointless."
+          "awareness": "I know something is off, but I can't pinpoint the problem or see why it's worth discussing.",
+          "motivation": "I feel little desire to change since I doubt anything will actually improve.",
+          "openness": "I'm hesitant to share my thoughts and feelings because I don't believe it will help.",
+          "resistance": "I firmly defend against discussing my issues, feeling frustrated that it seems pointless."
         },
-        "client_reasoning": "I feel like I’m stuck in this cycle where I know something’s wrong, but I just can’t see what it is. Talking about my symptoms or feelings feels overwhelming and pointless, like I’m just going to go in circles. I think maybe if I focus on the good things in my life, the anxiety will fade away on its own. I worry that if I dig deeper, I’ll find something worse or even lose what happiness I have. I feel helpless, like I’m not in control of my situation, which makes me defensive; I want to push back against any suggestion that I need to explore this further. Therapy feels uncomfortable because I’m not sure it will help, and I’d rather avoid the risk of feeling even more vulnerable. I guess I’m just trying to protect myself from the possibility of feeling worse than I already do.",
-        "progress_marker": "Client begins to identify and articulate feelings of discomfort related to discussing their symptoms."
+        "client_reasoning": "I feel like I'm stuck in this constant state of anxiety, but I can't see how talking about it will help. It seems like no matter what I do, I end up feeling overwhelmed and frustrated. Sometimes I think about my stomachaches and how they ruin my day, but then I convince myself that it's not that big of a deal—other people have it worse, right? Diving into my feelings feels pointless, especially when I fear that understanding them won't change anything. I worry that if I open up, it will just lead to more problems. I want to feel in control, but discussing my symptoms feels like inviting chaos into my life. Therapy already feels uncomfortable, and I just want to navigate this on my own, even if I know deep down that it might not be the healthiest choice."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because the client remains defensive and hasn't explored deeper feelings. The client objective was not met as Sydney still feels overwhelmed and is avoiding discussing feelings.",
-          "client_utterance": "I don’t really know why I feel this way. Sometimes I think if I ignore it, it will just go away. It feels pointless to talk about my symptoms when nothing seems to change.",
-          "therapist_utterance": "It sounds like you’re feeling overwhelmed by these feelings and unsure about what to do with them. Ignoring it feels like a way to cope, but it also seems frustrating to feel stuck. What do you think might happen if you allow yourself to explore those feelings a bit more?",
-          "therapist_use": "Reflective Listening: validated Sydney's feelings of overwhelm without pushing for solutions."
+          "reason_for_ending": "KEEP - Therapist objective was not met because Sydney did not express deeper awareness of their feelings. Client objective was not met as Sydney still feels hesitant to discuss their symptoms.",
+          "client_utterance": "I don't really see the point in talking about why I feel anxious all the time. It just feels like I'm going in circles, and I can't connect the dots. I mean, I know something's off, but maybe it's just part of life, right?",
+          "therapist_utterance": "It sounds like you feel a bit lost when it comes to understanding your anxiety, almost like you're stuck in a loop. It's completely understandable to feel that way, especially when those feelings are overwhelming. Can you share more about what those anxious moments feel like for you?",
+          "therapist_use": "Reflective listening: validated feelings of confusion and encouraged Sydney to explore their anxiety."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as the client still resists exploring deeper feelings. The client objective was not met since Sydney is still avoiding vulnerability and feels the discussion is pointless.",
-          "client_utterance": "I guess I’m just scared that talking about it will make things worse. There’s a part of me that wants to avoid anything that feels heavy or complicated. I just want to focus on the positive aspects of my life.",
-          "therapist_utterance": "It's understandable to be scared of delving into difficult topics, especially when you’re trying to maintain a positive outlook. It’s normal to want to protect your mental space. Can we explore what those positive aspects mean to you and how they coexist with the feelings you’re experiencing?",
-          "therapist_use": "Expressing Empathy: acknowledged Sydney's fear and desire to focus on positivity without judgment."
+          "reason_for_ending": "KEEP - Therapist objective was not met as Sydney did not open up about specific feelings. Client objective was not met since Sydney remains resistant to delving deeper into their emotions.",
+          "client_utterance": "I guess it feels like this weight in my stomach, like I can't breathe properly when things get too much. But then I just tell myself it's nothing compared to what others go through. I don’t want to make it a big deal.",
+          "therapist_utterance": "It's tough to carry that weight, and it makes sense that you'd want to downplay it to avoid feeling overwhelmed. You're not alone in feeling that way; many people struggle to express their feelings when they seem small in comparison to others. What do you think would happen if you allowed yourself to acknowledge that weight more openly?",
+          "therapist_use": "Expressing empathy: acknowledged Sydney's feelings and normalized their experience to create a safe space."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met because Sydney is still hesitant to engage with their feelings. The client objective was not met as Sydney continues to avoid discussing symptoms directly.",
-          "client_utterance": "Okay, but I worry that if I start thinking about the negative stuff, it will just spiral. I feel like I’m managing okay, so why should I dig into those feelings? It feels like a risk I’m not sure I want to take.",
-          "therapist_utterance": "It makes sense to feel that way; digging deeper can feel risky when you're trying to manage things. What you’re experiencing is valid, and it’s okay to want to protect yourself. What if we just considered how those feelings might connect to what you value in life?",
-          "therapist_use": "Developing Discrepancy: encouraged reflection on the contrast between current feelings and personal values."
+          "reason_for_ending": "KEEP - Therapist objective was not met because Sydney did not articulate any past experiences. Client objective was not met as Sydney still feels resistant to exploring their feelings further.",
+          "client_utterance": "I suppose there have been times when I felt more in control, especially in college when I was doing well. But now it feels like I’m losing grip, and I don’t want to face that. Maybe understanding my feelings won’t change anything anyway.",
+          "therapist_utterance": "It sounds like you’ve had moments where you felt more in control, which is a positive experience to reflect on. I can see how confronting the contrast with your current feelings might be uncomfortable. Could we explore what made you feel in control back then, and how that differs from now?",
+          "therapist_use": "Developing discrepancy: encouraged Sydney to compare their past positive experiences with their current state."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Sydney is not fully engaging with the exploration of feelings. The client objective was not met because Sydney is still hesitant and feels vulnerable.",
-          "client_utterance": "I suppose I value feeling in control and being happy. But I often feel like those things are slipping away from me, especially when my stomach acts up. It’s hard to think about how to get back to that place of happiness.",
-          "therapist_utterance": "It sounds like there is a real conflict between wanting to feel in control and the experiences that are making you feel otherwise. Recognizing that can be a step towards understanding your feelings better. How does that conflict impact your day-to-day life?",
-          "therapist_use": "Reflective Listening: validated Sydney's feelings of conflict between control and happiness, encouraging exploration."
+          "reason_for_ending": "KEEP - Therapist objective was not met as Sydney did not fully engage with their past experiences. Client objective was not met because Sydney is still hesitant to share more.",
+          "client_utterance": "In college, I had a routine and felt like I knew what I was doing. Now, everything feels unpredictable, and I hate that feeling. I guess I just want to get back to that, but it seems impossible.",
+          "therapist_utterance": "That sense of routine and control sounds really important to you, and it's understandable that you'd want to return to it. Right now, it seems you're feeling the weight of uncertainty, which can be really challenging. What do you think about the idea that there could be ways to find some stability in the chaos?",
+          "therapist_use": "Raising awareness: encouraged Sydney to consider how to find stability amidst uncertainty."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met since Sydney hasn’t fully articulated their feelings yet. The client objective was not met as Sydney is still struggling to confront their feelings directly.",
-          "client_utterance": "Well, when I feel anxious, it makes me want to retreat and stop engaging with people. I know it’s not what I want, but it feels like the only way to cope sometimes. I just don’t want to feel overwhelmed.",
-          "therapist_utterance": "That’s a tough situation to be in, wanting to engage but feeling the urge to retreat. It sounds like your anxiety is really influencing your connections with others. What would it look like to find a balance between those feelings and your desire for connection?",
-          "therapist_use": "Expressing Empathy: acknowledged Sydney's struggle between engagement and retreat due to anxiety."
+          "reason_for_ending": "KEEP - Therapist objective was not met as Sydney did not engage with the idea of finding stability. Client objective was not met since Sydney remains resistant to envisioning change.",
+          "client_utterance": "I don’t know… I feel like if I try to change anything, it’ll just make things worse. It’s like I have to keep everything in check, or it’ll spiral out of control. I just don’t see how talking about it helps.",
+          "therapist_utterance": "It’s completely valid to feel that way; the fear of things spiraling can be paralyzing. I want you to know that it’s okay to feel hesitant about change, and talking about it doesn’t necessarily mean you have to take action right away. Can we look at some moments where things didn’t spiral when you let go of the need to control everything?",
+          "therapist_use": "Reality testing: invited Sydney to reflect on moments when their fears of losing control did not materialize."
         },
         {
-          "reason_for_ending": "KEEP - The therapist objective was not met as Sydney has not yet fully explored their behavioral patterns. The client objective was not met since Sydney still feels overwhelmed by vulnerability.",
-          "client_utterance": "I think I just need to take things one step at a time. I know I can’t always hide away, but it feels like a lot to figure out how to change that. I’m not sure I’m ready to do that yet.",
-          "therapist_utterance": "Taking things one step at a time sounds like a reasonable approach, especially when it feels overwhelming. It’s okay to not have everything figured out right now. What if we just focused on recognizing those steps as you go?",
-          "therapist_use": "Functional Analysis of Behavior: facilitated discussion on Sydney's coping mechanisms and feelings."
+          "reason_for_ending": "KEEP - Therapist objective was not met as Sydney did not offer specific examples. Client objective was not met as Sydney still feels uncertain about the usefulness of discussing their feelings.",
+          "client_utterance": "I guess sometimes, if I don’t overthink, things just happen. But it’s hard to trust that because I feel like I always need to be prepared for the worst. I’m not sure how letting go would even look for me.",
+          "therapist_utterance": "It sounds like you’ve experienced moments of ease, but holding onto that need for preparation makes it hard to envision letting go. Trusting that things can be okay without constant vigilance is a big step. What would it look like for you to start imagining a scenario where you could let go just a little?",
+          "therapist_use": "Changing rules to wishes: encouraged Sydney to visualize what letting go might look like in a safe manner."
         },
         {
-          "reason_for_ending": "MOVE - The therapist objective was met as Sydney is now engaging more openly with their feelings. The client objective was met as Sydney is beginning to articulate their discomfort in a manageable way. The dialogue showed progress toward understanding.",
-          "client_utterance": "I think I can start to look at this more, even if it’s just a little bit. Maybe talking about it isn’t as pointless as I thought. I want to see if there’s a way to feel better without completely diving in.",
-          "therapist_utterance": "That’s a great realization, and it’s a step forward. It’s okay to approach this gradually and in a way that feels safe for you. Would you be comfortable continuing to explore these feelings in our next session?",
-          "therapist_use": "Reflective Listening: validated Sydney's willingness to explore feelings gradually, fostering a sense of safety."
+          "reason_for_ending": "MOVE - Therapist objective was met as Sydney began to articulate their feelings about control and letting go. Client objective was met since Sydney expressed a willingness to explore the idea of letting go.",
+          "client_utterance": "I suppose if I could let go a bit, maybe I would feel lighter. It’s scary to think about, but I can see how it might be nice to just breathe without worrying. I think I want to try imagining that more.",
+          "therapist_utterance": "That's a fantastic realization, Sydney! The idea of feeling lighter and allowing yourself to breathe is a beautiful wish to hold onto. It’s okay to take small steps in that direction when you’re ready.",
+          "therapist_use": "Reflective listening: validated Sydney's emerging thoughts about letting go and fostered a sense of hope."
         }
       ]
     },
@@ -129,34 +133,30 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore Sydney's ambivalence towards change while strengthening her motivation.",
+          "objective": "Explore Sydney's ambivalence regarding change and strengthen her motivation for potential transformation.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Facilitate a discussion about the pros and cons of her current coping strategies, emphasizing a non-judgmental approach.",
-                "Encourage Sydney to express both her desire for change and her fears about it."
+                "Ask open-ended questions to invite Sydney to express her feelings about the current state and the idea of change.",
+                "Reflect on her responses to highlight the conflicting feelings she has about her symptoms and current well-being.",
+                "Encourage Sydney to articulate both the reasons she wants to change and the reasons she may be hesitant."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Ask open-ended questions that prompt Sydney to articulate reasons for wanting to change and potential benefits she envisions.",
-                "Reflect back on her statements to highlight any expressions of hope or desire for improvement."
+                "Use affirmations to reinforce any positive statements Sydney makes about her desire for change.",
+                "Prompt her to talk about what a successful change would look like and how it aligns with her values.",
+                "Explore any past instances where she successfully navigated change to strengthen her belief in her ability to do so again."
               ]
             },
             {
-              "strategy_name": "Developing Discrepancy",
+              "strategy_name": "Decisional Balance Discussion",
               "instructions_for_therapist": [
-                "Guide Sydney to identify her core values (e.g., health, happiness) and compare them with her current behaviors that may conflict with these values.",
-                "Use reflective listening to help her see the discrepancies between her current situation and her desired state."
-              ]
-            },
-            {
-              "strategy_name": "Decisional Balance Discussions",
-              "instructions_for_therapist": [
-                "Assist Sydney in creating a list of the advantages and disadvantages of making changes in her behaviors.",
-                "Encourage her to consider how these factors influence her feelings of ambivalence."
+                "Facilitate a discussion around the pros and cons of remaining in her current state versus making a change.",
+                "Use a visual chart to map out her feelings about the benefits and drawbacks of both pathways.",
+                "Encourage her to reflect on how her current behaviors align with her long-term values and goals."
               ]
             }
           ]
@@ -164,85 +164,87 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Socratic Questioning",
+              "technique_name": "Decatastrophizing",
               "instructions_for_therapist": [
-                "Use Socratic questioning to guide Sydney in examining the validity of her automatic thoughts about deserving happiness.",
-                "Encourage her to explore alternative perspectives that challenge her beliefs of being unlovable or powerless."
+                "Help Sydney identify her automatic thoughts regarding her fears of losing happiness.",
+                "Encourage her to challenge these thoughts by asking what evidence supports or contradicts them.",
+                "Guide her to develop more balanced thoughts that consider both positive outcomes and manageable risks."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Help Sydney identify specific cognitive distortions in her thought patterns, such as catastrophizing or all-or-nothing thinking.",
-                "Encourage her to articulate evidence that contradicts these distortions."
+                "Ask Sydney to list the pros and cons of her current coping strategies versus potential new strategies.",
+                "Reflect on her insights and encourage her to consider how her current beliefs may influence her decisions.",
+                "Prepare to revisit this analysis in future sessions to track changes in her perspective."
               ]
             },
             {
-              "technique_name": "Examining Underlying Beliefs",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Facilitate a discussion about her core and intermediate beliefs related to control and self-worth.",
-                "Encourage Sydney to reflect on how these beliefs may be influencing her anxiety and avoidance behaviors."
+                "Encourage Sydney to examine the validity of her thoughts about control and helplessness.",
+                "Ask her to provide examples from her life that contradict her beliefs of being powerless or unlovable.",
+                "Foster a discussion on how these beliefs may have shaped her current behavior and sense of self."
               ]
             }
           ]
         },
-        "therapist_reasoning": "To assist Sydney in her contemplation phase, the therapist must first acknowledge her ambivalence towards change, recognizing the conflict between her desire for improvement and her fears. Employing MI strategies, the therapist will explore her ambivalence by discussing the pros and cons of her current behaviors and eliciting change talk to strengthen her motivation. This will involve guiding her to articulate reasons for wanting change, thereby reinforcing positive feelings about potential transformation. Additionally, developing discrepancies between her core values and current behaviors will help her recognize the need for change. In parallel, CBT techniques will focus on examining her cognitive patterns. Socratic questioning will be utilized to challenge her beliefs about deserving happiness and being unlovable, while identifying cognitive distortions will help her see the flaws in her thinking. Finally, by examining her underlying beliefs, the therapist can facilitate insight into how these contribute to her anxiety and reinforce her sense of agency. This combined approach seeks to foster a collaborative environment for reflection and self-discovery.",
-        "progress_marker": "Sydney expresses a clearer understanding of her ambivalence towards change and articulates at least one reason for wanting to change her current behaviors."
+        "therapist_reasoning": "In working with Sydney, I recognize her ambivalence about change as a significant barrier in the contemplation phase. First, I will employ MI strategies by exploring her ambivalence through open-ended questions, allowing her to voice both her desire for change and her fears. This will be followed by eliciting change talk, reinforcing her positive statements about wanting to improve her situation, which helps build her motivation. Conducting a decisional balance discussion will further illuminate the conflicts between her current behaviors and her values, helping her see the potential benefits of change. To complement this, I will integrate CBT techniques; starting with decatastrophizing, I aim to help her challenge catastrophic thoughts about her happiness and control. The pros and cons analysis will provide a structured way for Sydney to reflect on her coping strategies, and evidence-based questioning will encourage her to reevaluate her core beliefs. Together, these approaches will foster insight and empower her to navigate her ambivalence more effectively.",
+        "progress_marker": "Sydney begins to articulate both the desire for change and the fears associated with it, engaging in discussions that reveal insight into her beliefs and motivations."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I want to explore my feelings and thoughts about my anxiety and control issues to understand myself better.",
+        "client_objective": "I hope to explore my feelings and thoughts about my anxiety and how it affects my life.",
         "client_state": {
           "awareness": "I am starting to recognize that my anxiety and need for control are affecting my happiness and relationships.",
-          "motivation": "I feel a desire to change and improve my situation, but I'm also scared of what that might mean for my current life.",
-          "openness": "I'm somewhat willing to share my thoughts and feelings, but I still hold back because I'm not sure if it will lead to anything helpful.",
-          "resistance": "I feel a strong urge to resist discussing my symptoms as I doubt it will make a difference, and I find myself frustrated with the process."
+          "motivation": "There's a part of me that wants to change, but I feel scared about losing what I've gained and uncertain about the process.",
+          "openness": "I am willing to talk about my experiences, but I also feel hesitant and frustrated with the idea that understanding my symptoms will help.",
+          "resistance": "I often find myself doubting whether change is possible or if it’s worth the effort, which makes me feel frustrated."
         },
-        "client_reasoning": "I've been reflecting on how I've felt lately and I'm starting to see that my anxiety is tied to my need for control. I realize that I often sabotage my happiness because I fear something bad will happen if I let my guard down. It’s frustrating to think that I might be the one holding myself back, yet I can't shake the feeling that understanding my symptoms might not lead to anything useful. I often feel lost in this cycle of overthinking and worry, and it’s hard to see a way out. Therapy has been a place for me to voice these thoughts, but I still feel conflicted. I want to change, but I’m scared of losing the little control I have. I think about the past and how I’ve struggled with feeling unlovable and trapped, and I wonder if I can truly find a way to break free from these patterns.",
-        "progress_marker": "Client begins to identify specific thoughts and feelings related to their anxiety and control issues, acknowledging the need for change while feeling conflicted."
+        "client_reasoning": "I've been reflecting on how my anxiety has created this cycle of overthinking and fear. I realize that there are patterns in my thoughts, like feeling like I don't deserve the happiness I have now or worrying that something bad will happen. This makes me conflicted because part of me knows I should try to change, but I'm afraid of losing control and going back to how I used to feel. Therapy is helping me see these connections, but I still feel frustrated and doubtful. I often wonder if talking about my symptoms will really lead to change or if I'm just spinning my wheels. I want to make sense of my feelings, but the idea of change feels overwhelming."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met because the client hasn't fully explored their ambivalence. Client objective not met as they are still hesitant about discussing their feelings.",
-          "client_utterance": "I still feel like I want to hide from my anxiety, but I also recognize that it’s affecting my happiness and relationships. It’s frustrating because I want to feel better, but I’m scared what it might take to get there.",
-          "therapist_utterance": "It’s understandable to have that fear of change, especially when it feels daunting. What do you think are some of the benefits you might experience if you were able to face those feelings instead of hiding from them?",
-          "therapist_use": "Open-ended question: aimed at exploring potential benefits of facing anxiety."
+          "reason_for_ending": "KEEP: Therapist's objective was not met because Sydney hasn't fully articulated her fears about change. Client's objective was not met as Sydney still feels unsure about the benefits of exploring her feelings.",
+          "client_utterance": "I keep thinking about how nice it would be to feel lighter, but then I wonder if I really can let go of control. What if I start feeling anxious again? It just feels like a risk I’m not sure I want to take.",
+          "therapist_utterance": "It's completely understandable to feel that way; the fear of slipping back into anxiety is a powerful concern. Let’s explore what that risk looks like for you and what it would mean to take that step. Can you share more about what losing control feels like and how it connects to your past experiences?",
+          "therapist_use": "Open-ended question: used to invite deeper exploration of Sydney's fears regarding change."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the client has yet to articulate any specific reasons for wanting to change. Client objective not met since they haven't fully examined their feelings about the situation.",
-          "client_utterance": "I guess if I faced my anxiety, I might be able to connect with people better and not feel so isolated. But then I worry that it could lead to more anxiety if I open up too much.",
-          "therapist_utterance": "That’s a valid concern; it’s tough to weigh the potential positives against the fear of feeling more anxious. Can we think about what being more connected means for you and how that relates to your values?",
-          "therapist_use": "Reflective listening: to help the client articulate their feelings about connection and values."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Sydney has not yet articulated her reasons for wanting change clearly. Client's objective was not met because she still feels conflicted about the process.",
+          "client_utterance": "Losing control feels like everything could unravel, especially when I think about how I’ve struggled in the past. I don’t want to go back to feeling like I did before college. But sometimes, I think maybe facing those fears could help me break this cycle.",
+          "therapist_utterance": "It’s insightful that you’re recognizing the cycle and considering facing those fears. What would it look like for you to confront those past feelings in a way that feels safe? Let’s talk about what you might need to feel secure while exploring this.",
+          "therapist_use": "Exploring Ambivalence: used to help Sydney articulate her fears while also acknowledging her desire for change."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the client hasn't yet listed advantages and disadvantages of changing behavior. Client objective not met since they are still conflicted about what they truly want.",
-          "client_utterance": "Being connected would make me feel less alone, but I also fear that it might open up a whole new set of vulnerabilities. I just don’t know if I can handle that right now.",
-          "therapist_utterance": "It sounds like you’re caught between wanting connection and fearing the vulnerability that comes with it. What do you think are some of the costs of staying in this place of isolation versus the potential costs of reaching out?",
-          "therapist_use": "Decisional balance discussion: to help the client weigh the costs of isolation and connection."
+          "reason_for_ending": "KEEP: Therapist's objective was not met since Sydney hasn't fully visualized how to confront her fears. Client's objective was not met as she still expresses uncertainty about the process.",
+          "client_utterance": "I guess if I could figure out how to face those feelings, it might actually help me move forward. But it’s hard to picture how that would work without feeling overwhelmed. I want to believe it’s possible, but I keep doubting myself.",
+          "therapist_utterance": "Doubting yourself is a common part of this journey, and it’s okay to feel that way. Let's take a moment to think about what small steps could look like in confronting those feelings. What’s one thing you could try that feels manageable?",
+          "therapist_use": "Encouraging small steps: used to help Sydney envision manageable actions toward confronting her anxiety."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the client hasn't identified specific thoughts related to their anxiety and control. Client objective not met since they are still feeling conflicted about their feelings.",
-          "client_utterance": "I think staying isolated feels safer, but I can see how it limits my happiness. I’m just really scared that if I let my guard down, it’ll all come crashing down again.",
-          "therapist_utterance": "That fear of losing control is completely understandable, especially given your past experiences. What would it look like for you to let some of that guard down while still feeling safe?",
-          "therapist_use": "Exploring ambivalence: to help the client consider ways to maintain safety while contemplating change."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Sydney has not yet identified specific manageable steps. Client's objective was not met because she still feels overwhelmed by her doubts.",
+          "client_utterance": "Maybe I could start by just acknowledging those feelings when they come up instead of pushing them away. But even thinking about that feels like a lot, and I’m not sure how to handle it when it gets too intense.",
+          "therapist_utterance": "Acknowledging your feelings is a powerful first step, and it’s okay to approach this gradually. What if you set aside a few moments each day just to check in with yourself? It could help you build that awareness without feeling overwhelmed.",
+          "therapist_use": "Pros and Cons Analysis: used to help Sydney weigh the benefits of acknowledging her feelings against the risks she perceives."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the client hasn't fully articulated their core values. Client objective not met since they are still hesitant about discussing their feelings and fears.",
-          "client_utterance": "Maybe it would help if I could identify what I really value, but I feel lost in that process. It’s hard to see how I can balance my need for control with what I actually want.",
-          "therapist_utterance": "Finding clarity about your values can be a significant step. What do you think are the things that matter most to you in life, and how might they guide your decisions moving forward?",
-          "therapist_use": "Encouraging values exploration: to help the client clarify their core values related to change."
+          "reason_for_ending": "KEEP: Therapist's objective was not met since Sydney has not expressed confidence in her ability to follow through. Client's objective was not met as she still feels hesitant about implementing her plan.",
+          "client_utterance": "Setting aside a moment each day sounds doable, but I worry I won't stick to it. What if I forget or get too caught up in my thoughts? It feels like another way to let myself down.",
+          "therapist_utterance": "It’s completely natural to worry about consistency, especially when you’re trying something new. Remember, it’s okay if you forget or miss a day; the goal is to be gentle with yourself. How might you remind yourself to take those moments for self-check-in?",
+          "therapist_use": "Decisional Balance Discussion: used to facilitate Sydney's reflection on the potential pros and cons of her plan."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as the client hasn’t voiced any specific reasons for wanting change. Client objective not met since they are still struggling to articulate their feelings.",
-          "client_utterance": "I value my happiness and the ability to feel free in my relationships. But I’m still scared that change might mean losing control.",
-          "therapist_utterance": "It’s great that you’re identifying happiness and freedom as core values. How do you think those values could help you navigate the changes you’re considering, despite the fear of losing control?",
-          "therapist_use": "Developing discrepancy: to highlight the contrast between core values and current behaviors."
+          "reason_for_ending": "KEEP: Therapist's objective was not met as Sydney hasn’t developed a clear reminder strategy. Client's objective was not met because she still feels uncertain about her commitment to the plan.",
+          "client_utterance": "I think having a reminder would help, but I’m not sure what would work for me. Maybe setting an alarm on my phone or writing it down somewhere? It just feels like another task on my plate.",
+          "therapist_utterance": "Those are great ideas, and it’s smart to think of practical reminders. Let’s explore how you can integrate those reminders into your routine without feeling like it’s an added burden. What’s one way to make this feel easier?",
+          "therapist_use": "Eliciting Change Talk: used to encourage Sydney to brainstorm practical solutions that resonate with her."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met because the client has started to articulate their feelings about change. Client objective met as they have identified their core values and expressed a desire to explore further.",
-          "client_utterance": "I think realizing that my values are tied to my happiness is a good step. I want to explore how I can feel more in control without letting my anxiety run the show.",
-          "therapist_utterance": "That’s a significant insight, Sydney! Recognizing that your values align with happiness is a powerful motivator for change. Let’s continue to explore ways to navigate this journey together.",
-          "therapist_use": "Eliciting change talk: to strengthen the client’s motivation by acknowledging their insights."
+          "reason_for_ending": "MOVE: Therapist's objective was met as Sydney has begun to articulate her plan and potential reminders. Client's objective was met because she expressed a willingness to implement the plan and explore her feelings.",
+          "client_utterance": "I think if I set an alarm and tied it to something I already do each day, that might be easier. It feels good to have a plan I can actually see myself following through. I’m ready to give this a try.",
+          "therapist_utterance": "That sounds like a solid plan, Sydney! You’re taking a meaningful step toward understanding your feelings, and it’s wonderful to see your readiness to try this out. I believe you have the strength to navigate this journey.",
+          "therapist_use": "Affirmation: used to reinforce Sydney's commitment to the plan and acknowledge her readiness to change."
         }
       ]
     },
@@ -251,22 +253,22 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Strengthen Sydney's commitment to change and explore her readiness to take action.",
+          "objective": "Strengthen Sydney's commitment to change and explore her readiness to implement her action plan.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Encourage Sydney to articulate her reasons for wanting to change, emphasizing her values and goals.",
-                "Ask open-ended questions that prompt her to express her commitment, such as 'What changes do you see as important for your happiness?'",
-                "Reflect back her statements of commitment to reinforce her motivation."
+                "Ask Sydney to articulate her reasons for wanting to change and how her current situation affects her happiness.",
+                "Encourage her to express commitment by stating specific changes she intends to make in the near future.",
+                "Reinforce her motivations by highlighting the positive aspects of her past transformations."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Discuss the specific steps Sydney feels ready to take, helping her to visualize her action plan.",
-                "Use scaling questions to assess her confidence in making these changes, such as 'On a scale of 1-10, how confident do you feel about starting these changes?'",
-                "Validate her feelings of uncertainty and explore what support she might need to enhance her confidence."
+                "Facilitate a discussion about her confidence in implementing her action plan by asking her to rate her readiness on a scale of 1 to 10.",
+                "Identify specific areas where she feels less confident and help her brainstorm ways to address these concerns.",
+                "Validate her feelings of uncertainty while emphasizing her previous successes."
               ]
             }
           ]
@@ -276,72 +278,77 @@
             {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaborate with Sydney to create a detailed action plan with specific, small, and manageable steps.",
-                "Identify potential barriers she foresees and brainstorm realistic coping strategies to address those barriers.",
-                "Set a timeline for each step to create accountability while allowing for gradual progress."
+                "Collaborate with Sydney to set specific, achievable goals related to managing her anxiety and physical symptoms.",
+                "Break down her goals into smaller, manageable steps, ensuring they align with her strengths and resources.",
+                "Discuss potential barriers she may encounter and develop coping strategies for each identified barrier."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Behavior Experiment",
               "instructions_for_therapist": [
-                "Work with Sydney to identify and practice new coping strategies that can help her manage anxiety and fear of failure.",
-                "Encourage her to engage in behavioral experiments to test her beliefs about control and worthiness, such as trying new social activities or self-care routines.",
-                "Discuss relapse prevention strategies, identifying triggers that might lead her back to old patterns and planning responses."
+                "Design a behavior experiment where Sydney can test her beliefs about control and the fear of losing her current happiness.",
+                "Encourage her to document her feelings and physical symptoms before and after trying a new behavior related to her action plan.",
+                "Review the outcomes together to evaluate her automatic thoughts and reinforce learning."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In developing this therapy plan, I first identified Sydney's core beliefs related to helplessness and unlovability, which impact her readiness for change. Given her resistance profile, I chose MI strategies that would validate her feelings while fostering commitment. Initially, I focused on strengthening her commitment language to help her articulate her motivations for change, recognizing it as a way to empower her. I then explored her confidence and readiness, utilizing scaling questions to guide her in assessing her feelings about taking action. For the CBT interventions, I prioritized action planning to create a structured and realistic approach to change, collaborating with Sydney to ensure the steps were manageable. I included coping strategy development to provide her with practical tools to manage her anxiety and reinforce her self-efficacy. This combination of MI and CBT interventions targets both her emotional resistance and her practical barriers, fostering a sense of agency and preparation for upcoming changes.",
-        "progress_marker": "Sydney will complete a written action plan outlining her first steps and coping strategies, which will be reviewed in the next session."
+        "therapist_reasoning": "In developing this plan, I first acknowledged Sydney's preparation phase, where she expresses intention yet grapples with uncertainty. Using MI strategies, I aimed to strengthen her commitment to change by facilitating discussions about her motivations and readiness, allowing her to articulate her goals. This approach addresses her resistance by validating her feelings and emphasizing her past successes. Next, I applied CBT techniques, specifically action planning and behavior experiments, to create a structured yet flexible framework for change. This allows Sydney to visualize concrete steps she can take while exploring her fears about losing control and happiness. By breaking down her goals into manageable steps, I can help her build self-efficacy and confidence gradually. The combination of MI and CBT is designed to enhance her readiness and empower her to confront potential barriers without feeling overwhelmed, fostering a collaborative and supportive therapeutic environment.",
+        "progress_marker": "Sydney successfully identifies and articulates at least three specific action steps she plans to take in the next week, as well as one potential barrier and coping strategy."
       },
       "client_plan": {
-        "awareness": "I recognize that my anxiety and fear of losing control are affecting my happiness and well-being.",
-        "motivation": "I feel a strong desire to improve my situation and avoid returning to a place of unhappiness.",
-        "openness": "I am willing to discuss my thoughts and feelings with my therapist, although I still have some reservations.",
-        "resistance": "I often doubt the effectiveness of understanding my symptoms, which frustrates me and makes me hesitant to fully commit to change."
+        "phase_of_change": "preparation",
+        "client_objective": "I hope to explore practical strategies for managing my anxiety and maintaining my well-being.",
+        "client_state": {
+          "awareness": "I recognize that my anxiety and physical symptoms are deeply intertwined with my feelings of control and self-worth.",
+          "motivation": "I feel a strong desire to improve my situation and maintain the positive changes I've made.",
+          "openness": "I am willing to discuss my thoughts and emotions with my therapist, although I still have some reservations.",
+          "resistance": "I experience significant doubt about whether I can sustain these changes and fear that my past struggles will resurface."
+        },
+        "client_reasoning": "I've come to realize that my anxiety and physical symptoms are not just random occurrences; they are deeply linked to my fears of losing control and feeling unlovable. I want to improve my situation because I know that I deserve to feel happy and healthy, but I can't shake the feeling that something bad is always lurking around the corner. Therapy has helped me see that change is possible, and I want to explore practical strategies to manage my anxiety better. However, there's still a part of me that doubts whether I can maintain this change or if I'm just setting myself up for failure again. I know I need to confront these fears and work through them, but it’s scary to think about what might happen if I let go of the control I've clung to for so long."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Sydney has not yet articulated her specific action steps. Client objective not met as Sydney still feels uncertain about her readiness to change.",
-          "client_utterance": "I’ve been thinking about what you said regarding my values, but I still feel hesitant. I want to feel less anxious and more connected, but coming up with concrete steps feels overwhelming. I guess I need more time to figure out how to move forward without feeling like I’m losing control.",
-          "therapist_utterance": "It’s completely normal to feel overwhelmed when trying to create a plan for change. Let’s take a moment to break it down into smaller pieces. What’s one small step you feel you could take toward feeling more connected without feeling like you’re losing control?",
-          "therapist_use": "Open-ended inquiry: used to encourage Sydney to think about manageable steps toward her goals."
+          "reason_for_ending": "KEEP: Therapist objective not met as Sydney hasn't articulated specific action steps yet. Client objective not met as Sydney hasn't explored practical strategies for managing anxiety.",
+          "client_utterance": "I've been thinking about that daily check-in, but I'm still not sure how I can make it a habit. I feel like I might forget or just skip it when I get anxious. What if I can't remember to do it?",
+          "therapist_utterance": "It's totally normal to worry about forgetting, especially when you're stressed. Perhaps we can think of some creative ways to remind you that feel less like a chore and more like a gentle nudge. What are some routines you already have that we could tie this check-in to?",
+          "therapist_use": "Exploring connection to existing routines: helps to integrate new habits into Sydney's life."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Sydney has not yet expressed confidence in taking action. Client objective not met as Sydney remains hesitant and hasn't identified a specific step.",
-          "client_utterance": "I suppose reaching out to a friend might help, but I worry about how vulnerable that would make me feel. What if they don’t understand or it just makes my anxiety worse? I guess I’m still wrestling with the idea of being open with others.",
-          "therapist_utterance": "Those feelings of vulnerability are understandable, especially when it comes to reaching out. It’s important to consider both the potential benefits and risks. If you were to reach out to a friend, what are some things you could say to make it feel safer for you?",
-          "therapist_use": "Exploring confidence and readiness: to help Sydney consider how to approach vulnerability in a safe manner."
+          "reason_for_ending": "KEEP: Therapist objective not met as Sydney still hasn't set specific action steps. Client objective not met as practical strategies remain unclarified.",
+          "client_utterance": "I guess if I tie it to something I do every morning, like brushing my teeth, that could work. But I'm worried that if I miss a day, it’ll feel like I've failed. How do I cope with that feeling?",
+          "therapist_utterance": "That’s a great idea—tying it to a daily routine can definitely help. If you happen to miss a day, remember that it’s okay; you’re not failing. What if we brainstorm a phrase or mantra you could remind yourself of to help when those feelings of failure creep in?",
+          "therapist_use": "Coping strategy development: focuses on building resilience and self-compassion for setbacks."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Sydney has yet to articulate a clear action plan. Client objective not met as Sydney still feels uncertain about the outcome of reaching out.",
-          "client_utterance": "Maybe I could just start by sharing a little about my feelings without going too deep into everything. But I still feel hesitant about how they might react. It’s hard to find that balance between being open and protecting myself.",
-          "therapist_utterance": "That sounds like a thoughtful approach, starting small can help you ease into the process. How would you feel about practicing what you might say to your friend? This can help you feel more prepared and confident.",
-          "therapist_use": "Action planning: to help Sydney practice her approach and build confidence in her ability to communicate her feelings."
+          "reason_for_ending": "KEEP: Therapist objective not met as Sydney has yet to articulate concrete action steps. Client objective not met as practical strategies for managing anxiety aren't fully explored.",
+          "client_utterance": "I like the idea of having a mantra, but I can’t think of one that would feel right for me. I don’t want to sound cheesy, but I know I need something to keep me grounded. Maybe something about being okay with imperfection?",
+          "therapist_utterance": "That's a wonderful direction! Embracing imperfection is a powerful message. How about we work together to create a phrase that resonates with you, something like, 'Progress over perfection'? You can tweak it until it feels just right.",
+          "therapist_use": "Collaborative phrase crafting: empowers Sydney to personalize her coping strategy."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Sydney has not yet committed to taking action. Client objective not met as Sydney still feels unsure about her ability to manage the conversation.",
-          "client_utterance": "Practicing it sounds helpful, but I still feel worried about what if it doesn’t go well. I want to feel in control of the situation, but I also know I can’t predict how they will respond. I guess I need to accept that uncertainty is a part of reaching out.",
-          "therapist_utterance": "Accepting that uncertainty can be part of the process is a significant realization. What if we worked on some coping strategies together to help you manage that anxiety when you do reach out? Identifying those strategies can empower you moving forward.",
-          "therapist_use": "Coping strategy development: to equip Sydney with tools to manage her anxiety during potential interactions."
+          "reason_for_ending": "KEEP: Therapist objective not met as Sydney has not yet articulated specific action steps. Client objective not met as practical strategies still need refinement.",
+          "client_utterance": "I think 'I am allowed to be imperfect' could work. It feels more authentic to me. But I still feel unsure about how to actually start this daily check-in.",
+          "therapist_utterance": "That’s a fantastic mantra, Sydney! Now, let’s break down the daily check-in into very simple steps. How about starting with just one minute of quiet reflection, where you can say your mantra and check in with how you’re feeling, without any pressure to do more?",
+          "therapist_use": "Action breakdown: simplifies the process to encourage Sydney's engagement."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Sydney has not yet established a detailed action plan. Client objective not met as Sydney feels she needs more support before taking action.",
-          "client_utterance": "I think having those strategies could definitely help. But I still feel like I’m not quite ready to take that step of reaching out just yet. Maybe I could work on those coping strategies first before I decide to reach out.",
-          "therapist_utterance": "That’s a wise approach, focusing on building your coping skills first. What specific coping strategies do you think would be most helpful for you to practice? We can create a plan for those before you decide to reach out.",
-          "therapist_use": "Action planning: to collaboratively create a plan for practicing coping strategies before taking further steps."
+          "reason_for_ending": "KEEP: Therapist objective not met as Sydney hasn't clearly defined her action steps. Client objective not met as strategies remain vague.",
+          "client_utterance": "One minute sounds manageable, but I still worry that I won't stick to it. What if I forget to do it or feel too anxious? It feels like a lot to ask of myself.",
+          "therapist_utterance": "It’s completely normal to feel anxious about trying something new. Remember, the goal is to be gentle with yourself. If you forget, it doesn’t mean you’ve failed; it just means you can try again tomorrow. What might help you overcome that anxiety when you think about doing this check-in?",
+          "therapist_use": "Validating feelings of anxiety: supports Sydney in normalizing her experiences."
         },
         {
-          "reason_for_ending": "KEEP: Therapist objective not met as Sydney has not yet committed to a timeline for her coping strategies. Client objective not met as Sydney has not yet defined her next steps.",
-          "client_utterance": "I think practicing deep breathing and maybe journaling could be good starts for me. I just need to be consistent with it, but I worry about how to keep myself accountable. I’m not sure how to set a timeline for that.",
-          "therapist_utterance": "Setting a timeline could help you stay accountable and make your plans feel more tangible. How about we set a goal for practicing those strategies a few times a week? We can also think about how you can track your progress.",
-          "therapist_use": "Action planning: to establish a timeline and accountability for practicing coping strategies."
+          "reason_for_ending": "KEEP: Therapist objective not met as Sydney still hasn't articulated specific action steps. Client objective not met as practical strategies for managing anxiety remain vague.",
+          "client_utterance": "Maybe I could set a reminder on my phone, something that feels encouraging instead of overwhelming. I think if I start with that, it could help me feel more secure about the whole process.",
+          "therapist_utterance": "That sounds like a great plan! Having an encouraging reminder can provide that extra nudge you need. Let’s also think about what else you could include in your check-in, like a brief moment to reflect on something positive from your day.",
+          "therapist_use": "Encouraging proactive steps: reinforces Sydney's agency in managing her anxiety."
         },
         {
-          "reason_for_ending": "MOVE: Therapist objective met as Sydney has articulated a plan for her coping strategies. Client objective met as Sydney has expressed a willingness to take actionable steps.",
-          "client_utterance": "That sounds like a good plan. I can commit to practicing those strategies a few times a week and tracking my progress. I feel more prepared to take these steps, knowing I have something to work on.",
-          "therapist_utterance": "That’s fantastic, Sydney! You’ve made a clear plan, and it sounds like you’re feeling more empowered to take action. I’m looking forward to seeing how these strategies work for you in our next session.",
-          "therapist_use": "Strengthening commitment language: used to reinforce Sydney's motivation and readiness for change."
+          "reason_for_ending": "MOVE: Therapist objective met as Sydney identified specific action steps. Client objective met as practical strategies for managing anxiety were explored.",
+          "client_utterance": "I feel like I have a clearer picture now! I’ll tie my check-in to my morning routine, use my mantra, and set a reminder on my phone to help me remember. I’m excited to try this out!",
+          "therapist_utterance": "That's wonderful to hear, Sydney! You’ve laid out a solid plan that feels entirely achievable. I believe you’re well on your way to managing your anxiety more effectively, and I’m here to support you in this journey.",
+          "therapist_use": "Affirmation of progress: recognizes Sydney's commitment and readiness for change."
         }
       ]
     }

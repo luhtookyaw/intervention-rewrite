@@ -12,34 +12,34 @@
       "therapist_plan": {
         "phase_of_therapy": "pre-contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Increase Sarah's awareness of her feelings of isolation and the impact of her relationship dynamics without pressuring her to change.",
+          "objective": "Build rapport and increase Sarah's awareness of her emotional state and the impact of her behaviors related to her relationship with Amelia.",
           "strategies": [
             {
               "strategy_name": "Reflective Listening",
               "instructions_for_therapist": [
-                "Listen attentively to Sarah's concerns and feelings about her relationship with Amelia.",
-                "Paraphrase her statements to ensure understanding and validate her emotions, e.g., 'It sounds like you feel overwhelmed managing everything alone.'"
+                "Listen attentively to Sarah's concerns about her feelings of isolation and her relationship with Amelia.",
+                "Paraphrase her statements to show understanding, such as 'It sounds like you feel very alone when Amelia is busy and that this is really affecting you.'"
               ]
             },
             {
               "strategy_name": "Expressing Empathy",
               "instructions_for_therapist": [
-                "Acknowledge Sarah's feelings of frustration and sadness about her situation.",
-                "Use empathic statements such as, 'It must be really tough to feel so alone while Amelia is busy.'"
+                "Acknowledge Sarah's feelings of frustration and helplessness regarding her responsibilities and her relationship.",
+                "Use statements like 'I can see how overwhelming it is for you to manage everything at home while feeling disconnected from Amelia.'"
               ]
             },
             {
               "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Gently explore the gap between Sarah's current feelings of isolation and her values of connection and support.",
-                "Ask reflective questions like, 'How do you think your current situation aligns with what you want in your relationships?'"
+                "Help Sarah explore the gap between her current feelings of isolation and her values around connection and support.",
+                "Ask questions like 'What do you wish your relationship with Amelia felt like?' to encourage reflection on her deeper desires."
               ]
             },
             {
               "strategy_name": "Raising Awareness",
               "instructions_for_therapist": [
-                "Encourage Sarah to reflect on her thoughts and feelings when Amelia is unavailable.",
-                "Prompt her to consider how these experiences connect to her past attachment issues."
+                "Encourage Sarah to articulate her emotions and thoughts without judgment.",
+                "Facilitate discussions on how her automatic thoughts might be affecting her feelings and behaviors."
               ]
             }
           ]
@@ -47,84 +47,91 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Identifying Automatic Thoughts",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Help Sarah articulate her automatic thoughts when she feels anxious or worried about Amelia.",
-                "Encourage her to record these thoughts to identify patterns."
+                "Ask Sarah to provide evidence for her automatic thoughts about Amelia not loving her.",
+                "Guide her to consider alternative explanations for Amelia's busy schedule."
               ]
             },
             {
-              "technique_name": "Recognizing Cognitive Distortions",
+              "technique_name": "Reality Testing",
               "instructions_for_therapist": [
-                "Educate Sarah on common cognitive distortions, such as catastrophizing and personalization.",
-                "Discuss examples from her own thinking, such as believing 'something bad must have happened to Amelia' when she doesn't hear from her."
+                "Encourage Sarah to examine the reality of her situation by discussing her perceptions versus actual events.",
+                "Facilitate reflection on past experiences where her fears of abandonment were proven incorrect."
               ]
             },
             {
-              "technique_name": "Functional Analysis of Behavior",
+              "technique_name": "Alternative Perspective",
               "instructions_for_therapist": [
-                "Explore with Sarah how her behaviors, like texting Amelia, are attempts to cope with her feelings of loneliness.",
-                "Discuss the short-term relief these behaviors provide and their long-term effects on her emotional state."
+                "Help Sarah consider how she might view the situation differently, focusing on Amelia's commitments rather than personal feelings of neglect.",
+                "Ask her to think about how others might view her situation."
+              ]
+            },
+            {
+              "technique_name": "Continuum Technique",
+              "instructions_for_therapist": [
+                "Introduce a continuum of feelings regarding her relationship with Amelia, from very negative to very positive.",
+                "Help Sarah identify where she currently stands and where she might want to move towards in terms of her feelings."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In approaching Sarah's therapy, I started by acknowledging her resistance, which is rooted in her frustration and the feeling of being misunderstood. Using motivational interviewing strategies, I focused on reflective listening to validate her experiences and express empathy towards her feelings of isolation. This creates a safe space for Sarah to open up without feeling pressured to change. I also aimed to develop discrepancy by gently guiding her to reflect on the contrast between her feelings of loneliness and her values regarding connection. This aligns with her pre-contemplation phase, as it encourages her to think about her situation without pushing her toward immediate change. Simultaneously, I incorporated cognitive behavioral techniques by helping her identify automatic thoughts and recognize cognitive distortions. This helps Sarah gain insight into her emotional drivers and coping strategies without creating resistance. The aim is to foster awareness and curiosity about her feelings and behavior patterns, setting the groundwork for potential future change.",
-        "progress_marker": "Sarah begins to articulate her feelings of isolation and recognizes recurring thought patterns related to her relationship with Amelia."
+        "therapist_reasoning": "The therapist begins by utilizing motivational interviewing strategies to establish rapport and reduce Sarah's defensiveness. Reflective listening is employed to validate her feelings of loneliness, which encourages her to express her experience without feeling judged. The therapist then expresses empathy to acknowledge the emotional burden Sarah carries, reinforcing the therapeutic alliance. Developing discrepancy helps Sarah explore the conflict between her feelings and her values regarding connection, prompting self-reflection. Raising awareness serves to illuminate her cognitive patterns, allowing her to articulate her thoughts and feelings. In parallel, CBT techniques are introduced to facilitate understanding. Evidence-based questioning helps Sarah challenge her automatic thoughts about Amelia's feelings toward her. Reality testing allows her to reassess her perceptions based on past experiences. The alternative perspective technique encourages cognitive flexibility, while the continuum technique aids in identifying her emotional state. These strategies are crucial for reducing resistance and fostering a non-judgmental space for exploration.",
+        "progress_marker": "Sarah begins to articulate her feelings more openly and shows signs of increased awareness of her automatic thoughts and emotional responses."
       },
       "client_plan": {
         "phase_of_change": "pre-contemplation",
-        "client_objective": "I hope to talk about my feelings without feeling pressured to change anything.",
+        "client_objective": "I hope to just talk about how I feel without anyone pushing me to change.",
         "client_state": {
-          "awareness": "I don't really see my situation as a problem; I think it's just how things are.",
-          "motivation": "I don't feel motivated to change; I just want to get through the day.",
-          "openness": "I'm not very open to discussing my feelings; it feels too overwhelming.",
-          "resistance": "I strongly resist talking about my feelings because it feels too vulnerable."
+          "awareness": "I know something feels off, but I don't see it as a problem that needs fixing.",
+          "motivation": "I don't really want to change anything; I just want to feel better right now.",
+          "openness": "I'm not very open to sharing deeper feelings; I just want to get through this.",
+          "resistance": "I feel defensive about discussing my feelings because they seem overwhelming."
         },
-        "client_reasoning": "I often feel like I'm managing everything on my own, and it's really hard. I think about how Amelia is busy and can't help with the household tasks, but I don't know how to bring it up without sounding needy. It's like I have to keep everything together, and if I admit I'm struggling, it feels like I'm failing. I just don't see how talking about it will help; it feels more comfortable to avoid the topic. It's frustrating because I want to feel better, but every time I think about discussing my feelings, I just get overwhelmed. I worry that if I start unpacking my emotions, it'll just lead to more anxiety. I want to feel understood, but I also feel like I'm just supposed to deal with this myself. Therapy feels both uncomfortable and like a last resort; I want to be heard, but I'm scared of what it means for me."
+        "client_reasoning": "I feel like I should be able to handle everything on my own, especially since Amelia is so busy. It’s hard for me to talk about how lonely I feel when she’s not around because I don’t want to seem needy or clingy. I know I get anxious when I don’t hear from her, but I don’t think anyone really understands what it feels like to be left alone all the time. I’m not sure how to express these feelings without feeling vulnerable. I worry that if I start talking about my feelings, it will just lead to more problems or make things worse. Therapy feels a bit uncomfortable because I don’t want to dig deep into my past and face those attachment issues. I just want to find a way to cope and feel okay without changing too much in my life right now."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Sarah has not fully articulated her feelings of isolation. Client objective was not met as Sarah still feels overwhelmed and resistant to discussing her feelings.",
-          "client_utterance": "I guess I just feel like I have to manage everything on my own. It’s hard to talk about it because I worry Amelia will think I’m being needy. I don't want to burden her with my feelings when she's already so busy.",
-          "therapist_utterance": "It sounds like you're carrying a lot of weight on your shoulders, and you feel hesitant to share that with Amelia. It must be really tough to feel alone in managing everything, especially when you want to support her too. I'm here to listen without any pressure to change things right now.",
-          "therapist_use": "Reflective Listening: to validate Sarah’s feelings of isolation and emphasize that it’s okay to share her concerns."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Sarah hasn't fully articulated her feelings of loneliness. The client objective was not met because Sarah is still holding back on expressing her deeper emotions.",
+          "client_utterance": "I guess I just feel really alone when Amelia is busy. It's like I have to take care of everything at home, and it just gets overwhelming sometimes. I don’t want to be a burden by bringing it up with her.",
+          "therapist_utterance": "It sounds like you feel very alone when Amelia is busy and that this is really affecting you. Managing everything at home while feeling disconnected must be quite overwhelming. I can see how that might make you hesitant to bring it up with her.",
+          "therapist_use": "Reflective Listening: used to validate Sarah's feelings and encourage her to express her experience."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Sarah hasn't yet connected her feelings of isolation to her past experiences. Client objective was not met as Sarah remains resistant to exploring her feelings.",
-          "client_utterance": "I know I feel isolated, but I think it's just how life is right now. I don’t want to think about my past or how it affects me; it feels too overwhelming. I just want to get through the day without feeling like I'm failing.",
-          "therapist_utterance": "I understand that facing those feelings can be overwhelming, and it’s completely okay to want to focus on the day-to-day. But I wonder, how do you think your current feelings connect with what you value in your relationships? It’s important to acknowledge both your feelings and your hopes.",
-          "therapist_use": "Developing Discrepancy: to gently encourage Sarah to reflect on the gap between her feelings of isolation and her values of connection."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Sarah hasn't yet explored the impact of these feelings on her relationship. The client objective was not met because Sarah is still not open to discussing her feelings more deeply.",
+          "client_utterance": "Yeah, it just feels like if I say something, it might make things worse. I don't want to come off as needy or like I can't handle things. I just try to keep busy with my own stuff.",
+          "therapist_utterance": "I can see how overwhelming it is for you to manage everything at home while feeling disconnected from Amelia. It makes sense that you're worried about how she might perceive your feelings. What do you wish your relationship with Amelia felt like instead?",
+          "therapist_use": "Developing Discrepancy: helps Sarah explore the conflict between her feelings and her values regarding connection."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Sarah hasn't made the connection between her feelings and her past attachment issues. Client objective was not met as Sarah still feels resistant to discussing her feelings.",
-          "client_utterance": "I guess I just don't see how talking about it will change anything. It feels more comfortable to avoid the topic, and I don't want to open a can of worms. I worry that if I start unpacking my emotions, it will lead to more anxiety.",
-          "therapist_utterance": "It sounds like you’re really concerned about the potential consequences of opening up. I can see how that would make you hesitant to explore these feelings. But what if we just took small steps to understand what’s happening for you, without any pressure to change?",
-          "therapist_use": "Expressing Empathy: to acknowledge Sarah's fears and hesitations around discussing her feelings."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Sarah hasn't fully reflected on her deeper desires. The client objective was not met because Sarah still seems hesitant to express her feelings openly.",
+          "client_utterance": "I just want to feel connected to her again, like we used to. But I don't know how to bring that up without it sounding like I'm blaming her. It feels complicated.",
+          "therapist_utterance": "It seems like you really value that connection with Amelia and want to restore it. It’s understandable to feel complicated when you’re trying to express those needs. How do you think Amelia might react if you shared these feelings with her?",
+          "therapist_use": "Raising Awareness: encourages Sarah to articulate her emotions and thoughts about her relationship."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Sarah has not yet identified specific automatic thoughts related to her feelings. Client objective was not met as Sarah remains hesitant to engage deeply with her emotions.",
-          "client_utterance": "I think about how Amelia must be busy and can't help with everything. Sometimes I jump to conclusions, like thinking something bad happened if I don’t hear from her. But I don’t want to admit that I feel anxious about it.",
-          "therapist_utterance": "It’s common to jump to those conclusions, especially when feeling anxious and alone. Recognizing those thoughts is an important step, and it’s okay to admit those feelings. How do you feel when those thoughts come up, and what do you think they say about your needs?",
-          "therapist_use": "Identifying Automatic Thoughts: to help Sarah articulate her anxious thoughts and begin recognizing patterns."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Sarah has not yet examined her automatic thoughts about Amelia's feelings. The client objective was not met because Sarah is still holding back from fully expressing herself.",
+          "client_utterance": "I guess I'm just afraid she'll think I'm being clingy. Sometimes I wonder if she really cares about me when I don't hear from her. I don't want to cause problems between us.",
+          "therapist_utterance": "I hear that fear of being perceived as clingy is holding you back from expressing your feelings. It can be tough when you’re feeling disconnected, especially when you care so much. What evidence do you have that suggests Amelia doesn't care about you?",
+          "therapist_use": "Evidence-Based Questioning: encourages Sarah to challenge her automatic thoughts regarding Amelia's feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Sarah has not yet connected her behaviors with her feelings of loneliness. Client objective was not met as Sarah is still reluctant to explore her feelings further.",
-          "client_utterance": "I find myself texting Amelia a lot when I feel lonely. I guess it gives me some relief in the moment, but I worry it might annoy her. I feel like I have to keep everything together, and I don't want to seem needy.",
-          "therapist_utterance": "It seems like those texts might be a way for you to cope with your feelings of loneliness and maintain connection. It's understandable to seek relief, but I wonder how that might affect your emotional state in the long run. What do you think about that behavior?",
-          "therapist_use": "Functional Analysis of Behavior: to explore the coping mechanisms Sarah uses and their long-term emotional effects."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Sarah has not fully examined her perceptions versus reality. The client objective was not met because Sarah is still not openly discussing her feelings.",
+          "client_utterance": "I know she has a lot on her plate, but sometimes it just feels like I'm not important to her. I try to remind myself that she's busy, but those thoughts creep in often.",
+          "therapist_utterance": "It's understandable to feel that way when you don't hear from her for a while. Let’s take a moment to reflect on those feelings; have there been times when you've felt secure in your relationship with Amelia?",
+          "therapist_use": "Reality Testing: helps Sarah reassess her perceptions based on past experiences."
         },
         {
-          "reason_for_ending": "KEEP - Therapist objective was not met because Sarah has not fully explored the impact of her behaviors on her emotional well-being. Client objective was not met as Sarah's feelings remain unexamined.",
-          "client_utterance": "I guess I just feel stuck between wanting to reach out to Amelia and feeling like I shouldn't. I don't want her to think I'm not coping well, even though I sometimes feel like I’m not. It’s all very confusing.",
-          "therapist_utterance": "Feeling stuck in that way is understandably frustrating, especially when you want to maintain your independence while also seeking support. It’s okay to experience confusion about these feelings. What would it look like to talk to Amelia about how you’re feeling, even a little?",
-          "therapist_use": "Raising Awareness: to help Sarah consider the possibility of discussing her feelings with Amelia and the impact of her current state."
+          "reason_for_ending": "KEEP - The therapist's objective was not met as Sarah hasn't yet considered alternative perspectives. The client objective was not met because Sarah is still struggling to express her deeper feelings.",
+          "client_utterance": "Sometimes I remember the good times, but then I get scared it won’t go back to that. I really want to talk to her about how I feel, but I don't know if I can.",
+          "therapist_utterance": "It sounds like there’s a part of you that really wants to connect but is held back by fear. How might you view Amelia's commitments differently? Could her busy schedule be more about her work than about you?",
+          "therapist_use": "Alternative Perspective: encourages cognitive flexibility in viewing Amelia's commitments."
         },
         {
-          "reason_for_ending": "MOVE - Therapist objective was met as Sarah began to articulate her feelings of isolation and consider the impact of her behaviors. Client objective was met as Sarah expressed a desire to talk about her feelings without pressure.",
-          "client_utterance": "I think maybe I do want to explore this more. It’s hard to admit, but I want to feel understood, and maybe talking about it could help me feel less alone. I just need to take it one step at a time.",
-          "therapist_utterance": "That sounds like a meaningful step forward, Sarah. It’s great to hear you’re open to exploring your feelings at your own pace. I'm here to support you as you take those steps.",
-          "therapist_use": "Encouragement: to affirm Sarah's openness to exploration while ensuring she feels supported in her journey."
+          "reason_for_ending": "MOVE - The therapist's objective was met as Sarah has begun to articulate her feelings more openly and show signs of increased awareness. The client objective was met because Sarah is now expressing her desire to talk about her feelings.",
+          "client_utterance": "I think I want to try talking to her about how I've been feeling. I don’t want to keep it bottled up anymore; it’s just hard to get the words out. Maybe I can find a way to bring it up gently.",
+          "therapist_utterance": "That sounds like a significant step for you, wanting to communicate your feelings to Amelia. It's great that you're considering how to approach it gently. What would feel like a safe way to start that conversation?",
+          "therapist_use": "Continuum Technique: helps Sarah identify her emotional state and progress towards expressing her feelings."
         }
       ]
     },
@@ -133,29 +140,29 @@
       "therapist_plan": {
         "phase_of_therapy": "contemplation",
         "motivational_interviewing_plan": {
-          "objective": "Explore and resolve Sarah's ambivalence about her feelings of isolation and her relationship with Amelia.",
+          "objective": "To explore Sarah's ambivalence about change and support her in recognizing her motivations and values.",
           "strategies": [
             {
               "strategy_name": "Exploring Ambivalence",
               "instructions_for_therapist": [
-                "Ask Sarah to express her feelings about her current situation with Amelia, focusing on both the positive and negative aspects.",
-                "Encourage her to share what she likes about her relationship and what frustrates her.",
-                "Validate her feelings and reflect her ambivalence to help her articulate her conflicting thoughts."
+                "Encourage Sarah to discuss her feelings about her current situation and the changes she is contemplating.",
+                "Ask open-ended questions to help her articulate both the pros and cons of changing her behavior.",
+                "Validate her feelings of frustration while helping her explore what aspects of her life she values most."
               ]
             },
             {
               "strategy_name": "Eliciting Change Talk",
               "instructions_for_therapist": [
-                "Prompt Sarah to talk about what she wishes could change in her relationship with Amelia and her feelings of isolation.",
-                "Ask open-ended questions that encourage her to explore her motivations for wanting change.",
-                "Highlight any statements that suggest she is open to making changes."
+                "Prompt Sarah to express any desire, ability, reasons, or need for change.",
+                "Use reflective listening to reinforce her statements that indicate motivation for change.",
+                "Encourage her to visualize a life where her needs are met and explore what that looks like."
               ]
             },
             {
-              "strategy_name": "Decisional Balance Discussion",
+              "strategy_name": "Developing Discrepancy",
               "instructions_for_therapist": [
-                "Facilitate a discussion where Sarah lists the pros and cons of her current coping strategies and her feelings of isolation.",
-                "Encourage her to reflect on how these strategies align with her values and what changes she might consider."
+                "Assist Sarah in identifying discrepancies between her values (e.g., wanting connection and support) and her current behaviors (e.g., feeling isolated).",
+                "Facilitate a discussion on how her current actions may not align with her long-term goals of connection and fulfillment."
               ]
             }
           ]
@@ -163,88 +170,88 @@
         "cbt_plan": {
           "interventions": [
             {
-              "technique_name": "Socratic Questioning",
+              "technique_name": "Cognitive Restructuring",
               "instructions_for_therapist": [
-                "Use open-ended questions to help Sarah examine her automatic thoughts about her relationship with Amelia.",
-                "Ask her to consider alternative explanations for Amelia’s busyness, such as her professional commitments.",
-                "Encourage her to explore the evidence for and against her negative beliefs."
+                "Introduce the concept of cognitive distortions and help Sarah identify her automatic thoughts (e.g., 'She doesn't love me').",
+                "Guide her through decatastrophizing by examining the evidence for and against her thoughts.",
+                "Encourage her to consider alternative, more balanced thoughts that reflect a realistic view of her relationship with Amelia."
               ]
             },
             {
-              "technique_name": "Identifying Cognitive Distortions",
+              "technique_name": "Pros and Cons Analysis",
               "instructions_for_therapist": [
-                "Help Sarah identify specific cognitive distortions in her thinking, such as catastrophizing and all-or-nothing thinking.",
-                "Discuss how these distortions contribute to her feelings of anxiety and helplessness.",
-                "Guide her to reframe these thoughts into more balanced perspectives."
+                "Facilitate a session where Sarah lists the pros and cons of her current behavioral patterns.",
+                "Encourage her to reflect on how her actions align with her values and identify any inconsistencies.",
+                "Use this analysis to foster deeper insight into her ambivalence and motivate her to explore change."
               ]
             },
             {
-              "technique_name": "Examining Underlying Beliefs",
+              "technique_name": "Evidence-Based Questioning",
               "instructions_for_therapist": [
-                "Encourage Sarah to reflect on her core beliefs about being unlovable and needy.",
-                "Explore how these beliefs may be influencing her behaviors and emotions in her relationship.",
-                "Facilitate a discussion on how these beliefs could be challenged."
+                "Pose questions that prompt Sarah to evaluate the validity of her beliefs about being unlovable or unworthy.",
+                "Encourage her to think critically about the evidence supporting her fears of abandonment.",
+                "Help her reframe her beliefs in a way that promotes self-acceptance and self-efficacy."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In working with Sarah, the therapist first recognizes her ambivalence regarding her feelings of isolation and her relationship with Amelia. Using Motivational Interviewing (MI), the therapist initiates the exploration of this ambivalence by encouraging Sarah to express both positive and negative feelings about her situation. This allows her to articulate her conflicts, which is crucial in the contemplation phase. Eliciting change talk is a key strategy, guiding Sarah to verbalize her desires for change, thus increasing her motivation. The decisional balance discussion helps her weigh the pros and cons of her current behaviors, fostering self-awareness and reflection. Concurrently, the therapist employs Cognitive Behavioral Therapy (CBT) techniques, starting with Socratic questioning to challenge her automatic thoughts about Amelia’s absence, fostering critical thinking about her assumptions. Identifying cognitive distortions enables Sarah to recognize patterns in her thinking that contribute to her anxiety. By examining underlying beliefs about her worthiness and neediness, the therapist helps her challenge these core beliefs, enhancing her self-efficacy and confidence in the possibility of change.",
-        "progress_marker": "Sarah begins to articulate her feelings and thoughts about her relationship more openly, showing signs of increased self-awareness and consideration of options for change."
+        "therapist_reasoning": "The therapy plan is structured to first address Sarah's ambivalence towards change by employing Motivational Interviewing (MI) strategies. Exploring ambivalence will allow her to articulate both her feelings of frustration and her desire for connection, facilitating a deeper understanding of her internal conflicts. Eliciting change talk will empower Sarah to express her motivations and visualize a fulfilling life, while developing discrepancy helps her see how her current behaviors conflict with her core values. Incorporating CBT techniques, I will guide Sarah through cognitive restructuring to challenge her automatic negative thoughts and encourage a more balanced perspective. The pros and cons analysis will help her reflect on her behaviors, while evidence-based questioning will support her in critically evaluating her beliefs about self-worth and attachment. This collaborative approach, adapted to her resistance profile, fosters insight and encourages Sarah to explore her ambivalence without feeling pressured to take immediate action.",
+        "progress_marker": "Sarah exhibits increased willingness to discuss her feelings and identifies specific thoughts and beliefs she's ready to explore further."
       },
       "client_plan": {
         "phase_of_change": "contemplation",
-        "client_objective": "I want to explore my feelings of isolation and how they impact my relationship with Amelia.",
+        "client_objective": "I want to explore my feelings of isolation and dependency in my relationship with Amelia.",
         "client_state": {
-          "awareness": "I am starting to see that my feelings of loneliness and anxiety are tied to my need for constant connection and that I often feel overwhelmed by my responsibilities at home.",
-          "motivation": "I want to change my situation and improve my relationship, but I feel scared and unsure about how to start.",
-          "openness": "I am willing to share my thoughts and feelings with my therapist, but I still hold back some of my deeper fears and frustrations.",
-          "resistance": "I feel frustrated and sometimes defensive about discussing my struggles, thinking that no one can truly understand how hard it is for me."
+          "awareness": "I am starting to recognize that my feelings of loneliness and anxiety are linked to my attachment to Amelia and my need for constant connection.",
+          "motivation": "I want to change my feelings of isolation, but I am unsure if I can handle the potential consequences of expressing my needs.",
+          "openness": "I am willing to share my thoughts and feelings with my therapist, though I still feel hesitant about fully opening up.",
+          "resistance": "I feel frustrated and defensive about the idea of change, fearing that it might disrupt my relationship with Amelia."
         },
-        "client_reasoning": "As I sit with my thoughts, I’m beginning to realize that my feelings of loneliness aren’t just about Amelia being busy. I notice how I cling to her out of fear, thinking that if I don't keep in touch, I might lose her. It’s hard to admit that I feel unlovable and that I’m always worried about being abandoned. I want to change this pattern, but I’m terrified of what that might mean for me. What if I make things worse? I also feel frustrated because I think my therapist might not understand the weight of my responsibilities. It’s like I’m at a crossroads, knowing something needs to shift, but I’m not sure I’m ready to take that step. Therapy is helping me reflect on these patterns, but I still feel conflicted and hesitant about what change would look like for me.",
-        "progress_marker": "Increased acknowledgment of feelings of isolation and a desire for change, along with identification of fears and ambivalence."
+        "client_reasoning": "I'm beginning to realize that my feelings of loneliness and anxiety are tied to my attachment to Amelia and how much I rely on her for emotional support. I notice that when she doesn't text or call, I spiral into thoughts that something is wrong or that she doesn't care about me. I feel conflicted because part of me wants to express these feelings to her, but another part fears that it might push her away or create more distance between us. I worry that I will be seen as needy or burdensome if I bring this up. Therapy is helping me reflect on these patterns, but I still feel a lot of resistance. I’m frustrated because I want to change, but I’m scared about what that change might look like and what it might mean for my relationship with Amelia.",
+        "progress_marker": "Client begins to articulate feelings of dependency and recognizes the impact of attachment on her emotional state."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Sarah hasn't fully explored her feelings of isolation. Client's objective not met as she remains hesitant about expressing her deeper fears.",
-          "client_utterance": "I've been thinking more about my feelings when Amelia is away. I feel like I shouldn't rely on her too much, but at the same time, I feel really lonely. I don’t know how to balance those feelings without feeling needy.",
-          "therapist_utterance": "It sounds like you're caught between wanting to maintain your independence and your need for connection with Amelia. Acknowledging that loneliness is a significant part of your experience is an important step. What do you think it would feel like to share some of that with her?",
-          "therapist_use": "Open-ended questioning: to help Sarah explore her feelings and consider sharing them."
+          "reason_for_ending": "KEEP; Therapist's objective was not met because they did not fully explore Sarah's feelings about her fears regarding the conversation with Amelia. Client's objective was not met as Sarah still feels uncertain about expressing her feelings.",
+          "client_utterance": "I think starting the conversation is the hardest part for me. I want to say how I feel, but I'm terrified of what Amelia might think. What if it changes how she sees me? I don't want to risk our relationship.",
+          "therapist_utterance": "It's understandable to feel terrified about starting that conversation, especially given how much you care about your relationship with Amelia. It sounds like you’re worried about the potential consequences of being open with her. What do you think might be the worst thing that could happen if you brought up your feelings?",
+          "therapist_use": "Open-ended questioning: encouraged Sarah to articulate her fears about the conversation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Sarah hasn't articulated her conflicting thoughts about her relationship. Client's objective not met as she hasn't fully examined her feelings and desires for change.",
-          "client_utterance": "I guess I worry that if I tell Amelia how lonely I feel, she might think I'm not handling things well. I don’t want to add to her stress. But part of me knows that keeping it all inside isn’t helping either.",
-          "therapist_utterance": "It's understandable to be concerned about how Amelia might react, especially given her busy schedule. You’re in a tough spot where expressing your feelings feels risky, yet you also recognize the importance of being honest. What would it look like for you to express just a little bit of how you feel, perhaps in a way that feels manageable?",
-          "therapist_use": "Exploring ambivalence: to validate Sarah's concerns while encouraging her to consider taking small steps."
+          "reason_for_ending": "KEEP; Therapist's objective was not met as they did not fully elicit Sarah's change talk regarding her fears. Client's objective was not met because Sarah remains conflicted about how to express her feelings.",
+          "client_utterance": "I guess I worry that if I tell her I'm feeling this way, she might feel pressured or guilty. I don't want her to think I'm blaming her for my feelings. It’s just hard to separate my fears from what’s actually true.",
+          "therapist_utterance": "It makes sense that you'd want to protect Amelia from feeling guilty, as that shows how much you care. Let’s take a moment to reflect on what you need to feel secure in expressing your feelings. What can you consider that might help you frame the conversation in a way that feels safe for both of you?",
+          "therapist_use": "Reflective listening: validated Sarah's concerns while helping her explore her needs for a safe conversation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Sarah hasn't yet listed the pros and cons of her current coping strategies. Client's objective not met as she hasn't fully reflected on her need for change.",
-          "client_utterance": "I think if I reach out to Amelia, it could help me feel less alone in the moment. But then I worry that I’ll just end up feeling more anxious if she doesn’t respond right away. It's just so complicated.",
-          "therapist_utterance": "You’re navigating a complex mix of emotions, and it’s valid to feel both relief and anxiety about reaching out. Let's take a moment to look at the pros and cons of this coping strategy—what do you think are the benefits and downsides of texting her when you feel lonely?",
-          "therapist_use": "Decisional balance discussion: to help Sarah weigh her coping strategies and reflect on their alignment with her values."
+          "reason_for_ending": "KEEP; Therapist's objective was not met because they did not fully assist Sarah in identifying her core values related to the conversation. Client's objective was not met as Sarah is still unsure about her approach.",
+          "client_utterance": "I think I need to express that I miss her and our connection, but I don’t want to come off as needy. I want to be able to articulate that without making it seem like I’m demanding her attention.",
+          "therapist_utterance": "You’re expressing a desire for connection while also being mindful of how you communicate that need. It’s important to find a balance between expressing your feelings and ensuring that Amelia understands your needs without feeling overwhelmed. How might you frame your feelings to emphasize your desire for connection rather than focusing on the absence?",
+          "therapist_use": "Eliciting change talk: prompted Sarah to visualize how to express her needs positively."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Sarah hasn't fully confronted her cognitive distortions. Client's objective not met as she hasn't articulated what changes she might want to consider.",
-          "client_utterance": "I guess the benefit of texting Amelia is that I feel a connection, but then I feel guilty for needing that. It's like I’m constantly battling this voice in my head that tells me I shouldn't be so needy. Sometimes, I just want to scream that I need help!",
-          "therapist_utterance": "It sounds like there’s a lot of internal conflict happening for you, and that voice is quite powerful. Recognizing that you have needs is an important aspect of any relationship. How do you think these feelings of guilt and neediness have shaped your interactions with Amelia?",
-          "therapist_use": "Identifying cognitive distortions: to help Sarah recognize and challenge her beliefs about neediness."
+          "reason_for_ending": "KEEP; Therapist's objective was not met as they have not fully explored the pros and cons of speaking with Amelia. Client's objective was not met since Sarah still feels hesitant about how to proceed.",
+          "client_utterance": "I think if I approach it gently, I can share my feelings without overwhelming her. But I’m still afraid of how she might interpret my need for closeness. What if she feels like she has to take care of me?",
+          "therapist_utterance": "It sounds like you’re thinking about how to communicate your needs in a way that respects both your feelings and Amelia's feelings. That’s a great step, as it shows you are considering her perspective. What are some potential benefits of having this conversation for both of you?",
+          "therapist_use": "Pros and cons analysis: encouraged Sarah to consider the positive outcomes of the conversation."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Sarah hasn't yet identified her underlying beliefs about love and worthiness. Client's objective not met as she hasn't fully explored her motivations for wanting change.",
-          "client_utterance": "Sometimes I feel like if I admit I need Amelia, it means I’m weak or unlovable. It’s hard to reconcile those feelings because I want to be strong for both of us. But I know deep down that everyone has needs.",
-          "therapist_utterance": "It’s powerful that you’re starting to recognize the complexity of strength and vulnerability. Wanting to be strong doesn't mean you can’t also be open about your needs. Let’s delve into those beliefs about love and worthiness to see how they might be influencing your feelings and actions in your relationship.",
-          "therapist_use": "Examining underlying beliefs: to help Sarah reflect on her core beliefs about being unlovable and how they affect her relationships."
+          "reason_for_ending": "KEEP; Therapist's objective was not met because they have not fully developed the discrepancy between Sarah’s values and current behaviors. Client's objective was not met as Sarah still feels apprehensive about taking action.",
+          "client_utterance": "If we talk about it, maybe I could feel more connected, but I also fear it might lead to conflict. I just don’t want to jeopardize what we have, even if it feels lonely at times.",
+          "therapist_utterance": "You’re recognizing that the loneliness you feel might be alleviated through honest communication, despite the fear of conflict. That's a significant awareness. Let’s explore what value connection holds for you and how your current behavior might be keeping you from that connection.",
+          "therapist_use": "Developing discrepancy: helped Sarah identify the conflict between her desire for connection and her current avoidance."
         },
         {
-          "reason_for_ending": "KEEP: Therapist's objective not met as Sarah hasn't yet fully articulated her feelings of ambivalence. Client's objective not met as she hasn't expressed a clear desire for change.",
-          "client_utterance": "I want to change how I feel, but I’m also scared of what that might mean for me. What if I open up and things get worse? I feel like I’m on a tightrope.",
-          "therapist_utterance": "That fear of change can feel overwhelming, especially when you’re unsure about the outcome. It’s okay to feel scared about opening up, and acknowledging that fear is a step forward. What if we explored what 'worse' might look like, and how it could also lead to something better?",
-          "therapist_use": "Exploring ambivalence: to validate Sarah's fears while guiding her to consider the potential for positive change."
+          "reason_for_ending": "KEEP; Therapist's objective was not met because they did not fully address Sarah's automatic thoughts about the situation. Client's objective was not met as Sarah continues to wrestle with fear and uncertainty.",
+          "client_utterance": "I want to believe that Amelia will understand, but there's this voice in my head saying she won't care. I just keep spiraling into these negative thoughts, and it's exhausting.",
+          "therapist_utterance": "It sounds like you’re facing some challenging thoughts that make it harder for you to feel confident about expressing your needs. Let’s take a moment to challenge those thoughts; what evidence do you have that Amelia wouldn’t care about your feelings?",
+          "therapist_use": "Cognitive restructuring: encouraged Sarah to challenge her negative automatic thoughts."
         },
         {
-          "reason_for_ending": "MOVE: Therapist's objective met as Sarah has begun to articulate her feelings and conflicts more openly. Client's objective met as she is expressing a desire for change and understanding of her needs.",
-          "client_utterance": "I think I need to start being honest with Amelia about how I feel. I realize that keeping everything bottled up is making me feel worse, and I want to find a way to connect with her more authentically. I just need to approach it carefully.",
-          "therapist_utterance": "That’s a wonderful realization, Sarah! It sounds like you’re ready to take a step towards being more open with Amelia, and that’s a significant shift. Let's think about how you can approach that conversation in a way that feels manageable for you.",
-          "therapist_use": "Eliciting change talk: to reinforce Sarah's desire for change and support her in taking actionable steps."
+          "reason_for_ending": "MOVE; Therapist's objective was met as they helped Sarah articulate her feelings and explore her fears, leading to deeper insight. Client's objective was met because Sarah expressed a clearer understanding of her emotions and the need for connection, preparing her for action.",
+          "client_utterance": "I think if I can remind myself that Amelia cares about me, it might help me feel more secure in bringing this up. I want to take that step towards expressing my feelings because I know it’s important for both of us.",
+          "therapist_utterance": "That's a significant realization, Sarah. Acknowledging that Amelia cares is an important step in feeling more secure about expressing your feelings. It seems you’re ready to explore how to initiate that conversation in a way that fosters connection.",
+          "therapist_use": "Summarization: reinforced Sarah's insights and readiness to take action toward expressing her feelings."
         }
       ]
     },
@@ -253,29 +260,27 @@
       "therapist_plan": {
         "phase_of_therapy": "preparation",
         "motivational_interviewing_plan": {
-          "objective": "Enhance Sarah's commitment to change and build her confidence in making necessary adjustments in her life.",
+          "objective": "Strengthen Sarah's commitment to her change process by reinforcing her motivations and exploring her confidence in making behavioral adjustments.",
           "strategies": [
             {
               "strategy_name": "Strengthening Commitment Language",
               "instructions_for_therapist": [
-                "Ask Sarah to articulate her reasons for wanting to change and what her ideal life looks like.",
-                "Encourage her to express her commitment to taking specific actions, such as discussing her feelings with Amelia.",
-                "Reinforce any positive statements she makes about her ability to manage changes."
+                "Encourage Sarah to express her reasons for wanting change, emphasizing her desire to feel more connected and less anxious.",
+                "Ask open-ended questions like, 'What would it mean for you to feel more secure in your relationship?' to elicit her commitment to change."
               ]
             },
             {
               "strategy_name": "Exploring Confidence and Readiness",
               "instructions_for_therapist": [
-                "Use open-ended questions to explore Sarah's feelings about the upcoming changes.",
-                "Identify specific fears or uncertainties she has about discussing her needs with Amelia.",
-                "Acknowledge her feelings of frustration and validate her experience to enhance her motivation."
+                "Assess Sarah's confidence in implementing changes by using a scale from 1 to 10, asking her to rate her readiness.",
+                "Discuss specific situations where she has felt capable and successful in managing her anxiety and loneliness."
               ]
             },
             {
               "strategy_name": "Identifying Supports and Resources",
               "instructions_for_therapist": [
-                "Help Sarah identify friends or family members who can support her during this transition.",
-                "Discuss resources or strategies she can use to cope with feelings of loneliness when Amelia is busy."
+                "Help Sarah identify supportive people in her life who can assist her during this transition, including friends or family.",
+                "Discuss practical resources, like support groups or literature on managing attachment issues."
               ]
             }
           ]
@@ -283,87 +288,84 @@
         "cbt_plan": {
           "interventions": [
             {
+              "technique_name": "Behavior Experiment",
+              "instructions_for_therapist": [
+                "Collaborate with Sarah to design a small behavior experiment where she initiates a conversation with Amelia about her feelings.",
+                "Set specific goals for how to approach the conversation and what outcomes to expect, focusing on her emotional safety."
+              ]
+            },
+            {
               "technique_name": "Action Planning",
               "instructions_for_therapist": [
-                "Collaborate with Sarah to create a realistic action plan that includes small, manageable steps.",
-                "Encourage her to schedule specific times to communicate her needs to Amelia, ensuring it feels comfortable for her.",
-                "Set a timeline for these actions to ensure clarity and commitment."
+                "Work with Sarah to create a step-by-step action plan detailing small, achievable changes in her daily routine.",
+                "Include tasks like scheduling specific times to connect with Amelia and planning social activities with friends."
               ]
             },
             {
-              "technique_name": "Coping Strategy Development",
+              "technique_name": "Problem-Solving Skills Training",
               "instructions_for_therapist": [
-                "Work with Sarah to identify coping strategies that can help her manage anxiety when she feels lonely.",
-                "Encourage her to engage in self-soothing activities or hobbies that do not rely on others for validation.",
-                "Discuss how to use positive affirmations to counteract negative automatic thoughts."
-              ]
-            },
-            {
-              "technique_name": "Behavioral Experiments",
-              "instructions_for_therapist": [
-                "Encourage Sarah to experiment with reaching out to Amelia at different times to assess her anxiety levels and responses.",
-                "Help her track her feelings and outcomes to build evidence against her fears of abandonment.",
-                "Debrief after each experiment to discuss what went well and what could be improved."
+                "Guide Sarah through identifying specific barriers she encounters regarding her feelings of isolation.",
+                "Help her brainstorm and evaluate potential solutions to these barriers, reinforcing her agency in the process."
               ]
             }
           ]
         },
-        "therapist_reasoning": "In this preparation phase, I prioritized strengthening Sarah's commitment to change by employing MI strategies that encourage her to vocalize her motivations and goals. I will facilitate discussions that elicit her commitment language, which will help solidify her resolve. Additionally, exploring her confidence and readiness will allow us to identify and address her fears about discussing her needs with Amelia, which is critical given her resistance profile. I aim to validate her frustrations while also focusing on her strengths. For the CBT plan, I implemented action planning to ensure Sarah has clear, manageable steps to follow, thereby reducing overwhelm. Developing coping strategies will empower her to manage anxiety independently, while behavioral experiments will allow her to test the validity of her fears in a safe manner. This systematic approach aims to build her self-efficacy gradually while preparing her for behavioral changes without creating additional resistance.",
-        "progress_marker": "Sarah will track her feelings and progress in implementing her action plan, noting changes in her anxiety levels and relationship dynamics with Amelia."
+        "therapist_reasoning": "The therapy plan for Sarah is tailored to her current Preparation phase, focusing on reinforcing her commitment to change while addressing her feelings of anxiety and isolation. Utilizing Motivational Interviewing (MI), I will employ strategies to strengthen her commitment language by encouraging her to articulate her motivations for change. This is crucial as it fosters an internal drive for her to engage in the process. By exploring her confidence and readiness, I can help her assess her belief in her ability to make these changes, providing a clearer understanding of her strengths. Identifying supports and resources will empower Sarah, making her feel less alone in her journey. Subsequently, I will integrate Cognitive Behavioral Therapy (CBT) interventions, starting with a behavior experiment to help her practice discussing her feelings with Amelia, thus gradually addressing her fears of abandonment. An action plan will provide her with specific steps to take, ensuring that the changes are realistic and manageable. Finally, problem-solving skills training will offer her tools to navigate the practical barriers she faces, enhancing her coping strategies and self-efficacy.",
+        "progress_marker": "Sarah will have a well-defined action plan, increased confidence in her ability to communicate her needs, and identified support resources by the end of this phase."
       },
       "client_plan": {
         "phase_of_change": "preparation",
-        "client_objective": "I want to explore my feelings of isolation and find ways to communicate my needs to Amelia.",
+        "client_objective": "I hope to explore ways to feel less anxious and more connected to Amelia without feeling overwhelmed.",
         "client_state": {
-          "awareness": "I recognize that my feelings of loneliness and anxiety are tied to my attachment issues and my current situation with Amelia.",
-          "motivation": "I feel a strong desire to improve my relationship and my personal well-being, and I'm ready to consider changes.",
-          "openness": "I'm willing to discuss my thoughts and feelings with my therapist, though I still feel some hesitation about being fully honest.",
-          "resistance": "I experience doubts about my ability to make lasting changes and fear that I might not be able to express my needs without causing conflict."
+          "awareness": "I understand that my feelings of loneliness and anxiety are linked to my attachment issues and that my current situation is not sustainable.",
+          "motivation": "I feel a strong desire to improve my emotional well-being and to communicate my needs to Amelia.",
+          "openness": "I am willing to discuss my thoughts and feelings in therapy, and I want to explore potential changes, even though it's daunting.",
+          "resistance": "I still have doubts about whether I can maintain change and fears about how it might affect my relationship with Amelia."
         },
-        "client_reasoning": "I've come to realize that my feelings of loneliness and anxiety are significantly impacting my happiness and my relationship with Amelia. I understand that my attachment issues from childhood are influencing how I react when Amelia is busy and doesn’t stay in touch throughout the day. I know I need to change this pattern because it's not fair to either of us, and I'm starting to believe that I can find ways to cope better. I hope that by expressing my needs more clearly, I can feel less isolated and more connected to Amelia, but I still worry that she might not understand or that I could push her away. Therapy has made me more aware of these dynamics, and while I still feel some reluctance to open up completely, I am feeling more motivated to take steps toward change."
+        "client_reasoning": "I've been reflecting on how isolated I've felt when Amelia is busy, and I've come to realize that my anxiety stems from my past attachment issues. It's hard for me to be alone, and I often feel like I need to keep busy to avoid those feelings. I want to change the way I cope with my loneliness and express my needs to Amelia, but I worry about how she will react. It's scary to think about communicating my feelings because I fear being abandoned or that she won't understand. However, therapy has helped me see that I can take small steps toward feeling more secure and less anxious. I believe that by learning to manage my feelings better, I can improve my relationship with Amelia and myself. I'm hopeful that I can find a way to feel connected without being overly reliant on her."
       },
       "dialogue": [
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met because Sarah has not yet articulated her ideal life or reasons for change. Client's objective was not met as she still feels hesitant about discussing her feelings with Amelia.",
-          "client_utterance": "I've been thinking more about how I feel alone when Amelia is busy. I know I should talk to her about it, but I still worry that it might upset her. I want to express my feelings, but I feel like I’m not ready to take that step yet.",
-          "therapist_utterance": "It's completely understandable to feel that way, Sarah. You're in a tough position where expressing your feelings feels risky, but it's also clear that these feelings of loneliness are weighing on you. What if we talked about what your ideal relationship looks like and how being more open could help you get there?",
-          "therapist_use": "Open-ended questioning: encouraged exploration of Sarah's feelings and ideal relationship."
+          "reason_for_ending": "KEEP; therapist objective not met because Sarah hasn't yet defined her action plan; client objective not met as Sarah is still unsure about how to express her feelings to Amelia.",
+          "client_utterance": "I keep thinking about how I want to talk to Amelia, but I still feel stuck on what to say. I want to express my feelings without overwhelming her, but it's hard to find the right words. How do I even start that conversation without feeling anxious?",
+          "therapist_utterance": "It's completely understandable to feel stuck when thinking about how to start that conversation. Perhaps we can brainstorm together some gentle ways to open up the dialogue with Amelia. What if you began by expressing how much you miss her presence and the connection you used to share?",
+          "therapist_use": "Collaborative brainstorming: used to encourage Sarah to articulate her thoughts for the conversation."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met because Sarah has not yet articulated specific actions she is willing to take. Client's objective was not met as she remains uncertain about how to communicate her needs.",
-          "client_utterance": "I guess I want to feel more connected to Amelia, but I’m scared of how she might react. Sometimes, I imagine her being dismissive, and that makes me want to avoid the conversation altogether. I know I need to work on this, but it feels so daunting.",
-          "therapist_utterance": "It's valid to feel daunted by the prospect of opening up, especially when you're concerned about Amelia's reaction. Remember, though, that vulnerability can often lead to deeper connections. What are some small steps you could take to approach this conversation in a way that feels more comfortable for you?",
-          "therapist_use": "Strengthening Commitment Language: encouraged Sarah to think about manageable steps she could take toward communicating with Amelia."
+          "reason_for_ending": "KEEP; therapist objective not met because Sarah hasn't created a step-by-step action plan; client objective not met as Sarah is still unclear about her approach.",
+          "client_utterance": "That sounds like a good idea, but I'm also worried about how Amelia will react. If I say I miss her, what if she feels guilty for being busy? I don't want to put any pressure on her.",
+          "therapist_utterance": "You're right to consider Amelia's feelings, as it shows your care for her. However, expressing your needs doesn't have to be about blaming her; it can be an invitation for connection. What do you think would help you feel more secure in sharing your feelings without putting pressure on her?",
+          "therapist_use": "Exploring feelings: used to help Sarah articulate her concerns while reframing her perspective."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met because Sarah hasn't identified specific supports or resources for her transition. Client's objective was not met as she still feels overwhelmed by the conversation process.",
-          "client_utterance": "I think I could start by just telling Amelia that I miss her when she's busy. But I still feel like I might be pushing her away by saying that. I don’t want her to feel guilty for being busy with her studies.",
-          "therapist_utterance": "It's great that you're considering how to approach the conversation gently. Expressing that you miss her can open the door for a discussion about your feelings without making her feel guilty. Could you think of a time when you could bring that up, perhaps when she seems more relaxed?",
-          "therapist_use": "Exploring Confidence and Readiness: validated Sarah’s concerns while exploring when she might feel ready to share her feelings."
+          "reason_for_ending": "KEEP; therapist objective not met because Sarah hasn't practiced framing her needs; client objective not met as Sarah still feels hesitant about expressing herself.",
+          "client_utterance": "I think I could say something like, 'I miss you and I wish we could spend more time together.' But what if she takes it the wrong way? I don’t want her to think I’m demanding her time.",
+          "therapist_utterance": "That’s a great start, and you’re framing it in a way that expresses your feelings rather than placing blame. It’s important to remember that sharing your feelings is about fostering understanding, not demanding attention. How might you reassure her that your intention is to strengthen your bond rather than to criticize her busy schedule?",
+          "therapist_use": "Reframing: used to help Sarah see her expression of needs as an opportunity for connection."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met because Sarah hasn't solidified an action plan with specific timelines. Client's objective was not met as she continues to struggle with her fears about communicating her needs.",
-          "client_utterance": "Maybe I could text her when I’m feeling really low, just to reach out and let her know. But I still fear that if she doesn’t respond right away, it’ll just make everything worse. I feel like I’m stuck between wanting to reach out and the fear of being too much.",
-          "therapist_utterance": "You're navigating a tough balance between reaching out and managing your anxiety, and those feelings are perfectly valid. How about we think of a specific time when you'll reach out to her, and we can plan what you might say? This way, the conversation becomes more structured and less intimidating.",
-          "therapist_use": "Action Planning: collaborated with Sarah to create a timeline for reaching out to Amelia."
+          "reason_for_ending": "KEEP; therapist objective not met because Sarah hasn't assessed her confidence in having the conversation; client objective not met as Sarah still feels anxious about the potential outcomes.",
+          "client_utterance": "I guess I could say something like, 'I understand you’re busy, but I really miss our connection.' But I’m still worried about how she might interpret it. What if it makes everything worse?",
+          "therapist_utterance": "It’s normal to have that worry, especially when you care so much about your relationship. Let’s focus on what you might gain from expressing your feelings. What do you think could be the positive effects of having that conversation, even if it feels risky?",
+          "therapist_use": "Exploring potential outcomes: used to help Sarah identify the benefits of expressing her feelings."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met because Sarah has not yet identified any coping strategies for her anxiety. Client's objective was not met as she still feels ambivalent about reaching out to Amelia.",
-          "client_utterance": "I could try reaching out during the weekends when she’s less busy, but I still worry about how I’ll feel. I think if I can distract myself with other activities, it might help ease the anxiety. But I’m still not sure if that’s enough.",
-          "therapist_utterance": "Using distractions can be a helpful strategy, and it's wonderful that you're considering that as a way to cope with your feelings. What are some activities you enjoy that could help you feel more grounded when you're feeling anxious? Also, how can we incorporate reaching out to Amelia into your plan?",
-          "therapist_use": "Coping Strategy Development: helped Sarah identify activities to manage her anxiety and discussed integrating reaching out into her plan."
+          "reason_for_ending": "KEEP; therapist objective not met because Sarah hasn't identified supportive resources; client objective not met as Sarah still feels unsure about her approach.",
+          "client_utterance": "If I talk to her and it goes well, I could feel more connected, but I still feel scared about what could happen. I wish I had someone to talk to about this outside of our conversations. Maybe talking to a friend could help me feel less anxious?",
+          "therapist_utterance": "That's a wonderful idea, reaching out to a friend could provide you with additional support and perspective. It’s great to identify people who can help you navigate these feelings. Would you like to brainstorm some friends you could talk to about your feelings before approaching Amelia?",
+          "therapist_use": "Identifying supports: used to empower Sarah by recognizing her social resources."
         },
         {
-          "reason_for_ending": "KEEP - Therapist's objective was not met because Sarah has not tested any behavioral experiments to manage her anxiety. Client's objective was not met as she has not yet fully committed to expressing her needs.",
-          "client_utterance": "I think if I could start texting her for support when I’m feeling anxious, it might help me feel less isolated. But I'm still scared that I’ll feel worse if she doesn't respond. I feel like I want to try, but I also fear it might backfire.",
-          "therapist_utterance": "It’s completely understandable to have those fears, and it’s great that you’re considering reaching out. Testing the waters with small messages could give you more insight into how that makes you feel. Let's think of a way you can track your feelings after these messages, so you can reflect on what works and what doesn’t.",
-          "therapist_use": "Behavioral Experiments: encouraged Sarah to test messaging Amelia and track her feelings to build evidence against her fears."
+          "reason_for_ending": "KEEP; therapist objective not met because Sarah hasn't devised a step-by-step plan for the conversation; client objective not met as Sarah is still feeling apprehensive.",
+          "client_utterance": "I think I could reach out to a friend for support, but I still want to feel prepared when I talk to Amelia. Maybe I could write down what I want to say beforehand? That might help me feel less anxious.",
+          "therapist_utterance": "Writing down your thoughts is a fantastic way to prepare and can help clarify your feelings. It might make it easier to express yourself when the time comes. What specific points would you like to include in your notes to ensure you communicate your needs effectively?",
+          "therapist_use": "Action planning: used to guide Sarah in preparing for the conversation."
         },
         {
-          "reason_for_ending": "MOVE - Therapist's objective was met as Sarah articulated her commitment to reaching out and tested her strategies. Client's objective was met as she expressed a willingness to communicate her feelings to Amelia.",
-          "client_utterance": "I feel like I’m ready to try reaching out to Amelia with a message about how I’ve been feeling. I know it won’t be easy, but I want to feel more connected to her. This feels like a step I can take, even if it’s just a small one.",
-          "therapist_utterance": "That’s a fantastic realization, Sarah! It’s inspiring to see you ready to take that step toward connection. Remember, every small action counts, and I’m here to support you as you move forward.",
-          "therapist_use": "Strengthening Commitment Language: reinforced Sarah's commitment to take action, validating her readiness for change."
+          "reason_for_ending": "MOVE; therapist objective met as Sarah has defined an action plan and identified supportive resources; client objective met as Sarah feels more prepared to communicate her feelings.",
+          "client_utterance": "I think I have a good plan now! I’ll talk to my friend for support and write down my feelings to share with Amelia. I feel more hopeful about this now, and I really want to make this connection with her.",
+          "therapist_utterance": "That’s wonderful to hear, Sarah! It sounds like you’ve made significant progress in preparing to express your feelings to Amelia. You’ve created a clear plan and identified your support system, which is a strong foundation for moving forward.",
+          "therapist_use": "Celebrating progress: used to reinforce Sarah's commitment and readiness to take action."
         }
       ]
     }
